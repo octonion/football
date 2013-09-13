@@ -1,0 +1,1090 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="WSU" down="1" togo="10" spot="WSU30" context="V,1,10,V30" playid="0,1,0" text="Wyoming wins toss and defers. Weber will receive and defend south." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU30" context="V,1,10,V30" playid="0,2,1" text="WY ball on WY30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY30" context="H,1,10,H30" playid="0,3,2" type="K" text="SCOTT, Jake kickoff 65 yards to the WSU5, out-of-bounds, WSU ball on WSU40." ob="Y" newcontext="V,1,10,V40">
+    <p_ko vh="H" name="SCOTT, Jake" gain="65" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V40,15:00" vh="V" spot="V40" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU40" context="V,1,10,V40" playid="1,1,3" type="R" text="Treyvn Smith rush for no gain to the WSU40 (GARY, Shamiel)." newcontext="V,2,10,V40">
+    <p_ru vh="V" name="Treyvn Smith" gain="0"></p_ru>
+    <p_tk vh="H" name="GARY, Shamiel"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WSU40" context="V,2,10,V40" playid="1,2,4" type="P" text="Cameron Higgins pass complete to Tim Toone for 6 yards to the WSU46 (GIPSON, Tashaun)." newcontext="V,3,4,V46">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Tim Toone" gain="6"></p_pa>
+    <p_tk vh="H" name="GIPSON, Tashaun"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="4" spot="WSU46" context="V,3,4,V46" playid="1,3,5" type="P" text="Cameron Higgins pass incomplete to Tim Toone." newcontext="V,4,4,V46">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Tim Toone"></p_pa>
+   </play>
+   <play hasball="WSU" down="4" togo="4" spot="WSU46" context="V,4,4,V46" playid="1,4,6" type="U" text="Mike Snoy punt 42 yards to the WY12, fair catch by LEONARD, David." newcontext="H,1,10,H12">
+    <p_pu vh="V" name="Mike Snoy" gain="42" in20="Y" fc="LEONARD, David"></p_pu>
+   </play>
+   <drivesum plays="3" yards="6" top="1:29" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,H12,15:00" vh="H" spot="H12" clock="15:00" driveindex="2,6"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WY12" context="H,1,10,H12" playid="2,1,7" clock="13:31" text="WYOMING drive start at 13:31." newcontext="H,1,10,H12">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY12" context="H,1,10,H12" playid="2,2,8" type="R" text="TERRY, Darius rush for 4 yards to the WY16 (Kevin Linehan)." newcontext="H,2,6,H16">
+    <p_ru vh="H" name="TERRY, Darius" gain="4"></p_ru>
+    <p_tk vh="V" name="Kevin Linehan"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="6" spot="WY16" context="H,2,6,H16" playid="2,3,9" type="R" first="R" text="BENJAMIN,Robert rush for 10 yards to the WY26, 1ST DOWN WY (Beau Hadley)." newcontext="H,1,10,H26">
+    <p_ru vh="H" name="BENJAMIN,Robert" gain="10"></p_ru>
+    <p_tk vh="V" name="Beau Hadley"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY26" context="H,1,10,H26" playid="2,4,10" type="P" text="BENJAMIN,Robert pass complete to LEONARD, David for 7 yards to the WY33 (Jordan Brown)." newcontext="H,2,3,H33">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="COMP" rcv="LEONARD, David" gain="7"></p_pa>
+    <p_tk vh="V" name="Jordan Brown"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="3" spot="WY33" context="H,2,3,H33" playid="2,5,11" type="R" text="TERRY, Darius rush for 1 yard to the WY34 (Josh Morris;Kevin Linehan)." newcontext="H,3,2,H34">
+    <p_ru vh="H" name="TERRY, Darius" gain="1"></p_ru>
+    <p_tk vh="V" name="Josh Morris" assist="Y"></p_tk>
+    <p_tk vh="V" name="Kevin Linehan" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="3" togo="2" spot="WY34" context="H,3,2,H34" playid="2,6,12" type="R" first="R" text="TERRY, Darius rush for 10 yards to the WY44, 1ST DOWN WY (Jordan Brown)." newcontext="H,1,10,H44">
+    <p_ru vh="H" name="TERRY, Darius" gain="10"></p_ru>
+    <p_tk vh="V" name="Jordan Brown"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY44" context="H,1,10,H44" playid="2,7,13" type="P" text="BENJAMIN,Robert pass complete to TERRY, Darius for 2 yards to the WY46 (Beau Hadley)." newcontext="H,2,8,H46">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="COMP" rcv="TERRY, Darius" gain="2"></p_pa>
+    <p_tk vh="V" name="Beau Hadley"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="8" spot="WY46" context="H,2,8,H46" playid="2,8,14" type="P" first="P" text="BENJAMIN,Robert pass complete to LEONARD, David for 10 yards to the WSU44, 1ST DOWN WY, out-of-bounds (Faron Creighton)." ob="Y" newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="COMP" rcv="LEONARD, David" gain="10"></p_pa>
+    <p_tk vh="V" name="Faron Creighton"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU44" context="H,1,10,V44" playid="2,9,15" type="R" first="R" score="Y" clock="10:17" text="ALEXANDER, A. rush for 44 yards to the WSU0, 1ST DOWN WY, TOUCHDOWN, clock 10:17." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="ALEXANDER, A." gain="44"></p_ru>
+   </play>
+   <play hasball="WY" down="1" togo="0" spot="WSU03" context="H,1,0,V03" playid="2,10,16" type="X" score="Y" text="MCCOY, Austin kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="MCCOY, Austin" qb="MCCOY, Austin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="8" yards="88" top="3:14" driveindex="2" complete="Y"></drivesum>
+   <play hasball="WY" down="1" togo="0" spot="WY30" context="H,1,0,H30" playid="2,11,17" type="K" text="SCOTT, Jake kickoff 65 yards to the WSU5, Bo Bolen return 29 yards to the WSU34 (HALL, Jamichael)." newcontext="V,1,10,V34">
+    <p_ko vh="H" name="SCOTT, Jake" gain="65"></p_ko>
+    <p_kr vh="V" name="Bo Bolen" gain="29"></p_kr>
+    <p_tk vh="H" name="HALL, Jamichael"></p_tk>
+   </play>
+   <drivestart poss="V,V34,10:17" vh="V" spot="V34" clock="10:17" driveindex="3,17"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU34" context="V,1,10,V34" playid="3,1,18" clock="10:17" text="WEBER STATE drive start at 10:17." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU34" context="V,1,10,V34" playid="3,2,19" type="E" text="PENALTY WSU delay of game 5 yards to the WSU29." newcontext="V,1,15,V29">
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="V34" yards="5"></p_pn>
+   </play>
+   <play hasball="WSU" down="1" togo="15" spot="WSU29" context="V,1,15,V29" playid="3,3,20" type="P" first="P" text="Cameron Higgins pass complete to Mike Phillips for 40 yards to the WY31, 1ST DOWN WSU." newcontext="V,1,10,H31">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Mike Phillips" gain="40"></p_pa>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WY31" context="V,1,10,H31" playid="3,4,21" type="E" text="PENALTY WSU false start (Nestor Cruz) 5 yards to the WY36." newcontext="V,1,15,H36">
+    <p_pn vh="V" code="FS" type="false start" name="Nestor Cruz" result="ACCEPT" at="H31" yards="5"></p_pn>
+   </play>
+   <play hasball="WSU" down="1" togo="15" spot="WY36" context="V,1,15,H36" playid="3,5,22" type="P" first="P" score="Y" clock="09:22" text="Cameron Higgins pass complete to Tim Toone for 36 yards to the WY0, 1ST DOWN WSU, TOUCHDOWN, clock 09:22." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Tim Toone" gain="36"></p_pa>
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="WY03" context="V,1,0,H03" playid="3,6,23" type="X" score="Y" text="Mike Snoy kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Mike Snoy" qb="Mike Snoy" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="7"></score>
+   <drivesum plays="2" yards="66" top="0:55" driveindex="3" complete="Y"></drivesum>
+   <play hasball="WSU" down="1" togo="0" spot="WSU30" context="V,1,0,V30" playid="3,7,24" type="K" text="Mike Snoy kickoff 70 yards to the WY0, touchback." newcontext="H,1,10,H20">
+    <p_ko vh="V" name="Mike Snoy" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H20,09:22" vh="H" spot="H20" clock="09:22" driveindex="4,24"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WY20" context="H,1,10,H20" playid="4,1,25" clock="09:22" text="WYOMING drive start at 09:22." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY20" context="H,1,10,H20" playid="4,2,26" type="P" text="BENJAMIN,Robert pass complete to LEONARD, David for 8 yards to the WY28 (Taylor Sedillo)." newcontext="H,2,2,H28">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="COMP" rcv="LEONARD, David" gain="8"></p_pa>
+    <p_tk vh="V" name="Taylor Sedillo"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="2" spot="WY28" context="H,2,2,H28" playid="4,3,27" type="R" first="R" text="TERRY, Darius rush for 4 yards to the WY32, 1ST DOWN WY (Kevin Linehan;Adam Saga-White)." newcontext="H,1,10,H32">
+    <p_ru vh="H" name="TERRY, Darius" gain="4"></p_ru>
+    <p_tk vh="V" name="Kevin Linehan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Adam Saga-White" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY32" context="H,1,10,H32" playid="4,4,28" type="P" first="P" text="BENJAMIN,Robert pass complete to LEONARD, David for 29 yards to the WSU39, 1ST DOWN WY (Blake Keller)." newcontext="H,1,10,V39">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="COMP" rcv="LEONARD, David" gain="29"></p_pa>
+    <p_tk vh="V" name="Blake Keller"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU39" context="H,1,10,V39" playid="4,5,29" type="R" turnover="F" text="GIPSON, Marcell rush for 16 yards to the WSU23, fumble forced by Beau Hadley, fumble by GIPSON, Marcell recovered by WSU Faron Creighton at WSU23." newcontext="V,1,10,V23">
+    <p_ru vh="H" name="GIPSON, Marcell" gain="16"></p_ru>
+    <p_fumb vh="H" name="GIPSON, Marcell" at="V23" frvh="V" frname="Faron Creighton"></p_fumb>
+    <p_tk vh="V" name="Beau Hadley" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="4" yards="57" top="1:26" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="V,V23,09:22" vh="V" spot="V23" clock="09:22" driveindex="5,29"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU23" context="V,1,10,V23" playid="5,1,30" clock="07:56" text="WEBER STATE drive start at 07:56." newcontext="V,1,10,V23">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU23" context="V,1,10,V23" playid="5,2,31" type="P" text="Cameron Higgins pass complete to Joe Collins for 6 yards to the WSU29, out-of-bounds (HENDRICKS,Brian)." ob="Y" newcontext="V,2,4,V29">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Joe Collins" gain="6"></p_pa>
+    <p_tk vh="H" name="HENDRICKS,Brian"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="4" spot="WSU29" context="V,2,4,V29" playid="5,3,32" type="P" text="Cameron Higgins pass incomplete to Tim Toone." newcontext="V,3,4,V29">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Tim Toone"></p_pa>
+   </play>
+   <play hasball="WSU" down="3" togo="4" spot="WSU29" context="V,3,4,V29" playid="5,4,33" type="P" text="Cameron Higgins pass incomplete to Tim Toone." newcontext="V,4,4,V29">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Tim Toone"></p_pa>
+   </play>
+   <play hasball="WSU" down="4" togo="4" spot="WSU29" context="V,4,4,V29" playid="5,5,34" type="U" text="Mike Snoy punt 57 yards to the WY14, LEONARD, David return 14 yards to the WY28 (Brett Felton)." newcontext="H,1,10,H28">
+    <p_pu vh="V" name="Mike Snoy" gain="57"></p_pu>
+    <p_pr vh="H" name="LEONARD, David" gain="14"></p_pr>
+    <p_tk vh="V" name="Brett Felton"></p_tk>
+   </play>
+   <drivesum plays="3" yards="6" top="0:45" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,H28,07:56" vh="H" spot="H28" clock="07:56" driveindex="6,34"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WY28" context="H,1,10,H28" playid="6,1,35" clock="07:11" text="WYOMING drive start at 07:11." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY28" context="H,1,10,H28" playid="6,2,36" type="R" text="TERRY, Darius rush for 1 yard to the WY29 (Gabe Bowers;Joe Larson)." newcontext="H,2,9,H29">
+    <p_ru vh="H" name="TERRY, Darius" gain="1"></p_ru>
+    <p_tk vh="V" name="Gabe Bowers" assist="Y"></p_tk>
+    <p_tk vh="V" name="Joe Larson" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="9" spot="WY29" context="H,2,9,H29" playid="6,3,37" type="R" first="R" text="ALEXANDER, A. rush for 11 yards to the WY40, 1ST DOWN WY (Nick Webb;Gabe Bowers)." newcontext="H,1,10,H40">
+    <p_ru vh="H" name="ALEXANDER, A." gain="11"></p_ru>
+    <p_tk vh="V" name="Nick Webb" assist="Y"></p_tk>
+    <p_tk vh="V" name="Gabe Bowers" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY40" context="H,1,10,H40" playid="6,4,38" type="E" first="E" text="PENALTY WSU pass interference (Thyrell Lewis) 6 yards to the WY46, 1ST DOWN WY." newcontext="H,1,10,H46">
+    <p_pn vh="V" code="PI" type="pass interference" name="Thyrell Lewis" result="ACCEPT" at="H40" yards="6"></p_pn>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY46" context="H,1,10,H46" playid="6,5,39" type="R" text="BENJAMIN,Robert rush for 1 yard to the WY47 (Taylor Sedillo)." newcontext="H,2,9,H47">
+    <p_ru vh="H" name="BENJAMIN,Robert" gain="1"></p_ru>
+    <p_tk vh="V" name="Taylor Sedillo"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="9" spot="WY47" context="H,2,9,H47" playid="6,6,40" type="R" text="BENJAMIN,Robert rush for 8 yards to the WSU45 (Joe Larson)." newcontext="H,3,1,V45">
+    <p_ru vh="H" name="BENJAMIN,Robert" gain="8"></p_ru>
+    <p_tk vh="V" name="Joe Larson"></p_tk>
+   </play>
+   <play hasball="WY" down="3" togo="1" spot="WSU45" context="H,3,1,V45" playid="6,7,41" type="R" text="TERRY, Darius rush for loss of 1 yard to the WSU46 (Bright.Barkdull)." newcontext="H,4,2,V46">
+    <p_ru vh="H" name="TERRY, Darius" gain="-1"></p_ru>
+    <p_tk vh="V" name="Bright.Barkdull" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="4" togo="2" spot="WSU46" context="H,4,2,V46" playid="6,8,42" type="E" text="PENALTY WY delay of game 5 yards to the WY49." newcontext="H,4,7,H49">
+    <p_pn vh="H" code="DG" type="delay of game" result="ACCEPT" at="V46" yards="5"></p_pn>
+   </play>
+   <play hasball="WY" down="4" togo="7" spot="WY49" context="H,4,7,H49" playid="6,9,43" type="U" text="MCCOY, Austin punt 51 yards to the WSU0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="MCCOY, Austin" gain="51" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="21" top="2:47" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="V,V20,07:11" vh="V" spot="V20" clock="07:11" driveindex="7,43"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="V,1,10,V20" playid="7,1,44" clock="04:24" text="WEBER STATE drive start at 04:24." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="V,1,10,V20" playid="7,2,45" type="R" text="Treyvn Smith rush for 3 yards to the WSU23 (FLETCHER, John)." newcontext="V,2,7,V23">
+    <p_ru vh="V" name="Treyvn Smith" gain="3"></p_ru>
+    <p_tk vh="H" name="FLETCHER, John"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="7" spot="WSU23" context="V,2,7,V23" playid="7,3,46" type="P" first="P" text="Cameron Higgins pass complete to Tim Toone for 10 yards to the WSU33, 1ST DOWN WSU (GIPSON, Tashaun)." newcontext="V,1,10,V33">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Tim Toone" gain="10"></p_pa>
+    <p_tk vh="H" name="GIPSON, Tashaun"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU33" context="V,1,10,V33" playid="7,4,47" type="R" text="Treyvn Smith rush for loss of 3 yards to the WSU30 (FLETCHER, John)." newcontext="V,2,13,V30">
+    <p_ru vh="V" name="Treyvn Smith" gain="-3"></p_ru>
+    <p_tk vh="H" name="FLETCHER, John" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="13" spot="WSU30" context="V,2,13,V30" playid="7,5,48" type="P" text="Cameron Higgins pass incomplete to Treyvn Smith." newcontext="V,3,13,V30">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Treyvn Smith"></p_pa>
+   </play>
+   <play hasball="WSU" down="3" togo="13" spot="WSU30" context="V,3,13,V30" playid="7,6,49" type="P" text="Cameron Higgins pass incomplete to Joe Collins (GARY, Shamiel)." newcontext="V,4,13,V30">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Joe Collins"></p_pa>
+    <p_bu vh="H" name="GARY, Shamiel"></p_bu>
+   </play>
+   <play hasball="WSU" down="4" togo="13" spot="WSU30" context="V,4,13,V30" playid="7,7,50" type="U" text="Mike Snoy punt 30 yards to the WY40, out-of-bounds." ob="Y" newcontext="H,1,10,H40">
+    <p_pu vh="V" name="Mike Snoy" gain="30" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="10" top="2:00" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,H40,04:24" vh="H" spot="H40" clock="04:24" driveindex="8,50"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WY40" context="H,1,10,H40" playid="8,1,51" clock="02:24" text="WYOMING drive start at 02:24." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY40" context="H,1,10,H40" playid="8,2,52" type="E" text="PENALTY WY holding (STERNER, Sam) 10 yards to the WY30." newcontext="H,1,20,H30">
+    <p_pn vh="H" code="HO" type="holding" name="STERNER, Sam" result="ACCEPT" at="H40" yards="10"></p_pn>
+   </play>
+   <play hasball="WY" down="1" togo="20" spot="WY30" context="H,1,20,H30" playid="8,3,53" type="P" text="BENJAMIN,Robert pass incomplete to BOLGER, Zach." newcontext="H,2,20,H30">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="INC" rcv="BOLGER, Zach"></p_pa>
+   </play>
+   <play hasball="WY" down="2" togo="20" spot="WY30" context="H,2,20,H30" playid="8,4,54" type="P" text="BENJAMIN,Robert pass complete to ARNOLD, Orlando for 10 yards to the WY40 (Jordan Brown)." newcontext="H,3,10,H40">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="COMP" rcv="ARNOLD, Orlando" gain="10"></p_pa>
+    <p_tk vh="V" name="Jordan Brown"></p_tk>
+   </play>
+   <play hasball="WY" down="3" togo="10" spot="WY40" context="H,3,10,H40" playid="8,5,55" type="P" text="BENJAMIN,Robert pass incomplete to LEONARD, David." newcontext="H,4,10,H40">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="INC" rcv="LEONARD, David"></p_pa>
+   </play>
+   <play hasball="WY" down="4" togo="10" spot="WY40" context="H,4,10,H40" playid="8,6,56" type="U" text="MCCOY, Austin punt 39 yards to the WSU21, Tim Toone return 20 yards to the WSU41 (GIPSON, Marcell;MCCOY, Austin)." newcontext="V,1,10,V41">
+    <p_pu vh="H" name="MCCOY, Austin" gain="39"></p_pu>
+    <p_pr vh="V" name="Tim Toone" gain="20"></p_pr>
+    <p_tk vh="H" name="GIPSON, Marcell" assist="Y"></p_tk>
+    <p_tk vh="H" name="MCCOY, Austin" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="0" top="1:02" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,V41,02:24" vh="V" spot="V41" clock="02:24" driveindex="9,56"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU41" context="V,1,10,V41" playid="9,1,57" clock="01:22" text="WEBER STATE drive start at 01:22." newcontext="V,1,10,V41">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU41" context="V,1,10,V41" playid="9,2,58" type="R" text="Treyvn Smith rush for 1 yard to the WSU42 (GARY, Shamiel;GIVENS, Fred)." newcontext="V,2,9,V42">
+    <p_ru vh="V" name="Treyvn Smith" gain="1"></p_ru>
+    <p_tk vh="H" name="GARY, Shamiel" assist="Y"></p_tk>
+    <p_tk vh="H" name="GIVENS, Fred" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="9" spot="WSU42" context="V,2,9,V42" playid="9,3,59" type="P" text="Cameron Higgins pass incomplete to Joe Collins (JOHNSON, Weston)." newcontext="V,3,9,V42">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Joe Collins"></p_pa>
+    <p_bu vh="H" name="JOHNSON, Weston"></p_bu>
+   </play>
+   <play hasball="WSU" down="3" togo="9" spot="WSU42" context="V,3,9,V42" playid="9,4,60" type="P" turnover="I" text="Cameron Higgins pass intercepted by JOHNSON, Weston at the 50 yardline, JOHNSON, Weston return 5 yards to the WSU45 (Mike Phillips)." newcontext="H,1,10,V45">
+    <p_pa vh="V" qb="Cameron Higgins" result="INT"></p_pa>
+    <p_ir vh="H" name="JOHNSON, Weston" at="H50" gain="5"></p_ir>
+    <p_tk vh="V" name="Mike Phillips"></p_tk>
+   </play>
+   <drivesum plays="3" yards="1" top="0:54" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,V45,01:22" vh="H" spot="V45" clock="01:22" driveindex="10,60"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WSU45" context="H,1,10,V45" playid="10,1,61" clock="00:28" text="WYOMING drive start at 00:28." newcontext="H,1,10,V45">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU45" context="H,1,10,V45" playid="10,2,62" type="P" first="P" text="CARTA-SAMUELS,A pass complete to ARNOLD, Orlando for 12 yards to the WSU33, 1ST DOWN WY." newcontext="H,1,10,V33">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="COMP" rcv="ARNOLD, Orlando" gain="12"></p_pa>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU33" context="H,1,10,V33" playid="10,3,63" type="R" text="ALEXANDER, A. rush for 8 yards to the WSU25 (Thyrell Lewis;Beau Hadley)." newcontext="H,2,2,V25">
+    <p_ru vh="H" name="ALEXANDER, A." gain="8"></p_ru>
+    <p_tk vh="V" name="Thyrell Lewis" assist="Y"></p_tk>
+    <p_tk vh="V" name="Beau Hadley" assist="Y"></p_tk>
+   </play>
+   <score qtr="1" V="7" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="WSU">
+    <firstdowns no="3" rush="0" pass="3" penalty="0"></firstdowns>
+    <penalties no="3" yds="16"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:03"></misc>
+    <rush att="4" yds="1" gain="4" loss="3" td="0" long="3"></rush>
+    <pass comp="5" att="12" int="1" yds="98" td="1" long="40" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="98" td="1" long="40"></rcv>
+    <punt no="3" yds="129" long="57" blkd="0" tb="0" fc="1" plus50="1" inside20="1" avg="43.0"></punt>
+    <ko no="1" yds="70" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="15" tacka="10" tot_tack="25" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="29" td="0" long="29"></kr>
+    <pr no="1" yds="20" td="0" long="20"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WY">
+    <firstdowns no="9" rush="5" pass="3" penalty="1"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="08:57"></misc>
+    <rush att="13" yds="117" gain="118" loss="1" td="1" long="44"></rush>
+    <pass comp="7" att="9" int="0" yds="78" td="0" long="29" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="78" td="0" long="29"></rcv>
+    <punt no="2" yds="90" long="51" blkd="0" tb="1" fc="0" plus50="1" inside20="0" avg="45.0"></punt>
+    <ko no="2" yds="130" ob="1" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="7" tacka="4" tot_tack="11" tflua="1" tfla="0" tflyds="3" sacks="0" sackyds="0" brup="2" int="1" intyds="5"></defense>
+    <pr no="1" yds="14" td="0" long="14"></pr>
+    <ir no="1" yds="5" td="0" long="5"></ir>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="WY" down="2" togo="2" spot="WSU25" context="H,2,2,V25" playid="10,4,64" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,2,2,V25">
+   </play>
+   <play hasball="WY" down="2" togo="2" spot="WSU25" context="H,2,2,V25" playid="10,5,65" type="P" text="BOLGER, Zach pass incomplete to BENJAMIN,Robert." newcontext="H,3,2,V25">
+    <p_pa vh="H" qb="BOLGER, Zach" result="INC" rcv="BENJAMIN,Robert"></p_pa>
+   </play>
+   <play hasball="WY" down="3" togo="2" spot="WSU25" context="H,3,2,V25" playid="10,6,66" type="R" first="R" text="TERRY, Darius rush for 23 yards to the WSU2, 1ST DOWN WY (Thyrell Lewis;Jordan Brown)." newcontext="H,1,0,V02">
+    <p_ru vh="H" name="TERRY, Darius" gain="23"></p_ru>
+    <p_tk vh="V" name="Thyrell Lewis" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jordan Brown" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="0" spot="WSU02" context="H,1,0,V02" playid="10,7,67" type="E" text="PENALTY WY false start (STERNER, Sam) 5 yards to the WSU7." newcontext="H,1,0,V07">
+    <p_pn vh="H" code="FS" type="false start" name="STERNER, Sam" result="ACCEPT" at="V02" yards="5"></p_pn>
+   </play>
+   <play hasball="WY" down="1" togo="0" spot="WSU07" context="H,1,0,V07" playid="10,8,68" type="R" text="TERRY, Darius rush for loss of 2 yards to the WSU9 (Brett Felton)." newcontext="H,2,0,V09">
+    <p_ru vh="H" name="TERRY, Darius" gain="-2"></p_ru>
+    <p_tk vh="V" name="Brett Felton" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="0" spot="WSU09" context="H,2,0,V09" playid="10,9,69" type="P" text="CARTA-SAMUELS,A pass complete to LEONARD, David for 2 yards to the WSU7 (Thyrell Lewis;Jordan Brown)." newcontext="H,3,0,V07">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="COMP" rcv="LEONARD, David" gain="2"></p_pa>
+    <p_tk vh="V" name="Thyrell Lewis" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jordan Brown" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="3" togo="0" spot="WSU07" context="H,3,0,V07" playid="10,10,70" type="R" text="CARTA-SAMUELS,A rush for 3 yards to the WSU4 (Taylor Sedillo;Adam Saga-White)." newcontext="H,4,0,V04">
+    <p_ru vh="H" name="CARTA-SAMUELS,A" gain="3"></p_ru>
+    <p_tk vh="V" name="Taylor Sedillo" assist="Y"></p_tk>
+    <p_tk vh="V" name="Adam Saga-White" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="4" togo="0" spot="WSU04" context="H,4,0,V04" playid="10,11,71" type="F" score="Y" clock="12:39" text="MCCOY, Austin field goal attempt from 22 GOOD, clock 12:39." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="MCCOY, Austin" distance="22" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="7" H="10"></score>
+   <drivesum plays="8" yards="41" top="2:49" driveindex="10" complete="Y"></drivesum>
+   <play hasball="WY" down="1" togo="0" spot="WY30" context="H,1,0,H30" playid="10,12,72" type="K" text="SCOTT, Jake kickoff 65 yards to the WSU5, Bo Bolen return 42 yards to the WSU47 (HENDRICKS,Brian;HALL, Jamichael)." newcontext="V,1,10,V47">
+    <p_ko vh="H" name="SCOTT, Jake" gain="65"></p_ko>
+    <p_kr vh="V" name="Bo Bolen" gain="42"></p_kr>
+    <p_tk vh="H" name="HENDRICKS,Brian" assist="Y"></p_tk>
+    <p_tk vh="H" name="HALL, Jamichael" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V47,12:39" vh="V" spot="V47" clock="12:39" driveindex="11,72"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU47" context="V,1,10,V47" playid="11,1,73" clock="12:39" text="WEBER STATE drive start at 12:39." newcontext="V,1,10,V47">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU47" context="V,1,10,V47" playid="11,2,74" type="P" text="Cameron Higgins pass incomplete to Joe Collins (PROSINSKI,Chris)." newcontext="V,2,10,V47">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Joe Collins"></p_pa>
+    <p_bu vh="H" name="PROSINSKI,Chris"></p_bu>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WSU47" context="V,2,10,V47" playid="11,3,75" type="P" text="Cameron Higgins pass complete to Joe Collins for 4 yards to the WY49 (GARY, Shamiel)." newcontext="V,3,6,H49">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Joe Collins" gain="4"></p_pa>
+    <p_tk vh="H" name="GARY, Shamiel"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="6" spot="WY49" context="V,3,6,H49" playid="11,4,76" type="P" first="P" text="Cameron Higgins pass complete to Treyvn Smith for 11 yards to the WY38, 1ST DOWN WSU (HALL, Jamichael;BROWDER, Kenny)." newcontext="V,1,10,H38">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Treyvn Smith" gain="11"></p_pa>
+    <p_tk vh="H" name="HALL, Jamichael" assist="Y"></p_tk>
+    <p_tk vh="H" name="BROWDER, Kenny" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WY38" context="V,1,10,H38" playid="11,5,77" type="P" text="Cameron Higgins pass complete to Mike Phillips for 5 yards to the WY33 (BARELLA, Matt)." newcontext="V,2,5,H33">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Mike Phillips" gain="5"></p_pa>
+    <p_tk vh="H" name="BARELLA, Matt"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="5" spot="WY33" context="V,2,5,H33" playid="11,6,78" type="R" text="Treyvn Smith rush for loss of 6 yards to the WY39 (JOHNSON, Weston)." newcontext="V,3,11,H39">
+    <p_ru vh="V" name="Treyvn Smith" gain="-6"></p_ru>
+    <p_tk vh="H" name="JOHNSON, Weston" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="11" spot="WY39" context="V,3,11,H39" playid="11,7,79" type="E" text="PENALTY WSU holding 10 yards to the WY49." newcontext="V,3,21,H49">
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="H39" yards="10"></p_pn>
+   </play>
+   <play hasball="WSU" down="3" togo="21" spot="WY49" context="V,3,21,H49" playid="11,8,80" type="P" text="Cameron Higgins pass complete to Treyvn Smith for 12 yards to the WY37 (GIPSON, Marcell)." newcontext="V,4,9,H37">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Treyvn Smith" gain="12"></p_pa>
+    <p_tk vh="H" name="GIPSON, Marcell"></p_tk>
+   </play>
+   <play hasball="WSU" down="4" togo="9" spot="WY37" context="V,4,9,H37" playid="11,9,81" type="U" text="Mike Snoy punt 37 yards to the WY0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Mike Snoy" gain="37" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="16" top="3:58" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,H20,12:39" vh="H" spot="H20" clock="12:39" driveindex="12,81"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WY20" context="H,1,10,H20" playid="12,1,82" clock="08:41" text="WYOMING drive start at 08:41." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY20" context="H,1,10,H20" playid="12,2,83" type="P" first="P" text="CARTA-SAMUELS,A pass complete to LEONARD, David for 17 yards to the WY37, 1ST DOWN WY (Thyrell Lewis)." newcontext="H,1,10,H37">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="COMP" rcv="LEONARD, David" gain="17"></p_pa>
+    <p_tk vh="V" name="Thyrell Lewis"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY37" context="H,1,10,H37" playid="12,3,84" type="R" text="TERRY, Darius rush for 6 yards to the WY43 (Gabe Bowers)." newcontext="H,2,4,H43">
+    <p_ru vh="H" name="TERRY, Darius" gain="6"></p_ru>
+    <p_tk vh="V" name="Gabe Bowers"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="4" spot="WY43" context="H,2,4,H43" playid="12,4,85" type="P" text="CARTA-SAMUELS,A pass incomplete to BURKHALTER, T.." newcontext="H,3,4,H43">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="INC" rcv="BURKHALTER, T."></p_pa>
+   </play>
+   <play hasball="WY" down="3" togo="4" spot="WY43" context="H,3,4,H43" playid="12,5,86" type="P" text="CARTA-SAMUELS,A pass incomplete to BURKHALTER, T. (Thyrell Lewis)." newcontext="H,4,4,H43">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="INC" rcv="BURKHALTER, T."></p_pa>
+    <p_bu vh="V" name="Thyrell Lewis"></p_bu>
+   </play>
+   <play hasball="WY" down="4" togo="4" spot="WY43" context="H,4,4,H43" playid="12,6,87" type="E" first="E" text="PENALTY WSU roughing the kicker 5 yards to the WY48, 1ST DOWN WY." newcontext="H,1,10,H48">
+    <p_pn vh="V" code="RK" type="roughing the kicker" result="ACCEPT" at="H43" yards="5"></p_pn>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY48" context="H,1,10,H48" playid="12,7,88" type="P" text="CARTA-SAMUELS,A pass complete to STEWART,Brandon for 3 yards to the WSU49, out-of-bounds." ob="Y" newcontext="H,2,7,V49">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="COMP" rcv="STEWART,Brandon" gain="3"></p_pa>
+   </play>
+   <play hasball="WY" down="2" togo="7" spot="WSU49" context="H,2,7,V49" playid="12,8,89" type="R" text="TERRY, Darius rush for 2 yards to the WSU47 (Taylor Sedillo)." newcontext="H,3,5,V47">
+    <p_ru vh="H" name="TERRY, Darius" gain="2"></p_ru>
+    <p_tk vh="V" name="Taylor Sedillo"></p_tk>
+   </play>
+   <play hasball="WY" down="3" togo="5" spot="WSU47" context="H,3,5,V47" playid="12,9,90" type="E" first="E" text="PENALTY WSU 12 men on the field 5 yards to the WSU42, 1ST DOWN WY." newcontext="H,1,10,V42">
+    <p_pn vh="V" code="12" type="12 men on the field" result="ACCEPT" at="V47" yards="5"></p_pn>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU42" context="H,1,10,V42" playid="12,10,91" type="R" text="ALEXANDER, A. rush for 5 yards to the WSU37 (Caldwell Taylor)." newcontext="H,2,5,V37">
+    <p_ru vh="H" name="ALEXANDER, A." gain="5"></p_ru>
+    <p_tk vh="V" name="Caldwell Taylor"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="5" spot="WSU37" context="H,2,5,V37" playid="12,11,92" type="P" first="P" text="CARTA-SAMUELS,A pass complete to ARNOLD, Orlando for 5 yards to the WSU32, 1ST DOWN WY (Taylor Sedillo)." newcontext="H,1,10,V32">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="COMP" rcv="ARNOLD, Orlando" gain="5"></p_pa>
+    <p_tk vh="V" name="Taylor Sedillo"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU32" context="H,1,10,V32" playid="12,12,93" type="P" text="CARTA-SAMUELS,A pass incomplete to BOLGER, Zach." newcontext="H,2,10,V32">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="INC" rcv="BOLGER, Zach"></p_pa>
+   </play>
+   <play hasball="WY" down="2" togo="10" spot="WSU32" context="H,2,10,V32" playid="12,13,94" type="P" text="CARTA-SAMUELS,A pass incomplete to LEONARD, David (Thyrell Lewis)." newcontext="H,3,10,V32">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="INC" rcv="LEONARD, David"></p_pa>
+    <p_bu vh="V" name="Thyrell Lewis"></p_bu>
+   </play>
+   <play hasball="WY" down="3" togo="10" spot="WSU32" context="H,3,10,V32" playid="12,14,95" type="P" text="CARTA-SAMUELS,A pass incomplete to ARNOLD, Orlando." newcontext="H,4,10,V32">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="INC" rcv="ARNOLD, Orlando"></p_pa>
+   </play>
+   <play hasball="WY" down="4" togo="10" spot="WSU32" context="H,4,10,V32" playid="12,15,96" type="P" first="P" text="CARTA-SAMUELS,A pass complete to BURKHALTER, T. for 28 yards to the WSU4, 1ST DOWN WY (Nick Webb)." newcontext="H,1,0,V04">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="COMP" rcv="BURKHALTER, T." gain="28"></p_pa>
+    <p_tk vh="V" name="Nick Webb"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="0" spot="WSU04" context="H,1,0,V04" playid="12,16,97" type="E" text="PENALTY WSU personal foul 2 yards to the WSU2." newcontext="H,1,0,V02">
+    <p_pn vh="V" code="PF" type="personal foul" result="ACCEPT" at="V04" yards="2"></p_pn>
+   </play>
+   <play hasball="WY" down="1" togo="0" spot="WSU02" context="H,1,0,V02" playid="12,17,98" type="R" score="Y" clock="05:31" text="TERRY, Darius rush for 2 yards to the WSU0, TOUCHDOWN, clock 05:31." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="TERRY, Darius" gain="2"></p_ru>
+   </play>
+   <play hasball="WY" down="1" togo="0" spot="WSU03" context="H,1,0,V03" playid="12,18,99" type="X" text="MCCOY, Austin kick attempt failed." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="MCCOY, Austin" qb="MCCOY, Austin" type="K" result="MISSED"></p_pat>
+   </play>
+   <score V="7" H="16"></score>
+   <drivesum plays="13" yards="80" top="3:10" driveindex="12" complete="Y"></drivesum>
+   <play hasball="WY" down="1" togo="0" spot="WY30" context="H,1,0,H30" playid="12,19,100" type="K" text="SCOTT, Jake kickoff 70 yards to the WSU0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="SCOTT, Jake" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,05:31" vh="V" spot="V20" clock="05:31" driveindex="13,100"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="V,1,10,V20" playid="13,1,101" clock="05:31" text="WEBER STATE drive start at 05:31." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="V,1,10,V20" playid="13,2,102" type="P" first="P" text="Cameron Higgins pass complete to Cody Nakamura for 16 yards to the WSU36, 1ST DOWN WSU (PROSINSKI,Chris)." newcontext="V,1,10,V36">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Cody Nakamura" gain="16"></p_pa>
+    <p_tk vh="H" name="PROSINSKI,Chris"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU36" context="V,1,10,V36" playid="13,3,103" type="P" text="Cameron Higgins pass complete to Joe Collins for loss of 4 yards to the WSU32 (PROSINSKI,Chris)." newcontext="V,2,14,V32">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Joe Collins" gain="-4"></p_pa>
+    <p_tk vh="H" name="PROSINSKI,Chris" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="14" spot="WSU32" context="V,2,14,V32" playid="13,4,104" type="P" text="Cameron Higgins pass complete to Treyvn Smith for 3 yards to the WSU35, fumble forced by BIEZUNS, Josh, fumble by Treyvn Smith recovered by WSU TM at WSU33, out-of-bounds (BIEZUNS, Josh)." ob="Y" newcontext="V,3,13,V33">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Treyvn Smith" gain="3"></p_pa>
+    <p_fumb vh="V" name="Treyvn Smith" at="V33" frvh="V" frname="TM"></p_fumb>
+    <p_tk vh="H" name="BIEZUNS, Josh" ff="Y"></p_tk>
+    <p_tk vh="H" name="BIEZUNS, Josh"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="13" spot="WSU33" context="V,3,13,V33" playid="13,5,105" type="P" first="P" text="Cameron Higgins pass complete to Treyvn Smith for 32 yards to the WY35, 1ST DOWN WSU (HALL, Jamichael)." newcontext="V,1,10,H35">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Treyvn Smith" gain="32"></p_pa>
+    <p_tk vh="H" name="HALL, Jamichael"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WY35" context="V,1,10,H35" playid="13,6,106" type="P" text="Cameron Higgins pass incomplete to Tim Toone." newcontext="V,2,10,H35">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Tim Toone"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WY35" context="V,2,10,H35" playid="13,7,107" type="E" text="PENALTY WSU false start (J.C. Oram) 5 yards to the WY40." newcontext="V,2,15,H40">
+    <p_pn vh="V" code="FS" type="false start" name="J.C. Oram" result="ACCEPT" at="H35" yards="5"></p_pn>
+   </play>
+   <play hasball="WSU" down="2" togo="15" spot="WY40" context="V,2,15,H40" playid="13,8,108" type="P" text="Cameron Higgins pass complete to Tim Toone for 5 yards to the WY35 (PROSINSKI,Chris)." newcontext="V,3,10,H35">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Tim Toone" gain="5"></p_pa>
+    <p_tk vh="H" name="PROSINSKI,Chris"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="10" spot="WY35" context="V,3,10,H35" playid="13,9,109" type="P" turnover="I" text="Cameron Higgins pass intercepted by GIPSON, Tashaun at the WY3, GIPSON, Tashaun return 2 yards to the WY5 (Tim Toone)." newcontext="H,1,10,H05">
+    <p_pa vh="V" qb="Cameron Higgins" result="INT"></p_pa>
+    <p_ir vh="H" name="GIPSON, Tashaun" at="H03" gain="2"></p_ir>
+    <p_tk vh="V" name="Tim Toone"></p_tk>
+   </play>
+   <drivesum plays="7" yards="45" top="3:09" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H05,05:31" vh="H" spot="H05" clock="05:31" driveindex="14,109"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WY05" context="H,1,10,H05" playid="14,1,110" clock="02:22" text="WYOMING drive start at 02:22." newcontext="H,1,10,H05">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY05" context="H,1,10,H05" playid="14,2,111" type="P" text="CARTA-SAMUELS,A pass incomplete to LEONARD, David." newcontext="H,2,10,H05">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="INC" rcv="LEONARD, David"></p_pa>
+   </play>
+   <play hasball="WY" down="2" togo="10" spot="WY05" context="H,2,10,H05" playid="14,3,112" type="R" text="TERRY, Darius rush for 3 yards to the WY8 (Brett Dille;Ryan Eastman)." newcontext="H,3,7,H08">
+    <p_ru vh="H" name="TERRY, Darius" gain="3"></p_ru>
+    <p_tk vh="V" name="Brett Dille" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ryan Eastman" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="3" togo="7" spot="WY08" context="H,3,7,H08" playid="14,4,113" type="#" clock="02:08" text="Timeout Weber State, clock 02:08." newcontext="H,3,7,H08">
+    <p_to vh="V" team="Weber State"></p_to>
+   </play>
+   <play hasball="WY" down="3" togo="7" spot="WY08" context="H,3,7,H08" playid="14,5,114" type="P" text="CARTA-SAMUELS,A pass incomplete to BURKHALTER, T.." newcontext="H,4,7,H08">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="INC" rcv="BURKHALTER, T."></p_pa>
+   </play>
+   <play hasball="WY" down="4" togo="7" spot="WY08" context="H,4,7,H08" playid="14,6,115" type="U" text="MCCOY, Austin punt 49 yards to the WSU43, Tim Toone return 16 yards to the WY41 (GIPSON, Marcell)." newcontext="V,1,10,H41">
+    <p_pu vh="H" name="MCCOY, Austin" gain="49"></p_pu>
+    <p_pr vh="V" name="Tim Toone" gain="16"></p_pr>
+    <p_tk vh="H" name="GIPSON, Marcell"></p_tk>
+   </play>
+   <drivesum plays="3" yards="3" top="0:34" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,H41,02:08" vh="V" spot="H41" clock="02:08" driveindex="15,115"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WY41" context="V,1,10,H41" playid="15,1,116" clock="01:48" text="WEBER STATE drive start at 01:48." newcontext="V,1,10,H41">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WY41" context="V,1,10,H41" playid="15,2,117" type="P" text="Cameron Higgins sacked for loss of 8 yards to the WY49 (FLETCHER, John), fumble by Cameron Higgins recovered by WSU Tytan Timoteo at WY49, Tytan Timoteo for 6 yards to the WY43 (JOHNSON, Weston)." newcontext="V,2,12,H43">
+    <p_pa vh="V" qb="Cameron Higgins" result="FUMB" gain="-8"></p_pa>
+    <p_fumb vh="V" name="Cameron Higgins" at="H49" frvh="V" frname="Tytan Timoteo"></p_fumb>
+    <p_cont vh="V" name="Tytan Timoteo" context="RUSH" at="H49" gain="6"></p_cont>
+    <p_tk vh="H" name="FLETCHER, John" sack="Y" tfl="Y"></p_tk>
+    <p_tk vh="H" name="JOHNSON, Weston" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="12" spot="WY43" context="V,2,12,H43" playid="15,3,118" type="R" text="Treyvn Smith rush for 2 yards to the WY41 (BARELLA, Matt)." newcontext="V,3,10,H41">
+    <p_ru vh="V" name="Treyvn Smith" gain="2"></p_ru>
+    <p_tk vh="H" name="BARELLA, Matt"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="10" spot="WY41" context="V,3,10,H41" playid="15,4,119" type="#" clock="01:09" text="Timeout Weber State, clock 01:09." newcontext="V,3,10,H41">
+    <p_to vh="V" team="Weber State"></p_to>
+   </play>
+   <play hasball="WSU" down="3" togo="10" spot="WY41" context="V,3,10,H41" playid="15,5,120" type="P" text="Cameron Higgins pass incomplete to Tim Toone." newcontext="V,4,10,H41">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Tim Toone"></p_pa>
+   </play>
+   <play hasball="WSU" down="4" togo="10" spot="WY41" context="V,4,10,H41" playid="15,6,121" type="E" text="PENALTY WSU delay of game 5 yards to the WY46." newcontext="V,4,15,H46">
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="H41" yards="5"></p_pn>
+   </play>
+   <play hasball="WSU" down="4" togo="15" spot="WY46" context="V,4,15,H46" playid="15,7,122" type="U" text="Mike Snoy punt 26 yards to the WY20, downed." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Mike Snoy" gain="26"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-5" top="0:56" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H20,01:09" vh="H" spot="H20" clock="01:09" driveindex="16,122"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WY20" context="H,1,10,H20" playid="16,1,123" clock="00:52" text="WYOMING drive start at 00:52." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY20" context="H,1,10,H20" playid="16,2,124" type="R" text="TEAM rush for loss of 1 yard to the WY19." newcontext="H,2,11,H19">
+    <p_ru vh="H" name="TEAM" gain="-1"></p_ru>
+   </play>
+   <play hasball="WY" down="2" togo="11" spot="WY19" context="H,2,11,H19" playid="16,3,125" type="R" text="TEAM rush for loss of 1 yard to the WY18." newcontext="H,3,12,H18">
+    <p_ru vh="H" name="TEAM" gain="-1"></p_ru>
+   </play>
+   <play hasball="WY" down="3" togo="12" spot="WY18" context="H,3,12,H18" playid="16,4,126" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,3,12,H18">
+   </play>
+   <drivesum plays="2" yards="-2" top="0:52" driveindex="16" complete="Y"></drivesum>
+   <score qtr="2" V="7" H="16"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="WSU">
+    <firstdowns no="3" rush="0" pass="3" penalty="0"></firstdowns>
+    <penalties no="6" yds="32"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="2" lost="0"></fumbles>
+    <misc yds="0" top="08:03"></misc>
+    <rush att="3" yds="-6" gain="8" loss="14" td="0" long="0"></rush>
+    <pass comp="9" att="13" int="1" yds="82" td="0" long="0" sacks="1" sackyds="8"></pass>
+    <rcv no="9" yds="82" td="0" long="0"></rcv>
+    <punt no="2" yds="63" long="0" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="31.5"></punt>
+    <defense tackua="8" tacka="8" tot_tack="16" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="2"></defense>
+    <kr no="1" yds="42" td="0" long="13"></kr>
+    <pr no="1" yds="16" td="0" long="0"></pr>
+    <fumbles no="2" lost="0"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WY">
+    <firstdowns no="6" rush="1" pass="3" penalty="2"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:57"></misc>
+    <rush att="10" yds="40" gain="44" loss="4" td="1" long="0"></rush>
+    <pass comp="5" att="13" int="0" yds="55" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="55" td="0" long="0"></rcv>
+    <punt no="1" yds="49" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="49.0"></punt>
+    <ko no="2" yds="135" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="22" blkd="0"></fg>
+    <pat kickatt="1" kickmade="0"></pat>
+    <defense tackua="14" tacka="4" tot_tack="18" tflua="4" tfla="0" tflyds="20" sacks="1" sackyds="8" brup="1" ff="2" int="1" intyds="2"></defense>
+    <ir no="1" yds="2" td="0" long="0"></ir>
+    <scoring td="1" fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="WY" down="3" togo="12" spot="WY18" context="H,3,12,H18" playid="16,5,127" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, WSU ball on WSU30." newcontext="V,3,12,V30">
+   </play>
+   <play hasball="WSU" down="3" togo="12" spot="WSU30" context="V,3,12,V30" playid="16,6,128" type="K" text="Mike Snoy kickoff 70 yards to the WY0, GIPSON, Marcell return 15 yards to the WY15, fumble by GIPSON, Marcell recovered by WY GIPSON, Marcell at WY20." newcontext="H,1,10,H20">
+    <p_ko vh="V" name="Mike Snoy" gain="70"></p_ko>
+    <p_kr vh="H" name="GIPSON, Marcell" gain="15"></p_kr>
+    <p_fumb vh="H" name="GIPSON, Marcell" at="H20" frvh="H" frname="GIPSON, Marcell"></p_fumb>
+   </play>
+   <drivestart poss="H,H20,15:00" vh="H" spot="H20" clock="15:00" driveindex="17,128"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WY20" context="H,1,10,H20" playid="17,1,129" clock="15:00" text="WYOMING drive start at 15:00, WY ball on WY20." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY20" context="H,1,10,H20" playid="17,2,130" type="R" text="TERRY, Darius rush for 5 yards to the WY25, out-of-bounds (Jordan Brown;Taylor Sedillo)." ob="Y" newcontext="H,2,5,H25">
+    <p_ru vh="H" name="TERRY, Darius" gain="5"></p_ru>
+    <p_tk vh="V" name="Jordan Brown" assist="Y"></p_tk>
+    <p_tk vh="V" name="Taylor Sedillo" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="5" spot="WY25" context="H,2,5,H25" playid="17,3,131" type="P" text="BENJAMIN,Robert pass incomplete to ALEXANDER, A.." newcontext="H,3,5,H25">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="INC" rcv="ALEXANDER, A."></p_pa>
+   </play>
+   <play hasball="WY" down="3" togo="5" spot="WY25" context="H,3,5,H25" playid="17,4,132" type="P" text="BENJAMIN,Robert pass incomplete to LEONARD, David." newcontext="H,4,5,H25">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="INC" rcv="LEONARD, David"></p_pa>
+   </play>
+   <play hasball="WY" down="4" togo="5" spot="WY25" context="H,4,5,H25" playid="17,5,133" type="U" text="MCCOY, Austin punt 57 yards to the WSU18, Tim Toone return 1 yards to the WSU19 (UNREIN, Mitch)." newcontext="V,1,10,V19">
+    <p_pu vh="H" name="MCCOY, Austin" gain="57" in20="Y"></p_pu>
+    <p_pr vh="V" name="Tim Toone" gain="1"></p_pr>
+    <p_tk vh="H" name="UNREIN, Mitch"></p_tk>
+   </play>
+   <drivesum plays="3" yards="5" top="0:56" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V19,15:00" vh="V" spot="V19" clock="15:00" driveindex="18,133"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU19" context="V,1,10,V19" playid="18,1,134" clock="14:04" text="WEBER STATE drive start at 14:04." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU19" context="V,1,10,V19" playid="18,2,135" type="E" text="PENALTY WSU illegal block 9 yards to the WSU10." newcontext="V,1,19,V10">
+    <p_pn vh="V" code="BL" type="illegal block" result="ACCEPT" at="V19" yards="9"></p_pn>
+   </play>
+   <play hasball="WSU" down="1" togo="19" spot="WSU10" context="V,1,19,V10" playid="18,3,136" text="WSU ball on WSU10." newcontext="V,1,19,V10">
+   </play>
+   <play hasball="WSU" down="1" togo="19" spot="WSU10" context="V,1,19,V10" playid="18,4,137" text="1st and 10." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU10" context="V,1,10,V10" playid="18,5,138" type="P" turnover="I" text="Cameron Higgins pass intercepted by GARY, Shamiel at the WSU18, GARY, Shamiel return 3 yards to the WSU15." newcontext="H,1,10,V15">
+    <p_pa vh="V" qb="Cameron Higgins" result="INT"></p_pa>
+    <p_ir vh="H" name="GARY, Shamiel" at="V18" gain="3"></p_ir>
+   </play>
+   <drivesum plays="1" yards="0" top="0:07" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,V15,14:04" vh="H" spot="V15" clock="14:04" driveindex="19,138"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WSU15" context="H,1,10,V15" playid="19,1,139" clock="13:57" text="WYOMING drive start at 13:57." newcontext="H,1,10,V15">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU15" context="H,1,10,V15" playid="19,2,140" type="R" first="R" text="BENJAMIN,Robert rush for 13 yards to the WSU2, 1ST DOWN WY (Jordan Brown;Taylor Sedillo)." newcontext="H,1,0,V02">
+    <p_ru vh="H" name="BENJAMIN,Robert" gain="13"></p_ru>
+    <p_tk vh="V" name="Jordan Brown" assist="Y"></p_tk>
+    <p_tk vh="V" name="Taylor Sedillo" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="0" spot="WSU02" context="H,1,0,V02" playid="19,3,141" type="R" text="BENJAMIN,Robert rush for 1 yard to the WSU1 (Brett Dille)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="BENJAMIN,Robert" gain="1"></p_ru>
+    <p_tk vh="V" name="Brett Dille"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="0" spot="WSU01" context="H,2,0,V01" playid="19,4,142" type="R" score="Y" clock="13:12" text="TERRY, Darius rush for 1 yard to the WSU0, TOUCHDOWN, clock 13:12." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="TERRY, Darius" gain="1"></p_ru>
+   </play>
+   <play hasball="WY" down="1" togo="0" spot="WSU03" context="H,1,0,V03" playid="19,5,143" type="X" score="Y" text="MCCOY, Austin kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="MCCOY, Austin" qb="MCCOY, Austin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="23"></score>
+   <drivesum plays="3" yards="15" top="0:45" driveindex="19" complete="Y"></drivesum>
+   <play hasball="WY" down="1" togo="0" spot="WY30" context="H,1,0,H30" playid="19,6,144" type="K" text="SCOTT, Jake kickoff 70 yards to the WSU0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="SCOTT, Jake" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,13:12" vh="V" spot="V20" clock="13:12" driveindex="20,144"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="V,1,10,V20" playid="20,1,145" clock="13:12" text="WEBER STATE drive start at 13:12." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="V,1,10,V20" playid="20,2,146" type="R" text="Treyvn Smith rush for 3 yards to the WSU23 (UNREIN, Mitch;KNAPTON, Gabe)." newcontext="V,2,7,V23">
+    <p_ru vh="V" name="Treyvn Smith" gain="3"></p_ru>
+    <p_tk vh="H" name="UNREIN, Mitch" assist="Y"></p_tk>
+    <p_tk vh="H" name="KNAPTON, Gabe" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="7" spot="WSU23" context="V,2,7,V23" playid="20,3,147" type="P" text="Cameron Higgins pass complete to Treyvn Smith for no gain to the WSU23 (UNREIN, Mitch)." newcontext="V,3,7,V23">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Treyvn Smith" gain="0"></p_pa>
+    <p_tk vh="H" name="UNREIN, Mitch"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="7" spot="WSU23" context="V,3,7,V23" playid="20,4,148" type="P" turnover="I" text="Cameron Higgins pass intercepted by GARY, Shamiel at the WSU32, GARY, Shamiel return 0 yards to the WSU32." newcontext="H,1,10,V32">
+    <p_pa vh="V" qb="Cameron Higgins" result="INT"></p_pa>
+    <p_ir vh="H" name="GARY, Shamiel" at="V32" gain="0"></p_ir>
+   </play>
+   <drivesum plays="3" yards="3" top="1:30" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,V32,13:12" vh="H" spot="V32" clock="13:12" driveindex="21,148"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WSU32" context="H,1,10,V32" playid="21,1,149" clock="11:42" text="WYOMING drive start at 11:42." newcontext="H,1,10,V32">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU32" context="H,1,10,V32" playid="21,2,150" type="P" text="BENJAMIN,Robert sacked for loss of 6 yards to the WSU38 (Bright.Barkdull)." newcontext="H,2,16,V38">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="V" name="Bright.Barkdull" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="16" spot="WSU38" context="H,2,16,V38" playid="21,3,151" type="P" text="BENJAMIN,Robert pass complete to BURKHALTER, T. for 8 yards to the WSU30 (Josh Morris)." newcontext="H,3,8,V30">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="COMP" rcv="BURKHALTER, T." gain="8"></p_pa>
+    <p_tk vh="V" name="Josh Morris"></p_tk>
+   </play>
+   <play hasball="WY" down="3" togo="8" spot="WSU30" context="H,3,8,V30" playid="21,4,152" type="P" first="P" text="BENJAMIN,Robert pass complete to TERRY, Darius for 13 yards to the WSU17, 1ST DOWN WY (Jordan Brown)." newcontext="H,1,10,V17">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="COMP" rcv="TERRY, Darius" gain="13"></p_pa>
+    <p_tk vh="V" name="Jordan Brown"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU17" context="H,1,10,V17" playid="21,5,153" type="R" text="ALEXANDER, A. rush for 1 yard to the WSU16 (Beau Hadley)." newcontext="H,2,9,V16">
+    <p_ru vh="H" name="ALEXANDER, A." gain="1"></p_ru>
+    <p_tk vh="V" name="Beau Hadley"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="9" spot="WSU16" context="H,2,9,V16" playid="21,6,154" type="P" text="BENJAMIN,Robert pass incomplete to ARNOLD, Orlando." newcontext="H,3,9,V16">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="INC" rcv="ARNOLD, Orlando"></p_pa>
+   </play>
+   <play hasball="WY" down="3" togo="9" spot="WSU16" context="H,3,9,V16" playid="21,7,155" type="R" text="BENJAMIN,Robert rush for 5 yards to the WSU11 (Kevin Linehan;Andy Yocom)." newcontext="H,4,4,V11">
+    <p_ru vh="H" name="BENJAMIN,Robert" gain="5"></p_ru>
+    <p_tk vh="V" name="Kevin Linehan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Andy Yocom" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="4" togo="4" spot="WSU11" context="H,4,4,V11" playid="21,8,156" type="P" text="BENJAMIN,Robert pass incomplete to LEONARD, David (Thyrell Lewis)." newcontext="V,1,10,V11">
+    <p_pa vh="H" qb="BENJAMIN,Robert" result="INC" rcv="LEONARD, David"></p_pa>
+    <p_bu vh="V" name="Thyrell Lewis"></p_bu>
+   </play>
+   <drivesum plays="7" yards="21" top="2:44" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="V,V11,11:42" vh="V" spot="V11" clock="11:42" driveindex="22,156"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU11" context="V,1,10,V11" playid="22,1,157" clock="08:58" text="WEBER STATE drive start at 08:58." newcontext="V,1,10,V11">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU11" context="V,1,10,V11" playid="22,2,158" type="R" text="Treyvn Smith rush for loss of 1 yard to the WSU10 (KNAPTON, Gabe;JOHNSON, Weston)." newcontext="V,2,11,V10">
+    <p_ru vh="V" name="Treyvn Smith" gain="-1"></p_ru>
+    <p_tk vh="H" name="KNAPTON, Gabe" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="JOHNSON, Weston" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="11" spot="WSU10" context="V,2,11,V10" playid="22,3,159" type="R" text="Treyvn Smith rush for loss of 3 yards to the WSU7 (GIVENS, Fred)." newcontext="V,3,14,V07">
+    <p_ru vh="V" name="Treyvn Smith" gain="-3"></p_ru>
+    <p_tk vh="H" name="GIVENS, Fred" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="14" spot="WSU07" context="V,3,14,V07" playid="22,4,160" type="P" text="Cameron Higgins pass complete to Treyvn Smith for 7 yards to the WSU14 (PROSINSKI,Chris)." newcontext="V,4,7,V14">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Treyvn Smith" gain="7"></p_pa>
+    <p_tk vh="H" name="PROSINSKI,Chris"></p_tk>
+   </play>
+   <play hasball="WSU" down="4" togo="7" spot="WSU14" context="V,4,7,V14" playid="22,5,161" type="U" text="Mike Snoy punt 16 yards to the WSU30, out-of-bounds." ob="Y" newcontext="H,1,10,V30">
+    <p_pu vh="V" name="Mike Snoy" gain="16" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="2:09" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="H,V30,08:58" vh="H" spot="V30" clock="08:58" driveindex="23,161"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WSU30" context="H,1,10,V30" playid="23,1,162" clock="06:49" text="WYOMING drive start at 06:49." newcontext="H,1,10,V30">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU30" context="H,1,10,V30" playid="23,2,163" type="R" text="TERRY, Darius rush for 1 yard to the WSU29 (Josh Morris)." newcontext="H,2,9,V29">
+    <p_ru vh="H" name="TERRY, Darius" gain="1"></p_ru>
+    <p_tk vh="V" name="Josh Morris"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="9" spot="WSU29" context="H,2,9,V29" playid="23,3,164" type="R" text="TERRY, Darius rush for 4 yards to the WSU25 (Gabe Bowers;Joe Larson)." newcontext="H,3,5,V25">
+    <p_ru vh="H" name="TERRY, Darius" gain="4"></p_ru>
+    <p_tk vh="V" name="Gabe Bowers" assist="Y"></p_tk>
+    <p_tk vh="V" name="Joe Larson" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="3" togo="5" spot="WSU25" context="H,3,5,V25" playid="23,4,165" type="E" text="PENALTY WY pass interference (ARNOLD, Orlando) 15 yards to the WSU40." newcontext="H,3,20,V40">
+    <p_pn vh="H" code="PI" type="pass interference" name="ARNOLD, Orlando" result="ACCEPT" at="V25" yards="15"></p_pn>
+   </play>
+   <play hasball="WY" down="3" togo="20" spot="WSU40" context="H,3,20,V40" playid="23,5,166" type="P" text="CARTA-SAMUELS,A sacked for loss of 2 yards to the WSU42 (Ryan Eastman)." newcontext="H,4,22,V42">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="SACK" gain="-2"></p_pa>
+    <p_tk vh="V" name="Ryan Eastman" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="4" togo="22" spot="WSU42" context="H,4,22,V42" playid="23,6,167" type="U" text="MCCOY, Austin punt 36 yards to the WSU6, downed." newcontext="V,1,10,V06">
+    <p_pu vh="H" name="MCCOY, Austin" gain="36" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-12" top="1:58" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="V,V06,06:49" vh="V" spot="V06" clock="06:49" driveindex="24,167"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU06" context="V,1,10,V06" playid="24,1,168" clock="04:51" text="WEBER STATE drive start at 04:51." newcontext="V,1,10,V06">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU06" context="V,1,10,V06" playid="24,2,169" type="R" first="R" text="Treyvn Smith rush for 21 yards to the WSU27, 1ST DOWN WSU, out-of-bounds (HENDRICKS,Brian)." ob="Y" newcontext="V,1,10,V27">
+    <p_ru vh="V" name="Treyvn Smith" gain="21"></p_ru>
+    <p_tk vh="H" name="HENDRICKS,Brian"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU27" context="V,1,10,V27" playid="24,3,170" type="R" text="Bo Bolen rush for loss of 1 yard to the WSU26 (KNAPTON, Gabe;GARY, Shamiel)." newcontext="V,2,11,V26">
+    <p_ru vh="V" name="Bo Bolen" gain="-1"></p_ru>
+    <p_tk vh="H" name="KNAPTON, Gabe" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="GARY, Shamiel" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="11" spot="WSU26" context="V,2,11,V26" playid="24,4,171" type="R" text="Bo Bolen rush for 2 yards to the WSU28 (JOHNSON, Weston)." newcontext="V,3,9,V28">
+    <p_ru vh="V" name="Bo Bolen" gain="2"></p_ru>
+    <p_tk vh="H" name="JOHNSON, Weston"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="9" spot="WSU28" context="V,3,9,V28" playid="24,5,172" type="P" turnover="I" text="Cameron Higgins pass intercepted by GARY, Shamiel at the WSU44, GARY, Shamiel return 1 yards to the WSU43 (Joe Collins)." newcontext="H,1,10,V43">
+    <p_pa vh="V" qb="Cameron Higgins" result="INT"></p_pa>
+    <p_ir vh="H" name="GARY, Shamiel" at="V44" gain="1"></p_ir>
+    <p_tk vh="V" name="Joe Collins"></p_tk>
+   </play>
+   <drivesum plays="4" yards="22" top="1:37" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,V43,04:51" vh="H" spot="V43" clock="04:51" driveindex="25,172"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WSU43" context="H,1,10,V43" playid="25,1,173" clock="03:14" text="WYOMING drive start at 03:14." newcontext="H,1,10,V43">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU43" context="H,1,10,V43" playid="25,2,174" type="R" text="ALEXANDER, A. rush for loss of 2 yards to the WSU45 (Ryan Eastman;Adam Saga-White)." newcontext="H,2,12,V45">
+    <p_ru vh="H" name="ALEXANDER, A." gain="-2"></p_ru>
+    <p_tk vh="V" name="Ryan Eastman" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Adam Saga-White" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="12" spot="WSU45" context="H,2,12,V45" playid="25,3,175" type="P" text="CARTA-SAMUELS,A pass incomplete to ARNOLD, Orlando." newcontext="H,3,12,V45">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="INC" rcv="ARNOLD, Orlando"></p_pa>
+   </play>
+   <play hasball="WY" down="3" togo="12" spot="WSU45" context="H,3,12,V45" playid="25,4,176" type="R" text="CARTA-SAMUELS,A rush for 2 yards to the WSU43, out-of-bounds." ob="Y" newcontext="H,4,10,V43">
+    <p_ru vh="H" name="CARTA-SAMUELS,A" gain="2"></p_ru>
+   </play>
+   <play hasball="WY" down="4" togo="10" spot="WSU43" context="H,4,10,V43" playid="25,5,177" type="U" text="MCCOY, Austin punt 33 yards to the WSU10, downed." newcontext="V,1,10,V10">
+    <p_pu vh="H" name="MCCOY, Austin" gain="33" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="0" top="0:51" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="V,V10,03:14" vh="V" spot="V10" clock="03:14" driveindex="26,177"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU10" context="V,1,10,V10" playid="26,1,178" clock="02:23" text="WEBER STATE drive start at 02:23." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU10" context="V,1,10,V10" playid="26,2,179" type="R" first="R" text="Treyvn Smith rush for 16 yards to the WSU26, 1ST DOWN WSU (GARY, Shamiel;GIPSON, Marcell)." newcontext="V,1,10,V26">
+    <p_ru vh="V" name="Treyvn Smith" gain="16"></p_ru>
+    <p_tk vh="H" name="GARY, Shamiel" assist="Y"></p_tk>
+    <p_tk vh="H" name="GIPSON, Marcell" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU26" context="V,1,10,V26" playid="26,3,180" type="#" clock="02:01" text="Timeout Weber State, clock 02:01." newcontext="V,1,10,V26">
+    <p_to vh="V" team="Weber State"></p_to>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU26" context="V,1,10,V26" playid="26,4,181" type="R" first="R" text="Treyvn Smith rush for 49 yards to the WY25, 1ST DOWN WSU, out-of-bounds (GIPSON, Tashaun)." ob="Y" newcontext="V,1,10,H25">
+    <p_ru vh="V" name="Treyvn Smith" gain="49"></p_ru>
+    <p_tk vh="H" name="GIPSON, Tashaun"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WY25" context="V,1,10,H25" playid="26,5,182" type="R" text="Bo Bolen rush for loss of 1 yard to the WY26 (FLETCHER, John)." newcontext="V,2,11,H26">
+    <p_ru vh="V" name="Bo Bolen" gain="-1"></p_ru>
+    <p_tk vh="H" name="FLETCHER, John" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="11" spot="WY26" context="V,2,11,H26" playid="26,6,183" type="P" text="Cameron Higgins pass complete to Tim Toone for 7 yards to the WY19." newcontext="V,3,4,H19">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Tim Toone" gain="7"></p_pa>
+   </play>
+   <play hasball="WSU" down="3" togo="4" spot="WY19" context="V,3,4,H19" playid="26,7,184" type="R" first="R" text="Treyvn Smith rush for 8 yards to the WY11, 1ST DOWN WSU (GARY, Shamiel;HENDRICKS,Brian)." newcontext="V,1,10,H11">
+    <p_ru vh="V" name="Treyvn Smith" gain="8"></p_ru>
+    <p_tk vh="H" name="GARY, Shamiel" assist="Y"></p_tk>
+    <p_tk vh="H" name="HENDRICKS,Brian" assist="Y"></p_tk>
+   </play>
+   <score qtr="3" V="7" H="23"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="WSU">
+    <firstdowns no="4" rush="4" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="9"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:46"></misc>
+    <rush att="10" yds="93" gain="99" loss="6" td="0" long="46"></rush>
+    <pass comp="3" att="6" int="3" yds="14" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="14" td="0" long="0"></rcv>
+    <punt no="1" yds="16" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="16.0"></punt>
+    <ko no="1" yds="70" ob="0" tb="0"></ko>
+    <defense tackua="8" tacka="10" tot_tack="18" tflua="4" tfla="0" tflyds="12" sacks="2" sackyds="8" brup="1"></defense>
+    <pr no="1" yds="1" td="0" long="0"></pr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WY">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="07:14"></misc>
+    <rush att="12" yds="23" gain="33" loss="10" td="1" long="0"></rush>
+    <pass comp="2" att="7" int="0" yds="21" td="0" long="0" sacks="2" sackyds="8"></pass>
+    <rcv no="2" yds="21" td="0" long="0"></rcv>
+    <punt no="3" yds="126" long="6" blkd="0" tb="0" fc="0" plus50="1" inside20="3" avg="42.0"></punt>
+    <ko no="1" yds="70" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="10" tot_tack="18" tflua="6" tfla="0" tflyds="8" sacks="1" sackyds="8" int="3" intyds="4"></defense>
+    <kr no="1" yds="20" td="0" long="15"></kr>
+    <ir no="3" yds="4" td="0" long="0"></ir>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="WSU" down="1" togo="10" spot="WY11" context="V,1,10,H11" playid="26,8,185" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,1,10,H11">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WY11" context="V,1,10,H11" playid="26,9,186" type="E" text="PENALTY WSU illegal motion 5 yards to the WY16." newcontext="V,1,15,H16">
+    <p_pn vh="V" code="MO" type="illegal motion" result="ACCEPT" at="H11" yards="5"></p_pn>
+   </play>
+   <play hasball="WSU" down="1" togo="15" spot="WY16" context="V,1,15,H16" playid="26,10,187" type="R" text="Mike Hoke rush for 1 yard to the WY15 (UNREIN, Mitch)." newcontext="V,2,14,H15">
+    <p_ru vh="V" name="Mike Hoke" gain="1"></p_ru>
+    <p_tk vh="H" name="UNREIN, Mitch"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="14" spot="WY15" context="V,2,14,H15" playid="26,11,188" type="P" text="Cameron Higgins pass complete to Bo Bolen for 7 yards to the WY8, out-of-bounds (GIPSON, Marcell)." ob="Y" newcontext="V,3,7,H08">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Bo Bolen" gain="7"></p_pa>
+    <p_tk vh="H" name="GIPSON, Marcell"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="7" spot="WY08" context="V,3,7,H08" playid="26,12,189" type="P" text="Cameron Higgins pass incomplete to Tim Toone." newcontext="V,4,7,H08">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Tim Toone"></p_pa>
+   </play>
+   <play hasball="WSU" down="4" togo="7" spot="WY08" context="V,4,7,H08" playid="26,13,190" type="F" clock="13:32" text="Mike Snoy field goal attempt from 25 BLOCKED, recovered by WY TEAM at WY0 spot at WY0, clock 13:32 (blocked by KNAPTON, Gabe), touchback." newcontext="H,1,10,H20">
+    <p_fg vh="V" name="Mike Snoy" distance="25" result="BLOCKED"></p_fg>
+   </play>
+   <drivesum plays="9" yards="82" top="3:51" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="H,H20,13:32" vh="H" spot="H20" clock="13:32" driveindex="27,190"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WY20" context="H,1,10,H20" playid="27,1,191" type="P" first="P" text="CARTA-SAMUELS,A pass complete to LEONARD, David for 14 yards to the WY34, 1ST DOWN WY (Kevin Linehan)." newcontext="H,1,10,H34">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="COMP" rcv="LEONARD, David" gain="14"></p_pa>
+    <p_tk vh="V" name="Kevin Linehan"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY34" context="H,1,10,H34" playid="27,2,192" type="R" text="ALEXANDER, A. rush for 1 yard to the WY35 (Taylor Sedillo;Joe Larson)." newcontext="H,2,9,H35">
+    <p_ru vh="H" name="ALEXANDER, A." gain="1"></p_ru>
+    <p_tk vh="V" name="Taylor Sedillo" assist="Y"></p_tk>
+    <p_tk vh="V" name="Joe Larson" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="9" spot="WY35" context="H,2,9,H35" playid="27,3,193" type="R" first="R" text="ALEXANDER, A. rush for 13 yards to the WY48, 1ST DOWN WY (Taylor Sedillo)." newcontext="H,1,10,H48">
+    <p_ru vh="H" name="ALEXANDER, A." gain="13"></p_ru>
+    <p_tk vh="V" name="Taylor Sedillo"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WY48" context="H,1,10,H48" playid="27,4,194" type="R" first="R" text="CARTA-SAMUELS,A rush for 14 yards to the WSU38, 1ST DOWN WY (Beau Hadley)." newcontext="H,1,10,V38">
+    <p_ru vh="H" name="CARTA-SAMUELS,A" gain="14"></p_ru>
+    <p_tk vh="V" name="Beau Hadley"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU38" context="H,1,10,V38" playid="27,5,195" type="R" text="TERRY, Darius rush for 8 yards to the WSU30 (Faron Creighton)." newcontext="H,2,2,V30">
+    <p_ru vh="H" name="TERRY, Darius" gain="8"></p_ru>
+    <p_tk vh="V" name="Faron Creighton"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="2" spot="WSU30" context="H,2,2,V30" playid="27,6,196" type="R" first="R" text="TERRY, Darius rush for 6 yards to the WSU24, 1ST DOWN WY (Faron Creighton)." newcontext="H,1,10,V24">
+    <p_ru vh="H" name="TERRY, Darius" gain="6"></p_ru>
+    <p_tk vh="V" name="Faron Creighton"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU24" context="H,1,10,V24" playid="27,7,197" type="R" first="R" text="TERRY, Darius rush for 15 yards to the WSU9, 1ST DOWN WY (Jordan Brown)." newcontext="H,1,0,V09">
+    <p_ru vh="H" name="TERRY, Darius" gain="15"></p_ru>
+    <p_tk vh="V" name="Jordan Brown"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="0" spot="WSU09" context="H,1,0,V09" playid="27,8,198" type="R" text="TERRY, Darius rush for 1 yard to the WSU8 (Beau Hadley)." newcontext="H,2,0,V08">
+    <p_ru vh="H" name="TERRY, Darius" gain="1"></p_ru>
+    <p_tk vh="V" name="Beau Hadley"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="0" spot="WSU08" context="H,2,0,V08" playid="27,9,199" type="R" text="BOLGER, Zach rush for no gain to the WSU8, out-of-bounds (Jordan Brown)." ob="Y" newcontext="H,3,0,V08">
+    <p_ru vh="H" name="BOLGER, Zach" gain="0"></p_ru>
+    <p_tk vh="V" name="Jordan Brown"></p_tk>
+   </play>
+   <play hasball="WY" down="3" togo="0" spot="WSU08" context="H,3,0,V08" playid="27,10,200" type="P" text="CARTA-SAMUELS,A pass incomplete to ARNOLD, Orlando (Beau Hadley)." newcontext="H,4,0,V08">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="INC" rcv="ARNOLD, Orlando"></p_pa>
+    <p_bu vh="V" name="Beau Hadley"></p_bu>
+   </play>
+   <play hasball="WY" down="4" togo="0" spot="WSU08" context="H,4,0,V08" playid="27,11,201" type="F" score="Y" clock="09:45" text="MCCOY, Austin field goal attempt from 25 GOOD, clock 09:45." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="MCCOY, Austin" distance="25" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="7" H="26"></score>
+   <drivesum plays="11" yards="72" top="3:47" driveindex="27" complete="Y"></drivesum>
+   <play hasball="WY" down="1" togo="0" spot="WY30" context="H,1,0,H30" playid="27,12,202" type="K" text="SCOTT, Jake kickoff 56 yards to the WSU14, Bo Bolen return 19 yards to the WSU33 (KNAPTON, Gabe)." newcontext="V,1,10,V33">
+    <p_ko vh="H" name="SCOTT, Jake" gain="56"></p_ko>
+    <p_kr vh="V" name="Bo Bolen" gain="19"></p_kr>
+    <p_tk vh="H" name="KNAPTON, Gabe"></p_tk>
+   </play>
+   <drivestart poss="V,V33,09:45" vh="V" spot="V33" clock="09:45" driveindex="28,202"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU33" context="V,1,10,V33" playid="28,1,203" clock="09:45" text="WEBER STATE drive start at 09:45." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU33" context="V,1,10,V33" playid="28,2,204" type="P" text="Cameron Higgins pass complete to Treyvn Smith for 2 yards to the WSU35 (HENDRICKS,Brian;JOHNSON, Weston)." newcontext="V,2,8,V35">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Treyvn Smith" gain="2"></p_pa>
+    <p_tk vh="H" name="HENDRICKS,Brian" assist="Y"></p_tk>
+    <p_tk vh="H" name="JOHNSON, Weston" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="8" spot="WSU35" context="V,2,8,V35" playid="28,3,205" type="P" text="Cameron Higgins pass complete to Treyvn Smith for 4 yards to the WSU39 (GIPSON, Tashaun;HENDRICKS,Brian)." newcontext="V,3,4,V39">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Treyvn Smith" gain="4"></p_pa>
+    <p_tk vh="H" name="GIPSON, Tashaun" assist="Y"></p_tk>
+    <p_tk vh="H" name="HENDRICKS,Brian" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="4" spot="WSU39" context="V,3,4,V39" playid="28,4,206" type="P" first="P" text="Cameron Higgins pass complete to Cody Nakamura for 17 yards to the WY44, 1ST DOWN WSU (KNAPTON, Gabe)." newcontext="V,1,10,H44">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Cody Nakamura" gain="17"></p_pa>
+    <p_tk vh="H" name="KNAPTON, Gabe"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WY44" context="V,1,10,H44" playid="28,5,207" type="P" text="Cameron Higgins pass incomplete to Tim Toone." newcontext="V,2,10,H44">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Tim Toone"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WY44" context="V,2,10,H44" playid="28,6,208" type="P" text="Cameron Higgins pass complete to Kam. Kaimikaua for 3 yards to the WY41 (HENDRICKS,Brian)." newcontext="V,3,7,H41">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Kam. Kaimikaua" gain="3"></p_pa>
+    <p_tk vh="H" name="HENDRICKS,Brian"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="7" spot="WY41" context="V,3,7,H41" playid="28,7,209" type="P" first="P" text="Cameron Higgins pass complete to Kam. Kaimikaua for 9 yards to the WY32, 1ST DOWN WSU (GARY, Shamiel;BROWDER, Kenny)." newcontext="V,1,10,H32">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Kam. Kaimikaua" gain="9"></p_pa>
+    <p_tk vh="H" name="GARY, Shamiel" assist="Y"></p_tk>
+    <p_tk vh="H" name="BROWDER, Kenny" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WY32" context="V,1,10,H32" playid="28,8,210" type="P" text="Cameron Higgins pass complete to Joe Collins for no gain to the WY32 (KNAPTON, Gabe)." newcontext="V,2,10,H32">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Joe Collins" gain="0"></p_pa>
+    <p_tk vh="H" name="KNAPTON, Gabe"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WY32" context="V,2,10,H32" playid="28,9,211" type="P" text="Cameron Higgins pass incomplete to Joe Collins (FLETCHER, John)." newcontext="V,3,10,H32">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Joe Collins"></p_pa>
+    <p_bu vh="H" name="FLETCHER, John"></p_bu>
+   </play>
+   <play hasball="WSU" down="3" togo="10" spot="WY32" context="V,3,10,H32" playid="28,10,212" type="P" text="Cameron Higgins pass incomplete to Tim Toone." newcontext="V,4,10,H32">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Tim Toone"></p_pa>
+   </play>
+   <play hasball="WSU" down="4" togo="10" spot="WY32" context="V,4,10,H32" playid="28,11,213" type="E" first="E" text="PENALTY WY pass interference (GIPSON, Marcell) 15 yards to the WY17, 1ST DOWN WSU." newcontext="V,1,10,H17">
+    <p_pn vh="H" code="PI" type="pass interference" name="GIPSON, Marcell" result="ACCEPT" at="H32" yards="15"></p_pn>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WY17" context="V,1,10,H17" playid="28,12,214" type="R" text="Treyvn Smith rush for 7 yards to the WY10 (BARELLA, Matt)." newcontext="V,2,3,H10">
+    <p_ru vh="V" name="Treyvn Smith" gain="7"></p_ru>
+    <p_tk vh="H" name="BARELLA, Matt"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="3" spot="WY10" context="V,2,3,H10" playid="28,13,215" type="R" text="Cameron Higgins rush for loss of 1 yard to the WY11, fumble by Cameron Higgins recovered by WSU Treyvn Smith at WY15." newcontext="V,3,8,H15">
+    <p_ru vh="V" name="Cameron Higgins" gain="-1"></p_ru>
+    <p_fumb vh="V" name="Cameron Higgins" at="H15" frvh="V" frname="Treyvn Smith"></p_fumb>
+   </play>
+   <play hasball="WSU" down="3" togo="8" spot="WY15" context="V,3,8,H15" playid="28,14,216" type="P" first="P" text="Cameron Higgins pass complete to Tim Toone for 11 yards to the WY4, 1ST DOWN WSU, out-of-bounds (GIPSON, Marcell)." ob="Y" newcontext="V,1,0,H04">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Tim Toone" gain="11"></p_pa>
+    <p_tk vh="H" name="GIPSON, Marcell"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="WY04" context="V,1,0,H04" playid="28,15,217" type="P" score="Y" clock="04:20" text="Cameron Higgins pass complete to Cody Nakamura for 4 yards to the WY0, TOUCHDOWN, clock 04:20." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Cody Nakamura" gain="4"></p_pa>
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="WY03" context="V,1,0,H03" playid="28,16,218" type="X" score="Y" text="Treyvn Smith rush attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Treyvn Smith" qb="Treyvn Smith" type="R" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="15" H="26"></score>
+   <drivesum plays="13" yards="67" top="5:25" driveindex="28" complete="Y"></drivesum>
+   <play hasball="WSU" down="1" togo="0" spot="WSU30" context="V,1,0,V30" playid="28,17,219" type="K" text="Mike Snoy kickoff 13 yards to the WSU43, out-of-bounds, WY ball on WSU38." ob="Y" newcontext="H,1,10,V38">
+    <p_ko vh="V" name="Mike Snoy" gain="13" result="O"></p_ko>
+   </play>
+   <drivestart poss="H,V38,04:20" vh="H" spot="V38" clock="04:20" driveindex="29,219"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WSU38" context="H,1,10,V38" playid="29,1,220" clock="04:20" text="WYOMING drive start at 04:20." newcontext="H,1,10,V38">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU38" context="H,1,10,V38" playid="29,2,221" type="R" text="TERRY, Darius rush for 1 yard to the WSU37 (Taylor Sedillo;Kevin Linehan)." newcontext="H,2,9,V37">
+    <p_ru vh="H" name="TERRY, Darius" gain="1"></p_ru>
+    <p_tk vh="V" name="Taylor Sedillo" assist="Y"></p_tk>
+    <p_tk vh="V" name="Kevin Linehan" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="9" spot="WSU37" context="H,2,9,V37" playid="29,3,222" type="P" first="P" text="CARTA-SAMUELS,A pass complete to ARNOLD, Orlando for 20 yards to the WSU17, 1ST DOWN WY (Blake Keller;Beau Hadley)." newcontext="H,1,10,V17">
+    <p_pa vh="H" qb="CARTA-SAMUELS,A" result="COMP" rcv="ARNOLD, Orlando" gain="20"></p_pa>
+    <p_tk vh="V" name="Blake Keller" assist="Y"></p_tk>
+    <p_tk vh="V" name="Beau Hadley" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU17" context="H,1,10,V17" playid="29,4,223" type="R" text="TERRY, Darius rush for 2 yards to the WSU15 (Kevin Linehan)." newcontext="H,2,8,V15">
+    <p_ru vh="H" name="TERRY, Darius" gain="2"></p_ru>
+    <p_tk vh="V" name="Kevin Linehan"></p_tk>
+   </play>
+   <play hasball="WY" down="2" togo="8" spot="WSU15" context="H,2,8,V15" playid="29,5,224" type="R" text="TERRY, Darius rush for 2 yards to the WSU13 (Caldwell Taylor;Ryan Eastman)." newcontext="H,3,6,V13">
+    <p_ru vh="H" name="TERRY, Darius" gain="2"></p_ru>
+    <p_tk vh="V" name="Caldwell Taylor" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ryan Eastman" assist="Y"></p_tk>
+   </play>
+   <play hasball="WY" down="3" togo="6" spot="WSU13" context="H,3,6,V13" playid="29,6,225" type="#" clock="02:22" text="Timeout Weber State, clock 02:22." newcontext="H,3,6,V13">
+    <p_to vh="V" team="Weber State"></p_to>
+   </play>
+   <play hasball="WY" down="3" togo="6" spot="WSU13" context="H,3,6,V13" playid="29,7,226" type="#" clock="02:22" text="Timeout Wyoming, clock 02:22." newcontext="H,3,6,V13">
+    <p_to vh="H" team="Wyoming"></p_to>
+   </play>
+   <play hasball="WY" down="3" togo="6" spot="WSU13" context="H,3,6,V13" playid="29,8,227" type="R" text="CARTA-SAMUELS,A rush for 5 yards to the WSU8, out-of-bounds (Jordan Brown)." ob="Y" newcontext="H,4,1,V08">
+    <p_ru vh="H" name="CARTA-SAMUELS,A" gain="5"></p_ru>
+    <p_tk vh="V" name="Jordan Brown"></p_tk>
+   </play>
+   <play hasball="WY" down="4" togo="1" spot="WSU08" context="H,4,1,V08" playid="29,9,228" type="F" score="Y" clock="01:50" text="MCCOY, Austin field goal attempt from 25 GOOD, clock 01:50." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="MCCOY, Austin" distance="25" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="15" H="29"></score>
+   <drivesum plays="6" yards="30" top="2:30" driveindex="29" complete="Y"></drivesum>
+   <play hasball="WY" down="1" togo="0" spot="WY30" context="H,1,0,H30" playid="29,10,229" type="K" text="SCOTT, Jake kickoff 62 yards to the WSU8, Bo Bolen return 23 yards to the WSU31 (MUHAMMAD,Ghaali)." newcontext="V,1,10,V31">
+    <p_ko vh="H" name="SCOTT, Jake" gain="62"></p_ko>
+    <p_kr vh="V" name="Bo Bolen" gain="23"></p_kr>
+    <p_tk vh="H" name="MUHAMMAD,Ghaali"></p_tk>
+   </play>
+   <drivestart poss="V,V31,01:50" vh="V" spot="V31" clock="01:50" driveindex="30,229"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU31" context="V,1,10,V31" playid="30,1,230" clock="01:50" text="WEBER STATE drive start at 01:50." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU31" context="V,1,10,V31" playid="30,2,231" type="P" first="P" text="Cameron Higgins pass complete to Tim Toone for 14 yards to the WSU45, 1ST DOWN WSU (PROSINSKI,Chris)." newcontext="V,1,10,V45">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Tim Toone" gain="14"></p_pa>
+    <p_tk vh="H" name="PROSINSKI,Chris"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU45" context="V,1,10,V45" playid="30,3,232" type="P" text="Cameron Higgins pass complete to Mike Phillips for 9 yards to the WY46 (BROWDER, Kenny)." newcontext="V,2,1,H46">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Mike Phillips" gain="9"></p_pa>
+    <p_tk vh="H" name="BROWDER, Kenny"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="1" spot="WY46" context="V,2,1,H46" playid="30,4,233" type="P" text="Cameron Higgins sacked for loss of 2 yards to the WY48 (FLETCHER, John)." newcontext="V,3,3,H48">
+    <p_pa vh="V" qb="Cameron Higgins" result="SACK" gain="-2"></p_pa>
+    <p_tk vh="H" name="FLETCHER, John" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="3" spot="WY48" context="V,3,3,H48" playid="30,5,234" type="#" clock="01:06" text="Timeout Weber State, clock 01:06." newcontext="V,3,3,H48">
+    <p_to vh="V" team="Weber State"></p_to>
+   </play>
+   <play hasball="WSU" down="3" togo="3" spot="WY48" context="V,3,3,H48" playid="30,6,235" type="P" first="P" text="Cameron Higgins pass complete to Bo Bolen for 8 yards to the WY40, 1ST DOWN WSU, out-of-bounds (BROWDER, Kenny)." ob="Y" newcontext="V,1,10,H40">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Bo Bolen" gain="8"></p_pa>
+    <p_tk vh="H" name="BROWDER, Kenny"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WY40" context="V,1,10,H40" playid="30,7,236" type="P" first="P" text="Cameron Higgins pass complete to Tim Toone for 11 yards to the WY29, 1ST DOWN WSU, out-of-bounds (BROWDER, Kenny)." ob="Y" newcontext="V,1,10,H29">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Tim Toone" gain="11"></p_pa>
+    <p_tk vh="H" name="BROWDER, Kenny"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WY29" context="V,1,10,H29" playid="30,8,237" type="P" text="Cameron Higgins pass incomplete to Mike Phillips." newcontext="V,2,10,H29">
+    <p_pa vh="V" qb="Cameron Higgins" result="INC" rcv="Mike Phillips"></p_pa>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WY29" context="V,2,10,H29" playid="30,9,238" type="P" first="P" text="Cameron Higgins pass complete to Joe Collins for 16 yards to the WY13, 1ST DOWN WSU, out-of-bounds." ob="Y" newcontext="V,1,10,H13">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Joe Collins" gain="16"></p_pa>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WY13" context="V,1,10,H13" playid="30,10,239" type="P" first="P" score="Y" clock="00:38" text="Cameron Higgins pass complete to Joe Collins for 13 yards to the WY0, 1ST DOWN WSU, TOUCHDOWN, clock 00:38." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Cameron Higgins" result="COMP" rcv="Joe Collins" gain="13"></p_pa>
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="WY03" context="V,1,0,H03" playid="30,11,240" type="X" score="Y" text="Mike Snoy kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Mike Snoy" qb="Mike Snoy" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="22" H="29"></score>
+   <drivesum plays="8" yards="69" top="1:12" driveindex="30" complete="Y"></drivesum>
+   <play hasball="WSU" down="1" togo="0" spot="WSU30" context="V,1,0,V30" playid="30,12,241" type="K" text="Mike Snoy kickoff 13 yards to the WSU43, on-side kick, recovered by WY on WSU43." newcontext="H,1,10,V43">
+    <p_ko vh="V" name="Mike Snoy" gain="13" result="N"></p_ko>
+   </play>
+   <drivestart poss="H,V43,00:38" vh="H" spot="V43" clock="00:38" driveindex="31,241"></drivestart>
+   <play hasball="WY" down="1" togo="10" spot="WSU43" context="H,1,10,V43" playid="31,1,242" clock="00:38" text="WYOMING drive start at 00:38." newcontext="H,1,10,V43">
+   </play>
+   <play hasball="WY" down="1" togo="10" spot="WSU43" context="H,1,10,V43" playid="31,2,243" type="R" text="TEAM rush for loss of 2 yards to the WSU45." newcontext="H,2,12,V45">
+    <p_ru vh="H" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="WY" down="2" togo="12" spot="WSU45" context="H,2,12,V45" playid="31,3,244" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,2,12,V45">
+   </play>
+   <drivesum plays="1" yards="-2" top="0:38" driveindex="31" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Wyoming defeats Weber State by a score of 29 to 22."></play>
+   <score final="Y" V="22" H="29"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="WSU">
+    <firstdowns no="9" rush="0" pass="8" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="5" thirdatt="7" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="08:05"></misc>
+    <rush att="4" yds="1" gain="8" loss="7" td="0" long="0"></rush>
+    <pass comp="15" att="20" int="0" yds="128" td="2" long="0" sacks="1" sackyds="2"></pass>
+    <rcv no="15" yds="128" td="2" long="0"></rcv>
+    <ko no="1" yds="13" ob="1" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="1"></fg>
+    <pat kickatt="1" kickmade="1" rushatt="1" rushmade="1"></pat>
+    <defense tackua="10" tacka="8" tot_tack="18" sacks="2" sackyds="8" brup="1"></defense>
+    <kr no="2" yds="42" td="0" long="0"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="2" patkick="1" patrush="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WY">
+    <firstdowns no="6" rush="4" pass="2" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:55"></misc>
+    <rush att="13" yds="66" gain="68" loss="2" td="0" long="0"></rush>
+    <pass comp="2" att="3" int="0" yds="34" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="34" td="0" long="0"></rcv>
+    <ko no="2" yds="118" ob="0" tb="0"></ko>
+    <fg made="2" att="2" long="3" blkd="0"></fg>
+    <defense tackua="14" tacka="6" tot_tack="20" tflua="1" tfla="0" tflyds="2" sacks="2" sackyds="10" brup="1" blkd="1"></defense>
+    <scoring fg="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="WY" down="2" togo="12" spot="WSU45" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="0" htor="2" dtgtext="Game Over" ldtext="Drive started: 00:38, 4th Qtr"></downtogo>
+ </plays>

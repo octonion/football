@@ -1,0 +1,716 @@
+<plays format="summary">
+    <qtr number="1" text="1st">
+      <play hasball="Wof" down="1" togo="10" spot="Wof30" context="V,1,10,V30" playid="0,1,0" text="Wof ball on Wof30." newcontext="V,1,10,V30">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof30" context="V,1,10,V30" playid="0,2,1" type="K" text="Wof kickoff to the SoFla5, Dontavia Bogan return 30 yards to the SoFla35." newcontext="H,1,10,H35">
+        <p_kr vh="H" name="Dontavia Bogan" gain="30"></p_kr>
+      </play>
+      <drivestart poss="H,H35,15:00" vh="H" spot="H35" clock="15:00" driveindex="1,1"></drivestart>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla35" context="H,1,10,H35" playid="1,1,2" type="P" clock="14:51" text="Matt Grothe pass complete to Dontavia Bogan for 9 yards to the SoFla44, clock 14:51." newcontext="H,2,1,H44">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Dontavia Bogan" gain="9"></p_pa>
+      </play>
+      <play hasball="SoFla" down="2" togo="1" spot="SoFla45" context="H,2,1,H45" playid="1,2,3" type="R" first="R" clock="14:51" text="Moise Plancher rush for 3 yards to the SoFla48, 1ST DOWN SoFla, clock 14:51." newcontext="H,1,10,H48">
+        <p_ru vh="H" name="Moise Plancher" gain="3"></p_ru>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla47" context="H,1,10,H47" playid="1,3,4" type="P" clock="14:03" text="Matt Grothe pass complete to Carlton Mitchell for 2 yards to the SoFla49, clock 14:03." newcontext="H,2,8,H49">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Carlton Mitchell" gain="2"></p_pa>
+      </play>
+      <play hasball="SoFla" down="2" togo="8" spot="SoFla49" context="H,2,8,H49" playid="1,4,5" type="P" first="P" clock="13:27" text="Matt Grothe pass complete to Evan Landi for 12 yards to the Wof39, 1ST DOWN SoFla, clock 13:27." newcontext="H,1,10,V39">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Evan Landi" gain="12"></p_pa>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof39" context="H,1,10,V39" playid="1,5,6" type="R" clock="12:59" text="Moise Plancher rush for 7 yards to the Wof32, clock 12:59." newcontext="H,2,3,V32">
+        <p_ru vh="H" name="Moise Plancher" gain="7"></p_ru>
+      </play>
+      <play hasball="SoFla" down="2" togo="3" spot="Wof33" context="H,2,3,V33" playid="1,6,7" type="P" first="P" clock="12:20" text="Matt Grothe pass complete to Carlton Mitchell for 9 yards to the Wof24, 1ST DOWN SoFla, clock 12:20." newcontext="H,1,10,V24">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Carlton Mitchell" gain="9"></p_pa>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof24" context="H,1,10,V24" playid="1,7,8" type="R" clock="11:47" text="Matt Grothe rush for 5 yards to the Wof19, clock 11:47." newcontext="H,2,5,V19">
+        <p_ru vh="H" name="Matt Grothe" gain="5"></p_ru>
+      </play>
+      <play hasball="SoFla" down="2" togo="5" spot="Wof19" context="H,2,5,V19" playid="1,8,9" type="P" clock="11:18" text="Matt Grothe pass incomplete, clock 11:18." newcontext="H,3,5,V19">
+        <p_pa vh="H" qb="Matt Grothe" result="INC"></p_pa>
+      </play>
+      <play hasball="SoFla" down="3" togo="5" spot="Wof20" context="H,3,5,V20" playid="1,9,10" type="P" first="P" clock="11:02" text="Matt Grothe pass complete to Carlton Mitchell for 9 yards to the Wof11, 1ST DOWN SoFla, clock 11:02." newcontext="H,1,10,V11">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Carlton Mitchell" gain="9"></p_pa>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof11" context="H,1,10,V11" playid="1,10,11" type="R" clock="10:37" text="Moise Plancher rush for 7 yards to the Wof4, clock 10:37." newcontext="H,2,3,V04">
+        <p_ru vh="H" name="Moise Plancher" gain="7"></p_ru>
+      </play>
+      <play hasball="SoFla" down="2" togo="3" spot="Wof04" context="H,2,3,V04" playid="1,11,12" type="R" score="Y" clock="09:46" text="Moise Plancher rush for 4 yards to the Wof0, TOUCHDOWN, clock 09:46." newcontext="H,1,0,V03">
+        <p_ru vh="H" name="Moise Plancher" gain="4"></p_ru>
+      </play>
+      <play hasball="SoFla" down="1" togo="0" spot="Wof03" context="H,1,0,V03" playid="1,12,13" type="X" score="Y" text="Delbert Alvarado kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Delbert Alvarado" qb="Delbert Alvarado" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="11" yards="67" top="5:14" driveindex="1" complete="Y"></drivesum>
+      <score V="0" H="7"></score>
+      <play hasball="SoFla" down="1" togo="0" spot="SoFla30" context="H,1,0,H30" playid="1,13,14" type="K" text="SoFla kickoff to the Wof4, Mike Rucker return 27 yards to the Wof31." newcontext="V,1,10,V31">
+        <p_kr vh="V" name="Mike Rucker" gain="27"></p_kr>
+      </play>
+      <drivestart poss="V,V21,09:46" vh="V" spot="V21" clock="09:46" driveindex="2,14"></drivestart>
+      <play hasball="Wof" down="1" togo="10" spot="Wof21" context="V,1,10,V21" playid="2,1,15" clock="09:46" text="WOFFORD drive start at 09:46." newcontext="V,1,10,V21">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof31" context="V,1,10,V31" playid="2,2,16" type="E" clock="09:40" text="PENALTY Wof 10 yards to the Wof21, clock 09:40." newcontext="V,1,20,V21">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V31" yards="10"></p_pn>
+      </play>
+      <play hasball="Wof" down="1" togo="20" spot="Wof21" context="V,1,20,V21" playid="2,3,17" type="P" clock="09:20" text="Mitch Allen pass complete to Brenton Bersin for 10 yards to the Wof31, clock 09:20." newcontext="V,2,10,V31">
+        <p_pa vh="V" qb="Mitch Allen" result="COMP" rcv="Brenton Bersin" gain="10"></p_pa>
+      </play>
+      <play hasball="Wof" down="2" togo="10" spot="Wof31" context="V,2,10,V31" playid="2,4,18" type="R" clock="08:50" text="Eric Breitenstein rush for 2 yards to the Wof33, clock 08:50." newcontext="V,3,8,V33">
+        <p_ru vh="V" name="Eric Breitenstein" gain="2"></p_ru>
+      </play>
+      <play hasball="Wof" down="3" togo="8" spot="Wof33" context="V,3,8,V33" playid="2,5,19" type="R" first="R" clock="08:15" text="Mitch Allen rush for 12 yards to the Wof45, 1ST DOWN Wof, clock 08:15." newcontext="V,1,10,V45">
+        <p_ru vh="V" name="Mitch Allen" gain="12"></p_ru>
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof45" context="V,1,10,V45" playid="2,6,20" type="R" clock="07:44" text="Mitch Allen rush for 6 yards to the SoFla49, clock 07:44." newcontext="V,2,4,H49">
+        <p_ru vh="V" name="Mitch Allen" gain="6"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="4" spot="SoFla49" context="V,2,4,H49" playid="2,7,21" type="R" clock="07:15" text="Mitch Allen rush for loss of 2 yards to the Wof49, clock 07:15." newcontext="V,3,6,V49">
+        <p_ru vh="V" name="Mitch Allen" gain="-2"></p_ru>
+      </play>
+      <play hasball="Wof" down="3" togo="6" spot="Wof49" context="V,3,6,V49" playid="2,8,22" type="P" first="P" clock="06:39" text="Mitch Allen pass complete to Devin Reed for 10 yards to the SoFla41, 1ST DOWN Wof, clock 06:39." newcontext="V,1,10,H41">
+        <p_pa vh="V" qb="Mitch Allen" result="COMP" rcv="Devin Reed" gain="10"></p_pa>
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="SoFla41" context="V,1,10,H41" playid="2,9,23" type="R" clock="06:39" text="Eric Breitenstein rush for 3 yards to the SoFla38, clock 06:39." newcontext="V,2,7,H38">
+        <p_ru vh="V" name="Eric Breitenstein" gain="3"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="7" spot="SoFla38" context="V,2,7,H38" playid="2,10,24" type="R" first="R" clock="05:21" text="Mitch Allen rush for 8 yards to the SoFla30, 1ST DOWN Wof, clock 05:21." newcontext="V,1,10,H30">
+        <p_ru vh="V" name="Mitch Allen" gain="8"></p_ru>
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="SoFla30" context="V,1,10,H30" playid="2,11,25" type="R" clock="04:57" text="Eric Breitenstein rush for 3 yards to the SoFla27, clock 04:57." newcontext="V,2,7,H27">
+        <p_ru vh="V" name="Eric Breitenstein" gain="3"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="7" spot="SoFla27" context="V,2,7,H27" playid="2,12,26" type="R" first="R" clock="04:20" text="Mitch Allen rush for 12 yards to the SoFla15, 1ST DOWN Wof, clock 04:20." newcontext="V,1,10,H15">
+        <p_ru vh="V" name="Mitch Allen" gain="12"></p_ru>
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="SoFla15" context="V,1,10,H15" playid="2,13,27" type="R" first="R" clock="03:40" text="Eric Breitenstein rush for 13 yards to the SoFla2, 1ST DOWN Wof, clock 03:40." newcontext="V,1,0,H02">
+        <p_ru vh="V" name="Eric Breitenstein" gain="13"></p_ru>
+      </play>
+      <play hasball="Wof" down="1" togo="0" spot="SoFla02" context="V,1,0,H02" playid="2,14,28" type="R" score="Y" clock="03:00" text="Eric Breitenstein rush for 2 yards to the SoFla0, TOUCHDOWN, clock 03:00." newcontext="V,1,0,H03">
+        <p_ru vh="V" name="Eric Breitenstein" gain="2"></p_ru>
+      </play>
+      <play hasball="Wof" down="1" togo="0" spot="SoFla03" context="V,1,0,H03" playid="2,15,29" type="X" score="Y" text="Chris Tommie kick attempt good." newcontext="V,1,0,V30">
+        <p_pat vh="V" name="Chris Tommie" qb="Chris Tommie" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="12" yards="69" top="6:46" driveindex="2" complete="Y"></drivesum>
+      <score V="7" H="7"></score>
+      <play hasball="Wof" down="1" togo="0" spot="Wof30" context="V,1,0,V30" playid="2,16,30" type="K" text="Wof kickoff to the SoFla10, Dontavia Bogan return 22 yards to the SoFla32." newcontext="H,1,10,H32">
+        <p_kr vh="H" name="Dontavia Bogan" gain="22"></p_kr>
+      </play>
+      <drivestart poss="H,H16,03:00" vh="H" spot="H16" clock="03:00" driveindex="3,30"></drivestart>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla16" context="H,1,10,H16" playid="3,1,31" clock="03:00" text="SOUTH FLORIDA drive start at 03:00." newcontext="H,1,10,H16">
+      </play>
+      <play hasball="SoFla" down="1" togo="0" spot="Wof00" context="H,1,0,V00" playid="3,2,32" type="E" clock="02:52" text="PENALTY SoFla 16 yards to the Wof16, clock 02:52." newcontext="H,1,0,V16">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V00" yards="16"></p_pn>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla16" context="H,1,10,H16" playid="3,3,33" type="P" first="P" clock="02:52" text="Matt Grothe pass complete to Lindsey Lamar for 14 yards to the SoFla30, 1ST DOWN SoFla, clock 02:52." newcontext="H,1,10,H30">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Lindsey Lamar" gain="14"></p_pa>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla30" context="H,1,10,H30" playid="3,4,34" type="P" clock="02:40" text="Matt Grothe pass complete to Carlton Mitchell for 2 yards to the SoFla32, clock 02:40." newcontext="H,2,8,H32">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Carlton Mitchell" gain="2"></p_pa>
+      </play>
+      <play hasball="SoFla" down="2" togo="8" spot="SoFla32" context="H,2,8,H32" playid="3,5,35" type="P" first="P" clock="02:40" text="Matt Grothe pass complete to Carlton Mitchell for 9 yards to the SoFla41, 1ST DOWN SoFla, clock 02:40." newcontext="H,1,10,H41">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Carlton Mitchell" gain="9"></p_pa>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla41" context="H,1,10,H41" playid="3,6,36" type="R" clock="02:40" text="Lindsey Lamar rush for loss of 2 yards to the SoFla39, clock 02:40." newcontext="H,2,12,H39">
+        <p_ru vh="H" name="Lindsey Lamar" gain="-2"></p_ru>
+      </play>
+      <play hasball="SoFla" down="2" togo="12" spot="SoFla39" context="H,2,12,H39" playid="3,7,37" type="P" clock="00:51" text="Matt Grothe pass complete to Dontavia Bogan for 6 yards to the SoFla45, clock 00:51." newcontext="H,3,6,H45">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Dontavia Bogan" gain="6"></p_pa>
+      </play>
+      <play hasball="SoFla" down="3" togo="6" spot="SoFla45" context="H,3,6,H45" playid="3,8,38" type="P" clock="00:51" text="Matt Grothe pass incomplete, clock 00:51." newcontext="H,4,6,H45">
+        <p_pa vh="H" qb="Matt Grothe" result="INC"></p_pa>
+      </play>
+      <play hasball="SoFla" down="4" togo="7" spot="SoFla44" context="H,4,7,H44" playid="3,9,39" type="U" text="Delbert Alvarado punt 35 yards to the Wof21." newcontext="V,1,10,V21">
+        <p_pu vh="H" name="Delbert Alvarado" gain="35"></p_pu>
+      </play>
+      <score qtr="1" V="7" H="7"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="Wof">
+        <firstdowns no="6" rush="5" pass="1" penalty="0"></firstdowns>
+        <penalties no="1" yds="10"></penalties>
+        <conversions thirdconv="2" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="06:53"></misc>
+        <rush att="10" yds="59" gain="61" loss="2" td="1" long="13"></rush>
+        <pass comp="2" att="2" int="0" yds="20" td="0" long="10" sacks="0" sackyds="0"></pass>
+        <rcv no="2" yds="20" td="0" long="10"></rcv>
+        <ko no="2" yds="" ob="" tb=""></ko>
+        <pat kickatt="1" kickmade="1"></pat>
+        <kr no="1" yds="27" td="0" long="27"></kr>
+        <scoring td="1" patkick="1"></scoring>
+      </qtrsummary>
+      <qtrsummary vh="H" id="SoFla">
+        <firstdowns no="7" rush="2" pass="5" penalty="0"></firstdowns>
+        <penalties no="1" yds="16"></penalties>
+        <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="08:07"></misc>
+        <rush att="6" yds="24" gain="26" loss="2" td="1" long="7"></rush>
+        <pass comp="9" att="11" int="0" yds="72" td="0" long="14" sacks="0" sackyds="0"></pass>
+        <rcv no="9" yds="72" td="0" long="14"></rcv>
+        <punt no="1" yds="35" long="35" blkd="0" tb="0" fc="" plus50="0" inside20="0" avg="35.0"></punt>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <pat kickatt="1" kickmade="1"></pat>
+        <kr no="2" yds="52" td="0" long="30"></kr>
+        <scoring td="1" patkick="1"></scoring>
+      </qtrsummary>
+    </qtr>
+    <qtr number="2" text="2nd">
+      <play hasball="Wof" down="1" togo="10" spot="Wof21" context="V,1,10,V21" playid="3,10,40" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,1,10,V21">
+      </play>
+      <drivesum plays="6" yards="13" top="2:53" driveindex="3" complete="Y"></drivesum>
+      <drivestart poss="V,V21,00:07" vh="V" spot="V21" clock="00:07" driveindex="4,40"></drivestart>
+      <play hasball="Wof" down="1" togo="10" spot="Wof21" context="V,1,10,V21" playid="4,1,41" clock="00:07" text="WOFFORD drive start at 00:07." newcontext="V,1,10,V21">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof21" context="V,1,10,V21" playid="4,2,42" type="R" clock="15:00" text="Mitch Allen rush for 6 yards to the Wof27, clock 15:00." newcontext="V,2,4,V27">
+        <p_ru vh="V" name="Mitch Allen" gain="6"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="4" spot="Wof27" context="V,2,4,V27" playid="4,3,43" type="P" clock="14:34" text="Mitch Allen pass incomplete, clock 14:34." newcontext="V,3,4,V27">
+        <p_pa vh="V" qb="Mitch Allen" result="INC"></p_pa>
+      </play>
+      <play hasball="Wof" down="3" togo="4" spot="Wof27" context="V,3,4,V27" playid="4,4,44" type="R" clock="14:22" text="Mike Rucker rush for 3 yards to the Wof30, clock 14:22." newcontext="V,4,1,V30">
+        <p_ru vh="V" name="Mike Rucker" gain="3"></p_ru>
+      </play>
+      <play hasball="Wof" down="4" togo="1" spot="Wof30" context="V,4,1,V30" playid="4,5,45" type="R" first="R" clock="14:12" text="Mitch Allen rush for 1 yard to the Wof31, 1ST DOWN Wof, clock 14:12." newcontext="V,1,10,V31">
+        <p_ru vh="V" name="Mitch Allen" gain="1"></p_ru>
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof31" context="V,1,10,V31" playid="4,6,46" type="R" clock="13:44" text="Sean Lees rush for 2 yards to the Wof33, clock 13:44." newcontext="V,2,8,V33">
+        <p_ru vh="V" name="Sean Lees" gain="2"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="8" spot="Wof34" context="V,2,8,V34" playid="4,7,47" type="R" clock="13:02" text="Mitch Allen rush for loss of 2 yards to the Wof32, clock 13:02." newcontext="V,3,10,V32">
+        <p_ru vh="V" name="Mitch Allen" gain="-2"></p_ru>
+      </play>
+      <play hasball="Wof" down="3" togo="10" spot="Wof32" context="V,3,10,V32" playid="4,8,48" type="R" clock="12:25" text="Mitch Allen rush for 3 yards to the Wof35, clock 12:25." newcontext="V,4,7,V35">
+        <p_ru vh="V" name="Mitch Allen" gain="3"></p_ru>
+      </play>
+      <play hasball="Wof" down="4" togo="7" spot="Wof35" context="V,4,7,V35" playid="4,9,49" type="U" text="Chris Tommie punt 32 yards to the SoFla33, Ricardo Dixon return 2 yards to the SoFla35." newcontext="H,1,10,H35">
+        <p_pu vh="V" name="Chris Tommie" gain="32"></p_pu>
+        <p_pr vh="H" name="Ricardo Dixon" gain="2"></p_pr>
+      </play>
+      <drivesum plays="7" yards="13" top="3:15" driveindex="4" complete="Y"></drivesum>
+      <drivestart poss="H,H35,11:52" vh="H" spot="H35" clock="11:52" driveindex="5,49"></drivestart>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla35" context="H,1,10,H35" playid="5,1,50" clock="11:52" text="SOUTH FLORIDA drive start at 11:52." newcontext="H,1,10,H35">
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla35" context="H,1,10,H35" playid="5,2,51" type="R" turnover="F" clock="11:52" text="Aston Samuels rush for 5 yards to the SoFla40, fumble by Aston Samuels recovered by Wof Tommy Irvin at SoFla48, clock 11:52." newcontext="V,1,10,H48">
+        <p_ru vh="H" name="Aston Samuels" gain="5"></p_ru>
+        <p_fumb vh="H" name="Aston Samuels" at="H35" frvh="V" frname="Tommy Irvin"></p_fumb>
+      </play>
+      <drivesum plays="1" yards="5" top="0:00" driveindex="5" complete="Y"></drivesum>
+      <drivestart poss="V,H48,11:52" vh="V" spot="H48" clock="11:52" driveindex="6,51"></drivestart>
+      <play hasball="Wof" down="1" togo="10" spot="SoFla48" context="V,1,10,H48" playid="6,1,52" clock="11:52" text="WOFFORD drive start at 11:52." newcontext="V,1,10,H48">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="SoFla48" context="V,1,10,H48" playid="6,2,53" type="R" clock="11:52" text="Mitch Allen rush for 4 yards to the SoFla44, clock 11:52." newcontext="V,2,6,H44">
+        <p_ru vh="V" name="Mitch Allen" gain="4"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="6" spot="SoFla44" context="V,2,6,H44" playid="6,3,54" type="R" first="R" clock="11:00" text="Eric Breitenstein rush for 16 yards to the SoFla28, 1ST DOWN Wof, clock 11:00." newcontext="V,1,10,H28">
+        <p_ru vh="V" name="Eric Breitenstein" gain="16"></p_ru>
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="SoFla28" context="V,1,10,H28" playid="6,4,55" type="R" clock="10:15" text="Eric Breitenstein rush for 9 yards to the SoFla19, clock 10:15." newcontext="V,2,1,H19">
+        <p_ru vh="V" name="Eric Breitenstein" gain="9"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="1" spot="SoFla19" context="V,2,1,H19" playid="6,5,56" type="#" clock="09:27" text="Timeout WOFFORD, clock 09:27." newcontext="V,2,1,H19">
+        <p_to vh="V" team="WOFFORD"></p_to>
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="SoFla28" context="V,1,10,H28" playid="6,6,57" type="*" text="." newcontext="V,1,10,H28">
+      </play>
+      <play hasball="Wof" down="2" togo="1" spot="SoFla19" context="V,2,1,H19" playid="6,7,58" type="R" first="R" clock="09:27" text="Michael Scott rush for 2 yards to the SoFla17, 1ST DOWN Wof, clock 09:27." newcontext="V,1,10,H17">
+        <p_ru vh="V" name="Michael Scott" gain="2"></p_ru>
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="SoFla18" context="V,1,10,H18" playid="6,8,59" type="R" clock="09:27" text="Mitch Allen rush for 3 yards to the SoFla15, clock 09:27." newcontext="V,2,7,H15">
+        <p_ru vh="V" name="Mitch Allen" gain="3"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="7" spot="SoFla15" context="V,2,7,H15" playid="6,9,60" type="R" clock="08:30" text="Eric Breitenstein rush for 4 yards to the SoFla11, clock 08:30." newcontext="V,3,3,H11">
+        <p_ru vh="V" name="Eric Breitenstein" gain="4"></p_ru>
+      </play>
+      <play hasball="Wof" down="3" togo="3" spot="SoFla11" context="V,3,3,H11" playid="6,10,61" type="E" clock="07:40" text="PENALTY Wof 10 yards to the SoFla21, clock 07:40." newcontext="V,3,13,H21">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H11" yards="10"></p_pn>
+      </play>
+      <play hasball="Wof" down="3" togo="13" spot="SoFla21" context="V,3,13,H21" playid="6,11,62" type="P" clock="07:08" text="Mitch Allen pass incomplete, clock 07:08." newcontext="V,4,13,H21">
+        <p_pa vh="V" qb="Mitch Allen" result="INC"></p_pa>
+      </play>
+      <play hasball="Wof" down="4" togo="13" spot="SoFla21" context="V,4,13,H21" playid="6,12,63" type="F" clock="06:59" text="Chris Tommie field goal attempt from 38 MISSED, clock 06:59." newcontext="H,1,10,H28">
+        <p_fg vh="V" name="Chris Tommie" distance="38" result="MISSED"></p_fg>
+      </play>
+      <drivesum plays="9" yards="28" top="4:53" driveindex="6" complete="Y"></drivesum>
+      <score V="7" H="7"></score>
+      <drivestart poss="H,H45,06:55" vh="H" spot="H45" clock="06:55" driveindex="7,63"></drivestart>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla45" context="H,1,10,H45" playid="7,1,64" clock="06:55" text="SOUTH FLORIDA drive start at 06:55." newcontext="H,1,10,H45">
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla21" context="H,1,10,H21" playid="7,2,65" type="P" first="P" clock="06:55" text="Matt Grothe pass complete to Dontavia Bogan for 24 yards to the SoFla45, 1ST DOWN SoFla, clock 06:55." newcontext="H,1,10,H45">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Dontavia Bogan" gain="24"></p_pa>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla45" context="H,1,10,H45" playid="7,3,66" type="R" clock="06:55" text="Moise Plancher rush for 7 yards to the Wof48, clock 06:55." newcontext="H,2,3,V48">
+        <p_ru vh="H" name="Moise Plancher" gain="7"></p_ru>
+      </play>
+      <play hasball="SoFla" down="2" togo="3" spot="Wof48" context="H,2,3,V48" playid="7,4,67" type="R" first="R" clock="05:52" text="Matt Grothe rush for 38 yards to the Wof10, 1ST DOWN SoFla, clock 05:52." newcontext="H,1,0,V10">
+        <p_ru vh="H" name="Matt Grothe" gain="38"></p_ru>
+      </play>
+      <play hasball="SoFla" down="1" togo="0" spot="Wof10" context="H,1,0,V10" playid="7,5,68" type="E" clock="05:52" text="PENALTY SoFla 5 yards to the Wof15, clock 05:52." newcontext="H,1,0,V15">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V10" yards="5"></p_pn>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof15" context="H,1,10,V15" playid="7,6,69" type="P" clock="05:52" text="Matt Grothe pass complete to Lindsey Lamar for 1 yard to the Wof14, clock 05:52." newcontext="H,2,9,V14">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Lindsey Lamar" gain="1"></p_pa>
+      </play>
+      <play hasball="SoFla" down="2" togo="9" spot="Wof14" context="H,2,9,V14" playid="7,7,70" type="P" clock="04:33" text="Matt Grothe sacked for loss of 5 yards to the Wof19 (Ricco Braxton), clock 04:33." newcontext="H,3,14,V19">
+        <p_pa vh="H" qb="Matt Grothe" result="SACK" gain="-5"></p_pa>
+        <p_tk vh="V" name="Ricco Braxton" sack="Y" tfl="Y"></p_tk>
+      </play>
+      <play hasball="SoFla" down="3" togo="14" spot="Wof19" context="H,3,14,V19" playid="7,8,71" type="P" clock="04:33" text="Matt Grothe pass incomplete, PENALTY Wof 10 yards to the Wof9, clock 04:33." newcontext="H,4,4,V09">
+        <p_pa vh="H" qb="Matt Grothe" result="INC"></p_pa>
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V19" yards="10"></p_pn>
+      </play>
+      <play hasball="SoFla" down="4" togo="4" spot="Wof09" context="H,4,4,V09" playid="7,9,72" type="P" first="P" clock="04:33" text="Matt Grothe pass complete to Dontavia Bogan for 5 yards to the Wof4, 1ST DOWN SoFla, clock 04:33." newcontext="H,1,0,V04">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Dontavia Bogan" gain="5"></p_pa>
+      </play>
+      <play hasball="SoFla" down="1" togo="0" spot="Wof04" context="H,1,0,V04" playid="7,10,73" type="P" turnover="I" text="Matt Grothe pass intercepted by Tommy Irvin at the Wof4, Tommy Irvin return 0 yards to the Wof4." newcontext="V,1,10,V04">
+        <p_pa vh="H" qb="Matt Grothe" result="INT"></p_pa>
+        <p_ir vh="V" name="Tommy Irvin" at="V04" gain="0"></p_ir>
+      </play>
+      <drivesum plays="8" yards="75" top="2:22" driveindex="7" complete="Y"></drivesum>
+      <drivestart poss="V,V20,04:33" vh="V" spot="V20" clock="04:33" driveindex="8,73"></drivestart>
+      <play hasball="Wof" down="1" togo="10" spot="Wof20" context="V,1,10,V20" playid="8,1,74" clock="04:33" text="WOFFORD drive start at 04:33." newcontext="V,1,10,V20">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof20" context="V,1,10,V20" playid="8,2,75" type="R" clock="02:58" text="Eric Breitenstein rush for 5 yards to the Wof25, clock 02:58." newcontext="V,2,5,V25">
+        <p_ru vh="V" name="Eric Breitenstein" gain="5"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="5" spot="Wof25" context="V,2,5,V25" playid="8,3,76" type="R" clock="02:33" text="Mitch Allen rush for 4 yards to the Wof29, clock 02:33." newcontext="V,3,1,V29">
+        <p_ru vh="V" name="Mitch Allen" gain="4"></p_ru>
+      </play>
+      <play hasball="Wof" down="3" togo="1" spot="Wof29" context="V,3,1,V29" playid="8,4,77" type="R" clock="02:04" text="Eric Breitenstein rush for no gain to the Wof29, clock 02:04." newcontext="V,4,1,V29">
+        <p_ru vh="V" name="Eric Breitenstein" gain="0"></p_ru>
+      </play>
+      <play hasball="Wof" down="4" togo="1" spot="Wof29" context="V,4,1,V29" playid="8,5,78" type="#" clock="01:14" text="Timeout WOFFORD, clock 01:14." newcontext="V,4,1,V29">
+        <p_to vh="V" team="WOFFORD"></p_to>
+      </play>
+      <play hasball="Wof" down="4" togo="1" spot="Wof29" context="V,4,1,V29" playid="8,6,79" type="#" clock="01:14" text="Timeout WOFFORD, clock 01:14." newcontext="V,4,1,V29">
+        <p_to vh="V" team="WOFFORD"></p_to>
+      </play>
+      <play hasball="Wof" down="4" togo="1" spot="Wof29" context="V,4,1,V29" playid="8,7,80" type="E" clock="01:14" text="PENALTY Wof 5 yards to the Wof24, clock 01:14." newcontext="V,4,6,V24">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V29" yards="5"></p_pn>
+      </play>
+      <play hasball="Wof" down="4" togo="6" spot="Wof24" context="V,4,6,V24" playid="8,8,81" type="P" clock="01:14" text="Chris Tommie sacked for loss of 10 yards to the Wof14 (Tyson Butler), clock 01:14." newcontext="H,1,10,V14">
+        <p_pa vh="V" qb="Chris Tommie" result="SACK" gain="-10"></p_pa>
+        <p_tk vh="H" name="Tyson Butler" sack="Y" tfl="Y"></p_tk>
+      </play>
+      <drivesum plays="4" yards="-6" top="3:19" driveindex="8" complete="Y"></drivesum>
+      <drivestart poss="H,V08,01:14" vh="H" spot="V08" clock="01:14" driveindex="9,81"></drivestart>
+      <play hasball="SoFla" down="1" togo="0" spot="Wof08" context="H,1,0,V08" playid="9,1,82" clock="01:14" text="SOUTH FLORIDA drive start at 01:14." newcontext="H,1,0,V08">
+      </play>
+      <play hasball="SoFla" down="1" togo="0" spot="Wof08" context="H,1,0,V08" playid="9,2,83" type="E" clock="01:14" text="PENALTY SoFla 5 yards to the Wof13, clock 01:14." newcontext="H,1,0,V13">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V08" yards="5"></p_pn>
+      </play>
+      <play hasball="SoFla" down="1" togo="0" spot="Wof13" context="H,1,0,V13" playid="9,3,84" type="P" clock="01:02" text="Matt Grothe pass complete to Dontavia Bogan for 8 yards to the Wof5, clock 01:02." newcontext="H,2,0,V05">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Dontavia Bogan" gain="8"></p_pa>
+      </play>
+      <play hasball="SoFla" down="2" togo="0" spot="Wof05" context="H,2,0,V05" playid="9,4,85" type="#" clock="00:48" text="Timeout SOUTH FLORIDA, clock 00:48." newcontext="H,2,0,V05">
+        <p_to vh="H" team="SOUTH FLORIDA"></p_to>
+      </play>
+      <play hasball="SoFla" down="2" togo="0" spot="Wof05" context="H,2,0,V05" playid="9,5,86" type="R" clock="00:48" text="Matt Grothe rush for no gain to the Wof5, clock 00:48." newcontext="H,3,0,V05">
+        <p_ru vh="H" name="Matt Grothe" gain="0"></p_ru>
+      </play>
+      <play hasball="SoFla" down="3" togo="0" spot="Wof05" context="H,3,0,V05" playid="9,6,87" type="#" clock="00:41" text="Timeout SOUTH FLORIDA, clock 00:41." newcontext="H,3,0,V05">
+        <p_to vh="H" team="SOUTH FLORIDA"></p_to>
+      </play>
+      <play hasball="SoFla" down="3" togo="0" spot="Wof05" context="H,3,0,V05" playid="9,7,88" type="P" score="Y" clock="00:36" text="Matt Grothe pass complete to Theo Wilson for 5 yards to the Wof0, TOUCHDOWN, clock 00:36." newcontext="H,1,0,V03">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Theo Wilson" gain="5"></p_pa>
+      </play>
+      <play hasball="SoFla" down="1" togo="0" spot="Wof03" context="H,1,0,V03" playid="9,8,89" type="X" score="Y" text="Delbert Alvarado kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Delbert Alvarado" qb="Delbert Alvarado" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="3" yards="8" top="0:38" driveindex="9" complete="Y"></drivesum>
+      <score V="7" H="14"></score>
+      <play hasball="SoFla" down="1" togo="0" spot="SoFla30" context="H,1,0,H30" playid="9,9,90" type="K" text="SoFla kickoff to the Wof3, Stev Davitte return 21 yards to the Wof24." newcontext="V,1,10,V24">
+        <p_kr vh="V" name="Stev Davitte" gain="21"></p_kr>
+      </play>
+      <drivestart poss="V,V24,00:36" vh="V" spot="V24" clock="00:36" driveindex="10,90"></drivestart>
+      <play hasball="Wof" down="1" togo="10" spot="Wof24" context="V,1,10,V24" playid="10,1,91" clock="00:36" text="WOFFORD drive start at 00:36." newcontext="V,1,10,V24">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof24" context="V,1,10,V24" playid="10,2,92" type="R" first="R" clock="00:29" text="Eric Breitenstein rush for 12 yards to the Wof36, 1ST DOWN Wof, clock 00:29." newcontext="V,1,10,V36">
+        <p_ru vh="V" name="Eric Breitenstein" gain="12"></p_ru>
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof36" context="V,1,10,V36" playid="10,3,93" type="P" clock="00:23" text="Mitch Allen pass complete to Brenton Bersin for 6 yards to the Wof42, clock 00:23." newcontext="V,2,4,V42">
+        <p_pa vh="V" qb="Mitch Allen" result="COMP" rcv="Brenton Bersin" gain="6"></p_pa>
+      </play>
+      <play hasball="Wof" down="2" togo="4" spot="Wof42" context="V,2,4,V42" playid="10,4,94" type="P" clock="00:17" text="Mitch Allen pass incomplete, clock 00:17." newcontext="V,3,4,V42">
+        <p_pa vh="V" qb="Mitch Allen" result="INC"></p_pa>
+      </play>
+      <play hasball="Wof" down="3" togo="4" spot="Wof42" context="V,3,4,V42" playid="10,5,95" type="P" clock="00:13" text="Mitch Allen pass incomplete, clock 00:13." newcontext="V,4,4,V42">
+        <p_pa vh="V" qb="Mitch Allen" result="INC"></p_pa>
+      </play>
+      <play hasball="Wof" down="4" togo="4" spot="Wof42" context="V,4,4,V42" playid="10,6,96" type="R" score="Y" clock="00:13" text="Chris Tommie rush for loss of 42 yards to the Wof0, TEAM safety, clock 00:13." newcontext="V,4,4,V30">
+        <p_ru vh="V" name="Chris Tommie" gain="-42"></p_ru>
+      </play>
+      <drivesum plays="5" yards="-24" top="0:23" driveindex="10" complete="Y"></drivesum>
+      <drivestart poss="V,V30,00:01" vh="V" spot="V30" clock="00:01" driveindex="12,96"></drivestart>
+      <play hasball="Wof" down="1" togo="10" spot="Wof30" context="V,1,10,V30" playid="12,1,97" clock="00:01" text="WOFFORD drive start at 00:01." newcontext="V,1,10,V30">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof30" context="V,1,10,V30" playid="12,2,98" type="K" text="Wof kickoff to the SoFla33, Richard Kelly return 17 yards to the 50 yardline." newcontext="H,1,10,H50">
+        <p_kr vh="H" name="Richard Kelly" gain="17"></p_kr>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla50" context="H,1,10,H50" playid="12,3,99" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,1,10,H50">
+      </play>
+      <drivesum plays="1" yards="0" top="0:00" driveindex="12" complete="Y"></drivesum>
+      <score qtr="2" V="7" H="16"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="Wof">
+        <firstdowns no="4" rush="4" pass="0" penalty="0"></firstdowns>
+        <penalties no="3" yds="25"></penalties>
+        <conversions thirdconv="0" thirdatt="5" fourthconv="1" fourthatt="3"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="11:43"></misc>
+        <rush att="18" yds="20" gain="74" loss="54" td="0" long="16"></rush>
+        <pass comp="1" att="5" int="0" yds="6" td="0" long="6" sacks="1" sackyds="10"></pass>
+        <rcv no="1" yds="6" td="0" long="6"></rcv>
+        <punt no="1" yds="32" long="32" blkd="0" tb="0" fc="" plus50="0" inside20="0" avg="32.0"></punt>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <fg made="0" att="1" long="0" blkd="0"></fg>
+        <defense sacks="1" sackyds="5" fr="1" fryds="0" int="1" intyds="0"></defense>
+        <kr no="1" yds="21" td="0" long="21"></kr>
+        <ir no="1" yds="0" td="0" long="0"></ir>
+      </qtrsummary>
+      <qtrsummary vh="H" id="SoFla">
+        <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+        <penalties no="2" yds="10"></penalties>
+        <conversions thirdconv="1" thirdatt="1" fourthconv="1" fourthatt="1"></conversions>
+        <fumbles no="1" lost="1"></fumbles>
+        <misc yds="" top="03:01"></misc>
+        <rush att="5" yds="45" gain="50" loss="5" td="0" long="38"></rush>
+        <pass comp="5" att="7" int="1" yds="43" td="1" long="24" sacks="1" sackyds="5"></pass>
+        <rcv no="5" yds="43" td="1" long="24"></rcv>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <pat kickatt="1" kickmade="1"></pat>
+        <defense sacks="1" sackyds="10" saf="1"></defense>
+        <kr no="1" yds="17" td="0" long="17"></kr>
+        <pr no="1" yds="2" td="0" long="2"></pr>
+        <scoring td="1" saf="1" patkick="1"></scoring>
+      </qtrsummary>
+    </qtr>
+    <qtr number="3" text="3rd">
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla50" context="H,1,10,H50" playid="12,4,100" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, SoFla ball on SoFla30." newcontext="H,1,10,H30">
+      </play>
+      <drivestart poss="H,H50,00:01" vh="H" spot="H50" clock="00:01" driveindex="13,100"></drivestart>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla50" context="H,1,10,H50" playid="13,1,101" clock="00:01" text="SOUTH FLORIDA drive start at 00:01." newcontext="H,1,10,H50">
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla50" context="H,1,10,H50" playid="13,2,102" type="K" text="SoFla kickoff to the Wof0, Mike Rucker return 26 yards to the Wof26." newcontext="V,1,10,V26">
+        <p_kr vh="V" name="Mike Rucker" gain="26"></p_kr>
+      </play>
+      <drivesum plays="0" yards="0" top="0:01" driveindex="13" complete="Y"></drivesum>
+      <drivestart poss="V,V26,15:00" vh="V" spot="V26" clock="15:00" driveindex="14,102"></drivestart>
+      <play hasball="Wof" down="1" togo="10" spot="Wof26" context="V,1,10,V26" playid="14,1,103" clock="15:00" text="WOFFORD drive start at 15:00." newcontext="V,1,10,V26">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof26" context="V,1,10,V26" playid="14,2,104" type="R" clock="14:54" text="Eric Breitenstein rush for 3 yards to the Wof29, clock 14:54." newcontext="V,2,7,V29">
+        <p_ru vh="V" name="Eric Breitenstein" gain="3"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="7" spot="Wof29" context="V,2,7,V29" playid="14,3,105" type="P" clock="14:29" text="Mitch Allen sacked for loss of 11 yards to the Wof18 (Chris Robinson), clock 14:29." newcontext="V,3,18,V18">
+        <p_pa vh="V" qb="Mitch Allen" result="SACK" gain="-11"></p_pa>
+        <p_tk vh="H" name="Chris Robinson" sack="Y" tfl="Y"></p_tk>
+      </play>
+      <play hasball="Wof" down="3" togo="18" spot="Wof18" context="V,3,18,V18" playid="14,4,106" type="E" clock="13:44" text="PENALTY Wof 9 yards to the Wof9, clock 13:44." newcontext="V,3,27,V09">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V18" yards="9"></p_pn>
+      </play>
+      <play hasball="Wof" down="3" togo="27" spot="Wof09" context="V,3,27,V09" playid="14,5,107" type="P" clock="13:22" text="Mitch Allen sacked for loss of 6 yards to the Wof3 (George Selvie), clock 13:22." newcontext="V,4,33,V03">
+        <p_pa vh="V" qb="Mitch Allen" result="SACK" gain="-6"></p_pa>
+        <p_tk vh="H" name="George Selvie" sack="Y" tfl="Y"></p_tk>
+      </play>
+      <play hasball="Wof" down="4" togo="33" spot="Wof03" context="V,4,33,V03" playid="14,6,108" type="U" text="Chris Tommie punt 37 yards to the Wof40." newcontext="H,1,10,V40">
+        <p_pu vh="V" name="Chris Tommie" gain="37"></p_pu>
+      </play>
+      <drivesum plays="3" yards="-23" top="2:23" driveindex="14" complete="Y"></drivesum>
+      <drivestart poss="H,V40,12:37" vh="H" spot="V40" clock="12:37" driveindex="15,108"></drivestart>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof40" context="H,1,10,V40" playid="15,1,109" clock="12:37" text="SOUTH FLORIDA drive start at 12:37." newcontext="H,1,10,V40">
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof40" context="H,1,10,V40" playid="15,2,110" type="R" clock="12:37" text="Moise Plancher rush for 4 yards to the Wof36, clock 12:37." newcontext="H,2,6,V36">
+        <p_ru vh="H" name="Moise Plancher" gain="4"></p_ru>
+      </play>
+      <play hasball="SoFla" down="2" togo="6" spot="Wof35" context="H,2,6,V35" playid="15,3,111" type="R" first="R" clock="12:02" text="Moise Plancher rush for 16 yards to the Wof19, 1ST DOWN SoFla, clock 12:02." newcontext="H,1,10,V19">
+        <p_ru vh="H" name="Moise Plancher" gain="16"></p_ru>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof19" context="H,1,10,V19" playid="15,4,112" type="R" clock="11:30" text="Moise Plancher rush for 9 yards to the Wof10, clock 11:30." newcontext="H,2,1,V10">
+        <p_ru vh="H" name="Moise Plancher" gain="9"></p_ru>
+      </play>
+      <play hasball="SoFla" down="2" togo="1" spot="Wof10" context="H,2,1,V10" playid="15,5,113" type="R" score="Y" clock="10:47" text="Moise Plancher rush for 10 yards to the Wof0, TOUCHDOWN, clock 10:47." newcontext="H,1,0,V03">
+        <p_ru vh="H" name="Moise Plancher" gain="10"></p_ru>
+      </play>
+      <play hasball="SoFla" down="1" togo="0" spot="Wof03" context="H,1,0,V03" playid="15,6,114" type="X" score="Y" text="Delbert Alvarado kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Delbert Alvarado" qb="Delbert Alvarado" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="4" yards="39" top="1:50" driveindex="15" complete="Y"></drivesum>
+      <score V="7" H="23"></score>
+      <play hasball="SoFla" down="1" togo="0" spot="SoFla30" context="H,1,0,H30" playid="15,7,115" type="K" text="SoFla kickoff to the Wof19, Stephon Shelton return 10 yards to the Wof29." newcontext="V,1,10,V29">
+        <p_kr vh="V" name="Stephon Shelton" gain="10"></p_kr>
+      </play>
+      <drivestart poss="V,V29,10:47" vh="V" spot="V29" clock="10:47" driveindex="16,115"></drivestart>
+      <play hasball="Wof" down="1" togo="10" spot="Wof29" context="V,1,10,V29" playid="16,1,116" clock="10:47" text="WOFFORD drive start at 10:47." newcontext="V,1,10,V29">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof29" context="V,1,10,V29" playid="16,2,117" type="R" clock="10:43" text="Mike Rucker rush for 5 yards to the Wof34, clock 10:43." newcontext="V,2,5,V34">
+        <p_ru vh="V" name="Mike Rucker" gain="5"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="5" spot="Wof34" context="V,2,5,V34" playid="16,3,118" type="R" turnover="F" first="R" clock="10:19" text="Stev Davitte rush for 16 yards to the 50 yardline, 1ST DOWN Wof, fumble by Stev Davitte recovered by SoFla Quenton Washington at Wof42, clock 10:19." newcontext="H,1,10,H50">
+        <p_ru vh="V" name="Stev Davitte" gain="16"></p_ru>
+        <p_fumb vh="V" name="Stev Davitte" at="V34" frvh="H" frname="Quenton Washington"></p_fumb>
+      </play>
+      <drivesum plays="2" yards="21" top="0:28" driveindex="16" complete="Y"></drivesum>
+      <drivestart poss="H,V42,10:19" vh="H" spot="V42" clock="10:19" driveindex="17,118"></drivestart>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof42" context="H,1,10,V42" playid="17,1,119" clock="10:19" text="SOUTH FLORIDA drive start at 10:19." newcontext="H,1,10,V42">
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof42" context="H,1,10,V42" playid="17,2,120" type="P" clock="10:19" text="B.J. Daniels pass complete to A.J. Love for 7 yards to the Wof35, clock 10:19." newcontext="H,2,3,V35">
+        <p_pa vh="H" qb="B.J. Daniels" result="COMP" rcv="A.J. Love" gain="7"></p_pa>
+      </play>
+      <play hasball="SoFla" down="2" togo="3" spot="Wof35" context="H,2,3,V35" playid="17,3,121" type="R" first="R" clock="09:19" text="Lindsey Lamar rush for 10 yards to the Wof25, 1ST DOWN SoFla, clock 09:19." newcontext="H,1,10,V25">
+        <p_ru vh="H" name="Lindsey Lamar" gain="10"></p_ru>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof23" context="H,1,10,V23" playid="17,4,122" type="R" first="R" clock="08:49" text="B.J. Daniels rush for 11 yards to the Wof12, 1ST DOWN SoFla, clock 08:49." newcontext="H,1,10,V12">
+        <p_ru vh="H" name="B.J. Daniels" gain="11"></p_ru>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof12" context="H,1,10,V12" playid="17,5,123" type="R" clock="08:17" text="B.J. Daniels rush for no gain to the Wof12, clock 08:17." newcontext="H,2,10,V12">
+        <p_ru vh="H" name="B.J. Daniels" gain="0"></p_ru>
+      </play>
+      <play hasball="SoFla" down="2" togo="10" spot="Wof12" context="H,2,10,V12" playid="17,6,124" type="#" clock="07:24" text="Timeout SOUTH FLORIDA, clock 07:24." newcontext="H,2,10,V12">
+        <p_to vh="H" team="SOUTH FLORIDA"></p_to>
+      </play>
+      <play hasball="SoFla" down="2" togo="10" spot="Wof12" context="H,2,10,V12" playid="17,7,125" type="R" clock="07:24" text="Lindsey Lamar rush for loss of 1 yard to the Wof13, clock 07:24." newcontext="H,3,11,V13">
+        <p_ru vh="H" name="Lindsey Lamar" gain="-1"></p_ru>
+      </play>
+      <play hasball="SoFla" down="3" togo="11" spot="Wof13" context="H,3,11,V13" playid="17,8,126" type="R" clock="06:55" text="B.J. Daniels rush for 6 yards to the Wof7, clock 06:55." newcontext="H,4,5,V07">
+        <p_ru vh="H" name="B.J. Daniels" gain="6"></p_ru>
+      </play>
+      <play hasball="SoFla" down="4" togo="5" spot="Wof07" context="H,4,5,V07" playid="17,9,127" type="E" clock="06:55" text="PENALTY SoFla 5 yards to the Wof12, clock 06:55." newcontext="H,4,10,V12">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V07" yards="5"></p_pn>
+      </play>
+      <play hasball="SoFla" down="4" togo="12" spot="Wof13" context="H,4,12,V13" playid="17,10,128" type="F" score="Y" clock="05:51" text="Delbert Alvarado field goal attempt from 30 GOOD, clock 05:51." newcontext="H,1,0,H30">
+        <p_fg vh="H" name="Delbert Alvarado" distance="30" result="GOOD" score="Y"></p_fg>
+      </play>
+      <drivesum plays="7" yards="28" top="4:28" driveindex="17" complete="Y"></drivesum>
+      <score V="7" H="26"></score>
+      <drivestart poss="V,H00,05:51" vh="V" spot="H00" clock="05:51" driveindex="18,128"></drivestart>
+      <play hasball="Wof" down="1" togo="0" spot="SoFla00" context="V,1,0,H00" playid="18,1,129" clock="05:51" text="WOFFORD drive start at 05:51." newcontext="V,1,0,H00">
+      </play>
+      <play hasball="Wof" down="1" togo="0" spot="SoFla00" context="V,1,0,H00" playid="18,2,130" type="E" clock="05:51" text="PENALTY SoFla 5 yards to the SoFla0, clock 05:51." newcontext="V,1,0,H00">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="H00" yards="5"></p_pn>
+      </play>
+      <drivesum plays="0" yards="5" top="0:00" driveindex="18" complete="Y"></drivesum>
+      <drivestart poss="H,H25,05:51" vh="H" spot="H25" clock="05:51" driveindex="19,130"></drivestart>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla25" context="H,1,10,H25" playid="19,1,131" clock="05:51" text="SOUTH FLORIDA drive start at 05:51." newcontext="H,1,10,H25">
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla25" context="H,1,10,H25" playid="19,2,132" type="K" text="SoFla kickoff to the Wof16, Stephon Shelton return 18 yards to the Wof34." newcontext="V,1,10,V34">
+        <p_kr vh="V" name="Stephon Shelton" gain="18"></p_kr>
+      </play>
+      <drivesum plays="1" yards="0" top="0:00" driveindex="19" complete="Y"></drivesum>
+      <drivestart poss="V,V34,05:51" vh="V" spot="V34" clock="05:51" driveindex="20,132"></drivestart>
+      <play hasball="Wof" down="1" togo="10" spot="Wof34" context="V,1,10,V34" playid="20,1,133" clock="05:51" text="WOFFORD drive start at 05:51." newcontext="V,1,10,V34">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof34" context="V,1,10,V34" playid="20,2,134" type="R" clock="05:40" text="Mitch Allen rush for 8 yards to the Wof42, clock 05:40." newcontext="V,2,2,V42">
+        <p_ru vh="V" name="Mitch Allen" gain="8"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="2" spot="Wof42" context="V,2,2,V42" playid="20,3,135" type="R" turnover="F" first="R" clock="05:12" text="Eric Breitenstein rush for 42 yards to the SoFla16, 1ST DOWN Wof, fumble by Eric Breitenstein recovered by SoFla Tyson Butler at SoFla6, clock 05:12." newcontext="H,1,10,H06">
+        <p_ru vh="V" name="Eric Breitenstein" gain="42"></p_ru>
+        <p_fumb vh="V" name="Eric Breitenstein" at="V42" frvh="H" frname="Tyson Butler"></p_fumb>
+      </play>
+      <drivesum plays="2" yards="50" top="0:39" driveindex="20" complete="Y"></drivesum>
+      <drivestart poss="H,H06,05:12" vh="H" spot="H06" clock="05:12" driveindex="21,135"></drivestart>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla06" context="H,1,10,H06" playid="21,1,136" clock="05:12" text="SOUTH FLORIDA drive start at 05:12." newcontext="H,1,10,H06">
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla06" context="H,1,10,H06" playid="21,2,137" type="R" clock="05:12" text="Moise Plancher rush for 6 yards to the SoFla12, clock 05:12." newcontext="H,2,4,H12">
+        <p_ru vh="H" name="Moise Plancher" gain="6"></p_ru>
+      </play>
+      <play hasball="SoFla" down="2" togo="4" spot="SoFla12" context="H,2,4,H12" playid="21,3,138" type="R" first="R" clock="04:20" text="Matt Grothe rush for 8 yards to the SoFla20, 1ST DOWN SoFla, clock 04:20." newcontext="H,1,10,H20">
+        <p_ru vh="H" name="Matt Grothe" gain="8"></p_ru>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla20" context="H,1,10,H20" playid="21,4,139" type="R" clock="03:57" text="Moise Plancher rush for 5 yards to the SoFla25, clock 03:57." newcontext="H,2,5,H25">
+        <p_ru vh="H" name="Moise Plancher" gain="5"></p_ru>
+      </play>
+      <play hasball="SoFla" down="2" togo="5" spot="SoFla25" context="H,2,5,H25" playid="21,5,140" type="R" clock="03:25" text="Moise Plancher rush for no gain to the SoFla25, fumble by Moise Plancher recovered by SoFla Moise Plancher at SoFla25, clock 03:25." newcontext="H,3,5,H25">
+        <p_ru vh="H" name="Moise Plancher" gain="0"></p_ru>
+        <p_fumb vh="H" name="Moise Plancher" at="H25" frvh="H" frname="Moise Plancher"></p_fumb>
+      </play>
+      <play hasball="SoFla" down="3" togo="5" spot="SoFla25" context="H,3,5,H25" playid="21,6,141" type="P" first="P" clock="03:25" text="Matt Grothe pass complete to Carlton Mitchell for 6 yards to the SoFla31, 1ST DOWN SoFla, clock 03:25." newcontext="H,1,10,H31">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Carlton Mitchell" gain="6"></p_pa>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla31" context="H,1,10,H31" playid="21,7,142" type="P" clock="02:15" text="Matt Grothe pass incomplete, clock 02:15." newcontext="H,2,10,H31">
+        <p_pa vh="H" qb="Matt Grothe" result="INC"></p_pa>
+      </play>
+      <play hasball="SoFla" down="2" togo="10" spot="SoFla31" context="H,2,10,H31" playid="21,8,143" type="E" clock="02:15" text="PENALTY SoFla 20 yards to the SoFla11, clock 02:15." newcontext="H,2,30,H11">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="H31" yards="20"></p_pn>
+      </play>
+      <play hasball="SoFla" down="1" togo="25" spot="SoFla11" context="H,1,25,H11" playid="21,9,144" type="P" clock="02:15" text="Matt Grothe pass incomplete, clock 02:15." newcontext="H,2,25,H11">
+        <p_pa vh="H" qb="Matt Grothe" result="INC"></p_pa>
+      </play>
+      <play hasball="SoFla" down="2" togo="25" spot="SoFla11" context="H,2,25,H11" playid="21,10,145" type="R" clock="01:51" text="Matt Grothe rush for 7 yards to the SoFla18, clock 01:51." newcontext="H,3,18,H18">
+        <p_ru vh="H" name="Matt Grothe" gain="7"></p_ru>
+      </play>
+      <play hasball="SoFla" down="3" togo="18" spot="SoFla18" context="H,3,18,H18" playid="21,11,146" type="R" clock="01:18" text="Matt Grothe rush for loss of 15 yards to the SoFla3, clock 01:18." newcontext="H,4,33,H03">
+        <p_ru vh="H" name="Matt Grothe" gain="-15"></p_ru>
+      </play>
+      <play hasball="SoFla" down="4" togo="33" spot="SoFla08" context="H,4,33,H08" playid="21,12,147" type="U" text="Delbert Alvarado punt 50 yards to the Wof42." newcontext="V,1,10,V42">
+        <p_pu vh="H" name="Delbert Alvarado" gain="50"></p_pu>
+      </play>
+      <drivesum plays="10" yards="-3" top="4:35" driveindex="21" complete="Y"></drivesum>
+      <drivestart poss="V,V42,00:37" vh="V" spot="V42" clock="00:37" driveindex="22,147"></drivestart>
+      <play hasball="Wof" down="1" togo="10" spot="Wof42" context="V,1,10,V42" playid="22,1,148" clock="00:37" text="WOFFORD drive start at 00:37." newcontext="V,1,10,V42">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof42" context="V,1,10,V42" playid="22,2,149" type="R" clock="00:37" text="Mike Rucker rush for 4 yards to the Wof46, clock 00:37." newcontext="V,2,6,V46">
+        <p_ru vh="V" name="Mike Rucker" gain="4"></p_ru>
+      </play>
+      <score qtr="3" V="7" H="26"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="Wof">
+        <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+        <penalties no="1" yds="9"></penalties>
+        <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="2" lost="2"></fumbles>
+        <misc yds="" top="04:07"></misc>
+        <rush att="8" yds="61" gain="78" loss="17" td="0" long="42"></rush>
+        <punt no="1" yds="37" long="37" blkd="0" tb="0" fc="" plus50="0" inside20="0" avg="37.0"></punt>
+        <kr no="3" yds="54" td="0" long="26"></kr>
+      </qtrsummary>
+      <qtrsummary vh="H" id="SoFla">
+        <firstdowns no="6" rush="5" pass="1" penalty="0"></firstdowns>
+        <penalties no="3" yds="30"></penalties>
+        <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="1" lost="0"></fumbles>
+        <misc yds="" top="10:53"></misc>
+        <rush att="15" yds="76" gain="92" loss="16" td="1" long="16"></rush>
+        <pass comp="2" att="4" int="0" yds="13" td="0" long="7" sacks="0" sackyds="0"></pass>
+        <rcv no="2" yds="13" td="0" long="7"></rcv>
+        <punt no="1" yds="50" long="50" blkd="0" tb="0" fc="" plus50="1" inside20="0" avg="50.0"></punt>
+        <ko no="3" yds="" ob="" tb=""></ko>
+        <fg made="1" att="1" long="30" blkd="0"></fg>
+        <pat kickatt="1" kickmade="1"></pat>
+        <defense sacks="2" sackyds="17" fr="2" fryds="8"></defense>
+        <scoring td="1" fg="1" patkick="1"></scoring>
+      </qtrsummary>
+    </qtr>
+    <qtr number="4" text="4th">
+      <play hasball="Wof" down="2" togo="6" spot="Wof46" context="V,2,6,V46" playid="22,3,150" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,2,6,V46">
+      </play>
+      <play hasball="Wof" down="2" togo="6" spot="Wof46" context="V,2,6,V46" playid="22,4,151" type="P" clock="15:00" text="Mitch Allen pass incomplete, clock 15:00." newcontext="V,3,6,V46">
+        <p_pa vh="V" qb="Mitch Allen" result="INC"></p_pa>
+      </play>
+      <play hasball="Wof" down="3" togo="6" spot="Wof46" context="V,3,6,V46" playid="22,5,152" type="R" first="R" clock="14:56" text="Mitch Allen rush for 7 yards to the SoFla47, 1ST DOWN Wof, clock 14:56." newcontext="V,1,10,H47">
+        <p_ru vh="V" name="Mitch Allen" gain="7"></p_ru>
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="SoFla47" context="V,1,10,H47" playid="22,6,153" type="R" clock="14:32" text="Arsenio Parks rush for no gain to the SoFla47, clock 14:32." newcontext="V,2,10,H47">
+        <p_ru vh="V" name="Arsenio Parks" gain="0"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="10" spot="SoFla47" context="V,2,10,H47" playid="22,7,154" type="R" clock="13:52" text="Arsenio Parks rush for 3 yards to the SoFla44, clock 13:52." newcontext="V,3,7,H44">
+        <p_ru vh="V" name="Arsenio Parks" gain="3"></p_ru>
+      </play>
+      <play hasball="Wof" down="3" togo="7" spot="SoFla44" context="V,3,7,H44" playid="22,8,155" type="R" clock="13:23" text="Mitch Allen rush for loss of 1 yard to the SoFla45, clock 13:23." newcontext="V,4,8,H45">
+        <p_ru vh="V" name="Mitch Allen" gain="-1"></p_ru>
+      </play>
+      <play hasball="Wof" down="4" togo="8" spot="SoFla45" context="V,4,8,H45" playid="22,9,156" type="P" clock="12:45" text="Mitch Allen pass incomplete, clock 12:45." newcontext="H,1,10,H45">
+        <p_pa vh="V" qb="Mitch Allen" result="INC"></p_pa>
+      </play>
+      <drivesum plays="7" yards="13" top="2:52" driveindex="22" complete="Y"></drivesum>
+      <drivestart poss="H,H45,12:28" vh="H" spot="H45" clock="12:28" driveindex="23,156"></drivestart>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla45" context="H,1,10,H45" playid="23,1,157" clock="12:28" text="SOUTH FLORIDA drive start at 12:28." newcontext="H,1,10,H45">
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="SoFla45" context="H,1,10,H45" playid="23,2,158" type="P" clock="12:28" text="Matt Grothe sacked for loss of 10 yards to the SoFla35 (SeQuan Stanley), clock 12:28." newcontext="H,2,20,H35">
+        <p_pa vh="H" qb="Matt Grothe" result="SACK" gain="-10"></p_pa>
+        <p_tk vh="V" name="SeQuan Stanley" sack="Y" tfl="Y"></p_tk>
+      </play>
+      <play hasball="SoFla" down="2" togo="20" spot="SoFla35" context="H,2,20,H35" playid="23,3,159" type="P" clock="11:55" text="Matt Grothe pass complete to Theo Wilson for 8 yards to the SoFla43, clock 11:55." newcontext="H,3,12,H43">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Theo Wilson" gain="8"></p_pa>
+      </play>
+      <play hasball="SoFla" down="3" togo="12" spot="SoFla43" context="H,3,12,H43" playid="23,4,160" type="P" first="P" clock="11:14" text="Matt Grothe pass complete to A.J. Love for 18 yards to the Wof39, 1ST DOWN SoFla, clock 11:14." newcontext="H,1,10,V39">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="A.J. Love" gain="18"></p_pa>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof39" context="H,1,10,V39" playid="23,5,161" type="R" clock="10:40" text="Lindsey Lamar rush for loss of 4 yards to the Wof43, clock 10:40." newcontext="H,2,14,V43">
+        <p_ru vh="H" name="Lindsey Lamar" gain="-4"></p_ru>
+      </play>
+      <play hasball="SoFla" down="2" togo="14" spot="Wof43" context="H,2,14,V43" playid="23,6,162" type="R" clock="10:10" text="Lindsey Lamar rush for 7 yards to the Wof36, clock 10:10." newcontext="H,3,7,V36">
+        <p_ru vh="H" name="Lindsey Lamar" gain="7"></p_ru>
+      </play>
+      <play hasball="SoFla" down="3" togo="7" spot="Wof36" context="H,3,7,V36" playid="23,7,163" type="P" clock="09:32" text="Matt Grothe pass complete to Lindsey Lamar for 4 yards to the Wof32, clock 09:32." newcontext="H,4,3,V32">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Lindsey Lamar" gain="4"></p_pa>
+      </play>
+      <play hasball="SoFla" down="4" togo="3" spot="Wof32" context="H,4,3,V32" playid="23,8,164" type="P" first="E" clock="08:44" text="Matt Grothe pass complete to Lindsey Lamar for 7 yards to the Wof25, 1ST DOWN SoFla, PENALTY Wof 12 yards to the Wof13, 1ST DOWN SoFla, clock 08:44." newcontext="H,1,10,V13">
+        <p_pa vh="H" qb="Matt Grothe" result="COMP" rcv="Lindsey Lamar" gain="7"></p_pa>
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V25" yards="12"></p_pn>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof13" context="H,1,10,V13" playid="23,9,165" type="R" score="Y" clock="08:18" text="Lindsey Lamar rush for 13 yards to the Wof0, TOUCHDOWN, clock 08:18." newcontext="H,1,0,V03">
+        <p_ru vh="H" name="Lindsey Lamar" gain="13"></p_ru>
+      </play>
+      <play hasball="SoFla" down="1" togo="0" spot="Wof03" context="H,1,0,V03" playid="23,10,166" type="X" score="Y" text="Delbert Alvarado kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Delbert Alvarado" qb="Delbert Alvarado" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="8" yards="55" top="4:10" driveindex="23" complete="Y"></drivesum>
+      <score V="7" H="33"></score>
+      <play hasball="SoFla" down="1" togo="0" spot="SoFla30" context="H,1,0,H30" playid="23,11,167" type="K" text="SoFla kickoff to the Wof13, Mike Rucker return 15 yards to the Wof28." newcontext="V,1,10,V28">
+        <p_kr vh="V" name="Mike Rucker" gain="15"></p_kr>
+      </play>
+      <drivestart poss="V,V28,08:18" vh="V" spot="V28" clock="08:18" driveindex="24,167"></drivestart>
+      <play hasball="Wof" down="1" togo="10" spot="Wof28" context="V,1,10,V28" playid="24,1,168" clock="08:18" text="WOFFORD drive start at 08:18." newcontext="V,1,10,V28">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof28" context="V,1,10,V28" playid="24,2,169" type="R" clock="08:12" text="Arsenio Parks rush for loss of 2 yards to the Wof26, clock 08:12." newcontext="V,2,12,V26">
+        <p_ru vh="V" name="Arsenio Parks" gain="-2"></p_ru>
+      </play>
+      <play hasball="Wof" down="2" togo="12" spot="Wof26" context="V,2,12,V26" playid="24,3,170" type="R" clock="08:12" text="Stev Davitte rush for loss of 1 yard to the Wof25, clock 08:12." newcontext="V,3,13,V25">
+        <p_ru vh="V" name="Stev Davitte" gain="-1"></p_ru>
+      </play>
+      <play hasball="Wof" down="3" togo="13" spot="Wof25" context="V,3,13,V25" playid="24,4,171" type="P" clock="07:10" text="Stev Davitte pass incomplete, clock 07:10." newcontext="V,4,13,V25">
+        <p_pa vh="V" qb="Stev Davitte" result="INC"></p_pa>
+      </play>
+      <play hasball="Wof" down="4" togo="13" spot="Wof25" context="V,4,13,V25" playid="24,5,172" type="U" text="Chris Tommie punt 60 yards to the SoFla15, Theo Wilson return 47 yards to the Wof38." newcontext="H,1,10,V38">
+        <p_pu vh="V" name="Chris Tommie" gain="60"></p_pu>
+        <p_pr vh="H" name="Theo Wilson" gain="47"></p_pr>
+      </play>
+      <drivesum plays="3" yards="-3" top="1:08" driveindex="24" complete="Y"></drivesum>
+      <drivestart poss="H,V38,07:10" vh="H" spot="V38" clock="07:10" driveindex="25,172"></drivestart>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof38" context="H,1,10,V38" playid="25,1,173" clock="07:10" text="SOUTH FLORIDA drive start at 07:10." newcontext="H,1,10,V38">
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof38" context="H,1,10,V38" playid="25,2,174" type="R" first="R" clock="07:10" text="Lindsey Lamar rush for 13 yards to the Wof25, 1ST DOWN SoFla, clock 07:10." newcontext="H,1,10,V25">
+        <p_ru vh="H" name="Lindsey Lamar" gain="13"></p_ru>
+      </play>
+      <play hasball="SoFla" down="1" togo="10" spot="Wof25" context="H,1,10,V25" playid="25,3,175" type="R" clock="06:00" text="Lindsey Lamar rush for 4 yards to the Wof21, clock 06:00." newcontext="H,2,6,V21">
+        <p_ru vh="H" name="Lindsey Lamar" gain="4"></p_ru>
+      </play>
+      <play hasball="SoFla" down="2" togo="6" spot="Wof21" context="H,2,6,V21" playid="25,4,176" type="P" score="Y" clock="05:06" text="B.J. Daniels pass complete to Jeffrey Wilson for 22 yards to the Wof0, TOUCHDOWN, clock 05:06." newcontext="H,1,0,V03">
+        <p_pa vh="H" qb="B.J. Daniels" result="COMP" rcv="Jeffrey Wilson" gain="22"></p_pa>
+      </play>
+      <play hasball="SoFla" down="1" togo="0" spot="Wof03" context="H,1,0,V03" playid="25,5,177" type="X" score="Y" text="Delbert Alvarado kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Delbert Alvarado" qb="Delbert Alvarado" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="3" yards="39" top="2:04" driveindex="25" complete="Y"></drivesum>
+      <score V="7" H="40"></score>
+      <play hasball="SoFla" down="1" togo="0" spot="SoFla30" context="H,1,0,H30" playid="25,6,178" type="K" text="SoFla kickoff to the Wof3, Stephon Shelton return 23 yards to the Wof26." newcontext="V,1,10,V26">
+        <p_kr vh="V" name="Stephon Shelton" gain="23"></p_kr>
+      </play>
+      <drivestart poss="V,V26,05:06" vh="V" spot="V26" clock="05:06" driveindex="26,178"></drivestart>
+      <play hasball="Wof" down="1" togo="10" spot="Wof26" context="V,1,10,V26" playid="26,1,179" clock="05:06" text="WOFFORD drive start at 05:06." newcontext="V,1,10,V26">
+      </play>
+      <play hasball="Wof" down="1" togo="10" spot="Wof26" context="V,1,10,V26" playid="26,2,180" type="R" clock="04:59" text="Stev Davitte rush for 6 yards to the Wof32, clock 04:59." newcontext="V,2,4,V32">
+        <p_ru vh="V" name="Stev Davitte" gain="6"></p_ru>
+      </play>
+      <score qtr="4" V="7" H="40"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="Wof">
+        <firstdowns no="1" rush="1" pass="0" penalty="0"></firstdowns>
+        <penalties no="1" yds="12"></penalties>
+        <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="03:30"></misc>
+        <rush att="7" yds="12" gain="16" loss="4" td="0" long="7"></rush>
+        <pass comp="0" att="3" int="0" yds="0" td="0" long="" sacks="0" sackyds="0"></pass>
+        <punt no="1" yds="60" long="60" blkd="0" tb="0" fc="" plus50="1" inside20="0" avg="60.0"></punt>
+        <defense sacks="1" sackyds="10"></defense>
+        <kr no="2" yds="38" td="0" long="23"></kr>
+      </qtrsummary>
+      <qtrsummary vh="H" id="SoFla">
+        <firstdowns no="6" rush="2" pass="3" penalty="1"></firstdowns>
+        <penalties no="0" yds="0"></penalties>
+        <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="06:14"></misc>
+        <rush att="6" yds="23" gain="37" loss="14" td="1" long="13"></rush>
+        <pass comp="5" att="5" int="0" yds="59" td="1" long="22" sacks="1" sackyds="10"></pass>
+        <rcv no="5" yds="59" td="1" long="22"></rcv>
+        <ko no="2" yds="" ob="" tb=""></ko>
+        <pat kickatt="2" kickmade="2"></pat>
+        <pr no="1" yds="47" td="0" long="47"></pr>
+        <scoring td="2" patkick="2"></scoring>
+      </qtrsummary>
+    </qtr>
+    <downtogo hasball="V" id="Wof" down="2" togo="4" spot="Wof32" qtr="4" clock="04:59" lastplay="Stev Davitte rush for 6 yards to the Wof32, clock 04:59." final="N" halftime="N" vtor="3" htor="2" dtgtext="Woffd - 2nd and 4 on Woffd 32" ldtext="Drive started: 05:06, 4th Qtr"></downtogo>
+  </plays>

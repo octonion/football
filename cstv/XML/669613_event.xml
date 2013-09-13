@@ -1,0 +1,1012 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="ASU" down="1" togo="10" spot="ASU30" context="V,1,10,V30" playid="0,1,0" text="TX State wins toss; Tx State will receive from south endzone." newcontext="V,1,10,V30">
+   </play>
+   <comment text="Tx State Captains: Houston, Clark, George, Luna"></comment>
+   <comment text="Angelo State Captains: 8, 64, 23"></comment>
+   <play hasball="ASU" down="1" togo="10" spot="ASU30" context="V,1,10,V30" playid="0,2,3" text="ASU ball on ASU30." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU30" context="V,1,10,V30" playid="0,3,4" type="K" text="Brad Holcomb kickoff 61 yards to the TXST9, Bush, Karringto return 37 yards to the TXST46 (Rickey McKinley;B.J. Bradley)." newcontext="H,1,10,H46">
+    <p_ko vh="V" name="Brad Holcomb" gain="61"></p_ko>
+    <p_kr vh="H" name="Bush, Karringto" gain="37"></p_kr>
+    <p_tk vh="V" name="Rickey McKinley" assist="Y"></p_tk>
+    <p_tk vh="V" name="B.J. Bradley" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H46,15:00" vh="H" spot="H46" clock="15:00" driveindex="1,4"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST46" context="H,1,10,H46" playid="1,1,5" type="E" text="PENALTY TXST illegal procedure 5 yards to the TXST41." newcontext="H,1,15,H41">
+    <p_pn vh="H" code="PR" type="illegal procedure" result="ACCEPT" at="H46" yards="5"></p_pn>
+   </play>
+   <play hasball="TXST" down="1" togo="15" spot="TXST41" context="H,1,15,H41" playid="1,2,6" type="R" text="Bush, Karringto rush for 8 yards to the TXST49 (Tanner Jacobs;D'Angelo Waites)." newcontext="H,2,7,H49">
+    <p_ru vh="H" name="Bush, Karringto" gain="8"></p_ru>
+    <p_tk vh="V" name="Tanner Jacobs" assist="Y"></p_tk>
+    <p_tk vh="V" name="D'Angelo Waites" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="7" spot="TXST49" context="H,2,7,H49" playid="1,3,7" type="P" first="P" text="George, Bradley pass complete to Dillard, Daren for 10 yards to the ASU41, 1ST DOWN TXST." newcontext="H,1,10,V41">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Dillard, Daren" gain="10"></p_pa>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="ASU41" context="H,1,10,V41" playid="1,4,8" type="R" text="Bush, Karringto rush for no gain to the ASU41 (Pete Parker)." newcontext="H,2,10,V41">
+    <p_ru vh="H" name="Bush, Karringto" gain="0"></p_ru>
+    <p_tk vh="V" name="Pete Parker"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="10" spot="ASU41" context="H,2,10,V41" playid="1,5,9" type="R" text="Alexander, Cedr rush for 3 yards to the ASU38 (Ian Ritchey)." newcontext="H,3,7,V38">
+    <p_ru vh="H" name="Alexander, Cedr" gain="3"></p_ru>
+    <p_tk vh="V" name="Ian Ritchey"></p_tk>
+   </play>
+   <play hasball="TXST" down="3" togo="7" spot="ASU38" context="H,3,7,V38" playid="1,6,10" type="P" first="P" text="George, Bradley pass complete to Brooks, Andrew for 9 yards to the ASU29, 1ST DOWN TXST (Tanner Jacobs;D'Angelo Waites), PENALTY ASU offside declined." newcontext="H,1,10,V29">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Brooks, Andrew" gain="9"></p_pa>
+    <p_tk vh="V" name="Tanner Jacobs" assist="Y"></p_tk>
+    <p_tk vh="V" name="D'Angelo Waites" assist="Y"></p_tk>
+    <p_pn vh="V" code="OS" type="offside" name="D'Angelo Waites" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="ASU29" context="H,1,10,V29" playid="1,7,11" type="P" first="P" text="George, Bradley pass complete to Griggs, Da'Marc for 19 yards to the ASU10, 1ST DOWN TXST." newcontext="H,1,0,V10">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Griggs, Da'Marc" gain="19"></p_pa>
+   </play>
+   <play hasball="TXST" down="1" togo="0" spot="ASU10" context="H,1,0,V10" playid="1,8,12" type="R" text="Bush, Karringto rush for 4 yards to the ASU6 (Tanner Jacobs)." newcontext="H,2,0,V06">
+    <p_ru vh="H" name="Bush, Karringto" gain="4"></p_ru>
+    <p_tk vh="V" name="Tanner Jacobs"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="0" spot="ASU06" context="H,2,0,V06" playid="1,9,13" type="R" text="Alexander, Cedr rush for 5 yards to the ASU1 (Alvin Johnson;Rickey McKinley)." newcontext="H,3,0,V01">
+    <p_ru vh="H" name="Alexander, Cedr" gain="5"></p_ru>
+    <p_tk vh="V" name="Alvin Johnson" assist="Y"></p_tk>
+    <p_tk vh="V" name="Rickey McKinley" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="3" togo="0" spot="ASU01" context="H,3,0,V01" playid="1,10,14" type="R" text="Bush, Karringto rush for loss of 1 yard to the ASU2 (Rickey McKinley)." newcontext="H,4,0,V02">
+    <p_ru vh="H" name="Bush, Karringto" gain="-1"></p_ru>
+    <p_tk vh="V" name="Rickey McKinley" tfl="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="4" togo="0" spot="ASU02" context="H,4,0,V02" playid="1,11,15" type="#" clock="10:23" text="Timeout Texas State, clock 10:23." newcontext="H,4,0,V02">
+    <p_to vh="H" team="Texas State"></p_to>
+   </play>
+   <play hasball="TXST" down="4" togo="0" spot="ASU02" context="H,4,0,V02" playid="1,12,16" type="P" score="Y" clock="10:19" text="George, Bradley pass complete to Griggs, Da'Marc for 2 yards to the ASU0, TOUCHDOWN, clock 10:19." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Griggs, Da'Marc" gain="2"></p_pa>
+   </play>
+   <play hasball="TXST" down="1" togo="0" spot="ASU03" context="H,1,0,V03" playid="1,13,17" type="X" score="Y" text="Garelick, Justi kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Garelick, Justi" qb="Garelick, Justi" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="10" yards="54" top="4:41" driveindex="1" complete="Y"></drivesum>
+   <play hasball="TXST" down="1" togo="0" spot="TXST30" context="H,1,0,H30" playid="1,14,18" type="K" score="Y" clock="10:06" text="Follis, Ben kickoff 66 yards to the ASU4, Garrett Tidwell return 96 yards to the TXST0, TOUCHDOWN, clock 10:06." newcontext="V,1,0,H03">
+    <p_ko vh="H" name="Follis, Ben" gain="66"></p_ko>
+    <p_kr vh="V" name="Garrett Tidwell" gain="96"></p_kr>
+   </play>
+   <drivestart poss="V,H03,10:06" vh="V" spot="H03" clock="10:06" driveindex="2,18"></drivestart>
+   <play hasball="ASU" down="1" togo="0" spot="TXST03" context="V,1,0,H03" playid="2,1,19" type="X" score="Y" text="Ryan Smith kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Ryan Smith" qb="Ryan Smith" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="7"></score>
+   <play hasball="ASU" down="1" togo="0" spot="ASU30" context="V,1,0,V30" playid="2,2,20" type="E" text="PENALTY ASU unsportsmanlike conduct 15 yards to the ASU15." newcontext="V,1,0,V15">
+    <p_pn vh="V" code="UC" type="unsportsmanlike conduct" result="ACCEPT" at="V30" yards="15"></p_pn>
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="2" complete="Y"></drivesum>
+   <play hasball="ASU" down="1" togo="0" spot="ASU15" context="V,1,0,V15" playid="2,3,21" type="K" text="Ryan Smith kickoff 41 yards to the TXST44, Morris, Darryl return 1 yards to the TXST45 (Husani Sallah)." newcontext="H,1,10,H45">
+    <p_ko vh="V" name="Ryan Smith" gain="41"></p_ko>
+    <p_kr vh="H" name="Morris, Darryl" gain="1"></p_kr>
+    <p_tk vh="V" name="Husani Sallah"></p_tk>
+   </play>
+   <drivestart poss="H,H45,10:06" vh="H" spot="H45" clock="10:06" driveindex="3,21"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST45" context="H,1,10,H45" playid="3,1,22" clock="10:01" text="TEXAS STATE drive start at 10:01." newcontext="H,1,10,H45">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST45" context="H,1,10,H45" playid="3,2,23" type="P" turnover="I" text="George, Bradley pass intercepted by Alvin Johnson at the ASU39, Alvin Johnson return 0 yards to the ASU39." newcontext="V,1,10,V39">
+    <p_pa vh="H" qb="George, Bradley" result="INT"></p_pa>
+    <p_ir vh="V" name="Alvin Johnson" at="V39" gain="0"></p_ir>
+   </play>
+   <drivesum plays="1" yards="0" top="0:05" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,V39,10:01" vh="V" spot="V39" clock="10:01" driveindex="4,23"></drivestart>
+   <play hasball="ASU" down="1" togo="10" spot="ASU39" context="V,1,10,V39" playid="4,1,24" clock="09:56" text="ANGELO STATE drive start at 09:56." newcontext="V,1,10,V39">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU39" context="V,1,10,V39" playid="4,2,25" type="R" text="Dwight Pete rush for 7 yards to the ASU46 (Clark, Marcus)." newcontext="V,2,3,V46">
+    <p_ru vh="V" name="Dwight Pete" gain="7"></p_ru>
+    <p_tk vh="H" name="Clark, Marcus"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="3" spot="ASU46" context="V,2,3,V46" playid="4,3,26" type="P" first="P" text="Josh Neiswander pass complete to Excelle Osborne for 6 yards to the TXST48, 1ST DOWN ASU." newcontext="V,1,10,H48">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="Excelle Osborne" gain="6"></p_pa>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST48" context="V,1,10,H48" playid="4,4,27" type="R" text="Dwight Pete rush for 3 yards to the TXST45 (Eshraghipour, A;Houston, Travis)." newcontext="V,2,7,H45">
+    <p_ru vh="V" name="Dwight Pete" gain="3"></p_ru>
+    <p_tk vh="H" name="Eshraghipour, A" assist="Y"></p_tk>
+    <p_tk vh="H" name="Houston, Travis" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="7" spot="TXST45" context="V,2,7,H45" playid="4,5,28" type="P" text="Josh Neiswander pass incomplete (Eshraghipour, A)." newcontext="V,3,7,H45">
+    <p_pa vh="V" qb="Josh Neiswander" result="BRUP"></p_pa>
+    <p_bu vh="H" name="Eshraghipour, A"></p_bu>
+   </play>
+   <play hasball="ASU" down="3" togo="7" spot="TXST45" context="V,3,7,H45" playid="4,6,29" type="R" text="Dwight Pete rush for 4 yards to the TXST41 (Bell, Joe;Miller, T.P.)." newcontext="V,4,3,H41">
+    <p_ru vh="V" name="Dwight Pete" gain="4"></p_ru>
+    <p_tk vh="H" name="Bell, Joe" assist="Y"></p_tk>
+    <p_tk vh="H" name="Miller, T.P." assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="4" togo="3" spot="TXST41" context="V,4,3,H41" playid="4,7,30" type="U" text="Dylan Wiggs punt 41 yards to the TXST0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Dylan Wiggs" gain="41" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="20" top="2:36" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="H,H20,09:56" vh="H" spot="H20" clock="09:56" driveindex="5,30"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST20" context="H,1,10,H20" playid="5,1,31" clock="07:20" text="TEXAS STATE drive start at 07:20." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST20" context="H,1,10,H20" playid="5,2,32" type="R" text="Canady, Alvin rush for 3 yards to the TXST23 (Alvin Johnson)." newcontext="H,2,7,H23">
+    <p_ru vh="H" name="Canady, Alvin" gain="3"></p_ru>
+    <p_tk vh="V" name="Alvin Johnson"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="7" spot="TXST23" context="H,2,7,H23" playid="5,3,33" type="P" first="P" text="George, Bradley pass complete to Dillard, Daren for 16 yards to the TXST39, 1ST DOWN TXST (Edward Cantrell)." newcontext="H,1,10,H39">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Dillard, Daren" gain="16"></p_pa>
+    <p_tk vh="V" name="Edward Cantrell"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST39" context="H,1,10,H39" playid="5,4,34" type="P" first="P" text="George, Bradley pass complete to Scott, Corey for 29 yards to the ASU32, 1ST DOWN TXST (Logan Bryan)." newcontext="H,1,10,V32">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Scott, Corey" gain="29"></p_pa>
+    <p_tk vh="V" name="Logan Bryan"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="ASU32" context="H,1,10,V32" playid="5,5,35" type="P" text="George, Bradley pass incomplete to Dillard, Daren." newcontext="H,2,10,V32">
+    <p_pa vh="H" qb="George, Bradley" result="INC" rcv="Dillard, Daren"></p_pa>
+   </play>
+   <play hasball="TXST" down="2" togo="10" spot="ASU32" context="H,2,10,V32" playid="5,6,36" text="QB hurry by Calvin Fance." newcontext="H,2,10,V32">
+    <p_qbh vh="V" name="Calvin Fance"></p_qbh>
+   </play>
+   <play hasball="TXST" down="2" togo="10" spot="ASU32" context="H,2,10,V32" playid="5,7,37" type="R" text="Canady, Alvin rush for 3 yards to the ASU29 (Edward Cantrell;Ian Ritchey)." newcontext="H,3,7,V29">
+    <p_ru vh="H" name="Canady, Alvin" gain="3"></p_ru>
+    <p_tk vh="V" name="Edward Cantrell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ian Ritchey" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="3" togo="7" spot="ASU29" context="H,3,7,V29" playid="5,8,38" type="P" first="P" text="George, Bradley pass complete to Griggs, Da'Marc for 19 yards to the ASU10, 1ST DOWN TXST (Logan Bryan;Husani Sallah)." newcontext="H,1,0,V10">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Griggs, Da'Marc" gain="19"></p_pa>
+    <p_tk vh="V" name="Logan Bryan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Husani Sallah" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="0" spot="ASU10" context="H,1,0,V10" playid="5,9,39" type="R" score="Y" clock="04:24" text="Alexander, Cedr rush for 10 yards to the ASU0, TOUCHDOWN, clock 04:24." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Alexander, Cedr" gain="10"></p_ru>
+   </play>
+   <play hasball="TXST" down="1" togo="0" spot="ASU03" context="H,1,0,V03" playid="5,10,40" type="X" score="Y" text="Garelick, Justi kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Garelick, Justi" qb="Garelick, Justi" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="14"></score>
+   <drivesum plays="7" yards="80" top="2:56" driveindex="5" complete="Y"></drivesum>
+   <play hasball="TXST" down="1" togo="0" spot="TXST30" context="H,1,0,H30" playid="5,11,41" type="K" text="Follis, Ben kickoff 57 yards to the ASU13, D. Pecikonis return 25 yards to the ASU38." newcontext="V,1,10,V38">
+    <p_ko vh="H" name="Follis, Ben" gain="57"></p_ko>
+    <p_kr vh="V" name="D. Pecikonis" gain="25"></p_kr>
+   </play>
+   <drivestart poss="V,V38,04:24" vh="V" spot="V38" clock="04:24" driveindex="6,41"></drivestart>
+   <play hasball="ASU" down="1" togo="10" spot="ASU38" context="V,1,10,V38" playid="6,1,42" clock="04:18" text="ANGELO STATE drive start at 04:18." newcontext="V,1,10,V38">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU38" context="V,1,10,V38" playid="6,2,43" type="R" text="Michael Simpers rush for 3 yards to the ASU41 (Clark, Marcus;Strodtman, Patr)." newcontext="V,2,7,V41">
+    <p_ru vh="V" name="Michael Simpers" gain="3"></p_ru>
+    <p_tk vh="H" name="Clark, Marcus" assist="Y"></p_tk>
+    <p_tk vh="H" name="Strodtman, Patr" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="7" spot="ASU41" context="V,2,7,V41" playid="6,3,44" type="R" text="Michael Simpers rush for loss of 1 yard to the ASU40 (Eshraghipour, A;Houston, Travis)." newcontext="V,3,8,V40">
+    <p_ru vh="V" name="Michael Simpers" gain="-1"></p_ru>
+    <p_tk vh="H" name="Eshraghipour, A" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Houston, Travis" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="3" togo="8" spot="ASU40" context="V,3,8,V40" playid="6,4,45" type="P" text="Josh Neiswander pass incomplete to John Norcott, dropped pass." newcontext="V,4,8,V40">
+    <p_pa vh="V" qb="Josh Neiswander" result="DROP" rcv="John Norcott"></p_pa>
+   </play>
+   <play hasball="ASU" down="4" togo="8" spot="ASU40" context="V,4,8,V40" playid="6,5,46" type="U" text="Dylan Wiggs punt 35 yards to the TXST25, fair catch by Thompson, Will." newcontext="H,1,10,H25">
+    <p_pu vh="V" name="Dylan Wiggs" gain="35" fc="Thompson, Will"></p_pu>
+   </play>
+   <drivesum plays="3" yards="2" top="1:30" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H25,04:18" vh="H" spot="H25" clock="04:18" driveindex="7,46"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST25" context="H,1,10,H25" playid="7,1,47" clock="02:48" text="TEXAS STATE drive start at 02:48." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST25" context="H,1,10,H25" playid="7,2,48" type="R" text="Canady, Alvin rush for no gain to the TXST25 (Godwin Ubah)." newcontext="H,2,10,H25">
+    <p_ru vh="H" name="Canady, Alvin" gain="0"></p_ru>
+    <p_tk vh="V" name="Godwin Ubah"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="10" spot="TXST25" context="H,2,10,H25" playid="7,3,49" type="P" first="P" text="George, Bradley pass complete to Garcia, Alvaro for 71 yards to the ASU4, 1ST DOWN TXST (Rickey McKinley)." newcontext="H,1,0,V04">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Garcia, Alvaro" gain="71"></p_pa>
+    <p_tk vh="V" name="Rickey McKinley"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="0" spot="ASU04" context="H,1,0,V04" playid="7,4,50" type="R" text="Canady, Alvin rush for 3 yards to the ASU1 (D'Angelo Waites;Godwin Ubah)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Canady, Alvin" gain="3"></p_ru>
+    <p_tk vh="V" name="D'Angelo Waites" assist="Y"></p_tk>
+    <p_tk vh="V" name="Godwin Ubah" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="0" spot="ASU01" context="H,2,0,V01" playid="7,5,51" type="R" score="Y" clock="00:57" text="Hampton, Trey rush for 1 yard to the ASU0, TOUCHDOWN, clock 00:57." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Hampton, Trey" gain="1"></p_ru>
+   </play>
+   <play hasball="TXST" down="1" togo="0" spot="ASU03" context="H,1,0,V03" playid="7,6,52" type="X" score="Y" text="Garelick, Justi kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Garelick, Justi" qb="Garelick, Justi" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="21"></score>
+   <drivesum plays="4" yards="75" top="1:51" driveindex="7" complete="Y"></drivesum>
+   <play hasball="TXST" down="1" togo="0" spot="TXST30" context="H,1,0,H30" playid="7,7,53" type="K" text="Follis, Ben kickoff 69 yards to the ASU1, Garrett Tidwell return 15 yards to the ASU16 (Minde, Joshua)." newcontext="V,1,10,V16">
+    <p_ko vh="H" name="Follis, Ben" gain="69"></p_ko>
+    <p_kr vh="V" name="Garrett Tidwell" gain="15"></p_kr>
+    <p_tk vh="H" name="Minde, Joshua"></p_tk>
+   </play>
+   <drivestart poss="V,V16,00:57" vh="V" spot="V16" clock="00:57" driveindex="8,53"></drivestart>
+   <play hasball="ASU" down="1" togo="10" spot="ASU16" context="V,1,10,V16" playid="8,1,54" clock="00:50" text="ANGELO STATE drive start at 00:50." newcontext="V,1,10,V16">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU16" context="V,1,10,V16" playid="8,2,55" type="R" text="Dwight Pete rush for 8 yards to the ASU24." newcontext="V,2,2,V24">
+    <p_ru vh="V" name="Dwight Pete" gain="8"></p_ru>
+   </play>
+   <play hasball="ASU" down="2" togo="2" spot="ASU24" context="V,2,2,V24" playid="8,3,56" type="R" text="Dwight Pete rush for 1 yard to the ASU25 (Strodtman, Patr)." newcontext="V,3,1,V25">
+    <p_ru vh="V" name="Dwight Pete" gain="1"></p_ru>
+    <p_tk vh="H" name="Strodtman, Patr"></p_tk>
+   </play>
+   <score qtr="1" V="7" H="21"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="ASU">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:22"></misc>
+    <rush att="7" yds="25" gain="26" loss="1" td="0" long="8"></rush>
+    <pass comp="1" att="3" int="0" yds="6" td="0" long="6" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="6" td="0" long="6"></rcv>
+    <punt no="2" yds="76" long="41" blkd="0" tb="1" fc="1" plus50="0" inside20="0" avg="38.0"></punt>
+    <ko no="2" yds="102" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="14" tot_tack="24" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" qbh="1" int="1" intyds="0"></defense>
+    <kr no="3" yds="136" td="1" long="96"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="TXST">
+    <firstdowns no="7" rush="0" pass="7" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:38"></misc>
+    <rush att="12" yds="39" gain="40" loss="1" td="2" long="10"></rush>
+    <pass comp="8" att="10" int="1" yds="175" td="1" long="71" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="175" td="1" long="71"></rcv>
+    <ko no="3" yds="192" ob="0" tb="0"></ko>
+    <pat kickatt="3" kickmade="3"></pat>
+    <defense tackua="3" tacka="8" tot_tack="11" tflua="2" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="2" yds="38" td="0" long="37"></kr>
+    <scoring td="3" patkick="3"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="ASU" down="3" togo="1" spot="ASU25" context="V,3,1,V25" playid="8,4,57" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,3,1,V25">
+   </play>
+   <play hasball="ASU" down="3" togo="1" spot="ASU25" context="V,3,1,V25" playid="8,5,58" type="R" first="R" text="Dwight Pete rush for 2 yards to the ASU27, 1ST DOWN ASU (Iwuji, Bryan;Eshraghipour, A)." newcontext="V,1,10,V27">
+    <p_ru vh="V" name="Dwight Pete" gain="2"></p_ru>
+    <p_tk vh="H" name="Iwuji, Bryan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Eshraghipour, A" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU27" context="V,1,10,V27" playid="8,6,59" type="P" first="P" text="Josh Neiswander pass complete to V'Keon Lacey for 13 yards to the ASU40, 1ST DOWN ASU." newcontext="V,1,10,V40">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="V'Keon Lacey" gain="13"></p_pa>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU40" context="V,1,10,V40" playid="8,7,60" type="R" text="Dwight Pete rush for loss of 1 yard to the ASU39 (Jackson, Ron;Iwuji, Bryan)." newcontext="V,2,11,V39">
+    <p_ru vh="V" name="Dwight Pete" gain="-1"></p_ru>
+    <p_tk vh="H" name="Jackson, Ron" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Iwuji, Bryan" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="11" spot="ASU39" context="V,2,11,V39" playid="8,8,61" type="P" text="Josh Neiswander pass complete to Antwon Williams for 2 yards to the ASU41 (Thompson, Will)." newcontext="V,3,9,V41">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="Antwon Williams" gain="2"></p_pa>
+    <p_tk vh="H" name="Thompson, Will"></p_tk>
+   </play>
+   <play hasball="ASU" down="3" togo="9" spot="ASU41" context="V,3,9,V41" playid="8,9,62" type="P" first="P" text="Josh Neiswander pass complete to V'Keon Lacey for 12 yards to the TXST47, 1ST DOWN ASU (Hampton, Kennet)." newcontext="V,1,10,H47">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="V'Keon Lacey" gain="12"></p_pa>
+    <p_tk vh="H" name="Hampton, Kennet"></p_tk>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST47" context="V,1,10,H47" playid="8,10,63" type="E" text="Dwight Pete rush for 6 yards to the TXST41 (Iwuji, Bryan;Miller, T.P.), PENALTY ASU illegal procedure 5 yards to the ASU48, NO PLAY." newcontext="V,1,15,V48">
+    <p_pn vh="V" code="PR" type="illegal procedure" result="ACCEPT" at="H47" yards="5"></p_pn>
+   </play>
+   <play hasball="ASU" down="1" togo="15" spot="ASU48" context="V,1,15,V48" playid="8,11,64" type="R" text="Dwight Pete rush for 3 yards to the TXST49 (Lopez, Derek;Clark, Marcus)." newcontext="V,2,12,H49">
+    <p_ru vh="V" name="Dwight Pete" gain="3"></p_ru>
+    <p_tk vh="H" name="Lopez, Derek" assist="Y"></p_tk>
+    <p_tk vh="H" name="Clark, Marcus" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="12" spot="TXST49" context="V,2,12,H49" playid="8,12,65" type="P" text="Josh Neiswander pass complete to V'Keon Lacey for 2 yards to the TXST47 (Iwuji, Bryan;Houston, Travis)." newcontext="V,3,10,H47">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="V'Keon Lacey" gain="2"></p_pa>
+    <p_tk vh="H" name="Iwuji, Bryan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Houston, Travis" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="3" togo="10" spot="TXST47" context="V,3,10,H47" playid="8,13,66" type="P" text="Josh Neiswander pass complete to John Norcott for 5 yards to the TXST42 (Houston, Travis;Lopez, Derek)." newcontext="V,4,5,H42">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="John Norcott" gain="5"></p_pa>
+    <p_tk vh="H" name="Houston, Travis" assist="Y"></p_tk>
+    <p_tk vh="H" name="Lopez, Derek" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="4" togo="5" spot="TXST42" context="V,4,5,H42" playid="8,14,67" type="U" text="Dylan Wiggs punt 31 yards to the TXST11, fair catch by Thompson, Will." newcontext="H,1,10,H11">
+    <p_pu vh="V" name="Dylan Wiggs" gain="31" in20="Y" fc="Thompson, Will"></p_pu>
+   </play>
+   <drivesum plays="10" yards="42" top="5:32" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H11,15:00" vh="H" spot="H11" clock="15:00" driveindex="9,67"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST11" context="H,1,10,H11" playid="9,1,68" clock="10:18" text="TEXAS STATE drive start at 10:18." newcontext="H,1,10,H11">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST11" context="H,1,10,H11" playid="9,2,69" type="R" text="Canady, Alvin rush for loss of 1 yard to the TXST10 (Ian Ritchey;S. Lafaele)." newcontext="H,2,11,H10">
+    <p_ru vh="H" name="Canady, Alvin" gain="-1"></p_ru>
+    <p_tk vh="V" name="Ian Ritchey" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="S. Lafaele" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="11" spot="TXST10" context="H,2,11,H10" playid="9,3,70" type="E" text="George, Bradley pass complete to Anderson, Kyle for 9 yards to the TXST19 (Pete Parker;Markeith Jones), PENALTY TXST illegal shift 5 yards to the TXST5, NO PLAY." newcontext="H,2,16,H05">
+    <p_pn vh="H" code="SH" type="illegal shift" result="ACCEPT" at="H10" yards="5"></p_pn>
+   </play>
+   <play hasball="TXST" down="2" togo="16" spot="TXST05" context="H,2,16,H05" playid="9,4,71" type="R" text="Canady, Alvin rush for 6 yards to the TXST11 (Markeith Jones;B.J. Bradley)." newcontext="H,3,10,H11">
+    <p_ru vh="H" name="Canady, Alvin" gain="6"></p_ru>
+    <p_tk vh="V" name="Markeith Jones" assist="Y"></p_tk>
+    <p_tk vh="V" name="B.J. Bradley" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="3" togo="10" spot="TXST11" context="H,3,10,H11" playid="9,5,72" type="R" first="R" text="George, Bradley rush for 11 yards to the TXST22, 1ST DOWN TXST (Logan Bryan)." newcontext="H,1,10,H22">
+    <p_ru vh="H" name="George, Bradley" gain="11"></p_ru>
+    <p_tk vh="V" name="Logan Bryan"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST22" context="H,1,10,H22" playid="9,6,73" type="P" turnover="I" text="George, Bradley pass intercepted by Markeith Jones at the TXST34, Markeith Jones return 0 yards to the TXST34 (Canady, Alvin)." newcontext="V,1,10,H34">
+    <p_pa vh="H" qb="George, Bradley" result="INT"></p_pa>
+    <p_ir vh="V" name="Markeith Jones" at="H34" gain="0"></p_ir>
+    <p_tk vh="H" name="Canady, Alvin"></p_tk>
+   </play>
+   <drivesum plays="4" yards="11" top="2:22" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,H34,10:18" vh="V" spot="H34" clock="10:18" driveindex="10,73"></drivestart>
+   <play hasball="ASU" down="1" togo="10" spot="TXST34" context="V,1,10,H34" playid="10,1,74" clock="07:56" text="ANGELO STATE drive start at 07:56." newcontext="V,1,10,H34">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST34" context="V,1,10,H34" playid="10,2,75" type="R" text="Michael Simpers rush for loss of 2 yards to the TXST36 (Houston, Travis;Jackson, Ron)." newcontext="V,2,12,H36">
+    <p_ru vh="V" name="Michael Simpers" gain="-2"></p_ru>
+    <p_tk vh="H" name="Houston, Travis" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jackson, Ron" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="12" spot="TXST36" context="V,2,12,H36" playid="10,3,76" type="R" text="Michael Simpers rush for loss of 1 yard to the TXST37 (Strodtman, Patr;Hood, Garrett)." newcontext="V,3,13,H37">
+    <p_ru vh="V" name="Michael Simpers" gain="-1"></p_ru>
+    <p_tk vh="H" name="Strodtman, Patr" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hood, Garrett" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="3" togo="13" spot="TXST37" context="V,3,13,H37" playid="10,4,77" type="P" text="Josh Neiswander pass incomplete, QB hurry by Bartu, Joplo." newcontext="V,4,13,H37">
+    <p_pa vh="V" qb="Josh Neiswander" result="INC"></p_pa>
+    <p_qbh vh="H" name="Bartu, Joplo"></p_qbh>
+   </play>
+   <play hasball="ASU" down="4" togo="13" spot="TXST37" context="V,4,13,H37" playid="10,5,78" type="#" clock="06:23" text="Timeout Texas State, clock 06:23." newcontext="V,4,13,H37">
+    <p_to vh="H" team="Texas State"></p_to>
+   </play>
+   <play hasball="ASU" down="4" togo="13" spot="TXST37" context="V,4,13,H37" playid="10,6,79" type="U" text="Dylan Wiggs punt 20 yards to the TXST17, out-of-bounds." ob="Y" newcontext="H,1,10,H17">
+    <p_pu vh="V" name="Dylan Wiggs" gain="20" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:39" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H17,06:23" vh="H" spot="H17" clock="06:23" driveindex="11,79"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST17" context="H,1,10,H17" playid="11,1,80" clock="06:17" text="TEXAS STATE drive start at 06:17." newcontext="H,1,10,H17">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST17" context="H,1,10,H17" playid="11,2,81" type="P" text="George, Bradley pass complete to Bolden, Darius for 9 yards to the TXST26 (Alvin Johnson)." newcontext="H,2,1,H26">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Bolden, Darius" gain="9"></p_pa>
+    <p_tk vh="V" name="Alvin Johnson"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="1" spot="TXST26" context="H,2,1,H26" playid="11,3,82" type="R" first="R" text="Canady, Alvin rush for 2 yards to the TXST28, 1ST DOWN TXST (Zach Petitt;D'Angelo Waites)." newcontext="H,1,10,H28">
+    <p_ru vh="H" name="Canady, Alvin" gain="2"></p_ru>
+    <p_tk vh="V" name="Zach Petitt" assist="Y"></p_tk>
+    <p_tk vh="V" name="D'Angelo Waites" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST28" context="H,1,10,H28" playid="11,4,83" type="P" text="George, Bradley pass complete to Hampton, Trey for 9 yards to the TXST37 (Alvin Johnson)." newcontext="H,2,1,H37">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Hampton, Trey" gain="9"></p_pa>
+    <p_tk vh="V" name="Alvin Johnson"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="1" spot="TXST37" context="H,2,1,H37" playid="11,5,84" type="R" first="R" text="Canady, Alvin rush for 2 yards to the TXST39, 1ST DOWN TXST (D'Angelo Waites)." newcontext="H,1,10,H39">
+    <p_ru vh="H" name="Canady, Alvin" gain="2"></p_ru>
+    <p_tk vh="V" name="D'Angelo Waites"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST39" context="H,1,10,H39" playid="11,6,85" type="#" clock="04:30" text="Timeout Texas State, clock 04:30." newcontext="H,1,10,H39">
+    <p_to vh="H" team="Texas State"></p_to>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST39" context="H,1,10,H39" playid="11,7,86" type="P" first="P" text="George, Bradley pass complete to Griggs, Da'Marc for 13 yards to the ASU48, 1ST DOWN TXST." newcontext="H,1,10,V48">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Griggs, Da'Marc" gain="13"></p_pa>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="ASU48" context="H,1,10,V48" playid="11,8,87" type="P" first="P" score="Y" clock="03:58" text="George, Bradley pass complete to Alexander, Cedr for 48 yards to the ASU0, 1ST DOWN TXST, TOUCHDOWN, clock 03:58." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Alexander, Cedr" gain="48"></p_pa>
+   </play>
+   <play hasball="TXST" down="1" togo="0" spot="ASU03" context="H,1,0,V03" playid="11,9,88" type="X" text="Garelick, Justi kick attempt failed." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Garelick, Justi" qb="Garelick, Justi" type="K" result="MISSED"></p_pat>
+   </play>
+   <score V="7" H="27"></score>
+   <drivesum plays="6" yards="83" top="2:19" driveindex="11" complete="Y"></drivesum>
+   <play hasball="TXST" down="1" togo="0" spot="TXST30" context="H,1,0,H30" playid="11,10,89" type="K" text="Follis, Ben kickoff 57 yards to the ASU13, Garrett Tidwell return 23 yards to the ASU36 (Hampton, Kennet;McVaney, Jeff)." newcontext="V,1,10,V36">
+    <p_ko vh="H" name="Follis, Ben" gain="57"></p_ko>
+    <p_kr vh="V" name="Garrett Tidwell" gain="23"></p_kr>
+    <p_tk vh="H" name="Hampton, Kennet" assist="Y"></p_tk>
+    <p_tk vh="H" name="McVaney, Jeff" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V36,03:58" vh="V" spot="V36" clock="03:58" driveindex="12,89"></drivestart>
+   <play hasball="ASU" down="1" togo="10" spot="ASU36" context="V,1,10,V36" playid="12,1,90" clock="03:52" text="ANGELO STATE drive start at 03:52." newcontext="V,1,10,V36">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU36" context="V,1,10,V36" playid="12,2,91" type="P" text="Josh Neiswander pass incomplete to Excelle Osborne." newcontext="V,2,10,V36">
+    <p_pa vh="V" qb="Josh Neiswander" result="INC" rcv="Excelle Osborne"></p_pa>
+   </play>
+   <play hasball="ASU" down="2" togo="10" spot="ASU36" context="V,2,10,V36" playid="12,3,92" type="R" text="Garrett Tidwell rush for 3 yards to the ASU39 (Eshraghipour, A)." newcontext="V,3,7,V39">
+    <p_ru vh="V" name="Garrett Tidwell" gain="3"></p_ru>
+    <p_tk vh="H" name="Eshraghipour, A"></p_tk>
+   </play>
+   <play hasball="ASU" down="3" togo="7" spot="ASU39" context="V,3,7,V39" playid="12,4,93" type="P" text="Josh Neiswander pass incomplete to Trey Anderson." newcontext="V,4,7,V39">
+    <p_pa vh="V" qb="Josh Neiswander" result="INC" rcv="Trey Anderson"></p_pa>
+   </play>
+   <play hasball="ASU" down="4" togo="7" spot="ASU39" context="V,4,7,V39" playid="12,5,94" type="U" text="Dylan Wiggs punt 36 yards to the TXST25, Thompson, Will return 0 yards to the TXST25 (Brandon Mayse)." newcontext="H,1,10,H25">
+    <p_pu vh="V" name="Dylan Wiggs" gain="36"></p_pu>
+    <p_pr vh="H" name="Thompson, Will" gain="0"></p_pr>
+    <p_tk vh="V" name="Brandon Mayse"></p_tk>
+   </play>
+   <drivesum plays="3" yards="3" top="1:00" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H25,03:52" vh="H" spot="H25" clock="03:52" driveindex="13,94"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST25" context="H,1,10,H25" playid="13,1,95" clock="02:52" text="TEXAS STATE drive start at 02:52." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST25" context="H,1,10,H25" playid="13,2,96" type="P" text="George, Bradley pass incomplete to Dillard, Daren." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="George, Bradley" result="INC" rcv="Dillard, Daren"></p_pa>
+   </play>
+   <play hasball="TXST" down="2" togo="10" spot="TXST25" context="H,2,10,H25" playid="13,3,97" type="R" text="Canady, Alvin rush for 9 yards to the TXST34 (Lance Tissue;Stetson Edwards)." newcontext="H,3,1,H34">
+    <p_ru vh="H" name="Canady, Alvin" gain="9"></p_ru>
+    <p_tk vh="V" name="Lance Tissue" assist="Y"></p_tk>
+    <p_tk vh="V" name="Stetson Edwards" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="3" togo="1" spot="TXST34" context="H,3,1,H34" playid="13,4,98" type="R" text="Canady, Alvin rush for loss of 1 yard to the TXST33 (Dustin Arthur;Calvin Fance)." newcontext="H,4,2,H33">
+    <p_ru vh="H" name="Canady, Alvin" gain="-1"></p_ru>
+    <p_tk vh="V" name="Dustin Arthur" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Calvin Fance" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="4" togo="2" spot="TXST33" context="H,4,2,H33" playid="13,5,99" type="U" text="Follis, Ben punt 40 yards to the ASU27, Garrett Tidwell return 23 yards to the 50 yardline (Bartu, Joplo)." newcontext="V,1,10,V50">
+    <p_pu vh="H" name="Follis, Ben" gain="40"></p_pu>
+    <p_pr vh="V" name="Garrett Tidwell" gain="23"></p_pr>
+    <p_tk vh="H" name="Bartu, Joplo"></p_tk>
+   </play>
+   <drivesum plays="3" yards="8" top="1:39" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="V,V50,02:52" vh="V" spot="V50" clock="02:52" driveindex="14,99"></drivestart>
+   <play hasball="ASU" down="1" togo="10" spot="ASU50" context="V,1,10,V50" playid="14,1,100" clock="01:13" text="ANGELO STATE drive start at 01:13." newcontext="V,1,10,V50">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU50" context="V,1,10,V50" playid="14,2,101" type="P" first="P" text="Josh Neiswander pass complete to V'Keon Lacey for 11 yards to the TXST39, 1ST DOWN ASU (Iwuji, Bryan;Jackson, Ron)." newcontext="V,1,10,H39">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="V'Keon Lacey" gain="11"></p_pa>
+    <p_tk vh="H" name="Iwuji, Bryan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jackson, Ron" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST39" context="V,1,10,H39" playid="14,3,102" type="P" first="P" text="Josh Neiswander pass complete to Excelle Osborne for 17 yards to the TXST22, 1ST DOWN ASU." newcontext="V,1,10,H22">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="Excelle Osborne" gain="17"></p_pa>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST22" context="V,1,10,H22" playid="14,4,103" type="P" text="Josh Neiswander pass incomplete to Excelle Osborne (Thompson, Will)." newcontext="V,2,10,H22">
+    <p_pa vh="V" qb="Josh Neiswander" result="INC" rcv="Excelle Osborne"></p_pa>
+    <p_bu vh="H" name="Thompson, Will"></p_bu>
+   </play>
+   <play hasball="ASU" down="2" togo="10" spot="TXST22" context="V,2,10,H22" playid="14,5,104" type="P" text="Josh Neiswander pass complete to Michael Simpers for 3 yards to the TXST19 (Iwuji, Bryan)." newcontext="V,3,7,H19">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="Michael Simpers" gain="3"></p_pa>
+    <p_tk vh="H" name="Iwuji, Bryan"></p_tk>
+   </play>
+   <play hasball="ASU" down="3" togo="7" spot="TXST19" context="V,3,7,H19" playid="14,6,105" type="#" clock="00:28" text="Timeout Angelo State, clock 00:28." newcontext="V,3,7,H19">
+    <p_to vh="V" team="Angelo State"></p_to>
+   </play>
+   <play hasball="ASU" down="3" togo="7" spot="TXST19" context="V,3,7,H19" playid="14,7,106" type="P" text="Josh Neiswander pass incomplete to Brandan Ritchey." newcontext="V,4,7,H19">
+    <p_pa vh="V" qb="Josh Neiswander" result="INC" rcv="Brandan Ritchey"></p_pa>
+   </play>
+   <play hasball="ASU" down="4" togo="7" spot="TXST19" context="V,4,7,H19" playid="14,8,107" type="F" clock="00:26" text="Ryan Smith field goal attempt from 36 MISSED - wide left, spot at TXST20, clock 00:26." newcontext="H,1,10,H20">
+    <p_fg vh="V" name="Ryan Smith" distance="36" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="6" yards="31" top="0:47" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,H20,00:26" vh="H" spot="H20" clock="00:26" driveindex="15,107"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST20" context="H,1,10,H20" playid="15,1,108" clock="00:26" text="TEXAS STATE drive start at 00:26." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST20" context="H,1,10,H20" playid="15,2,109" type="R" text="Reddic, Frank rush for 6 yards to the TXST26 (Edward Cantrell)." newcontext="H,2,4,H26">
+    <p_ru vh="H" name="Reddic, Frank" gain="6"></p_ru>
+    <p_tk vh="V" name="Edward Cantrell"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="4" spot="TXST26" context="H,2,4,H26" playid="15,3,110" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,2,4,H26">
+   </play>
+   <drivesum plays="1" yards="6" top="0:26" driveindex="15" complete="Y"></drivesum>
+   <score qtr="2" V="7" H="27"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="ASU">
+    <firstdowns no="5" rush="1" pass="4" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:14"></misc>
+    <rush att="6" yds="4" gain="8" loss="4" td="0" long="0"></rush>
+    <pass comp="8" att="13" int="0" yds="65" td="0" long="11" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="65" td="0" long="11"></rcv>
+    <punt no="3" yds="87" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="2" avg="29.0"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="6" tacka="10" tot_tack="16" tflua="4" tfla="0" tflyds="4" sacks="0" sackyds="0" int="1" intyds="0"></defense>
+    <kr no="1" yds="23" td="0" long="0"></kr>
+    <pr no="1" yds="23" td="0" long="23"></pr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+   </qtrsummary>
+   <qtrsummary vh="H" id="TXST">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:46"></misc>
+    <rush att="8" yds="34" gain="36" loss="2" td="0" long="1"></rush>
+    <pass comp="4" att="6" int="1" yds="79" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="79" td="1" long="0"></rcv>
+    <punt no="1" yds="40" long="40" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="40.0"></punt>
+    <ko no="1" yds="57" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="0"></pat>
+    <defense tackua="6" tacka="18" tot_tack="24" tflua="6" tfla="0" tflyds="8" sacks="0" sackyds="0" brup="1" qbh="1"></defense>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="TXST" down="2" togo="4" spot="TXST26" context="H,2,4,H26" playid="15,4,111" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, TXST ball on TXST30." newcontext="H,2,4,H30">
+   </play>
+   <play hasball="TXST" down="2" togo="4" spot="TXST30" context="H,2,4,H30" playid="15,5,112" type="K" text="Follis, Ben kickoff 61 yards to the ASU9, Garrett Tidwell return 32 yards to the ASU41 (Minde, Joshua;Harris, Matt)." newcontext="V,1,10,V41">
+    <p_ko vh="H" name="Follis, Ben" gain="61"></p_ko>
+    <p_kr vh="V" name="Garrett Tidwell" gain="32"></p_kr>
+    <p_tk vh="H" name="Minde, Joshua" assist="Y"></p_tk>
+    <p_tk vh="H" name="Harris, Matt" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V41,15:00" vh="V" spot="V41" clock="15:00" driveindex="16,112"></drivestart>
+   <play hasball="ASU" down="1" togo="10" spot="ASU41" context="V,1,10,V41" playid="16,1,113" clock="14:53" text="ANGELO STATE drive start at 14:53." newcontext="V,1,10,V41">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU41" context="V,1,10,V41" playid="16,2,114" type="P" first="P" text="Josh Neiswander pass complete to V'Keon Lacey for 16 yards to the TXST43, 1ST DOWN ASU (Morris, Darryl)." newcontext="V,1,10,H43">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="V'Keon Lacey" gain="16"></p_pa>
+    <p_tk vh="H" name="Morris, Darryl"></p_tk>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST43" context="V,1,10,H43" playid="16,3,115" type="P" text="Josh Neiswander pass complete to Excelle Osborne for 6 yards to the TXST37." newcontext="V,2,4,H37">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="Excelle Osborne" gain="6"></p_pa>
+   </play>
+   <play hasball="ASU" down="2" togo="4" spot="TXST37" context="V,2,4,H37" playid="16,4,116" type="R" text="Dwight Pete rush for 2 yards to the TXST35 (Jackson, Ron;Strodtman, Patr)." newcontext="V,3,2,H35">
+    <p_ru vh="V" name="Dwight Pete" gain="2"></p_ru>
+    <p_tk vh="H" name="Jackson, Ron" assist="Y"></p_tk>
+    <p_tk vh="H" name="Strodtman, Patr" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="3" togo="2" spot="TXST35" context="V,3,2,H35" playid="16,5,117" type="P" text="Josh Neiswander pass incomplete to Dwight Pete, dropped pass." newcontext="V,4,2,H35">
+    <p_pa vh="V" qb="Josh Neiswander" result="DROP" rcv="Dwight Pete"></p_pa>
+   </play>
+   <play hasball="ASU" down="4" togo="2" spot="TXST35" context="V,4,2,H35" playid="16,6,118" type="P" turnover="I" text="Josh Neiswander pass intercepted by Thompson, Will at the TXST29, Thompson, Will return 2 yards to the TXST31 (Excelle Osborne)." newcontext="H,1,10,H31">
+    <p_pa vh="V" qb="Josh Neiswander" result="INT"></p_pa>
+    <p_ir vh="H" name="Thompson, Will" at="H29" gain="2"></p_ir>
+    <p_tk vh="V" name="Excelle Osborne"></p_tk>
+   </play>
+   <drivesum plays="5" yards="24" top="1:46" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,H31,14:53" vh="H" spot="H31" clock="14:53" driveindex="17,118"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST31" context="H,1,10,H31" playid="17,1,119" clock="13:07" text="TEXAS STATE drive start at 13:07." newcontext="H,1,10,H31">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST31" context="H,1,10,H31" playid="17,2,120" type="R" text="Canady, Alvin rush for 5 yards to the TXST36 (Edward Cantrell;Calvin Fance)." newcontext="H,2,5,H36">
+    <p_ru vh="H" name="Canady, Alvin" gain="5"></p_ru>
+    <p_tk vh="V" name="Edward Cantrell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Calvin Fance" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="5" spot="TXST36" context="H,2,5,H36" playid="17,3,121" type="R" text="Canady, Alvin rush for 2 yards to the TXST38 (Calvin Fance;Pete Parker)." newcontext="H,3,3,H38">
+    <p_ru vh="H" name="Canady, Alvin" gain="2"></p_ru>
+    <p_tk vh="V" name="Calvin Fance" assist="Y"></p_tk>
+    <p_tk vh="V" name="Pete Parker" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="3" togo="3" spot="TXST38" context="H,3,3,H38" playid="17,4,122" type="P" first="P" text="George, Bradley pass complete to Scott, Corey for 9 yards to the TXST47, 1ST DOWN TXST (Logan Bryan;Edward Cantrell)." newcontext="H,1,10,H47">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Scott, Corey" gain="9"></p_pa>
+    <p_tk vh="V" name="Logan Bryan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Edward Cantrell" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST47" context="H,1,10,H47" playid="17,5,123" type="P" text="George, Bradley sacked for loss of 4 yards to the TXST43 (Calvin Fance;Cody Smtih)." newcontext="H,2,14,H43">
+    <p_pa vh="H" qb="George, Bradley" result="SACK" gain="-4"></p_pa>
+    <p_tk vh="V" name="Calvin Fance" sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Cody Smtih" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="14" spot="TXST43" context="H,2,14,H43" playid="17,6,124" type="R" text="Canady, Alvin rush for 1 yard to the TXST44 (Edward Cantrell)." newcontext="H,3,13,H44">
+    <p_ru vh="H" name="Canady, Alvin" gain="1"></p_ru>
+    <p_tk vh="V" name="Edward Cantrell"></p_tk>
+   </play>
+   <play hasball="TXST" down="3" togo="13" spot="TXST44" context="H,3,13,H44" playid="17,7,125" type="P" text="George, Bradley pass incomplete to Dillard, Daren (Husani Sallah)." newcontext="H,4,13,H44">
+    <p_pa vh="H" qb="George, Bradley" result="INC" rcv="Dillard, Daren"></p_pa>
+    <p_bu vh="V" name="Husani Sallah"></p_bu>
+   </play>
+   <play hasball="TXST" down="4" togo="13" spot="TXST44" context="H,4,13,H44" playid="17,8,126" type="U" text="Follis, Ben punt 34 yards to the ASU22, out-of-bounds." ob="Y" newcontext="V,1,10,V22">
+    <p_pu vh="H" name="Follis, Ben" gain="34" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="13" top="3:24" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V22,13:07" vh="V" spot="V22" clock="13:07" driveindex="18,126"></drivestart>
+   <play hasball="ASU" down="1" togo="10" spot="ASU22" context="V,1,10,V22" playid="18,1,127" clock="09:43" text="ANGELO STATE drive start at 09:43." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU22" context="V,1,10,V22" playid="18,2,128" type="R" text="Michael Simpers rush for 1 yard to the ASU23 (Jackson, Ron;Iwuji, Bryan)." newcontext="V,2,9,V23">
+    <p_ru vh="V" name="Michael Simpers" gain="1"></p_ru>
+    <p_tk vh="H" name="Jackson, Ron" assist="Y"></p_tk>
+    <p_tk vh="H" name="Iwuji, Bryan" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="9" spot="ASU23" context="V,2,9,V23" playid="18,3,129" type="P" turnover="F" text="Josh Neiswander pass complete to V'Keon Lacey for 34 yards to the TXST43, fumble forced by Minde, Joshua, fumble by V'Keon Lacey recovered by TXST Thompson, Will at TXST40." newcontext="H,1,10,H40">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="V'Keon Lacey" gain="34"></p_pa>
+    <p_fumb vh="V" name="V'Keon Lacey" at="H40" frvh="H" frname="Thompson, Will"></p_fumb>
+    <p_tk vh="H" name="Minde, Joshua" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="2" yards="38" top="0:52" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,H40,09:43" vh="H" spot="H40" clock="09:43" driveindex="19,129"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST40" context="H,1,10,H40" playid="19,1,130" clock="08:51" text="TEXAS STATE drive start at 08:51." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST40" context="H,1,10,H40" playid="19,2,131" type="P" first="P" text="George, Bradley pass complete to Griggs, Da'Marc for 11 yards to the ASU49, 1ST DOWN TXST." newcontext="H,1,10,V49">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Griggs, Da'Marc" gain="11"></p_pa>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="ASU49" context="H,1,10,V49" playid="19,3,132" type="R" text="Reddic, Frank rush for 9 yards to the ASU40 (Ian Ritchey)." newcontext="H,2,1,V40">
+    <p_ru vh="H" name="Reddic, Frank" gain="9"></p_ru>
+    <p_tk vh="V" name="Ian Ritchey"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="1" spot="ASU40" context="H,2,1,V40" playid="19,4,133" type="R" first="R" text="Reddic, Frank rush for 3 yards to the ASU37, 1ST DOWN TXST (Edward Cantrell)." newcontext="H,1,10,V37">
+    <p_ru vh="H" name="Reddic, Frank" gain="3"></p_ru>
+    <p_tk vh="V" name="Edward Cantrell"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="ASU37" context="H,1,10,V37" playid="19,5,134" type="P" text="George, Bradley pass incomplete to Hampton, Trey (D'Angelo Waites)." newcontext="H,2,10,V37">
+    <p_pa vh="H" qb="George, Bradley" result="BRUP" rcv="Hampton, Trey"></p_pa>
+    <p_bu vh="V" name="D'Angelo Waites"></p_bu>
+   </play>
+   <play hasball="TXST" down="2" togo="10" spot="ASU37" context="H,2,10,V37" playid="19,6,135" type="R" text="Reddic, Frank rush for 3 yards to the ASU34 (Ian Ritchey;Zach Petitt)." newcontext="H,3,7,V34">
+    <p_ru vh="H" name="Reddic, Frank" gain="3"></p_ru>
+    <p_tk vh="V" name="Ian Ritchey" assist="Y"></p_tk>
+    <p_tk vh="V" name="Zach Petitt" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="3" togo="7" spot="ASU34" context="H,3,7,V34" playid="19,7,136" type="R" text="George, Bradley rush for 4 yards to the ASU30 (Zach Petitt;C. Rosenbaum)." newcontext="H,4,3,V30">
+    <p_ru vh="H" name="George, Bradley" gain="4"></p_ru>
+    <p_tk vh="V" name="Zach Petitt" assist="Y"></p_tk>
+    <p_tk vh="V" name="C. Rosenbaum" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="4" togo="3" spot="ASU30" context="H,4,3,V30" playid="19,8,137" type="P" first="P" text="George, Bradley pass complete to Dillard, Daren for 23 yards to the ASU7, fumble forced by Markeith Jones, fumble by Dillard, Daren recovered by TXST Dillard, Daren at ASU6, 1ST DOWN TXST." newcontext="H,1,0,V06">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Dillard, Daren" gain="23"></p_pa>
+    <p_fumb vh="H" name="Dillard, Daren" at="V06" frvh="H" frname="Dillard, Daren"></p_fumb>
+    <p_tk vh="V" name="Markeith Jones" ff="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="0" spot="ASU06" context="H,1,0,V06" playid="19,9,138" type="R" score="Y" clock="04:49" text="Reddic, Frank rush for 6 yards to the ASU0, TOUCHDOWN, clock 04:49." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Reddic, Frank" gain="6"></p_ru>
+   </play>
+   <play hasball="TXST" down="1" togo="0" spot="ASU03" context="H,1,0,V03" playid="19,10,139" type="X" score="Y" text="Garelick, Justi kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Garelick, Justi" qb="Garelick, Justi" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="34"></score>
+   <drivesum plays="8" yards="60" top="4:02" driveindex="19" complete="Y"></drivesum>
+   <play hasball="TXST" down="1" togo="0" spot="TXST30" context="H,1,0,H30" playid="19,11,140" type="K" text="Follis, Ben kickoff 61 yards to the ASU9, Garrett Tidwell return 16 yards to the ASU25 (Harris, Matt;McVaney, Jeff)." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Follis, Ben" gain="61"></p_ko>
+    <p_kr vh="V" name="Garrett Tidwell" gain="16"></p_kr>
+    <p_tk vh="H" name="Harris, Matt" assist="Y"></p_tk>
+    <p_tk vh="H" name="McVaney, Jeff" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V25,04:49" vh="V" spot="V25" clock="04:49" driveindex="20,140"></drivestart>
+   <play hasball="ASU" down="1" togo="10" spot="ASU25" context="V,1,10,V25" playid="20,1,141" clock="04:44" text="ANGELO STATE drive start at 04:44." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU25" context="V,1,10,V25" playid="20,2,142" type="P" first="P" text="Josh Neiswander pass complete to Excelle Osborne for 30 yards to the TXST45, 1ST DOWN ASU (Morris, Darryl)." newcontext="V,1,10,H45">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="Excelle Osborne" gain="30"></p_pa>
+    <p_tk vh="H" name="Morris, Darryl"></p_tk>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST45" context="V,1,10,H45" playid="20,3,143" type="R" first="R" text="Dwight Pete rush for 14 yards to the TXST31, 1ST DOWN ASU (Miller, T.P.;Hampton, Kennet)." newcontext="V,1,10,H31">
+    <p_ru vh="V" name="Dwight Pete" gain="14"></p_ru>
+    <p_tk vh="H" name="Miller, T.P." assist="Y"></p_tk>
+    <p_tk vh="H" name="Hampton, Kennet" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST31" context="V,1,10,H31" playid="20,4,144" type="P" text="Josh Neiswander pass incomplete to Austin Benson." newcontext="V,2,10,H31">
+    <p_pa vh="V" qb="Josh Neiswander" result="INC" rcv="Austin Benson"></p_pa>
+   </play>
+   <play hasball="ASU" down="2" togo="10" spot="TXST31" context="V,2,10,H31" playid="20,5,145" type="R" text="Michael Simpers rush for 1 yard to the TXST30 (Clark, Marcus)." newcontext="V,3,9,H30">
+    <p_ru vh="V" name="Michael Simpers" gain="1"></p_ru>
+    <p_tk vh="H" name="Clark, Marcus"></p_tk>
+   </play>
+   <play hasball="ASU" down="3" togo="9" spot="TXST30" context="V,3,9,H30" playid="20,6,146" type="E" first="E" text="Josh Neiswander pass incomplete to Brandan Ritchey (Morris, Darryl), PENALTY TXST pass interference 11 yards to the TXST19, 1ST DOWN ASU, NO PLAY." newcontext="V,1,10,H19">
+    <p_pn vh="H" code="PI" type="pass interference" result="ACCEPT" at="H30" yards="11"></p_pn>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST19" context="V,1,10,H19" playid="20,7,147" type="R" text="D. Pecikonis rush for 3 yards to the TXST16 (Clark, Marcus;Morris, Darryl)." newcontext="V,2,7,H16">
+    <p_ru vh="V" name="D. Pecikonis" gain="3"></p_ru>
+    <p_tk vh="H" name="Clark, Marcus" assist="Y"></p_tk>
+    <p_tk vh="H" name="Morris, Darryl" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="7" spot="TXST16" context="V,2,7,H16" playid="20,8,148" type="P" first="P" text="Josh Neiswander pass complete to John Norcott for 13 yards to the TXST3, 1ST DOWN ASU (Hampton, Kennet)." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="John Norcott" gain="13"></p_pa>
+    <p_tk vh="H" name="Hampton, Kennet"></p_tk>
+   </play>
+   <play hasball="ASU" down="1" togo="0" spot="TXST03" context="V,1,0,H03" playid="20,9,149" type="R" text="Dwight Pete rush for 1 yard to the TXST2 (Iwuji, Bryan;Pier, Sam)." newcontext="V,2,0,H02">
+    <p_ru vh="V" name="Dwight Pete" gain="1"></p_ru>
+    <p_tk vh="H" name="Iwuji, Bryan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Pier, Sam" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="0" spot="TXST02" context="V,2,0,H02" playid="20,10,150" type="P" text="Josh Neiswander pass incomplete to V'Keon Lacey, QB hurry by Clark, Marcus." newcontext="V,3,0,H02">
+    <p_pa vh="V" qb="Josh Neiswander" result="INC" rcv="V'Keon Lacey"></p_pa>
+    <p_qbh vh="H" name="Clark, Marcus"></p_qbh>
+   </play>
+   <play hasball="ASU" down="3" togo="0" spot="TXST02" context="V,3,0,H02" playid="20,11,151" type="P" text="Josh Neiswander pass incomplete to V'Keon Lacey." newcontext="V,4,0,H02">
+    <p_pa vh="V" qb="Josh Neiswander" result="INC" rcv="V'Keon Lacey"></p_pa>
+   </play>
+   <play hasball="ASU" down="4" togo="0" spot="TXST02" context="V,4,0,H02" playid="20,12,152" type="#" clock="00:56" text="Timeout Angelo State, clock 00:56." newcontext="V,4,0,H02">
+    <p_to vh="V" team="Angelo State"></p_to>
+   </play>
+   <play hasball="ASU" down="4" togo="0" spot="TXST02" context="V,4,0,H02" playid="20,13,153" type="R" score="Y" clock="00:50" text="Dwight Pete rush for 2 yards to the TXST0, TOUCHDOWN, clock 00:50." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Dwight Pete" gain="2"></p_ru>
+   </play>
+   <play hasball="ASU" down="1" togo="0" spot="TXST03" context="V,1,0,H03" playid="20,14,154" type="X" score="Y" text="Brad Holcomb kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Brad Holcomb" qb="Brad Holcomb" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="34"></score>
+   <drivesum plays="10" yards="75" top="3:54" driveindex="20" complete="Y"></drivesum>
+   <play hasball="ASU" down="1" togo="0" spot="ASU30" context="V,1,0,V30" playid="20,15,155" type="K" text="Ryan Smith kickoff 45 yards to the TXST25, Alexander, Cedr return 14 yards to the TXST39 (Rickey McKinley;Brandon Mayse)." newcontext="H,1,10,H39">
+    <p_ko vh="V" name="Ryan Smith" gain="45"></p_ko>
+    <p_kr vh="H" name="Alexander, Cedr" gain="14"></p_kr>
+    <p_tk vh="V" name="Rickey McKinley" assist="Y"></p_tk>
+    <p_tk vh="V" name="Brandon Mayse" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H39,00:50" vh="H" spot="H39" clock="00:50" driveindex="21,155"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST39" context="H,1,10,H39" playid="21,1,156" clock="00:43" text="TEXAS STATE drive start at 00:43." newcontext="H,1,10,H39">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST39" context="H,1,10,H39" playid="21,2,157" type="R" first="E" text="Alexander, Cedr rush for 7 yards to the TXST46 (Edward Cantrell), PENALTY ASU face mask 16 yards to the ASU38, 1ST DOWN TXST." newcontext="H,1,10,V38">
+    <p_ru vh="H" name="Alexander, Cedr" gain="7"></p_ru>
+    <p_tk vh="V" name="Edward Cantrell"></p_tk>
+    <p_pn vh="V" code="FM" type="face mask" result="ACCEPT" at="H46" yards="16"></p_pn>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="ASU38" context="H,1,10,V38" playid="21,3,158" text="1st and 10." newcontext="H,1,10,V38">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="ASU38" context="H,1,10,V38" playid="21,4,159" type="P" text="George, Bradley sacked for loss of 1 yard to the ASU39 (Calvin Fance)." newcontext="H,2,11,V39">
+    <p_pa vh="H" qb="George, Bradley" result="SACK" gain="-1"></p_pa>
+    <p_tk vh="V" name="Calvin Fance" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <score qtr="3" V="14" H="34"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="ASU">
+    <firstdowns no="5" rush="1" pass="3" penalty="1"></firstdowns>
+    <penalties no="1" yds="16"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="1" fourthatt="2"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="06:44"></misc>
+    <rush att="7" yds="24" gain="24" loss="0" td="1" long="6"></rush>
+    <pass comp="5" att="10" int="1" yds="102" td="0" long="17" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="102" td="0" long="17"></rcv>
+    <ko no="1" yds="45" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="7" tacka="14" tot_tack="21" tflua="3" tfla="0" tflyds="9" sacks="2" sackyds="5" brup="2" ff="1"></defense>
+    <kr no="2" yds="48" td="0" long="0"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="TXST">
+    <firstdowns no="5" rush="1" pass="3" penalty="1"></firstdowns>
+    <penalties no="1" yds="11"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="08:16"></misc>
+    <rush att="11" yds="35" gain="40" loss="5" td="1" long="0"></rush>
+    <pass comp="3" att="5" int="0" yds="44" td="0" long="0" sacks="2" sackyds="5"></pass>
+    <rcv no="3" yds="44" td="0" long="0"></rcv>
+    <punt no="1" yds="34" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="34.0"></punt>
+    <ko no="2" yds="122" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="5" tacka="14" tot_tack="19" sacks="0" sackyds="0" qbh="1" ff="1" fr="1" fryds="0" int="1" intyds="2"></defense>
+    <kr no="1" yds="14" td="0" long="0"></kr>
+    <ir no="1" yds="2" td="0" long="2"></ir>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="TXST" down="2" togo="11" spot="ASU39" context="H,2,11,V39" playid="21,5,160" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,2,11,V39">
+   </play>
+   <play hasball="TXST" down="2" togo="11" spot="ASU39" context="H,2,11,V39" playid="21,6,161" type="R" text="Reddic, Frank rush for loss of 1 yard to the ASU40 (Edward Cantrell;Devin McDonald)." newcontext="H,3,12,V40">
+    <p_ru vh="H" name="Reddic, Frank" gain="-1"></p_ru>
+    <p_tk vh="V" name="Edward Cantrell" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Devin McDonald" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="3" togo="12" spot="ASU40" context="H,3,12,V40" playid="21,7,162" type="#" clock="14:28" text="Timeout Angelo State, clock 14:28." newcontext="H,3,12,V40">
+    <p_to vh="V" team="Angelo State"></p_to>
+   </play>
+   <play hasball="TXST" down="3" togo="12" spot="ASU40" context="H,3,12,V40" playid="21,8,163" type="E" text="PENALTY TXST false start 5 yards to the ASU45." newcontext="H,3,17,V45">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="V40" yards="5"></p_pn>
+   </play>
+   <play hasball="TXST" down="3" togo="17" spot="ASU45" context="H,3,17,V45" playid="21,9,164" type="P" text="George, Bradley pass incomplete to Dillard, Daren (Husani Sallah), PENALTY TXST personal foul declined." newcontext="H,4,17,V45">
+    <p_pa vh="H" qb="George, Bradley" result="BRUP" rcv="Dillard, Daren"></p_pa>
+    <p_pn vh="H" code="PF" type="personal foul" name="Dillard, Daren" result="DECLINE"></p_pn>
+    <p_bu vh="V" name="Husani Sallah"></p_bu>
+   </play>
+   <play hasball="TXST" down="4" togo="17" spot="ASU45" context="H,4,17,V45" playid="21,10,165" type="U" text="Follis, Ben punt 45 yards to the ASU0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Follis, Ben" gain="45" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="4" yards="16" top="1:24" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="V,V20,14:28" vh="V" spot="V20" clock="14:28" driveindex="22,165"></drivestart>
+   <play hasball="ASU" down="1" togo="10" spot="ASU20" context="V,1,10,V20" playid="22,1,166" clock="14:19" text="ANGELO STATE drive start at 14:19." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU20" context="V,1,10,V20" playid="22,2,167" type="R" first="R" text="Dwight Pete rush for 15 yards to the ASU35, 1ST DOWN ASU." newcontext="V,1,10,V35">
+    <p_ru vh="V" name="Dwight Pete" gain="15"></p_ru>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU35" context="V,1,10,V35" playid="22,3,168" type="R" text="Michael Simpers rush for 5 yards to the ASU40 (Minde, Joshua;Hood, Garrett)." newcontext="V,2,5,V40">
+    <p_ru vh="V" name="Michael Simpers" gain="5"></p_ru>
+    <p_tk vh="H" name="Minde, Joshua" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hood, Garrett" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="5" spot="ASU40" context="V,2,5,V40" playid="22,4,169" type="P" text="Josh Neiswander pass incomplete to Trey Anderson, dropped pass." newcontext="V,3,5,V40">
+    <p_pa vh="V" qb="Josh Neiswander" result="DROP" rcv="Trey Anderson"></p_pa>
+   </play>
+   <play hasball="ASU" down="3" togo="5" spot="ASU40" context="V,3,5,V40" playid="22,5,170" type="P" text="Josh Neiswander pass incomplete to Michael Simpers (Harris, Matt)." newcontext="V,4,5,V40">
+    <p_pa vh="V" qb="Josh Neiswander" result="BRUP" rcv="Michael Simpers"></p_pa>
+    <p_bu vh="H" name="Harris, Matt"></p_bu>
+   </play>
+   <play hasball="ASU" down="4" togo="5" spot="ASU40" context="V,4,5,V40" playid="22,6,171" type="E" first="E" text="Dylan Wiggs punt 34 yards to the TXST26, Thompson, Will return to the TXST31 (Rickey McKinley;S. Lafaele), PENALTY TXST roughing the kicker 5 yards to the ASU45, 1ST DOWN ASU, NO PLAY." newcontext="V,1,10,V45">
+    <p_pn vh="H" code="RK" type="roughing the kicker" result="ACCEPT" at="V40" yards="5"></p_pn>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU45" context="V,1,10,V45" playid="22,7,172" type="P" first="P" text="Josh Neiswander pass complete to V'Keon Lacey for 15 yards to the TXST40, 1ST DOWN ASU." newcontext="V,1,10,H40">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="V'Keon Lacey" gain="15"></p_pa>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST40" context="V,1,10,H40" playid="22,8,173" type="#" clock="12:17" text="Timeout Angelo State, clock 12:17." newcontext="V,1,10,H40">
+    <p_to vh="V" team="Angelo State"></p_to>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST40" context="V,1,10,H40" playid="22,9,174" type="P" first="P" text="Josh Neiswander pass complete to D. Pecikonis for 17 yards to the TXST23, 1ST DOWN ASU (Iwuji, Bryan;Holmes, Charles)." newcontext="V,1,10,H23">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="D. Pecikonis" gain="17"></p_pa>
+    <p_tk vh="H" name="Iwuji, Bryan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Holmes, Charles" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST23" context="V,1,10,H23" playid="22,10,175" type="P" first="P" text="Josh Neiswander pass complete to Austin Benson for 12 yards to the TXST11, 1ST DOWN ASU (Morris, Darryl;Holmes, Charles)." newcontext="V,1,10,H11">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="Austin Benson" gain="12"></p_pa>
+    <p_tk vh="H" name="Morris, Darryl" assist="Y"></p_tk>
+    <p_tk vh="H" name="Holmes, Charles" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST11" context="V,1,10,H11" playid="22,11,176" type="P" text="Josh Neiswander pass complete to Garrett Tidwell for 6 yards to the TXST5 (Jackson, Ron;Miller, T.P.)." newcontext="V,2,4,H05">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="Garrett Tidwell" gain="6"></p_pa>
+    <p_tk vh="H" name="Jackson, Ron" assist="Y"></p_tk>
+    <p_tk vh="H" name="Miller, T.P." assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="4" spot="TXST05" context="V,2,4,H05" playid="22,12,177" type="P" first="P" score="Y" clock="10:30" text="Josh Neiswander pass complete to V'Keon Lacey for 5 yards to the TXST0, 1ST DOWN ASU, TOUCHDOWN, clock 10:30." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="V'Keon Lacey" gain="5"></p_pa>
+   </play>
+   <play hasball="ASU" down="1" togo="0" spot="TXST03" context="V,1,0,H03" playid="22,13,178" type="X" score="Y" text="Brad Holcomb kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Brad Holcomb" qb="Brad Holcomb" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="34"></score>
+   <drivesum plays="9" yards="80" top="3:49" driveindex="22" complete="Y"></drivesum>
+   <play hasball="ASU" down="1" togo="0" spot="ASU30" context="V,1,0,V30" playid="22,14,179" type="K" score="Y" clock="10:23" text="Ryan Smith kickoff 8 yards to the ASU38, Dillard, Daren return 38 yards to the ASU0, TOUCHDOWN, clock 10:23, PENALTY ASU offside declined." newcontext="H,1,0,V03">
+    <p_ko vh="V" name="Ryan Smith" gain="8"></p_ko>
+    <p_kr vh="H" name="Dillard, Daren" gain="38"></p_kr>
+    <p_pn vh="V" code="OS" type="offside" result="DECLINE"></p_pn>
+   </play>
+   <drivestart poss="H,V03,10:23" vh="H" spot="V03" clock="10:23" driveindex="23,179"></drivestart>
+   <play hasball="TXST" down="1" togo="0" spot="ASU03" context="H,1,0,V03" playid="23,1,180" type="X" score="Y" text="Garelick, Justi kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Garelick, Justi" qb="Garelick, Justi" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="41"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="23" complete="Y"></drivesum>
+   <play hasball="TXST" down="1" togo="0" spot="TXST30" context="H,1,0,H30" playid="23,2,181" type="K" text="Follis, Ben kickoff 64 yards to the ASU6, D. Pecikonis return 26 yards to the ASU32 (Hampton, Kennet)." newcontext="V,1,10,V32">
+    <p_ko vh="H" name="Follis, Ben" gain="64"></p_ko>
+    <p_kr vh="V" name="D. Pecikonis" gain="26"></p_kr>
+    <p_tk vh="H" name="Hampton, Kennet"></p_tk>
+   </play>
+   <drivestart poss="V,V32,10:23" vh="V" spot="V32" clock="10:23" driveindex="24,181"></drivestart>
+   <play hasball="ASU" down="1" togo="10" spot="ASU32" context="V,1,10,V32" playid="24,1,182" clock="10:16" text="ANGELO STATE drive start at 10:16." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU32" context="V,1,10,V32" playid="24,2,183" type="R" text="Michael Simpers rush for 2 yards to the ASU34 (Eshraghipour, A;Hood, Garrett)." newcontext="V,2,8,V34">
+    <p_ru vh="V" name="Michael Simpers" gain="2"></p_ru>
+    <p_tk vh="H" name="Eshraghipour, A" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hood, Garrett" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="8" spot="ASU34" context="V,2,8,V34" playid="24,3,184" type="P" first="P" text="Josh Neiswander pass complete to V'Keon Lacey for 39 yards to the TXST27, 1ST DOWN ASU (Miller, T.P.)." newcontext="V,1,10,H27">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="V'Keon Lacey" gain="39"></p_pa>
+    <p_tk vh="H" name="Miller, T.P."></p_tk>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST27" context="V,1,10,H27" playid="24,4,185" type="P" text="Josh Neiswander pass incomplete to D. Pecikonis (Thompson, Will)." newcontext="V,2,10,H27">
+    <p_pa vh="V" qb="Josh Neiswander" result="BRUP" rcv="D. Pecikonis"></p_pa>
+    <p_bu vh="H" name="Thompson, Will"></p_bu>
+   </play>
+   <play hasball="ASU" down="2" togo="10" spot="TXST27" context="V,2,10,H27" playid="24,5,186" type="P" text="Josh Neiswander pass incomplete to Austin Benson (Morris, Darryl)." newcontext="V,3,10,H27">
+    <p_pa vh="V" qb="Josh Neiswander" result="BRUP" rcv="Austin Benson"></p_pa>
+    <p_bu vh="H" name="Morris, Darryl"></p_bu>
+   </play>
+   <play hasball="ASU" down="3" togo="10" spot="TXST27" context="V,3,10,H27" playid="24,6,187" type="R" first="R" text="Michael Simpers rush for 13 yards to the TXST14, 1ST DOWN ASU (Lopez, Derek;Hampton, Kennet)." newcontext="V,1,10,H14">
+    <p_ru vh="V" name="Michael Simpers" gain="13"></p_ru>
+    <p_tk vh="H" name="Lopez, Derek" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hampton, Kennet" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="TXST14" context="V,1,10,H14" playid="24,7,188" type="P" first="P" score="Y" clock="08:21" text="Josh Neiswander pass complete to Brandan Ritchey for 14 yards to the TXST0, 1ST DOWN ASU, TOUCHDOWN, clock 08:21." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Josh Neiswander" result="COMP" rcv="Brandan Ritchey" gain="14"></p_pa>
+   </play>
+   <play hasball="ASU" down="1" togo="0" spot="TXST03" context="V,1,0,H03" playid="24,8,189" type="X" score="Y" text="Brad Holcomb kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Brad Holcomb" qb="Brad Holcomb" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="28" H="41"></score>
+   <drivesum plays="6" yards="68" top="1:55" driveindex="24" complete="Y"></drivesum>
+   <play hasball="ASU" down="1" togo="0" spot="ASU30" context="V,1,0,V30" playid="24,9,190" type="K" text="Ryan Smith kickoff 42 yards to the TXST28, Strodtman, Patr return 12 yards to the TXST40 (Lance Tissue;Brandon Mayse)." newcontext="H,1,10,H40">
+    <p_ko vh="V" name="Ryan Smith" gain="42"></p_ko>
+    <p_kr vh="H" name="Strodtman, Patr" gain="12"></p_kr>
+    <p_tk vh="V" name="Lance Tissue" assist="Y"></p_tk>
+    <p_tk vh="V" name="Brandon Mayse" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H40,08:21" vh="H" spot="H40" clock="08:21" driveindex="25,190"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST40" context="H,1,10,H40" playid="25,1,191" clock="08:16" text="TEXAS STATE drive start at 08:16." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST40" context="H,1,10,H40" playid="25,2,192" type="R" text="Reddic, Frank rush for loss of 8 yards to the TXST32 (D.J. Clough)." newcontext="H,2,18,H32">
+    <p_ru vh="H" name="Reddic, Frank" gain="-8"></p_ru>
+    <p_tk vh="V" name="D.J. Clough" tfl="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="18" spot="TXST32" context="H,2,18,H32" playid="25,3,193" type="P" text="George, Bradley pass incomplete to Dillard, Daren, QB hurry by Ian Ritchey." newcontext="H,3,18,H32">
+    <p_pa vh="H" qb="George, Bradley" result="INC" rcv="Dillard, Daren"></p_pa>
+    <p_qbh vh="V" name="Ian Ritchey"></p_qbh>
+   </play>
+   <play hasball="TXST" down="3" togo="18" spot="TXST32" context="H,3,18,H32" playid="25,4,194" type="E" text="George, Bradley pass incomplete to Griggs, Da'Marc, PENALTY ASU offside 5 yards to the TXST37, NO PLAY." newcontext="H,3,13,H37">
+    <p_pn vh="V" code="OS" type="offside" result="ACCEPT" at="H32" yards="5"></p_pn>
+   </play>
+   <play hasball="TXST" down="3" togo="13" spot="TXST37" context="H,3,13,H37" playid="25,5,195" type="P" text="George, Bradley pass complete to Canady, Alvin for 11 yards to the TXST48 (Pete Parker;Logan Bryan)." newcontext="H,4,2,H48">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Canady, Alvin" gain="11"></p_pa>
+    <p_tk vh="V" name="Pete Parker" assist="Y"></p_tk>
+    <p_tk vh="V" name="Logan Bryan" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="4" togo="2" spot="TXST48" context="H,4,2,H48" playid="25,6,196" type="R" first="R" text="Follis, Ben rush for 22 yards to the ASU30, fumble forced by Dekkar Williams, fumble by Follis, Ben recovered by TXST Anderson, Kyle at ASU31, 1ST DOWN TXST." newcontext="H,1,10,V31">
+    <p_ru vh="H" name="Follis, Ben" gain="22"></p_ru>
+    <p_fumb vh="H" name="Follis, Ben" at="V31" frvh="H" frname="Anderson, Kyle"></p_fumb>
+    <p_tk vh="V" name="Dekkar Williams" ff="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="ASU31" context="H,1,10,V31" playid="25,7,197" type="P" text="George, Bradley pass incomplete to Brooks, Andrew, QB hurry by Cody Smtih." newcontext="H,2,10,V31">
+    <p_pa vh="H" qb="George, Bradley" result="INC" rcv="Brooks, Andrew"></p_pa>
+    <p_qbh vh="V" name="Cody Smtih"></p_qbh>
+   </play>
+   <play hasball="TXST" down="2" togo="10" spot="ASU31" context="H,2,10,V31" playid="25,8,198" type="P" first="P" text="George, Bradley pass complete to Garcia, Alvaro for 18 yards to the ASU13, 1ST DOWN TXST (Logan Bryan)." newcontext="H,1,10,V13">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Garcia, Alvaro" gain="18"></p_pa>
+    <p_tk vh="V" name="Logan Bryan"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="ASU13" context="H,1,10,V13" playid="25,9,199" type="R" text="Reddic, Frank rush for 5 yards to the ASU8 (Markeith Jones)." newcontext="H,2,5,V08">
+    <p_ru vh="H" name="Reddic, Frank" gain="5"></p_ru>
+    <p_tk vh="V" name="Markeith Jones"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="5" spot="ASU08" context="H,2,5,V08" playid="25,10,200" type="R" text="Reddic, Frank rush for 4 yards to the ASU4 (Ian Ritchey;Logan Bryan)." newcontext="H,3,1,V04">
+    <p_ru vh="H" name="Reddic, Frank" gain="4"></p_ru>
+    <p_tk vh="V" name="Ian Ritchey" assist="Y"></p_tk>
+    <p_tk vh="V" name="Logan Bryan" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="3" togo="1" spot="ASU04" context="H,3,1,V04" playid="25,11,201" type="R" first="R" text="George, Bradley rush for 3 yards to the ASU1, 1ST DOWN TXST (Edward Cantrell;D'Angelo Waites)." newcontext="H,1,0,V01">
+    <p_ru vh="H" name="George, Bradley" gain="3"></p_ru>
+    <p_tk vh="V" name="Edward Cantrell" assist="Y"></p_tk>
+    <p_tk vh="V" name="D'Angelo Waites" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="1" togo="0" spot="ASU01" context="H,1,0,V01" playid="25,12,202" type="P" score="Y" clock="03:33" text="George, Bradley pass complete to Anderson, Kyle for 1 yard to the ASU0, TOUCHDOWN, clock 03:33." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="George, Bradley" result="COMP" rcv="Anderson, Kyle" gain="1"></p_pa>
+   </play>
+   <play hasball="TXST" down="1" togo="0" spot="ASU03" context="H,1,0,V03" playid="25,13,203" type="X" score="Y" text="Garelick, Justi kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Garelick, Justi" qb="Garelick, Justi" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="28" H="48"></score>
+   <drivesum plays="10" yards="60" top="4:43" driveindex="25" complete="Y"></drivesum>
+   <play hasball="TXST" down="1" togo="0" spot="TXST30" context="H,1,0,H30" playid="25,14,204" type="K" text="Garelick, Justi kickoff 61 yards to the ASU9, D. Pecikonis return 18 yards to the ASU27 (Strodtman, Patr)." newcontext="V,1,10,V27">
+    <p_ko vh="H" name="Garelick, Justi" gain="61"></p_ko>
+    <p_kr vh="V" name="D. Pecikonis" gain="18"></p_kr>
+    <p_tk vh="H" name="Strodtman, Patr"></p_tk>
+   </play>
+   <drivestart poss="V,V27,03:33" vh="V" spot="V27" clock="03:33" driveindex="26,204"></drivestart>
+   <play hasball="ASU" down="1" togo="10" spot="ASU27" context="V,1,10,V27" playid="26,1,205" clock="03:28" text="ANGELO STATE drive start at 03:28." newcontext="V,1,10,V27">
+   </play>
+   <play hasball="ASU" down="1" togo="10" spot="ASU27" context="V,1,10,V27" playid="26,2,206" type="R" text="Michael Simpers rush for 2 yards to the ASU29 (Iwuji, Bryan;Kazen, Jay)." newcontext="V,2,8,V29">
+    <p_ru vh="V" name="Michael Simpers" gain="2"></p_ru>
+    <p_tk vh="H" name="Iwuji, Bryan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kazen, Jay" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="2" togo="8" spot="ASU29" context="V,2,8,V29" playid="26,3,207" type="R" text="Michael Simpers rush for 6 yards to the ASU35 (Iwuji, Bryan;McLean, Jason)." newcontext="V,3,2,V35">
+    <p_ru vh="V" name="Michael Simpers" gain="6"></p_ru>
+    <p_tk vh="H" name="Iwuji, Bryan" assist="Y"></p_tk>
+    <p_tk vh="H" name="McLean, Jason" assist="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="3" togo="2" spot="ASU35" context="V,3,2,V35" playid="26,4,208" type="R" text="Michael Simpers rush for loss of 3 yards to the ASU32 (Miller, T.P.)." newcontext="V,4,5,V32">
+    <p_ru vh="V" name="Michael Simpers" gain="-3"></p_ru>
+    <p_tk vh="H" name="Miller, T.P." tfl="Y"></p_tk>
+   </play>
+   <play hasball="ASU" down="4" togo="5" spot="ASU32" context="V,4,5,V32" playid="26,5,209" type="U" text="Dylan Wiggs punt 45 yards to the TXST23, fair catch by Thompson, Will." newcontext="H,1,10,H23">
+    <p_pu vh="V" name="Dylan Wiggs" gain="45" fc="Thompson, Will"></p_pu>
+   </play>
+   <drivesum plays="3" yards="5" top="2:07" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="H,H23,03:28" vh="H" spot="H23" clock="03:28" driveindex="27,209"></drivestart>
+   <play hasball="TXST" down="1" togo="10" spot="TXST23" context="H,1,10,H23" playid="27,1,210" clock="01:21" text="TEXAS STATE drive start at 01:21." newcontext="H,1,10,H23">
+   </play>
+   <play hasball="TXST" down="1" togo="10" spot="TXST23" context="H,1,10,H23" playid="27,2,211" type="R" text="McVaney, Jeff rush for no gain to the TXST23 (D'Angelo Waites;Devin McDonald)." newcontext="H,2,10,H23">
+    <p_ru vh="H" name="McVaney, Jeff" gain="0"></p_ru>
+    <p_tk vh="V" name="D'Angelo Waites" assist="Y"></p_tk>
+    <p_tk vh="V" name="Devin McDonald" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="2" togo="10" spot="TXST23" context="H,2,10,H23" playid="27,3,212" type="R" text="McVaney, Jeff rush for 3 yards to the TXST26 (C. Rosenbaum;Alvin Johnson)." newcontext="H,3,7,H26">
+    <p_ru vh="H" name="McVaney, Jeff" gain="3"></p_ru>
+    <p_tk vh="V" name="C. Rosenbaum" assist="Y"></p_tk>
+    <p_tk vh="V" name="Alvin Johnson" assist="Y"></p_tk>
+   </play>
+   <play hasball="TXST" down="3" togo="7" spot="TXST26" context="H,3,7,H26" playid="27,4,213" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,3,7,H26">
+   </play>
+   <drivesum plays="2" yards="3" top="1:21" driveindex="27" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Texas State defeats Angelo State by a score of 48 to 28."></play>
+   <score final="Y" V="28" H="48"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="ASU">
+    <firstdowns no="9" rush="2" pass="6" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:03"></misc>
+    <rush att="7" yds="40" gain="43" loss="3" td="0" long="1"></rush>
+    <pass comp="7" att="11" int="0" yds="108" td="2" long="5" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="108" td="2" long="5"></rcv>
+    <punt no="1" yds="45" long="4" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="45.0"></punt>
+    <ko no="2" yds="50" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="4" tacka="14" tot_tack="18" tflua="3" tfla="0" tflyds="10" sacks="2" sackyds="5" brup="1" qbh="2" ff="1"></defense>
+    <kr no="2" yds="44" td="0" long="0"></kr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="TXST">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:57"></misc>
+    <rush att="8" yds="27" gain="36" loss="9" td="0" long="11"></rush>
+    <pass comp="3" att="6" int="0" yds="30" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="30" td="1" long="0"></rcv>
+    <punt no="1" yds="45" long="5" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="45.0"></punt>
+    <ko no="2" yds="125" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="4" tacka="16" tot_tack="20" tflua="1" tfla="0" tflyds="3" sacks="0" sackyds="0" brup="3"></defense>
+    <kr no="2" yds="50" td="1" long="1"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="TXST" down="3" togo="7" spot="TXST26" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="0" htor="3" dtgtext="Game Over" ldtext="Drive started: 01:21, 4th Qtr"></downtogo>
+ </plays>

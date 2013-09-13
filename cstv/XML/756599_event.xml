@@ -1,0 +1,818 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="NEV" down="1" togo="10" spot="NEV30" context="V,1,10,V30" playid="0,1,0" text="Nevada wins toss and defers. ND will receive, Nevada def South Goal" newcontext="V,1,10,V30">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV30" context="V,1,10,V30" playid="0,2,1" text="NEV ball on NEV30." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV30" context="V,1,10,V30" playid="0,3,2" type="K" text="Rhodes, Nick kickoff 60 yards to the ND10, RIDDICK return 23 yards to the ND33 (Frey, Isaiah)." newcontext="H,1,10,H33">
+    <p_ko vh="V" name="Rhodes, Nick" gain="60"></p_ko>
+    <p_kr vh="H" name="RIDDICK" gain="23"></p_kr>
+    <p_tk vh="V" name="Frey, Isaiah"></p_tk>
+   </play>
+   <drivestart poss="H,H33,15:00" vh="H" spot="H33" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND33" context="H,1,10,H33" playid="1,1,3" type="R" text="CLAUSEN rush for 7 yards to the ND40 (Coulson, Ryan)." newcontext="H,2,3,H40">
+    <p_ru vh="H" name="CLAUSEN" gain="7"></p_ru>
+    <p_tk vh="V" name="Coulson, Ryan"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="3" spot="ND40" context="H,2,3,H40" playid="1,2,4" type="P" first="P" text="CLAUSEN pass complete to RUDOLPH for 11 yards to the NEV49, 1ST DOWN ND, out-of-bounds (Thompson, A.)." ob="Y" newcontext="H,1,10,V49">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="RUDOLPH" gain="11"></p_pa>
+    <p_tk vh="V" name="Thompson, A."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="NEV49" context="H,1,10,V49" playid="1,3,5" type="P" text="CLAUSEN pass incomplete to FLOYD." newcontext="H,2,10,V49">
+    <p_pa vh="H" qb="CLAUSEN" result="INC" rcv="FLOYD"></p_pa>
+   </play>
+   <play hasball="ND" down="2" togo="10" spot="NEV49" context="H,2,10,V49" playid="1,4,6" type="R" text="ALLEN rush for 6 yards to the NEV43 (Grimes, Kevin)." newcontext="H,3,4,V43">
+    <p_ru vh="H" name="ALLEN" gain="6"></p_ru>
+    <p_tk vh="V" name="Grimes, Kevin"></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="4" spot="NEV43" context="H,3,4,V43" playid="1,5,7" type="P" text="CLAUSEN pass complete to ALLEN for 3 yards to the NEV40 (Marshall, B.)." newcontext="H,4,1,V40">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="ALLEN" gain="3"></p_pa>
+    <p_tk vh="V" name="Marshall, B."></p_tk>
+   </play>
+   <play hasball="ND" down="4" togo="1" spot="NEV40" context="H,4,1,V40" playid="1,6,8" type="R" first="R" text="ALDRIDGE rush for 2 yards to the NEV38, 1ST DOWN ND (Johnson, J.M.)." newcontext="H,1,10,V38">
+    <p_ru vh="H" name="ALDRIDGE" gain="2"></p_ru>
+    <p_tk vh="V" name="Johnson, J.M."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="NEV38" context="H,1,10,V38" playid="1,7,9" type="R" first="R" text="ALLEN rush for 10 yards to the NEV28, 1ST DOWN ND, out-of-bounds (Amaya, Jonathon)." ob="Y" newcontext="H,1,10,V28">
+    <p_ru vh="H" name="ALLEN" gain="10"></p_ru>
+    <p_tk vh="V" name="Amaya, Jonathon"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="NEV28" context="H,1,10,V28" playid="1,8,10" type="R" text="ALLEN rush for 8 yards to the NEV20, out-of-bounds (Amaya, Jonathon)." ob="Y" newcontext="H,2,2,V20">
+    <p_ru vh="H" name="ALLEN" gain="8"></p_ru>
+    <p_tk vh="V" name="Amaya, Jonathon"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="2" spot="NEV20" context="H,2,2,V20" playid="1,9,11" type="P" first="P" text="CLAUSEN pass complete to FLOYD for 7 yards to the NEV13, 1ST DOWN ND (Thompson, A.)." newcontext="H,1,10,V13">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="FLOYD" gain="7"></p_pa>
+    <p_tk vh="V" name="Thompson, A."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="NEV13" context="H,1,10,V13" playid="1,10,12" type="P" text="CLAUSEN pass complete to ALLEN for loss of 4 yards to the NEV17 (Bethea, Mike)." newcontext="H,2,14,V17">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="ALLEN" gain="-4"></p_pa>
+    <p_tk vh="V" name="Bethea, Mike" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="14" spot="NEV17" context="H,2,14,V17" playid="1,11,13" type="R" text="ALLEN rush for loss of 2 yards to the NEV19 (Moch, Dontay)." newcontext="H,3,16,V19">
+    <p_ru vh="H" name="ALLEN" gain="-2"></p_ru>
+    <p_tk vh="V" name="Moch, Dontay" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="16" spot="NEV19" context="H,3,16,V19" playid="1,12,14" type="#" clock="08:48" text="Timeout Notre Dame, clock 08:48." newcontext="H,3,16,V19">
+    <p_to vh="H" team="Notre Dame"></p_to>
+   </play>
+   <play hasball="ND" down="3" togo="16" spot="NEV19" context="H,3,16,V19" playid="1,13,15" type="P" first="P" score="Y" clock="08:42" text="CLAUSEN pass complete to RUDOLPH for 19 yards to the NEV0, 1ST DOWN ND, TOUCHDOWN, clock 08:42." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="RUDOLPH" gain="19"></p_pa>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="NEV03" context="H,1,0,V03" playid="1,14,16" type="X" score="Y" text="TAUSCH kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="TAUSCH" qb="TAUSCH" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="12" yards="67" top="6:18" driveindex="1" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND30" context="H,1,0,H30" playid="1,15,17" type="K" text="TAUSCH kickoff 62 yards to the NEV8, Ball, Mike return 19 yards to the NEV27 (SMITH, S.)." newcontext="V,1,10,V27">
+    <p_ko vh="H" name="TAUSCH" gain="62"></p_ko>
+    <p_kr vh="V" name="Ball, Mike" gain="19"></p_kr>
+    <p_tk vh="H" name="SMITH, S."></p_tk>
+   </play>
+   <drivestart poss="V,V27,08:42" vh="V" spot="V27" clock="08:42" driveindex="2,17"></drivestart>
+   <play hasball="NEV" down="1" togo="10" spot="NEV27" context="V,1,10,V27" playid="2,1,18" clock="08:42" text="NEVADA drive start at 08:42." newcontext="V,1,10,V27">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV27" context="V,1,10,V27" playid="2,2,19" type="R" text="Taua, Vai rush for 3 yards to the NEV30 (WILLIAMS, I.;JOHNSON)." newcontext="V,2,7,V30">
+    <p_ru vh="V" name="Taua, Vai" gain="3"></p_ru>
+    <p_tk vh="H" name="WILLIAMS, I." assist="Y"></p_tk>
+    <p_tk vh="H" name="JOHNSON" assist="Y"></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="7" spot="NEV30" context="V,2,7,V30" playid="2,3,20" type="P" first="P" text="Kaepernick, C. pass complete to Session, Tray for 19 yards to the NEV49, 1ST DOWN NEV, out-of-bounds (BLANTON)." ob="Y" newcontext="V,1,10,V49">
+    <p_pa vh="V" qb="Kaepernick, C." result="COMP" rcv="Session, Tray" gain="19"></p_pa>
+    <p_tk vh="H" name="BLANTON"></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV49" context="V,1,10,V49" playid="2,4,21" type="R" first="R" text="Taua, Vai rush for 17 yards to the ND34, 1ST DOWN NEV (McCARTHY, K.)." newcontext="V,1,10,H34">
+    <p_ru vh="V" name="Taua, Vai" gain="17"></p_ru>
+    <p_tk vh="H" name="McCARTHY, K."></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="ND34" context="V,1,10,H34" playid="2,5,22" type="R" first="R" text="Taua, Vai rush for 11 yards to the ND23, 1ST DOWN NEV (SMITH, H.)." newcontext="V,1,10,H23">
+    <p_ru vh="V" name="Taua, Vai" gain="11"></p_ru>
+    <p_tk vh="H" name="SMITH, H."></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="ND23" context="V,1,10,H23" playid="2,6,23" type="R" text="Taua, Vai rush for 5 yards to the ND18 (JOHNSON)." newcontext="V,2,5,H18">
+    <p_ru vh="V" name="Taua, Vai" gain="5"></p_ru>
+    <p_tk vh="H" name="JOHNSON"></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="5" spot="ND18" context="V,2,5,H18" playid="2,7,24" type="R" text="Kaepernick, C. rush for loss of 7 yards to the ND25 (SMITH, B.)." newcontext="V,3,12,H25">
+    <p_ru vh="V" name="Kaepernick, C." gain="-7"></p_ru>
+    <p_tk vh="H" name="SMITH, B." tfl="Y"></p_tk>
+   </play>
+   <play hasball="NEV" down="3" togo="12" spot="ND25" context="V,3,12,H25" playid="2,8,25" type="P" text="Kaepernick, C. pass complete to Wellington, C. for 4 yards to the ND21 (McCARTHY, K.)." newcontext="V,4,8,H21">
+    <p_pa vh="V" qb="Kaepernick, C." result="COMP" rcv="Wellington, C." gain="4"></p_pa>
+    <p_tk vh="H" name="McCARTHY, K."></p_tk>
+   </play>
+   <play hasball="NEV" down="4" togo="8" spot="ND21" context="V,4,8,H21" playid="2,9,26" type="F" clock="04:18" text="Drake, Ricky field goal attempt from 38 MISSED - wide right, spot at ND22, clock 04:18." newcontext="H,1,10,H22">
+    <p_fg vh="V" name="Drake, Ricky" distance="38" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="8" yards="52" top="4:24" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H22,04:18" vh="H" spot="H22" clock="04:18" driveindex="3,26"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND22" context="H,1,10,H22" playid="3,1,27" clock="04:18" text="NOTRE DAME drive start at 04:18." newcontext="H,1,10,H22">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND22" context="H,1,10,H22" playid="3,2,28" type="R" text="ALLEN rush for 2 yards to the ND24 (Moch, Dontay;Bethea, Mike)." newcontext="H,2,8,H24">
+    <p_ru vh="H" name="ALLEN" gain="2"></p_ru>
+    <p_tk vh="V" name="Moch, Dontay" assist="Y"></p_tk>
+    <p_tk vh="V" name="Bethea, Mike" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="8" spot="ND24" context="H,2,8,H24" playid="3,3,29" type="P" first="P" text="CLAUSEN pass complete to TATE for 36 yards to the NEV40, 1ST DOWN ND, out-of-bounds (Frey, Isaiah)." ob="Y" newcontext="H,1,10,V40">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="TATE" gain="36"></p_pa>
+    <p_tk vh="V" name="Frey, Isaiah"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="NEV40" context="H,1,10,V40" playid="3,4,30" type="R" text="ALLEN rush for 8 yards to the NEV32 (Amaya, Jonathon), PENALTY ND holding 10 yards to the NEV42." newcontext="H,1,12,V42">
+    <p_ru vh="H" name="ALLEN" gain="8"></p_ru>
+    <p_tk vh="V" name="Amaya, Jonathon"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="V32" yards="10"></p_pn>
+   </play>
+   <play hasball="ND" down="1" togo="12" spot="NEV42" context="H,1,12,V42" playid="3,5,31" text="1st and 12." newcontext="H,1,12,V42">
+   </play>
+   <play hasball="ND" down="1" togo="12" spot="NEV42" context="H,1,12,V42" playid="3,6,32" type="P" text="CLAUSEN pass complete to TATE for 8 yards to the NEV34 (Frey, Isaiah)." newcontext="H,2,4,V34">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="TATE" gain="8"></p_pa>
+    <p_tk vh="V" name="Frey, Isaiah"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="4" spot="NEV34" context="H,2,4,V34" playid="3,7,33" type="R" text="GRAY, J. rush for loss of 1 yard to the NEV35 (Johnson, J.M.;Madonick, Zack)." newcontext="H,3,5,V35">
+    <p_ru vh="H" name="GRAY, J." gain="-1"></p_ru>
+    <p_tk vh="V" name="Johnson, J.M." tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Madonick, Zack" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="5" spot="NEV35" context="H,3,5,V35" playid="3,8,34" type="P" first="P" text="CLAUSEN pass complete to PARRIS for 10 yards to the NEV25, 1ST DOWN ND." newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="PARRIS" gain="10"></p_pa>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="NEV25" context="H,1,10,V25" playid="3,9,35" type="R" text="CLAUSEN rush for loss of 6 yards to the NEV31 (Coulson, Ryan)." newcontext="H,2,16,V31">
+    <p_ru vh="H" name="CLAUSEN" gain="-6"></p_ru>
+    <p_tk vh="V" name="Coulson, Ryan" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="16" spot="NEV31" context="H,2,16,V31" playid="3,10,36" type="R" text="ALLEN rush for 7 yards to the NEV24 (Bethea, Mike)." newcontext="H,3,9,V24">
+    <p_ru vh="H" name="ALLEN" gain="7"></p_ru>
+    <p_tk vh="V" name="Bethea, Mike"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NEV">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:24"></misc>
+    <rush att="5" yds="29" gain="36" loss="7" td="0" long="17"></rush>
+    <pass comp="2" att="2" int="0" yds="23" td="0" long="19" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="23" td="0" long="19"></rcv>
+    <ko no="1" yds="60" ob="0" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="16" tacka="4" tot_tack="20" tflua="5" tfla="0" tflyds="14" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="19" td="0" long="19"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ND">
+    <firstdowns no="7" rush="2" pass="5" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:36"></misc>
+    <rush att="11" yds="41" gain="50" loss="9" td="0" long="10"></rush>
+    <pass comp="8" att="9" int="0" yds="90" td="1" long="36" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="90" td="1" long="36"></rcv>
+    <ko no="1" yds="62" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="7" tacka="2" tot_tack="9" tflua="1" tfla="0" tflyds="7" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="23" td="0" long="23"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="ND" down="3" togo="9" spot="NEV24" context="H,3,9,V24" playid="3,11,37" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,3,9,V24">
+   </play>
+   <play hasball="ND" down="3" togo="9" spot="NEV24" context="H,3,9,V24" playid="3,12,38" type="P" first="P" score="Y" clock="14:54" text="CLAUSEN pass complete to FLOYD for 24 yards to the NEV0, 1ST DOWN ND, TOUCHDOWN, clock 14:54." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="FLOYD" gain="24"></p_pa>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="NEV03" context="H,1,0,V03" playid="3,13,39" type="X" score="Y" text="TAUSCH kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="TAUSCH" qb="TAUSCH" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="14"></score>
+   <drivesum plays="9" yards="78" top="4:24" driveindex="3" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND30" context="H,1,0,H30" playid="3,14,40" type="K" text="TAUSCH kickoff 39 yards to the NEV31, downed." newcontext="V,1,10,V31">
+    <p_ko vh="H" name="TAUSCH" gain="39"></p_ko>
+   </play>
+   <drivestart poss="V,V31,14:54" vh="V" spot="V31" clock="14:54" driveindex="4,40"></drivestart>
+   <play hasball="NEV" down="1" togo="10" spot="NEV31" context="V,1,10,V31" playid="4,1,41" clock="14:54" text="NEVADA drive start at 14:54." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV31" context="V,1,10,V31" playid="4,2,42" type="P" text="Kaepernick, C. sacked for loss of 11 yards to the NEV20 (SMITH, B.)." newcontext="V,2,21,V20">
+    <p_pa vh="V" qb="Kaepernick, C." result="SACK" gain="-11"></p_pa>
+    <p_tk vh="H" name="SMITH, B." sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="21" spot="NEV20" context="V,2,21,V20" playid="4,3,43" type="R" text="Kaepernick, C. rush for 6 yards to the NEV26." newcontext="V,3,15,V26">
+    <p_ru vh="V" name="Kaepernick, C." gain="6"></p_ru>
+   </play>
+   <play hasball="NEV" down="3" togo="15" spot="NEV26" context="V,3,15,V26" playid="4,4,44" type="R" text="Kaepernick, C. rush for 11 yards to the NEV37 (TE'O)." newcontext="V,4,4,V37">
+    <p_ru vh="V" name="Kaepernick, C." gain="11"></p_ru>
+    <p_tk vh="H" name="TE'O"></p_tk>
+   </play>
+   <play hasball="NEV" down="4" togo="4" spot="NEV37" context="V,4,4,V37" playid="4,5,45" type="U" text="Langley, Brad punt 42 yards to the ND21, downed." newcontext="H,1,10,H21">
+    <p_pu vh="V" name="Langley, Brad" gain="42"></p_pu>
+   </play>
+   <drivesum plays="3" yards="6" top="2:26" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="H,H21,14:54" vh="H" spot="H21" clock="14:54" driveindex="5,45"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND21" context="H,1,10,H21" playid="5,1,46" clock="12:28" text="NOTRE DAME drive start at 12:28." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND21" context="H,1,10,H21" playid="5,2,47" type="R" text="ALDRIDGE rush for 9 yards to the ND30 (Moch, Dontay)." newcontext="H,2,1,H30">
+    <p_ru vh="H" name="ALDRIDGE" gain="9"></p_ru>
+    <p_tk vh="V" name="Moch, Dontay"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="1" spot="ND30" context="H,2,1,H30" playid="5,3,48" type="P" first="P" score="Y" clock="11:42" text="CLAUSEN pass complete to FLOYD for 70 yards to the NEV0, 1ST DOWN ND, TOUCHDOWN, clock 11:42." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="FLOYD" gain="70"></p_pa>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="NEV03" context="H,1,0,V03" playid="5,4,49" type="X" score="Y" text="TAUSCH kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="TAUSCH" qb="TAUSCH" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="21"></score>
+   <drivesum plays="2" yards="79" top="0:46" driveindex="5" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND30" context="H,1,0,H30" playid="5,5,50" type="K" text="TAUSCH kickoff 66 yards to the NEV4, Wellington, C. return 16 yards to the NEV20 (BROWN)." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="TAUSCH" gain="66"></p_ko>
+    <p_kr vh="V" name="Wellington, C." gain="16"></p_kr>
+    <p_tk vh="H" name="BROWN"></p_tk>
+   </play>
+   <drivestart poss="V,V20,11:42" vh="V" spot="V20" clock="11:42" driveindex="6,50"></drivestart>
+   <play hasball="NEV" down="1" togo="10" spot="NEV20" context="V,1,10,V20" playid="6,1,51" clock="11:42" text="NEVADA drive start at 11:42." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV20" context="V,1,10,V20" playid="6,2,52" type="E" text="PENALTY NEV delay of game 5 yards to the NEV15." newcontext="V,1,15,V15">
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="V20" yards="5"></p_pn>
+   </play>
+   <play hasball="NEV" down="1" togo="15" spot="NEV15" context="V,1,15,V15" playid="6,3,53" type="R" text="Kaepernick, C. rush for 10 yards to the NEV25 (BLANTON)." newcontext="V,2,5,V25">
+    <p_ru vh="V" name="Kaepernick, C." gain="10"></p_ru>
+    <p_tk vh="H" name="BLANTON"></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="5" spot="NEV25" context="V,2,5,V25" playid="6,4,54" type="P" text="Kaepernick, C. pass incomplete to Session, Tray." newcontext="V,3,5,V25">
+    <p_pa vh="V" qb="Kaepernick, C." result="INC" rcv="Session, Tray"></p_pa>
+   </play>
+   <play hasball="NEV" down="3" togo="5" spot="NEV25" context="V,3,5,V25" playid="6,5,55" type="P" text="Kaepernick, C. pass incomplete (RYAN)." newcontext="V,4,5,V25">
+    <p_pa vh="V" qb="Kaepernick, C." result="INC"></p_pa>
+    <p_bu vh="H" name="RYAN"></p_bu>
+   </play>
+   <play hasball="NEV" down="4" togo="5" spot="NEV25" context="V,4,5,V25" playid="6,6,56" type="U" text="Langley, Brad punt 54 yards to the ND21, TATE return -2 yards to the ND19 (Silva-Purcell,J)." newcontext="H,1,10,H19">
+    <p_pu vh="V" name="Langley, Brad" gain="54"></p_pu>
+    <p_pr vh="H" name="TATE" gain="-2"></p_pr>
+    <p_tk vh="V" name="Silva-Purcell,J"></p_tk>
+   </play>
+   <drivesum plays="3" yards="5" top="1:03" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H19,11:42" vh="H" spot="H19" clock="11:42" driveindex="7,56"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND19" context="H,1,10,H19" playid="7,1,57" clock="10:39" text="NOTRE DAME drive start at 10:39." newcontext="H,1,10,H19">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND19" context="H,1,10,H19" playid="7,2,58" type="P" text="CRIST pass complete to RUDOLPH for 2 yards to the ND21 (Bethea, Mike;Johnson, J.M.)." newcontext="H,2,8,H21">
+    <p_pa vh="H" qb="CRIST" result="COMP" rcv="RUDOLPH" gain="2"></p_pa>
+    <p_tk vh="V" name="Bethea, Mike" assist="Y"></p_tk>
+    <p_tk vh="V" name="Johnson, J.M." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="8" spot="ND21" context="H,2,8,H21" playid="7,3,59" type="R" text="TATE rush for 3 yards to the ND24 (Marshall, B.;Frey, Isaiah)." newcontext="H,3,5,H24">
+    <p_ru vh="H" name="TATE" gain="3"></p_ru>
+    <p_tk vh="V" name="Marshall, B." assist="Y"></p_tk>
+    <p_tk vh="V" name="Frey, Isaiah" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="5" spot="ND24" context="H,3,5,H24" playid="7,4,60" type="R" text="ALLEN rush for loss of 4 yards to the ND20 (Miller, Doyle;Bethea, Mike)." newcontext="H,4,9,H20">
+    <p_ru vh="H" name="ALLEN" gain="-4"></p_ru>
+    <p_tk vh="V" name="Miller, Doyle" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Bethea, Mike" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="4" togo="9" spot="ND20" context="H,4,9,H20" playid="7,5,61" type="U" text="MAUST punt 37 yards to the NEV43, fair catch by Taua, Vai." newcontext="V,1,10,V43">
+    <p_pu vh="H" name="MAUST" gain="37" fc="Taua, Vai"></p_pu>
+   </play>
+   <drivesum plays="3" yards="1" top="2:13" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="V,V43,10:39" vh="V" spot="V43" clock="10:39" driveindex="8,61"></drivestart>
+   <play hasball="NEV" down="1" togo="10" spot="NEV43" context="V,1,10,V43" playid="8,1,62" clock="08:26" text="NEVADA drive start at 08:26." newcontext="V,1,10,V43">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV43" context="V,1,10,V43" playid="8,2,63" type="R" text="Taua, Vai rush for 6 yards to the NEV49 (SMITH, Toryan)." newcontext="V,2,4,V49">
+    <p_ru vh="V" name="Taua, Vai" gain="6"></p_ru>
+    <p_tk vh="H" name="SMITH, Toryan"></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="4" spot="NEV49" context="V,2,4,V49" playid="8,3,64" type="R" first="R" text="Kaepernick, C. rush for 7 yards to the ND44, 1ST DOWN NEV (WILLIAMS, I.;RYAN)." newcontext="V,1,10,H44">
+    <p_ru vh="V" name="Kaepernick, C." gain="7"></p_ru>
+    <p_tk vh="H" name="WILLIAMS, I." assist="Y"></p_tk>
+    <p_tk vh="H" name="RYAN" assist="Y"></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="ND44" context="V,1,10,H44" playid="8,4,65" type="R" first="R" text="Taua, Vai rush for 16 yards to the ND28, 1ST DOWN NEV (SMITH, H.)." newcontext="V,1,10,H28">
+    <p_ru vh="V" name="Taua, Vai" gain="16"></p_ru>
+    <p_tk vh="H" name="SMITH, H."></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="ND28" context="V,1,10,H28" playid="8,5,66" type="P" text="Kaepernick, C. pass incomplete to Session, Tray." newcontext="V,2,10,H28">
+    <p_pa vh="V" qb="Kaepernick, C." result="INC" rcv="Session, Tray"></p_pa>
+   </play>
+   <play hasball="NEV" down="2" togo="10" spot="ND28" context="V,2,10,H28" playid="8,6,67" type="P" text="Kaepernick, C. pass complete to Taua, Vai for 6 yards to the ND22 (McCARTHY, K.)." newcontext="V,3,4,H22">
+    <p_pa vh="V" qb="Kaepernick, C." result="COMP" rcv="Taua, Vai" gain="6"></p_pa>
+    <p_tk vh="H" name="McCARTHY, K."></p_tk>
+   </play>
+   <play hasball="NEV" down="3" togo="4" spot="ND22" context="V,3,4,H22" playid="8,7,68" type="R" text="Taua, Vai rush for 3 yards to the ND19 (McCARTHY, K.;SMITH, Toryan)." newcontext="V,4,1,H19">
+    <p_ru vh="V" name="Taua, Vai" gain="3"></p_ru>
+    <p_tk vh="H" name="McCARTHY, K." assist="Y"></p_tk>
+    <p_tk vh="H" name="SMITH, Toryan" assist="Y"></p_tk>
+   </play>
+   <play hasball="NEV" down="4" togo="1" spot="ND19" context="V,4,1,H19" playid="8,8,69" type="R" text="Taua, Vai rush for loss of 1 yard to the ND20 (SMITH, Toryan)." newcontext="H,1,10,H20">
+    <p_ru vh="V" name="Taua, Vai" gain="-1"></p_ru>
+    <p_tk vh="H" name="SMITH, Toryan" tfl="Y"></p_tk>
+   </play>
+   <drivesum plays="7" yards="37" top="2:53" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H20,08:26" vh="H" spot="H20" clock="08:26" driveindex="9,69"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND20" context="H,1,10,H20" playid="9,1,70" clock="05:33" text="NOTRE DAME drive start at 05:33." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND20" context="H,1,10,H20" playid="9,2,71" type="R" text="ALLEN rush for 6 yards to the ND26 (Johnson, J.M.)." newcontext="H,2,4,H26">
+    <p_ru vh="H" name="ALLEN" gain="6"></p_ru>
+    <p_tk vh="V" name="Johnson, J.M."></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="4" spot="ND26" context="H,2,4,H26" playid="9,3,72" type="R" first="R" text="ALLEN rush for 5 yards to the ND31, 1ST DOWN ND (Amaya, Jonathon)." newcontext="H,1,10,H31">
+    <p_ru vh="H" name="ALLEN" gain="5"></p_ru>
+    <p_tk vh="V" name="Amaya, Jonathon"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND31" context="H,1,10,H31" playid="9,4,73" type="P" text="CLAUSEN pass incomplete to RUDOLPH." newcontext="H,2,10,H31">
+    <p_pa vh="H" qb="CLAUSEN" result="INC" rcv="RUDOLPH"></p_pa>
+   </play>
+   <play hasball="ND" down="2" togo="10" spot="ND31" context="H,2,10,H31" playid="9,5,74" type="P" first="P" text="CLAUSEN pass complete to ALLEN for 26 yards to the NEV43, 1ST DOWN ND (Harvey, Mo)." newcontext="H,1,10,V43">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="ALLEN" gain="26"></p_pa>
+    <p_tk vh="V" name="Harvey, Mo"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="NEV43" context="H,1,10,V43" playid="9,6,75" type="R" text="GRAY, J. rush for 6 yards to the NEV37 (Harvey, Mo)." newcontext="H,2,4,V37">
+    <p_ru vh="H" name="GRAY, J." gain="6"></p_ru>
+    <p_tk vh="V" name="Harvey, Mo"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="4" spot="NEV37" context="H,2,4,V37" playid="9,7,76" type="E" first="E" text="PENALTY NEV face mask (Moch, Dontay) 15 yards to the NEV22, 1ST DOWN ND." newcontext="H,1,10,V22">
+    <p_pn vh="V" code="FM" type="face mask" name="Moch, Dontay" result="ACCEPT" at="V37" yards="15"></p_pn>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="NEV22" context="H,1,10,V22" playid="9,8,77" type="R" text="GRAY, J. rush for 2 yards to the NEV20 (Marshall, B.;Amaya, Jonathon)." newcontext="H,2,8,V20">
+    <p_ru vh="H" name="GRAY, J." gain="2"></p_ru>
+    <p_tk vh="V" name="Marshall, B." assist="Y"></p_tk>
+    <p_tk vh="V" name="Amaya, Jonathon" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="8" spot="NEV20" context="H,2,8,V20" playid="9,9,78" type="R" first="R" text="GRAY, J. rush for 19 yards to the NEV1, 1ST DOWN ND (Harvey, Mo)." newcontext="H,1,0,V01">
+    <p_ru vh="H" name="GRAY, J." gain="19"></p_ru>
+    <p_tk vh="V" name="Harvey, Mo"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="NEV01" context="H,1,0,V01" playid="9,10,79" type="#" clock="01:59" text="Timeout Notre Dame, clock 01:59." newcontext="H,1,0,V01">
+    <p_to vh="H" team="Notre Dame"></p_to>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="NEV01" context="H,1,0,V01" playid="9,11,80" type="R" score="Y" clock="01:48" text="ALLEN rush for 1 yard to the NEV0, TOUCHDOWN, clock 01:48." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="ALLEN" gain="1"></p_ru>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="NEV03" context="H,1,0,V03" playid="9,12,81" type="X" score="Y" text="TAUSCH kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="TAUSCH" qb="TAUSCH" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="28"></score>
+   <drivesum plays="8" yards="80" top="3:45" driveindex="9" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND30" context="H,1,0,H30" playid="9,13,82" type="K" text="TAUSCH kickoff 69 yards to the NEV1, Ball, Mike return 22 yards to the NEV23 (McDONALD;SMITH, S.)." newcontext="V,1,10,V23">
+    <p_ko vh="H" name="TAUSCH" gain="69"></p_ko>
+    <p_kr vh="V" name="Ball, Mike" gain="22"></p_kr>
+    <p_tk vh="H" name="McDONALD" assist="Y"></p_tk>
+    <p_tk vh="H" name="SMITH, S." assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V23,01:48" vh="V" spot="V23" clock="01:48" driveindex="10,82"></drivestart>
+   <play hasball="NEV" down="1" togo="10" spot="NEV23" context="V,1,10,V23" playid="10,1,83" clock="01:48" text="NEVADA drive start at 01:48." newcontext="V,1,10,V23">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV23" context="V,1,10,V23" playid="10,2,84" type="P" text="Kaepernick, C. pass complete to Taua, Vai for 8 yards to the NEV31, out-of-bounds (McCARTHY, K.)." ob="Y" newcontext="V,2,2,V31">
+    <p_pa vh="V" qb="Kaepernick, C." result="COMP" rcv="Taua, Vai" gain="8"></p_pa>
+    <p_tk vh="H" name="McCARTHY, K."></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="2" spot="NEV31" context="V,2,2,V31" playid="10,3,85" type="P" text="Kaepernick, C. pass incomplete to Taua, Vai." newcontext="V,3,2,V31">
+    <p_pa vh="V" qb="Kaepernick, C." result="INC" rcv="Taua, Vai"></p_pa>
+   </play>
+   <play hasball="NEV" down="3" togo="2" spot="NEV31" context="V,3,2,V31" playid="10,4,86" type="P" first="P" text="Kaepernick, C. pass complete to Wimberly, B. for 19 yards to the 50 yardline, 1ST DOWN NEV (McCARTHY, K.)." newcontext="V,1,10,V50">
+    <p_pa vh="V" qb="Kaepernick, C." result="COMP" rcv="Wimberly, B." gain="19"></p_pa>
+    <p_tk vh="H" name="McCARTHY, K."></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV50" context="V,1,10,V50" playid="10,5,87" type="P" text="Kaepernick, C. sacked for loss of 10 yards to the NEV40 (SMITH, Toryan)." newcontext="V,2,20,V40">
+    <p_pa vh="V" qb="Kaepernick, C." result="SACK" gain="-10"></p_pa>
+    <p_tk vh="H" name="SMITH, Toryan" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="20" spot="NEV40" context="V,2,20,V40" playid="10,6,88" type="P" first="P" text="Kaepernick, C. pass complete to Wellington, C. for 23 yards to the ND37, 1ST DOWN NEV (GRAY, G.)." newcontext="V,1,10,H37">
+    <p_pa vh="V" qb="Kaepernick, C." result="COMP" rcv="Wellington, C." gain="23"></p_pa>
+    <p_tk vh="H" name="GRAY, G."></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="ND37" context="V,1,10,H37" playid="10,7,89" type="E" text="PENALTY NEV pass interference (Green, Virgil) 15 yards to the NEV48." newcontext="V,1,25,V48">
+    <p_pn vh="V" code="PI" type="pass interference" name="Green, Virgil" result="ACCEPT" at="H37" yards="15"></p_pn>
+   </play>
+   <play hasball="NEV" down="1" togo="25" spot="NEV48" context="V,1,25,V48" playid="10,8,90" type="R" text="Kaepernick, C. rush for 17 yards to the ND35, out-of-bounds (McCARTHY, K.)." ob="Y" newcontext="V,2,8,H35">
+    <p_ru vh="V" name="Kaepernick, C." gain="17"></p_ru>
+    <p_tk vh="H" name="McCARTHY, K."></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="8" spot="ND35" context="V,2,8,H35" playid="10,9,91" type="P" text="Kaepernick, C. pass incomplete to Wellington, C. (HERRING)." newcontext="V,3,8,H35">
+    <p_pa vh="V" qb="Kaepernick, C." result="INC" rcv="Wellington, C."></p_pa>
+    <p_bu vh="H" name="HERRING"></p_bu>
+   </play>
+   <play hasball="NEV" down="3" togo="8" spot="ND35" context="V,3,8,H35" playid="10,10,92" type="P" turnover="I" text="Kaepernick, C. pass intercepted by BLANTON at the ND0, BLANTON return 0 yards to the ND0, touchback." newcontext="H,1,10,H20">
+    <p_pa vh="V" qb="Kaepernick, C." result="INT"></p_pa>
+    <p_ir vh="H" name="BLANTON" at="H00" gain="0"></p_ir>
+   </play>
+   <drivesum plays="8" yards="42" top="1:48" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H20,01:48" vh="H" spot="H20" clock="01:48" driveindex="11,92"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND20" context="H,1,10,H20" playid="11,1,93" clock="00:00" text="NOTRE DAME drive start at 00:00." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND20" context="H,1,10,H20" playid="11,2,94" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,1,10,H20">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="11" complete="Y"></drivesum>
+   <score qtr="2" V="0" H="28"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NEV">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="3" yds="35"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:10"></misc>
+    <rush att="11" yds="54" gain="76" loss="22" td="0" long="0"></rush>
+    <pass comp="4" att="10" int="1" yds="56" td="0" long="4" sacks="2" sackyds="21"></pass>
+    <rcv no="4" yds="56" td="0" long="4"></rcv>
+    <punt no="2" yds="96" long="54" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="48.0"></punt>
+    <defense tackua="7" tacka="8" tot_tack="15" tflua="2" tfla="0" tflyds="8" sacks="0" sackyds="0"></defense>
+    <kr no="2" yds="38" td="0" long="3"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ND">
+    <firstdowns no="6" rush="2" pass="3" penalty="1"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:50"></misc>
+    <rush att="9" yds="47" gain="51" loss="4" td="1" long="9"></rush>
+    <pass comp="4" att="5" int="0" yds="122" td="2" long="34" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="122" td="2" long="34"></rcv>
+    <punt no="1" yds="37" long="37" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="37.0"></punt>
+    <ko no="3" yds="174" ob="0" tb="0"></ko>
+    <pat kickatt="3" kickmade="3"></pat>
+    <defense tackua="13" tacka="6" tot_tack="19" tflua="3" tfla="0" tflyds="22" sacks="2" sackyds="21" brup="2" int="1" intyds="0"></defense>
+    <pr no="1" yds="-2" td="0" long="0"></pr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="3" patkick="3"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="ND" down="1" togo="10" spot="ND20" context="H,1,10,H20" playid="11,3,95" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, ND ball on ND30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND30" context="H,1,10,H30" playid="11,4,96" type="K" text="TAUSCH kickoff 56 yards to the NEV14, Wellington, C. return 6 yards to the NEV20 (ANELLO;FILER)." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="TAUSCH" gain="56"></p_ko>
+    <p_kr vh="V" name="Wellington, C." gain="6"></p_kr>
+    <p_tk vh="H" name="ANELLO" assist="Y"></p_tk>
+    <p_tk vh="H" name="FILER" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V20,15:00" vh="V" spot="V20" clock="15:00" driveindex="12,96"></drivestart>
+   <play hasball="NEV" down="1" togo="10" spot="NEV20" context="V,1,10,V20" playid="12,1,97" clock="15:00" text="NEVADA drive start at 15:00." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV20" context="V,1,10,V20" playid="12,2,98" type="R" text="Taua, Vai rush for 9 yards to the NEV29 (SMITH, H.)." newcontext="V,2,1,V29">
+    <p_ru vh="V" name="Taua, Vai" gain="9"></p_ru>
+    <p_tk vh="H" name="SMITH, H."></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="1" spot="NEV29" context="V,2,1,V29" playid="12,3,99" type="R" first="R" text="Taua, Vai rush for 18 yards to the NEV47, 1ST DOWN NEV (SMITH, H.)." newcontext="V,1,10,V47">
+    <p_ru vh="V" name="Taua, Vai" gain="18"></p_ru>
+    <p_tk vh="H" name="SMITH, H."></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV47" context="V,1,10,V47" playid="12,4,100" type="R" text="Taua, Vai rush for no gain to the NEV47 (SMITH, B.;FLEMING)." newcontext="V,2,10,V47">
+    <p_ru vh="V" name="Taua, Vai" gain="0"></p_ru>
+    <p_tk vh="H" name="SMITH, B." assist="Y"></p_tk>
+    <p_tk vh="H" name="FLEMING" assist="Y"></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="10" spot="NEV47" context="V,2,10,V47" playid="12,5,101" type="P" text="Kaepernick, C. pass complete to Session, Tray for 6 yards to the ND47." newcontext="V,3,4,H47">
+    <p_pa vh="V" qb="Kaepernick, C." result="COMP" rcv="Session, Tray" gain="6"></p_pa>
+   </play>
+   <play hasball="NEV" down="3" togo="4" spot="ND47" context="V,3,4,H47" playid="12,6,102" type="P" text="Kaepernick, C. pass incomplete to Green, Virgil." newcontext="V,4,4,H47">
+    <p_pa vh="V" qb="Kaepernick, C." result="INC" rcv="Green, Virgil"></p_pa>
+   </play>
+   <play hasball="NEV" down="4" togo="4" spot="ND47" context="V,4,4,H47" playid="12,7,103" type="U" text="Langley, Brad punt 46 yards to the ND1, downed." newcontext="H,1,10,H01">
+    <p_pu vh="V" name="Langley, Brad" gain="46" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="33" top="2:50" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H01,15:00" vh="H" spot="H01" clock="15:00" driveindex="13,103"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND01" context="H,1,10,H01" playid="13,1,104" clock="12:10" text="NOTRE DAME drive start at 12:10." newcontext="H,1,10,H01">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND01" context="H,1,10,H01" playid="13,2,105" type="R" text="ALLEN rush for 4 yards to the ND5 (Agaiava, Nate;Thompson, A.)." newcontext="H,2,6,H05">
+    <p_ru vh="H" name="ALLEN" gain="4"></p_ru>
+    <p_tk vh="V" name="Agaiava, Nate" assist="Y"></p_tk>
+    <p_tk vh="V" name="Thompson, A." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="6" spot="ND05" context="H,2,6,H05" playid="13,3,106" type="R" text="ALLEN rush for 5 yards to the ND10 (Amaya, Jonathon)." newcontext="H,3,1,H10">
+    <p_ru vh="H" name="ALLEN" gain="5"></p_ru>
+    <p_tk vh="V" name="Amaya, Jonathon"></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="1" spot="ND10" context="H,3,1,H10" playid="13,4,107" type="R" first="R" text="ALLEN rush for 2 yards to the ND12, 1ST DOWN ND (Moch, Dontay;Harvey, Mo)." newcontext="H,1,10,H12">
+    <p_ru vh="H" name="ALLEN" gain="2"></p_ru>
+    <p_tk vh="V" name="Moch, Dontay" assist="Y"></p_tk>
+    <p_tk vh="V" name="Harvey, Mo" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND12" context="H,1,10,H12" playid="13,5,108" type="P" first="P" score="Y" clock="10:12" text="CLAUSEN pass complete to FLOYD for 88 yards to the NEV0, 1ST DOWN ND, TOUCHDOWN, clock 10:12." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="FLOYD" gain="88"></p_pa>
+   </play>
+   <play hasball="ND" down="1" togo="0" spot="NEV03" context="H,1,0,V03" playid="13,6,109" type="X" score="Y" text="TAUSCH kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="TAUSCH" qb="TAUSCH" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="35"></score>
+   <drivesum plays="4" yards="99" top="1:58" driveindex="13" complete="Y"></drivesum>
+   <play hasball="ND" down="1" togo="0" spot="ND30" context="H,1,0,H30" playid="13,7,110" type="K" text="TAUSCH kickoff 59 yards to the NEV11, Ball, Mike return 25 yards to the NEV36 (McDONALD)." newcontext="V,1,10,V36">
+    <p_ko vh="H" name="TAUSCH" gain="59"></p_ko>
+    <p_kr vh="V" name="Ball, Mike" gain="25"></p_kr>
+    <p_tk vh="H" name="McDONALD"></p_tk>
+   </play>
+   <drivestart poss="V,V36,10:12" vh="V" spot="V36" clock="10:12" driveindex="14,110"></drivestart>
+   <play hasball="NEV" down="1" togo="10" spot="NEV36" context="V,1,10,V36" playid="14,1,111" clock="10:12" text="NEVADA drive start at 10:12." newcontext="V,1,10,V36">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV36" context="V,1,10,V36" playid="14,2,112" type="P" first="P" text="Kaepernick, C. pass complete to Wimberly, B. for 17 yards to the ND47, 1ST DOWN NEV (SLAUGHTER)." newcontext="V,1,10,H47">
+    <p_pa vh="V" qb="Kaepernick, C." result="COMP" rcv="Wimberly, B." gain="17"></p_pa>
+    <p_tk vh="H" name="SLAUGHTER"></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="ND47" context="V,1,10,H47" playid="14,3,113" type="R" text="Taua, Vai rush for 1 yard to the ND46 (SMITH, Toryan)." newcontext="V,2,9,H46">
+    <p_ru vh="V" name="Taua, Vai" gain="1"></p_ru>
+    <p_tk vh="H" name="SMITH, Toryan"></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="9" spot="ND46" context="V,2,9,H46" playid="14,4,114" type="P" text="Kaepernick, C. pass complete to Green, Virgil for 2 yards to the ND44 (McCARTHY, K.;BROWN)." newcontext="V,3,7,H44">
+    <p_pa vh="V" qb="Kaepernick, C." result="COMP" rcv="Green, Virgil" gain="2"></p_pa>
+    <p_tk vh="H" name="McCARTHY, K." assist="Y"></p_tk>
+    <p_tk vh="H" name="BROWN" assist="Y"></p_tk>
+   </play>
+   <play hasball="NEV" down="3" togo="7" spot="ND44" context="V,3,7,H44" playid="14,5,115" type="P" turnover="I" text="Kaepernick, C. pass intercepted by McCARTHY, K. at the ND31, McCARTHY, K. return 23 yards to the NEV46 (Barker, Chris;Taua, Vai)." newcontext="H,1,10,V46">
+    <p_pa vh="V" qb="Kaepernick, C." result="INT"></p_pa>
+    <p_ir vh="H" name="McCARTHY, K." at="H31" gain="23"></p_ir>
+    <p_tk vh="V" name="Barker, Chris" assist="Y"></p_tk>
+    <p_tk vh="V" name="Taua, Vai" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="4" yards="20" top="2:10" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,V46,10:12" vh="H" spot="V46" clock="10:12" driveindex="15,115"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="NEV46" context="H,1,10,V46" playid="15,1,116" clock="08:02" text="NOTRE DAME drive start at 08:02." newcontext="H,1,10,V46">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="NEV46" context="H,1,10,V46" playid="15,2,117" type="R" text="GRAY, J. rush for no gain to the NEV46 (Moch, Dontay;Bethea, Mike)." newcontext="H,2,10,V46">
+    <p_ru vh="H" name="GRAY, J." gain="0"></p_ru>
+    <p_tk vh="V" name="Moch, Dontay" assist="Y"></p_tk>
+    <p_tk vh="V" name="Bethea, Mike" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="10" spot="NEV46" context="H,2,10,V46" playid="15,3,118" type="R" text="ALDRIDGE rush for 2 yards to the NEV44 (Johnson, J.M.)." newcontext="H,3,8,V44">
+    <p_ru vh="H" name="ALDRIDGE" gain="2"></p_ru>
+    <p_tk vh="V" name="Johnson, J.M."></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="8" spot="NEV44" context="H,3,8,V44" playid="15,4,119" type="P" text="CLAUSEN pass complete to GRAY, J. for 5 yards to the NEV39 (Liranzo, Adam)." newcontext="H,4,3,V39">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="GRAY, J." gain="5"></p_pa>
+    <p_tk vh="V" name="Liranzo, Adam"></p_tk>
+   </play>
+   <play hasball="ND" down="4" togo="3" spot="NEV39" context="H,4,3,V39" playid="15,5,120" type="P" text="CLAUSEN pass incomplete to TATE, QB hurry by Johnson, J.M.." newcontext="V,1,10,V39">
+    <p_pa vh="H" qb="CLAUSEN" result="INC" rcv="TATE"></p_pa>
+    <p_qbh vh="V" name="Johnson, J.M."></p_qbh>
+   </play>
+   <drivesum plays="4" yards="7" top="2:12" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="V,V39,08:02" vh="V" spot="V39" clock="08:02" driveindex="16,120"></drivestart>
+   <play hasball="NEV" down="1" togo="10" spot="NEV39" context="V,1,10,V39" playid="16,1,121" clock="05:50" text="NEVADA drive start at 05:50." newcontext="V,1,10,V39">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV39" context="V,1,10,V39" playid="16,2,122" type="R" text="Taua, Vai rush for 9 yards to the NEV48 (SMITH, H.)." newcontext="V,2,1,V48">
+    <p_ru vh="V" name="Taua, Vai" gain="9"></p_ru>
+    <p_tk vh="H" name="SMITH, H."></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="1" spot="NEV48" context="V,2,1,V48" playid="16,3,123" type="R" first="R" text="Taua, Vai rush for 4 yards to the ND48, 1ST DOWN NEV (CWYNAR;RYAN)." newcontext="V,1,10,H48">
+    <p_ru vh="V" name="Taua, Vai" gain="4"></p_ru>
+    <p_tk vh="H" name="CWYNAR" assist="Y"></p_tk>
+    <p_tk vh="H" name="RYAN" assist="Y"></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="ND48" context="V,1,10,H48" playid="16,4,124" type="P" text="Kaepernick, C. pass complete to Session, Tray for 8 yards to the ND40 (GRAY, G.)." newcontext="V,2,2,H40">
+    <p_pa vh="V" qb="Kaepernick, C." result="COMP" rcv="Session, Tray" gain="8"></p_pa>
+    <p_tk vh="H" name="GRAY, G."></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="2" spot="ND40" context="V,2,2,H40" playid="16,5,125" type="R" first="R" text="Taua, Vai rush for 10 yards to the ND30, 1ST DOWN NEV (GRAY, G.;SMITH, H.)." newcontext="V,1,10,H30">
+    <p_ru vh="V" name="Taua, Vai" gain="10"></p_ru>
+    <p_tk vh="H" name="GRAY, G." assist="Y"></p_tk>
+    <p_tk vh="H" name="SMITH, H." assist="Y"></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="ND30" context="V,1,10,H30" playid="16,6,126" type="P" first="P" text="Kaepernick, C. pass complete to Taua, Vai for 24 yards to the ND6, 1ST DOWN NEV (McCARTHY, K.)." newcontext="V,1,0,H06">
+    <p_pa vh="V" qb="Kaepernick, C." result="COMP" rcv="Taua, Vai" gain="24"></p_pa>
+    <p_tk vh="H" name="McCARTHY, K."></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="0" spot="ND06" context="V,1,0,H06" playid="16,7,127" type="R" text="Taua, Vai rush for 1 yard to the ND5 (RYAN)." newcontext="V,2,0,H05">
+    <p_ru vh="V" name="Taua, Vai" gain="1"></p_ru>
+    <p_tk vh="H" name="RYAN"></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="0" spot="ND05" context="V,2,0,H05" playid="16,8,128" type="#" clock="02:12" text="Timeout Nevada, clock 02:12." newcontext="V,2,0,H05">
+    <p_to vh="V" team="Nevada"></p_to>
+   </play>
+   <play hasball="NEV" down="2" togo="0" spot="ND05" context="V,2,0,H05" playid="16,9,129" type="R" turnover="F" text="Taua, Vai rush for loss of 2 yards to the ND7, fumble by Taua, Vai recovered by ND LEWIS-MOORE at ND7." newcontext="H,1,10,H07">
+    <p_ru vh="V" name="Taua, Vai" gain="-2"></p_ru>
+    <p_fumb vh="V" name="Taua, Vai" at="H07" frvh="H" frname="LEWIS-MOORE"></p_fumb>
+   </play>
+   <drivesum plays="7" yards="54" top="3:44" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,H07,02:12" vh="H" spot="H07" clock="02:12" driveindex="17,129"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND07" context="H,1,10,H07" playid="17,1,130" clock="02:06" text="NOTRE DAME drive start at 02:06." newcontext="H,1,10,H07">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND07" context="H,1,10,H07" playid="17,2,131" type="R" first="R" text="ALLEN rush for 14 yards to the ND21, 1ST DOWN ND (Amaya, Jonathon)." newcontext="H,1,10,H21">
+    <p_ru vh="H" name="ALLEN" gain="14"></p_ru>
+    <p_tk vh="V" name="Amaya, Jonathon"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND21" context="H,1,10,H21" playid="17,3,132" type="E" text="PENALTY ND holding (WENGER) 10 yards to the ND11." newcontext="H,1,20,H11">
+    <p_pn vh="H" code="HO" type="holding" name="WENGER" result="ACCEPT" at="H21" yards="10"></p_pn>
+   </play>
+   <play hasball="ND" down="1" togo="20" spot="ND11" context="H,1,20,H11" playid="17,4,133" type="P" text="CLAUSEN pass complete to RUDOLPH for loss of 3 yards to the ND8 (Johnson, J.M.;Agaiava, Nate)." newcontext="H,2,23,H08">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="RUDOLPH" gain="-3"></p_pa>
+    <p_tk vh="V" name="Johnson, J.M." tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Agaiava, Nate" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="23" spot="ND08" context="H,2,23,H08" playid="17,5,134" type="R" text="GRAY, J. rush for 15 yards to the ND23 (Harvey, Mo;Amaya, Jonathon)." newcontext="H,3,8,H23">
+    <p_ru vh="H" name="GRAY, J." gain="15"></p_ru>
+    <p_tk vh="V" name="Harvey, Mo" assist="Y"></p_tk>
+    <p_tk vh="V" name="Amaya, Jonathon" assist="Y"></p_tk>
+   </play>
+   <score qtr="3" V="0" H="35"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NEV">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="08:44"></misc>
+    <rush att="9" yds="50" gain="52" loss="2" td="0" long="1"></rush>
+    <pass comp="5" att="7" int="1" yds="57" td="0" long="1" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="57" td="0" long="1"></rcv>
+    <punt no="1" yds="46" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="46.0"></punt>
+    <defense tackua="4" tacka="12" tot_tack="16" tflua="2" tfla="0" tflyds="6" sacks="0" sackyds="0" qbh="1"></defense>
+    <kr no="2" yds="31" td="0" long="3"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ND">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:16"></misc>
+    <rush att="7" yds="42" gain="42" loss="0" td="0" long="0"></rush>
+    <pass comp="3" att="4" int="0" yds="90" td="1" long="18" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="90" td="1" long="18"></rcv>
+    <ko no="2" yds="115" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="10" tot_tack="19" sacks="2" sackyds="21" fr="1" fryds="0" int="1" intyds="23"></defense>
+    <ir no="1" yds="23" td="0" long="23"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="ND" down="3" togo="8" spot="ND23" context="H,3,8,H23" playid="17,6,135" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,3,8,H23">
+   </play>
+   <play hasball="ND" down="3" togo="8" spot="ND23" context="H,3,8,H23" playid="17,7,136" type="P" first="P" text="CLAUSEN pass complete to TATE for 15 yards to the ND38, 1ST DOWN ND (Madonick, Zack)." newcontext="H,1,10,H38">
+    <p_pa vh="H" qb="CLAUSEN" result="COMP" rcv="TATE" gain="15"></p_pa>
+    <p_tk vh="V" name="Madonick, Zack"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND38" context="H,1,10,H38" playid="17,8,137" type="R" text="GRAY, J. rush for 4 yards to the ND42 (Amaya, Jonathon)." newcontext="H,2,6,H42">
+    <p_ru vh="H" name="GRAY, J." gain="4"></p_ru>
+    <p_tk vh="V" name="Amaya, Jonathon"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="6" spot="ND42" context="H,2,6,H42" playid="17,9,138" type="R" text="GRAY, J. rush for 4 yards to the ND46 (Marshall, B.;Bethea, Mike)." newcontext="H,3,2,H46">
+    <p_ru vh="H" name="GRAY, J." gain="4"></p_ru>
+    <p_tk vh="V" name="Marshall, B." assist="Y"></p_tk>
+    <p_tk vh="V" name="Bethea, Mike" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="2" spot="ND46" context="H,3,2,H46" playid="17,10,139" type="R" text="GRAY, J. rush for 1 yard to the ND47 (Bethea, Mike)." newcontext="H,4,1,H47">
+    <p_ru vh="H" name="GRAY, J." gain="1"></p_ru>
+    <p_tk vh="V" name="Bethea, Mike"></p_tk>
+   </play>
+   <play hasball="ND" down="4" togo="1" spot="ND47" context="H,4,1,H47" playid="17,11,140" type="U" text="MAUST punt 42 yards to the NEV11, downed." newcontext="V,1,10,V11">
+    <p_pu vh="H" name="MAUST" gain="42" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="40" top="4:53" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V11,15:00" vh="V" spot="V11" clock="15:00" driveindex="18,140"></drivestart>
+   <play hasball="NEV" down="1" togo="10" spot="NEV11" context="V,1,10,V11" playid="18,1,141" clock="12:13" text="NEVADA drive start at 12:13." newcontext="V,1,10,V11">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV11" context="V,1,10,V11" playid="18,2,142" type="P" first="P" text="Kaepernick, C. pass complete to Session, Tray for 13 yards to the NEV24, 1ST DOWN NEV (SLAUGHTER)." newcontext="V,1,10,V24">
+    <p_pa vh="V" qb="Kaepernick, C." result="COMP" rcv="Session, Tray" gain="13"></p_pa>
+    <p_tk vh="H" name="SLAUGHTER"></p_tk>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV24" context="V,1,10,V24" playid="18,3,143" type="P" text="Kaepernick, C. pass incomplete to Wellington, C.." newcontext="V,2,10,V24">
+    <p_pa vh="V" qb="Kaepernick, C." result="INC" rcv="Wellington, C."></p_pa>
+   </play>
+   <play hasball="NEV" down="2" togo="10" spot="NEV24" context="V,2,10,V24" playid="18,4,144" type="P" text="Kaepernick, C. pass incomplete to Wellington, C.." newcontext="V,3,10,V24">
+    <p_pa vh="V" qb="Kaepernick, C." result="INC" rcv="Wellington, C."></p_pa>
+   </play>
+   <play hasball="NEV" down="3" togo="10" spot="NEV24" context="V,3,10,V24" playid="18,5,145" type="R" first="R" text="Kaepernick, C. rush for 13 yards to the NEV37, 1ST DOWN NEV, out-of-bounds." ob="Y" newcontext="V,1,10,V37">
+    <p_ru vh="V" name="Kaepernick, C." gain="13"></p_ru>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV37" context="V,1,10,V37" playid="18,6,146" type="R" text="Taua, Vai rush for 4 yards to the NEV41 (TE'O)." newcontext="V,2,6,V41">
+    <p_ru vh="V" name="Taua, Vai" gain="4"></p_ru>
+    <p_tk vh="H" name="TE'O"></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="6" spot="NEV41" context="V,2,6,V41" playid="18,7,147" type="R" text="Kaepernick, C. rush for 3 yards to the NEV44 (SMITH, S.)." newcontext="V,3,3,V44">
+    <p_ru vh="V" name="Kaepernick, C." gain="3"></p_ru>
+    <p_tk vh="H" name="SMITH, S."></p_tk>
+   </play>
+   <play hasball="NEV" down="3" togo="3" spot="NEV44" context="V,3,3,V44" playid="18,8,148" type="P" text="Kaepernick, C. pass incomplete to Wimberly, B.." newcontext="V,4,3,V44">
+    <p_pa vh="V" qb="Kaepernick, C." result="INC" rcv="Wimberly, B."></p_pa>
+   </play>
+   <play hasball="NEV" down="4" togo="3" spot="NEV44" context="V,4,3,V44" playid="18,9,149" type="U" text="Langley, Brad punt 43 yards to the ND13, fair catch by TATE." newcontext="H,1,10,H13">
+    <p_pu vh="V" name="Langley, Brad" gain="43" in20="Y" fc="TATE"></p_pu>
+   </play>
+   <drivesum plays="7" yards="33" top="2:46" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,H13,12:13" vh="H" spot="H13" clock="12:13" driveindex="19,149"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="ND13" context="H,1,10,H13" playid="19,1,150" clock="09:27" text="NOTRE DAME drive start at 09:27." newcontext="H,1,10,H13">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND13" context="H,1,10,H13" playid="19,2,151" type="P" first="P" text="CRIST pass complete to WALKER, D. for 15 yards to the ND28, 1ST DOWN ND (Frey, Isaiah)." newcontext="H,1,10,H28">
+    <p_pa vh="H" qb="CRIST" result="COMP" rcv="WALKER, D." gain="15"></p_pa>
+    <p_tk vh="V" name="Frey, Isaiah"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND28" context="H,1,10,H28" playid="19,3,152" type="R" text="RIDDICK rush for 9 yards to the ND37 (Harvey, Mo)." newcontext="H,2,1,H37">
+    <p_ru vh="H" name="RIDDICK" gain="9"></p_ru>
+    <p_tk vh="V" name="Harvey, Mo"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="1" spot="ND37" context="H,2,1,H37" playid="19,4,153" type="R" first="R" text="RIDDICK rush for 2 yards to the ND39, 1ST DOWN ND (Marshall, B.)." newcontext="H,1,10,H39">
+    <p_ru vh="H" name="RIDDICK" gain="2"></p_ru>
+    <p_tk vh="V" name="Marshall, B."></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="ND39" context="H,1,10,H39" playid="19,5,154" type="R" text="RIDDICK rush for 8 yards to the ND47 (Marshall, B.;Agaiava, Nate)." newcontext="H,2,2,H47">
+    <p_ru vh="H" name="RIDDICK" gain="8"></p_ru>
+    <p_tk vh="V" name="Marshall, B." assist="Y"></p_tk>
+    <p_tk vh="V" name="Agaiava, Nate" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="2" spot="ND47" context="H,2,2,H47" playid="19,6,155" type="R" text="RIDDICK rush for 1 yard to the ND48 (Agaiava, Nate;Roy, Brett)." newcontext="H,3,1,H48">
+    <p_ru vh="H" name="RIDDICK" gain="1"></p_ru>
+    <p_tk vh="V" name="Agaiava, Nate" assist="Y"></p_tk>
+    <p_tk vh="V" name="Roy, Brett" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="1" spot="ND48" context="H,3,1,H48" playid="19,7,156" type="R" text="RIDDICK rush for loss of 1 yard to the ND47 (Johnson, J.M.)." newcontext="H,4,2,H47">
+    <p_ru vh="H" name="RIDDICK" gain="-1"></p_ru>
+    <p_tk vh="V" name="Johnson, J.M." tfl="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="4" togo="2" spot="ND47" context="H,4,2,H47" playid="19,8,157" type="U" text="MAUST punt 43 yards to the NEV10, out-of-bounds." ob="Y" newcontext="V,1,10,V10">
+    <p_pu vh="H" name="MAUST" gain="43" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="34" top="3:44" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V10,09:27" vh="V" spot="V10" clock="09:27" driveindex="20,157"></drivestart>
+   <play hasball="NEV" down="1" togo="10" spot="NEV10" context="V,1,10,V10" playid="20,1,158" clock="05:43" text="NEVADA drive start at 05:43." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV10" context="V,1,10,V10" playid="20,2,159" type="R" text="Ball, Mike rush for no gain to the NEV10 (FILER)." newcontext="V,2,10,V10">
+    <p_ru vh="V" name="Ball, Mike" gain="0"></p_ru>
+    <p_tk vh="H" name="FILER"></p_tk>
+   </play>
+   <play hasball="NEV" down="2" togo="10" spot="NEV10" context="V,2,10,V10" playid="20,3,160" type="P" first="E" text="Lantrip, Tyler pass complete to Session, Tray for 5 yards to the NEV15 (HERRING), PENALTY ND face mask (HERRING) 15 yards to the NEV30, 1ST DOWN NEV." newcontext="V,1,10,V30">
+    <p_pa vh="V" qb="Lantrip, Tyler" result="COMP" rcv="Session, Tray" gain="5"></p_pa>
+    <p_tk vh="H" name="HERRING"></p_tk>
+    <p_pn vh="H" code="FM" type="face mask" name="HERRING" result="ACCEPT" at="V15" yards="15"></p_pn>
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV30" context="V,1,10,V30" playid="20,4,161" text="1st and 10." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="NEV" down="1" togo="10" spot="NEV30" context="V,1,10,V30" playid="20,5,162" type="P" text="Lantrip, Tyler pass incomplete to Patterson, Moe." newcontext="V,2,10,V30">
+    <p_pa vh="V" qb="Lantrip, Tyler" result="INC" rcv="Patterson, Moe"></p_pa>
+   </play>
+   <play hasball="NEV" down="2" togo="10" spot="NEV30" context="V,2,10,V30" playid="20,6,163" type="E" text="PENALTY NEV pass interference (Wellington, C.) 14 yards to the NEV16." newcontext="V,2,24,V16">
+    <p_pn vh="V" code="PI" type="pass interference" name="Wellington, C." result="ACCEPT" at="V30" yards="14"></p_pn>
+   </play>
+   <play hasball="NEV" down="2" togo="24" spot="NEV16" context="V,2,24,V16" playid="20,7,164" type="P" text="Lantrip, Tyler pass incomplete to Wellington, C.." newcontext="V,3,24,V16">
+    <p_pa vh="V" qb="Lantrip, Tyler" result="INC" rcv="Wellington, C."></p_pa>
+   </play>
+   <play hasball="NEV" down="3" togo="24" spot="NEV16" context="V,3,24,V16" playid="20,8,165" type="P" text="Lantrip, Tyler pass incomplete to Green, Virgil." newcontext="V,4,24,V16">
+    <p_pa vh="V" qb="Lantrip, Tyler" result="INC" rcv="Green, Virgil"></p_pa>
+   </play>
+   <play hasball="NEV" down="4" togo="24" spot="NEV16" context="V,4,24,V16" playid="20,9,166" type="U" text="Langley, Brad punt 48 yards to the ND36, GOODMAN return 24 yards to the NEV40 (Roy, Brett)." newcontext="H,1,10,V40">
+    <p_pu vh="V" name="Langley, Brad" gain="48"></p_pu>
+    <p_pr vh="H" name="GOODMAN" gain="24"></p_pr>
+    <p_tk vh="V" name="Roy, Brett"></p_tk>
+   </play>
+   <drivesum plays="5" yards="6" top="2:16" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,V40,05:43" vh="H" spot="V40" clock="05:43" driveindex="21,166"></drivestart>
+   <play hasball="ND" down="1" togo="10" spot="NEV40" context="H,1,10,V40" playid="21,1,167" clock="03:27" text="NOTRE DAME drive start at 03:27." newcontext="H,1,10,V40">
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="NEV40" context="H,1,10,V40" playid="21,2,168" type="R" text="HUGHES rush for 2 yards to the NEV38 (Slack, Chris;Johnson, J.M.)." newcontext="H,2,8,V38">
+    <p_ru vh="H" name="HUGHES" gain="2"></p_ru>
+    <p_tk vh="V" name="Slack, Chris" assist="Y"></p_tk>
+    <p_tk vh="V" name="Johnson, J.M." assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="8" spot="NEV38" context="H,2,8,V38" playid="21,3,169" type="R" text="HUGHES rush for 1 yard to the NEV37 (Moch, Dontay)." newcontext="H,3,7,V37">
+    <p_ru vh="H" name="HUGHES" gain="1"></p_ru>
+    <p_tk vh="V" name="Moch, Dontay"></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="7" spot="NEV37" context="H,3,7,V37" playid="21,4,170" type="R" first="R" text="HUGHES rush for 8 yards to the NEV29, 1ST DOWN ND (Harvey, Mo)." newcontext="H,1,10,V29">
+    <p_ru vh="H" name="HUGHES" gain="8"></p_ru>
+    <p_tk vh="V" name="Harvey, Mo"></p_tk>
+   </play>
+   <play hasball="ND" down="1" togo="10" spot="NEV29" context="H,1,10,V29" playid="21,5,171" type="R" text="HUGHES rush for 3 yards to the NEV26 (Bethea, Mike;Roy, Brett)." newcontext="H,2,7,V26">
+    <p_ru vh="H" name="HUGHES" gain="3"></p_ru>
+    <p_tk vh="V" name="Bethea, Mike" assist="Y"></p_tk>
+    <p_tk vh="V" name="Roy, Brett" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="2" togo="7" spot="NEV26" context="H,2,7,V26" playid="21,6,172" type="R" text="HUGHES rush for 4 yards to the NEV22 (Johnson, J.M.;Harvey, Mo)." newcontext="H,3,3,V22">
+    <p_ru vh="H" name="HUGHES" gain="4"></p_ru>
+    <p_tk vh="V" name="Johnson, J.M." assist="Y"></p_tk>
+    <p_tk vh="V" name="Harvey, Mo" assist="Y"></p_tk>
+   </play>
+   <play hasball="ND" down="3" togo="3" spot="NEV22" context="H,3,3,V22" playid="21,7,173" type="R" text="HUGHES rush for 2 yards to the NEV20 (Johnson, J.M.)." newcontext="H,4,1,V20">
+    <p_ru vh="H" name="HUGHES" gain="2"></p_ru>
+    <p_tk vh="V" name="Johnson, J.M."></p_tk>
+   </play>
+   <play hasball="ND" down="4" togo="1" spot="NEV20" context="H,4,1,V20" playid="21,8,174" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,4,1,V20">
+   </play>
+   <drivesum plays="6" yards="20" top="3:27" driveindex="21" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Notre Dame defeats Nevada by a score of 35 to 0."></play>
+   <score final="Y" V="0" H="35"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NEV">
+    <firstdowns no="3" rush="1" pass="1" penalty="1"></firstdowns>
+    <penalties no="1" yds="14"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:02"></misc>
+    <rush att="4" yds="20" gain="20" loss="0" td="0" long="0"></rush>
+    <pass comp="2" att="8" int="0" yds="18" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="18" td="0" long="0"></rcv>
+    <punt no="2" yds="91" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="45.5"></punt>
+    <defense tackua="11" tacka="12" tot_tack="23" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0"></defense>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ND">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:58"></misc>
+    <rush att="14" yds="48" gain="49" loss="1" td="0" long="0"></rush>
+    <pass comp="2" att="2" int="0" yds="30" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="30" td="0" long="0"></rcv>
+    <punt no="2" yds="85" long="6" blkd="0" tb="0" fc="0" plus50="0" inside20="2" avg="42.5"></punt>
+    <defense tackua="5" tacka="0" tot_tack="5" sacks="2" sackyds="21"></defense>
+    <pr no="1" yds="24" td="0" long="24"></pr>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="ND" down="4" togo="1" spot="NEV20" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="2" htor="3" dtgtext="Game Over" ldtext="Drive started: 03:27, 4th Qtr"></downtogo>
+ </plays>

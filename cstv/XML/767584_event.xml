@@ -1,0 +1,1101 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="ULM" down="1" togo="10" spot="ULM30" context="V,1,10,V30" playid="0,1,0" text="Game weather: 82 degrees, wind E 10 mph, cloudy skies, 58% humidity." newcontext="V,1,10,V30">
+   </play>
+   <comment text="Texas won toss and deferred. UT will kickoff and defend South goal."></comment>
+   <play hasball="ULM" down="1" togo="10" spot="ULM30" context="V,1,10,V30" playid="0,2,2" text="UT ball on UT30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT30" context="H,1,10,H30" playid="0,3,3" type="K" text="Tucker, Justin kickoff 63 yards to the ULM7, Ambrose, Luther return 27 yards to the ULM34 (Brown, Chykie;Brown, Curtis)." newcontext="V,1,10,V34">
+    <p_ko vh="H" name="Tucker, Justin" gain="63"></p_ko>
+    <p_kr vh="V" name="Ambrose, Luther" gain="27"></p_kr>
+    <p_tk vh="H" name="Brown, Chykie" assist="Y"></p_tk>
+    <p_tk vh="H" name="Brown, Curtis" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V34,15:00" vh="V" spot="V34" clock="15:00" driveindex="1,3"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="ULM34" context="V,1,10,V34" playid="1,1,4" type="R" pcode="MI" text="Goodin, Frank rush up middle for 3 yards to the ULM37 (Acho, Sam;Randall, Kheest)." newcontext="V,2,7,V37">
+    <p_ru vh="V" name="Goodin, Frank" gain="3"></p_ru>
+    <p_tk vh="H" name="Acho, Sam" assist="Y"></p_tk>
+    <p_tk vh="H" name="Randall, Kheest" assist="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="7" spot="ULM37" context="V,2,7,V37" playid="1,2,5" type="R" pcode="CP" turnover="F" text="TEAM rush CP for loss of 14 yards to the ULM23, fumble by TEAM recovered by UT Kindle, Sergio at ULM23." newcontext="H,1,10,V23">
+    <p_ru vh="V" name="TEAM" gain="-14"></p_ru>
+    <p_fumb vh="V" name="TEAM" at="V23" frvh="H" frname="Kindle, Sergio"></p_fumb>
+   </play>
+   <drivesum plays="2" yards="-11" top="0:50" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,V23,15:00" vh="H" spot="V23" clock="15:00" driveindex="2,5"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="ULM23" context="H,1,10,V23" playid="2,1,6" clock="14:10" text="TEXAS drive start at 14:10." newcontext="H,1,10,V23">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM23" context="H,1,10,V23" playid="2,2,7" type="P" pcode="LS" first="P" text="McCoy, Colt LS pass complete to Shipley, Jordan for 11 yards to the ULM12, 1ST DOWN UT (James, Greg)." newcontext="H,1,10,V12">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Shipley, Jordan" gain="11"></p_pa>
+    <p_tk vh="V" name="James, Greg"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM12" context="H,1,10,V12" playid="2,3,8" type="P" pcode="RF" text="McCoy, Colt RF pass complete to Buckner, Dan for 3 yards to the ULM9 (Truxillo, James)." newcontext="H,2,7,V09">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Buckner, Dan" gain="3"></p_pa>
+    <p_tk vh="V" name="Truxillo, James"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="7" spot="ULM09" context="H,2,7,V09" playid="2,4,9" type="R" pcode="RL" first="R" text="McGee, Vondrell rush RL for 8 yards to the ULM1, 1ST DOWN UT (Stamps, Otis)." newcontext="H,1,0,V01">
+    <p_ru vh="H" name="McGee, Vondrell" gain="8"></p_ru>
+    <p_tk vh="V" name="Stamps, Otis"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="0" spot="ULM01" context="H,1,0,V01" playid="2,5,10" type="R" pcode="RT" score="Y" clock="12:56" text="Johnson, Cody rush over right tackle for 1 yard to the ULM0, TOUCHDOWN, clock 12:56." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Johnson, Cody" gain="1"></p_ru>
+   </play>
+   <play hasball="UT" down="1" togo="0" spot="ULM03" context="H,1,0,V03" playid="2,6,11" type="X" score="Y" text="Lawrence, Hunte kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Lawrence, Hunte" qb="Lawrence, Hunte" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="4" yards="23" top="1:14" driveindex="2" complete="Y"></drivesum>
+   <play hasball="UT" down="1" togo="0" spot="UT30" context="H,1,0,H30" playid="2,7,12" type="K" text="Tucker, Justin kickoff 65 yards to the ULM5, Ambrose, Luther return 12 yards to the ULM17." newcontext="V,1,10,V17">
+    <p_ko vh="H" name="Tucker, Justin" gain="65"></p_ko>
+    <p_kr vh="V" name="Ambrose, Luther" gain="12"></p_kr>
+   </play>
+   <drivestart poss="V,V17,12:56" vh="V" spot="V17" clock="12:56" driveindex="3,12"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="ULM17" context="V,1,10,V17" playid="3,1,13" clock="12:52" text="ULM drive start at 12:52." newcontext="V,1,10,V17">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM17" context="V,1,10,V17" playid="3,2,14" type="P" pcode="LS" text="Revell, Trey LS pass complete to Jordan, Alvin for 9 yards to the ULM26 (Robinson, Keena)." newcontext="V,2,1,V26">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="Jordan, Alvin" gain="9"></p_pa>
+    <p_tk vh="H" name="Robinson, Keena"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="1" spot="ULM26" context="V,2,1,V26" playid="3,3,15" type="R" pcode="RG" text="Goodin, Frank rush over right guard for loss of 1 yard to the ULM25 (Brown, Chykie)." newcontext="V,3,2,V25">
+    <p_ru vh="V" name="Goodin, Frank" gain="-1"></p_ru>
+    <p_tk vh="H" name="Brown, Chykie" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="3" togo="2" spot="ULM25" context="V,3,2,V25" playid="3,4,16" type="P" pcode="SL" text="Revell, Trey slant pass incomplete to Sapp, LaGregory." newcontext="V,4,2,V25">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="Sapp, LaGregory"></p_pa>
+   </play>
+   <play hasball="ULM" down="4" togo="2" spot="ULM25" context="V,4,2,V25" playid="3,5,17" type="U" text="Love, Scott punt 39 yards to the UT36, fair catch by Thomas, Earl." newcontext="H,1,10,H36">
+    <p_pu vh="V" name="Love, Scott" gain="39" fc="Thomas, Earl"></p_pu>
+   </play>
+   <drivesum plays="3" yards="8" top="1:23" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,H36,12:52" vh="H" spot="H36" clock="12:52" driveindex="4,17"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="UT36" context="H,1,10,H36" playid="4,1,18" clock="11:29" text="TEXAS drive start at 11:29." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT36" context="H,1,10,H36" playid="4,2,19" type="P" text="McCoy, Colt pass complete to Chiles, John for 7 yards to the UT43 (Prelow, Darius)." newcontext="H,2,3,H43">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Chiles, John" gain="7"></p_pa>
+    <p_tk vh="V" name="Prelow, Darius"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="3" spot="UT43" context="H,2,3,H43" playid="4,3,20" type="R" pcode="RG" first="R" text="McGee, Vondrell rush over right guard for 6 yards to the UT49, 1ST DOWN UT (Lovett, Rodney)." newcontext="H,1,10,H49">
+    <p_ru vh="H" name="McGee, Vondrell" gain="6"></p_ru>
+    <p_tk vh="V" name="Lovett, Rodney"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT49" context="H,1,10,H49" playid="4,4,21" type="P" pcode="LS" text="McCoy, Colt LS pass incomplete to Chiles, John." newcontext="H,2,10,H49">
+    <p_pa vh="H" qb="McCoy, Colt" result="INC" rcv="Chiles, John"></p_pa>
+   </play>
+   <play hasball="UT" down="2" togo="10" spot="UT49" context="H,2,10,H49" playid="4,5,22" type="P" pcode="MI" first="P" text="McCoy, Colt middle pass complete to Buckner, Dan for 11 yards to the ULM40, 1ST DOWN UT (Smith, Theo)." newcontext="H,1,10,V40">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Buckner, Dan" gain="11"></p_pa>
+    <p_tk vh="V" name="Smith, Theo"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM40" context="H,1,10,V40" playid="4,6,23" type="R" pcode="MI" text="McGee, Vondrell rush up middle for 7 yards to the ULM33 (Prelow, Darius)." newcontext="H,2,3,V33">
+    <p_ru vh="H" name="McGee, Vondrell" gain="7"></p_ru>
+    <p_tk vh="V" name="Prelow, Darius"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="3" spot="ULM33" context="H,2,3,V33" playid="4,7,24" type="R" pcode="LE" first="R" text="McGee, Vondrell rush over left end for 5 yards to the ULM28, 1ST DOWN UT (Carpenter, C.C.)." newcontext="H,1,10,V28">
+    <p_ru vh="H" name="McGee, Vondrell" gain="5"></p_ru>
+    <p_tk vh="V" name="Carpenter, C.C."></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM28" context="H,1,10,V28" playid="4,8,25" type="P" pcode="PO" first="P" text="McCoy, Colt post pass complete to Shipley, Jordan for 23 yards to the ULM5, 1ST DOWN UT (Prelow, Darius)." newcontext="H,1,0,V05">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Shipley, Jordan" gain="23"></p_pa>
+    <p_tk vh="V" name="Prelow, Darius"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="0" spot="ULM05" context="H,1,0,V05" playid="4,9,26" type="R" pcode="LT" text="Johnson, Cody rush over left tackle for 3 yards to the ULM2 (Edwards, Jason)." newcontext="H,2,0,V02">
+    <p_ru vh="H" name="Johnson, Cody" gain="3"></p_ru>
+    <p_tk vh="V" name="Edwards, Jason"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="0" spot="ULM02" context="H,2,0,V02" playid="4,10,27" type="R" pcode="RG" text="Johnson, Cody rush over right guard for 1 yard to the ULM1 (Morgan, Aaron)." newcontext="H,3,0,V01">
+    <p_ru vh="H" name="Johnson, Cody" gain="1"></p_ru>
+    <p_tk vh="V" name="Morgan, Aaron"></p_tk>
+   </play>
+   <play hasball="UT" down="3" togo="0" spot="ULM01" context="H,3,0,V01" playid="4,11,28" type="R" pcode="RT" score="Y" clock="08:53" text="Johnson, Cody rush over right tackle for 1 yard to the ULM0, TOUCHDOWN, clock 08:53." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Johnson, Cody" gain="1"></p_ru>
+   </play>
+   <play hasball="UT" down="1" togo="0" spot="ULM03" context="H,1,0,V03" playid="4,12,29" type="X" score="Y" text="Lawrence, Hunte kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Lawrence, Hunte" qb="Lawrence, Hunte" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="14"></score>
+   <drivesum plays="10" yards="64" top="2:36" driveindex="4" complete="Y"></drivesum>
+   <play hasball="UT" down="1" togo="0" spot="UT30" context="H,1,0,H30" playid="4,13,30" type="K" text="Tucker, Justin kickoff 67 yards to the ULM3, Ambrose, Luther return 26 yards to the ULM29 (Brown, Curtis)." newcontext="V,1,10,V29">
+    <p_ko vh="H" name="Tucker, Justin" gain="67"></p_ko>
+    <p_kr vh="V" name="Ambrose, Luther" gain="26"></p_kr>
+    <p_tk vh="H" name="Brown, Curtis"></p_tk>
+   </play>
+   <drivestart poss="V,V29,08:53" vh="V" spot="V29" clock="08:53" driveindex="5,30"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="ULM29" context="V,1,10,V29" playid="5,1,31" clock="08:44" text="ULM drive start at 08:44." newcontext="V,1,10,V29">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM29" context="V,1,10,V29" playid="5,2,32" type="R" pcode="LG" text="McNeal, Darrell rush over left guard for 5 yards to the ULM34 (Williams, Aaron)." newcontext="V,2,5,V34">
+    <p_ru vh="V" name="McNeal, Darrell" gain="5"></p_ru>
+    <p_tk vh="H" name="Williams, Aaron"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="5" spot="ULM34" context="V,2,5,V34" playid="5,3,33" type="R" text="Lovett, Rodney rush for 2 yards to the ULM36 (Houston, Lamarr)." newcontext="V,3,3,V36">
+    <p_ru vh="V" name="Lovett, Rodney" gain="2"></p_ru>
+    <p_tk vh="H" name="Houston, Lamarr"></p_tk>
+   </play>
+   <play hasball="ULM" down="3" togo="3" spot="ULM36" context="V,3,3,V36" playid="5,4,34" type="R" pcode="MI" text="Lovett, Rodney rush up middle for 2 yards to the ULM38 (Kindle, Sergio;Houston, Lamarr)." newcontext="V,4,1,V38">
+    <p_ru vh="V" name="Lovett, Rodney" gain="2"></p_ru>
+    <p_tk vh="H" name="Kindle, Sergio" assist="Y"></p_tk>
+    <p_tk vh="H" name="Houston, Lamarr" assist="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="4" togo="1" spot="ULM38" context="V,4,1,V38" playid="5,5,35" type="#" clock="06:44" text="Timeout ULM, clock 06:44." newcontext="V,4,1,V38">
+    <p_to vh="V" team="ULM"></p_to>
+   </play>
+   <play hasball="ULM" down="4" togo="1" spot="ULM38" context="V,4,1,V38" playid="5,6,36" type="U" text="Love, Scott punt 36 yards to the UT26, Thomas, Earl return 7 yards to the UT33 (Prelow, Darius;Smith, Theo)." newcontext="H,1,10,H33">
+    <p_pu vh="V" name="Love, Scott" gain="36"></p_pu>
+    <p_pr vh="H" name="Thomas, Earl" gain="7"></p_pr>
+    <p_tk vh="V" name="Prelow, Darius" assist="Y"></p_tk>
+    <p_tk vh="V" name="Smith, Theo" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="9" top="2:13" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,H33,06:44" vh="H" spot="H33" clock="06:44" driveindex="6,36"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="UT33" context="H,1,10,H33" playid="6,1,37" clock="06:31" text="TEXAS drive start at 06:31." newcontext="H,1,10,H33">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT33" context="H,1,10,H33" playid="6,2,38" type="P" pcode="MI" text="McCoy, Colt middle pass incomplete to Norton, Jared (Thomas, Josh)." newcontext="H,2,10,H33">
+    <p_pa vh="H" qb="McCoy, Colt" result="INC" rcv="Norton, Jared"></p_pa>
+    <p_bu vh="V" name="Thomas, Josh"></p_bu>
+   </play>
+   <play hasball="UT" down="2" togo="10" spot="UT33" context="H,2,10,H33" playid="6,3,39" type="R" pcode="RL" text="McGee, Vondrell rush RL for 3 yards to the UT36 (James, Greg)." newcontext="H,3,7,H36">
+    <p_ru vh="H" name="McGee, Vondrell" gain="3"></p_ru>
+    <p_tk vh="V" name="James, Greg"></p_tk>
+   </play>
+   <play hasball="UT" down="3" togo="7" spot="UT36" context="H,3,7,H36" playid="6,4,40" type="P" pcode="MI" first="P" text="McCoy, Colt middle pass complete to Kirkendoll, Jam for 9 yards to the UT45, 1ST DOWN UT (Thomas, Josh;Jackson, Cardia)." newcontext="H,1,10,H45">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Kirkendoll, Jam" gain="9"></p_pa>
+    <p_tk vh="V" name="Thomas, Josh" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jackson, Cardia" assist="Y"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT45" context="H,1,10,H45" playid="6,5,41" type="R" pcode="MI" turnover="F" text="McGee, Vondrell rush up middle for loss of 8 yards to the UT37, fumble forced by Jackson, Cardia, fumble by McGee, Vondrell recovered by ULM Thomas, Josh at UT37, Thomas, Josh for 29 yards to the UT8 (Huey, Michael)." newcontext="V,1,0,H08">
+    <p_ru vh="H" name="McGee, Vondrell" gain="-8"></p_ru>
+    <p_fr vh="V" name="Thomas, Josh" gain="29"></p_fr>
+    <p_fumb vh="H" name="McGee, Vondrell" at="H37" frvh="V" frname="Thomas, Josh"></p_fumb>
+    <p_tk vh="V" name="Jackson, Cardia" ff="Y"></p_tk>
+    <p_tk vh="H" name="Huey, Michael"></p_tk>
+   </play>
+   <drivesum plays="4" yards="4" top="0:45" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="V,H08,06:31" vh="V" spot="H08" clock="06:31" driveindex="7,41"></drivestart>
+   <play hasball="ULM" down="1" togo="0" spot="UT08" context="V,1,0,H08" playid="7,1,42" clock="05:46" text="ULM drive start at 05:46, ULM ball on UT8." newcontext="V,1,0,H08">
+   </play>
+   <play hasball="ULM" down="1" togo="0" spot="UT08" context="V,1,0,H08" playid="7,2,43" type="R" pcode="MI" text="Goodin, Frank rush up middle for 1 yard to the UT7 (Norton, Jared;Houston, Lamarr)." newcontext="V,2,0,H07">
+    <p_ru vh="V" name="Goodin, Frank" gain="1"></p_ru>
+    <p_tk vh="H" name="Norton, Jared" assist="Y"></p_tk>
+    <p_tk vh="H" name="Houston, Lamarr" assist="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="0" spot="UT07" context="V,2,0,H07" playid="7,3,44" type="P" pcode="LS" text="Revell, Trey LS pass complete to Sapp, LaGregory for 5 yards to the UT2." newcontext="V,3,0,H02">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="Sapp, LaGregory" gain="5"></p_pa>
+   </play>
+   <play hasball="ULM" down="3" togo="0" spot="UT02" context="V,3,0,H02" playid="7,4,45" type="P" pcode="FL" text="Revell, Trey flag pass incomplete to Milton, Keavon (Kindle, Sergio)." newcontext="V,4,0,H02">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="Milton, Keavon"></p_pa>
+    <p_bu vh="H" name="Kindle, Sergio"></p_bu>
+   </play>
+   <play hasball="ULM" down="4" togo="0" spot="UT02" context="V,4,0,H02" playid="7,5,46" type="E" text="PENALTY ULM delay of game (Jabour, Radi) 5 yards to the UT7." newcontext="V,4,0,H07">
+    <p_pn vh="V" code="DG" type="delay of game" name="Jabour, Radi" result="ACCEPT" at="H02" yards="5"></p_pn>
+   </play>
+   <play hasball="ULM" down="4" togo="0" spot="UT07" context="V,4,0,H07" playid="7,6,47" type="F" score="Y" clock="04:23" text="Jabour, Radi field goal attempt from 24 GOOD, clock 04:23." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Jabour, Radi" distance="24" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="14"></score>
+   <drivesum plays="4" yards="1" top="1:23" driveindex="7" complete="Y"></drivesum>
+   <play hasball="ULM" down="1" togo="0" spot="ULM30" context="V,1,0,V30" playid="7,7,48" type="K" text="Clayton, Grant kickoff 65 yards to the UT5, Williams, Aaron return 27 yards to the UT32 (Edwards, Jason)." newcontext="H,1,10,H32">
+    <p_ko vh="V" name="Clayton, Grant" gain="65"></p_ko>
+    <p_kr vh="H" name="Williams, Aaron" gain="27"></p_kr>
+    <p_tk vh="V" name="Edwards, Jason"></p_tk>
+   </play>
+   <drivestart poss="H,H32,04:23" vh="H" spot="H32" clock="04:23" driveindex="8,48"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="UT32" context="H,1,10,H32" playid="8,1,49" clock="04:17" text="TEXAS drive start at 04:17." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT32" context="H,1,10,H32" playid="8,2,50" type="R" text="McCoy, Colt rush for loss of 4 yards to the UT28, fumble by McCoy, Colt recovered by UT McCoy, Colt at UT28." newcontext="H,2,14,H28">
+    <p_ru vh="H" name="McCoy, Colt" gain="-4"></p_ru>
+    <p_fumb vh="H" name="McCoy, Colt" at="H28" frvh="H" frname="McCoy, Colt"></p_fumb>
+   </play>
+   <play hasball="UT" down="2" togo="14" spot="UT28" context="H,2,14,H28" playid="8,3,51" type="P" pcode="LS" text="McCoy, Colt LS pass incomplete to Kirkendoll, Jam." newcontext="H,3,14,H28">
+    <p_pa vh="H" qb="McCoy, Colt" result="INC" rcv="Kirkendoll, Jam"></p_pa>
+   </play>
+   <play hasball="UT" down="3" togo="14" spot="UT28" context="H,3,14,H28" playid="8,4,52" type="P" pcode="MI" text="McCoy, Colt middle pass complete to McGee, Vondrell for 8 yards to the UT36 (Morgan, Aaron)." newcontext="H,4,6,H36">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="McGee, Vondrell" gain="8"></p_pa>
+    <p_tk vh="V" name="Morgan, Aaron"></p_tk>
+   </play>
+   <play hasball="UT" down="4" togo="6" spot="UT36" context="H,4,6,H36" playid="8,5,53" type="U" text="Gold, John punt 53 yards to the ULM11, McNeal, Darrell return 8 yards to the ULM19 (Earnest, Dustin)." newcontext="V,1,10,V19">
+    <p_pu vh="H" name="Gold, John" gain="53" in20="Y"></p_pu>
+    <p_pr vh="V" name="McNeal, Darrell" gain="8"></p_pr>
+    <p_tk vh="H" name="Earnest, Dustin"></p_tk>
+   </play>
+   <drivesum plays="3" yards="4" top="1:31" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,V19,04:17" vh="V" spot="V19" clock="04:17" driveindex="9,53"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="ULM19" context="V,1,10,V19" playid="9,1,54" clock="02:46" text="ULM drive start at 02:46." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM19" context="V,1,10,V19" playid="9,2,55" type="R" pcode="RL" first="R" text="Ambrose, Luther rush RL for 16 yards to the ULM35, 1ST DOWN ULM, out-of-bounds (Gideon, Blake)." ob="Y" newcontext="V,1,10,V35">
+    <p_ru vh="V" name="Ambrose, Luther" gain="16"></p_ru>
+    <p_tk vh="H" name="Gideon, Blake"></p_tk>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM35" context="V,1,10,V35" playid="9,3,56" type="P" pcode="SH" text="Revell, Trey SH pass complete to Goodin, Frank for no gain to the ULM35 (Muckelroy, Rodd;Acho, Sam)." newcontext="V,2,10,V35">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="Goodin, Frank" gain="0"></p_pa>
+    <p_tk vh="H" name="Muckelroy, Rodd" assist="Y"></p_tk>
+    <p_tk vh="H" name="Acho, Sam" assist="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="10" spot="ULM35" context="V,2,10,V35" playid="9,4,57" type="R" pcode="RR" text="Ambrose, Luther rush right for 9 yards to the ULM44 (Norton, Jared), PENALTY ULM illegal block (McCall, Anthony) 10 yards to the ULM34." newcontext="V,2,11,V34">
+    <p_ru vh="V" name="Ambrose, Luther" gain="9"></p_ru>
+    <p_tk vh="H" name="Norton, Jared"></p_tk>
+    <p_pn vh="V" code="BL" type="illegal block" name="McCall, Anthony" result="ACCEPT" at="V44" yards="10"></p_pn>
+   </play>
+   <play hasball="ULM" down="2" togo="11" spot="ULM34" context="V,2,11,V34" playid="9,5,58" text="2nd and 11." newcontext="V,2,11,V34">
+   </play>
+   <play hasball="ULM" down="2" togo="11" spot="ULM34" context="V,2,11,V34" playid="9,6,59" type="E" pcode="RL" text="Lovett, Rodney rush RL for 5 yards to the ULM39 (Thomas, Earl), PENALTY ULM illegal block (Roberts, Justin) 15 yards to the ULM19, NO PLAY." newcontext="V,2,26,V19">
+    <p_pn vh="V" code="BL" type="illegal block" name="Roberts, Justin" result="ACCEPT" at="V34" yards="15"></p_pn>
+   </play>
+   <play hasball="ULM" down="2" togo="26" spot="ULM19" context="V,2,26,V19" playid="9,7,60" type="R" pcode="RE" text="Lovett, Rodney rush over right end for 4 yards to the ULM23 (Randall, Kheest;Brown, Curtis)." newcontext="V,3,22,V23">
+    <p_ru vh="V" name="Lovett, Rodney" gain="4"></p_ru>
+    <p_tk vh="H" name="Randall, Kheest" assist="Y"></p_tk>
+    <p_tk vh="H" name="Brown, Curtis" assist="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="3" togo="22" spot="ULM23" context="V,3,22,V23" playid="9,8,61" type="P" text="Revell, Trey pass complete to Ambrose, Luther for 2 yards to the ULM25 (Muckelroy, Rodd)." newcontext="V,4,20,V25">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="Ambrose, Luther" gain="2"></p_pa>
+    <p_tk vh="H" name="Muckelroy, Rodd"></p_tk>
+   </play>
+   <score qtr="1" V="3" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="ULM">
+    <firstdowns no="1" rush="1" pass="0" penalty="0"></firstdowns>
+    <penalties no="3" yds="30"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="08:48"></misc>
+    <rush att="10" yds="27" gain="42" loss="15" td="0" long="16"></rush>
+    <pass comp="4" att="6" int="0" yds="16" td="0" long="9" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="16" td="0" long="9"></rcv>
+    <punt no="2" yds="75" long="39" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="37.5"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="24" blkd="0"></fg>
+    <defense tackua="15" tacka="4" tot_tack="19" tflua="1" tfla="0" tflyds="8" sacks="0" sackyds="0" brup="1" ff="1" fr="1" fryds="29"></defense>
+    <kr no="3" yds="65" td="0" long="27"></kr>
+    <pr no="1" yds="8" td="0" long="8"></pr>
+    <fr no="1" yds="29" td="0" long="29"></fr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UT">
+    <firstdowns no="7" rush="3" pass="4" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="2" lost="1"></fumbles>
+    <misc yds="0" top="06:12"></misc>
+    <rush att="11" yds="23" gain="35" loss="12" td="2" long="8"></rush>
+    <pass comp="7" att="10" int="0" yds="72" td="0" long="23" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="72" td="0" long="23"></rcv>
+    <punt no="1" yds="53" long="53" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="53.0"></punt>
+    <ko no="3" yds="195" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="10" tacka="12" tot_tack="22" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="27" td="0" long="27"></kr>
+    <pr no="1" yds="7" td="0" long="7"></pr>
+    <fumbles no="2" lost="1"></fumbles>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="ULM" down="4" togo="20" spot="ULM25" context="V,4,20,V25" playid="9,9,62" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,4,20,V25">
+   </play>
+   <play hasball="ULM" down="4" togo="20" spot="ULM25" context="V,4,20,V25" playid="9,10,63" type="U" text="Love, Scott punt 39 yards to the UT36, Thomas, Earl return -3 yards to the UT33 (Hornberger, S)." newcontext="H,1,10,H33">
+    <p_pu vh="V" name="Love, Scott" gain="39"></p_pu>
+    <p_pr vh="H" name="Thomas, Earl" gain="-3"></p_pr>
+    <p_tk vh="V" name="Hornberger, S"></p_tk>
+   </play>
+   <drivesum plays="5" yards="6" top="2:52" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,H33,15:00" vh="H" spot="H33" clock="15:00" driveindex="10,63"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="UT33" context="H,1,10,H33" playid="10,1,64" clock="14:54" text="TEXAS drive start at 14:54." newcontext="H,1,10,H33">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT33" context="H,1,10,H33" playid="10,2,65" type="R" text="Johnson, Cody rush for 2 yards to the UT35 (Morgan, Aaron)." newcontext="H,2,8,H35">
+    <p_ru vh="H" name="Johnson, Cody" gain="2"></p_ru>
+    <p_tk vh="V" name="Morgan, Aaron"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="8" spot="UT35" context="H,2,8,H35" playid="10,3,66" type="P" pcode="LS" first="P" text="McCoy, Colt LS pass complete to Shipley, Jordan for 11 yards to the UT46, 1ST DOWN UT (Jackson, Cardia)." newcontext="H,1,10,H46">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Shipley, Jordan" gain="11"></p_pa>
+    <p_tk vh="V" name="Jackson, Cardia"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT46" context="H,1,10,H46" playid="10,4,67" type="E" text="PENALTY UT false start (Ulatoski, Adam) 5 yards to the UT41." newcontext="H,1,15,H41">
+    <p_pn vh="H" code="FS" type="false start" name="Ulatoski, Adam" result="ACCEPT" at="H46" yards="5"></p_pn>
+   </play>
+   <play hasball="UT" down="1" togo="15" spot="UT41" context="H,1,15,H41" playid="10,5,68" type="R" pcode="LG" text="Johnson, Cody rush over left guard for 7 yards to the UT48 (Jackson, Cardia)." newcontext="H,2,8,H48">
+    <p_ru vh="H" name="Johnson, Cody" gain="7"></p_ru>
+    <p_tk vh="V" name="Jackson, Cardia"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="8" spot="UT48" context="H,2,8,H48" playid="10,6,69" type="E" pcode="DP" first="E" text="McCoy, Colt deep pass incomplete to Shipley, Jordan, PENALTY ULM pass interference (Blake, Alex) 15 yards to the ULM37, 1ST DOWN UT, NO PLAY." newcontext="H,1,10,V37">
+    <p_pn vh="V" code="PI" type="pass interference" name="Blake, Alex" result="ACCEPT" at="H48" yards="15"></p_pn>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM37" context="H,1,10,V37" playid="10,7,70" type="P" text="McCoy, Colt pass incomplete to Shipley, Jordan." newcontext="H,2,10,V37">
+    <p_pa vh="H" qb="McCoy, Colt" result="INC" rcv="Shipley, Jordan"></p_pa>
+   </play>
+   <play hasball="UT" down="2" togo="10" spot="ULM37" context="H,2,10,V37" playid="10,8,71" type="P" pcode="MI" first="P" text="McCoy, Colt middle pass complete to Shipley, Jordan for 19 yards to the ULM18, 1ST DOWN UT (James, Greg)." newcontext="H,1,10,V18">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Shipley, Jordan" gain="19"></p_pa>
+    <p_tk vh="V" name="James, Greg"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM18" context="H,1,10,V18" playid="10,9,72" type="P" pcode="RF" first="P" text="McCoy, Colt RF pass complete to Buckner, Dan for 13 yards to the ULM5, 1ST DOWN UT (Prelow, Darius)." newcontext="H,1,0,V05">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Buckner, Dan" gain="13"></p_pa>
+    <p_tk vh="V" name="Prelow, Darius"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="0" spot="ULM05" context="H,1,0,V05" playid="10,10,73" type="R" pcode="LE" text="Johnson, Cody rush over left end for no gain to the ULM5 (Thomas, Josh)." newcontext="H,2,0,V05">
+    <p_ru vh="H" name="Johnson, Cody" gain="0"></p_ru>
+    <p_tk vh="V" name="Thomas, Josh"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="0" spot="ULM05" context="H,2,0,V05" playid="10,11,74" type="R" pcode="RT" text="Johnson, Cody rush over right tackle for 4 yards to the ULM1 (Lovett, Rodney)." newcontext="H,3,0,V01">
+    <p_ru vh="H" name="Johnson, Cody" gain="4"></p_ru>
+    <p_tk vh="V" name="Lovett, Rodney"></p_tk>
+   </play>
+   <play hasball="UT" down="3" togo="0" spot="ULM01" context="H,3,0,V01" playid="10,12,75" type="R" pcode="LG" score="Y" clock="11:02" text="Johnson, Cody rush over left guard for 1 yard to the ULM0, TOUCHDOWN, clock 11:02." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Johnson, Cody" gain="1"></p_ru>
+   </play>
+   <play hasball="UT" down="1" togo="0" spot="ULM03" context="H,1,0,V03" playid="10,13,76" type="X" score="Y" text="Lawrence, Hunte kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Lawrence, Hunte" qb="Lawrence, Hunte" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="3" H="21"></score>
+   <drivesum plays="9" yards="67" top="3:52" driveindex="10" complete="Y"></drivesum>
+   <play hasball="UT" down="1" togo="0" spot="UT30" context="H,1,0,H30" playid="10,14,77" type="K" text="Tucker, Justin kickoff 70 yards to the ULM0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Tucker, Justin" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,11:02" vh="V" spot="V20" clock="11:02" driveindex="11,77"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="ULM20" context="V,1,10,V20" playid="11,1,78" clock="11:02" text="ULM drive start at 11:02." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM20" context="V,1,10,V20" playid="11,2,79" type="R" pcode="QL" text="Revell, Trey rush QL for 5 yards to the ULM25 (Acho, Sam)." newcontext="V,2,5,V25">
+    <p_ru vh="V" name="Revell, Trey" gain="5"></p_ru>
+    <p_tk vh="H" name="Acho, Sam"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="5" spot="ULM25" context="V,2,5,V25" playid="11,3,80" type="P" pcode="DP" first="P" score="Y" clock="10:05" text="Revell, Trey deep pass complete to Ambrose, Luther for 75 yards to the UT0, 1ST DOWN ULM, TOUCHDOWN, clock 10:05." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="Ambrose, Luther" gain="75"></p_pa>
+   </play>
+   <play hasball="ULM" down="1" togo="0" spot="UT03" context="V,1,0,H03" playid="11,4,81" type="E" text="PENALTY ULM delay of game (Jabour, Radi) 5 yards to the UT8." newcontext="V,1,0,H08">
+    <p_pn vh="V" code="DG" type="delay of game" name="Jabour, Radi" result="ACCEPT" at="H03" yards="5"></p_pn>
+   </play>
+   <play hasball="ULM" down="1" togo="0" spot="UT08" context="V,1,0,H08" playid="11,5,82" type="X" score="Y" text="Jabour, Radi kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Jabour, Radi" qb="Jabour, Radi" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="21"></score>
+   <drivesum plays="2" yards="80" top="0:57" driveindex="11" complete="Y"></drivesum>
+   <play hasball="ULM" down="1" togo="0" spot="ULM30" context="V,1,0,V30" playid="11,6,83" type="K" score="Y" clock="09:54" text="Clayton, Grant kickoff 59 yards to the UT11, Monroe, D.J. return 89 yards to the ULM0, TOUCHDOWN, clock 09:54." newcontext="H,1,0,V03">
+    <p_ko vh="V" name="Clayton, Grant" gain="59"></p_ko>
+    <p_kr vh="H" name="Monroe, D.J." gain="89"></p_kr>
+   </play>
+   <drivestart poss="H,V03,09:54" vh="H" spot="V03" clock="09:54" driveindex="12,83"></drivestart>
+   <play hasball="UT" down="1" togo="0" spot="ULM03" context="H,1,0,V03" playid="12,1,84" type="X" score="Y" text="Lawrence, Hunte kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Lawrence, Hunte" qb="Lawrence, Hunte" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="28"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="12" complete="Y"></drivesum>
+   <play hasball="UT" down="1" togo="0" spot="UT30" context="H,1,0,H30" playid="12,2,85" type="K" text="Tucker, Justin kickoff 66 yards to the ULM4, Ambrose, Luther return 23 yards to the ULM27 (Earnest, Dustin)." newcontext="V,1,10,V27">
+    <p_ko vh="H" name="Tucker, Justin" gain="66"></p_ko>
+    <p_kr vh="V" name="Ambrose, Luther" gain="23"></p_kr>
+    <p_tk vh="H" name="Earnest, Dustin"></p_tk>
+   </play>
+   <drivestart poss="V,V27,09:54" vh="V" spot="V27" clock="09:54" driveindex="13,85"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="ULM27" context="V,1,10,V27" playid="13,1,86" clock="09:47" text="ULM drive start at 09:47." newcontext="V,1,10,V27">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM27" context="V,1,10,V27" playid="13,2,87" type="#" clock="09:47" text="Timeout ULM, clock 09:47." newcontext="V,1,10,V27">
+    <p_to vh="V" team="ULM"></p_to>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM27" context="V,1,10,V27" playid="13,3,88" type="P" pcode="MI" first="P" text="Revell, Trey middle pass complete to Jordan, Alvin for 11 yards to the ULM38, 1ST DOWN ULM." newcontext="V,1,10,V38">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="Jordan, Alvin" gain="11"></p_pa>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM38" context="V,1,10,V38" playid="13,4,89" type="P" text="Revell, Trey pass incomplete (Muckelroy, Rodd)." newcontext="V,2,10,V38">
+    <p_pa vh="V" qb="Revell, Trey" result="INC"></p_pa>
+    <p_bu vh="H" name="Muckelroy, Rodd"></p_bu>
+   </play>
+   <play hasball="ULM" down="2" togo="10" spot="ULM38" context="V,2,10,V38" playid="13,5,90" type="P" pcode="SL" text="Revell, Trey slant pass incomplete to Sapp, LaGregory (Thomas, Earl), QB hurry by Kindle, Sergio." newcontext="V,3,10,V38">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="Sapp, LaGregory"></p_pa>
+    <p_bu vh="H" name="Thomas, Earl"></p_bu>
+    <p_qbh vh="H" name="Kindle, Sergio"></p_qbh>
+   </play>
+   <play hasball="ULM" down="3" togo="10" spot="ULM38" context="V,3,10,V38" playid="13,6,91" type="P" text="Revell, Trey pass incomplete (Acho, Sam)." newcontext="V,4,10,V38">
+    <p_pa vh="V" qb="Revell, Trey" result="INC"></p_pa>
+    <p_bu vh="H" name="Acho, Sam"></p_bu>
+   </play>
+   <play hasball="ULM" down="4" togo="10" spot="ULM38" context="V,4,10,V38" playid="13,7,92" type="U" text="Love, Scott punt 45 yards to the UT17, fair catch by Thomas, Earl." newcontext="H,1,10,H17">
+    <p_pu vh="V" name="Love, Scott" gain="45" in20="Y" fc="Thomas, Earl"></p_pu>
+   </play>
+   <drivesum plays="4" yards="11" top="0:32" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H17,09:47" vh="H" spot="H17" clock="09:47" driveindex="14,92"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="UT17" context="H,1,10,H17" playid="14,1,93" clock="09:15" text="TEXAS drive start at 09:15." newcontext="H,1,10,H17">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT17" context="H,1,10,H17" playid="14,2,94" type="R" pcode="RE" text="Monroe, D.J. rush over right end for 9 yards to the UT26 (Prelow, Darius)." newcontext="H,2,1,H26">
+    <p_ru vh="H" name="Monroe, D.J." gain="9"></p_ru>
+    <p_tk vh="V" name="Prelow, Darius"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="1" spot="UT26" context="H,2,1,H26" playid="14,3,95" type="R" pcode="LE" first="R" text="McGee, Vondrell rush over left end for 6 yards to the UT32, 1ST DOWN UT (Jackson, Cardia)." newcontext="H,1,10,H32">
+    <p_ru vh="H" name="McGee, Vondrell" gain="6"></p_ru>
+    <p_tk vh="V" name="Jackson, Cardia"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT32" context="H,1,10,H32" playid="14,4,96" type="P" pcode="SL" text="McCoy, Colt slant pass incomplete to Kirkendoll, Jam, QB hurry by Thomas, Josh." newcontext="H,2,10,H32">
+    <p_pa vh="H" qb="McCoy, Colt" result="INC" rcv="Kirkendoll, Jam"></p_pa>
+    <p_qbh vh="V" name="Thomas, Josh"></p_qbh>
+   </play>
+   <play hasball="UT" down="2" togo="10" spot="UT32" context="H,2,10,H32" playid="14,5,97" type="P" pcode="MI" text="McCoy, Colt middle pass incomplete to McGee, Vondrell (Smith, Theo)." newcontext="H,3,10,H32">
+    <p_pa vh="H" qb="McCoy, Colt" result="INC" rcv="McGee, Vondrell"></p_pa>
+    <p_bu vh="V" name="Smith, Theo"></p_bu>
+   </play>
+   <play hasball="UT" down="3" togo="10" spot="UT32" context="H,3,10,H32" playid="14,6,98" type="E" pcode="LS" text="McCoy, Colt LS pass complete to Shipley, Jordan for 9 yards to the UT41 (Stamps, Otis), PENALTY ULM offside defense (Ford, DaCorris) 5 yards to the UT37, NO PLAY." newcontext="H,3,5,H37">
+    <p_pn vh="V" code="OD" type="offside defense" name="Ford, DaCorris" result="ACCEPT" at="H32" yards="5"></p_pn>
+   </play>
+   <play hasball="UT" down="3" togo="5" spot="UT37" context="H,3,5,H37" playid="14,7,99" type="P" turnover="I" text="McCoy, Colt pass intercepted by Stamps, Otis at the UT47, Stamps, Otis return 8 yards to the UT39." newcontext="V,1,10,H39">
+    <p_pa vh="H" qb="McCoy, Colt" result="INT"></p_pa>
+    <p_ir vh="V" name="Stamps, Otis" at="H47" gain="8"></p_ir>
+   </play>
+   <drivesum plays="5" yards="20" top="1:33" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,H39,09:15" vh="V" spot="H39" clock="09:15" driveindex="15,99"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="UT39" context="V,1,10,H39" playid="15,1,100" clock="07:42" text="ULM drive start at 07:42." newcontext="V,1,10,H39">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT39" context="V,1,10,H39" playid="15,2,101" text="McNeal, Darrell at QB for ULM." newcontext="V,1,10,H39">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT39" context="V,1,10,H39" playid="15,3,102" type="R" text="McNeal, Darrell rush for loss of 1 yard to the UT40 (Houston, Lamarr)." newcontext="V,2,11,H40">
+    <p_ru vh="V" name="McNeal, Darrell" gain="-1"></p_ru>
+    <p_tk vh="H" name="Houston, Lamarr" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="11" spot="UT40" context="V,2,11,H40" playid="15,4,103" type="R" pcode="RL" text="Lovett, Rodney rush RL for 10 yards to the UT30, out-of-bounds (Norton, Jared)." ob="Y" newcontext="V,3,1,H30">
+    <p_ru vh="V" name="Lovett, Rodney" gain="10"></p_ru>
+    <p_tk vh="H" name="Norton, Jared"></p_tk>
+   </play>
+   <play hasball="ULM" down="3" togo="1" spot="UT30" context="V,3,1,H30" playid="15,5,104" type="R" pcode="LG" first="R" text="Goodin, Frank rush over left guard for 1 yard to the UT29, 1ST DOWN ULM (Norton, Jared)." newcontext="V,1,10,H29">
+    <p_ru vh="V" name="Goodin, Frank" gain="1"></p_ru>
+    <p_tk vh="H" name="Norton, Jared"></p_tk>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT29" context="V,1,10,H29" playid="15,6,105" type="#" clock="06:23" text="Timeout ULM, clock 06:23." newcontext="V,1,10,H29">
+    <p_to vh="V" team="ULM"></p_to>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT29" context="V,1,10,H29" playid="15,7,106" type="R" pcode="MI" text="Goodin, Frank rush up middle for no gain to the UT29 (Brown, Curtis;Muckelroy, Rodd)." newcontext="V,2,10,H29">
+    <p_ru vh="V" name="Goodin, Frank" gain="0"></p_ru>
+    <p_tk vh="H" name="Brown, Curtis" assist="Y"></p_tk>
+    <p_tk vh="H" name="Muckelroy, Rodd" assist="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="10" spot="UT29" context="V,2,10,H29" playid="15,8,107" type="E" text="PENALTY ULM false start (Andrews, Josh) 5 yards to the UT34." newcontext="V,2,15,H34">
+    <p_pn vh="V" code="FS" type="false start" name="Andrews, Josh" result="ACCEPT" at="H29" yards="5"></p_pn>
+   </play>
+   <play hasball="ULM" down="2" togo="15" spot="UT34" context="V,2,15,H34" playid="15,9,108" type="R" pcode="QD" text="McNeal, Darrell rush quarterback draw for 4 yards to the UT30 (Muckelroy, Rodd)." newcontext="V,3,11,H30">
+    <p_ru vh="V" name="McNeal, Darrell" gain="4"></p_ru>
+    <p_tk vh="H" name="Muckelroy, Rodd"></p_tk>
+   </play>
+   <play hasball="ULM" down="3" togo="11" spot="UT30" context="V,3,11,H30" playid="15,10,109" type="R" pcode="QL" text="McNeal, Darrell rush QL for loss of 6 yards to the UT36, fumble by McNeal, Darrell recovered by ULM Goodin, Frank at UT36." newcontext="V,4,17,H36">
+    <p_ru vh="V" name="McNeal, Darrell" gain="-6"></p_ru>
+    <p_fumb vh="V" name="McNeal, Darrell" at="H36" frvh="V" frname="Goodin, Frank"></p_fumb>
+   </play>
+   <play hasball="ULM" down="4" togo="17" spot="UT36" context="V,4,17,H36" playid="15,11,110" type="E" text="PENALTY ULM delay of game (McNeal, Darrell) 5 yards to the UT41." newcontext="V,4,22,H41">
+    <p_pn vh="V" code="DG" type="delay of game" name="McNeal, Darrell" result="ACCEPT" at="H36" yards="5"></p_pn>
+   </play>
+   <play hasball="ULM" down="4" togo="22" spot="UT41" context="V,4,22,H41" playid="15,12,111" type="U" text="Love, Scott punt 34 yards to the UT7, downed." newcontext="H,1,10,H07">
+    <p_pu vh="V" name="Love, Scott" gain="34" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="-2" top="4:00" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H07,06:23" vh="H" spot="H07" clock="06:23" driveindex="16,111"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="UT07" context="H,1,10,H07" playid="16,1,112" clock="03:42" text="TEXAS drive start at 03:42." newcontext="H,1,10,H07">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT07" context="H,1,10,H07" playid="16,2,113" type="R" pcode="LE" text="McGee, Vondrell rush over left end for 2 yards to the UT9 (Williams, Aaron)." newcontext="H,2,8,H09">
+    <p_ru vh="H" name="McGee, Vondrell" gain="2"></p_ru>
+    <p_tk vh="V" name="Williams, Aaron"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="8" spot="UT09" context="H,2,8,H09" playid="16,3,114" type="P" text="McCoy, Colt sacked for loss of 1 yard to the UT8 (Thomas, Josh)." newcontext="H,3,9,H08">
+    <p_pa vh="H" qb="McCoy, Colt" result="SACK" gain="-1"></p_pa>
+    <p_tk vh="V" name="Thomas, Josh" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UT" down="3" togo="9" spot="UT08" context="H,3,9,H08" playid="16,4,115" type="#" clock="02:58" text="Timeout Texas, clock 02:58." newcontext="H,3,9,H08">
+    <p_to vh="H" team="Texas"></p_to>
+   </play>
+   <play hasball="UT" down="3" togo="9" spot="UT08" context="H,3,9,H08" playid="16,5,116" type="P" pcode="RS" first="P" text="McCoy, Colt RS pass complete to Chiles, John for 14 yards to the UT22, 1ST DOWN UT (Prelow, Darius;Brown, Nate)." newcontext="H,1,10,H22">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Chiles, John" gain="14"></p_pa>
+    <p_tk vh="V" name="Prelow, Darius" assist="Y"></p_tk>
+    <p_tk vh="V" name="Brown, Nate" assist="Y"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT22" context="H,1,10,H22" playid="16,6,117" type="P" pcode="RS" first="P" score="Y" clock="02:24" text="McCoy, Colt RS pass complete to Shipley, Jordan for 78 yards to the ULM0, 1ST DOWN UT, TOUCHDOWN, clock 02:24." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Shipley, Jordan" gain="78"></p_pa>
+   </play>
+   <play hasball="UT" down="1" togo="0" spot="ULM03" context="H,1,0,V03" playid="16,7,118" type="X" score="Y" text="Lawrence, Hunte kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Lawrence, Hunte" qb="Lawrence, Hunte" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="35"></score>
+   <drivesum plays="4" yards="93" top="1:18" driveindex="16" complete="Y"></drivesum>
+   <play hasball="UT" down="1" togo="0" spot="UT30" context="H,1,0,H30" playid="16,8,119" type="K" text="Tucker, Justin kickoff 66 yards to the ULM4, Ambrose, Luther return 17 yards to the ULM21 (Vaccaro, Kenny)." newcontext="V,1,10,V21">
+    <p_ko vh="H" name="Tucker, Justin" gain="66"></p_ko>
+    <p_kr vh="V" name="Ambrose, Luther" gain="17"></p_kr>
+    <p_tk vh="H" name="Vaccaro, Kenny"></p_tk>
+   </play>
+   <drivestart poss="V,V21,02:24" vh="V" spot="V21" clock="02:24" driveindex="17,119"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="ULM21" context="V,1,10,V21" playid="17,1,120" clock="02:20" text="ULM drive start at 02:20." newcontext="V,1,10,V21">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM21" context="V,1,10,V21" playid="17,2,121" text="Revell, Trey at QB for ULM." newcontext="V,1,10,V21">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM21" context="V,1,10,V21" playid="17,3,122" type="P" text="Revell, Trey pass incomplete to Jordan, Alvin (Acho, Sam)." newcontext="V,2,10,V21">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="Jordan, Alvin"></p_pa>
+    <p_bu vh="H" name="Acho, Sam"></p_bu>
+   </play>
+   <play hasball="ULM" down="2" togo="10" spot="ULM21" context="V,2,10,V21" playid="17,4,123" type="P" pcode="RS" text="Revell, Trey RS pass complete to McCoy, J.J. for 7 yards to the ULM28, fumble forced by Brown, Chykie, fumble by McCoy, J.J. recovered by ULM TEAM at ULM28." newcontext="V,3,3,V28">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="McCoy, J.J." gain="7"></p_pa>
+    <p_fumb vh="V" name="McCoy, J.J." at="V28" frvh="V" frname="TEAM"></p_fumb>
+    <p_tk vh="H" name="Brown, Chykie" ff="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="3" togo="3" spot="ULM28" context="V,3,3,V28" playid="17,5,124" type="P" pcode="SL" text="Revell, Trey slant pass incomplete to McCall, Anthony (Brown, Curtis)." newcontext="V,4,3,V28">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="McCall, Anthony"></p_pa>
+    <p_bu vh="H" name="Brown, Curtis"></p_bu>
+   </play>
+   <play hasball="ULM" down="4" togo="3" spot="ULM28" context="V,4,3,V28" playid="17,6,125" type="U" text="Love, Scott punt 38 yards to the UT34, fair catch by Thomas, Earl." newcontext="H,1,10,H34">
+    <p_pu vh="V" name="Love, Scott" gain="38" fc="Thomas, Earl"></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="0:32" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H34,02:20" vh="H" spot="H34" clock="02:20" driveindex="18,125"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="UT34" context="H,1,10,H34" playid="18,1,126" clock="01:48" text="TEXAS drive start at 01:48." newcontext="H,1,10,H34">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT34" context="H,1,10,H34" playid="18,2,127" type="P" pcode="CR" first="P" text="McCoy, Colt crossing pass complete to Shipley, Jordan for 22 yards to the ULM44, 1ST DOWN UT (Prelow, Darius)." newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Shipley, Jordan" gain="22"></p_pa>
+    <p_tk vh="V" name="Prelow, Darius"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM44" context="H,1,10,V44" playid="18,3,128" type="P" pcode="SC" text="McCoy, Colt screen pass complete to McGee, Vondrell for loss of 3 yards to the ULM47." newcontext="H,2,13,V47">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="McGee, Vondrell" gain="-3"></p_pa>
+   </play>
+   <play hasball="UT" down="2" togo="13" spot="ULM47" context="H,2,13,V47" playid="18,4,129" type="P" pcode="MI" first="P" text="McCoy, Colt middle pass complete to Buckner, Dan for 30 yards to the ULM17, 1ST DOWN UT (Truxillo, James)." newcontext="H,1,10,V17">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Buckner, Dan" gain="30"></p_pa>
+    <p_tk vh="V" name="Truxillo, James"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM17" context="H,1,10,V17" playid="18,5,130" type="R" pcode="RE" text="McCoy, Colt rush over right end for 4 yards to the ULM13, out-of-bounds." ob="Y" newcontext="H,2,6,V13">
+    <p_ru vh="H" name="McCoy, Colt" gain="4"></p_ru>
+   </play>
+   <play hasball="UT" down="2" togo="6" spot="ULM13" context="H,2,6,V13" playid="18,6,131" type="P" pcode="RS" text="McCoy, Colt RS pass complete to Buckner, Dan for 5 yards to the ULM8 (Truxillo, James)." newcontext="H,3,1,V08">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Buckner, Dan" gain="5"></p_pa>
+    <p_tk vh="V" name="Truxillo, James"></p_tk>
+   </play>
+   <play hasball="UT" down="3" togo="1" spot="ULM08" context="H,3,1,V08" playid="18,7,132" type="#" clock="00:33" text="Timeout Texas, clock 00:33." newcontext="H,3,1,V08">
+    <p_to vh="H" team="Texas"></p_to>
+   </play>
+   <play hasball="UT" down="3" togo="1" spot="ULM08" context="H,3,1,V08" playid="18,8,133" type="R" pcode="RE" first="R" text="McCoy, Colt rush over right end for 3 yards to the ULM5, 1ST DOWN UT, out-of-bounds." ob="Y" newcontext="H,1,0,V05">
+    <p_ru vh="H" name="McCoy, Colt" gain="3"></p_ru>
+   </play>
+   <play hasball="UT" down="1" togo="0" spot="ULM05" context="H,1,0,V05" playid="18,9,134" type="R" text="McCoy, Colt rush for no gain to the ULM5 (Ford, DaCorris)." newcontext="H,2,0,V05">
+    <p_ru vh="H" name="McCoy, Colt" gain="0"></p_ru>
+    <p_tk vh="V" name="Ford, DaCorris"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="0" spot="ULM05" context="H,2,0,V05" playid="18,10,135" type="#" clock="00:17" text="Timeout Texas, clock 00:17." newcontext="H,2,0,V05">
+    <p_to vh="H" team="Texas"></p_to>
+   </play>
+   <play hasball="UT" down="2" togo="0" spot="ULM05" context="H,2,0,V05" playid="18,11,136" type="P" text="McCoy, Colt sacked for loss of 10 yards to the ULM15 (Morgan, Aaron)." newcontext="H,3,0,V15">
+    <p_pa vh="H" qb="McCoy, Colt" result="SACK" gain="-10"></p_pa>
+    <p_tk vh="V" name="Morgan, Aaron" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UT" down="3" togo="0" spot="ULM15" context="H,3,0,V15" playid="18,12,137" type="P" text="TEAM pass incomplete." newcontext="H,4,0,V15">
+    <p_pa vh="H" qb="TEAM" result="INC"></p_pa>
+   </play>
+   <play hasball="UT" down="4" togo="0" spot="ULM15" context="H,4,0,V15" playid="18,13,138" type="F" score="Y" clock="00:00" text="Lawrence, Hunte field goal attempt from 32 GOOD, clock 00:00." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Lawrence, Hunte" distance="32" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="10" H="38"></score>
+   <play hasball="UT" down="1" togo="0" spot="UT30" context="H,1,0,H30" playid="18,14,139" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,1,0,H30">
+   </play>
+   <drivesum plays="10" yards="51" top="1:48" driveindex="18" complete="Y"></drivesum>
+   <score qtr="2" V="10" H="38"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="ULM">
+    <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+    <penalties no="5" yds="35"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="2" lost="0"></fumbles>
+    <misc yds="0" top="06:18"></misc>
+    <rush att="7" yds="13" gain="20" loss="7" td="0" long="0"></rush>
+    <pass comp="3" att="8" int="0" yds="93" td="1" long="66" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="93" td="1" long="66"></rcv>
+    <punt no="4" yds="156" long="6" blkd="0" tb="0" fc="2" plus50="0" inside20="2" avg="39.0"></punt>
+    <ko no="1" yds="59" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="17" tacka="2" tot_tack="19" tflua="2" tfla="0" tflyds="11" sacks="2" sackyds="11" brup="1" qbh="1" int="1" intyds="8"></defense>
+    <kr no="2" yds="40" td="0" long="0"></kr>
+    <ir no="1" yds="8" td="0" long="8"></ir>
+    <fumbles no="2" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UT">
+    <firstdowns no="10" rush="2" pass="7" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:42"></misc>
+    <rush att="13" yds="27" gain="38" loss="11" td="1" long="1"></rush>
+    <pass comp="9" att="14" int="1" yds="189" td="1" long="55" sacks="2" sackyds="11"></pass>
+    <rcv no="9" yds="189" td="1" long="55"></rcv>
+    <ko no="3" yds="202" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="32" blkd="0"></fg>
+    <pat kickatt="3" kickmade="3"></pat>
+    <defense tackua="8" tacka="2" tot_tack="10" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="5" qbh="1" ff="1"></defense>
+    <kr no="1" yds="89" td="1" long="62"></kr>
+    <pr no="1" yds="-3" td="0" long="0"></pr>
+    <scoring td="3" fg="1" patkick="3"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="UT" down="1" togo="0" spot="UT30" context="H,1,0,H30" playid="18,15,140" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, ULM ball on ULM30." newcontext="V,1,0,V30">
+   </play>
+   <play hasball="ULM" down="1" togo="0" spot="ULM30" context="V,1,0,V30" playid="18,16,141" type="K" text="Clayton, Grant kickoff 60 yards to the UT10, Monroe, D.J. return 22 yards to the UT32 (Prelow, Darius;Brown, Nate)." newcontext="H,1,10,H32">
+    <p_ko vh="V" name="Clayton, Grant" gain="60"></p_ko>
+    <p_kr vh="H" name="Monroe, D.J." gain="22"></p_kr>
+    <p_tk vh="V" name="Prelow, Darius" assist="Y"></p_tk>
+    <p_tk vh="V" name="Brown, Nate" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H32,15:00" vh="H" spot="H32" clock="15:00" driveindex="19,141"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="UT32" context="H,1,10,H32" playid="19,1,142" clock="14:54" text="TEXAS drive start at 14:54." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT32" context="H,1,10,H32" playid="19,2,143" type="R" pcode="LE" first="R" text="McGee, Vondrell rush over left end for 13 yards to the UT45, 1ST DOWN UT, out-of-bounds (James, Greg)." ob="Y" newcontext="H,1,10,H45">
+    <p_ru vh="H" name="McGee, Vondrell" gain="13"></p_ru>
+    <p_tk vh="V" name="James, Greg"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT45" context="H,1,10,H45" playid="19,3,144" type="R" pcode="RG" first="R" text="McGee, Vondrell rush over right guard for 12 yards to the ULM43, 1ST DOWN UT (Ibe, Alex;Augustine, K)." newcontext="H,1,10,V43">
+    <p_ru vh="H" name="McGee, Vondrell" gain="12"></p_ru>
+    <p_tk vh="V" name="Ibe, Alex" assist="Y"></p_tk>
+    <p_tk vh="V" name="Augustine, K" assist="Y"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM43" context="H,1,10,V43" playid="19,4,145" type="R" pcode="RT" first="R" text="Monroe, D.J. rush over right tackle for 14 yards to the ULM29, 1ST DOWN UT (Jackson, Cardia)." newcontext="H,1,10,V29">
+    <p_ru vh="H" name="Monroe, D.J." gain="14"></p_ru>
+    <p_tk vh="V" name="Jackson, Cardia"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM29" context="H,1,10,V29" playid="19,5,146" type="R" pcode="LE" text="McGee, Vondrell rush over left end for 3 yards to the ULM26 (Landry, Jordan)." newcontext="H,2,7,V26">
+    <p_ru vh="H" name="McGee, Vondrell" gain="3"></p_ru>
+    <p_tk vh="V" name="Landry, Jordan"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="7" spot="ULM26" context="H,2,7,V26" playid="19,6,147" type="R" pcode="MI" text="McGee, Vondrell rush up middle for 3 yards to the ULM23 (Ford, DaCorris)." newcontext="H,3,4,V23">
+    <p_ru vh="H" name="McGee, Vondrell" gain="3"></p_ru>
+    <p_tk vh="V" name="Ford, DaCorris"></p_tk>
+   </play>
+   <play hasball="UT" down="3" togo="4" spot="ULM23" context="H,3,4,V23" playid="19,7,148" type="R" pcode="MI" turnover="F" text="McGee, Vondrell rush up middle for 1 yard to the ULM22, fumble forced by Carpenter, C.C., fumble by McGee, Vondrell recovered by ULM Jordan, Jameson at ULM22." newcontext="V,1,10,V22">
+    <p_ru vh="H" name="McGee, Vondrell" gain="1"></p_ru>
+    <p_fumb vh="H" name="McGee, Vondrell" at="V22" frvh="V" frname="Jordan, Jameson"></p_fumb>
+    <p_tk vh="V" name="Carpenter, C.C." ff="Y"></p_tk>
+   </play>
+   <drivesum plays="6" yards="46" top="2:21" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V22,14:54" vh="V" spot="V22" clock="14:54" driveindex="20,148"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="ULM22" context="V,1,10,V22" playid="20,1,149" clock="12:33" text="ULM drive start at 12:33." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM22" context="V,1,10,V22" playid="20,2,150" text="Revell, Trey at QB for ULM." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM22" context="V,1,10,V22" playid="20,3,151" type="R" text="Revell, Trey rush for loss of 2 yards to the ULM20, fumble by Revell, Trey recovered by ULM Revell, Trey at ULM20." newcontext="V,2,12,V20">
+    <p_ru vh="V" name="Revell, Trey" gain="-2"></p_ru>
+    <p_fumb vh="V" name="Revell, Trey" at="V20" frvh="V" frname="Revell, Trey"></p_fumb>
+   </play>
+   <play hasball="ULM" down="2" togo="12" spot="ULM20" context="V,2,12,V20" playid="20,4,152" type="R" turnover="F" text="Revell, Trey rush for loss of 6 yards to the ULM14, fumble by Revell, Trey recovered by UT Acho, Sam at ULM14." newcontext="H,1,10,V14">
+    <p_ru vh="V" name="Revell, Trey" gain="-6"></p_ru>
+    <p_fumb vh="V" name="Revell, Trey" at="V14" frvh="H" frname="Acho, Sam"></p_fumb>
+   </play>
+   <drivesum plays="2" yards="-8" top="0:36" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,V14,12:33" vh="H" spot="V14" clock="12:33" driveindex="21,152"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="ULM14" context="H,1,10,V14" playid="21,1,153" clock="11:57" text="TEXAS drive start at 11:57." newcontext="H,1,10,V14">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM14" context="H,1,10,V14" playid="21,2,154" type="P" pcode="LS" first="P" score="Y" clock="11:51" text="McCoy, Colt LS pass complete to Chiles, John for 14 yards to the ULM0, 1ST DOWN UT, TOUCHDOWN, clock 11:51." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Chiles, John" gain="14"></p_pa>
+   </play>
+   <play hasball="UT" down="1" togo="0" spot="ULM03" context="H,1,0,V03" playid="21,3,155" type="X" score="Y" text="Lawrence, Hunte kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Lawrence, Hunte" qb="Lawrence, Hunte" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="45"></score>
+   <drivesum plays="1" yards="14" top="0:06" driveindex="21" complete="Y"></drivesum>
+   <play hasball="UT" down="1" togo="0" spot="UT30" context="H,1,0,H30" playid="21,4,156" type="K" text="Tucker, Justin kickoff 59 yards to the ULM11, Goodin, Frank return 19 yards to the ULM30 (Brown, Curtis;Vaccaro, Kenny)." newcontext="V,1,10,V30">
+    <p_ko vh="H" name="Tucker, Justin" gain="59"></p_ko>
+    <p_kr vh="V" name="Goodin, Frank" gain="19"></p_kr>
+    <p_tk vh="H" name="Brown, Curtis" assist="Y"></p_tk>
+    <p_tk vh="H" name="Vaccaro, Kenny" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V30,11:51" vh="V" spot="V30" clock="11:51" driveindex="22,156"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="ULM30" context="V,1,10,V30" playid="22,1,157" clock="11:42" text="ULM drive start at 11:42." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM30" context="V,1,10,V30" playid="22,2,158" type="P" pcode="SC" first="P" text="Revell, Trey screen pass complete to McNeal, Darrell for 13 yards to the ULM43, 1ST DOWN ULM, out-of-bounds." ob="Y" newcontext="V,1,10,V43">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="McNeal, Darrell" gain="13"></p_pa>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM43" context="V,1,10,V43" playid="22,3,159" type="R" pcode="RE" text="Revell, Trey rush over right end for 4 yards to the ULM47 (Gideon, Blake)." newcontext="V,2,6,V47">
+    <p_ru vh="V" name="Revell, Trey" gain="4"></p_ru>
+    <p_tk vh="H" name="Gideon, Blake"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="6" spot="ULM47" context="V,2,6,V47" playid="22,4,160" type="P" pcode="LS" text="Revell, Trey LS pass incomplete to Sapp, LaGregory (Thomas, Earl), QB hurry by Muckelroy, Rodd." newcontext="V,3,6,V47">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="Sapp, LaGregory"></p_pa>
+    <p_bu vh="H" name="Thomas, Earl"></p_bu>
+    <p_qbh vh="H" name="Muckelroy, Rodd"></p_qbh>
+   </play>
+   <play hasball="ULM" down="3" togo="6" spot="ULM47" context="V,3,6,V47" playid="22,5,161" type="P" pcode="RS" first="P" text="Revell, Trey RS pass complete to Goodin, Frank for 8 yards to the UT45, 1ST DOWN ULM, out-of-bounds (Earnest, Dustin)." ob="Y" newcontext="V,1,10,H45">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="Goodin, Frank" gain="8"></p_pa>
+    <p_tk vh="H" name="Earnest, Dustin"></p_tk>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT45" context="V,1,10,H45" playid="22,6,162" type="P" pcode="DP" text="Revell, Trey deep pass incomplete to Sapp, LaGregory." newcontext="V,2,10,H45">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="Sapp, LaGregory"></p_pa>
+   </play>
+   <play hasball="ULM" down="2" togo="10" spot="UT45" context="V,2,10,H45" playid="22,7,163" type="P" text="Revell, Trey pass incomplete to McCall, Anthony, QB hurry by Jones, Eddie." newcontext="V,3,10,H45">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="McCall, Anthony"></p_pa>
+    <p_qbh vh="H" name="Jones, Eddie"></p_qbh>
+   </play>
+   <play hasball="ULM" down="3" togo="10" spot="UT45" context="V,3,10,H45" playid="22,8,164" type="P" pcode="SC" text="Revell, Trey screen pass incomplete to Goodin, Frank." newcontext="V,4,10,H45">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="Goodin, Frank"></p_pa>
+   </play>
+   <play hasball="ULM" down="4" togo="10" spot="UT45" context="V,4,10,H45" playid="22,9,165" type="U" text="Love, Scott punt 39 yards to the UT6, fair catch by Thomas, Earl." newcontext="H,1,10,H06">
+    <p_pu vh="V" name="Love, Scott" gain="39" in20="Y" fc="Thomas, Earl"></p_pu>
+   </play>
+   <drivesum plays="7" yards="25" top="2:07" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="H,H06,11:42" vh="H" spot="H06" clock="11:42" driveindex="23,165"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="UT06" context="H,1,10,H06" playid="23,1,166" clock="09:35" text="TEXAS drive start at 09:35." newcontext="H,1,10,H06">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT06" context="H,1,10,H06" playid="23,2,167" type="R" pcode="LT" text="Johnson, Cody rush over left tackle for 3 yards to the UT9 (Thomas, Josh)." newcontext="H,2,7,H09">
+    <p_ru vh="H" name="Johnson, Cody" gain="3"></p_ru>
+    <p_tk vh="V" name="Thomas, Josh"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="7" spot="UT09" context="H,2,7,H09" playid="23,3,168" type="R" pcode="MI" text="Johnson, Cody rush up middle for 4 yards to the UT13 (Jackson, Cardia)." newcontext="H,3,3,H13">
+    <p_ru vh="H" name="Johnson, Cody" gain="4"></p_ru>
+    <p_tk vh="V" name="Jackson, Cardia"></p_tk>
+   </play>
+   <play hasball="UT" down="3" togo="3" spot="UT13" context="H,3,3,H13" playid="23,4,169" type="P" pcode="LS" text="McCoy, Colt LS pass incomplete to Williams, Malco." newcontext="H,4,3,H13">
+    <p_pa vh="H" qb="McCoy, Colt" result="INC" rcv="Williams, Malco"></p_pa>
+   </play>
+   <play hasball="UT" down="4" togo="3" spot="UT13" context="H,4,3,H13" playid="23,5,170" type="U" text="Gold, John punt 34 yards to the UT47, downed, PENALTY UT kick catching interference 15 yards to the UT32, 1st and 10, ULM ball on UT32." newcontext="V,1,10,H32">
+    <p_pu vh="H" name="Gold, John" gain="34"></p_pu>
+    <p_pn vh="H" code="KI" type="kick catching interference" result="ACCEPT" at="H47" yards="15"></p_pn>
+   </play>
+   <drivesum plays="3" yards="7" top="1:35" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="V,H32,09:35" vh="V" spot="H32" clock="09:35" driveindex="24,170"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="UT32" context="V,1,10,H32" playid="24,1,171" clock="08:00" text="ULM drive start at 08:00." newcontext="V,1,10,H32">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT32" context="V,1,10,H32" playid="24,2,172" type="P" text="Revell, Trey pass incomplete to Taylor, Tim." newcontext="V,2,10,H32">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="Taylor, Tim"></p_pa>
+   </play>
+   <play hasball="ULM" down="2" togo="10" spot="UT32" context="V,2,10,H32" playid="24,3,173" type="P" pcode="RS" text="Revell, Trey RS pass incomplete to Jordan, Alvin (Robinson, Keena)." newcontext="V,3,10,H32">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="Jordan, Alvin"></p_pa>
+    <p_bu vh="H" name="Robinson, Keena"></p_bu>
+   </play>
+   <play hasball="ULM" down="3" togo="10" spot="UT32" context="V,3,10,H32" playid="24,4,174" type="P" pcode="RS" first="P" text="Revell, Trey RS pass complete to Jordan, Alvin for 28 yards to the UT4, 1ST DOWN ULM (Norton, Jared)." newcontext="V,1,0,H04">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="Jordan, Alvin" gain="28"></p_pa>
+    <p_tk vh="H" name="Norton, Jared"></p_tk>
+   </play>
+   <play hasball="ULM" down="1" togo="0" spot="UT04" context="V,1,0,H04" playid="24,5,175" type="R" pcode="MI" text="Frazier, Gary rush up middle for 1 yard to the UT3 (Kindle, Sergio;Acho, Sam)." newcontext="V,2,0,H03">
+    <p_ru vh="V" name="Frazier, Gary" gain="1"></p_ru>
+    <p_tk vh="H" name="Kindle, Sergio" assist="Y"></p_tk>
+    <p_tk vh="H" name="Acho, Sam" assist="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="0" spot="UT03" context="V,2,0,H03" playid="24,6,176" type="R" pcode="RE" text="Goodin, Frank rush over right end for loss of 2 yards to the UT5 (Muckelroy, Rodd)." newcontext="V,3,0,H05">
+    <p_ru vh="V" name="Goodin, Frank" gain="-2"></p_ru>
+    <p_tk vh="H" name="Muckelroy, Rodd" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="3" togo="0" spot="UT05" context="V,3,0,H05" playid="24,7,177" type="E" first="E" text="PENALTY UT pass interference (Brown, Chykie) 3 yards to the UT2, 1ST DOWN ULM." newcontext="V,1,0,H02">
+    <p_pn vh="H" code="PI" type="pass interference" name="Brown, Chykie" result="ACCEPT" at="H05" yards="3"></p_pn>
+   </play>
+   <play hasball="ULM" down="1" togo="0" spot="UT02" context="V,1,0,H02" playid="24,8,178" type="R" pcode="LG" text="Goodin, Frank rush over left guard for 1 yard to the UT1 (Robinson, Keena;Muckelroy, Rodd)." newcontext="V,2,0,H01">
+    <p_ru vh="V" name="Goodin, Frank" gain="1"></p_ru>
+    <p_tk vh="H" name="Robinson, Keena" assist="Y"></p_tk>
+    <p_tk vh="H" name="Muckelroy, Rodd" assist="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="0" spot="UT01" context="V,2,0,H01" playid="24,9,179" type="R" pcode="RE" text="Goodin, Frank rush over right end for loss of 6 yards to the UT7 (Okafor, Alex)." newcontext="V,3,0,H07">
+    <p_ru vh="V" name="Goodin, Frank" gain="-6"></p_ru>
+    <p_tk vh="H" name="Okafor, Alex" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="3" togo="0" spot="UT07" context="V,3,0,H07" playid="24,10,180" type="P" turnover="I" text="Revell, Trey pass intercepted by Brewster, Nolan at the UT3, Whittaker, Fosh return 0 yards to the UT3." newcontext="H,1,10,H03">
+    <p_pa vh="V" qb="Revell, Trey" result="INT"></p_pa>
+    <p_ir vh="H" name="Whittaker, Fosh" at="H03" gain="0"></p_ir>
+   </play>
+   <drivesum plays="8" yards="25" top="3:17" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,H03,08:00" vh="H" spot="H03" clock="08:00" driveindex="25,180"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="UT03" context="H,1,10,H03" playid="25,1,181" clock="04:43" text="TEXAS drive start at 04:43." newcontext="H,1,10,H03">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT03" context="H,1,10,H03" playid="25,2,182" type="R" pcode="RE" first="R" text="Monroe, D.J. rush over right end for 20 yards to the UT23, 1ST DOWN UT (Jackson, Cardia)." newcontext="H,1,10,H23">
+    <p_ru vh="H" name="Monroe, D.J." gain="20"></p_ru>
+    <p_tk vh="V" name="Jackson, Cardia"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT23" context="H,1,10,H23" playid="25,3,183" type="R" pcode="RE" first="E" text="McCoy, Colt rush over right end for 5 yards to the UT28, out-of-bounds (Landry, Jordan), PENALTY ULM personal foul (Landry, Jordan) 15 yards to the UT43, 1ST DOWN UT." ob="Y" newcontext="H,1,10,H43">
+    <p_ru vh="H" name="McCoy, Colt" gain="5"></p_ru>
+    <p_tk vh="V" name="Landry, Jordan"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" name="Landry, Jordan" result="ACCEPT" at="H28" yards="15"></p_pn>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT43" context="H,1,10,H43" playid="25,4,184" text="1st and 10." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT43" context="H,1,10,H43" playid="25,5,185" type="R" text="Monroe, D.J. rush for 7 yards to the 50 yardline (Warren, Tristan)." newcontext="H,2,3,H50">
+    <p_ru vh="H" name="Monroe, D.J." gain="7"></p_ru>
+    <p_tk vh="V" name="Warren, Tristan"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="3" spot="UT50" context="H,2,3,H50" playid="25,6,186" type="R" text="Monroe, D.J. rush for loss of 3 yards to the UT47 (Dorsey, Ken)." newcontext="H,3,6,H47">
+    <p_ru vh="H" name="Monroe, D.J." gain="-3"></p_ru>
+    <p_tk vh="V" name="Dorsey, Ken" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UT" down="3" togo="6" spot="UT47" context="H,3,6,H47" playid="25,7,187" type="P" pcode="MI" first="P" text="McCoy, Colt middle pass complete to Kirkendoll, Jam for 10 yards to the ULM43, 1ST DOWN UT (James, Greg)." newcontext="H,1,10,V43">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Kirkendoll, Jam" gain="10"></p_pa>
+    <p_tk vh="V" name="James, Greg"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM43" context="H,1,10,V43" playid="25,8,188" type="P" pcode="RS" text="McCoy, Colt RS pass complete to Shipley, Jordan for 7 yards to the ULM36 (Blake, Alex)." newcontext="H,2,3,V36">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Shipley, Jordan" gain="7"></p_pa>
+    <p_tk vh="V" name="Blake, Alex"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="3" spot="ULM36" context="H,2,3,V36" playid="25,9,189" type="R" pcode="LE" text="Monroe, D.J. rush over left end for 2 yards to the ULM34 (Blake, Alex)." newcontext="H,3,1,V34">
+    <p_ru vh="H" name="Monroe, D.J." gain="2"></p_ru>
+    <p_tk vh="V" name="Blake, Alex"></p_tk>
+   </play>
+   <play hasball="UT" down="3" togo="1" spot="ULM34" context="H,3,1,V34" playid="25,10,190" type="R" pcode="RE" first="R" text="McGee, Vondrell rush over right end for 5 yards to the ULM29, 1ST DOWN UT (Ibe, Alex)." newcontext="H,1,10,V29">
+    <p_ru vh="H" name="McGee, Vondrell" gain="5"></p_ru>
+    <p_tk vh="V" name="Ibe, Alex"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM29" context="H,1,10,V29" playid="25,11,191" type="P" pcode="RS" first="P" text="McCoy, Colt RS pass complete to Williams, Malco for 16 yards to the ULM13, 1ST DOWN UT (Blake, Alex)." newcontext="H,1,10,V13">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Williams, Malco" gain="16"></p_pa>
+    <p_tk vh="V" name="Blake, Alex"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM13" context="H,1,10,V13" playid="25,12,192" type="P" pcode="RF" text="McCoy, Colt RF pass complete to Shipley, Jordan for 9 yards to the ULM4 (Smith, Theo)." newcontext="H,2,1,V04">
+    <p_pa vh="H" qb="McCoy, Colt" result="COMP" rcv="Shipley, Jordan" gain="9"></p_pa>
+    <p_tk vh="V" name="Smith, Theo"></p_tk>
+   </play>
+   <score qtr="3" V="10" H="45"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="ULM">
+    <firstdowns no="4" rush="0" pass="3" penalty="1"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="2" lost="1"></fumbles>
+    <misc yds="0" top="06:09"></misc>
+    <rush att="7" yds="-10" gain="6" loss="16" td="0" long="0"></rush>
+    <pass comp="3" att="10" int="1" yds="49" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="49" td="0" long="0"></rcv>
+    <punt no="1" yds="39" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="39.0"></punt>
+    <ko no="1" yds="60" ob="0" tb="0"></ko>
+    <defense tackua="17" tacka="4" tot_tack="21" tflua="1" tfla="0" tflyds="3" sacks="2" sackyds="11" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="19" td="0" long="0"></kr>
+    <fumbles no="2" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UT">
+    <firstdowns no="9" rush="5" pass="3" penalty="1"></firstdowns>
+    <penalties no="2" yds="18"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="08:51"></misc>
+    <rush att="14" yds="89" gain="92" loss="3" td="0" long="11"></rush>
+    <pass comp="5" att="6" int="0" yds="56" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="56" td="1" long="0"></rcv>
+    <punt no="1" yds="34" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="34.0"></punt>
+    <ko no="1" yds="59" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="5" tacka="6" tot_tack="11" tflua="2" tfla="0" tflyds="8" sacks="0" sackyds="0" brup="2" qbh="2" fr="1" fryds="0" int="1" intyds="0"></defense>
+    <kr no="1" yds="22" td="0" long="0"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="UT" down="2" togo="1" spot="ULM04" context="H,2,1,V04" playid="25,13,193" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,2,1,V04">
+   </play>
+   <play hasball="UT" down="2" togo="1" spot="ULM04" context="H,2,1,V04" playid="25,14,194" type="R" pcode="RT" first="R" score="Y" clock="14:56" text="McGee, Vondrell rush over right tackle for 4 yards to the ULM0, 1ST DOWN UT, TOUCHDOWN, clock 14:56." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="McGee, Vondrell" gain="4"></p_ru>
+   </play>
+   <play hasball="UT" down="1" togo="0" spot="ULM03" context="H,1,0,V03" playid="25,15,195" type="X" score="Y" text="Bailey, Ryan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Bailey, Ryan" qb="Bailey, Ryan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="52"></score>
+   <drivesum plays="11" yards="97" top="4:47" driveindex="25" complete="Y"></drivesum>
+   <play hasball="UT" down="1" togo="0" spot="UT30" context="H,1,0,H30" playid="25,16,196" type="K" text="Tucker, Justin kickoff 69 yards to the ULM1, McNeal, Darrell return 14 yards to the ULM15 (Ford, Clark)." newcontext="V,1,10,V15">
+    <p_ko vh="H" name="Tucker, Justin" gain="69"></p_ko>
+    <p_kr vh="V" name="McNeal, Darrell" gain="14"></p_kr>
+    <p_tk vh="H" name="Ford, Clark"></p_tk>
+   </play>
+   <drivestart poss="V,V15,14:56" vh="V" spot="V15" clock="14:56" driveindex="26,196"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="ULM15" context="V,1,10,V15" playid="26,1,197" clock="14:51" text="ULM drive start at 14:51." newcontext="V,1,10,V15">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM15" context="V,1,10,V15" playid="26,2,198" type="R" pcode="MI" first="R" text="Goodin, Frank rush up middle for 31 yards to the ULM46, 1ST DOWN ULM, out-of-bounds (Gideon, Blake)." ob="Y" newcontext="V,1,10,V46">
+    <p_ru vh="V" name="Goodin, Frank" gain="31"></p_ru>
+    <p_tk vh="H" name="Gideon, Blake"></p_tk>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM46" context="V,1,10,V46" playid="26,3,199" type="R" pcode="MI" text="Frazier, Gary rush up middle for 2 yards to the ULM48 (Acho, Emmanuel)." newcontext="V,2,8,V48">
+    <p_ru vh="V" name="Frazier, Gary" gain="2"></p_ru>
+    <p_tk vh="H" name="Acho, Emmanuel"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="8" spot="ULM48" context="V,2,8,V48" playid="26,4,200" type="R" pcode="MI" first="R" text="Goodin, Frank rush up middle for 19 yards to the UT33, 1ST DOWN ULM (Jones, Eddie), PENALTY UT face mask (Howell, Calvin) 15 yards to the UT18, 1ST DOWN ULM." newcontext="V,1,10,H18">
+    <p_ru vh="V" name="Goodin, Frank" gain="19"></p_ru>
+    <p_tk vh="H" name="Jones, Eddie"></p_tk>
+    <p_pn vh="H" code="FM" type="face mask" name="Howell, Calvin" result="ACCEPT" at="H33" yards="15"></p_pn>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT18" context="V,1,10,H18" playid="26,5,201" text="1st and 10." newcontext="V,1,10,H18">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT18" context="V,1,10,H18" playid="26,6,202" type="R" pcode="MI" text="Goodin, Frank rush up middle for 1 yard to the UT17 (Okafor, Alex)." newcontext="V,2,9,H17">
+    <p_ru vh="V" name="Goodin, Frank" gain="1"></p_ru>
+    <p_tk vh="H" name="Okafor, Alex"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="9" spot="UT17" context="V,2,9,H17" playid="26,7,203" type="R" pcode="RL" text="Goodin, Frank rush RL for loss of 4 yards to the UT21 (Robinson, Keena;Okafor, Alex)." newcontext="V,3,13,H21">
+    <p_ru vh="V" name="Goodin, Frank" gain="-4"></p_ru>
+    <p_tk vh="H" name="Robinson, Keena" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Okafor, Alex" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="3" togo="13" spot="UT21" context="V,3,13,H21" playid="26,8,204" type="E" pcode="PO" first="E" text="Revell, Trey post pass incomplete to Sapp, LaGregory, PENALTY UT roughing passer (Randall, Kheest) 10 yards to the UT11, 1ST DOWN ULM, NO PLAY." newcontext="V,1,10,H11">
+    <p_pn vh="H" code="RP" type="roughing passer" name="Randall, Kheest" result="ACCEPT" at="H21" yards="10"></p_pn>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT11" context="V,1,10,H11" playid="26,9,205" type="#" clock="12:17" text="Timeout ULM, clock 12:17." newcontext="V,1,10,H11">
+    <p_to vh="V" team="ULM"></p_to>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT11" context="V,1,10,H11" playid="26,10,206" type="P" pcode="LS" text="Revell, Trey LS pass complete to Sapp, LaGregory for 7 yards to the UT4 (Williams, Aaron)." newcontext="V,2,3,H04">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="Sapp, LaGregory" gain="7"></p_pa>
+    <p_tk vh="H" name="Williams, Aaron"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="3" spot="UT04" context="V,2,3,H04" playid="26,11,207" type="R" pcode="LE" text="Goodin, Frank rush over left end for no gain to the UT4, out-of-bounds (Gideon, Blake;Okafor, Alex)." ob="Y" newcontext="V,3,3,H04">
+    <p_ru vh="V" name="Goodin, Frank" gain="0"></p_ru>
+    <p_tk vh="H" name="Gideon, Blake" assist="Y"></p_tk>
+    <p_tk vh="H" name="Okafor, Alex" assist="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="3" togo="3" spot="UT04" context="V,3,3,H04" playid="26,12,208" type="P" pcode="FL" text="Revell, Trey flag pass incomplete to McNeal, Darrell, QB hurry by Acho, Emmanuel." newcontext="V,4,3,H04">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="McNeal, Darrell"></p_pa>
+    <p_qbh vh="H" name="Acho, Emmanuel"></p_qbh>
+   </play>
+   <play hasball="ULM" down="4" togo="3" spot="UT04" context="V,4,3,H04" playid="26,13,209" type="F" score="Y" clock="11:28" text="Jabour, Radi field goal attempt from 21 GOOD, clock 11:28." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Jabour, Radi" distance="21" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="13" H="52"></score>
+   <drivesum plays="9" yards="81" top="3:23" driveindex="26" complete="Y"></drivesum>
+   <play hasball="ULM" down="1" togo="0" spot="ULM30" context="V,1,0,V30" playid="26,14,210" type="K" text="Clayton, Grant kickoff 61 yards to the UT9, Goodwin, Marqui return 18 yards to the UT27 (Landry, Jordan)." newcontext="H,1,10,H27">
+    <p_ko vh="V" name="Clayton, Grant" gain="61"></p_ko>
+    <p_kr vh="H" name="Goodwin, Marqui" gain="18"></p_kr>
+    <p_tk vh="V" name="Landry, Jordan"></p_tk>
+   </play>
+   <drivestart poss="H,H27,11:28" vh="H" spot="H27" clock="11:28" driveindex="27,210"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="UT27" context="H,1,10,H27" playid="27,1,211" clock="11:22" text="TEXAS drive start at 11:22." newcontext="H,1,10,H27">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT27" context="H,1,10,H27" playid="27,2,212" type="P" pcode="LS" text="Gilbert, Garret LS pass complete to Goodwin, Marqui for 3 yards to the UT30." newcontext="H,2,7,H30">
+    <p_pa vh="H" qb="Gilbert, Garret" result="COMP" rcv="Goodwin, Marqui" gain="3"></p_pa>
+   </play>
+   <play hasball="UT" down="2" togo="7" spot="UT30" context="H,2,7,H30" playid="27,3,213" type="P" text="Gilbert, Garret pass incomplete to Hales, DeSean (Prelow, Darius)." newcontext="H,3,7,H30">
+    <p_pa vh="H" qb="Gilbert, Garret" result="INC" rcv="Hales, DeSean"></p_pa>
+    <p_bu vh="V" name="Prelow, Darius"></p_bu>
+   </play>
+   <play hasball="UT" down="3" togo="7" spot="UT30" context="H,3,7,H30" playid="27,4,214" type="P" pcode="LS" first="P" text="Gilbert, Garret LS pass complete to Goodwin, Marqui for 7 yards to the UT37, 1ST DOWN UT." newcontext="H,1,10,H37">
+    <p_pa vh="H" qb="Gilbert, Garret" result="COMP" rcv="Goodwin, Marqui" gain="7"></p_pa>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT37" context="H,1,10,H37" playid="27,5,215" type="R" pcode="MI" text="Monroe, D.J. rush up middle for 4 yards to the UT41 (Landry, Jordan)." newcontext="H,2,6,H41">
+    <p_ru vh="H" name="Monroe, D.J." gain="4"></p_ru>
+    <p_tk vh="V" name="Landry, Jordan"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="6" spot="UT41" context="H,2,6,H41" playid="27,6,216" type="P" pcode="WR" first="P" text="Gilbert, Garret WR pass complete to Goodwin, Marqui for 29 yards to the ULM30, 1ST DOWN UT (James, Greg)." newcontext="H,1,10,V30">
+    <p_pa vh="H" qb="Gilbert, Garret" result="COMP" rcv="Goodwin, Marqui" gain="29"></p_pa>
+    <p_tk vh="V" name="James, Greg"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM30" context="H,1,10,V30" playid="27,7,217" type="R" pcode="LT" text="Newton, Tre' rush over left tackle for 6 yards to the ULM24 (Truxillo, James)." newcontext="H,2,4,V24">
+    <p_ru vh="H" name="Newton, Tre'" gain="6"></p_ru>
+    <p_tk vh="V" name="Truxillo, James"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="4" spot="ULM24" context="H,2,4,V24" playid="27,8,218" type="P" pcode="LS" first="P" text="Gilbert, Garret LS pass complete to Payne, Phillip for 7 yards to the ULM17, 1ST DOWN UT (James, Greg)." newcontext="H,1,10,V17">
+    <p_pa vh="H" qb="Gilbert, Garret" result="COMP" rcv="Payne, Phillip" gain="7"></p_pa>
+    <p_tk vh="V" name="James, Greg"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM17" context="H,1,10,V17" playid="27,9,219" type="R" pcode="MI" text="Monroe, D.J. rush up middle for 2 yards to the ULM15 (Thomas, Josh)." newcontext="H,2,8,V15">
+    <p_ru vh="H" name="Monroe, D.J." gain="2"></p_ru>
+    <p_tk vh="V" name="Thomas, Josh"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="8" spot="ULM15" context="H,2,8,V15" playid="27,10,220" type="R" pcode="LT" text="Newton, Tre' rush over left tackle for 3 yards to the ULM12 (Jordan, Jameson)." newcontext="H,3,5,V12">
+    <p_ru vh="H" name="Newton, Tre'" gain="3"></p_ru>
+    <p_tk vh="V" name="Jordan, Jameson"></p_tk>
+   </play>
+   <play hasball="UT" down="3" togo="5" spot="ULM12" context="H,3,5,V12" playid="27,11,221" type="R" pcode="QD" first="R" score="Y" clock="07:16" text="Gilbert, Garret rush quarterback draw for 12 yards to the ULM0, 1ST DOWN UT, TOUCHDOWN, clock 07:16." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Gilbert, Garret" gain="12"></p_ru>
+   </play>
+   <play hasball="UT" down="1" togo="0" spot="ULM03" context="H,1,0,V03" playid="27,12,222" type="X" score="Y" text="Bailey, Ryan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Bailey, Ryan" qb="Bailey, Ryan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="13" H="59"></score>
+   <drivesum plays="10" yards="73" top="4:06" driveindex="27" complete="Y"></drivesum>
+   <play hasball="UT" down="1" togo="0" spot="UT30" context="H,1,0,H30" playid="27,13,223" type="K" text="Lawrence, Hunte kickoff 60 yards to the ULM10, McNeal, Darrell return 21 yards to the ULM31 (Vaccaro, Kenny)." newcontext="V,1,10,V31">
+    <p_ko vh="H" name="Lawrence, Hunte" gain="60"></p_ko>
+    <p_kr vh="V" name="McNeal, Darrell" gain="21"></p_kr>
+    <p_tk vh="H" name="Vaccaro, Kenny"></p_tk>
+   </play>
+   <drivestart poss="V,V31,07:16" vh="V" spot="V31" clock="07:16" driveindex="28,223"></drivestart>
+   <play hasball="ULM" down="1" togo="10" spot="ULM31" context="V,1,10,V31" playid="28,1,224" clock="07:11" text="ULM drive start at 07:11." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM31" context="V,1,10,V31" playid="28,2,225" type="R" pcode="LT" text="Frazier, Gary rush over left tackle for no gain to the ULM31 (Vaccaro, Kenny)." newcontext="V,2,10,V31">
+    <p_ru vh="V" name="Frazier, Gary" gain="0"></p_ru>
+    <p_tk vh="H" name="Vaccaro, Kenny"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="10" spot="ULM31" context="V,2,10,V31" playid="28,3,226" type="P" pcode="MI" text="Revell, Trey middle pass incomplete to Milton, Keavon." newcontext="V,3,10,V31">
+    <p_pa vh="V" qb="Revell, Trey" result="INC" rcv="Milton, Keavon"></p_pa>
+   </play>
+   <play hasball="ULM" down="3" togo="10" spot="ULM31" context="V,3,10,V31" playid="28,4,227" type="P" pcode="RS" first="P" text="Revell, Trey RS pass complete to Taylor, Tim for 11 yards to the ULM42, 1ST DOWN ULM, out-of-bounds (Ford, Clark)." ob="Y" newcontext="V,1,10,V42">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="Taylor, Tim" gain="11"></p_pa>
+    <p_tk vh="H" name="Ford, Clark"></p_tk>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="ULM42" context="V,1,10,V42" playid="28,5,228" type="E" first="E" text="PENALTY UT roughing passer (Howell, Calvin) 15 yards to the UT43, 1ST DOWN ULM." newcontext="V,1,10,H43">
+    <p_pn vh="H" code="RP" type="roughing passer" name="Howell, Calvin" result="ACCEPT" at="V42" yards="15"></p_pn>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT43" context="V,1,10,H43" playid="28,6,229" type="R" pcode="LE" text="Frazier, Gary rush over left end for 5 yards to the UT38 (Vaccaro, Kenny)." newcontext="V,2,5,H38">
+    <p_ru vh="V" name="Frazier, Gary" gain="5"></p_ru>
+    <p_tk vh="H" name="Vaccaro, Kenny"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="5" spot="UT38" context="V,2,5,H38" playid="28,7,230" type="P" pcode="OUT" first="P" text="Revell, Trey OUT pass complete to Leonard, Brent for 6 yards to the UT32, 1ST DOWN ULM (Wells, Ben)." newcontext="V,1,10,H32">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="Leonard, Brent" gain="6"></p_pa>
+    <p_tk vh="H" name="Wells, Ben"></p_tk>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT32" context="V,1,10,H32" playid="28,8,231" type="R" pcode="MI" text="Goodin, Frank rush up middle for 3 yards to the UT29 (Ford, Clark;Carter, Russell)." newcontext="V,2,7,H29">
+    <p_ru vh="V" name="Goodin, Frank" gain="3"></p_ru>
+    <p_tk vh="H" name="Ford, Clark" assist="Y"></p_tk>
+    <p_tk vh="H" name="Carter, Russell" assist="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="2" togo="7" spot="UT29" context="V,2,7,H29" playid="28,9,232" type="R" pcode="LG" text="Frazier, Gary rush over left guard for 1 yard to the UT28 (Vaccaro, Kenny;Howell, Calvin)." newcontext="V,3,6,H28">
+    <p_ru vh="V" name="Frazier, Gary" gain="1"></p_ru>
+    <p_tk vh="H" name="Vaccaro, Kenny" assist="Y"></p_tk>
+    <p_tk vh="H" name="Howell, Calvin" assist="Y"></p_tk>
+   </play>
+   <play hasball="ULM" down="3" togo="6" spot="UT28" context="V,3,6,H28" playid="28,10,233" type="P" pcode="MI" first="P" text="Revell, Trey middle pass complete to Sapp, LaGregory for 15 yards to the UT13, 1ST DOWN ULM (Wells, Ben)." newcontext="V,1,10,H13">
+    <p_pa vh="V" qb="Revell, Trey" result="COMP" rcv="Sapp, LaGregory" gain="15"></p_pa>
+    <p_tk vh="H" name="Wells, Ben"></p_tk>
+   </play>
+   <play hasball="ULM" down="1" togo="10" spot="UT13" context="V,1,10,H13" playid="28,11,234" type="R" pcode="MI" first="R" score="Y" clock="02:55" text="Goodin, Frank rush up middle for 13 yards to the UT0, 1ST DOWN ULM, TOUCHDOWN, clock 02:55." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Goodin, Frank" gain="13"></p_ru>
+   </play>
+   <play hasball="ULM" down="1" togo="0" spot="UT03" context="V,1,0,H03" playid="28,12,235" type="X" score="Y" text="Jabour, Radi kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Jabour, Radi" qb="Jabour, Radi" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="20" H="59"></score>
+   <drivesum plays="9" yards="69" top="4:16" driveindex="28" complete="Y"></drivesum>
+   <play hasball="ULM" down="1" togo="0" spot="ULM30" context="V,1,0,V30" playid="28,13,236" type="K" text="Clayton, Grant kickoff 63 yards to the UT7, out-of-bounds, UT ball on UT40." ob="Y" newcontext="H,1,10,H40">
+    <p_ko vh="V" name="Clayton, Grant" gain="63" result="O"></p_ko>
+   </play>
+   <drivestart poss="H,H40,02:55" vh="H" spot="H40" clock="02:55" driveindex="29,236"></drivestart>
+   <play hasball="UT" down="1" togo="10" spot="UT40" context="H,1,10,H40" playid="29,1,237" clock="02:55" text="TEXAS drive start at 02:55." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT40" context="H,1,10,H40" playid="29,2,238" text="Harris, Sherrod at QB for Texas." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="UT40" context="H,1,10,H40" playid="29,3,239" type="R" pcode="RG" first="R" text="Newton, Tre' rush over right guard for 17 yards to the ULM43, 1ST DOWN UT (Prelow, Darius)." newcontext="H,1,10,V43">
+    <p_ru vh="H" name="Newton, Tre'" gain="17"></p_ru>
+    <p_tk vh="V" name="Prelow, Darius"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM43" context="H,1,10,V43" playid="29,4,240" type="R" pcode="MI" text="Newton, Tre' rush up middle for 2 yards to the ULM41 (Moore, Aaron)." newcontext="H,2,8,V41">
+    <p_ru vh="H" name="Newton, Tre'" gain="2"></p_ru>
+    <p_tk vh="V" name="Moore, Aaron"></p_tk>
+   </play>
+   <play hasball="UT" down="2" togo="8" spot="ULM41" context="H,2,8,V41" playid="29,5,241" type="R" pcode="LT" first="R" text="Monroe, D.J. rush over left tackle for 9 yards to the ULM32, 1ST DOWN UT (Blake, Alex)." newcontext="H,1,10,V32">
+    <p_ru vh="H" name="Monroe, D.J." gain="9"></p_ru>
+    <p_tk vh="V" name="Blake, Alex"></p_tk>
+   </play>
+   <play hasball="UT" down="1" togo="10" spot="ULM32" context="H,1,10,V32" playid="29,6,242" type="R" pcode="LS" text="Harris, Sherrod rush LS for 4 yards to the ULM28." newcontext="H,2,6,V28">
+    <p_ru vh="H" name="Harris, Sherrod" gain="4"></p_ru>
+   </play>
+   <play hasball="UT" down="2" togo="6" spot="ULM28" context="H,2,6,V28" playid="29,7,243" type="E" text="PENALTY UT delay of game (Harris, Sherrod) 5 yards to the ULM33." newcontext="H,2,11,V33">
+    <p_pn vh="H" code="DG" type="delay of game" name="Harris, Sherrod" result="ACCEPT" at="V28" yards="5"></p_pn>
+   </play>
+   <play hasball="UT" down="2" togo="11" spot="ULM33" context="H,2,11,V33" playid="29,8,244" type="R" pcode="LE" text="Berryhill, Jami rush over left end for loss of 3 yards to the ULM36 (Morgan, Aaron)." newcontext="H,3,14,V36">
+    <p_ru vh="H" name="Berryhill, Jami" gain="-3"></p_ru>
+    <p_tk vh="V" name="Morgan, Aaron" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UT" down="3" togo="14" spot="ULM36" context="H,3,14,V36" playid="29,9,245" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,3,14,V36">
+   </play>
+   <drivesum plays="5" yards="24" top="2:55" driveindex="29" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Texas defeats ULM by a score of 59 to 20."></play>
+   <score final="Y" V="20" H="59"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="ULM">
+    <firstdowns no="9" rush="3" pass="3" penalty="3"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:49"></misc>
+    <rush att="11" yds="71" gain="75" loss="4" td="1" long="15"></rush>
+    <pass comp="4" att="6" int="0" yds="39" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="39" td="0" long="0"></rcv>
+    <ko no="2" yds="124" ob="1" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="0" tot_tack="11" tflua="1" tfla="0" tflyds="3" sacks="2" sackyds="11" brup="1"></defense>
+    <kr no="2" yds="35" td="0" long="0"></kr>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UT">
+    <firstdowns no="7" rush="4" pass="3" penalty="0"></firstdowns>
+    <penalties no="4" yds="45"></penalties>
+    <conversions thirdconv="4" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:11"></misc>
+    <rush att="11" yds="60" gain="63" loss="3" td="2" long="0"></rush>
+    <pass comp="4" att="5" int="0" yds="46" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="46" td="0" long="0"></rcv>
+    <ko no="2" yds="129" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="12" tacka="8" tot_tack="20" tflua="2" tfla="0" tflyds="8" sacks="0" sackyds="0" qbh="1"></defense>
+    <kr no="1" yds="18" td="0" long="0"></kr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="UT" down="3" togo="14" spot="ULM36" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="2" htor="3" dtgtext="Game Over" ldtext="Drive started: 02:55, 4th Qtr"></downtogo>
+ </plays>

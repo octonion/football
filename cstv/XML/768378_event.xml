@@ -1,0 +1,1098 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="UCO" down="1" togo="10" spot="UCO30" context="V,1,10,V30" playid="0,1,0" text="WT wins toss, deferred to second half" newcontext="V,1,10,V30">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO30" context="V,1,10,V30" playid="0,2,1" text="WTAMU ball on WTAMU30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU30" context="H,1,10,H30" playid="0,3,2" type="K" text="James Chandler kickoff 70 yards to the UCO0, K. Hendricks return 21 yards to the UCO21 (Bryan Braman;Eugene Sims)." newcontext="V,1,10,V21">
+    <p_ko vh="H" name="James Chandler" gain="70"></p_ko>
+    <p_kr vh="V" name="K. Hendricks" gain="21"></p_kr>
+    <p_tk vh="H" name="Bryan Braman" assist="Y"></p_tk>
+    <p_tk vh="H" name="Eugene Sims" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V21,15:00" vh="V" spot="V21" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO21" context="V,1,10,V21" playid="1,1,3" type="P" text="Brandon Noohi pass complete to K. Hendricks for loss of 2 yards to the UCO19 (Chris Brown)." newcontext="V,2,12,V19">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="K. Hendricks" gain="-2"></p_pa>
+    <p_tk vh="H" name="Chris Brown" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="12" spot="UCO19" context="V,2,12,V19" playid="1,2,4" type="R" text="Ben Birmingham rush for 6 yards to the UCO25 (Anthony Scott;Chris Brown)." newcontext="V,3,6,V25">
+    <p_ru vh="V" name="Ben Birmingham" gain="6"></p_ru>
+    <p_tk vh="H" name="Anthony Scott" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chris Brown" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="6" spot="UCO25" context="V,3,6,V25" playid="1,3,5" type="P" first="P" text="Brandon Noohi pass complete to Ryan Gallimore for 50 yards to the WTAMU25, 1ST DOWN UCO (Curtis Jefferso)." newcontext="V,1,10,H25">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Ryan Gallimore" gain="50"></p_pa>
+    <p_tk vh="H" name="Curtis Jefferso"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU25" context="V,1,10,H25" playid="1,4,6" type="E" text="Brandon Noohi pass incomplete to Ben Birmingham (Bryan Braman), PENALTY WTAMU offside (B. Marshall) 5 yards to the WTAMU20, NO PLAY." newcontext="V,1,5,H20">
+    <p_pn vh="H" code="OS" type="offside" name="B. Marshall" result="ACCEPT" at="H25" yards="5"></p_pn>
+   </play>
+   <play hasball="UCO" down="1" togo="5" spot="WTAMU20" context="V,1,5,H20" playid="1,5,7" type="R" text="Ben Birmingham rush for 4 yards to the WTAMU16 (B. Marshall)." newcontext="V,2,1,H16">
+    <p_ru vh="V" name="Ben Birmingham" gain="4"></p_ru>
+    <p_tk vh="H" name="B. Marshall"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="1" spot="WTAMU16" context="V,2,1,H16" playid="1,6,8" type="P" first="P" text="Brandon Noohi pass complete to K. Hendricks for 5 yards to the WTAMU11, 1ST DOWN UCO (Chris Brown)." newcontext="V,1,10,H11">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="K. Hendricks" gain="5"></p_pa>
+    <p_tk vh="H" name="Chris Brown"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU11" context="V,1,10,H11" playid="1,7,9" type="P" text="Brandon Noohi pass incomplete to Ryan Gallimore." newcontext="V,2,10,H11">
+    <p_pa vh="V" qb="Brandon Noohi" result="INC" rcv="Ryan Gallimore"></p_pa>
+   </play>
+   <play hasball="UCO" down="2" togo="10" spot="WTAMU11" context="V,2,10,H11" playid="1,8,10" type="R" text="Daniel Morrell rush for 1 yard to the WTAMU10 (Curtis Jefferso)." newcontext="V,3,9,H10">
+    <p_ru vh="V" name="Daniel Morrell" gain="1"></p_ru>
+    <p_tk vh="H" name="Curtis Jefferso"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="9" spot="WTAMU10" context="V,3,9,H10" playid="1,9,11" type="P" text="Brandon Noohi pass incomplete to Daniel Morrell." newcontext="V,4,9,H10">
+    <p_pa vh="V" qb="Brandon Noohi" result="INC" rcv="Daniel Morrell"></p_pa>
+   </play>
+   <play hasball="UCO" down="4" togo="9" spot="WTAMU10" context="V,4,9,H10" playid="1,10,12" type="F" clock="11:42" text="Ross Weaver field goal attempt from 27 MISSED - wide right, spot at WTAMU20, clock 11:42." newcontext="H,1,10,H20">
+    <p_fg vh="V" name="Ross Weaver" distance="27" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="9" yards="69" top="3:18" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,H20,11:42" vh="H" spot="H20" clock="11:42" driveindex="2,12"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU20" context="H,1,10,H20" playid="2,1,13" clock="11:42" text="WEST TEXAS A&amp;M drive start at 11:42." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU20" context="H,1,10,H20" playid="2,2,14" type="P" text="Taylor Harris pass complete to Brittan Golden for 7 yards to the WTAMU27 (Prentice Muse;Tucker Cason)." newcontext="H,2,3,H27">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Brittan Golden" gain="7"></p_pa>
+    <p_tk vh="V" name="Prentice Muse" assist="Y"></p_tk>
+    <p_tk vh="V" name="Tucker Cason" assist="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="3" spot="WTAMU27" context="H,2,3,H27" playid="2,3,15" type="P" first="P" text="Taylor Harris pass complete to Kelvin Thompson for 20 yards to the WTAMU47, 1ST DOWN WTAMU (Terry Hardeman)." newcontext="H,1,10,H47">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Kelvin Thompson" gain="20"></p_pa>
+    <p_tk vh="V" name="Terry Hardeman"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU47" context="H,1,10,H47" playid="2,4,16" type="R" text="Kelvin Thompson rush for loss of 2 yards to the WTAMU45 (Terry Hardeman)." newcontext="H,2,12,H45">
+    <p_ru vh="H" name="Kelvin Thompson" gain="-2"></p_ru>
+    <p_tk vh="V" name="Terry Hardeman" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="12" spot="WTAMU45" context="H,2,12,H45" playid="2,5,17" type="P" text="Taylor Harris pass incomplete to A J. Ruffins." newcontext="H,3,12,H45">
+    <p_pa vh="H" qb="Taylor Harris" result="INC" rcv="A J. Ruffins"></p_pa>
+   </play>
+   <play hasball="WTAMU" down="3" togo="12" spot="WTAMU45" context="H,3,12,H45" playid="2,6,18" type="P" turnover="I" text="Taylor Harris pass intercepted by Prentice Muse at the UCO33, Prentice Muse return 0 yards to the UCO33." newcontext="V,1,10,V33">
+    <p_pa vh="H" qb="Taylor Harris" result="INT"></p_pa>
+    <p_ir vh="V" name="Prentice Muse" at="V33" gain="0"></p_ir>
+   </play>
+   <drivesum plays="5" yards="25" top="1:47" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,V33,11:42" vh="V" spot="V33" clock="11:42" driveindex="3,18"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO33" context="V,1,10,V33" playid="3,1,19" clock="09:55" text="UCO drive start at 09:55." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO33" context="V,1,10,V33" playid="3,2,20" type="P" text="Brandon Noohi pass complete to Matt Jackson for 3 yards to the UCO36 (Mark Ford)." newcontext="V,2,7,V36">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Matt Jackson" gain="3"></p_pa>
+    <p_tk vh="H" name="Mark Ford"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="7" spot="UCO36" context="V,2,7,V36" playid="3,3,21" type="R" first="R" text="Ben Birmingham rush for 8 yards to the UCO44, 1ST DOWN UCO (Curtis Jefferso)." newcontext="V,1,10,V44">
+    <p_ru vh="V" name="Ben Birmingham" gain="8"></p_ru>
+    <p_tk vh="H" name="Curtis Jefferso"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO44" context="V,1,10,V44" playid="3,4,22" type="R" text="Ben Birmingham rush for 9 yards to the WTAMU47 (Jordan Smith;Chris Brown)." newcontext="V,2,1,H47">
+    <p_ru vh="V" name="Ben Birmingham" gain="9"></p_ru>
+    <p_tk vh="H" name="Jordan Smith" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chris Brown" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="1" spot="WTAMU47" context="V,2,1,H47" playid="3,5,23" type="R" first="R" text="Ben Birmingham rush for 3 yards to the WTAMU44, 1ST DOWN UCO (Kevin McCluskey;Chris Brown)." newcontext="V,1,10,H44">
+    <p_ru vh="V" name="Ben Birmingham" gain="3"></p_ru>
+    <p_tk vh="H" name="Kevin McCluskey" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chris Brown" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU44" context="V,1,10,H44" playid="3,6,24" type="P" text="Brandon Noohi pass incomplete to Ryan Gallimore." newcontext="V,2,10,H44">
+    <p_pa vh="V" qb="Brandon Noohi" result="INC" rcv="Ryan Gallimore"></p_pa>
+   </play>
+   <play hasball="UCO" down="2" togo="10" spot="WTAMU44" context="V,2,10,H44" playid="3,7,25" type="P" text="Brandon Noohi pass complete to Daniel Morrell for 2 yards to the WTAMU42." newcontext="V,3,8,H42">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Daniel Morrell" gain="2"></p_pa>
+   </play>
+   <play hasball="UCO" down="3" togo="8" spot="WTAMU42" context="V,3,8,H42" playid="3,8,26" type="P" turnover="I" text="Brandon Noohi pass intercepted by Caleb Randolph at the WTAMU37, Caleb Randolph return 0 yards to the WTAMU37, PENALTY WTAMU illegal block 0 yards to the WTAMU37, 1st and 10, WTAMU ball on WTAMU37." newcontext="H,1,10,H37">
+    <p_pa vh="V" qb="Brandon Noohi" result="INT"></p_pa>
+    <p_ir vh="H" name="Caleb Randolph" at="H37" gain="0"></p_ir>
+    <p_pn vh="H" code="BL" type="illegal block" result="ACCEPT"></p_pn>
+   </play>
+   <drivesum plays="7" yards="25" top="2:09" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,H37,09:55" vh="H" spot="H37" clock="09:55" driveindex="4,26"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU37" context="H,1,10,H37" playid="4,1,27" clock="07:46" text="WEST TEXAS A&amp;M drive start at 07:46." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU37" context="H,1,10,H37" playid="4,2,28" type="P" first="P" text="Brittan Golden pass complete to A J. Ruffins for 51 yards to the UCO12, 1ST DOWN WTAMU (C. Milton)." newcontext="H,1,10,V12">
+    <p_pa vh="H" qb="Brittan Golden" result="COMP" rcv="A J. Ruffins" gain="51"></p_pa>
+    <p_tk vh="V" name="C. Milton"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="UCO12" context="H,1,10,V12" playid="4,3,29" type="R" text="Kelvin Thompson rush for loss of 1 yard to the UCO13 (Terry Hardeman)." newcontext="H,2,11,V13">
+    <p_ru vh="H" name="Kelvin Thompson" gain="-1"></p_ru>
+    <p_tk vh="V" name="Terry Hardeman" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="11" spot="UCO13" context="H,2,11,V13" playid="4,4,30" type="R" text="Kelvin Thompson rush for 5 yards to the UCO8 (Terrence Hill;Prentice Muse)." newcontext="H,3,6,V08">
+    <p_ru vh="H" name="Kelvin Thompson" gain="5"></p_ru>
+    <p_tk vh="V" name="Terrence Hill" assist="Y"></p_tk>
+    <p_tk vh="V" name="Prentice Muse" assist="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="3" togo="6" spot="UCO08" context="H,3,6,V08" playid="4,5,31" type="P" text="Taylor Harris pass complete to A J. Ruffins for 3 yards to the UCO5 (Jermelle Cudjo;Terry Hardeman)." newcontext="H,4,3,V05">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="A J. Ruffins" gain="3"></p_pa>
+    <p_tk vh="V" name="Jermelle Cudjo" assist="Y"></p_tk>
+    <p_tk vh="V" name="Terry Hardeman" assist="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="4" togo="3" spot="UCO05" context="H,4,3,V05" playid="4,6,32" type="F" score="Y" clock="05:31" text="James Chandler field goal attempt from 22 GOOD, clock 05:31." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="James Chandler" distance="22" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="3"></score>
+   <drivesum plays="5" yards="58" top="2:15" driveindex="4" complete="Y"></drivesum>
+   <play hasball="WTAMU" down="1" togo="0" spot="WTAMU30" context="H,1,0,H30" playid="4,7,33" type="K" text="James Chandler kickoff 68 yards to the UCO2, K. Hendricks return 9 yards to the UCO11 (Eugene Sims)." newcontext="V,1,10,V11">
+    <p_ko vh="H" name="James Chandler" gain="68"></p_ko>
+    <p_kr vh="V" name="K. Hendricks" gain="9"></p_kr>
+    <p_tk vh="H" name="Eugene Sims"></p_tk>
+   </play>
+   <drivestart poss="V,V11,05:31" vh="V" spot="V11" clock="05:31" driveindex="5,33"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO11" context="V,1,10,V11" playid="5,1,34" clock="05:26" text="UCO drive start at 05:26." newcontext="V,1,10,V11">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO11" context="V,1,10,V11" playid="5,2,35" type="R" text="Brandon Noohi rush for 1 yard to the UCO12 (Aaron Wampler)." newcontext="V,2,9,V12">
+    <p_ru vh="V" name="Brandon Noohi" gain="1"></p_ru>
+    <p_tk vh="H" name="Aaron Wampler"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="9" spot="UCO12" context="V,2,9,V12" playid="5,3,36" type="P" first="P" text="Brandon Noohi pass complete to Matt Jackson for 11 yards to the UCO23, 1ST DOWN UCO (Jordan Smith)." newcontext="V,1,10,V23">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Matt Jackson" gain="11"></p_pa>
+    <p_tk vh="H" name="Jordan Smith"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO23" context="V,1,10,V23" playid="5,4,37" type="P" text="Brandon Noohi pass complete to Lee VonTungeln for 3 yards to the UCO26 (Chris Brown)." newcontext="V,2,7,V26">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Lee VonTungeln" gain="3"></p_pa>
+    <p_tk vh="H" name="Chris Brown"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="7" spot="UCO26" context="V,2,7,V26" playid="5,5,38" type="P" text="Brandon Noohi pass complete to Lee VonTungeln for loss of 1 yard to the UCO25 (Tae Evans)." newcontext="V,3,8,V25">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Lee VonTungeln" gain="-1"></p_pa>
+    <p_tk vh="H" name="Tae Evans" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="8" spot="UCO25" context="V,3,8,V25" playid="5,6,39" type="P" text="Brandon Noohi pass incomplete to Lee VonTungeln, QB hurry by Terrance Harris." newcontext="V,4,8,V25">
+    <p_pa vh="V" qb="Brandon Noohi" result="INC" rcv="Lee VonTungeln"></p_pa>
+    <p_qbh vh="H" name="Terrance Harris"></p_qbh>
+   </play>
+   <play hasball="UCO" down="4" togo="8" spot="UCO25" context="V,4,8,V25" playid="5,7,40" type="U" text="Nick Chalifoux punt 41 yards to the WTAMU34." newcontext="H,1,10,H34">
+    <p_pu vh="V" name="Nick Chalifoux" gain="41"></p_pu>
+   </play>
+   <drivesum plays="5" yards="14" top="2:30" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,H34,05:26" vh="H" spot="H34" clock="05:26" driveindex="6,40"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU34" context="H,1,10,H34" playid="6,1,41" clock="02:56" text="WEST TEXAS A&amp;M drive start at 02:56." newcontext="H,1,10,H34">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU34" context="H,1,10,H34" playid="6,2,42" type="E" text="PENALTY WTAMU delay of game 5 yards to the WTAMU29." newcontext="H,1,15,H29">
+    <p_pn vh="H" code="DG" type="delay of game" result="ACCEPT" at="H34" yards="5"></p_pn>
+   </play>
+   <play hasball="WTAMU" down="1" togo="15" spot="WTAMU29" context="H,1,15,H29" playid="6,3,43" type="R" text="Kelvin Thompson rush for 1 yard to the WTAMU30 (Terrence Hill)." newcontext="H,2,14,H30">
+    <p_ru vh="H" name="Kelvin Thompson" gain="1"></p_ru>
+    <p_tk vh="V" name="Terrence Hill"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="14" spot="WTAMU30" context="H,2,14,H30" playid="6,4,44" type="E" text="PENALTY WTAMU false start 5 yards to the WTAMU25." newcontext="H,2,19,H25">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="H30" yards="5"></p_pn>
+   </play>
+   <play hasball="WTAMU" down="2" togo="19" spot="WTAMU25" context="H,2,19,H25" playid="6,5,45" type="P" text="Taylor Harris pass complete to Wade Langley for 18 yards to the WTAMU43 (Giorgio Durham)." newcontext="H,3,1,H43">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Wade Langley" gain="18"></p_pa>
+    <p_tk vh="V" name="Giorgio Durham"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="3" togo="1" spot="WTAMU43" context="H,3,1,H43" playid="6,6,46" type="P" first="P" text="Taylor Harris pass complete to Wade Langley for 3 yards to the WTAMU46, 1ST DOWN WTAMU (Terrence Hill)." newcontext="H,1,10,H46">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Wade Langley" gain="3"></p_pa>
+    <p_tk vh="V" name="Terrence Hill"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU46" context="H,1,10,H46" playid="6,7,47" type="P" text="Taylor Harris pass incomplete to Tyson Williams." newcontext="H,2,10,H46">
+    <p_pa vh="H" qb="Taylor Harris" result="INC" rcv="Tyson Williams"></p_pa>
+   </play>
+   <play hasball="WTAMU" down="2" togo="10" spot="WTAMU46" context="H,2,10,H46" playid="6,8,48" type="R" text="Kelvin Thompson rush for no gain to the WTAMU46 (Quinton Prince)." newcontext="H,3,10,H46">
+    <p_ru vh="H" name="Kelvin Thompson" gain="0"></p_ru>
+    <p_tk vh="V" name="Quinton Prince"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="3" togo="10" spot="WTAMU46" context="H,3,10,H46" playid="6,9,49" type="P" text="Taylor Harris pass incomplete to A J. Ruffins." newcontext="H,4,10,H46">
+    <p_pa vh="H" qb="Taylor Harris" result="INC" rcv="A J. Ruffins"></p_pa>
+   </play>
+   <play hasball="WTAMU" down="4" togo="10" spot="WTAMU46" context="H,4,10,H46" playid="6,10,50" type="U" text="Tim Cowdrey punt 42 yards to the UCO12, K. Hendricks return 10 yards to the UCO22 (Shad Baichtal)." newcontext="V,1,10,V22">
+    <p_pu vh="H" name="Tim Cowdrey" gain="42"></p_pu>
+    <p_pr vh="V" name="K. Hendricks" gain="10"></p_pr>
+    <p_tk vh="H" name="Shad Baichtal"></p_tk>
+   </play>
+   <drivesum plays="6" yards="12" top="2:01" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="V,V22,02:56" vh="V" spot="V22" clock="02:56" driveindex="7,50"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO22" context="V,1,10,V22" playid="7,1,51" clock="00:55" text="UCO drive start at 00:55." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO22" context="V,1,10,V22" playid="7,2,52" type="P" text="Brandon Noohi pass complete to Ben Birmingham for 6 yards to the UCO28 (Mark Ford)." newcontext="V,2,4,V28">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Ben Birmingham" gain="6"></p_pa>
+    <p_tk vh="H" name="Mark Ford"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="4" spot="UCO28" context="V,2,4,V28" playid="7,3,53" type="R" first="R" text="Ben Birmingham rush for 5 yards to the UCO33, 1ST DOWN UCO (Kevin McCluskey)." newcontext="V,1,10,V33">
+    <p_ru vh="V" name="Ben Birmingham" gain="5"></p_ru>
+    <p_tk vh="H" name="Kevin McCluskey"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="3"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UCO">
+    <firstdowns no="6" rush="3" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:57"></misc>
+    <rush att="8" yds="37" gain="37" loss="0" td="0" long="9"></rush>
+    <pass comp="9" att="14" int="1" yds="77" td="0" long="50" sacks="0" sackyds="0"></pass>
+    <rcv no="9" yds="77" td="0" long="50"></rcv>
+    <punt no="1" yds="41" long="41" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="41.0"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="8" tacka="6" tot_tack="14" tflua="2" tfla="0" tflyds="3" sacks="0" sackyds="0" int="1" intyds="0"></defense>
+    <kr no="2" yds="30" td="0" long="21"></kr>
+    <pr no="1" yds="10" td="0" long="10"></pr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WTAMU">
+    <firstdowns no="3" rush="0" pass="3" penalty="0"></firstdowns>
+    <penalties no="4" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:03"></misc>
+    <rush att="5" yds="3" gain="6" loss="3" td="0" long="5"></rush>
+    <pass comp="6" att="10" int="1" yds="102" td="0" long="51" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="102" td="0" long="51"></rcv>
+    <punt no="1" yds="42" long="42" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="42.0"></punt>
+    <ko no="2" yds="138" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="22" blkd="0"></fg>
+    <defense tackua="15" tacka="8" tot_tack="23" tflua="2" tfla="0" tflyds="3" sacks="0" sackyds="0" qbh="1" int="1" intyds="0"></defense>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="UCO" down="1" togo="10" spot="UCO33" context="V,1,10,V33" playid="7,4,54" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO33" context="V,1,10,V33" playid="7,5,55" type="R" text="Ben Birmingham rush for 4 yards to the UCO37 (Marcus Rose;Joseph Peterson)." newcontext="V,2,6,V37">
+    <p_ru vh="V" name="Ben Birmingham" gain="4"></p_ru>
+    <p_tk vh="H" name="Marcus Rose" assist="Y"></p_tk>
+    <p_tk vh="H" name="Joseph Peterson" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="6" spot="UCO37" context="V,2,6,V37" playid="7,6,56" type="R" text="Ben Birmingham rush for 4 yards to the UCO41 (Joseph Peterson;Kevin McCluskey)." newcontext="V,3,2,V41">
+    <p_ru vh="V" name="Ben Birmingham" gain="4"></p_ru>
+    <p_tk vh="H" name="Joseph Peterson" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kevin McCluskey" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="2" spot="UCO41" context="V,3,2,V41" playid="7,7,57" type="P" text="Brandon Noohi pass incomplete to Daniel Morrell (Chris West)." newcontext="V,4,2,V41">
+    <p_pa vh="V" qb="Brandon Noohi" result="INC" rcv="Daniel Morrell"></p_pa>
+    <p_bu vh="H" name="Chris West"></p_bu>
+   </play>
+   <play hasball="UCO" down="4" togo="2" spot="UCO41" context="V,4,2,V41" playid="7,8,58" type="R" first="R" text="Brandon Noohi rush for 3 yards to the UCO44, 1ST DOWN UCO (Anthony Scott;Eugene Sims)." newcontext="V,1,10,V44">
+    <p_ru vh="V" name="Brandon Noohi" gain="3"></p_ru>
+    <p_tk vh="H" name="Anthony Scott" assist="Y"></p_tk>
+    <p_tk vh="H" name="Eugene Sims" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO44" context="V,1,10,V44" playid="7,9,59" type="R" text="Ben Birmingham rush for 3 yards to the UCO47 (Joseph Peterson)." newcontext="V,2,7,V47">
+    <p_ru vh="V" name="Ben Birmingham" gain="3"></p_ru>
+    <p_tk vh="H" name="Joseph Peterson"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="7" spot="UCO47" context="V,2,7,V47" playid="7,10,60" type="P" first="P" text="Brandon Noohi pass complete to Matt Jackson for 7 yards to the WTAMU46, 1ST DOWN UCO, out-of-bounds." ob="Y" newcontext="V,1,10,H46">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Matt Jackson" gain="7"></p_pa>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU46" context="V,1,10,H46" playid="7,11,61" type="#" clock="12:35" text="Timeout UCO, clock 12:35." newcontext="V,1,10,H46">
+    <p_to vh="V" team="UCO"></p_to>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU46" context="V,1,10,H46" playid="7,12,62" type="P" text="Brandon Noohi pass incomplete to Matt Jackson." newcontext="V,2,10,H46">
+    <p_pa vh="V" qb="Brandon Noohi" result="INC" rcv="Matt Jackson"></p_pa>
+   </play>
+   <play hasball="UCO" down="2" togo="10" spot="WTAMU46" context="V,2,10,H46" playid="7,13,63" type="P" text="Brandon Noohi pass complete to Jason Palmer for loss of 2 yards to the WTAMU48 (Anthony Scott;Kevin McCluskey)." newcontext="V,3,12,H48">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Jason Palmer" gain="-2"></p_pa>
+    <p_tk vh="H" name="Anthony Scott" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kevin McCluskey" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="12" spot="WTAMU48" context="V,3,12,H48" playid="7,14,64" type="P" text="Brandon Noohi pass incomplete to Preston Runyan." newcontext="V,4,12,H48">
+    <p_pa vh="V" qb="Brandon Noohi" result="INC" rcv="Preston Runyan"></p_pa>
+   </play>
+   <play hasball="UCO" down="4" togo="12" spot="WTAMU48" context="V,4,12,H48" playid="7,15,65" type="U" text="Nick Chalifoux punt 37 yards to the WTAMU11, fair catch by Jeremy Watson." newcontext="H,1,10,H11">
+    <p_pu vh="V" name="Nick Chalifoux" gain="37" in20="Y" fc="Jeremy Watson"></p_pu>
+   </play>
+   <drivesum plays="11" yards="30" top="4:12" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,H11,12:35" vh="H" spot="H11" clock="12:35" driveindex="8,65"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU11" context="H,1,10,H11" playid="8,1,66" clock="11:43" text="WEST TEXAS A&amp;M drive start at 11:43." newcontext="H,1,10,H11">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU11" context="H,1,10,H11" playid="8,2,67" type="P" text="Taylor Harris pass incomplete to Brittan Golden (D. Potter)." newcontext="H,2,10,H11">
+    <p_pa vh="H" qb="Taylor Harris" result="INC" rcv="Brittan Golden"></p_pa>
+    <p_bu vh="V" name="D. Potter"></p_bu>
+   </play>
+   <play hasball="WTAMU" down="2" togo="10" spot="WTAMU11" context="H,2,10,H11" playid="8,3,68" type="P" text="Taylor Harris pass complete to Wade Langley for 8 yards to the WTAMU19 (Giorgio Durham)." newcontext="H,3,2,H19">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Wade Langley" gain="8"></p_pa>
+    <p_tk vh="V" name="Giorgio Durham"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="3" togo="2" spot="WTAMU19" context="H,3,2,H19" playid="8,4,69" type="R" text="Kelvin Thompson rush for 1 yard to the WTAMU20 (Giorgio Durham;Herbert Byrd)." newcontext="H,4,1,H20">
+    <p_ru vh="H" name="Kelvin Thompson" gain="1"></p_ru>
+    <p_tk vh="V" name="Giorgio Durham" assist="Y"></p_tk>
+    <p_tk vh="V" name="Herbert Byrd" assist="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="4" togo="1" spot="WTAMU20" context="H,4,1,H20" playid="8,5,70" type="U" text="Tim Cowdrey punt 28 yards to the WTAMU48, out-of-bounds." ob="Y" newcontext="V,1,10,H48">
+    <p_pu vh="H" name="Tim Cowdrey" gain="28" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="1:26" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,H48,11:43" vh="V" spot="H48" clock="11:43" driveindex="9,70"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU48" context="V,1,10,H48" playid="9,1,71" clock="10:17" text="UCO drive start at 10:17." newcontext="V,1,10,H48">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU48" context="V,1,10,H48" playid="9,2,72" type="R" text="Ben Birmingham rush for 3 yards to the WTAMU45 (Anthony Scott;Mark Ford)." newcontext="V,2,7,H45">
+    <p_ru vh="V" name="Ben Birmingham" gain="3"></p_ru>
+    <p_tk vh="H" name="Anthony Scott" assist="Y"></p_tk>
+    <p_tk vh="H" name="Mark Ford" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="7" spot="WTAMU45" context="V,2,7,H45" playid="9,3,73" type="R" text="Ben Birmingham rush for 2 yards to the WTAMU43 (B. Marshall;Kevin McCluskey)." newcontext="V,3,5,H43">
+    <p_ru vh="V" name="Ben Birmingham" gain="2"></p_ru>
+    <p_tk vh="H" name="B. Marshall" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kevin McCluskey" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="5" spot="WTAMU43" context="V,3,5,H43" playid="9,4,74" type="P" first="P" score="Y" clock="09:06" text="Brandon Noohi pass complete to Ryan Gallimore for 43 yards to the WTAMU0, 1ST DOWN UCO, TOUCHDOWN, clock 09:06." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Ryan Gallimore" gain="43"></p_pa>
+   </play>
+   <play hasball="UCO" down="1" togo="0" spot="WTAMU03" context="V,1,0,H03" playid="9,5,75" type="X" score="Y" text="Ross Weaver kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Ross Weaver" qb="Ross Weaver" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="3"></score>
+   <drivesum plays="3" yards="48" top="1:11" driveindex="9" complete="Y"></drivesum>
+   <play hasball="UCO" down="1" togo="0" spot="UCO30" context="V,1,0,V30" playid="9,6,76" type="K" text="Ross Weaver kickoff 70 yards to the WTAMU0, touchback." newcontext="H,1,10,H20">
+    <p_ko vh="V" name="Ross Weaver" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H20,09:06" vh="H" spot="H20" clock="09:06" driveindex="10,76"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU20" context="H,1,10,H20" playid="10,1,77" clock="09:06" text="WEST TEXAS A&amp;M drive start at 09:06." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU20" context="H,1,10,H20" playid="10,2,78" type="P" text="Taylor Harris pass complete to Brittan Golden for 9 yards to the WTAMU29 (C. Milton)." newcontext="H,2,1,H29">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Brittan Golden" gain="9"></p_pa>
+    <p_tk vh="V" name="C. Milton"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="1" spot="WTAMU29" context="H,2,1,H29" playid="10,3,79" type="P" first="P" text="Taylor Harris pass complete to Kelvin Thompson for 2 yards to the WTAMU31, 1ST DOWN WTAMU (Terrence Hill)." newcontext="H,1,10,H31">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Kelvin Thompson" gain="2"></p_pa>
+    <p_tk vh="V" name="Terrence Hill"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU31" context="H,1,10,H31" playid="10,4,80" type="P" text="Taylor Harris pass complete to Kelvin Thompson for 2 yards to the WTAMU33 (Caleb Prince)." newcontext="H,2,8,H33">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Kelvin Thompson" gain="2"></p_pa>
+    <p_tk vh="V" name="Caleb Prince"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="8" spot="WTAMU33" context="H,2,8,H33" playid="10,5,81" type="P" text="Taylor Harris pass incomplete to Wade Langley." newcontext="H,3,8,H33">
+    <p_pa vh="H" qb="Taylor Harris" result="INC" rcv="Wade Langley"></p_pa>
+   </play>
+   <play hasball="WTAMU" down="3" togo="8" spot="WTAMU33" context="H,3,8,H33" playid="10,6,82" type="P" text="Taylor Harris sacked for loss of 2 yards to the WTAMU31 (Quinton Prince;Jermelle Cudjo)." newcontext="H,4,10,H31">
+    <p_pa vh="H" qb="Taylor Harris" result="SACK" gain="-2"></p_pa>
+    <p_tk vh="V" name="Quinton Prince" sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jermelle Cudjo" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="4" togo="10" spot="WTAMU31" context="H,4,10,H31" playid="10,7,83" type="U" score="Y" clock="07:37" text="TEAM punt BLOCKED, recovered by WTAMU TEAM at WTAMU0, TEAM safety, clock 07:37 (blocked by A. Anderson)." newcontext="H,1,0,H20">
+    <p_pu vh="H" name="TEAM" gain="0" blkd="Y"></p_pu>
+   </play>
+   <score V="9" H="3"></score>
+   <drivesum plays="5" yards="11" top="1:29" driveindex="10" complete="Y"></drivesum>
+   <play hasball="WTAMU" down="1" togo="0" spot="WTAMU20" context="H,1,0,H20" playid="10,8,84" type="K" text="James Chandler kickoff 59 yards to the UCO21, K. Hendricks return 22 yards to the UCO43 (Tae Evans;Curtis Slater)." newcontext="V,1,10,V43">
+    <p_ko vh="H" name="James Chandler" gain="59"></p_ko>
+    <p_kr vh="V" name="K. Hendricks" gain="22"></p_kr>
+    <p_tk vh="H" name="Tae Evans" assist="Y"></p_tk>
+    <p_tk vh="H" name="Curtis Slater" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V43,07:37" vh="V" spot="V43" clock="07:37" driveindex="11,84"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO43" context="V,1,10,V43" playid="11,1,85" clock="07:33" text="UCO drive start at 07:33." newcontext="V,1,10,V43">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO43" context="V,1,10,V43" playid="11,2,86" type="R" text="Jason Palmer rush for 4 yards to the UCO47 (Chris Brown;Marcus Rose)." newcontext="V,2,6,V47">
+    <p_ru vh="V" name="Jason Palmer" gain="4"></p_ru>
+    <p_tk vh="H" name="Chris Brown" assist="Y"></p_tk>
+    <p_tk vh="H" name="Marcus Rose" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="6" spot="UCO47" context="V,2,6,V47" playid="11,3,87" type="R" first="R" text="Brandon Noohi rush for 6 yards to the WTAMU47, 1ST DOWN UCO (Tae Evans)." newcontext="V,1,10,H47">
+    <p_ru vh="V" name="Brandon Noohi" gain="6"></p_ru>
+    <p_tk vh="H" name="Tae Evans"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU47" context="V,1,10,H47" playid="11,4,88" type="R" first="R" text="Jason Palmer rush for 21 yards to the WTAMU26, 1ST DOWN UCO (Tae Evans;Mark Ford)." newcontext="V,1,10,H26">
+    <p_ru vh="V" name="Jason Palmer" gain="21"></p_ru>
+    <p_tk vh="H" name="Tae Evans" assist="Y"></p_tk>
+    <p_tk vh="H" name="Mark Ford" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU26" context="V,1,10,H26" playid="11,5,89" type="R" text="Brandon Noohi rush for 4 yards to the WTAMU22 (Rashad Sanders)." newcontext="V,2,6,H22">
+    <p_ru vh="V" name="Brandon Noohi" gain="4"></p_ru>
+    <p_tk vh="H" name="Rashad Sanders"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="6" spot="WTAMU22" context="V,2,6,H22" playid="11,6,90" type="R" text="Jason Palmer rush for 4 yards to the WTAMU18 (Mark Ford;Rashad Sanders)." newcontext="V,3,2,H18">
+    <p_ru vh="V" name="Jason Palmer" gain="4"></p_ru>
+    <p_tk vh="H" name="Mark Ford" assist="Y"></p_tk>
+    <p_tk vh="H" name="Rashad Sanders" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="2" spot="WTAMU18" context="V,3,2,H18" playid="11,7,91" type="R" text="Jason Palmer rush for 1 yard to the WTAMU17 (Rashad Sanders)." newcontext="V,4,1,H17">
+    <p_ru vh="V" name="Jason Palmer" gain="1"></p_ru>
+    <p_tk vh="H" name="Rashad Sanders"></p_tk>
+   </play>
+   <play hasball="UCO" down="4" togo="1" spot="WTAMU17" context="V,4,1,H17" playid="11,8,92" type="R" first="R" text="Brandon Noohi rush for 2 yards to the WTAMU15, 1ST DOWN UCO (Anthony Scott;Chris Brown)." newcontext="V,1,10,H15">
+    <p_ru vh="V" name="Brandon Noohi" gain="2"></p_ru>
+    <p_tk vh="H" name="Anthony Scott" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chris Brown" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU15" context="V,1,10,H15" playid="11,9,93" type="P" first="P" text="Brandon Noohi pass complete to K. Hendricks for 14 yards to the WTAMU1, 1ST DOWN UCO (Tae Evans)." newcontext="V,1,0,H01">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="K. Hendricks" gain="14"></p_pa>
+    <p_tk vh="H" name="Tae Evans"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="0" spot="WTAMU01" context="V,1,0,H01" playid="11,10,94" type="R" text="Jason Palmer rush for no gain to the WTAMU1 (Eugene Sims;Jordan Smith)." newcontext="V,2,0,H01">
+    <p_ru vh="V" name="Jason Palmer" gain="0"></p_ru>
+    <p_tk vh="H" name="Eugene Sims" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Smith" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="0" spot="WTAMU01" context="V,2,0,H01" playid="11,11,95" type="R" score="Y" clock="03:13" text="Jason Palmer rush for 1 yard to the WTAMU0, TOUCHDOWN, clock 03:13." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Jason Palmer" gain="1"></p_ru>
+   </play>
+   <play hasball="UCO" down="1" togo="0" spot="WTAMU03" context="V,1,0,H03" playid="11,12,96" type="X" text="Ross Weaver kick attempt failed (blocked) (blocked by Eugene Sims)." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Ross Weaver" qb="Ross Weaver" type="K" result="BLOCKED"></p_pat>
+   </play>
+   <score V="15" H="3"></score>
+   <drivesum plays="10" yards="57" top="4:20" driveindex="11" complete="Y"></drivesum>
+   <play hasball="UCO" down="1" togo="0" spot="UCO30" context="V,1,0,V30" playid="11,13,97" type="K" text="Ross Weaver kickoff 70 yards to the WTAMU0, Jeremy Watson return 39 yards to the WTAMU39 (A. Anderson)." newcontext="H,1,10,H39">
+    <p_ko vh="V" name="Ross Weaver" gain="70"></p_ko>
+    <p_kr vh="H" name="Jeremy Watson" gain="39"></p_kr>
+    <p_tk vh="V" name="A. Anderson"></p_tk>
+   </play>
+   <drivestart poss="H,H39,03:13" vh="H" spot="H39" clock="03:13" driveindex="12,97"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU39" context="H,1,10,H39" playid="12,1,98" clock="03:06" text="WEST TEXAS A&amp;M drive start at 03:06." newcontext="H,1,10,H39">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU39" context="H,1,10,H39" playid="12,2,99" type="P" text="Taylor Harris pass complete to Wade Langley for 3 yards to the WTAMU42 (Terry Hardeman)." newcontext="H,2,7,H42">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Wade Langley" gain="3"></p_pa>
+    <p_tk vh="V" name="Terry Hardeman"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="7" spot="WTAMU42" context="H,2,7,H42" playid="12,3,100" type="P" first="P" text="Taylor Harris pass complete to Brittan Golden for 12 yards to the UCO46, 1ST DOWN WTAMU (Maurice Henry)." newcontext="H,1,10,V46">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Brittan Golden" gain="12"></p_pa>
+    <p_tk vh="V" name="Maurice Henry"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="UCO46" context="H,1,10,V46" playid="12,4,101" type="P" first="P" text="Taylor Harris pass complete to Wade Langley for 32 yards to the UCO14, 1ST DOWN WTAMU (Maurice Henry)." newcontext="H,1,10,V14">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Wade Langley" gain="32"></p_pa>
+    <p_tk vh="V" name="Maurice Henry"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="UCO14" context="H,1,10,V14" playid="12,5,102" type="#" clock="02:15" text="Timeout UCO, clock 02:15." newcontext="H,1,10,V14">
+    <p_to vh="V" team="UCO"></p_to>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="UCO14" context="H,1,10,V14" playid="12,6,103" type="P" text="Taylor Harris pass complete to Kelvin Thompson for 8 yards to the UCO6 (Quinton Prince)." newcontext="H,2,2,V06">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Kelvin Thompson" gain="8"></p_pa>
+    <p_tk vh="V" name="Quinton Prince"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="2" spot="UCO06" context="H,2,2,V06" playid="12,7,104" type="#" clock="01:37" text="Timeout West Texas A&amp;M, clock 01:37." newcontext="H,2,2,V06">
+    <p_to vh="H" team="West Texas A&amp;M"></p_to>
+   </play>
+   <play hasball="WTAMU" down="2" togo="2" spot="UCO06" context="H,2,2,V06" playid="12,8,105" type="R" first="R" text="Kelvin Thompson rush for 4 yards to the UCO2, 1ST DOWN WTAMU (Terry Hardeman;Prentice Muse)." newcontext="H,1,0,V02">
+    <p_ru vh="H" name="Kelvin Thompson" gain="4"></p_ru>
+    <p_tk vh="V" name="Terry Hardeman" assist="Y"></p_tk>
+    <p_tk vh="V" name="Prentice Muse" assist="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="0" spot="UCO02" context="H,1,0,V02" playid="12,9,106" type="#" clock="01:21" text="Timeout West Texas A&amp;M, clock 01:21." newcontext="H,1,0,V02">
+    <p_to vh="H" team="West Texas A&amp;M"></p_to>
+   </play>
+   <play hasball="WTAMU" down="1" togo="0" spot="UCO02" context="H,1,0,V02" playid="12,10,107" type="R" score="Y" clock="01:17" text="Kelvin Thompson rush for 2 yards to the UCO0, TOUCHDOWN, clock 01:17." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Kelvin Thompson" gain="2"></p_ru>
+   </play>
+   <play hasball="WTAMU" down="1" togo="0" spot="UCO03" context="H,1,0,V03" playid="12,11,108" type="X" score="Y" text="James Chandler kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="James Chandler" qb="James Chandler" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="15" H="10"></score>
+   <drivesum plays="6" yards="61" top="1:49" driveindex="12" complete="Y"></drivesum>
+   <play hasball="WTAMU" down="1" togo="0" spot="WTAMU30" context="H,1,0,H30" playid="12,12,109" type="K" text="James Chandler kickoff 59 yards to the UCO11, K. Hendricks return 22 yards to the UCO33 (Kyle Voss)." newcontext="V,1,10,V33">
+    <p_ko vh="H" name="James Chandler" gain="59"></p_ko>
+    <p_kr vh="V" name="K. Hendricks" gain="22"></p_kr>
+    <p_tk vh="H" name="Kyle Voss"></p_tk>
+   </play>
+   <drivestart poss="V,V33,01:17" vh="V" spot="V33" clock="01:17" driveindex="13,109"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO33" context="V,1,10,V33" playid="13,1,110" clock="01:11" text="UCO drive start at 01:11." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO33" context="V,1,10,V33" playid="13,2,111" type="R" text="Jason Palmer rush for 1 yard to the UCO34 (Rashad Sanders)." newcontext="V,2,9,V34">
+    <p_ru vh="V" name="Jason Palmer" gain="1"></p_ru>
+    <p_tk vh="H" name="Rashad Sanders"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="9" spot="UCO34" context="V,2,9,V34" playid="13,3,112" type="R" text="Jason Palmer rush for 1 yard to the UCO35 (Anthony Scott;Mark Ford)." newcontext="V,3,8,V35">
+    <p_ru vh="V" name="Jason Palmer" gain="1"></p_ru>
+    <p_tk vh="H" name="Anthony Scott" assist="Y"></p_tk>
+    <p_tk vh="H" name="Mark Ford" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="8" spot="UCO35" context="V,3,8,V35" playid="13,4,113" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,3,8,V35">
+   </play>
+   <drivesum plays="2" yards="2" top="1:11" driveindex="13" complete="Y"></drivesum>
+   <score qtr="2" V="15" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UCO">
+    <firstdowns no="7" rush="4" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="2" fourthatt="2"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:09"></misc>
+    <rush att="17" yds="64" gain="64" loss="0" td="1" long="12"></rush>
+    <pass comp="4" att="7" int="0" yds="62" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="62" td="1" long="0"></rcv>
+    <punt no="1" yds="37" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="37.0"></punt>
+    <ko no="2" yds="140" ob="0" tb="1"></ko>
+    <pat kickatt="2" kickmade="1"></pat>
+    <defense tackua="9" tacka="6" tot_tack="15" tflua="2" tfla="0" tflyds="4" sacks="1" sackyds="2" brup="1" saf="1" blkd="1"></defense>
+    <kr no="2" yds="44" td="0" long="1"></kr>
+    <pr no="1" yds="31" td="0" long="0"></pr>
+    <scoring td="2" saf="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WTAMU">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:51"></misc>
+    <rush att="4" yds="5" gain="7" loss="2" td="1" long="0"></rush>
+    <pass comp="8" att="10" int="0" yds="76" td="0" long="0" sacks="1" sackyds="2"></pass>
+    <rcv no="8" yds="76" td="0" long="0"></rcv>
+    <punt no="2" yds="28" long="0" blkd="1" tb="0" fc="0" plus50="0" inside20="0" avg="14.0"></punt>
+    <ko no="2" yds="118" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="7" tacka="26" tot_tack="33" tflua="2" tfla="0" tflyds="4" sacks="0" sackyds="0" brup="1" blkd="1"></defense>
+    <kr no="1" yds="39" td="0" long="39"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="UCO" down="3" togo="8" spot="UCO35" context="V,3,8,V35" playid="13,5,114" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, UCO ball on UCO30." newcontext="V,3,8,V30">
+   </play>
+   <play hasball="UCO" down="3" togo="8" spot="UCO30" context="V,3,8,V30" playid="13,6,115" type="K" text="Ross Weaver kickoff 70 yards to the WTAMU0, Jeremy Watson return 37 yards to the WTAMU37 (Terrence Hill), PENALTY WTAMU holding (Curtis Jefferso) 19 yards to the WTAMU18, 1st and 10, WTAMU ball on WTAMU18." newcontext="H,1,10,H18">
+    <p_ko vh="V" name="Ross Weaver" gain="70"></p_ko>
+    <p_kr vh="H" name="Jeremy Watson" gain="37"></p_kr>
+    <p_tk vh="V" name="Terrence Hill"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="Curtis Jefferso" result="ACCEPT" at="H37" yards="19"></p_pn>
+   </play>
+   <drivestart poss="H,H18,15:00" vh="H" spot="H18" clock="15:00" driveindex="14,115"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU18" context="H,1,10,H18" playid="14,1,116" clock="14:49" text="WEST TEXAS A&amp;M drive start at 14:49." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU18" context="H,1,10,H18" playid="14,2,117" type="P" text="Taylor Harris pass incomplete to Wade Langley." newcontext="H,2,10,H18">
+    <p_pa vh="H" qb="Taylor Harris" result="INC" rcv="Wade Langley"></p_pa>
+   </play>
+   <play hasball="WTAMU" down="2" togo="10" spot="WTAMU18" context="H,2,10,H18" playid="14,3,118" type="R" first="R" text="Kelvin Thompson rush for 25 yards to the WTAMU43, 1ST DOWN WTAMU (C. Milton)." newcontext="H,1,10,H43">
+    <p_ru vh="H" name="Kelvin Thompson" gain="25"></p_ru>
+    <p_tk vh="V" name="C. Milton"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU43" context="H,1,10,H43" playid="14,4,119" type="P" first="P" text="Taylor Harris pass complete to Tyson Williams for 13 yards to the UCO44, 1ST DOWN WTAMU (Maurice Henry)." newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="Tyson Williams" gain="13"></p_pa>
+    <p_tk vh="V" name="Maurice Henry"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="UCO44" context="H,1,10,V44" playid="14,5,120" type="R" text="Kelvin Thompson rush for 4 yards to the UCO40 (Terrence Hill)." newcontext="H,2,6,V40">
+    <p_ru vh="H" name="Kelvin Thompson" gain="4"></p_ru>
+    <p_tk vh="V" name="Terrence Hill"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="6" spot="UCO40" context="H,2,6,V40" playid="14,6,121" type="P" text="Taylor Harris pass incomplete to Tyson Williams." newcontext="H,3,6,V40">
+    <p_pa vh="H" qb="Taylor Harris" result="INC" rcv="Tyson Williams"></p_pa>
+   </play>
+   <play hasball="WTAMU" down="3" togo="6" spot="UCO40" context="H,3,6,V40" playid="14,7,122" type="P" turnover="I" text="Taylor Harris pass intercepted by Maurice Henry at the UCO28, Maurice Henry return 3 yards to the UCO31 (Tyson Williams)." newcontext="V,1,10,V31">
+    <p_pa vh="H" qb="Taylor Harris" result="INT"></p_pa>
+    <p_ir vh="V" name="Maurice Henry" at="V28" gain="3"></p_ir>
+    <p_tk vh="H" name="Tyson Williams"></p_tk>
+   </play>
+   <drivesum plays="6" yards="42" top="1:23" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,V31,14:49" vh="V" spot="V31" clock="14:49" driveindex="15,122"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO31" context="V,1,10,V31" playid="15,1,123" clock="13:26" text="UCO drive start at 13:26." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO31" context="V,1,10,V31" playid="15,2,124" type="P" text="Brandon Noohi pass complete to K. Hendricks for 8 yards to the UCO39 (Tae Evans)." newcontext="V,2,2,V39">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="K. Hendricks" gain="8"></p_pa>
+    <p_tk vh="H" name="Tae Evans"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="2" spot="UCO39" context="V,2,2,V39" playid="15,3,125" type="R" first="R" text="Jason Palmer rush for 7 yards to the UCO46, 1ST DOWN UCO (Kevin McCluskey;Chris Brown)." newcontext="V,1,10,V46">
+    <p_ru vh="V" name="Jason Palmer" gain="7"></p_ru>
+    <p_tk vh="H" name="Kevin McCluskey" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chris Brown" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO46" context="V,1,10,V46" playid="15,4,126" type="R" text="Jason Palmer rush for no gain to the UCO46 (Chris Brown;Eugene Sims)." newcontext="V,2,10,V46">
+    <p_ru vh="V" name="Jason Palmer" gain="0"></p_ru>
+    <p_tk vh="H" name="Chris Brown" assist="Y"></p_tk>
+    <p_tk vh="H" name="Eugene Sims" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="10" spot="UCO46" context="V,2,10,V46" playid="15,5,127" type="P" text="Brandon Noohi pass complete to Jason Palmer for no gain to the UCO46 (Anthony Scott)." newcontext="V,3,10,V46">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Jason Palmer" gain="0"></p_pa>
+    <p_tk vh="H" name="Anthony Scott"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="10" spot="UCO46" context="V,3,10,V46" playid="15,6,128" type="E" text="Brandon Noohi rush for 15 yards to the WTAMU39, PENALTY UCO holding (Cody Hughes) 10 yards to the UCO36, NO PLAY." newcontext="V,3,20,V36">
+    <p_pn vh="V" code="HO" type="holding" name="Cody Hughes" result="ACCEPT" at="V46" yards="10"></p_pn>
+   </play>
+   <play hasball="UCO" down="3" togo="20" spot="UCO36" context="V,3,20,V36" playid="15,7,129" type="R" text="Jason Palmer rush for 1 yard to the UCO37 (Aaron Wampler)." newcontext="V,4,19,V37">
+    <p_ru vh="V" name="Jason Palmer" gain="1"></p_ru>
+    <p_tk vh="H" name="Aaron Wampler"></p_tk>
+   </play>
+   <play hasball="UCO" down="4" togo="19" spot="UCO37" context="V,4,19,V37" playid="15,8,130" type="U" text="Nick Chalifoux punt 38 yards to the WTAMU25, Jeremy Watson return 22 yards to the WTAMU47 (;Nick Chalifoux)." newcontext="H,1,10,H47">
+    <p_pu vh="V" name="Nick Chalifoux" gain="38"></p_pu>
+    <p_pr vh="H" name="Jeremy Watson" gain="22"></p_pr>
+    <p_tk vh="V" name="Nick Chalifoux" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="5" yards="6" top="2:47" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H47,13:26" vh="H" spot="H47" clock="13:26" driveindex="16,130"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU47" context="H,1,10,H47" playid="16,1,131" clock="10:39" text="WEST TEXAS A&amp;M drive start at 10:39." newcontext="H,1,10,H47">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU47" context="H,1,10,H47" playid="16,2,132" type="P" text="Tanner Marsh pass incomplete to Brittan Golden (C. Milton)." newcontext="H,2,10,H47">
+    <p_pa vh="H" qb="Tanner Marsh" result="INC" rcv="Brittan Golden"></p_pa>
+    <p_bu vh="V" name="C. Milton"></p_bu>
+   </play>
+   <play hasball="WTAMU" down="2" togo="10" spot="WTAMU47" context="H,2,10,H47" playid="16,3,133" type="E" text="Kelvin Thompson rush for 4 yards to the UCO49 (Terry Hardeman), PENALTY WTAMU holding (Isaiah Lewis) 10 yards to the WTAMU37, NO PLAY." newcontext="H,2,20,H37">
+    <p_pn vh="H" code="HO" type="holding" name="Isaiah Lewis" result="ACCEPT" at="H47" yards="10"></p_pn>
+   </play>
+   <play hasball="WTAMU" down="2" togo="20" spot="WTAMU37" context="H,2,20,H37" playid="16,4,134" type="P" text="Tanner Marsh pass complete to Kelvin Thompson for 10 yards to the WTAMU47 (Tucker Cason)." newcontext="H,3,10,H47">
+    <p_pa vh="H" qb="Tanner Marsh" result="COMP" rcv="Kelvin Thompson" gain="10"></p_pa>
+    <p_tk vh="V" name="Tucker Cason"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="3" togo="10" spot="WTAMU47" context="H,3,10,H47" playid="16,5,135" type="P" text="Tanner Marsh pass incomplete to Wade Langley, QB hurry by Tucker Cason." newcontext="H,4,10,H47">
+    <p_pa vh="H" qb="Tanner Marsh" result="INC" rcv="Wade Langley"></p_pa>
+    <p_qbh vh="V" name="Tucker Cason"></p_qbh>
+   </play>
+   <play hasball="WTAMU" down="4" togo="10" spot="WTAMU47" context="H,4,10,H47" playid="16,6,136" type="#" clock="09:46" text="Timeout UCO, clock 09:46." newcontext="H,4,10,H47">
+    <p_to vh="V" team="UCO"></p_to>
+   </play>
+   <play hasball="WTAMU" down="4" togo="10" spot="WTAMU47" context="H,4,10,H47" playid="16,7,137" type="U" text="Tim Cowdrey punt 34 yards to the UCO19, fair catch by Caleb Prince." newcontext="V,1,10,V19">
+    <p_pu vh="H" name="Tim Cowdrey" gain="34" in20="Y" fc="Caleb Prince"></p_pu>
+   </play>
+   <drivesum plays="3" yards="0" top="0:59" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,V19,09:46" vh="V" spot="V19" clock="09:46" driveindex="17,137"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO19" context="V,1,10,V19" playid="17,1,138" clock="09:40" text="UCO drive start at 09:40." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO19" context="V,1,10,V19" playid="17,2,139" type="R" text="Jason Palmer rush for 6 yards to the UCO25 (Curtis Jefferso;Drew Graham)." newcontext="V,2,4,V25">
+    <p_ru vh="V" name="Jason Palmer" gain="6"></p_ru>
+    <p_tk vh="H" name="Curtis Jefferso" assist="Y"></p_tk>
+    <p_tk vh="H" name="Drew Graham" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="4" spot="UCO25" context="V,2,4,V25" playid="17,3,140" type="R" text="Jason Palmer rush for 1 yard to the UCO26 (Kevin McCluskey;B. Marshall)." newcontext="V,3,3,V26">
+    <p_ru vh="V" name="Jason Palmer" gain="1"></p_ru>
+    <p_tk vh="H" name="Kevin McCluskey" assist="Y"></p_tk>
+    <p_tk vh="H" name="B. Marshall" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="3" spot="UCO26" context="V,3,3,V26" playid="17,4,141" type="E" text="PENALTY UCO false start (Jake Kessen) 5 yards to the UCO21." newcontext="V,3,8,V21">
+    <p_pn vh="V" code="FS" type="false start" name="Jake Kessen" result="ACCEPT" at="V26" yards="5"></p_pn>
+   </play>
+   <play hasball="UCO" down="3" togo="8" spot="UCO21" context="V,3,8,V21" playid="17,5,142" type="P" text="Brandon Noohi pass incomplete to Daniel Morrell (Kevin McCluskey)." newcontext="V,4,8,V21">
+    <p_pa vh="V" qb="Brandon Noohi" result="INC" rcv="Daniel Morrell"></p_pa>
+    <p_bu vh="H" name="Kevin McCluskey"></p_bu>
+   </play>
+   <play hasball="UCO" down="4" togo="8" spot="UCO21" context="V,4,8,V21" playid="17,6,143" type="U" text="Nick Chalifoux punt 47 yards to the WTAMU32, out-of-bounds." ob="Y" newcontext="H,1,10,H32">
+    <p_pu vh="V" name="Nick Chalifoux" gain="47" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="2" top="1:23" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H32,09:40" vh="H" spot="H32" clock="09:40" driveindex="18,143"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU32" context="H,1,10,H32" playid="18,1,144" clock="08:17" text="WEST TEXAS A&amp;M drive start at 08:17." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU32" context="H,1,10,H32" playid="18,2,145" type="P" text="Tanner Marsh pass incomplete to Stephen Burton." newcontext="H,2,10,H32">
+    <p_pa vh="H" qb="Tanner Marsh" result="INC" rcv="Stephen Burton"></p_pa>
+   </play>
+   <play hasball="WTAMU" down="2" togo="10" spot="WTAMU32" context="H,2,10,H32" playid="18,3,146" type="R" text="Kelvin Thompson rush for 1 yard to the WTAMU33 (Jeremy Atkins)." newcontext="H,3,9,H33">
+    <p_ru vh="H" name="Kelvin Thompson" gain="1"></p_ru>
+    <p_tk vh="V" name="Jeremy Atkins"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="3" togo="9" spot="WTAMU33" context="H,3,9,H33" playid="18,4,147" type="R" text="Tanner Marsh rush for loss of 7 yards to the WTAMU26." newcontext="H,4,16,H26">
+    <p_ru vh="H" name="Tanner Marsh" gain="-7"></p_ru>
+   </play>
+   <play hasball="WTAMU" down="4" togo="16" spot="WTAMU26" context="H,4,16,H26" playid="18,5,148" type="U" text="Tim Cowdrey punt 36 yards to the UCO38, K. Hendricks return 2 yards to the UCO40 (Anthony Scott;Shad Baichtal)." newcontext="V,1,10,V40">
+    <p_pu vh="H" name="Tim Cowdrey" gain="36"></p_pu>
+    <p_pr vh="V" name="K. Hendricks" gain="2"></p_pr>
+    <p_tk vh="H" name="Anthony Scott" assist="Y"></p_tk>
+    <p_tk vh="H" name="Shad Baichtal" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-6" top="1:16" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="V,V40,08:17" vh="V" spot="V40" clock="08:17" driveindex="19,148"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO40" context="V,1,10,V40" playid="19,1,149" clock="07:01" text="UCO drive start at 07:01." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO40" context="V,1,10,V40" playid="19,2,150" type="R" text="Daniel Morrell rush for 2 yards to the UCO42 (Kevin McCluskey)." newcontext="V,2,8,V42">
+    <p_ru vh="V" name="Daniel Morrell" gain="2"></p_ru>
+    <p_tk vh="H" name="Kevin McCluskey"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="8" spot="UCO42" context="V,2,8,V42" playid="19,3,151" type="R" text="Brandon Noohi rush for 3 yards to the UCO45 (Anthony Scott)." newcontext="V,3,5,V45">
+    <p_ru vh="V" name="Brandon Noohi" gain="3"></p_ru>
+    <p_tk vh="H" name="Anthony Scott"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="5" spot="UCO45" context="V,3,5,V45" playid="19,4,152" type="R" first="R" text="Jason Palmer rush for 13 yards to the WTAMU42, 1ST DOWN UCO (Jordan Smith;Curtis Jefferso)." newcontext="V,1,10,H42">
+    <p_ru vh="V" name="Jason Palmer" gain="13"></p_ru>
+    <p_tk vh="H" name="Jordan Smith" assist="Y"></p_tk>
+    <p_tk vh="H" name="Curtis Jefferso" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU42" context="V,1,10,H42" playid="19,5,153" type="R" turnover="F" text="Ben Birmingham rush for 21 yards to the WTAMU21, fumble forced by Brandon Boyd, fumble by Ben Birmingham recovered by WTAMU Caleb Randolph at WTAMU21." newcontext="H,1,10,H21">
+    <p_ru vh="V" name="Ben Birmingham" gain="21"></p_ru>
+    <p_fumb vh="V" name="Ben Birmingham" at="H21" frvh="H" frname="Caleb Randolph"></p_fumb>
+    <p_tk vh="H" name="Brandon Boyd" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="4" yards="39" top="1:39" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,H21,07:01" vh="H" spot="H21" clock="07:01" driveindex="20,153"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU21" context="H,1,10,H21" playid="20,1,154" clock="05:22" text="WEST TEXAS A&amp;M drive start at 05:22." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU21" context="H,1,10,H21" playid="20,2,155" type="P" text="Tanner Marsh pass complete to Kelvin Thompson for 5 yards to the WTAMU26 (Terry Hardeman)." newcontext="H,2,5,H26">
+    <p_pa vh="H" qb="Tanner Marsh" result="COMP" rcv="Kelvin Thompson" gain="5"></p_pa>
+    <p_tk vh="V" name="Terry Hardeman"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="5" spot="WTAMU26" context="H,2,5,H26" playid="20,3,156" type="R" first="R" text="Kelvin Thompson rush for 11 yards to the WTAMU37, 1ST DOWN WTAMU (I. Blackshear)." newcontext="H,1,10,H37">
+    <p_ru vh="H" name="Kelvin Thompson" gain="11"></p_ru>
+    <p_tk vh="V" name="I. Blackshear"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU37" context="H,1,10,H37" playid="20,4,157" type="P" text="Tanner Marsh sacked for loss of 8 yards to the WTAMU29 (Freddie Harris)." newcontext="H,2,18,H29">
+    <p_pa vh="H" qb="Tanner Marsh" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="V" name="Freddie Harris" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="18" spot="WTAMU29" context="H,2,18,H29" playid="20,5,158" type="P" text="Tanner Marsh pass incomplete to Wade Langley." newcontext="H,3,18,H29">
+    <p_pa vh="H" qb="Tanner Marsh" result="INC" rcv="Wade Langley"></p_pa>
+   </play>
+   <play hasball="WTAMU" down="3" togo="18" spot="WTAMU29" context="H,3,18,H29" playid="20,6,159" type="P" text="Tanner Marsh pass complete to Wade Langley for 7 yards to the WTAMU36 (Tucker Cason)." newcontext="H,4,11,H36">
+    <p_pa vh="H" qb="Tanner Marsh" result="COMP" rcv="Wade Langley" gain="7"></p_pa>
+    <p_tk vh="V" name="Tucker Cason"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="4" togo="11" spot="WTAMU36" context="H,4,11,H36" playid="20,7,160" type="U" text="Tim Cowdrey punt 39 yards to the UCO25, out-of-bounds." ob="Y" newcontext="V,1,10,V25">
+    <p_pu vh="H" name="Tim Cowdrey" gain="39" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="15" top="2:08" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,V25,05:22" vh="V" spot="V25" clock="05:22" driveindex="21,160"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO25" context="V,1,10,V25" playid="21,1,161" clock="03:14" text="UCO drive start at 03:14." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO25" context="V,1,10,V25" playid="21,2,162" type="R" text="Jason Palmer rush for 2 yards to the UCO27 (Aaron Wampler)." newcontext="V,2,8,V27">
+    <p_ru vh="V" name="Jason Palmer" gain="2"></p_ru>
+    <p_tk vh="H" name="Aaron Wampler"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="8" spot="UCO27" context="V,2,8,V27" playid="21,3,163" type="E" text="PENALTY UCO false start (Luke Sapolu) 5 yards to the UCO22." newcontext="V,2,13,V22">
+    <p_pn vh="V" code="FS" type="false start" name="Luke Sapolu" result="ACCEPT" at="V27" yards="5"></p_pn>
+   </play>
+   <play hasball="UCO" down="2" togo="13" spot="UCO22" context="V,2,13,V22" playid="21,4,164" type="P" first="P" text="Brandon Noohi pass complete to Matt Jackson for 38 yards to the WTAMU40, 1ST DOWN UCO (Chris Brown)." newcontext="V,1,10,H40">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Matt Jackson" gain="38"></p_pa>
+    <p_tk vh="H" name="Chris Brown"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU40" context="V,1,10,H40" playid="21,5,165" type="R" text="Jason Palmer rush for 3 yards to the WTAMU37 (Rashad Sanders)." newcontext="V,2,7,H37">
+    <p_ru vh="V" name="Jason Palmer" gain="3"></p_ru>
+    <p_tk vh="H" name="Rashad Sanders"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="7" spot="WTAMU37" context="V,2,7,H37" playid="21,6,166" type="P" text="Brandon Noohi pass complete to K. Hendricks for no gain to the WTAMU37 (Curtis Jefferso)." newcontext="V,3,7,H37">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="K. Hendricks" gain="0"></p_pa>
+    <p_tk vh="H" name="Curtis Jefferso"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="7" spot="WTAMU37" context="V,3,7,H37" playid="21,7,167" type="P" text="Brandon Noohi pass complete to K. Hendricks for no gain to the WTAMU37 (Curtis Jefferso)." newcontext="V,4,7,H37">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="K. Hendricks" gain="0"></p_pa>
+    <p_tk vh="H" name="Curtis Jefferso"></p_tk>
+   </play>
+   <play hasball="UCO" down="4" togo="7" spot="WTAMU37" context="V,4,7,H37" playid="21,8,168" type="E" first="E" text="PENALTY WTAMU unsportsmanlike conduct (Tae Evans) 15 yards to the WTAMU22, 1ST DOWN UCO." newcontext="V,1,10,H22">
+    <p_pn vh="H" code="UC" type="unsportsmanlike conduct" name="Tae Evans" result="ACCEPT" at="H37" yards="15"></p_pn>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU22" context="V,1,10,H22" playid="21,9,169" type="R" first="R" text="Jason Palmer rush for 10 yards to the WTAMU12, 1ST DOWN UCO (Tae Evans)." newcontext="V,1,10,H12">
+    <p_ru vh="V" name="Jason Palmer" gain="10"></p_ru>
+    <p_tk vh="H" name="Tae Evans"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU12" context="V,1,10,H12" playid="21,10,170" type="R" text="Jason Palmer rush for loss of 1 yard to the WTAMU13 (Rashad Sanders;Anthony Scott)." newcontext="V,2,11,H13">
+    <p_ru vh="V" name="Jason Palmer" gain="-1"></p_ru>
+    <p_tk vh="H" name="Rashad Sanders" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Anthony Scott" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <score qtr="3" V="15" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UCO">
+    <firstdowns no="5" rush="3" pass="1" penalty="1"></firstdowns>
+    <penalties no="3" yds="20"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="09:03"></misc>
+    <rush att="13" yds="68" gain="69" loss="1" td="0" long="0"></rush>
+    <pass comp="5" att="6" int="0" yds="46" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="46" td="0" long="0"></rcv>
+    <punt no="2" yds="85" long="6" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="42.5"></punt>
+    <ko no="1" yds="70" ob="0" tb="0"></ko>
+    <defense tackua="10" tacka="1" tot_tack="11" tflua="1" tfla="0" tflyds="8" sacks="2" sackyds="10" brup="1" qbh="1" int="1" intyds="3"></defense>
+    <pr no="1" yds="2" td="0" long="0"></pr>
+    <ir no="1" yds="3" td="0" long="3"></ir>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WTAMU">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="3" yds="44"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:57"></misc>
+    <rush att="6" yds="26" gain="41" loss="15" td="0" long="20"></rush>
+    <pass comp="4" att="11" int="1" yds="35" td="0" long="0" sacks="1" sackyds="8"></pass>
+    <rcv no="4" yds="35" td="0" long="0"></rcv>
+    <punt no="3" yds="109" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="36.3"></punt>
+    <defense tackua="13" tacka="14" tot_tack="27" tflua="2" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="1" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="37" td="0" long="0"></kr>
+    <pr no="1" yds="22" td="0" long="22"></pr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="UCO" down="2" togo="11" spot="WTAMU13" context="V,2,11,H13" playid="21,11,171" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,2,11,H13">
+   </play>
+   <play hasball="UCO" down="2" togo="11" spot="WTAMU13" context="V,2,11,H13" playid="21,12,172" type="P" text="Brandon Noohi pass incomplete to Daniel Morrell." newcontext="V,3,11,H13">
+    <p_pa vh="V" qb="Brandon Noohi" result="INC" rcv="Daniel Morrell"></p_pa>
+   </play>
+   <play hasball="UCO" down="3" togo="11" spot="WTAMU13" context="V,3,11,H13" playid="21,13,173" type="P" text="Brandon Noohi pass incomplete to Brian Booker." newcontext="V,4,11,H13">
+    <p_pa vh="V" qb="Brandon Noohi" result="INC" rcv="Brian Booker"></p_pa>
+   </play>
+   <play hasball="UCO" down="4" togo="11" spot="WTAMU13" context="V,4,11,H13" playid="21,14,174" type="F" score="Y" clock="14:48" text="Ross Weaver field goal attempt from 30 GOOD, clock 14:48." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Ross Weaver" distance="30" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="18" H="10"></score>
+   <drivesum plays="10" yards="62" top="3:26" driveindex="21" complete="Y"></drivesum>
+   <play hasball="UCO" down="1" togo="0" spot="UCO30" context="V,1,0,V30" playid="21,15,175" type="K" text="Ross Weaver kickoff 58 yards to the WTAMU12, Lawrence Hood return 21 yards to the WTAMU33 (A. Anderson)." newcontext="H,1,10,H33">
+    <p_ko vh="V" name="Ross Weaver" gain="58"></p_ko>
+    <p_kr vh="H" name="Lawrence Hood" gain="21"></p_kr>
+    <p_tk vh="V" name="A. Anderson"></p_tk>
+   </play>
+   <drivestart poss="H,H33,14:48" vh="H" spot="H33" clock="14:48" driveindex="22,175"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU33" context="H,1,10,H33" playid="22,1,176" clock="14:37" text="WEST TEXAS A&amp;M drive start at 14:37." newcontext="H,1,10,H33">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU33" context="H,1,10,H33" playid="22,2,177" type="R" text="Jeremy Watson rush for 8 yards to the WTAMU41 (C. Milton;Sam Moses)." newcontext="H,2,2,H41">
+    <p_ru vh="H" name="Jeremy Watson" gain="8"></p_ru>
+    <p_tk vh="V" name="C. Milton" assist="Y"></p_tk>
+    <p_tk vh="V" name="Sam Moses" assist="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="2" spot="WTAMU41" context="H,2,2,H41" playid="22,3,178" type="P" text="Taylor Harris sacked for loss of 3 yards to the WTAMU38 (Quinton Prince)." newcontext="H,3,5,H38">
+    <p_pa vh="H" qb="Taylor Harris" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="V" name="Quinton Prince" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="3" togo="5" spot="WTAMU38" context="H,3,5,H38" playid="22,4,179" type="R" text="Kelvin Thompson rush for 3 yards to the WTAMU41 (Quinton Prince)." newcontext="H,4,2,H41">
+    <p_ru vh="H" name="Kelvin Thompson" gain="3"></p_ru>
+    <p_tk vh="V" name="Quinton Prince"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="4" togo="2" spot="WTAMU41" context="H,4,2,H41" playid="22,5,180" type="U" text="Tim Cowdrey punt 59 yards to the UCO0, touchback, PENALTY UCO holding 10 yards to the UCO10, 1st and 10, UCO ball on UCO10." newcontext="V,1,10,V10">
+    <p_pu vh="H" name="Tim Cowdrey" gain="59" tb="Y"></p_pu>
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="V20" yards="10"></p_pn>
+   </play>
+   <drivesum plays="3" yards="8" top="2:01" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V10,14:37" vh="V" spot="V10" clock="14:37" driveindex="23,180"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO10" context="V,1,10,V10" playid="23,1,181" clock="12:36" text="UCO drive start at 12:36." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO10" context="V,1,10,V10" playid="23,2,182" type="R" text="Jason Palmer rush for 9 yards to the UCO19 (Jordan Smith)." newcontext="V,2,1,V19">
+    <p_ru vh="V" name="Jason Palmer" gain="9"></p_ru>
+    <p_tk vh="H" name="Jordan Smith"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="1" spot="UCO19" context="V,2,1,V19" playid="23,3,183" type="R" first="R" text="Jason Palmer rush for 1 yard to the UCO20, 1ST DOWN UCO (Bo Campbell;Eugene Sims)." newcontext="V,1,10,V20">
+    <p_ru vh="V" name="Jason Palmer" gain="1"></p_ru>
+    <p_tk vh="H" name="Bo Campbell" assist="Y"></p_tk>
+    <p_tk vh="H" name="Eugene Sims" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO20" context="V,1,10,V20" playid="23,4,184" type="R" text="Jason Palmer rush for 2 yards to the UCO22 (Marcus Rose;Jordan Smith)." newcontext="V,2,8,V22">
+    <p_ru vh="V" name="Jason Palmer" gain="2"></p_ru>
+    <p_tk vh="H" name="Marcus Rose" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Smith" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="8" spot="UCO22" context="V,2,8,V22" playid="23,5,185" type="P" first="P" text="Brandon Noohi pass complete to Ryan Gallimore for 13 yards to the UCO35, 1ST DOWN UCO (Caleb Randolph;Eugene Sims)." newcontext="V,1,10,V35">
+    <p_pa vh="V" qb="Brandon Noohi" result="COMP" rcv="Ryan Gallimore" gain="13"></p_pa>
+    <p_tk vh="H" name="Caleb Randolph" assist="Y"></p_tk>
+    <p_tk vh="H" name="Eugene Sims" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO35" context="V,1,10,V35" playid="23,6,186" type="R" first="R" text="Brandon Noohi rush for 35 yards to the WTAMU30, 1ST DOWN UCO (Tae Evans)." newcontext="V,1,10,H30">
+    <p_ru vh="V" name="Brandon Noohi" gain="35"></p_ru>
+    <p_tk vh="H" name="Tae Evans"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU30" context="V,1,10,H30" playid="23,7,187" type="R" text="Jason Palmer rush for 1 yard to the WTAMU29 (Mark Ford;Harry Small)." newcontext="V,2,9,H29">
+    <p_ru vh="V" name="Jason Palmer" gain="1"></p_ru>
+    <p_tk vh="H" name="Mark Ford" assist="Y"></p_tk>
+    <p_tk vh="H" name="Harry Small" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="9" spot="WTAMU29" context="V,2,9,H29" playid="23,8,188" type="R" text="Jason Palmer rush for loss of 3 yards to the WTAMU32 (Bryan Braman;Joseph Peterson)." newcontext="V,3,12,H32">
+    <p_ru vh="V" name="Jason Palmer" gain="-3"></p_ru>
+    <p_tk vh="H" name="Bryan Braman" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Joseph Peterson" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="12" spot="WTAMU32" context="V,3,12,H32" playid="23,9,189" type="R" first="R" text="Jason Palmer rush for 13 yards to the WTAMU19, 1ST DOWN UCO (Jordan Smith)." newcontext="V,1,10,H19">
+    <p_ru vh="V" name="Jason Palmer" gain="13"></p_ru>
+    <p_tk vh="H" name="Jordan Smith"></p_tk>
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="WTAMU19" context="V,1,10,H19" playid="23,10,190" type="R" text="Jason Palmer rush for loss of 2 yards to the WTAMU21 (Harry Small)." newcontext="V,2,12,H21">
+    <p_ru vh="V" name="Jason Palmer" gain="-2"></p_ru>
+    <p_tk vh="H" name="Harry Small" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="12" spot="WTAMU21" context="V,2,12,H21" playid="23,11,191" type="R" text="Brandon Noohi rush for 7 yards to the WTAMU14, PENALTY UCO illegal forward pass (Brandon Noohi) 5 yards to the WTAMU19." newcontext="V,3,10,H19">
+    <p_ru vh="V" name="Brandon Noohi" gain="7"></p_ru>
+    <p_pn vh="V" code="FP" type="illegal forward pass" name="Brandon Noohi" result="ACCEPT" at="H14" yards="5"></p_pn>
+   </play>
+   <play hasball="UCO" down="3" togo="10" spot="WTAMU19" context="V,3,10,H19" playid="23,12,192" type="P" text="Brandon Noohi pass incomplete to Ryan Gallimore (Curtis Jefferso)." newcontext="V,4,10,H19">
+    <p_pa vh="V" qb="Brandon Noohi" result="INC" rcv="Ryan Gallimore"></p_pa>
+    <p_bu vh="H" name="Curtis Jefferso"></p_bu>
+   </play>
+   <play hasball="UCO" down="4" togo="10" spot="WTAMU19" context="V,4,10,H19" playid="23,13,193" type="F" clock="08:05" text="Ross Weaver field goal attempt from 37 BLOCKED, recovered by WTAMU Eugene Sims at WTAMU20 spot at WTAMU20, clock 08:05 (blocked by Eugene Sims)." newcontext="H,1,10,H20">
+    <p_fg vh="V" name="Ross Weaver" distance="37" result="BLOCKED"></p_fg>
+   </play>
+   <drivesum plays="12" yards="71" top="4:31" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,H20,08:05" vh="H" spot="H20" clock="08:05" driveindex="24,193"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU20" context="H,1,10,H20" playid="24,1,194" type="R" text="Kelvin Thompson rush for 8 yards to the WTAMU28 (Prentice Muse;C. Milton)." newcontext="H,2,2,H28">
+    <p_ru vh="H" name="Kelvin Thompson" gain="8"></p_ru>
+    <p_tk vh="V" name="Prentice Muse" assist="Y"></p_tk>
+    <p_tk vh="V" name="C. Milton" assist="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="2" spot="WTAMU28" context="H,2,2,H28" playid="24,2,195" type="R" first="R" text="Kelvin Thompson rush for 4 yards to the WTAMU32, 1ST DOWN WTAMU (Jermelle Cudjo)." newcontext="H,1,10,H32">
+    <p_ru vh="H" name="Kelvin Thompson" gain="4"></p_ru>
+    <p_tk vh="V" name="Jermelle Cudjo"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU32" context="H,1,10,H32" playid="24,3,196" type="P" text="Taylor Harris pass incomplete to Brittan Golden (Terry Hardeman)." newcontext="H,2,10,H32">
+    <p_pa vh="H" qb="Taylor Harris" result="INC" rcv="Brittan Golden"></p_pa>
+    <p_bu vh="V" name="Terry Hardeman"></p_bu>
+   </play>
+   <play hasball="WTAMU" down="2" togo="10" spot="WTAMU32" context="H,2,10,H32" playid="24,4,197" type="P" text="Taylor Harris sacked for loss of 6 yards to the WTAMU26 (Terry Hardeman), PENALTY WTAMU holding declined." newcontext="H,3,16,H26">
+    <p_pa vh="H" qb="Taylor Harris" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="V" name="Terry Hardeman" sack="Y" tfl="Y"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="WTAMU" down="3" togo="16" spot="WTAMU26" context="H,3,16,H26" playid="24,5,198" type="P" text="Taylor Harris pass incomplete to A J. Ruffins." newcontext="H,4,16,H26">
+    <p_pa vh="H" qb="Taylor Harris" result="INC" rcv="A J. Ruffins"></p_pa>
+   </play>
+   <drivesum plays="5" yards="6" top="1:33" driveindex="24" complete="Y"></drivesum>
+   <play hasball="WTAMU" down="4" togo="16" spot="WTAMU26" context="H,4,16,H26" playid="24,6,199" type="K" text="James Chandler kickoff 50 yards to the UCO24, K. Hendricks return -5 yards to the UCO19." newcontext="V,1,10,V19">
+    <p_ko vh="H" name="James Chandler" gain="50"></p_ko>
+    <p_kr vh="V" name="K. Hendricks" gain="-5"></p_kr>
+   </play>
+   <drivestart poss="V,V19,08:05" vh="V" spot="V19" clock="08:05" driveindex="25,199"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO19" context="V,1,10,V19" playid="25,1,200" clock="06:32" text="UCO drive start at 06:32, 1st and 10." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO19" context="V,1,10,V19" playid="25,2,201" type="R" text="Jason Palmer rush for loss of 1 yard to the UCO18 (Kevin McCluskey)." newcontext="V,2,11,V18">
+    <p_ru vh="V" name="Jason Palmer" gain="-1"></p_ru>
+    <p_tk vh="H" name="Kevin McCluskey" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="11" spot="UCO18" context="V,2,11,V18" playid="25,3,202" type="R" text="Brandon Noohi rush for 4 yards to the UCO22 (Harry Small;Curtis Jefferso)." newcontext="V,3,7,V22">
+    <p_ru vh="V" name="Brandon Noohi" gain="4"></p_ru>
+    <p_tk vh="H" name="Harry Small" assist="Y"></p_tk>
+    <p_tk vh="H" name="Curtis Jefferso" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="3" togo="7" spot="UCO22" context="V,3,7,V22" playid="25,4,203" type="E" text="Brandon Noohi pass complete to Ryan Gallimore for 7 yards to the UCO29, PENALTY UCO ineligible downfield on pass 5 yards to the UCO17, NO PLAY." newcontext="V,3,12,V17">
+    <p_pn vh="V" code="ID" type="ineligible downfield on pass" result="ACCEPT" at="V22" yards="5"></p_pn>
+   </play>
+   <play hasball="UCO" down="3" togo="12" spot="UCO17" context="V,3,12,V17" playid="25,5,204" type="R" text="Brandon Noohi rush for no gain to the UCO17 (Aaron Wampler;B. Marshall)." newcontext="V,4,12,V17">
+    <p_ru vh="V" name="Brandon Noohi" gain="0"></p_ru>
+    <p_tk vh="H" name="Aaron Wampler" assist="Y"></p_tk>
+    <p_tk vh="H" name="B. Marshall" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="4" togo="12" spot="UCO17" context="V,4,12,V17" playid="25,6,205" type="U" text="Nick Chalifoux punt 32 yards to the UCO49, downed." newcontext="H,1,10,V49">
+    <p_pu vh="V" name="Nick Chalifoux" gain="32"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-2" top="2:11" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="H,V49,06:32" vh="H" spot="V49" clock="06:32" driveindex="26,205"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="UCO49" context="H,1,10,V49" playid="26,1,206" clock="04:21" text="WEST TEXAS A&amp;M drive start at 04:21." newcontext="H,1,10,V49">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="UCO49" context="H,1,10,V49" playid="26,2,207" type="R" text="Kelvin Thompson rush for 9 yards to the UCO40 (Giorgio Durham;Quinton Prince)." newcontext="H,2,1,V40">
+    <p_ru vh="H" name="Kelvin Thompson" gain="9"></p_ru>
+    <p_tk vh="V" name="Giorgio Durham" assist="Y"></p_tk>
+    <p_tk vh="V" name="Quinton Prince" assist="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="1" spot="UCO40" context="H,2,1,V40" playid="26,3,208" type="P" text="Taylor Harris pass incomplete to Brittan Golden." newcontext="H,3,1,V40">
+    <p_pa vh="H" qb="Taylor Harris" result="INC" rcv="Brittan Golden"></p_pa>
+   </play>
+   <play hasball="WTAMU" down="3" togo="1" spot="UCO40" context="H,3,1,V40" playid="26,4,209" type="E" text="PENALTY WTAMU false start (Michael Zoch) 5 yards to the UCO45." newcontext="H,3,6,V45">
+    <p_pn vh="H" code="FS" type="false start" name="Michael Zoch" result="ACCEPT" at="V40" yards="5"></p_pn>
+   </play>
+   <play hasball="WTAMU" down="3" togo="6" spot="UCO45" context="H,3,6,V45" playid="26,5,210" type="P" text="Taylor Harris pass complete to A J. Ruffins for 5 yards to the UCO40 (C. Milton)." newcontext="H,4,1,V40">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="A J. Ruffins" gain="5"></p_pa>
+    <p_tk vh="V" name="C. Milton"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="4" togo="1" spot="UCO40" context="H,4,1,V40" playid="26,6,211" type="#" clock="02:52" text="Timeout UCO, clock 02:52." newcontext="H,4,1,V40">
+    <p_to vh="V" team="UCO"></p_to>
+   </play>
+   <play hasball="WTAMU" down="4" togo="1" spot="UCO40" context="H,4,1,V40" playid="26,7,212" type="P" first="P" text="Taylor Harris pass complete to A J. Ruffins for 5 yards to the UCO35, 1ST DOWN WTAMU (Maurice Henry), PENALTY UCO pass interference declined." newcontext="H,1,10,V35">
+    <p_pa vh="H" qb="Taylor Harris" result="COMP" rcv="A J. Ruffins" gain="5"></p_pa>
+    <p_tk vh="V" name="Maurice Henry"></p_tk>
+    <p_pn vh="V" code="PI" type="pass interference" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="UCO35" context="H,1,10,V35" playid="26,8,213" type="R" text="Jeremy Watson rush for 3 yards to the UCO32 (Herbert Byrd;Terry Hardeman)." newcontext="H,2,7,V32">
+    <p_ru vh="H" name="Jeremy Watson" gain="3"></p_ru>
+    <p_tk vh="V" name="Herbert Byrd" assist="Y"></p_tk>
+    <p_tk vh="V" name="Terry Hardeman" assist="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="2" togo="7" spot="UCO32" context="H,2,7,V32" playid="26,9,214" type="R" text="Taylor Harris rush for loss of 15 yards to the UCO47." newcontext="H,3,22,V47">
+    <p_ru vh="H" name="Taylor Harris" gain="-15"></p_ru>
+   </play>
+   <play hasball="WTAMU" down="3" togo="22" spot="UCO47" context="H,3,22,V47" playid="26,10,215" type="P" text="Taylor Harris pass incomplete to Tyson Williams." newcontext="H,4,22,V47">
+    <p_pa vh="H" qb="Taylor Harris" result="INC" rcv="Tyson Williams"></p_pa>
+   </play>
+   <play hasball="WTAMU" down="4" togo="22" spot="UCO47" context="H,4,22,V47" playid="26,11,216" type="P" text="Taylor Harris pass incomplete to A J. Ruffins (C. Milton)." newcontext="V,1,10,V47">
+    <p_pa vh="H" qb="Taylor Harris" result="INC" rcv="A J. Ruffins"></p_pa>
+    <p_bu vh="V" name="C. Milton"></p_bu>
+   </play>
+   <drivesum plays="8" yards="2" top="3:03" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="V,V47,02:52" vh="V" spot="V47" clock="02:52" driveindex="27,216"></drivestart>
+   <play hasball="UCO" down="1" togo="10" spot="UCO47" context="V,1,10,V47" playid="27,1,217" clock="01:18" text="UCO drive start at 01:18." newcontext="V,1,10,V47">
+   </play>
+   <play hasball="UCO" down="1" togo="10" spot="UCO47" context="V,1,10,V47" playid="27,2,218" type="R" text="Jason Palmer rush for 2 yards to the UCO49 (Chris Brown;Kevin McCluskey)." newcontext="V,2,8,V49">
+    <p_ru vh="V" name="Jason Palmer" gain="2"></p_ru>
+    <p_tk vh="H" name="Chris Brown" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kevin McCluskey" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCO" down="2" togo="8" spot="UCO49" context="V,2,8,V49" playid="27,3,219" type="#" clock="01:15" text="Timeout West Texas A&amp;M, clock 01:15." newcontext="V,2,8,V49">
+    <p_to vh="H" team="West Texas A&amp;M"></p_to>
+   </play>
+   <play hasball="UCO" down="2" togo="8" spot="UCO49" context="V,2,8,V49" playid="27,4,220" type="R" first="R" score="Y" clock="01:05" text="Jason Palmer rush for 51 yards to the WTAMU0, 1ST DOWN UCO, TOUCHDOWN, clock 01:05." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Jason Palmer" gain="51"></p_ru>
+   </play>
+   <play hasball="UCO" down="1" togo="0" spot="WTAMU03" context="V,1,0,H03" playid="27,5,221" type="X" text="Ross Weaver kick attempt failed." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Ross Weaver" qb="Ross Weaver" type="K" result="MISSED"></p_pat>
+   </play>
+   <score V="24" H="10"></score>
+   <drivesum plays="2" yards="53" top="0:13" driveindex="27" complete="Y"></drivesum>
+   <play hasball="UCO" down="1" togo="0" spot="UCO30" context="V,1,0,V30" playid="27,6,222" type="K" text="Ross Weaver kickoff 65 yards to the WTAMU5, Jeremy Watson return 43 yards to the WTAMU48 (David Cooper)." newcontext="H,1,10,H48">
+    <p_ko vh="V" name="Ross Weaver" gain="65"></p_ko>
+    <p_kr vh="H" name="Jeremy Watson" gain="43"></p_kr>
+    <p_tk vh="V" name="David Cooper"></p_tk>
+   </play>
+   <drivestart poss="H,H48,01:05" vh="H" spot="H48" clock="01:05" driveindex="28,222"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU48" context="H,1,10,H48" playid="28,1,223" clock="00:55" text="WEST TEXAS A&amp;M drive start at 00:55." newcontext="H,1,10,H48">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU48" context="H,1,10,H48" playid="28,2,224" type="R" first="R" text="Tanner Marsh rush for 36 yards to the UCO16, 1ST DOWN WTAMU (Giorgio Durham)." newcontext="H,1,10,V16">
+    <p_ru vh="H" name="Tanner Marsh" gain="36"></p_ru>
+    <p_tk vh="V" name="Giorgio Durham"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="UCO16" context="H,1,10,V16" playid="28,3,225" type="P" text="Tanner Marsh pass incomplete to Brittan Golden (C. Milton)." newcontext="H,2,10,V16">
+    <p_pa vh="H" qb="Tanner Marsh" result="INC" rcv="Brittan Golden"></p_pa>
+    <p_bu vh="V" name="C. Milton"></p_bu>
+   </play>
+   <play hasball="WTAMU" down="2" togo="10" spot="UCO16" context="H,2,10,V16" playid="28,4,226" type="P" text="Tanner Marsh pass complete to Brittan Golden for 6 yards to the UCO10 (Terrence Hill)." newcontext="H,3,4,V10">
+    <p_pa vh="H" qb="Tanner Marsh" result="COMP" rcv="Brittan Golden" gain="6"></p_pa>
+    <p_tk vh="V" name="Terrence Hill"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="3" togo="4" spot="UCO10" context="H,3,4,V10" playid="28,5,227" type="#" clock="00:30" text="Timeout West Texas A&amp;M, clock 00:30." newcontext="H,3,4,V10">
+    <p_to vh="H" team="West Texas A&amp;M"></p_to>
+   </play>
+   <play hasball="WTAMU" down="3" togo="4" spot="UCO10" context="H,3,4,V10" playid="28,6,228" type="P" text="Tanner Marsh pass incomplete to A J. Ruffins (Sam Moses)." newcontext="H,4,4,V10">
+    <p_pa vh="H" qb="Tanner Marsh" result="INC" rcv="A J. Ruffins"></p_pa>
+    <p_bu vh="V" name="Sam Moses"></p_bu>
+   </play>
+   <play hasball="WTAMU" down="4" togo="4" spot="UCO10" context="H,4,4,V10" playid="28,7,229" type="P" first="P" text="Tanner Marsh pass complete to Tyson Williams for 5 yards to the UCO5, 1ST DOWN WTAMU (Terry Hardeman)." newcontext="H,1,0,V05">
+    <p_pa vh="H" qb="Tanner Marsh" result="COMP" rcv="Tyson Williams" gain="5"></p_pa>
+    <p_tk vh="V" name="Terry Hardeman"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="1" togo="0" spot="UCO05" context="H,1,0,V05" playid="28,8,230" type="#" clock="00:17" text="Timeout UCO, clock 00:17." newcontext="H,1,0,V05">
+    <p_to vh="V" team="UCO"></p_to>
+   </play>
+   <play hasball="WTAMU" down="1" togo="0" spot="UCO05" context="H,1,0,V05" playid="28,9,231" type="P" text="Tanner Marsh pass incomplete to A J. Ruffins." newcontext="H,2,0,V05">
+    <p_pa vh="H" qb="Tanner Marsh" result="INC" rcv="A J. Ruffins"></p_pa>
+   </play>
+   <play hasball="WTAMU" down="2" togo="0" spot="UCO05" context="H,2,0,V05" playid="28,10,232" type="P" text="Tanner Marsh pass complete to Kelvin Thompson for loss of 4 yards to the UCO9 (Prentice Muse)." newcontext="H,3,0,V09">
+    <p_pa vh="H" qb="Tanner Marsh" result="COMP" rcv="Kelvin Thompson" gain="-4"></p_pa>
+    <p_tk vh="V" name="Prentice Muse" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WTAMU" down="3" togo="0" spot="UCO09" context="H,3,0,V09" playid="28,11,233" type="#" clock="00:08" text="Timeout West Texas A&amp;M, clock 00:08." newcontext="H,3,0,V09">
+    <p_to vh="H" team="West Texas A&amp;M"></p_to>
+   </play>
+   <play hasball="WTAMU" down="3" togo="0" spot="UCO09" context="H,3,0,V09" playid="28,12,234" type="P" score="Y" clock="00:01" text="Tanner Marsh pass complete to Tyson Williams for 9 yards to the UCO0, TOUCHDOWN, clock 00:01." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Tanner Marsh" result="COMP" rcv="Tyson Williams" gain="9"></p_pa>
+   </play>
+   <play hasball="WTAMU" down="1" togo="0" spot="UCO03" context="H,1,0,V03" playid="28,13,235" type="X" score="Y" text="James Chandler kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="James Chandler" qb="James Chandler" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="24" H="17"></score>
+   <play hasball="WTAMU" down="1" togo="0" spot="WTAMU30" context="H,1,0,H30" playid="28,14,236" type="E" text="PENALTY WTAMU delay of game 5 yards to the WTAMU25." newcontext="H,1,0,H25">
+    <p_pn vh="H" code="DG" type="delay of game" result="ACCEPT" at="H30" yards="5"></p_pn>
+   </play>
+   <drivesum plays="8" yards="52" top="0:54" driveindex="28" complete="Y"></drivesum>
+   <play hasball="WTAMU" down="1" togo="0" spot="WTAMU25" context="H,1,0,H25" playid="28,15,237" type="K" text="James Chandler kickoff 19 yards to the WTAMU44, on-side kick (touch by receiving team), recovered by WTAMU on WTAMU44." newcontext="H,1,10,H44">
+    <p_ko vh="H" name="James Chandler" gain="19" result="N"></p_ko>
+   </play>
+   <drivestart poss="H,H44,00:01" vh="H" spot="H44" clock="00:01" driveindex="29,237"></drivestart>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU44" context="H,1,10,H44" playid="29,1,238" clock="00:00" text="WEST TEXAS A&amp;M drive start at 00:00." newcontext="H,1,10,H44">
+   </play>
+   <play hasball="WTAMU" down="1" togo="10" spot="WTAMU44" context="H,1,10,H44" playid="29,2,239" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,1,10,H44">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="29" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Central Oklahoma defeats WTAMU by a score of 24 to 17."></play>
+   <score final="Y" V="24" H="17"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UCO">
+    <firstdowns no="5" rush="4" pass="1" penalty="0"></firstdowns>
+    <penalties no="3" yds="20"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="07:07"></misc>
+    <rush att="14" yds="119" gain="125" loss="6" td="1" long="30"></rush>
+    <pass comp="1" att="4" int="0" yds="13" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="13" td="0" long="0"></rcv>
+    <punt no="1" yds="32" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="32.0"></punt>
+    <ko no="2" yds="123" ob="0" tb="0"></ko>
+    <fg made="1" att="2" long="30" blkd="1"></fg>
+    <pat kickatt="1" kickmade="0"></pat>
+    <defense tackua="12" tacka="8" tot_tack="20" tflua="3" tfla="0" tflyds="13" sacks="4" sackyds="19" brup="4"></defense>
+    <kr no="2" yds="-5" td="0" long="0"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WTAMU">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="6" fourthconv="2" fourthatt="3"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="1" top="07:53"></misc>
+    <rush att="10" yds="47" gain="71" loss="24" td="0" long="11"></rush>
+    <pass comp="6" att="14" int="0" yds="26" td="1" long="0" sacks="2" sackyds="9"></pass>
+    <rcv no="6" yds="26" td="1" long="0"></rcv>
+    <punt no="1" yds="59" long="17" blkd="0" tb="1" fc="0" plus50="1" inside20="0" avg="59.0"></punt>
+    <ko no="1" yds="50" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="5" tacka="16" tot_tack="21" tflua="4" tfla="0" tflyds="9" sacks="0" sackyds="0" brup="1" blkd="1"></defense>
+    <kr no="2" yds="64" td="0" long="4"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="WTAMU" down="1" togo="10" spot="WTAMU44" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="0" htor="0" dtgtext="Game Over" ldtext="Drive started: 00:55, 4th Qtr"></downtogo>
+ </plays>

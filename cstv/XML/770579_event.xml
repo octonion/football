@@ -1,0 +1,796 @@
+<plays format="summary">
+    <qtr number="1" text="1st">
+      <play hasball="Duke" down="1" togo="10" spot="Duke30" context="H,1,10,H30" playid="0,1,0" text="Duke ball on Duke30." newcontext="H,1,10,H30">
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke30" context="H,1,10,H30" playid="0,2,1" type="K" text="Duke kickoff to the Rich6, Tre Gray return 11 yards to the Rich17." newcontext="V,1,10,V17">
+        <p_kr vh="V" name="Tre Gray" gain="11"></p_kr>
+      </play>
+      <drivestart poss="V,V17,15:00" vh="V" spot="V17" clock="15:00" driveindex="1,1"></drivestart>
+      <play hasball="Rich" down="1" togo="10" spot="Rich17" context="V,1,10,V17" playid="1,1,2" type="P" clock="14:54" text="Eric Ward pass complete to Jordan Mitchell for 6 yards to the Rich23, clock 14:54." newcontext="V,2,4,V23">
+        <p_pa vh="V" qb="Eric Ward" result="COMP" rcv="Jordan Mitchell" gain="6"></p_pa>
+      </play>
+      <play hasball="Rich" down="2" togo="4" spot="Rich23" context="V,2,4,V23" playid="1,2,3" type="R" first="R" clock="14:54" text="Justin Forte rush for 4 yards to the Rich27, 1ST DOWN Rich, clock 14:54." newcontext="V,1,10,V27">
+        <p_ru vh="V" name="Justin Forte" gain="4"></p_ru>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich27" context="V,1,10,V27" playid="1,3,4" type="R" clock="14:00" text="Tre Gray rush for 3 yards to the Rich30, clock 14:00." newcontext="V,2,7,V30">
+        <p_ru vh="V" name="Tre Gray" gain="3"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="7" spot="Rich30" context="V,2,7,V30" playid="1,4,5" type="R" first="R" clock="14:00" text="Justin Forte rush for 11 yards to the Rich41, 1ST DOWN Rich, clock 14:00." newcontext="V,1,10,V41">
+        <p_ru vh="V" name="Justin Forte" gain="11"></p_ru>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich41" context="V,1,10,V41" playid="1,5,6" type="P" clock="13:30" text="Eric Ward pass incomplete, clock 13:30." newcontext="V,2,10,V41">
+        <p_pa vh="V" qb="Eric Ward" result="INC"></p_pa>
+      </play>
+      <play hasball="Rich" down="2" togo="10" spot="Rich41" context="V,2,10,V41" playid="1,6,7" type="P" clock="13:30" text="Eric Ward pass incomplete, clock 13:30." newcontext="V,3,10,V41">
+        <p_pa vh="V" qb="Eric Ward" result="INC"></p_pa>
+      </play>
+      <play hasball="Rich" down="3" togo="10" spot="Rich41" context="V,3,10,V41" playid="1,7,8" type="R" clock="13:30" text="Eric Ward rush for 7 yards to the Rich48, clock 13:30." newcontext="V,4,3,V48">
+        <p_ru vh="V" name="Eric Ward" gain="7"></p_ru>
+      </play>
+      <play hasball="Rich" down="4" togo="3" spot="Rich48" context="V,4,3,V48" playid="1,8,9" type="U" text="Brian Radford punt 35 yards to the Duke17." newcontext="H,1,10,H17">
+        <p_pu vh="V" name="Brian Radford" gain="35" in20="Y"></p_pu>
+      </play>
+      <drivesum plays="7" yards="31" top="2:15" driveindex="1" complete="Y"></drivesum>
+      <drivestart poss="H,H17,12:45" vh="H" spot="H17" clock="12:45" driveindex="2,9"></drivestart>
+      <play hasball="Duke" down="1" togo="10" spot="Duke17" context="H,1,10,H17" playid="2,1,10" clock="12:45" text="DUKE drive start at 12:45." newcontext="H,1,10,H17">
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke17" context="H,1,10,H17" playid="2,2,11" type="P" clock="12:45" text="Thaddeus Lewis pass complete to Johnny Williams for 7 yards to the Duke24, clock 12:45." newcontext="H,2,3,H24">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Johnny Williams" gain="7"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="3" spot="Duke24" context="H,2,3,H24" playid="2,3,12" type="P" clock="12:20" text="Thaddeus Lewis pass incomplete, clock 12:20." newcontext="H,3,3,H24">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="3" togo="3" spot="Duke24" context="H,3,3,H24" playid="2,4,13" type="E" first="E" clock="12:20" text="PENALTY Rich 5 yards to the Duke29, 1ST DOWN Duke, clock 12:20." newcontext="H,1,10,H29">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H24" yards="5"></p_pn>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke29" context="H,1,10,H29" playid="2,5,14" type="P" clock="12:00" text="Thaddeus Lewis pass complete to Austin Kelly for 8 yards to the Duke37, clock 12:00." newcontext="H,2,2,H37">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Austin Kelly" gain="8"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="2" spot="Duke37" context="H,2,2,H37" playid="2,6,15" type="P" clock="12:00" text="Thaddeus Lewis pass incomplete, clock 12:00." newcontext="H,3,2,H37">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="3" togo="2" spot="Duke37" context="H,3,2,H37" playid="2,7,16" type="R" first="R" clock="12:00" text="Re'quan Boyette rush for 5 yards to the Duke42, 1ST DOWN Duke, clock 12:00." newcontext="H,1,10,H42">
+        <p_ru vh="H" name="Re'quan Boyette" gain="5"></p_ru>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke42" context="H,1,10,H42" playid="2,8,17" type="R" clock="12:00" text="Re'quan Boyette rush for 3 yards to the Duke45, clock 12:00." newcontext="H,2,7,H45">
+        <p_ru vh="H" name="Re'quan Boyette" gain="3"></p_ru>
+      </play>
+      <play hasball="Duke" down="2" togo="7" spot="Duke45" context="H,2,7,H45" playid="2,9,18" type="R" clock="12:00" text="Re'quan Boyette rush for loss of 6 yards to the Duke39, clock 12:00." newcontext="H,3,13,H39">
+        <p_ru vh="H" name="Re'quan Boyette" gain="-6"></p_ru>
+      </play>
+      <play hasball="Duke" down="3" togo="13" spot="Duke39" context="H,3,13,H39" playid="2,10,19" type="P" clock="12:00" text="Thaddeus Lewis pass incomplete, clock 12:00." newcontext="H,4,13,H39">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="4" togo="13" spot="Duke39" context="H,4,13,H39" playid="2,11,20" type="U" score="Y" clock="08:50" text="Kevin Jones punt BLOCKED, recovered by Rich Jonathan Mayfield at Duke39, Jonathan Mayfield for 39 yards to the Duke0, TOUCHDOWN, clock 08:50." newcontext="V,1,0,H03">
+        <p_pu vh="H" name="Kevin Jones" gain="0" blkd="Y"></p_pu>
+        <p_cont vh="V" name="Jonathan Mayfield" context="PUNT" at="H39" gain="39"></p_cont>
+      </play>
+      <drivesum plays="9" yards="22" top="3:55" driveindex="2" complete="Y"></drivesum>
+      <score V="7" H="6"></score>
+      <drivestart poss="V,H00,08:50" vh="V" spot="H00" clock="08:50" driveindex="3,20"></drivestart>
+      <play hasball="Rich" down="1" togo="0" spot="Duke00" context="V,1,0,H00" playid="3,1,21" clock="08:50" text="RICHMOND drive start at 08:50." newcontext="V,1,0,H00">
+      </play>
+      <play hasball="Rich" down="1" togo="0" spot="Duke03" context="V,1,0,H03" playid="3,2,22" type="X" score="Y" text="Andrew Howard kick attempt good." newcontext="V,1,0,V30">
+        <p_pat vh="V" name="Andrew Howard" qb="Andrew Howard" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="0" yards="0" top="0:00" driveindex="3" complete="Y"></drivesum>
+      <score V="7" H="6"></score>
+      <play hasball="Rich" down="1" togo="0" spot="Rich30" context="V,1,0,V30" playid="3,3,23" type="K" text="Rich kickoff to the Duke9, Re'quan Boyette return 17 yards to the Duke26." newcontext="H,1,10,H26">
+        <p_kr vh="H" name="Re'quan Boyette" gain="17"></p_kr>
+      </play>
+      <drivestart poss="H,H26,08:50" vh="H" spot="H26" clock="08:50" driveindex="4,23"></drivestart>
+      <play hasball="Duke" down="1" togo="10" spot="Duke26" context="H,1,10,H26" playid="4,1,24" clock="08:50" text="DUKE drive start at 08:50." newcontext="H,1,10,H26">
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke26" context="H,1,10,H26" playid="4,2,25" type="P" clock="08:45" text="Thaddeus Lewis pass complete to Johnny Williams for 5 yards to the Duke31, clock 08:45." newcontext="H,2,5,H31">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Johnny Williams" gain="5"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="5" spot="Duke31" context="H,2,5,H31" playid="4,3,26" type="P" first="P" clock="08:30" text="Thaddeus Lewis pass complete to Donovan Varner for 6 yards to the Duke37, 1ST DOWN Duke, clock 08:30." newcontext="H,1,10,H37">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Donovan Varner" gain="6"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke37" context="H,1,10,H37" playid="4,4,27" type="P" clock="08:30" text="Thaddeus Lewis pass incomplete, clock 08:30." newcontext="H,2,10,H37">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="10" spot="Duke37" context="H,2,10,H37" playid="4,5,28" type="#" clock="07:29" text="Timeout DUKE, clock 07:29." newcontext="H,2,10,H37">
+        <p_to vh="H" team="DUKE"></p_to>
+      </play>
+      <play hasball="Duke" down="2" togo="10" spot="Duke37" context="H,2,10,H37" playid="4,6,29" type="P" clock="07:29" text="Thaddeus Lewis pass complete to Austin Kelly for 3 yards to the Duke40, clock 07:29." newcontext="H,3,7,H40">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Austin Kelly" gain="3"></p_pa>
+      </play>
+      <play hasball="Duke" down="3" togo="7" spot="Duke40" context="H,3,7,H40" playid="4,7,30" type="P" clock="07:29" text="Thaddeus Lewis pass complete to Johnny Williams for 5 yards to the Duke45, clock 07:29." newcontext="H,4,2,H45">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Johnny Williams" gain="5"></p_pa>
+      </play>
+      <play hasball="Duke" down="4" togo="2" spot="Duke45" context="H,4,2,H45" playid="4,8,31" type="U" text="Kevin Jones punt 42 yards to the Rich13." newcontext="V,1,10,V13">
+        <p_pu vh="H" name="Kevin Jones" gain="42" in20="Y"></p_pu>
+      </play>
+      <drivesum plays="5" yards="19" top="1:21" driveindex="4" complete="Y"></drivesum>
+      <drivestart poss="V,V13,07:29" vh="V" spot="V13" clock="07:29" driveindex="5,31"></drivestart>
+      <play hasball="Rich" down="1" togo="10" spot="Rich13" context="V,1,10,V13" playid="5,1,32" clock="07:29" text="RICHMOND drive start at 07:29." newcontext="V,1,10,V13">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich13" context="V,1,10,V13" playid="5,2,33" type="R" clock="07:29" text="Justin Forte rush for 2 yards to the Rich15, clock 07:29." newcontext="V,2,8,V15">
+        <p_ru vh="V" name="Justin Forte" gain="2"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="8" spot="Rich15" context="V,2,8,V15" playid="5,3,34" type="P" clock="06:50" text="Eric Ward pass incomplete, clock 06:50." newcontext="V,3,8,V15">
+        <p_pa vh="V" qb="Eric Ward" result="INC"></p_pa>
+      </play>
+      <play hasball="Rich" down="3" togo="8" spot="Rich15" context="V,3,8,V15" playid="5,4,35" type="P" clock="06:50" text="Eric Ward pass incomplete, clock 06:50." newcontext="V,4,8,V15">
+        <p_pa vh="V" qb="Eric Ward" result="INC"></p_pa>
+      </play>
+      <play hasball="Rich" down="4" togo="8" spot="Rich15" context="V,4,8,V15" playid="5,5,36" type="R" score="Y" clock="06:50" text="TEAM rush for loss of 15 yards to the Rich0, TEAM safety, clock 06:50." newcontext="V,4,8,V30">
+        <p_ru vh="V" name="TEAM" gain="-15"></p_ru>
+      </play>
+      <drivesum plays="4" yards="-13" top="0:39" driveindex="5" complete="Y"></drivesum>
+      <drivestart poss="V,V30,05:01" vh="V" spot="V30" clock="05:01" driveindex="7,36"></drivestart>
+      <play hasball="Rich" down="1" togo="10" spot="Rich30" context="V,1,10,V30" playid="7,1,37" clock="05:01" text="RICHMOND drive start at 05:01." newcontext="V,1,10,V30">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich30" context="V,1,10,V30" playid="7,2,38" type="K" text="Rich kickoff to the Duke24, Leon Wright return 20 yards to the Duke44." newcontext="H,1,10,H44">
+        <p_kr vh="H" name="Leon Wright" gain="20"></p_kr>
+      </play>
+      <drivesum plays="1" yards="0" top="0:00" driveindex="7" complete="Y"></drivesum>
+      <drivestart poss="H,H44,05:01" vh="H" spot="H44" clock="05:01" driveindex="8,38"></drivestart>
+      <play hasball="Duke" down="1" togo="10" spot="Duke44" context="H,1,10,H44" playid="8,1,39" clock="05:01" text="DUKE drive start at 05:01." newcontext="H,1,10,H44">
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke44" context="H,1,10,H44" playid="8,2,40" type="P" first="P" clock="04:56" text="Thaddeus Lewis pass complete to Conner Vernon for 17 yards to the Rich39, 1ST DOWN Duke, clock 04:56." newcontext="H,1,10,V39">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Conner Vernon" gain="17"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Rich39" context="H,1,10,V39" playid="8,3,41" type="P" clock="04:56" text="Thaddeus Lewis pass complete to Conner Vernon for 5 yards to the Rich34, clock 04:56." newcontext="H,2,5,V34">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Conner Vernon" gain="5"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="5" spot="Rich34" context="H,2,5,V34" playid="8,4,42" type="R" first="R" clock="04:56" text="Jay Hollingsworth rush for 6 yards to the Rich28, 1ST DOWN Duke, clock 04:56." newcontext="H,1,10,V28">
+        <p_ru vh="H" name="Jay Hollingsworth" gain="6"></p_ru>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Rich28" context="H,1,10,V28" playid="8,5,43" type="P" clock="04:56" text="Thaddeus Lewis pass complete to Johnny Williams for 8 yards to the Rich20, clock 04:56." newcontext="H,2,2,V20">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Johnny Williams" gain="8"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="2" spot="Rich20" context="H,2,2,V20" playid="8,6,44" type="R" clock="04:56" text="Jay Hollingsworth rush for no gain to the Rich20, clock 04:56." newcontext="H,3,2,V20">
+        <p_ru vh="H" name="Jay Hollingsworth" gain="0"></p_ru>
+      </play>
+      <play hasball="Duke" down="3" togo="2" spot="Rich20" context="H,3,2,V20" playid="8,7,45" type="P" clock="03:30" text="Thaddeus Lewis pass incomplete, clock 03:30." newcontext="H,4,2,V20">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="4" togo="2" spot="Rich20" context="H,4,2,V20" playid="8,8,46" type="F" clock="03:30" text="Nick Maggio field goal attempt from 38 MISSED, clock 03:30." newcontext="V,1,10,V28">
+        <p_fg vh="H" name="Nick Maggio" distance="38" result="MISSED"></p_fg>
+      </play>
+      <drivesum plays="7" yards="36" top="1:31" driveindex="8" complete="Y"></drivesum>
+      <score V="7" H="8"></score>
+      <drivestart poss="V,V27,02:22" vh="V" spot="V27" clock="02:22" driveindex="9,46"></drivestart>
+      <play hasball="Rich" down="1" togo="10" spot="Rich27" context="V,1,10,V27" playid="9,1,47" clock="02:22" text="RICHMOND drive start at 02:22." newcontext="V,1,10,V27">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich20" context="V,1,10,V20" playid="9,2,48" type="R" clock="02:22" text="Justin Forte rush for 7 yards to the Rich27, clock 02:22." newcontext="V,2,3,V27">
+        <p_ru vh="V" name="Justin Forte" gain="7"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="3" spot="Rich27" context="V,2,3,V27" playid="9,3,49" type="R" first="R" clock="01:55" text="Justin Forte rush for 5 yards to the Rich32, 1ST DOWN Rich, clock 01:55." newcontext="V,1,10,V32">
+        <p_ru vh="V" name="Justin Forte" gain="5"></p_ru>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich32" context="V,1,10,V32" playid="9,4,50" type="P" clock="01:30" text="Eric Ward pass complete to Tre Gray for 7 yards to the Rich39, clock 01:30." newcontext="V,2,3,V39">
+        <p_pa vh="V" qb="Eric Ward" result="COMP" rcv="Tre Gray" gain="7"></p_pa>
+      </play>
+      <play hasball="Rich" down="2" togo="3" spot="Rich39" context="V,2,3,V39" playid="9,5,51" type="P" first="P" clock="01:00" text="Eric Ward pass complete to Garrett Wilkins for 34 yards to the Duke27, 1ST DOWN Rich, clock 01:00." newcontext="V,1,10,H27">
+        <p_pa vh="V" qb="Eric Ward" result="COMP" rcv="Garrett Wilkins" gain="34"></p_pa>
+      </play>
+      <score qtr="1" V="7" H="8"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="Rich">
+        <firstdowns no="4" rush="3" pass="1" penalty="0"></firstdowns>
+        <penalties no="1" yds="5"></penalties>
+        <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="1"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="05:16"></misc>
+        <rush att="8" yds="24" gain="39" loss="15" td="0" long="11"></rush>
+        <pass comp="3" att="7" int="0" yds="47" td="0" long="34" sacks="0" sackyds="0"></pass>
+        <rcv no="3" yds="47" td="0" long="34"></rcv>
+        <punt no="1" yds="35" long="35" blkd="0" tb="0" fc="" plus50="0" inside20="1" avg="35.0"></punt>
+        <ko no="2" yds="" ob="" tb=""></ko>
+        <pat kickatt="1" kickmade="1"></pat>
+        <defense sacks="0" sackyds="0" blkd="1"></defense>
+        <kr no="1" yds="11" td="0" long="11"></kr>
+        <scoring td="1" patkick="1"></scoring>
+      </qtrsummary>
+      <qtrsummary vh="H" id="Duke">
+        <firstdowns no="5" rush="2" pass="2" penalty="1"></firstdowns>
+        <penalties no="0" yds="0"></penalties>
+        <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="06:47"></misc>
+        <rush att="5" yds="8" gain="14" loss="6" td="0" long="6"></rush>
+        <pass comp="9" att="14" int="0" yds="64" td="0" long="17" sacks="0" sackyds="0"></pass>
+        <rcv no="9" yds="64" td="0" long="17"></rcv>
+        <punt no="2" yds="42" long="42" blkd="1" tb="0" fc="" plus50="0" inside20="1" avg="21.0"></punt>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <fg made="0" att="1" long="0" blkd="0"></fg>
+        <defense sacks="0" sackyds="0" saf="1"></defense>
+        <kr no="2" yds="37" td="0" long="20"></kr>
+        <scoring td="1" saf="1"></scoring>
+      </qtrsummary>
+    </qtr>
+    <qtr number="2" text="2nd">
+      <play hasball="Rich" down="1" togo="10" spot="Duke27" context="V,1,10,H27" playid="9,6,52" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,1,10,H27">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Duke27" context="V,1,10,H27" playid="9,7,53" type="R" clock="15:00" text="Garrett Wilkins rush for 3 yards to the Duke24, PENALTY Rich 10 yards to the Duke34, clock 15:00." newcontext="V,2,17,H34">
+        <p_ru vh="V" name="Garrett Wilkins" gain="3"></p_ru>
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H24" yards="10"></p_pn>
+      </play>
+      <play hasball="Rich" down="2" togo="18" spot="Duke35" context="V,2,18,H35" playid="9,8,54" type="R" clock="14:55" text="Garrett Wilkins rush for 3 yards to the Duke32, clock 14:55." newcontext="V,3,15,H32">
+        <p_ru vh="V" name="Garrett Wilkins" gain="3"></p_ru>
+      </play>
+      <play hasball="Rich" down="3" togo="15" spot="Duke32" context="V,3,15,H32" playid="9,9,55" type="P" clock="14:20" text="Kevin Grayson pass complete to Eric Ward for 14 yards to the Duke18, clock 14:20." newcontext="V,4,1,H18">
+        <p_pa vh="V" qb="Kevin Grayson" result="COMP" rcv="Eric Ward" gain="14"></p_pa>
+      </play>
+      <play hasball="Rich" down="4" togo="1" spot="Duke18" context="V,4,1,H18" playid="9,10,56" type="R" clock="14:20" text="Ben Keating rush for no gain to the Duke18, clock 14:20." newcontext="H,1,10,H18">
+        <p_ru vh="V" name="Ben Keating" gain="0"></p_ru>
+      </play>
+      <play hasball="Rich" down="4" togo="1" spot="Duke18" context="V,4,1,H18" playid="9,11,57" type="R" first="R" clock="14:20" text="Tyler Kirchoff rush for 1 yard to the Duke17, 1ST DOWN Rich, clock 14:20." newcontext="V,1,10,H17">
+        <p_ru vh="V" name="Tyler Kirchoff" gain="1"></p_ru>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Duke17" context="V,1,10,H17" playid="9,12,58" type="P" clock="13:30" text="Eric Ward pass incomplete, clock 13:30." newcontext="V,2,10,H17">
+        <p_pa vh="V" qb="Eric Ward" result="INC"></p_pa>
+      </play>
+      <play hasball="Rich" down="2" togo="10" spot="Duke17" context="V,2,10,H17" playid="9,13,59" type="R" clock="12:03" text="Justin Forte rush for no gain to the Duke17, clock 12:03." newcontext="V,3,10,H17">
+        <p_ru vh="V" name="Justin Forte" gain="0"></p_ru>
+      </play>
+      <play hasball="Rich" down="3" togo="10" spot="Duke17" context="V,3,10,H17" playid="9,14,60" type="#" clock="11:16" text="Timeout RICHMOND, clock 11:16." newcontext="V,3,10,H17">
+        <p_to vh="V" team="RICHMOND"></p_to>
+      </play>
+      <play hasball="Rich" down="3" togo="10" spot="Duke16" context="V,3,10,H16" playid="9,15,61" type="P" first="P" clock="11:16" text="Eric Ward pass complete to Tre Gray for 11 yards to the Duke5, 1ST DOWN Rich, clock 11:16." newcontext="V,1,0,H05">
+        <p_pa vh="V" qb="Eric Ward" result="COMP" rcv="Tre Gray" gain="11"></p_pa>
+      </play>
+      <play hasball="Rich" down="1" togo="0" spot="Duke06" context="V,1,0,H06" playid="9,16,62" type="E" clock="10:55" text="PENALTY Duke 4 yards to the Duke2, clock 10:55." newcontext="V,1,0,H02">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="H06" yards="4"></p_pn>
+      </play>
+      <play hasball="Rich" down="1" togo="0" spot="Duke02" context="V,1,0,H02" playid="9,17,63" type="R" score="Y" clock="10:26" text="Justin Forte rush for 2 yards to the Duke0, TOUCHDOWN, clock 10:26." newcontext="V,1,0,H03">
+        <p_ru vh="V" name="Justin Forte" gain="2"></p_ru>
+      </play>
+      <play hasball="Rich" down="1" togo="0" spot="Duke03" context="V,1,0,H03" playid="9,18,64" type="X" score="Y" text="Andrew Howard kick attempt good." newcontext="V,1,0,V30">
+        <p_pat vh="V" name="Andrew Howard" qb="Andrew Howard" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="14" yards="81" top="6:56" driveindex="9" complete="Y"></drivesum>
+      <score V="14" H="8"></score>
+      <play hasball="Rich" down="1" togo="0" spot="Rich30" context="V,1,0,V30" playid="9,19,65" type="K" text="Rich kickoff to the Duke5, Re'quan Boyette return 24 yards to the Duke29." newcontext="H,1,10,H29">
+        <p_kr vh="H" name="Re'quan Boyette" gain="24"></p_kr>
+      </play>
+      <drivestart poss="H,H29,10:26" vh="H" spot="H29" clock="10:26" driveindex="10,65"></drivestart>
+      <play hasball="Duke" down="1" togo="10" spot="Duke29" context="H,1,10,H29" playid="10,1,66" clock="10:26" text="DUKE drive start at 10:26." newcontext="H,1,10,H29">
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke29" context="H,1,10,H29" playid="10,2,67" type="P" clock="10:21" text="Thaddeus Lewis pass incomplete, clock 10:21." newcontext="H,2,10,H29">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="10" spot="Duke29" context="H,2,10,H29" playid="10,3,68" type="P" first="P" clock="10:18" text="Thaddeus Lewis pass complete to Re'quan Boyette for 16 yards to the Duke45, 1ST DOWN Duke, clock 10:18." newcontext="H,1,10,H45">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Re'quan Boyette" gain="16"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke45" context="H,1,10,H45" playid="10,4,69" type="P" clock="10:18" text="Thaddeus Lewis pass complete to Re'quan Boyette for 1 yard to the Duke46, clock 10:18." newcontext="H,2,9,H46">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Re'quan Boyette" gain="1"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="9" spot="Duke46" context="H,2,9,H46" playid="10,5,70" type="P" score="Y" clock="09:09" text="Thaddeus Lewis pass complete to Johnny Williams for 54 yards to the Rich0, TOUCHDOWN, clock 09:09." newcontext="H,1,0,V03">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Johnny Williams" gain="54"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="0" spot="Rich03" context="H,1,0,V03" playid="10,6,71" type="X" score="Y" text="Nick Maggio kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Nick Maggio" qb="Nick Maggio" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="4" yards="71" top="1:17" driveindex="10" complete="Y"></drivesum>
+      <score V="14" H="15"></score>
+      <play hasball="Duke" down="1" togo="0" spot="Duke30" context="H,1,0,H30" playid="10,7,72" type="K" text="Duke kickoff to the Rich6, Justin Rogers return 10 yards to the Rich16." newcontext="V,1,10,V16">
+        <p_kr vh="V" name="Justin Rogers" gain="10"></p_kr>
+      </play>
+      <drivestart poss="V,V16,09:09" vh="V" spot="V16" clock="09:09" driveindex="11,72"></drivestart>
+      <play hasball="Rich" down="1" togo="10" spot="Rich16" context="V,1,10,V16" playid="11,1,73" clock="09:09" text="RICHMOND drive start at 09:09." newcontext="V,1,10,V16">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich16" context="V,1,10,V16" playid="11,2,74" type="R" clock="09:04" text="Garrett Wilkins rush for 6 yards to the Rich22, clock 09:04." newcontext="V,2,4,V22">
+        <p_ru vh="V" name="Garrett Wilkins" gain="6"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="4" spot="Rich22" context="V,2,4,V22" playid="11,3,75" type="R" clock="08:50" text="Garrett Wilkins rush for 3 yards to the Rich25, clock 08:50." newcontext="V,3,1,V25">
+        <p_ru vh="V" name="Garrett Wilkins" gain="3"></p_ru>
+      </play>
+      <play hasball="Rich" down="3" togo="1" spot="Rich25" context="V,3,1,V25" playid="11,4,76" type="R" clock="08:20" text="Garrett Wilkins rush for no gain to the Rich25, clock 08:20." newcontext="V,4,1,V25">
+        <p_ru vh="V" name="Garrett Wilkins" gain="0"></p_ru>
+      </play>
+      <play hasball="Rich" down="4" togo="1" spot="Rich25" context="V,4,1,V25" playid="11,5,77" type="U" text="Brian Radford punt 28 yards to the Duke47." newcontext="H,1,10,H47">
+        <p_pu vh="V" name="Brian Radford" gain="28"></p_pu>
+      </play>
+      <drivesum plays="3" yards="9" top="1:09" driveindex="11" complete="Y"></drivesum>
+      <drivestart poss="H,H47,08:00" vh="H" spot="H47" clock="08:00" driveindex="12,77"></drivestart>
+      <play hasball="Duke" down="1" togo="10" spot="Duke47" context="H,1,10,H47" playid="12,1,78" clock="08:00" text="DUKE drive start at 08:00." newcontext="H,1,10,H47">
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke47" context="H,1,10,H47" playid="12,2,79" type="P" clock="08:00" text="Thaddeus Lewis pass complete to Donovan Varner for 4 yards to the Rich49, clock 08:00." newcontext="H,2,6,V49">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Donovan Varner" gain="4"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="6" spot="Rich49" context="H,2,6,V49" playid="12,3,80" type="R" clock="06:45" text="Re'quan Boyette rush for no gain to the Rich49, clock 06:45." newcontext="H,3,6,V49">
+        <p_ru vh="H" name="Re'quan Boyette" gain="0"></p_ru>
+      </play>
+      <play hasball="Duke" down="3" togo="6" spot="Rich49" context="H,3,6,V49" playid="12,4,81" type="P" clock="06:00" text="Thaddeus Lewis pass incomplete, clock 06:00." newcontext="H,4,6,V49">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="4" togo="6" spot="Rich49" context="H,4,6,V49" playid="12,5,82" type="U" text="Kevin Jones punt 36 yards to the Rich13, Derek Hatcher return 13 yards to the Rich26." newcontext="V,1,10,V26">
+        <p_pu vh="H" name="Kevin Jones" gain="36"></p_pu>
+        <p_pr vh="V" name="Derek Hatcher" gain="13"></p_pr>
+      </play>
+      <drivesum plays="3" yards="4" top="2:10" driveindex="12" complete="Y"></drivesum>
+      <drivestart poss="V,V26,05:50" vh="V" spot="V26" clock="05:50" driveindex="13,82"></drivestart>
+      <play hasball="Rich" down="1" togo="10" spot="Rich26" context="V,1,10,V26" playid="13,1,83" clock="05:50" text="RICHMOND drive start at 05:50." newcontext="V,1,10,V26">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich26" context="V,1,10,V26" playid="13,2,84" type="R" clock="05:29" text="Kevin Grayson rush for 9 yards to the Rich35, clock 05:29." newcontext="V,2,1,V35">
+        <p_ru vh="V" name="Kevin Grayson" gain="9"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="1" spot="Rich35" context="V,2,1,V35" playid="13,3,85" type="R" first="R" clock="04:45" text="Eric Ward rush for 2 yards to the Rich37, 1ST DOWN Rich, clock 04:45." newcontext="V,1,10,V37">
+        <p_ru vh="V" name="Eric Ward" gain="2"></p_ru>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich37" context="V,1,10,V37" playid="13,4,86" type="P" clock="04:35" text="Eric Ward pass complete to Jordan Mitchell for 4 yards to the Rich41, clock 04:35." newcontext="V,2,6,V41">
+        <p_pa vh="V" qb="Eric Ward" result="COMP" rcv="Jordan Mitchell" gain="4"></p_pa>
+      </play>
+      <play hasball="Rich" down="2" togo="6" spot="Rich41" context="V,2,6,V41" playid="13,5,87" type="R" clock="04:35" text="Justin Forte rush for 4 yards to the Rich45, clock 04:35." newcontext="V,3,2,V45">
+        <p_ru vh="V" name="Justin Forte" gain="4"></p_ru>
+      </play>
+      <play hasball="Rich" down="3" togo="2" spot="Rich45" context="V,3,2,V45" playid="13,6,88" type="P" clock="03:00" text="Eric Ward pass incomplete, clock 03:00." newcontext="V,4,2,V45">
+        <p_pa vh="V" qb="Eric Ward" result="INC"></p_pa>
+      </play>
+      <play hasball="Rich" down="4" togo="2" spot="Rich45" context="V,4,2,V45" playid="13,7,89" type="U" text="Brian Radford punt 40 yards to the Duke15." newcontext="H,1,10,H15">
+        <p_pu vh="V" name="Brian Radford" gain="40" in20="Y"></p_pu>
+      </play>
+      <drivesum plays="5" yards="19" top="3:15" driveindex="13" complete="Y"></drivesum>
+      <drivestart poss="H,H15,02:35" vh="H" spot="H15" clock="02:35" driveindex="14,89"></drivestart>
+      <play hasball="Duke" down="1" togo="10" spot="Duke15" context="H,1,10,H15" playid="14,1,90" clock="02:35" text="DUKE drive start at 02:35." newcontext="H,1,10,H15">
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke15" context="H,1,10,H15" playid="14,2,91" type="P" clock="02:28" text="Thaddeus Lewis pass incomplete, clock 02:28." newcontext="H,2,10,H15">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="10" spot="Duke16" context="H,2,10,H16" playid="14,3,92" type="R" clock="02:23" text="Re'quan Boyette rush for 7 yards to the Duke23, clock 02:23." newcontext="H,3,3,H23">
+        <p_ru vh="H" name="Re'quan Boyette" gain="7"></p_ru>
+      </play>
+      <play hasball="Duke" down="3" togo="3" spot="Duke23" context="H,3,3,H23" playid="14,4,93" type="R" clock="01:40" text="Re'quan Boyette rush for 2 yards to the Duke25, clock 01:40." newcontext="H,4,1,H25">
+        <p_ru vh="H" name="Re'quan Boyette" gain="2"></p_ru>
+      </play>
+      <play hasball="Duke" down="4" togo="1" spot="Duke25" context="H,4,1,H25" playid="14,5,94" type="#" clock="01:20" text="Timeout RICHMOND, clock 01:20." newcontext="H,4,1,H25">
+        <p_to vh="V" team="RICHMOND"></p_to>
+      </play>
+      <play hasball="Duke" down="4" togo="1" spot="Duke25" context="H,4,1,H25" playid="14,6,95" type="#" clock="01:20" text="Timeout DUKE, clock 01:20." newcontext="H,4,1,H25">
+        <p_to vh="H" team="DUKE"></p_to>
+      </play>
+      <play hasball="Duke" down="4" togo="1" spot="Duke25" context="H,4,1,H25" playid="14,7,96" type="U" text="Kevin Jones punt 25 yards to the 50 yardline." newcontext="V,1,10,V50">
+        <p_pu vh="H" name="Kevin Jones" gain="25"></p_pu>
+      </play>
+      <drivesum plays="3" yards="9" top="1:15" driveindex="14" complete="Y"></drivesum>
+      <drivestart poss="V,V50,01:20" vh="V" spot="V50" clock="01:20" driveindex="15,96"></drivestart>
+      <play hasball="Rich" down="1" togo="10" spot="Rich50" context="V,1,10,V50" playid="15,1,97" clock="01:20" text="RICHMOND drive start at 01:20." newcontext="V,1,10,V50">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich50" context="V,1,10,V50" playid="15,2,98" type="P" clock="01:12" text="Eric Ward pass complete to Tyler Kirchoff for loss of 1 yard to the Rich49, clock 01:12." newcontext="V,2,11,V49">
+        <p_pa vh="V" qb="Eric Ward" result="COMP" rcv="Tyler Kirchoff" gain="-1"></p_pa>
+      </play>
+      <play hasball="Rich" down="2" togo="11" spot="Rich49" context="V,2,11,V49" playid="15,3,99" type="P" clock="00:50" text="Eric Ward pass incomplete, clock 00:50." newcontext="V,3,11,V49">
+        <p_pa vh="V" qb="Eric Ward" result="INC"></p_pa>
+      </play>
+      <play hasball="Rich" down="3" togo="11" spot="Rich49" context="V,3,11,V49" playid="15,4,100" type="P" clock="00:40" text="Eric Ward pass incomplete, clock 00:40." newcontext="V,4,11,V49">
+        <p_pa vh="V" qb="Eric Ward" result="INC"></p_pa>
+      </play>
+      <play hasball="Rich" down="4" togo="11" spot="Rich49" context="V,4,11,V49" playid="15,5,101" type="U" text="Brian Radford punt 34 yards to the Duke17." newcontext="H,1,10,H17">
+        <p_pu vh="V" name="Brian Radford" gain="34" in20="Y"></p_pu>
+      </play>
+      <drivesum plays="3" yards="-1" top="0:45" driveindex="15" complete="Y"></drivesum>
+      <drivestart poss="H,H17,00:35" vh="H" spot="H17" clock="00:35" driveindex="16,101"></drivestart>
+      <play hasball="Duke" down="1" togo="10" spot="Duke17" context="H,1,10,H17" playid="16,1,102" clock="00:35" text="DUKE drive start at 00:35." newcontext="H,1,10,H17">
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke17" context="H,1,10,H17" playid="16,2,103" type="R" clock="00:27" text="TEAM rush for loss of 1 yard to the Duke16, clock 00:27." newcontext="H,2,11,H16">
+        <p_ru vh="H" name="TEAM" gain="-1"></p_ru>
+      </play>
+      <play hasball="Duke" down="2" togo="11" spot="Duke16" context="H,2,11,H16" playid="16,3,104" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,2,11,H16">
+      </play>
+      <drivesum plays="1" yards="-1" top="0:35" driveindex="16" complete="Y"></drivesum>
+      <score qtr="2" V="14" H="15"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="Rich">
+        <firstdowns no="4" rush="3" pass="1" penalty="0"></firstdowns>
+        <penalties no="1" yds="10"></penalties>
+        <conversions thirdconv="1" thirdatt="5" fourthconv="1" fourthatt="2"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="09:43"></misc>
+        <rush att="12" yds="33" gain="33" loss="0" td="1" long="9"></rush>
+        <pass comp="4" att="8" int="0" yds="28" td="0" long="14" sacks="0" sackyds="0"></pass>
+        <rcv no="4" yds="28" td="0" long="14"></rcv>
+        <punt no="3" yds="102" long="40" blkd="0" tb="0" fc="" plus50="0" inside20="2" avg="34.0"></punt>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <pat kickatt="1" kickmade="1"></pat>
+        <kr no="1" yds="10" td="0" long="10"></kr>
+        <pr no="1" yds="13" td="0" long="13"></pr>
+        <scoring td="1" patkick="1"></scoring>
+      </qtrsummary>
+      <qtrsummary vh="H" id="Duke">
+        <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+        <penalties no="1" yds="4"></penalties>
+        <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="05:17"></misc>
+        <rush att="4" yds="8" gain="9" loss="1" td="0" long="7"></rush>
+        <pass comp="4" att="7" int="0" yds="75" td="1" long="54" sacks="0" sackyds="0"></pass>
+        <rcv no="4" yds="75" td="1" long="54"></rcv>
+        <punt no="2" yds="61" long="36" blkd="0" tb="0" fc="" plus50="0" inside20="0" avg="30.5"></punt>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <pat kickatt="1" kickmade="1"></pat>
+        <kr no="1" yds="24" td="0" long="24"></kr>
+        <scoring td="1" patkick="1"></scoring>
+      </qtrsummary>
+    </qtr>
+    <qtr number="3" text="3rd">
+      <play hasball="Duke" down="2" togo="11" spot="Duke16" context="H,2,11,H16" playid="16,4,105" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, Rich ball on Rich30." newcontext="V,1,10,V30">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich30" context="V,1,10,V30" playid="16,5,106" type="K" text="Rich kickoff to the Duke1, Johnny Williams return 19 yards to the Duke20." newcontext="H,1,10,H20">
+        <p_kr vh="H" name="Johnny Williams" gain="19"></p_kr>
+      </play>
+      <drivestart poss="H,H35,15:00" vh="H" spot="H35" clock="15:00" driveindex="17,106"></drivestart>
+      <play hasball="Duke" down="1" togo="10" spot="Duke35" context="H,1,10,H35" playid="17,1,107" clock="15:00" text="DUKE drive start at 15:00." newcontext="H,1,10,H35">
+      </play>
+      <play hasball="Duke" down="2" togo="11" spot="Duke16" context="H,2,11,H16" playid="17,2,108" type="E" first="E" clock="14:54" text="PENALTY Rich 15 yards to the Duke31, 1ST DOWN Duke, clock 14:54." newcontext="H,1,10,H31">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H16" yards="15"></p_pn>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke35" context="H,1,10,H35" playid="17,3,109" type="P" clock="14:54" text="Thaddeus Lewis pass complete to Donovan Varner for 3 yards to the Duke38, clock 14:54." newcontext="H,2,7,H38">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Donovan Varner" gain="3"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="7" spot="Duke38" context="H,2,7,H38" playid="17,4,110" type="P" first="P" clock="14:54" text="Thaddeus Lewis pass complete to Johnny Williams for 14 yards to the Rich48, 1ST DOWN Duke, clock 14:54." newcontext="H,1,10,V48">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Johnny Williams" gain="14"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Rich48" context="H,1,10,V48" playid="17,5,111" type="R" clock="13:20" text="Jay Hollingsworth rush for 2 yards to the Rich46, clock 13:20." newcontext="H,2,8,V46">
+        <p_ru vh="H" name="Jay Hollingsworth" gain="2"></p_ru>
+      </play>
+      <play hasball="Duke" down="2" togo="8" spot="Rich46" context="H,2,8,V46" playid="17,6,112" type="P" first="P" clock="12:55" text="Thaddeus Lewis pass complete to Tyree Watkins for 14 yards to the Rich32, 1ST DOWN Duke, clock 12:55." newcontext="H,1,10,V32">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Tyree Watkins" gain="14"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Rich33" context="H,1,10,V33" playid="17,7,113" type="P" clock="12:25" text="Thaddeus Lewis pass complete to Donovan Varner for 7 yards to the Rich26, clock 12:25." newcontext="H,2,3,V26">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Donovan Varner" gain="7"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="3" spot="Rich26" context="H,2,3,V26" playid="17,8,114" type="P" first="P" clock="12:00" text="Thaddeus Lewis pass complete to Jay Hollingsworth for 4 yards to the Rich22, 1ST DOWN Duke, clock 12:00." newcontext="H,1,10,V22">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Jay Hollingsworth" gain="4"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Rich22" context="H,1,10,V22" playid="17,9,115" type="P" clock="11:40" text="Thaddeus Lewis pass incomplete, clock 11:40." newcontext="H,2,10,V22">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="10" spot="Rich22" context="H,2,10,V22" playid="17,10,116" type="P" clock="11:20" text="Thaddeus Lewis pass complete to Jay Hollingsworth for loss of 1 yard to the Rich23, clock 11:20." newcontext="H,3,11,V23">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Jay Hollingsworth" gain="-1"></p_pa>
+      </play>
+      <play hasball="Duke" down="3" togo="11" spot="Rich23" context="H,3,11,V23" playid="17,11,117" type="E" clock="10:45" text="PENALTY Duke 5 yards to the Rich28, clock 10:45." newcontext="H,3,16,V28">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V23" yards="5"></p_pn>
+      </play>
+      <play hasball="Duke" down="3" togo="16" spot="Rich28" context="H,3,16,V28" playid="17,12,118" type="P" clock="10:45" text="Thaddeus Lewis pass complete to Jay Hollingsworth for 10 yards to the Rich18, clock 10:45." newcontext="H,4,6,V18">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Jay Hollingsworth" gain="10"></p_pa>
+      </play>
+      <play hasball="Duke" down="4" togo="6" spot="Rich18" context="H,4,6,V18" playid="17,13,119" type="F" clock="10:30" text="Nick Maggio field goal attempt from 36 MISSED, clock 10:30." newcontext="V,1,10,V26">
+        <p_fg vh="H" name="Nick Maggio" distance="36" result="MISSED"></p_fg>
+      </play>
+      <drivesum plays="10" yards="63" top="4:30" driveindex="17" complete="Y"></drivesum>
+      <score V="14" H="15"></score>
+      <drivestart poss="V,V32,10:02" vh="V" spot="V32" clock="10:02" driveindex="18,119"></drivestart>
+      <play hasball="Rich" down="1" togo="10" spot="Rich32" context="V,1,10,V32" playid="18,1,120" clock="10:02" text="RICHMOND drive start at 10:02." newcontext="V,1,10,V32">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich20" context="V,1,10,V20" playid="18,2,121" type="P" first="P" clock="10:02" text="Eric Ward pass complete to Tre Gray for 12 yards to the Rich32, 1ST DOWN Rich, clock 10:02." newcontext="V,1,10,V32">
+        <p_pa vh="V" qb="Eric Ward" result="COMP" rcv="Tre Gray" gain="12"></p_pa>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich32" context="V,1,10,V32" playid="18,3,122" type="P" clock="09:30" text="Eric Ward pass incomplete, clock 09:30." newcontext="V,2,10,V32">
+        <p_pa vh="V" qb="Eric Ward" result="INC"></p_pa>
+      </play>
+      <play hasball="Rich" down="2" togo="10" spot="Rich32" context="V,2,10,V32" playid="18,4,123" type="P" clock="09:15" text="Eric Ward pass complete to Ben Keating for 4 yards to the Rich36, clock 09:15." newcontext="V,3,6,V36">
+        <p_pa vh="V" qb="Eric Ward" result="COMP" rcv="Ben Keating" gain="4"></p_pa>
+      </play>
+      <play hasball="Rich" down="3" togo="6" spot="Rich36" context="V,3,6,V36" playid="18,5,124" type="R" clock="08:30" text="Justin Forte rush for 2 yards to the Rich38, clock 08:30." newcontext="V,4,4,V38">
+        <p_ru vh="V" name="Justin Forte" gain="2"></p_ru>
+      </play>
+      <play hasball="Rich" down="4" togo="4" spot="Rich38" context="V,4,4,V38" playid="18,6,125" type="U" text="Brian Radford punt 36 yards to the Duke26." newcontext="H,1,10,H26">
+        <p_pu vh="V" name="Brian Radford" gain="36"></p_pu>
+      </play>
+      <drivesum plays="4" yards="18" top="1:47" driveindex="18" complete="Y"></drivesum>
+      <drivestart poss="H,H38,08:15" vh="H" spot="H38" clock="08:15" driveindex="19,125"></drivestart>
+      <play hasball="Duke" down="1" togo="10" spot="Duke38" context="H,1,10,H38" playid="19,1,126" clock="08:15" text="DUKE drive start at 08:15." newcontext="H,1,10,H38">
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke26" context="H,1,10,H26" playid="19,2,127" type="R" clock="07:53" text="Re'quan Boyette rush for 2 yards to the Duke28, clock 07:53." newcontext="H,2,8,H28">
+        <p_ru vh="H" name="Re'quan Boyette" gain="2"></p_ru>
+      </play>
+      <play hasball="Duke" down="2" togo="8" spot="Duke28" context="H,2,8,H28" playid="19,3,128" type="P" clock="07:40" text="Thaddeus Lewis pass incomplete, clock 07:40." newcontext="H,3,8,H28">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="3" togo="8" spot="Duke28" context="H,3,8,H28" playid="19,4,129" type="P" first="P" clock="07:25" text="Thaddeus Lewis pass complete to Johnny Williams for 25 yards to the Rich47, 1ST DOWN Duke, PENALTY Duke 15 yards to the Duke38, clock 07:25." newcontext="H,1,10,H38">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Johnny Williams" gain="25"></p_pa>
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V47" yards="15"></p_pn>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke38" context="H,1,10,H38" playid="19,5,130" type="P" clock="06:55" text="Thaddeus Lewis pass complete to Danny Parker for 5 yards to the Duke43, clock 06:55." newcontext="H,2,5,H43">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Danny Parker" gain="5"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="5" spot="Duke43" context="H,2,5,H43" playid="19,6,131" type="P" first="P" clock="06:30" text="Thaddeus Lewis pass complete to Conner Vernon for 15 yards to the Rich42, 1ST DOWN Duke, clock 06:30." newcontext="H,1,10,V42">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Conner Vernon" gain="15"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Rich42" context="H,1,10,V42" playid="19,7,132" type="R" clock="06:30" text="Re'quan Boyette rush for loss of 1 yard to the Rich43, clock 06:30." newcontext="H,2,11,V43">
+        <p_ru vh="H" name="Re'quan Boyette" gain="-1"></p_ru>
+      </play>
+      <play hasball="Duke" down="2" togo="11" spot="Rich43" context="H,2,11,V43" playid="19,8,133" type="P" clock="06:30" text="Thaddeus Lewis pass incomplete, clock 06:30." newcontext="H,3,11,V43">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="3" togo="11" spot="Rich43" context="H,3,11,V43" playid="19,9,134" type="P" clock="05:40" text="Thaddeus Lewis pass incomplete, clock 05:40." newcontext="H,4,11,V43">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="4" togo="11" spot="Rich43" context="H,4,11,V43" playid="19,10,135" type="U" text="Kevin Jones punt 43 yards to the Rich0, touchback." newcontext="V,1,10,V20">
+        <p_pu vh="H" name="Kevin Jones" gain="43" tb="Y"></p_pu>
+      </play>
+      <drivesum plays="10" yards="31" top="2:55" driveindex="19" complete="Y"></drivesum>
+      <drivestart poss="V,V20,05:20" vh="V" spot="V20" clock="05:20" driveindex="20,135"></drivestart>
+      <play hasball="Rich" down="1" togo="10" spot="Rich20" context="V,1,10,V20" playid="20,1,136" clock="05:20" text="RICHMOND drive start at 05:20." newcontext="V,1,10,V20">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich20" context="V,1,10,V20" playid="20,2,137" type="R" clock="05:20" text="Eric Ward rush for 2 yards to the Rich22, clock 05:20." newcontext="V,2,8,V22">
+        <p_ru vh="V" name="Eric Ward" gain="2"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="8" spot="Rich22" context="V,2,8,V22" playid="20,3,138" type="R" clock="04:45" text="Eric Ward rush for 4 yards to the Rich26, clock 04:45." newcontext="V,3,4,V26">
+        <p_ru vh="V" name="Eric Ward" gain="4"></p_ru>
+      </play>
+      <play hasball="Rich" down="3" togo="4" spot="Rich26" context="V,3,4,V26" playid="20,4,139" type="P" clock="03:50" text="Eric Ward pass incomplete, clock 03:50." newcontext="V,4,4,V26">
+        <p_pa vh="V" qb="Eric Ward" result="INC"></p_pa>
+      </play>
+      <play hasball="Rich" down="4" togo="4" spot="Rich26" context="V,4,4,V26" playid="20,5,140" type="U" text="Brian Radford punt 54 yards to the Duke20, Johnny Williams return 15 yards to the Duke35." newcontext="H,1,10,H35">
+        <p_pu vh="V" name="Brian Radford" gain="54"></p_pu>
+        <p_pr vh="H" name="Johnny Williams" gain="15"></p_pr>
+      </play>
+      <drivesum plays="3" yards="6" top="1:40" driveindex="20" complete="Y"></drivesum>
+      <drivestart poss="H,H35,03:40" vh="H" spot="H35" clock="03:40" driveindex="21,140"></drivestart>
+      <play hasball="Duke" down="1" togo="10" spot="Duke35" context="H,1,10,H35" playid="21,1,141" clock="03:40" text="DUKE drive start at 03:40." newcontext="H,1,10,H35">
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke35" context="H,1,10,H35" playid="21,2,142" type="P" clock="03:36" text="Thaddeus Lewis pass complete to Tyree Watkins for loss of 3 yards to the Duke32, clock 03:36." newcontext="H,2,13,H32">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Tyree Watkins" gain="-3"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="13" spot="Duke32" context="H,2,13,H32" playid="21,3,143" type="P" first="P" clock="03:36" text="Thaddeus Lewis pass complete to Austin Kelly for 19 yards to the Rich49, 1ST DOWN Duke, clock 03:36." newcontext="H,1,10,V49">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Austin Kelly" gain="19"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Rich49" context="H,1,10,V49" playid="21,4,144" type="P" clock="03:36" text="Thaddeus Lewis pass complete to Donovan Varner for 1 yard to the Rich48, fumble by Donovan Varner recovered by Duke Donovan Varner at Duke44, clock 03:36." newcontext="H,2,17,H44">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Donovan Varner" gain="1"></p_pa>
+        <p_fumb vh="H" name="Donovan Varner" at="V49" frvh="H" frname="Donovan Varner"></p_fumb>
+      </play>
+      <play hasball="Duke" down="2" togo="17" spot="Duke44" context="H,2,17,H44" playid="21,5,145" type="P" clock="03:36" text="Thaddeus Lewis pass incomplete, clock 03:36." newcontext="H,3,17,H44">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="3" togo="17" spot="Rich41" context="H,3,17,V41" playid="21,6,146" type="P" clock="02:20" text="Thaddeus Lewis pass incomplete, clock 02:20." newcontext="H,4,17,V41">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="4" togo="17" spot="Rich41" context="H,4,17,V41" playid="21,7,147" type="U" text="Kevin Jones punt 30 yards to the Rich11, Derek Hatcher return 6 yards to the Rich17." newcontext="V,1,10,V17">
+        <p_pu vh="H" name="Kevin Jones" gain="30" in20="Y"></p_pu>
+        <p_pr vh="V" name="Derek Hatcher" gain="6"></p_pr>
+      </play>
+      <drivesum plays="6" yards="17" top="1:30" driveindex="21" complete="Y"></drivesum>
+      <drivestart poss="V,V17,02:10" vh="V" spot="V17" clock="02:10" driveindex="22,147"></drivestart>
+      <play hasball="Rich" down="1" togo="10" spot="Rich17" context="V,1,10,V17" playid="22,1,148" clock="02:10" text="RICHMOND drive start at 02:10." newcontext="V,1,10,V17">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich17" context="V,1,10,V17" playid="22,2,149" type="R" clock="01:35" text="Justin Forte rush for 6 yards to the Rich23, clock 01:35." newcontext="V,2,4,V23">
+        <p_ru vh="V" name="Justin Forte" gain="6"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="4" spot="Rich23" context="V,2,4,V23" playid="22,3,150" type="P" first="P" clock="01:00" text="Eric Ward pass complete to Tre Gray for 7 yards to the Rich30, 1ST DOWN Rich, fumble by Tre Gray recovered by Rich Tre Gray at Rich30, clock 01:00." newcontext="V,1,10,V30">
+        <p_pa vh="V" qb="Eric Ward" result="COMP" rcv="Tre Gray" gain="7"></p_pa>
+        <p_fumb vh="V" name="Tre Gray" at="V23" frvh="V" frname="Tre Gray"></p_fumb>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich30" context="V,1,10,V30" playid="22,4,151" type="P" clock="00:30" text="Eric Ward pass complete to Donte Boston for 9 yards to the Rich39, clock 00:30." newcontext="V,2,1,V39">
+        <p_pa vh="V" qb="Eric Ward" result="COMP" rcv="Donte Boston" gain="9"></p_pa>
+      </play>
+      <score qtr="3" V="14" H="15"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="Rich">
+        <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+        <penalties no="1" yds="15"></penalties>
+        <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="1" lost="0"></fumbles>
+        <misc yds="" top="05:37"></misc>
+        <rush att="4" yds="14" gain="14" loss="0" td="0" long="6"></rush>
+        <pass comp="4" att="6" int="0" yds="32" td="0" long="12" sacks="0" sackyds="0"></pass>
+        <rcv no="4" yds="32" td="0" long="12"></rcv>
+        <punt no="2" yds="90" long="54" blkd="0" tb="0" fc="" plus50="1" inside20="0" avg="45.0"></punt>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <pr no="1" yds="6" td="0" long="6"></pr>
+      </qtrsummary>
+      <qtrsummary vh="H" id="Duke">
+        <firstdowns no="7" rush="0" pass="6" penalty="1"></firstdowns>
+        <penalties no="2" yds="20"></penalties>
+        <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="1" lost="0"></fumbles>
+        <misc yds="" top="08:55"></misc>
+        <rush att="3" yds="3" gain="4" loss="1" td="0" long="2"></rush>
+        <pass comp="13" att="19" int="0" yds="113" td="0" long="25" sacks="0" sackyds="0"></pass>
+        <rcv no="13" yds="113" td="0" long="25"></rcv>
+        <punt no="2" yds="73" long="43" blkd="0" tb="1" fc="" plus50="0" inside20="1" avg="36.5"></punt>
+        <fg made="0" att="1" long="0" blkd="0"></fg>
+        <kr no="1" yds="19" td="0" long="19"></kr>
+        <pr no="1" yds="15" td="0" long="15"></pr>
+      </qtrsummary>
+    </qtr>
+    <qtr number="4" text="4th">
+      <play hasball="Rich" down="2" togo="1" spot="Rich39" context="V,2,1,V39" playid="22,5,152" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,2,1,V39">
+      </play>
+      <play hasball="Rich" down="2" togo="1" spot="Rich39" context="V,2,1,V39" playid="22,6,153" type="R" first="R" clock="15:00" text="Eric Ward rush for 3 yards to the Rich42, 1ST DOWN Rich, clock 15:00." newcontext="V,1,10,V42">
+        <p_ru vh="V" name="Eric Ward" gain="3"></p_ru>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich42" context="V,1,10,V42" playid="22,7,154" type="P" first="P" clock="14:30" text="Eric Ward pass complete to Jordan Mitchell for 33 yards to the Duke25, 1ST DOWN Rich, clock 14:30." newcontext="V,1,10,H25">
+        <p_pa vh="V" qb="Eric Ward" result="COMP" rcv="Jordan Mitchell" gain="33"></p_pa>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Duke25" context="V,1,10,H25" playid="22,8,155" type="R" clock="13:55" text="Eric Ward rush for 6 yards to the Duke19, clock 13:55." newcontext="V,2,4,H19">
+        <p_ru vh="V" name="Eric Ward" gain="6"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="4" spot="Duke19" context="V,2,4,H19" playid="22,9,156" type="R" first="R" clock="13:35" text="Justin Forte rush for 5 yards to the Duke14, 1ST DOWN Rich, clock 13:35." newcontext="V,1,10,H14">
+        <p_ru vh="V" name="Justin Forte" gain="5"></p_ru>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Duke14" context="V,1,10,H14" playid="22,10,157" type="R" clock="13:10" text="Justin Forte rush for 9 yards to the Duke5, clock 13:10." newcontext="V,2,1,H05">
+        <p_ru vh="V" name="Justin Forte" gain="9"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="1" spot="Duke05" context="V,2,1,H05" playid="22,11,158" type="R" first="R" clock="12:30" text="Eric Ward rush for 3 yards to the Duke2, 1ST DOWN Rich, clock 12:30." newcontext="V,1,0,H02">
+        <p_ru vh="V" name="Eric Ward" gain="3"></p_ru>
+      </play>
+      <play hasball="Rich" down="1" togo="0" spot="Duke02" context="V,1,0,H02" playid="22,12,159" type="R" clock="12:10" text="Tyler Kirchoff rush for 1 yard to the Duke1, clock 12:10." newcontext="V,2,0,H01">
+        <p_ru vh="V" name="Tyler Kirchoff" gain="1"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="0" spot="Duke01" context="V,2,0,H01" playid="22,13,160" type="R" clock="11:20" text="Tyler Kirchoff rush for no gain to the Duke1, clock 11:20." newcontext="V,3,0,H01">
+        <p_ru vh="V" name="Tyler Kirchoff" gain="0"></p_ru>
+      </play>
+      <play hasball="Rich" down="3" togo="0" spot="Duke01" context="V,3,0,H01" playid="22,14,161" type="R" score="Y" clock="09:39" text="Tyler Kirchoff rush for 1 yard to the Duke0, TOUCHDOWN, clock 09:39." newcontext="V,1,0,H03">
+        <p_ru vh="V" name="Tyler Kirchoff" gain="1"></p_ru>
+      </play>
+      <play hasball="Rich" down="1" togo="0" spot="Duke03" context="V,1,0,H03" playid="22,15,162" type="X" score="Y" text="Andrew Howard kick attempt good." newcontext="V,1,0,V30">
+        <p_pat vh="V" name="Andrew Howard" qb="Andrew Howard" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="13" yards="83" top="7:31" driveindex="22" complete="Y"></drivesum>
+      <score V="21" H="15"></score>
+      <play hasball="Rich" down="1" togo="0" spot="Rich30" context="V,1,0,V30" playid="22,16,163" type="K" text="Rich kickoff to the Duke5, Jay Hollingsworth return 16 yards to the Duke21." newcontext="H,1,10,H21">
+        <p_kr vh="H" name="Jay Hollingsworth" gain="16"></p_kr>
+      </play>
+      <drivestart poss="H,H21,09:39" vh="H" spot="H21" clock="09:39" driveindex="23,163"></drivestart>
+      <play hasball="Duke" down="1" togo="10" spot="Duke21" context="H,1,10,H21" playid="23,1,164" clock="09:39" text="DUKE drive start at 09:39." newcontext="H,1,10,H21">
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke21" context="H,1,10,H21" playid="23,2,165" type="R" clock="09:33" text="Re'quan Boyette rush for 3 yards to the Duke24, clock 09:33." newcontext="H,2,7,H24">
+        <p_ru vh="H" name="Re'quan Boyette" gain="3"></p_ru>
+      </play>
+      <play hasball="Duke" down="2" togo="7" spot="Duke24" context="H,2,7,H24" playid="23,3,166" type="P" clock="09:00" text="Thaddeus Lewis pass incomplete, clock 09:00." newcontext="H,3,7,H24">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="3" togo="7" spot="Duke24" context="H,3,7,H24" playid="23,4,167" type="P" first="P" clock="08:40" text="Thaddeus Lewis pass complete to Austin Kelly for 17 yards to the Duke41, 1ST DOWN Duke, clock 08:40." newcontext="H,1,10,H41">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Austin Kelly" gain="17"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke41" context="H,1,10,H41" playid="23,5,168" type="P" clock="08:35" text="Thaddeus Lewis pass incomplete, clock 08:35." newcontext="H,2,10,H41">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="10" spot="Duke41" context="H,2,10,H41" playid="23,6,169" type="P" clock="08:32" text="Thaddeus Lewis pass incomplete, clock 08:32." newcontext="H,3,10,H41">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="3" togo="10" spot="Duke41" context="H,3,10,H41" playid="23,7,170" type="P" clock="08:28" text="Thaddeus Lewis pass complete to Austin Kelly for 9 yards to the 50 yardline, clock 08:28." newcontext="H,4,1,H50">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Austin Kelly" gain="9"></p_pa>
+      </play>
+      <play hasball="Duke" down="4" togo="1" spot="Duke50" context="H,4,1,H50" playid="23,8,171" type="R" first="R" clock="07:55" text="Thaddeus Lewis rush for 2 yards to the Rich48, 1ST DOWN Duke, clock 07:55." newcontext="H,1,10,V48">
+        <p_ru vh="H" name="Thaddeus Lewis" gain="2"></p_ru>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Rich48" context="H,1,10,V48" playid="23,9,172" type="P" clock="07:30" text="Thaddeus Lewis pass incomplete, clock 07:30." newcontext="H,2,10,V48">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="10" spot="Rich48" context="H,2,10,V48" playid="23,10,173" type="P" clock="07:30" text="Thaddeus Lewis pass incomplete, clock 07:30." newcontext="H,3,10,V48">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="3" togo="10" spot="Rich48" context="H,3,10,V48" playid="23,11,174" type="R" clock="07:10" text="Thaddeus Lewis rush for 3 yards to the Rich45, clock 07:10." newcontext="H,4,7,V45">
+        <p_ru vh="H" name="Thaddeus Lewis" gain="3"></p_ru>
+      </play>
+      <play hasball="Duke" down="4" togo="7" spot="Rich45" context="H,4,7,V45" playid="23,12,175" type="P" clock="07:10" text="Thaddeus Lewis pass incomplete, clock 07:10." newcontext="V,1,10,V45">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <drivesum plays="11" yards="34" top="2:29" driveindex="23" complete="Y"></drivesum>
+      <drivestart poss="V,V45,07:10" vh="V" spot="V45" clock="07:10" driveindex="24,175"></drivestart>
+      <play hasball="Rich" down="1" togo="10" spot="Rich45" context="V,1,10,V45" playid="24,1,176" clock="07:10" text="RICHMOND drive start at 07:10." newcontext="V,1,10,V45">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Rich45" context="V,1,10,V45" playid="24,2,177" type="R" clock="07:10" text="Justin Forte rush for loss of 4 yards to the Rich41, clock 07:10." newcontext="V,2,14,V41">
+        <p_ru vh="V" name="Justin Forte" gain="-4"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="14" spot="Rich41" context="V,2,14,V41" playid="24,3,178" type="P" first="P" clock="06:40" text="Eric Ward pass complete to Tre Gray for 15 yards to the Duke44, 1ST DOWN Rich, clock 06:40." newcontext="V,1,10,H44">
+        <p_pa vh="V" qb="Eric Ward" result="COMP" rcv="Tre Gray" gain="15"></p_pa>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Duke44" context="V,1,10,H44" playid="24,4,179" type="#" clock="06:02" text="Timeout RICHMOND, clock 06:02." newcontext="V,1,10,H44">
+        <p_to vh="V" team="RICHMOND"></p_to>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Duke44" context="V,1,10,H44" playid="24,5,180" type="R" first="R" clock="06:02" text="Justin Forte rush for 12 yards to the Duke32, 1ST DOWN Rich, clock 06:02." newcontext="V,1,10,H32">
+        <p_ru vh="V" name="Justin Forte" gain="12"></p_ru>
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Duke32" context="V,1,10,H32" playid="24,6,181" type="R" clock="05:55" text="Justin Forte rush for 3 yards to the Duke29, clock 05:55." newcontext="V,2,7,H29">
+        <p_ru vh="V" name="Justin Forte" gain="3"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="7" spot="Duke29" context="V,2,7,H29" playid="24,7,182" type="#" clock="05:02" text="Timeout DUKE, clock 05:02." newcontext="V,2,7,H29">
+        <p_to vh="H" team="DUKE"></p_to>
+      </play>
+      <play hasball="Rich" down="2" togo="7" spot="Duke29" context="V,2,7,H29" playid="24,8,183" type="R" clock="05:02" text="Justin Forte rush for 2 yards to the Duke27, clock 05:02." newcontext="V,3,5,H27">
+        <p_ru vh="V" name="Justin Forte" gain="2"></p_ru>
+      </play>
+      <play hasball="Rich" down="3" togo="5" spot="Duke27" context="V,3,5,H27" playid="24,9,184" type="P" clock="04:20" text="Eric Ward pass incomplete, clock 04:20." newcontext="V,4,5,H27">
+        <p_pa vh="V" qb="Eric Ward" result="INC"></p_pa>
+      </play>
+      <play hasball="Rich" down="4" togo="5" spot="Duke27" context="V,4,5,H27" playid="24,10,185" type="F" score="Y" clock="04:16" text="Andrew Howard field goal attempt from 45 GOOD, clock 04:16." newcontext="V,1,0,V30">
+        <p_fg vh="V" name="Andrew Howard" distance="45" result="GOOD" score="Y"></p_fg>
+      </play>
+      <drivesum plays="7" yards="28" top="2:54" driveindex="24" complete="Y"></drivesum>
+      <score V="24" H="15"></score>
+      <play hasball="Rich" down="1" togo="0" spot="Rich30" context="V,1,0,V30" playid="24,11,186" type="K" text="Rich kickoff to the Duke9, Re'quan Boyette return 17 yards to the Duke26." newcontext="H,1,10,H26">
+        <p_kr vh="H" name="Re'quan Boyette" gain="17"></p_kr>
+      </play>
+      <drivestart poss="H,H26,04:16" vh="H" spot="H26" clock="04:16" driveindex="25,186"></drivestart>
+      <play hasball="Duke" down="1" togo="10" spot="Duke26" context="H,1,10,H26" playid="25,1,187" clock="04:16" text="DUKE drive start at 04:16." newcontext="H,1,10,H26">
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke26" context="H,1,10,H26" playid="25,2,188" type="P" first="P" clock="04:11" text="Thaddeus Lewis pass complete to Donovan Varner for 24 yards to the 50 yardline, 1ST DOWN Duke, clock 04:11." newcontext="H,1,10,H50">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Donovan Varner" gain="24"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Duke50" context="H,1,10,H50" playid="25,3,189" type="P" clock="04:11" text="Thaddeus Lewis sacked for loss of 7 yards to the Duke43 (Martin Parker), clock 04:11." newcontext="H,2,17,H43">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="SACK" gain="-7"></p_pa>
+        <p_tk vh="V" name="Martin Parker" sack="Y" tfl="Y"></p_tk>
+      </play>
+      <play hasball="Duke" down="2" togo="17" spot="Duke43" context="H,2,17,H43" playid="25,4,190" type="P" clock="04:11" text="Thaddeus Lewis pass complete to Jay Hollingsworth for 3 yards to the Duke46, clock 04:11." newcontext="H,3,14,H46">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Jay Hollingsworth" gain="3"></p_pa>
+      </play>
+      <play hasball="Duke" down="3" togo="14" spot="Duke46" context="H,3,14,H46" playid="25,5,191" type="#" clock="03:27" text="Timeout DUKE, clock 03:27." newcontext="H,3,14,H46">
+        <p_to vh="H" team="DUKE"></p_to>
+      </play>
+      <play hasball="Duke" down="3" togo="14" spot="Duke46" context="H,3,14,H46" playid="25,6,192" type="P" clock="03:27" text="Thaddeus Lewis pass incomplete, clock 03:27." newcontext="H,4,14,H46">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="INC"></p_pa>
+      </play>
+      <play hasball="Duke" down="4" togo="14" spot="Duke46" context="H,4,14,H46" playid="25,7,193" type="P" first="P" clock="03:27" text="Thaddeus Lewis pass complete to Tyree Watkins for 20 yards to the Rich34, 1ST DOWN Duke, clock 03:27." newcontext="H,1,10,V34">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Tyree Watkins" gain="20"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Rich34" context="H,1,10,V34" playid="25,8,194" type="P" first="P" clock="03:27" text="Thaddeus Lewis pass complete to Tyree Watkins for 10 yards to the Rich24, 1ST DOWN Duke, clock 03:27." newcontext="H,1,10,V24">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Tyree Watkins" gain="10"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="10" spot="Rich24" context="H,1,10,V24" playid="25,9,195" type="P" clock="02:55" text="Thaddeus Lewis pass complete to Austin Kelly for 3 yards to the Rich21, clock 02:55." newcontext="H,2,7,V21">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Austin Kelly" gain="3"></p_pa>
+      </play>
+      <play hasball="Duke" down="2" togo="7" spot="Rich21" context="H,2,7,V21" playid="25,10,196" type="P" score="Y" clock="02:13" text="Thaddeus Lewis pass complete to Austin Kelly for 21 yards to the Rich0, TOUCHDOWN, clock 02:13." newcontext="H,1,0,V03">
+        <p_pa vh="H" qb="Thaddeus Lewis" result="COMP" rcv="Austin Kelly" gain="21"></p_pa>
+      </play>
+      <play hasball="Duke" down="1" togo="0" spot="Rich03" context="H,1,0,V03" playid="25,11,197" type="X" score="Y" text="Nick Maggio kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Nick Maggio" qb="Nick Maggio" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="8" yards="74" top="2:03" driveindex="25" complete="Y"></drivesum>
+      <score V="24" H="22"></score>
+      <play hasball="Duke" down="1" togo="0" spot="Duke30" context="H,1,0,H30" playid="25,12,198" type="K" text="Duke kickoff to the Duke37, Derek Hatcher return 13 yards to the Duke24." newcontext="V,1,10,H24">
+        <p_kr vh="V" name="Derek Hatcher" gain="13"></p_kr>
+      </play>
+      <drivestart poss="V,H24,02:13" vh="V" spot="H24" clock="02:13" driveindex="26,198"></drivestart>
+      <play hasball="Rich" down="1" togo="10" spot="Duke24" context="V,1,10,H24" playid="26,1,199" clock="02:13" text="RICHMOND drive start at 02:13." newcontext="V,1,10,H24">
+      </play>
+      <play hasball="Rich" down="1" togo="10" spot="Duke24" context="V,1,10,H24" playid="26,2,200" type="R" clock="02:09" text="Tyler Kirchoff rush for 2 yards to the Duke22, clock 02:09." newcontext="V,2,8,H22">
+        <p_ru vh="V" name="Tyler Kirchoff" gain="2"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="8" spot="Duke22" context="V,2,8,H22" playid="26,3,201" type="R" clock="01:50" text="Tyler Kirchoff rush for no gain to the Duke22, clock 01:50." newcontext="V,3,8,H22">
+        <p_ru vh="V" name="Tyler Kirchoff" gain="0"></p_ru>
+      </play>
+      <play hasball="Rich" down="3" togo="8" spot="Duke22" context="V,3,8,H22" playid="26,4,202" type="#" clock="01:20" text="Timeout DUKE, clock 01:20." newcontext="V,3,8,H22">
+        <p_to vh="H" team="DUKE"></p_to>
+      </play>
+      <play hasball="Rich" down="3" togo="8" spot="Duke22" context="V,3,8,H22" playid="26,5,203" type="R" first="R" clock="01:20" text="Tyler Kirchoff rush for 15 yards to the Duke7, 1ST DOWN Rich, clock 01:20." newcontext="V,1,0,H07">
+        <p_ru vh="V" name="Tyler Kirchoff" gain="15"></p_ru>
+      </play>
+      <play hasball="Rich" down="1" togo="0" spot="Duke07" context="V,1,0,H07" playid="26,6,204" type="R" clock="00:30" text="TEAM rush for loss of 1 yard to the Duke8, clock 00:30." newcontext="V,2,0,H08">
+        <p_ru vh="V" name="TEAM" gain="-1"></p_ru>
+      </play>
+      <play hasball="Rich" down="2" togo="0" spot="Duke08" context="V,2,0,H08" playid="26,7,205" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="V,2,0,H08">
+      </play>
+      <drivesum plays="4" yards="16" top="2:13" driveindex="26" complete="Y"></drivesum>
+      <play context="" playid="" clock="" text="Richmond defeats Duke by a score of 24 to 16."></play>
+      <score final="Y" V="24" H="22"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="Rich">
+        <firstdowns no="8" rush="6" pass="2" penalty="0"></firstdowns>
+        <penalties no="0" yds="0"></penalties>
+        <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="10:28"></misc>
+        <rush att="16" yds="57" gain="62" loss="5" td="1" long="15"></rush>
+        <pass comp="2" att="3" int="0" yds="48" td="0" long="33" sacks="0" sackyds="0"></pass>
+        <rcv no="2" yds="48" td="0" long="33"></rcv>
+        <ko no="2" yds="" ob="" tb=""></ko>
+        <fg made="1" att="1" long="45" blkd="0"></fg>
+        <pat kickatt="1" kickmade="1"></pat>
+        <defense sacks="1" sackyds="7"></defense>
+        <kr no="1" yds="13" td="0" long="13"></kr>
+        <scoring td="1" fg="1" patkick="1"></scoring>
+      </qtrsummary>
+      <qtrsummary vh="H" id="Duke">
+        <firstdowns no="6" rush="1" pass="5" penalty="0"></firstdowns>
+        <penalties no="0" yds="0"></penalties>
+        <conversions thirdconv="1" thirdatt="4" fourthconv="2" fourthatt="3"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="04:32"></misc>
+        <rush att="4" yds="1" gain="8" loss="7" td="0" long="3"></rush>
+        <pass comp="8" att="15" int="0" yds="107" td="1" long="24" sacks="1" sackyds="7"></pass>
+        <rcv no="8" yds="107" td="1" long="24"></rcv>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <pat kickatt="1" kickmade="1"></pat>
+        <kr no="2" yds="33" td="0" long="17"></kr>
+        <scoring td="1" patkick="1"></scoring>
+      </qtrsummary>
+    </qtr>
+    <downtogo hasball="V" id="Rich" down="2" togo="0" spot="Duke08" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="2" htor="0" dtgtext="Game Over" ldtext="Drive started: 02:13, 4th Qtr"></downtogo>
+  </plays>

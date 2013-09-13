@@ -1,0 +1,884 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST30" context="V,1,10,V30" playid="0,1,0" text="SHU wins the toss and defers to the second half." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST30" context="V,1,10,V30" playid="0,2,1" text="SHU ball on SHU30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU30" context="H,1,10,H30" playid="0,3,2" type="K" text="KISTLER, Joe kickoff 62 yards to the MARIST8, Whipple, Greg return 15 yards to the MARIST23 (PULASKI, Peter;SIERRA, Niko)." newcontext="V,1,10,V23">
+    <p_ko vh="H" name="KISTLER, Joe" gain="62"></p_ko>
+    <p_kr vh="V" name="Whipple, Greg" gain="15"></p_kr>
+    <p_tk vh="H" name="PULASKI, Peter" assist="Y"></p_tk>
+    <p_tk vh="H" name="SIERRA, Niko" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V23,15:00" vh="V" spot="V23" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST23" context="V,1,10,V23" playid="1,1,3" type="R" text="Anderson,O'Neil rush for loss of 1 yard to the MARIST22 (DIXON, Elijah)." newcontext="V,2,11,V22">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="-1"></p_ru>
+    <p_tk vh="H" name="DIXON, Elijah" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="11" spot="MARIST22" context="V,2,11,V22" playid="1,2,4" type="P" first="P" text="Debowski, Chris pass complete to Roe, R.J. for 12 yards to the MARIST34, 1ST DOWN MARIST (DOROSH, Matt)." newcontext="V,1,10,V34">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="Roe, R.J." gain="12"></p_pa>
+    <p_tk vh="H" name="DOROSH, Matt"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST34" context="V,1,10,V34" playid="1,3,5" type="R" text="Anderson,O'Neil rush for 6 yards to the MARIST40, out-of-bounds (MCINTOSH, Titus)." ob="Y" newcontext="V,2,4,V40">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="6"></p_ru>
+    <p_tk vh="H" name="MCINTOSH, Titus"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="4" spot="MARIST40" context="V,2,4,V40" playid="1,4,6" type="P" text="Debowski, Chris sacked for loss of 10 yards to the MARIST30 (FLUMERE, Brian)." newcontext="V,3,14,V30">
+    <p_pa vh="V" qb="Debowski, Chris" result="SACK" gain="-10"></p_pa>
+    <p_tk vh="H" name="FLUMERE, Brian" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="3" togo="14" spot="MARIST30" context="V,3,14,V30" playid="1,5,7" type="P" first="P" text="Debowski, Chris pass complete to Roe, R.J. for 18 yards to the MARIST48, 1ST DOWN MARIST (DAVIS, Chansler)." newcontext="V,1,10,V48">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="Roe, R.J." gain="18"></p_pa>
+    <p_tk vh="H" name="DAVIS, Chansler"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST48" context="V,1,10,V48" playid="1,6,8" type="R" text="Anderson,O'Neil rush for 6 yards to the SHU46 (UNDERWOOD, R.)." newcontext="V,2,4,H46">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="6"></p_ru>
+    <p_tk vh="H" name="UNDERWOOD, R."></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="4" spot="SHU46" context="V,2,4,H46" playid="1,7,9" type="R" text="Anderson,O'Neil rush for 2 yards to the SHU44 (EMBLER, Justin;DIXON, Elijah)." newcontext="V,3,2,H44">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="2"></p_ru>
+    <p_tk vh="H" name="EMBLER, Justin" assist="Y"></p_tk>
+    <p_tk vh="H" name="DIXON, Elijah" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="3" togo="2" spot="SHU44" context="V,3,2,H44" playid="1,8,10" type="P" text="Debowski, Chris pass complete to Roe, R.J. for loss of 1 yard to the SHU45." newcontext="V,4,3,H45">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="Roe, R.J." gain="-1"></p_pa>
+   </play>
+   <play hasball="MARIST" down="4" togo="3" spot="SHU45" context="V,4,3,H45" playid="1,9,11" type="U" text="Pauly, Kevin punt 36 yards to the SHU9, fair catch by COLES, Garry." newcontext="H,1,10,H09">
+    <p_pu vh="V" name="Pauly, Kevin" gain="36" in20="Y" fc="COLES, Garry"></p_pu>
+   </play>
+   <drivesum plays="8" yards="32" top="5:50" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,H09,15:00" vh="H" spot="H09" clock="15:00" driveindex="2,11"></drivestart>
+   <play hasball="SHU" down="1" togo="10" spot="SHU09" context="H,1,10,H09" playid="2,1,12" clock="09:10" text="SACRED HEART drive start at 09:10." newcontext="H,1,10,H09">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU09" context="H,1,10,H09" playid="2,2,13" type="X" score="Y" turnover="I" clock="09:04" text="FINK, Dale pass intercepted by Bryant, Jaquan at the SHU11, Bryant, Jaquan return 11 yards to the SHU0, TOUCHDOWN, clock 09:04, Pauly, Kevin kick attempt good." newcontext="V,1,0,V30">
+    <p_pa vh="H" qb="FINK, Dale" result="INT"></p_pa>
+    <p_pat vh="V" name="Pauly, Kevin" qb="Pauly, Kevin" type="K" result="GOOD" score="Y"></p_pat>
+    <p_ir vh="V" name="Bryant, Jaquan" at="H11" gain="11"></p_ir>
+   </play>
+   <drivesum plays="1" yards="0" top="0:06" driveindex="2" complete="Y"></drivesum>
+   <score V="7" H="0"></score>
+   <drivestart poss="V,V30,09:04" vh="V" spot="V30" clock="09:04" driveindex="3,13"></drivestart>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="3" complete="Y"></drivesum>
+   <play hasball="MARIST" down="1" togo="0" spot="MARIST30" context="V,1,0,V30" playid="3,1,14" type="K" text="Myers, Jason kickoff 58 yards to the SHU12, COLES, Garry return 21 yards to the SHU33 (Cronan, Ryan)." newcontext="H,1,10,H33">
+    <p_ko vh="V" name="Myers, Jason" gain="58"></p_ko>
+    <p_kr vh="H" name="COLES, Garry" gain="21"></p_kr>
+    <p_tk vh="V" name="Cronan, Ryan"></p_tk>
+   </play>
+   <drivestart poss="H,H33,09:04" vh="H" spot="H33" clock="09:04" driveindex="4,14"></drivestart>
+   <play hasball="SHU" down="1" togo="10" spot="SHU33" context="H,1,10,H33" playid="4,1,15" clock="08:57" text="SACRED HEART drive start at 08:57." newcontext="H,1,10,H33">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU33" context="H,1,10,H33" playid="4,2,16" type="R" text="COLES, Garry rush for 6 yards to the SHU39, out-of-bounds (Foley, Kevin)." ob="Y" newcontext="H,2,4,H39">
+    <p_ru vh="H" name="COLES, Garry" gain="6"></p_ru>
+    <p_tk vh="V" name="Foley, Kevin"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="4" spot="SHU39" context="H,2,4,H39" playid="4,3,17" type="R" text="FRIEDMAN, Brian rush for 2 yards to the SHU41 (Desautels, Jim;Foley, Kevin)." newcontext="H,3,2,H41">
+    <p_ru vh="H" name="FRIEDMAN, Brian" gain="2"></p_ru>
+    <p_tk vh="V" name="Desautels, Jim" assist="Y"></p_tk>
+    <p_tk vh="V" name="Foley, Kevin" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="3" togo="2" spot="SHU41" context="H,3,2,H41" playid="4,4,18" type="R" first="R" text="FRIEDMAN, Brian rush for 7 yards to the SHU48, 1ST DOWN SHU (Foley, Rory;Desautels, Jim)." newcontext="H,1,10,H48">
+    <p_ru vh="H" name="FRIEDMAN, Brian" gain="7"></p_ru>
+    <p_tk vh="V" name="Foley, Rory" assist="Y"></p_tk>
+    <p_tk vh="V" name="Desautels, Jim" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU48" context="H,1,10,H48" playid="4,5,19" type="R" text="COLES, Garry rush for 7 yards to the MARIST45 (Van Aman, John)." newcontext="H,2,3,V45">
+    <p_ru vh="H" name="COLES, Garry" gain="7"></p_ru>
+    <p_tk vh="V" name="Van Aman, John"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="3" spot="MARIST45" context="H,2,3,V45" playid="4,6,20" type="R" text="COLES, Garry rush for 1 yard to the MARIST44 (Coughlin, Kees)." newcontext="H,3,2,V44">
+    <p_ru vh="H" name="COLES, Garry" gain="1"></p_ru>
+    <p_tk vh="V" name="Coughlin, Kees"></p_tk>
+   </play>
+   <play hasball="SHU" down="3" togo="2" spot="MARIST44" context="H,3,2,V44" playid="4,7,21" type="R" first="R" text="FRIEDMAN, Brian rush for 7 yards to the MARIST37, 1ST DOWN SHU (Foley, Kevin;Zivic, Nic)." newcontext="H,1,10,V37">
+    <p_ru vh="H" name="FRIEDMAN, Brian" gain="7"></p_ru>
+    <p_tk vh="V" name="Foley, Kevin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Zivic, Nic" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST37" context="H,1,10,V37" playid="4,8,22" type="P" text="FINK, Dale pass complete to RAPP, Chris for 2 yards to the MARIST35 (Coughlin, Kees)." newcontext="H,2,8,V35">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="RAPP, Chris" gain="2"></p_pa>
+    <p_tk vh="V" name="Coughlin, Kees"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="8" spot="MARIST35" context="H,2,8,V35" playid="4,9,23" type="E" text="COLES, Garry rush for 4 yards to the MARIST31 (Foley, Kevin), PENALTY SHU illegal motion 5 yards to the MARIST40, NO PLAY." newcontext="H,2,13,V40">
+    <p_pn vh="H" code="MO" type="illegal motion" result="ACCEPT" at="V35" yards="5"></p_pn>
+   </play>
+   <play hasball="SHU" down="2" togo="13" spot="MARIST40" context="H,2,13,V40" playid="4,10,24" type="P" text="FINK, Dale pass incomplete to COLES, Garry." newcontext="H,3,13,V40">
+    <p_pa vh="H" qb="FINK, Dale" result="INC" rcv="COLES, Garry"></p_pa>
+   </play>
+   <play hasball="SHU" down="3" togo="13" spot="MARIST40" context="H,3,13,V40" playid="4,11,25" type="P" text="FINK, Dale pass complete to FRIEDMAN, Brian for 9 yards to the MARIST31 (Andre, Nick)." newcontext="H,4,4,V31">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="FRIEDMAN, Brian" gain="9"></p_pa>
+    <p_tk vh="V" name="Andre, Nick"></p_tk>
+   </play>
+   <play hasball="SHU" down="4" togo="4" spot="MARIST31" context="H,4,4,V31" playid="4,12,26" type="P" text="FINK, Dale pass incomplete to JAMIEL, Jo Jo (Bryant, Jaquan)." newcontext="V,1,10,V31">
+    <p_pa vh="H" qb="FINK, Dale" result="BRUP" rcv="JAMIEL, Jo Jo"></p_pa>
+    <p_bu vh="V" name="Bryant, Jaquan"></p_bu>
+   </play>
+   <drivesum plays="10" yards="36" top="5:33" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="V,V31,08:57" vh="V" spot="V31" clock="08:57" driveindex="5,26"></drivestart>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST31" context="V,1,10,V31" playid="5,1,27" clock="03:24" text="MARIST drive start at 03:24." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST31" context="V,1,10,V31" playid="5,2,28" type="P" text="Debowski, Chris pass complete to LaMacchia,James for 9 yards to the MARIST40 (FLUMERE, Brian;MCINTOSH, Titus)." newcontext="V,2,1,V40">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="LaMacchia,James" gain="9"></p_pa>
+    <p_tk vh="H" name="FLUMERE, Brian" assist="Y"></p_tk>
+    <p_tk vh="H" name="MCINTOSH, Titus" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="1" spot="MARIST40" context="V,2,1,V40" playid="5,3,29" type="R" first="R" text="Anderson,O'Neil rush for 5 yards to the MARIST45, 1ST DOWN MARIST (DOROSH, Matt)." newcontext="V,1,10,V45">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="5"></p_ru>
+    <p_tk vh="H" name="DOROSH, Matt"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST45" context="V,1,10,V45" playid="5,4,30" type="R" text="Debowski, Chris rush for 9 yards to the SHU46 (FLUMERE, Brian)." newcontext="V,2,1,H46">
+    <p_ru vh="V" name="Debowski, Chris" gain="9"></p_ru>
+    <p_tk vh="H" name="FLUMERE, Brian"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="1" spot="SHU46" context="V,2,1,H46" playid="5,5,31" type="R" first="R" text="Whipple, Greg rush for 16 yards to the SHU30, 1ST DOWN MARIST (MCINTOSH, Titus;EMBLER, Justin)." newcontext="V,1,10,H30">
+    <p_ru vh="V" name="Whipple, Greg" gain="16"></p_ru>
+    <p_tk vh="H" name="MCINTOSH, Titus" assist="Y"></p_tk>
+    <p_tk vh="H" name="EMBLER, Justin" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="SHU30" context="V,1,10,H30" playid="5,6,32" type="R" text="Whipple, Greg rush for 3 yards to the SHU27 (EMBLER, Justin)." newcontext="V,2,7,H27">
+    <p_ru vh="V" name="Whipple, Greg" gain="3"></p_ru>
+    <p_tk vh="H" name="EMBLER, Justin"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="7" spot="SHU27" context="V,2,7,H27" playid="5,7,33" type="P" text="Debowski, Chris sacked for loss of 5 yards to the SHU32 (EMBLER, Justin)." newcontext="V,3,12,H32">
+    <p_pa vh="V" qb="Debowski, Chris" result="SACK" gain="-5"></p_pa>
+    <p_tk vh="H" name="EMBLER, Justin" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <score qtr="1" V="7" H="0"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MARIST">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:14"></misc>
+    <rush att="10" yds="31" gain="47" loss="16" td="0" long="16"></rush>
+    <pass comp="4" att="4" int="0" yds="38" td="0" long="18" sacks="2" sackyds="15"></pass>
+    <rcv no="4" yds="38" td="0" long="18"></rcv>
+    <punt no="1" yds="36" long="36" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="36.0"></punt>
+    <ko no="1" yds="58" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="6" tacka="6" tot_tack="12" sacks="0" sackyds="0" brup="1" int="1" intyds="11"></defense>
+    <kr no="1" yds="15" td="0" long="15"></kr>
+    <ir no="1" yds="11" td="1" long="11"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="SHU">
+    <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:46"></misc>
+    <rush att="6" yds="30" gain="30" loss="0" td="0" long="7"></rush>
+    <pass comp="2" att="5" int="1" yds="11" td="0" long="9" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="11" td="0" long="9"></rcv>
+    <ko no="1" yds="62" ob="0" tb="0"></ko>
+    <defense tackua="10" tacka="8" tot_tack="18" tflua="3" tfla="0" tflyds="16" sacks="2" sackyds="15"></defense>
+    <kr no="1" yds="21" td="0" long="21"></kr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="MARIST" down="3" togo="12" spot="SHU32" context="V,3,12,H32" playid="5,8,34" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,3,12,H32">
+   </play>
+   <play hasball="MARIST" down="3" togo="12" spot="SHU32" context="V,3,12,H32" playid="5,9,35" type="R" text="Debowski, Chris rush for loss of 2 yards to the SHU34, fumble forced by DAVIS, Chansler, fumble by Debowski, Chris recovered by MARIST Ulrich, Kevin at SHU29." newcontext="V,4,9,H29">
+    <p_ru vh="V" name="Debowski, Chris" gain="-2"></p_ru>
+    <p_fumb vh="V" name="Debowski, Chris" at="H29" frvh="V" frname="Ulrich, Kevin"></p_fumb>
+    <p_tk vh="H" name="DAVIS, Chansler" ff="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="4" togo="9" spot="SHU29" context="V,4,9,H29" playid="5,10,36" type="F" score="Y" clock="14:05" text="Pauly, Kevin field goal attempt from 46 GOOD, clock 14:05." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Pauly, Kevin" distance="46" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="10" H="0"></score>
+   <drivesum plays="8" yards="40" top="4:19" driveindex="5" complete="Y"></drivesum>
+   <play hasball="MARIST" down="1" togo="0" spot="MARIST30" context="V,1,0,V30" playid="5,11,37" type="K" text="Myers, Jason kickoff 61 yards to the SHU9, SWIDER, Brett return 29 yards to the SHU38 (Sine, Isaac)." newcontext="H,1,10,H38">
+    <p_ko vh="V" name="Myers, Jason" gain="61"></p_ko>
+    <p_kr vh="H" name="SWIDER, Brett" gain="29"></p_kr>
+    <p_tk vh="V" name="Sine, Isaac"></p_tk>
+   </play>
+   <drivestart poss="H,H38,14:05" vh="H" spot="H38" clock="14:05" driveindex="6,37"></drivestart>
+   <play hasball="SHU" down="1" togo="10" spot="SHU38" context="H,1,10,H38" playid="6,1,38" clock="13:58" text="SACRED HEART drive start at 13:58." newcontext="H,1,10,H38">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU38" context="H,1,10,H38" playid="6,2,39" type="R" text="COLES, Garry rush for 2 yards to the SHU40 (Fede, Terrence)." newcontext="H,2,8,H40">
+    <p_ru vh="H" name="COLES, Garry" gain="2"></p_ru>
+    <p_tk vh="V" name="Fede, Terrence"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="8" spot="SHU40" context="H,2,8,H40" playid="6,3,40" type="P" first="P" text="FINK, Dale pass complete to COLES, Garry for 13 yards to the MARIST47, 1ST DOWN SHU (Andre, Nick;Van Aman, John)." newcontext="H,1,10,V47">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="COLES, Garry" gain="13"></p_pa>
+    <p_tk vh="V" name="Andre, Nick" assist="Y"></p_tk>
+    <p_tk vh="V" name="Van Aman, John" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST47" context="H,1,10,V47" playid="6,4,41" type="R" text="FRIEDMAN, Brian rush for 4 yards to the MARIST43 (Foley, Kevin;Coughlin, Kees)." newcontext="H,2,6,V43">
+    <p_ru vh="H" name="FRIEDMAN, Brian" gain="4"></p_ru>
+    <p_tk vh="V" name="Foley, Kevin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Coughlin, Kees" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="6" spot="MARIST43" context="H,2,6,V43" playid="6,5,42" type="P" text="FINK, Dale pass incomplete to TEDESCO, Steve (Sullivan,Daniel)." newcontext="H,3,6,V43">
+    <p_pa vh="H" qb="FINK, Dale" result="BRUP" rcv="TEDESCO, Steve"></p_pa>
+    <p_bu vh="V" name="Sullivan,Daniel"></p_bu>
+   </play>
+   <play hasball="SHU" down="3" togo="6" spot="MARIST43" context="H,3,6,V43" playid="6,6,43" type="R" text="FINK, Dale rush for 5 yards to the MARIST38, out-of-bounds (Coughlin, Kees)." ob="Y" newcontext="H,4,1,V38">
+    <p_ru vh="H" name="FINK, Dale" gain="5"></p_ru>
+    <p_tk vh="V" name="Coughlin, Kees"></p_tk>
+   </play>
+   <play hasball="SHU" down="4" togo="1" spot="MARIST38" context="H,4,1,V38" playid="6,7,44" type="R" first="R" text="FINK, Dale rush for 1 yard to the MARIST37, 1ST DOWN SHU (Sullivan,Daniel;Snow, Matt)." newcontext="H,1,10,V37">
+    <p_ru vh="H" name="FINK, Dale" gain="1"></p_ru>
+    <p_tk vh="V" name="Sullivan,Daniel" assist="Y"></p_tk>
+    <p_tk vh="V" name="Snow, Matt" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST37" context="H,1,10,V37" playid="6,8,45" type="P" text="FINK, Dale pass incomplete to COLES, Garry." newcontext="H,2,10,V37">
+    <p_pa vh="H" qb="FINK, Dale" result="INC" rcv="COLES, Garry"></p_pa>
+   </play>
+   <play hasball="SHU" down="2" togo="10" spot="MARIST37" context="H,2,10,V37" playid="6,9,46" type="P" text="FINK, Dale pass complete to JAMIEL, Jo Jo for 1 yard to the MARIST36 (Andre, Nick)." newcontext="H,3,9,V36">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="JAMIEL, Jo Jo" gain="1"></p_pa>
+    <p_tk vh="V" name="Andre, Nick"></p_tk>
+   </play>
+   <play hasball="SHU" down="3" togo="9" spot="MARIST36" context="H,3,9,V36" playid="6,10,47" type="P" first="P" text="FINK, Dale pass complete to PATTERSON, Tony for 24 yards to the MARIST12, 1ST DOWN SHU (Zivic, Nic)." newcontext="H,1,10,V12">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="PATTERSON, Tony" gain="24"></p_pa>
+    <p_tk vh="V" name="Zivic, Nic"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST12" context="H,1,10,V12" playid="6,11,48" type="X" first="R" score="Y" clock="10:07" text="FINK, Dale rush for 12 yards to the MARIST0, 1ST DOWN SHU, TOUCHDOWN, clock 10:07, FISHER, Matt kick attempt failed." newcontext="H,1,0,H30">
+    <p_ru vh="H" name="FINK, Dale" gain="12"></p_ru>
+    <p_pat vh="H" name="FISHER, Matt" qb="FISHER, Matt" type="K" result="MISSED"></p_pat>
+   </play>
+   <score V="10" H="6"></score>
+   <drivesum plays="10" yards="62" top="3:51" driveindex="6" complete="Y"></drivesum>
+   <play hasball="SHU" down="1" togo="0" spot="SHU30" context="H,1,0,H30" playid="6,12,49" type="K" text="KISTLER, Joe kickoff 50 yards to the MARIST20, Bryant, Jaquan return 8 yards to the MARIST28, fumble forced by OSTERMEYER, E., fumble by Bryant, Jaquan recovered by MARIST TEAM at MARIST30, out-of-bounds." ob="Y" newcontext="V,1,10,V30">
+    <p_ko vh="H" name="KISTLER, Joe" gain="50"></p_ko>
+    <p_kr vh="V" name="Bryant, Jaquan" gain="8"></p_kr>
+    <p_fumb vh="V" name="Bryant, Jaquan" at="V30" frvh="V" frname="TEAM"></p_fumb>
+    <p_tk vh="H" name="OSTERMEYER, E." ff="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V30,10:07" vh="V" spot="V30" clock="10:07" driveindex="7,49"></drivestart>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST30" context="V,1,10,V30" playid="7,1,50" clock="10:03" text="MARIST drive start at 10:03." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST30" context="V,1,10,V30" playid="7,2,51" type="P" first="P" text="Debowski, Chris pass complete to LaMacchia,James for 20 yards to the 50 yardline, 1ST DOWN MARIST (TURNER, Zak)." newcontext="V,1,10,V50">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="LaMacchia,James" gain="20"></p_pa>
+    <p_tk vh="H" name="TURNER, Zak"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST50" context="V,1,10,V50" playid="7,3,52" type="P" text="Debowski, Chris pass incomplete to LaMacchia,James (MCINTOSH, Titus)." newcontext="V,2,10,V50">
+    <p_pa vh="V" qb="Debowski, Chris" result="BRUP" rcv="LaMacchia,James"></p_pa>
+    <p_bu vh="H" name="MCINTOSH, Titus"></p_bu>
+   </play>
+   <play hasball="MARIST" down="2" togo="10" spot="MARIST50" context="V,2,10,V50" playid="7,4,53" type="P" text="Debowski, Chris pass incomplete to Whipple, Greg (BRANCHINI, V.)." newcontext="V,3,10,V50">
+    <p_pa vh="V" qb="Debowski, Chris" result="BRUP" rcv="Whipple, Greg"></p_pa>
+    <p_bu vh="H" name="BRANCHINI, V."></p_bu>
+   </play>
+   <play hasball="MARIST" down="3" togo="10" spot="MARIST50" context="V,3,10,V50" playid="7,5,54" type="P" first="P" text="Debowski, Chris pass complete to Fitzpatrick, K for 15 yards to the SHU35, 1ST DOWN MARIST (MCINTOSH, Titus)." newcontext="V,1,10,H35">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="Fitzpatrick, K" gain="15"></p_pa>
+    <p_tk vh="H" name="MCINTOSH, Titus"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="SHU35" context="V,1,10,H35" playid="7,6,55" type="R" text="Anderson,O'Neil rush for 4 yards to the SHU31 (MCINTOSH, Titus)." newcontext="V,2,6,H31">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="4"></p_ru>
+    <p_tk vh="H" name="MCINTOSH, Titus"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="6" spot="SHU31" context="V,2,6,H31" playid="7,7,56" type="R" turnover="F" text="Debowski, Chris rush for 1 yard to the SHU30, fumble forced by VEIX, Will, fumble by Debowski, Chris recovered by SHU FLUMERE, Brian at SHU32." newcontext="H,1,10,H32">
+    <p_ru vh="V" name="Debowski, Chris" gain="1"></p_ru>
+    <p_fumb vh="V" name="Debowski, Chris" at="H32" frvh="H" frname="FLUMERE, Brian"></p_fumb>
+    <p_tk vh="H" name="VEIX, Will" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="6" yards="40" top="1:58" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,H32,10:03" vh="H" spot="H32" clock="10:03" driveindex="8,56"></drivestart>
+   <play hasball="SHU" down="1" togo="10" spot="SHU32" context="H,1,10,H32" playid="8,1,57" clock="08:05" text="SACRED HEART drive start at 08:05." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU32" context="H,1,10,H32" playid="8,2,58" type="P" text="FINK, Dale pass complete to JAMIEL, Jo Jo for 6 yards to the SHU38 (Andre, Nick)." newcontext="H,2,4,H38">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="JAMIEL, Jo Jo" gain="6"></p_pa>
+    <p_tk vh="V" name="Andre, Nick"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="4" spot="SHU38" context="H,2,4,H38" playid="8,3,59" type="P" text="FINK, Dale pass complete to COLES, Garry for loss of 3 yards to the SHU35." newcontext="H,3,7,H35">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="COLES, Garry" gain="-3"></p_pa>
+   </play>
+   <play hasball="SHU" down="3" togo="7" spot="SHU35" context="H,3,7,H35" playid="8,4,60" type="P" first="P" text="FINK, Dale pass complete to JAMIEL, Jo Jo for 9 yards to the SHU44, 1ST DOWN SHU (Steubing, Kurt;Hill, Rodney)." newcontext="H,1,10,H44">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="JAMIEL, Jo Jo" gain="9"></p_pa>
+    <p_tk vh="V" name="Steubing, Kurt" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hill, Rodney" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU44" context="H,1,10,H44" playid="8,5,61" type="R" text="COLES, Garry rush for no gain to the SHU44 (Wyatt, Benjamin;Steubing, Kurt)." newcontext="H,2,10,H44">
+    <p_ru vh="H" name="COLES, Garry" gain="0"></p_ru>
+    <p_tk vh="V" name="Wyatt, Benjamin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Steubing, Kurt" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="10" spot="SHU44" context="H,2,10,H44" playid="8,6,62" type="P" text="FINK, Dale pass incomplete to ROSSI, Rich (Carlor, Kwame)." newcontext="H,3,10,H44">
+    <p_pa vh="H" qb="FINK, Dale" result="BRUP" rcv="ROSSI, Rich"></p_pa>
+    <p_bu vh="V" name="Carlor, Kwame"></p_bu>
+   </play>
+   <play hasball="SHU" down="3" togo="10" spot="SHU44" context="H,3,10,H44" playid="8,7,63" type="P" text="FINK, Dale pass complete to PATTERSON, Tony for 4 yards to the SHU48 (Steubing, Kurt)." newcontext="H,4,6,H48">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="PATTERSON, Tony" gain="4"></p_pa>
+    <p_tk vh="V" name="Steubing, Kurt"></p_tk>
+   </play>
+   <play hasball="SHU" down="4" togo="6" spot="SHU48" context="H,4,6,H48" playid="8,8,64" type="U" text="FRIEDMAN, Brian punt 43 yards to the MARIST9, out-of-bounds." ob="Y" newcontext="V,1,10,V09">
+    <p_pu vh="H" name="FRIEDMAN, Brian" gain="43" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="16" top="3:26" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,V09,08:05" vh="V" spot="V09" clock="08:05" driveindex="9,64"></drivestart>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST09" context="V,1,10,V09" playid="9,1,65" clock="04:39" text="MARIST drive start at 04:39." newcontext="V,1,10,V09">
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST09" context="V,1,10,V09" playid="9,2,66" type="P" text="Debowski, Chris pass complete to LaMacchia,James for 7 yards to the MARIST16, out-of-bounds (VEIX, Will)." ob="Y" newcontext="V,2,3,V16">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="LaMacchia,James" gain="7"></p_pa>
+    <p_tk vh="H" name="VEIX, Will"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="3" spot="MARIST16" context="V,2,3,V16" playid="9,3,67" type="R" first="R" text="Anderson,O'Neil rush for 5 yards to the MARIST21, 1ST DOWN MARIST (MANDAS, Chris)." newcontext="V,1,10,V21">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="5"></p_ru>
+    <p_tk vh="H" name="MANDAS, Chris"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST21" context="V,1,10,V21" playid="9,4,68" type="E" text="PENALTY MARIST false start 5 yards to the MARIST16." newcontext="V,1,15,V16">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V21" yards="5"></p_pn>
+   </play>
+   <play hasball="MARIST" down="1" togo="15" spot="MARIST16" context="V,1,15,V16" playid="9,5,69" type="P" text="Debowski, Chris pass complete to LaMacchia,James for 11 yards to the MARIST27 (VEIX, Will)." newcontext="V,2,4,V27">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="LaMacchia,James" gain="11"></p_pa>
+    <p_tk vh="H" name="VEIX, Will"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="4" spot="MARIST27" context="V,2,4,V27" playid="9,6,70" type="P" first="P" text="Debowski, Chris pass complete to LaMacchia,James for 4 yards to the MARIST31, 1ST DOWN MARIST (MCINTOSH, Titus)." newcontext="V,1,10,V31">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="LaMacchia,James" gain="4"></p_pa>
+    <p_tk vh="H" name="MCINTOSH, Titus"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST31" context="V,1,10,V31" playid="9,7,71" type="P" text="Debowski, Chris pass complete to Roe, R.J. for 9 yards to the MARIST40 (MANDAS, Chris)." newcontext="V,2,1,V40">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="Roe, R.J." gain="9"></p_pa>
+    <p_tk vh="H" name="MANDAS, Chris"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="1" spot="MARIST40" context="V,2,1,V40" playid="9,8,72" type="R" first="R" text="Fiumefreddo, R rush for 3 yards to the MARIST43, 1ST DOWN MARIST (DOROSH, Matt;CONGER, Adam)." newcontext="V,1,10,V43">
+    <p_ru vh="V" name="Fiumefreddo, R" gain="3"></p_ru>
+    <p_tk vh="H" name="DOROSH, Matt" assist="Y"></p_tk>
+    <p_tk vh="H" name="CONGER, Adam" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST43" context="V,1,10,V43" playid="9,9,73" type="P" text="Debowski, Chris pass incomplete to LaMacchia,James." newcontext="V,2,10,V43">
+    <p_pa vh="V" qb="Debowski, Chris" result="INC" rcv="LaMacchia,James"></p_pa>
+   </play>
+   <play hasball="MARIST" down="2" togo="10" spot="MARIST43" context="V,2,10,V43" playid="9,10,74" type="R" first="R" text="Anderson,O'Neil rush for 14 yards to the SHU43, 1ST DOWN MARIST (DOROSH, Matt;MCINTOSH, Titus)." newcontext="V,1,10,H43">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="14"></p_ru>
+    <p_tk vh="H" name="DOROSH, Matt" assist="Y"></p_tk>
+    <p_tk vh="H" name="MCINTOSH, Titus" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="SHU43" context="V,1,10,H43" playid="9,11,75" type="X" first="P" score="Y" clock="00:44" text="Debowski, Chris pass complete to LaMacchia,James for 43 yards to the SHU0, 1ST DOWN MARIST, TOUCHDOWN, clock 00:44, Pauly, Kevin kick attempt good." newcontext="V,1,0,V30">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="LaMacchia,James" gain="43"></p_pa>
+    <p_pat vh="V" name="Pauly, Kevin" qb="Pauly, Kevin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="17" H="6"></score>
+   <drivesum plays="9" yards="91" top="3:55" driveindex="9" complete="Y"></drivesum>
+   <play hasball="MARIST" down="1" togo="0" spot="MARIST30" context="V,1,0,V30" playid="9,12,76" type="K" text="Pauly, Kevin kickoff 27 yards to the SHU43, OSTERMEYER, E. return 0 yards to the SHU43." newcontext="H,1,10,H43">
+    <p_ko vh="V" name="Pauly, Kevin" gain="27"></p_ko>
+    <p_kr vh="H" name="OSTERMEYER, E." gain="0"></p_kr>
+   </play>
+   <drivestart poss="H,H43,00:44" vh="H" spot="H43" clock="00:44" driveindex="10,76"></drivestart>
+   <play hasball="SHU" down="1" togo="10" spot="SHU43" context="H,1,10,H43" playid="10,1,77" clock="00:43" text="SACRED HEART drive start at 00:43." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU43" context="H,1,10,H43" playid="10,2,78" type="P" text="FINK, Dale pass complete to ROSSI, Rich for 8 yards to the MARIST49 (Carlor, Kwame)." newcontext="H,2,2,V49">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="ROSSI, Rich" gain="8"></p_pa>
+    <p_tk vh="V" name="Carlor, Kwame"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="2" spot="MARIST49" context="H,2,2,V49" playid="10,3,79" type="P" first="P" text="FINK, Dale pass complete to COLES, Garry for 2 yards to the MARIST47, 1ST DOWN SHU, out-of-bounds (Foley, Kevin)." ob="Y" newcontext="H,1,10,V47">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="COLES, Garry" gain="2"></p_pa>
+    <p_tk vh="V" name="Foley, Kevin"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST47" context="H,1,10,V47" playid="10,4,80" type="P" first="P" text="FINK, Dale pass complete to ROSSI, Rich for 11 yards to the MARIST36, 1ST DOWN SHU, out-of-bounds (Bryant, Jaquan)." ob="Y" newcontext="H,1,10,V36">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="ROSSI, Rich" gain="11"></p_pa>
+    <p_tk vh="V" name="Bryant, Jaquan"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST36" context="H,1,10,V36" playid="10,5,81" type="P" text="FINK, Dale pass complete to FRIEDMAN, Brian for 8 yards to the MARIST28 (Carlor, Kwame;Andre, Nick)." newcontext="H,2,2,V28">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="FRIEDMAN, Brian" gain="8"></p_pa>
+    <p_tk vh="V" name="Carlor, Kwame" assist="Y"></p_tk>
+    <p_tk vh="V" name="Andre, Nick" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="2" spot="MARIST28" context="H,2,2,V28" playid="10,6,82" type="#" clock="00:05" text="Timeout Sacred Heart, clock 00:05." newcontext="H,2,2,V28">
+    <p_to vh="H" team="Sacred Heart"></p_to>
+   </play>
+   <play hasball="SHU" down="2" togo="2" spot="MARIST28" context="H,2,2,V28" playid="10,7,83" type="#" clock="00:05" text="Timeout Marist, clock 00:05." newcontext="H,2,2,V28">
+    <p_to vh="V" team="Marist"></p_to>
+   </play>
+   <play hasball="SHU" down="2" togo="2" spot="MARIST28" context="H,2,2,V28" playid="10,8,84" type="P" text="FINK, Dale pass incomplete to TEDESCO, Steve." newcontext="H,3,2,V28">
+    <p_pa vh="H" qb="FINK, Dale" result="INC" rcv="TEDESCO, Steve"></p_pa>
+   </play>
+   <play hasball="SHU" down="3" togo="2" spot="MARIST28" context="H,3,2,V28" playid="10,9,85" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,3,2,V28">
+   </play>
+   <drivesum plays="5" yards="29" top="0:43" driveindex="10" complete="Y"></drivesum>
+   <score qtr="2" V="17" H="6"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MARIST">
+    <firstdowns no="7" rush="3" pass="4" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="3" lost="1"></fumbles>
+    <misc yds="0" top="06:52"></misc>
+    <rush att="6" yds="28" gain="29" loss="1" td="0" long="0"></rush>
+    <pass comp="7" att="10" int="0" yds="109" td="1" long="25" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="109" td="1" long="25"></rcv>
+    <ko no="2" yds="88" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="46" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="12" tot_tack="22" sacks="0" sackyds="0" brup="2"></defense>
+    <kr no="1" yds="10" td="0" long="0"></kr>
+    <fumbles no="3" lost="1"></fumbles>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="SHU">
+    <firstdowns no="7" rush="2" pass="5" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:08"></misc>
+    <rush att="6" yds="24" gain="24" loss="0" td="1" long="5"></rush>
+    <pass comp="11" att="15" int="0" yds="83" td="0" long="15" sacks="0" sackyds="0"></pass>
+    <rcv no="11" yds="83" td="0" long="15"></rcv>
+    <punt no="1" yds="43" long="43" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="43.0"></punt>
+    <ko no="1" yds="50" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="0"></pat>
+    <defense tackua="11" tacka="4" tot_tack="15" tflua="1" tfla="0" tflyds="2" sacks="2" sackyds="15" brup="2" ff="3" fr="1" fryds="0"></defense>
+    <kr no="2" yds="29" td="0" long="8"></kr>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="SHU" down="3" togo="2" spot="MARIST28" context="H,3,2,V28" playid="10,10,86" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, MARIST ball on MARIST30." newcontext="V,3,2,V30">
+   </play>
+   <play hasball="MARIST" down="3" togo="2" spot="MARIST30" context="V,3,2,V30" playid="10,11,87" type="K" text="Myers, Jason kickoff 62 yards to the SHU8, SWIDER, Brett return 28 yards to the SHU36 (Moller, Timothy)." newcontext="H,1,10,H36">
+    <p_ko vh="V" name="Myers, Jason" gain="62"></p_ko>
+    <p_kr vh="H" name="SWIDER, Brett" gain="28"></p_kr>
+    <p_tk vh="V" name="Moller, Timothy"></p_tk>
+   </play>
+   <drivestart poss="H,H36,15:00" vh="H" spot="H36" clock="15:00" driveindex="11,87"></drivestart>
+   <play hasball="SHU" down="1" togo="10" spot="SHU36" context="H,1,10,H36" playid="11,1,88" clock="15:00" text="SACRED HEART drive start at 15:00." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU36" context="H,1,10,H36" playid="11,2,89" type="P" text="FINK, Dale pass incomplete to TEDESCO, Steve, dropped pass." newcontext="H,2,10,H36">
+    <p_pa vh="H" qb="FINK, Dale" result="DROP" rcv="TEDESCO, Steve"></p_pa>
+   </play>
+   <play hasball="SHU" down="2" togo="10" spot="SHU36" context="H,2,10,H36" playid="11,3,90" type="P" text="FINK, Dale pass complete to PATTERSON, Tony for 3 yards to the SHU39 (Andre, Nick)." newcontext="H,3,7,H39">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="PATTERSON, Tony" gain="3"></p_pa>
+    <p_tk vh="V" name="Andre, Nick"></p_tk>
+   </play>
+   <play hasball="SHU" down="3" togo="7" spot="SHU39" context="H,3,7,H39" playid="11,4,91" type="P" text="FINK, Dale pass complete to ROSSI, Rich for 5 yards to the SHU44 (Bryant, Jaquan)." newcontext="H,4,2,H44">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="ROSSI, Rich" gain="5"></p_pa>
+    <p_tk vh="V" name="Bryant, Jaquan"></p_tk>
+   </play>
+   <play hasball="SHU" down="4" togo="2" spot="SHU44" context="H,4,2,H44" playid="11,5,92" type="U" text="FRIEDMAN, Brian punt 36 yards to the MARIST20, fair catch by Whipple, Greg." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="FRIEDMAN, Brian" gain="36" fc="Whipple, Greg"></p_pu>
+   </play>
+   <drivesum plays="3" yards="8" top="1:37" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,V20,15:00" vh="V" spot="V20" clock="15:00" driveindex="12,92"></drivestart>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST20" context="V,1,10,V20" playid="12,1,93" clock="13:23" text="MARIST drive start at 13:23." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST20" context="V,1,10,V20" playid="12,2,94" type="R" text="Debowski, Chris rush for loss of 2 yards to the MARIST18 (UNDERWOOD, R.;DAVIS, Chansler)." newcontext="V,2,12,V18">
+    <p_ru vh="V" name="Debowski, Chris" gain="-2"></p_ru>
+    <p_tk vh="H" name="UNDERWOOD, R." tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="DAVIS, Chansler" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="12" spot="MARIST18" context="V,2,12,V18" playid="12,3,95" type="P" text="Debowski, Chris pass incomplete to Roe, R.J.." newcontext="V,3,12,V18">
+    <p_pa vh="V" qb="Debowski, Chris" result="INC" rcv="Roe, R.J."></p_pa>
+   </play>
+   <play hasball="MARIST" down="3" togo="12" spot="MARIST18" context="V,3,12,V18" playid="12,4,96" type="P" turnover="F" text="Debowski, Chris pass complete to LaMacchia,James for 7 yards to the MARIST25, fumble forced by MCINTOSH, Titus, fumble by LaMacchia,James recovered by SHU ISLA, Andre at MARIST21." newcontext="H,1,10,V21">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="LaMacchia,James" gain="7"></p_pa>
+    <p_fumb vh="V" name="LaMacchia,James" at="V21" frvh="H" frname="ISLA, Andre"></p_fumb>
+    <p_tk vh="H" name="MCINTOSH, Titus" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="1" top="1:04" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,V21,13:23" vh="H" spot="V21" clock="13:23" driveindex="13,96"></drivestart>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST21" context="H,1,10,V21" playid="13,1,97" clock="12:19" text="SACRED HEART drive start at 12:19." newcontext="H,1,10,V21">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST21" context="H,1,10,V21" playid="13,2,98" type="E" clock="12:14" text="FINK, Dale pass complete to STRIPE, Tom for 21 yards to the MARIST0, clock 12:14, PENALTY SHU holding 10 yards to the MARIST31, NO PLAY." newcontext="H,1,20,V31">
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="V21" yards="10"></p_pn>
+   </play>
+   <play hasball="SHU" down="1" togo="20" spot="MARIST31" context="H,1,20,V31" playid="13,3,99" type="P" text="FINK, Dale pass complete to JAMIEL, Jo Jo for 8 yards to the MARIST23 (Foley, Rory)." newcontext="H,2,12,V23">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="JAMIEL, Jo Jo" gain="8"></p_pa>
+    <p_tk vh="V" name="Foley, Rory"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="12" spot="MARIST23" context="H,2,12,V23" playid="13,4,100" type="R" text="FINK, Dale rush for loss of 4 yards to the MARIST27, fumble by FINK, Dale recovered by SHU ARCHER, Marcel at MARIST27." newcontext="H,3,16,V27">
+    <p_ru vh="H" name="FINK, Dale" gain="-4"></p_ru>
+    <p_fumb vh="H" name="FINK, Dale" at="V27" frvh="H" frname="ARCHER, Marcel"></p_fumb>
+   </play>
+   <play hasball="SHU" down="3" togo="16" spot="MARIST27" context="H,3,16,V27" playid="13,5,101" type="E" text="PENALTY MARIST offside defense 5 yards to the MARIST22." newcontext="H,3,11,V22">
+    <p_pn vh="V" code="OD" type="offside defense" result="ACCEPT" at="V27" yards="5"></p_pn>
+   </play>
+   <play hasball="SHU" down="3" togo="11" spot="MARIST22" context="H,3,11,V22" playid="13,6,102" type="R" text="ARCHER, Marcel rush for loss of 1 yard to the MARIST23 (Foley, Kevin;Steubing, Kurt)." newcontext="H,4,12,V23">
+    <p_ru vh="H" name="ARCHER, Marcel" gain="-1"></p_ru>
+    <p_tk vh="V" name="Foley, Kevin" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Steubing, Kurt" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="4" togo="12" spot="MARIST23" context="H,4,12,V23" playid="13,7,103" type="P" text="FINK, Dale pass incomplete to PATTERSON, Tony." newcontext="V,1,10,V23">
+    <p_pa vh="H" qb="FINK, Dale" result="INC" rcv="PATTERSON, Tony"></p_pa>
+   </play>
+   <drivesum plays="4" yards="-2" top="2:27" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="V,V23,12:14" vh="V" spot="V23" clock="12:14" driveindex="14,103"></drivestart>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST23" context="V,1,10,V23" playid="14,1,104" clock="09:52" text="MARIST drive start at 09:52." newcontext="V,1,10,V23">
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST23" context="V,1,10,V23" playid="14,2,105" type="R" text="Anderson,O'Neil rush for 3 yards to the MARIST26 (FLUMERE, Brian;DOROSH, Matt)." newcontext="V,2,7,V26">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="3"></p_ru>
+    <p_tk vh="H" name="FLUMERE, Brian" assist="Y"></p_tk>
+    <p_tk vh="H" name="DOROSH, Matt" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="7" spot="MARIST26" context="V,2,7,V26" playid="14,3,106" type="R" text="Fiumefreddo, R rush for loss of 3 yards to the MARIST23 (FLUMERE, Brian;OSTERMEYER, E.)." newcontext="V,3,10,V23">
+    <p_ru vh="V" name="Fiumefreddo, R" gain="-3"></p_ru>
+    <p_tk vh="H" name="FLUMERE, Brian" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="OSTERMEYER, E." tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="3" togo="10" spot="MARIST23" context="V,3,10,V23" playid="14,4,107" type="P" text="Debowski, Chris pass incomplete to LaMacchia,James (DOROSH, Matt)." newcontext="V,4,10,V23">
+    <p_pa vh="V" qb="Debowski, Chris" result="BRUP" rcv="LaMacchia,James"></p_pa>
+    <p_bu vh="H" name="DOROSH, Matt"></p_bu>
+   </play>
+   <play hasball="MARIST" down="4" togo="10" spot="MARIST23" context="V,4,10,V23" playid="14,5,108" type="U" text="Pauly, Kevin punt 38 yards to the SHU39, out-of-bounds." ob="Y" newcontext="H,1,10,H39">
+    <p_pu vh="V" name="Pauly, Kevin" gain="38" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="0" top="1:42" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,H39,09:52" vh="H" spot="H39" clock="09:52" driveindex="15,108"></drivestart>
+   <play hasball="SHU" down="1" togo="10" spot="SHU39" context="H,1,10,H39" playid="15,1,109" clock="08:10" text="SACRED HEART drive start at 08:10." newcontext="H,1,10,H39">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU39" context="H,1,10,H39" playid="15,2,110" type="R" text="ARCHER, Marcel rush for 4 yards to the SHU43 (Foley, Rory;Fede, Terrence)." newcontext="H,2,6,H43">
+    <p_ru vh="H" name="ARCHER, Marcel" gain="4"></p_ru>
+    <p_tk vh="V" name="Foley, Rory" assist="Y"></p_tk>
+    <p_tk vh="V" name="Fede, Terrence" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="6" spot="SHU43" context="H,2,6,H43" playid="15,3,111" type="E" first="E" text="FINK, Dale pass incomplete to ARCHER, Marcel, PENALTY MARIST personal foul 15 yards to the MARIST42, 1ST DOWN SHU, NO PLAY." newcontext="H,1,10,V42">
+    <p_pn vh="V" code="PF" type="personal foul" result="ACCEPT" at="H43" yards="15"></p_pn>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST42" context="H,1,10,V42" playid="15,4,112" type="R" text="ARCHER, Marcel rush for 5 yards to the MARIST37 (Fede, Terrence)." newcontext="H,2,5,V37">
+    <p_ru vh="H" name="ARCHER, Marcel" gain="5"></p_ru>
+    <p_tk vh="V" name="Fede, Terrence"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="5" spot="MARIST37" context="H,2,5,V37" playid="15,5,113" type="P" first="P" text="FINK, Dale pass complete to TEDESCO, Steve for 12 yards to the MARIST25, 1ST DOWN SHU (Van Aman, John)." newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="TEDESCO, Steve" gain="12"></p_pa>
+    <p_tk vh="V" name="Van Aman, John"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST25" context="H,1,10,V25" playid="15,6,114" type="P" text="FINK, Dale pass incomplete to PATTERSON, Tony." newcontext="H,2,10,V25">
+    <p_pa vh="H" qb="FINK, Dale" result="INC" rcv="PATTERSON, Tony"></p_pa>
+   </play>
+   <play hasball="SHU" down="2" togo="10" spot="MARIST25" context="H,2,10,V25" playid="15,7,115" type="P" text="FINK, Dale pass complete to ARCHER, Marcel for 8 yards to the MARIST17 (Coughlin, Kees)." newcontext="H,3,2,V17">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="ARCHER, Marcel" gain="8"></p_pa>
+    <p_tk vh="V" name="Coughlin, Kees"></p_tk>
+   </play>
+   <play hasball="SHU" down="3" togo="2" spot="MARIST17" context="H,3,2,V17" playid="15,8,116" type="R" text="ARCHER, Marcel rush for 1 yard to the MARIST16 (Foley, Kevin)." newcontext="H,4,1,V16">
+    <p_ru vh="H" name="ARCHER, Marcel" gain="1"></p_ru>
+    <p_tk vh="V" name="Foley, Kevin"></p_tk>
+   </play>
+   <play hasball="SHU" down="4" togo="1" spot="MARIST16" context="H,4,1,V16" playid="15,9,117" type="R" text="ARCHER, Marcel rush for no gain to the MARIST16 (Andre, Nick;Coughlin, Kees)." newcontext="V,1,10,V16">
+    <p_ru vh="H" name="ARCHER, Marcel" gain="0"></p_ru>
+    <p_tk vh="V" name="Andre, Nick" assist="Y"></p_tk>
+    <p_tk vh="V" name="Coughlin, Kees" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="7" yards="45" top="3:04" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="V,V16,08:10" vh="V" spot="V16" clock="08:10" driveindex="16,117"></drivestart>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST16" context="V,1,10,V16" playid="16,1,118" clock="05:06" text="MARIST drive start at 05:06." newcontext="V,1,10,V16">
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST16" context="V,1,10,V16" playid="16,2,119" type="P" first="P" text="Debowski, Chris pass complete to LaMacchia,James for 56 yards to the SHU28, 1ST DOWN MARIST, out-of-bounds." ob="Y" newcontext="V,1,10,H28">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="LaMacchia,James" gain="56"></p_pa>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="SHU28" context="V,1,10,H28" playid="16,3,120" type="R" text="Anderson,O'Neil rush for 4 yards to the SHU24 (MANDAS, Chris;DAVIS, Chansler)." newcontext="V,2,6,H24">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="4"></p_ru>
+    <p_tk vh="H" name="MANDAS, Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="DAVIS, Chansler" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="6" spot="SHU24" context="V,2,6,H24" playid="16,4,121" type="R" text="Whipple, Greg rush for 1 yard to the SHU23 (MANDAS, Chris)." newcontext="V,3,5,H23">
+    <p_ru vh="V" name="Whipple, Greg" gain="1"></p_ru>
+    <p_tk vh="H" name="MANDAS, Chris"></p_tk>
+   </play>
+   <play hasball="MARIST" down="3" togo="5" spot="SHU23" context="V,3,5,H23" playid="16,5,122" type="P" first="P" text="Debowski, Chris pass complete to Fitzpatrick, K for 11 yards to the SHU12, 1ST DOWN MARIST (MCINTOSH, Titus)." newcontext="V,1,10,H12">
+    <p_pa vh="V" qb="Debowski, Chris" result="COMP" rcv="Fitzpatrick, K" gain="11"></p_pa>
+    <p_tk vh="H" name="MCINTOSH, Titus"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="SHU12" context="V,1,10,H12" playid="16,6,123" type="R" text="Anderson,O'Neil rush for 8 yards to the SHU4 (MCINTOSH, Titus)." newcontext="V,2,2,H04">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="8"></p_ru>
+    <p_tk vh="H" name="MCINTOSH, Titus"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="2" spot="SHU04" context="V,2,2,H04" playid="16,7,124" type="R" first="R" text="Dinnebeil, Ryan rush for 3 yards to the SHU1, 1ST DOWN MARIST (COVINGTON, A.)." newcontext="V,1,0,H01">
+    <p_ru vh="V" name="Dinnebeil, Ryan" gain="3"></p_ru>
+    <p_tk vh="H" name="COVINGTON, A."></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="0" spot="SHU01" context="V,1,0,H01" playid="16,8,125" type="R" score="Y" clock="01:39" text="Whipple, Greg rush for 1 yard to the SHU0, TOUCHDOWN, clock 01:39." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Whipple, Greg" gain="1"></p_ru>
+   </play>
+   <play hasball="MARIST" down="1" togo="0" spot="SHU03" context="V,1,0,H03" playid="16,9,126" type="X" score="Y" text="PENALTY MARIST delay of game 89 yards to the MARIST8, Pauly, Kevin kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Pauly, Kevin" qb="Pauly, Kevin" type="K" result="GOOD" score="Y"></p_pat>
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="H03" yards="89"></p_pn>
+   </play>
+   <score V="24" H="6"></score>
+   <drivesum plays="7" yards="84" top="3:27" driveindex="16" complete="Y"></drivesum>
+   <play hasball="MARIST" down="1" togo="0" spot="MARIST30" context="V,1,0,V30" playid="16,10,127" type="K" text="Myers, Jason kickoff 65 yards to the SHU5, SWIDER, Brett return 31 yards to the SHU36 (Bryant, Jaquan)." newcontext="H,1,10,H36">
+    <p_ko vh="V" name="Myers, Jason" gain="65"></p_ko>
+    <p_kr vh="H" name="SWIDER, Brett" gain="31"></p_kr>
+    <p_tk vh="V" name="Bryant, Jaquan"></p_tk>
+   </play>
+   <drivestart poss="H,H36,01:39" vh="H" spot="H36" clock="01:39" driveindex="17,127"></drivestart>
+   <play hasball="SHU" down="1" togo="10" spot="SHU36" context="H,1,10,H36" playid="17,1,128" clock="01:30" text="SACRED HEART drive start at 01:30." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU36" context="H,1,10,H36" playid="17,2,129" type="P" text="FINK, Dale pass complete to RAPP, Chris for 4 yards to the SHU40 (Steubing, Kurt;Coughlin, Kees)." newcontext="H,2,6,H40">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="RAPP, Chris" gain="4"></p_pa>
+    <p_tk vh="V" name="Steubing, Kurt" assist="Y"></p_tk>
+    <p_tk vh="V" name="Coughlin, Kees" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="6" spot="SHU40" context="H,2,6,H40" playid="17,3,130" type="P" first="P" text="FINK, Dale pass complete to RAPP, Chris for 10 yards to the 50 yardline, 1ST DOWN SHU (Hill, Rodney)." newcontext="H,1,10,H50">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="RAPP, Chris" gain="10"></p_pa>
+    <p_tk vh="V" name="Hill, Rodney"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU50" context="H,1,10,H50" playid="17,4,131" type="R" text="FRIEDMAN, Brian rush for no gain to the 50 yardline (Foley, Kevin)." newcontext="H,2,10,H50">
+    <p_ru vh="H" name="FRIEDMAN, Brian" gain="0"></p_ru>
+    <p_tk vh="V" name="Foley, Kevin"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="10" spot="SHU50" context="H,2,10,H50" playid="17,5,132" type="P" first="P" text="FINK, Dale pass complete to TEDESCO, Steve for 11 yards to the MARIST39, 1ST DOWN SHU, out-of-bounds." ob="Y" newcontext="H,1,10,V39">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="TEDESCO, Steve" gain="11"></p_pa>
+   </play>
+   <score qtr="3" V="24" H="6"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MARIST">
+    <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+    <penalties no="3" yds="109"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="06:13"></misc>
+    <rush att="8" yds="15" gain="20" loss="5" td="1" long="0"></rush>
+    <pass comp="3" att="5" int="0" yds="70" td="0" long="13" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="70" td="0" long="13"></rcv>
+    <punt no="1" yds="38" long="2" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="38.0"></punt>
+    <ko no="2" yds="127" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="8" tot_tack="19" tflua="2" tfla="0" tflyds="2" sacks="0" sackyds="0"></defense>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="SHU">
+    <firstdowns no="4" rush="0" pass="3" penalty="1"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="2"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="08:47"></misc>
+    <rush att="7" yds="5" gain="10" loss="5" td="0" long="0"></rush>
+    <pass comp="8" att="11" int="0" yds="61" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="61" td="0" long="0"></rcv>
+    <punt no="1" yds="36" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="36.0"></punt>
+    <defense tackua="5" tacka="8" tot_tack="13" tflua="4" tfla="0" tflyds="10" sacks="2" sackyds="15" brup="1" ff="1" fr="1" fryds="0"></defense>
+    <kr no="2" yds="59" td="0" long="2"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="SHU" down="1" togo="10" spot="MARIST39" context="H,1,10,V39" playid="17,6,133" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,1,10,V39">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST39" context="H,1,10,V39" playid="17,7,134" type="P" first="P" text="FINK, Dale pass complete to TEDESCO, Steve for 13 yards to the MARIST26, 1ST DOWN SHU (Carlor, Kwame)." newcontext="H,1,10,V26">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="TEDESCO, Steve" gain="13"></p_pa>
+    <p_tk vh="V" name="Carlor, Kwame"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST26" context="H,1,10,V26" playid="17,8,135" type="#" clock="14:34" text="Timeout Sacred Heart, clock 14:34." newcontext="H,1,10,V26">
+    <p_to vh="H" team="Sacred Heart"></p_to>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST26" context="H,1,10,V26" playid="17,9,136" type="P" text="FINK, Dale pass complete to PATTERSON, Tony for 3 yards to the MARIST23 (Carlor, Kwame)." newcontext="H,2,7,V23">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="PATTERSON, Tony" gain="3"></p_pa>
+    <p_tk vh="V" name="Carlor, Kwame"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="7" spot="MARIST23" context="H,2,7,V23" playid="17,10,137" type="P" text="FINK, Dale pass complete to FRIEDMAN, Brian for 4 yards to the MARIST19 (Hill, Rodney)." newcontext="H,3,3,V19">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="FRIEDMAN, Brian" gain="4"></p_pa>
+    <p_tk vh="V" name="Hill, Rodney"></p_tk>
+   </play>
+   <play hasball="SHU" down="3" togo="3" spot="MARIST19" context="H,3,3,V19" playid="17,11,138" type="P" text="FINK, Dale pass incomplete to ROSSI, Rich (Turner,Terrence)." newcontext="H,4,3,V19">
+    <p_pa vh="H" qb="FINK, Dale" result="BRUP" rcv="ROSSI, Rich"></p_pa>
+    <p_bu vh="V" name="Turner,Terrence"></p_bu>
+   </play>
+   <play hasball="SHU" down="4" togo="3" spot="MARIST19" context="H,4,3,V19" playid="17,12,139" type="P" text="FINK, Dale sacked for loss of 11 yards to the MARIST30 (Andre, Nick), fumble by FINK, Dale recovered by SHU LARSON, Dylan at MARIST32." newcontext="V,1,10,V32">
+    <p_pa vh="H" qb="FINK, Dale" result="FUMB" gain="-11"></p_pa>
+    <p_fumb vh="H" name="FINK, Dale" at="V32" frvh="H" frname="LARSON, Dylan"></p_fumb>
+    <p_tk vh="V" name="Andre, Nick" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <drivesum plays="9" yards="32" top="3:04" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V32,14:34" vh="V" spot="V32" clock="14:34" driveindex="18,139"></drivestart>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST32" context="V,1,10,V32" playid="18,1,140" clock="13:26" text="MARIST drive start at 13:26." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST32" context="V,1,10,V32" playid="18,2,141" type="R" text="Anderson,O'Neil rush for 4 yards to the MARIST36, out-of-bounds." ob="Y" newcontext="V,2,6,V36">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="4"></p_ru>
+   </play>
+   <play hasball="MARIST" down="2" togo="6" spot="MARIST36" context="V,2,6,V36" playid="18,3,142" type="R" text="Anderson,O'Neil rush for 3 yards to the MARIST39 (ZAMBARANO, Mike;MCINTOSH, Titus)." newcontext="V,3,3,V39">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="3"></p_ru>
+    <p_tk vh="H" name="ZAMBARANO, Mike" assist="Y"></p_tk>
+    <p_tk vh="H" name="MCINTOSH, Titus" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="3" togo="3" spot="MARIST39" context="V,3,3,V39" playid="18,4,143" type="R" first="R" text="Debowski, Chris rush for 9 yards to the MARIST48, 1ST DOWN MARIST (FLUMERE, Brian)." newcontext="V,1,10,V48">
+    <p_ru vh="V" name="Debowski, Chris" gain="9"></p_ru>
+    <p_tk vh="H" name="FLUMERE, Brian"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="MARIST48" context="V,1,10,V48" playid="18,5,144" type="R" text="Anderson,O'Neil rush for 1 yard to the MARIST49 (MANDAS, Chris;EMBLER, Justin)." newcontext="V,2,9,V49">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="1"></p_ru>
+    <p_tk vh="H" name="MANDAS, Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="EMBLER, Justin" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="9" spot="MARIST49" context="V,2,9,V49" playid="18,6,145" type="R" text="DeSimone, Joe rush for 7 yards to the SHU44 (ISLA, Andre)." newcontext="V,3,2,H44">
+    <p_ru vh="V" name="DeSimone, Joe" gain="7"></p_ru>
+    <p_tk vh="H" name="ISLA, Andre"></p_tk>
+   </play>
+   <play hasball="MARIST" down="3" togo="2" spot="SHU44" context="V,3,2,H44" playid="18,7,146" type="R" first="R" text="Whipple, Greg rush for 5 yards to the SHU39, 1ST DOWN MARIST (ZAMBARANO, Mike)." newcontext="V,1,10,H39">
+    <p_ru vh="V" name="Whipple, Greg" gain="5"></p_ru>
+    <p_tk vh="H" name="ZAMBARANO, Mike"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="SHU39" context="V,1,10,H39" playid="18,8,147" type="R" text="Whipple, Greg rush for 1 yard to the SHU38 (DAVIS, Chansler)." newcontext="V,2,9,H38">
+    <p_ru vh="V" name="Whipple, Greg" gain="1"></p_ru>
+    <p_tk vh="H" name="DAVIS, Chansler"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="9" spot="SHU38" context="V,2,9,H38" playid="18,9,148" type="R" first="R" text="Fiumefreddo, R rush for 10 yards to the SHU28, 1ST DOWN MARIST (UNDERWOOD, R.;COVINGTON, A.)." newcontext="V,1,10,H28">
+    <p_ru vh="V" name="Fiumefreddo, R" gain="10"></p_ru>
+    <p_tk vh="H" name="UNDERWOOD, R." assist="Y"></p_tk>
+    <p_tk vh="H" name="COVINGTON, A." assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="SHU28" context="V,1,10,H28" playid="18,10,149" type="R" text="Fiumefreddo, R rush for 4 yards to the SHU24 (ZAMBARANO, Mike;ISLA, Andre)." newcontext="V,2,6,H24">
+    <p_ru vh="V" name="Fiumefreddo, R" gain="4"></p_ru>
+    <p_tk vh="H" name="ZAMBARANO, Mike" assist="Y"></p_tk>
+    <p_tk vh="H" name="ISLA, Andre" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="6" spot="SHU24" context="V,2,6,H24" playid="18,11,150" type="R" text="Anderson,O'Neil rush for 2 yards to the SHU22 (DOROSH, Matt;EMBLER, Justin)." newcontext="V,3,4,H22">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="2"></p_ru>
+    <p_tk vh="H" name="DOROSH, Matt" assist="Y"></p_tk>
+    <p_tk vh="H" name="EMBLER, Justin" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="3" togo="4" spot="SHU22" context="V,3,4,H22" playid="18,12,151" type="#" clock="06:42" text="Timeout Marist, clock 06:42." newcontext="V,3,4,H22">
+    <p_to vh="V" team="Marist"></p_to>
+   </play>
+   <play hasball="MARIST" down="3" togo="4" spot="SHU22" context="V,3,4,H22" playid="18,13,152" type="R" text="Fiumefreddo, R rush for 3 yards to the SHU19 (ZAMBARANO, Mike;COSTANTINO, A.)." newcontext="V,4,1,H19">
+    <p_ru vh="V" name="Fiumefreddo, R" gain="3"></p_ru>
+    <p_tk vh="H" name="ZAMBARANO, Mike" assist="Y"></p_tk>
+    <p_tk vh="H" name="COSTANTINO, A." assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="4" togo="1" spot="SHU19" context="V,4,1,H19" playid="18,14,153" type="R" text="Dinnebeil, Ryan rush for no gain to the SHU19 (ISLA, Andre;EMBLER, Justin)." newcontext="H,1,10,H19">
+    <p_ru vh="V" name="Dinnebeil, Ryan" gain="0"></p_ru>
+    <p_tk vh="H" name="ISLA, Andre" assist="Y"></p_tk>
+    <p_tk vh="H" name="EMBLER, Justin" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="12" yards="49" top="7:29" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,H19,06:42" vh="H" spot="H19" clock="06:42" driveindex="19,153"></drivestart>
+   <play hasball="SHU" down="1" togo="10" spot="SHU19" context="H,1,10,H19" playid="19,1,154" clock="05:57" text="SACRED HEART drive start at 05:57." newcontext="H,1,10,H19">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU19" context="H,1,10,H19" playid="19,2,155" type="P" text="FINK, Dale pass incomplete to TEDESCO, Steve." newcontext="H,2,10,H19">
+    <p_pa vh="H" qb="FINK, Dale" result="INC" rcv="TEDESCO, Steve"></p_pa>
+   </play>
+   <play hasball="SHU" down="2" togo="10" spot="SHU19" context="H,2,10,H19" playid="19,3,156" type="P" text="FINK, Dale pass complete to JAMIEL, Jo Jo for 9 yards to the SHU28 (Moller, Timothy)." newcontext="H,3,1,H28">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="JAMIEL, Jo Jo" gain="9"></p_pa>
+    <p_tk vh="V" name="Moller, Timothy"></p_tk>
+   </play>
+   <play hasball="SHU" down="3" togo="1" spot="SHU28" context="H,3,1,H28" playid="19,4,157" type="R" first="R" text="FRIEDMAN, Brian rush for 6 yards to the SHU34, 1ST DOWN SHU (Coughlin, Kees)." newcontext="H,1,10,H34">
+    <p_ru vh="H" name="FRIEDMAN, Brian" gain="6"></p_ru>
+    <p_tk vh="V" name="Coughlin, Kees"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU34" context="H,1,10,H34" playid="19,5,158" type="P" text="FINK, Dale pass complete to JAMIEL, Jo Jo for 6 yards to the SHU40 (Moller, Timothy)." newcontext="H,2,4,H40">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="JAMIEL, Jo Jo" gain="6"></p_pa>
+    <p_tk vh="V" name="Moller, Timothy"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="4" spot="SHU40" context="H,2,4,H40" playid="19,6,159" type="P" first="P" text="FINK, Dale pass complete to TEDESCO, Steve for 29 yards to the MARIST31, 1ST DOWN SHU (Moller, Timothy)." newcontext="H,1,10,V31">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="TEDESCO, Steve" gain="29"></p_pa>
+    <p_tk vh="V" name="Moller, Timothy"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST31" context="H,1,10,V31" playid="19,7,160" type="R" first="R" text="FRIEDMAN, Brian rush for 13 yards to the MARIST18, 1ST DOWN SHU (Flynn, Brock)." newcontext="H,1,10,V18">
+    <p_ru vh="H" name="FRIEDMAN, Brian" gain="13"></p_ru>
+    <p_tk vh="V" name="Flynn, Brock"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST18" context="H,1,10,V18" playid="19,8,161" type="P" first="P" text="FINK, Dale pass complete to TEDESCO, Steve for 10 yards to the MARIST8, 1ST DOWN SHU (Bryant, Jaquan)." newcontext="H,1,0,V08">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="TEDESCO, Steve" gain="10"></p_pa>
+    <p_tk vh="V" name="Bryant, Jaquan"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="0" spot="MARIST08" context="H,1,0,V08" playid="19,9,162" type="P" text="FINK, Dale pass complete to TEDESCO, Steve for 4 yards to the MARIST4 (Andre, Nick)." newcontext="H,2,0,V04">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="TEDESCO, Steve" gain="4"></p_pa>
+    <p_tk vh="V" name="Andre, Nick"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="0" spot="MARIST04" context="H,2,0,V04" playid="19,10,163" type="P" text="FINK, Dale pass incomplete to TEDESCO, Steve, dropped pass." newcontext="H,3,0,V04">
+    <p_pa vh="H" qb="FINK, Dale" result="DROP" rcv="TEDESCO, Steve"></p_pa>
+   </play>
+   <play hasball="SHU" down="3" togo="0" spot="MARIST04" context="H,3,0,V04" playid="19,11,164" type="X" score="Y" clock="03:15" text="FINK, Dale pass complete to FRIEDMAN, Brian for 4 yards to the MARIST0, TOUCHDOWN, clock 03:15, FINK, Dale pass attempt failed." newcontext="H,1,0,H30">
+    <p_pa vh="H" qb="FINK, Dale" result="COMP" rcv="FRIEDMAN, Brian" gain="4"></p_pa>
+    <p_pat vh="H" name="FINK, Dale" qb="FINK, Dale" type="P" result="MISSED"></p_pat>
+   </play>
+   <score V="24" H="12"></score>
+   <drivesum plays="10" yards="81" top="2:42" driveindex="19" complete="Y"></drivesum>
+   <play hasball="SHU" down="1" togo="0" spot="SHU30" context="H,1,0,H30" playid="19,12,165" type="K" text="KISTLER, Joe kickoff 14 yards to the SHU44, on-side kick, recovered by MARIST on SHU44, out-of-bounds, PENALTY SHU illegal procedure 5 yards to the SHU39, 1st and 10, MARIST ball on SHU39." ob="Y" newcontext="V,1,10,H39">
+    <p_ko vh="H" name="KISTLER, Joe" gain="14" result="N"></p_ko>
+    <p_pn vh="H" code="PR" type="illegal procedure" result="ACCEPT" at="H44" yards="5"></p_pn>
+   </play>
+   <drivestart poss="V,H39,03:15" vh="V" spot="H39" clock="03:15" driveindex="20,165"></drivestart>
+   <play hasball="MARIST" down="1" togo="10" spot="SHU39" context="V,1,10,H39" playid="20,1,166" clock="03:15" text="MARIST drive start at 03:15." newcontext="V,1,10,H39">
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="SHU39" context="V,1,10,H39" playid="20,2,167" type="R" first="R" text="Anderson,O'Neil rush for 16 yards to the SHU23, 1ST DOWN MARIST (MANDAS, Chris)." newcontext="V,1,10,H23">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="16"></p_ru>
+    <p_tk vh="H" name="MANDAS, Chris"></p_tk>
+   </play>
+   <play hasball="MARIST" down="1" togo="10" spot="SHU23" context="V,1,10,H23" playid="20,3,168" type="R" text="Anderson,O'Neil rush for 1 yard to the SHU22 (EMBLER, Justin;MANDAS, Chris)." newcontext="V,2,9,H22">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="1"></p_ru>
+    <p_tk vh="H" name="EMBLER, Justin" assist="Y"></p_tk>
+    <p_tk vh="H" name="MANDAS, Chris" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="2" togo="9" spot="SHU22" context="V,2,9,H22" playid="20,4,169" type="R" text="Anderson,O'Neil rush for loss of 2 yards to the SHU24 (SIERRA, Niko)." newcontext="V,3,11,H24">
+    <p_ru vh="V" name="Anderson,O'Neil" gain="-2"></p_ru>
+    <p_tk vh="H" name="SIERRA, Niko" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MARIST" down="3" togo="11" spot="SHU24" context="V,3,11,H24" playid="20,5,170" type="#" clock="01:49" text="Timeout Sacred Heart, clock 01:49." newcontext="V,3,11,H24">
+    <p_to vh="H" team="Sacred Heart"></p_to>
+   </play>
+   <play hasball="MARIST" down="3" togo="11" spot="SHU24" context="V,3,11,H24" playid="20,6,171" type="P" turnover="I" text="Debowski, Chris pass intercepted by FLUMERE, Brian at the SHU15, FLUMERE, Brian return 0 yards to the SHU15 (Angelastro, Dan)." newcontext="H,1,10,H15">
+    <p_pa vh="V" qb="Debowski, Chris" result="INT"></p_pa>
+    <p_ir vh="H" name="FLUMERE, Brian" at="H15" gain="0"></p_ir>
+    <p_tk vh="V" name="Angelastro, Dan"></p_tk>
+   </play>
+   <drivesum plays="4" yards="15" top="1:37" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,H15,01:49" vh="H" spot="H15" clock="01:49" driveindex="21,171"></drivestart>
+   <play hasball="SHU" down="1" togo="10" spot="SHU15" context="H,1,10,H15" playid="21,1,172" clock="01:38" text="SACRED HEART drive start at 01:38." newcontext="H,1,10,H15">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU15" context="H,1,10,H15" playid="21,2,173" type="X" score="Y" turnover="I" clock="01:31" text="FINK, Dale pass intercepted by Bryant, Jaquan at the SHU15, Bryant, Jaquan return 15 yards to the SHU0, TOUCHDOWN, clock 01:31, Pauly, Kevin kick attempt good." newcontext="V,1,0,V30">
+    <p_pa vh="H" qb="FINK, Dale" result="INT"></p_pa>
+    <p_pat vh="V" name="Pauly, Kevin" qb="Pauly, Kevin" type="K" result="GOOD" score="Y"></p_pat>
+    <p_ir vh="V" name="Bryant, Jaquan" at="H15" gain="15"></p_ir>
+   </play>
+   <drivesum plays="1" yards="0" top="0:07" driveindex="21" complete="Y"></drivesum>
+   <score V="31" H="12"></score>
+   <drivestart poss="V,V30,01:31" vh="V" spot="V30" clock="01:31" driveindex="22,173"></drivestart>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="22" complete="Y"></drivesum>
+   <play hasball="MARIST" down="1" togo="0" spot="MARIST30" context="V,1,0,V30" playid="22,1,174" type="K" text="Myers, Jason kickoff 53 yards to the SHU17, SWIDER, Brett return 24 yards to the SHU41 (Faison, Daniel;Mainiero, Nick)." newcontext="H,1,10,H41">
+    <p_ko vh="V" name="Myers, Jason" gain="53"></p_ko>
+    <p_kr vh="H" name="SWIDER, Brett" gain="24"></p_kr>
+    <p_tk vh="V" name="Faison, Daniel" assist="Y"></p_tk>
+    <p_tk vh="V" name="Mainiero, Nick" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H41,01:31" vh="H" spot="H41" clock="01:31" driveindex="23,174"></drivestart>
+   <play hasball="SHU" down="1" togo="10" spot="SHU41" context="H,1,10,H41" playid="23,1,175" clock="01:23" text="SACRED HEART drive start at 01:23." newcontext="H,1,10,H41">
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="SHU41" context="H,1,10,H41" playid="23,2,176" type="R" text="FRIEDMAN, Brian rush for 7 yards to the SHU48 (Foley, Kevin)." newcontext="H,2,3,H48">
+    <p_ru vh="H" name="FRIEDMAN, Brian" gain="7"></p_ru>
+    <p_tk vh="V" name="Foley, Kevin"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="3" spot="SHU48" context="H,2,3,H48" playid="23,3,177" type="R" first="R" text="FRIEDMAN, Brian rush for 11 yards to the MARIST41, 1ST DOWN SHU (Coughlin, Kees;Bryant, Jaquan)." newcontext="H,1,10,V41">
+    <p_ru vh="H" name="FRIEDMAN, Brian" gain="11"></p_ru>
+    <p_tk vh="V" name="Coughlin, Kees" assist="Y"></p_tk>
+    <p_tk vh="V" name="Bryant, Jaquan" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="1" togo="10" spot="MARIST41" context="H,1,10,V41" playid="23,4,178" type="R" text="FRIEDMAN, Brian rush for 3 yards to the MARIST38 (Foley, Kevin)." newcontext="H,2,7,V38">
+    <p_ru vh="H" name="FRIEDMAN, Brian" gain="3"></p_ru>
+    <p_tk vh="V" name="Foley, Kevin"></p_tk>
+   </play>
+   <play hasball="SHU" down="2" togo="7" spot="MARIST38" context="H,2,7,V38" playid="23,5,179" type="R" text="FRIEDMAN, Brian rush for 1 yard to the MARIST37 (Fede, Terrence;Foley, Kevin)." newcontext="H,3,6,V37">
+    <p_ru vh="H" name="FRIEDMAN, Brian" gain="1"></p_ru>
+    <p_tk vh="V" name="Fede, Terrence" assist="Y"></p_tk>
+    <p_tk vh="V" name="Foley, Kevin" assist="Y"></p_tk>
+   </play>
+   <play hasball="SHU" down="3" togo="6" spot="MARIST37" context="H,3,6,V37" playid="23,6,180" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,3,6,V37">
+   </play>
+   <drivesum plays="4" yards="22" top="1:23" driveindex="23" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Marist defeats Sacred Heart by a score of 31 to 12."></play>
+   <score final="Y" V="31" H="12"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MARIST">
+    <firstdowns no="4" rush="4" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:06"></misc>
+    <rush att="15" yds="64" gain="66" loss="2" td="0" long="0"></rush>
+    <pass comp="0" att="1" int="1" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <ko no="1" yds="53" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="14" tacka="6" tot_tack="20" tflua="1" tfla="0" tflyds="11" sacks="1" sackyds="11" brup="1" ff="1" int="1" intyds="15"></defense>
+    <ir no="1" yds="15" td="1" long="4"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="SHU">
+    <firstdowns no="6" rush="3" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="05:54"></misc>
+    <rush att="7" yds="28" gain="41" loss="13" td="0" long="1"></rush>
+    <pass comp="9" att="13" int="1" yds="82" td="1" long="5" sacks="1" sackyds="11"></pass>
+    <rcv no="9" yds="82" td="1" long="5"></rcv>
+    <pat passatt="1" passmade="0"></pat>
+    <defense tackua="6" tacka="16" tot_tack="22" tflua="1" tfla="0" tflyds="2" sacks="2" sackyds="15" int="1" intyds="0"></defense>
+    <kr no="1" yds="24" td="0" long="0"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="SHU" down="3" togo="6" spot="MARIST37" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="2" htor="1" dtgtext="Game Over" ldtext="Drive started: 01:23, 4th Qtr"></downtogo>
+ </plays>

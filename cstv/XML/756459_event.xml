@@ -1,0 +1,1000 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="MU" down="1" togo="10" spot="MU30" context="V,1,10,V30" playid="0,1,0" text="Illinois won the toss, will receive and defend the north goal." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU30" context="V,1,10,V30" playid="0,2,1" text="MU ball on MU30." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU30" context="V,1,10,V30" playid="0,3,2" type="K" text="Mills, Tanner kickoff 65 yards to the ILL5, Benn, A. return 23 yards to the ILL28 (Steeples, Rober;Prince, Munir)." newcontext="H,1,10,H28">
+    <p_ko vh="V" name="Mills, Tanner" gain="65"></p_ko>
+    <p_kr vh="H" name="Benn, A." gain="23"></p_kr>
+    <p_tk vh="V" name="Steeples, Rober" assist="Y"></p_tk>
+    <p_tk vh="V" name="Prince, Munir" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H28,15:00" vh="H" spot="H28" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="ILL" down="1" togo="10" spot="ILL28" context="H,1,10,H28" playid="1,1,3" type="P" pcode="RR" first="P" text="Williams, J. RR pass complete to Fayson, J. for 11 yards to the ILL39, 1ST DOWN ILL (Lambert, Luke;Weatherspoon, S)." newcontext="H,1,10,H39">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Fayson, J." gain="11"></p_pa>
+    <p_tk vh="V" name="Lambert, Luke" assist="Y"></p_tk>
+    <p_tk vh="V" name="Weatherspoon, S" assist="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL39" context="H,1,10,H39" playid="1,2,4" type="R" pcode="RT" text="Ford, J. rush over right tackle for no gain to the ILL39 (Baston, Jaron)." newcontext="H,2,10,H39">
+    <p_ru vh="H" name="Ford, J." gain="0"></p_ru>
+    <p_tk vh="V" name="Baston, Jaron"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="10" spot="ILL39" context="H,2,10,H39" playid="1,3,5" type="P" pcode="RR" text="Williams, J. RR pass complete to Benn, A. for 9 yards to the ILL48 (Gettis, Carl)." newcontext="H,3,1,H48">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Benn, A." gain="9"></p_pa>
+    <p_tk vh="V" name="Gettis, Carl"></p_tk>
+   </play>
+   <play hasball="ILL" down="3" togo="1" spot="ILL48" context="H,3,1,H48" playid="1,4,6" type="P" pcode="LL" first="P" text="Williams, J. LL pass complete to Duvalt, C. for 10 yards to the MU42, 1ST DOWN ILL (Rutland, Kevin)." newcontext="H,1,10,V42">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Duvalt, C." gain="10"></p_pa>
+    <p_tk vh="V" name="Rutland, Kevin"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="MU42" context="H,1,10,V42" playid="1,5,7" type="R" pcode="RT" text="Green, J. rush over right tackle for loss of 1 yard to the MU43 (Hamilton, Domin)." newcontext="H,2,11,V43">
+    <p_ru vh="H" name="Green, J." gain="-1"></p_ru>
+    <p_tk vh="V" name="Hamilton, Domin" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="11" spot="MU43" context="H,2,11,V43" playid="1,6,8" type="P" pcode="LL" text="Williams, J. LL pass incomplete to Duvalt, C.." newcontext="H,3,11,V43">
+    <p_pa vh="H" qb="Williams, J." result="INC" rcv="Duvalt, C."></p_pa>
+   </play>
+   <play hasball="ILL" down="3" togo="11" spot="MU43" context="H,3,11,V43" playid="1,7,9" type="P" pcode="RR" text="Williams, J. RR pass incomplete to Duvalt, C. (Gettis, Carl)." newcontext="H,4,11,V43">
+    <p_pa vh="H" qb="Williams, J." result="INC" rcv="Duvalt, C."></p_pa>
+    <p_bu vh="V" name="Gettis, Carl"></p_bu>
+   </play>
+   <play hasball="ILL" down="4" togo="11" spot="MU43" context="H,4,11,V43" playid="1,8,10" type="U" text="Santella, A. punt 36 yards to the MU7, fair catch by Gettis, Carl." newcontext="V,1,10,V07">
+    <p_pu vh="H" name="Santella, A." gain="36" in20="Y" fc="Gettis, Carl"></p_pu>
+   </play>
+   <drivesum plays="7" yards="29" top="3:02" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="V,V07,15:00" vh="V" spot="V07" clock="15:00" driveindex="2,10"></drivestart>
+   <play hasball="MU" down="1" togo="10" spot="MU07" context="V,1,10,V07" playid="2,1,11" clock="11:58" text="MISSOURI drive start at 11:58." newcontext="V,1,10,V07">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU07" context="V,1,10,V07" playid="2,2,12" type="R" pcode="RR" text="Washington, Der rush right for loss of 2 yards to the MU5 (Brent, J.)." newcontext="V,2,12,V05">
+    <p_ru vh="V" name="Washington, Der" gain="-2"></p_ru>
+    <p_tk vh="H" name="Brent, J." tfl="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="12" spot="MU05" context="V,2,12,V05" playid="2,3,13" type="P" pcode="LL" first="P" text="Gabbert, Blaine LL pass complete to Alexander, Dana for 19 yards to the MU24, 1ST DOWN MU (Hicks, D.)." newcontext="V,1,10,V24">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Alexander, Dana" gain="19"></p_pa>
+    <p_tk vh="H" name="Hicks, D."></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU24" context="V,1,10,V24" playid="2,4,14" type="R" pcode="LL" text="Gabbert, Blaine rush left for 4 yards to the MU28 (Hardeman, D.;Thomas, I.)." newcontext="V,2,6,V28">
+    <p_ru vh="V" name="Gabbert, Blaine" gain="4"></p_ru>
+    <p_tk vh="H" name="Hardeman, D." assist="Y"></p_tk>
+    <p_tk vh="H" name="Thomas, I." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="6" spot="MU28" context="V,2,6,V28" playid="2,5,15" type="P" pcode="SI" text="Gabbert, Blaine sideline pass complete to Alexander, Dana for 4 yards to the MU32, out-of-bounds." ob="Y" newcontext="V,3,2,V32">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Alexander, Dana" gain="4"></p_pa>
+   </play>
+   <play hasball="MU" down="3" togo="2" spot="MU32" context="V,3,2,V32" playid="2,6,16" type="R" pcode="LL" first="R" text="Washington, Der rush left for 5 yards to the MU37, 1ST DOWN MU (Hicks, D.)." newcontext="V,1,10,V37">
+    <p_ru vh="V" name="Washington, Der" gain="5"></p_ru>
+    <p_tk vh="H" name="Hicks, D."></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU37" context="V,1,10,V37" playid="2,7,17" type="R" pcode="RR" first="R" text="Gabbert, Blaine rush right for 14 yards to the ILL49, 1ST DOWN MU (Edwards, G.)." newcontext="V,1,10,H49">
+    <p_ru vh="V" name="Gabbert, Blaine" gain="14"></p_ru>
+    <p_tk vh="H" name="Edwards, G."></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="ILL49" context="V,1,10,H49" playid="2,8,18" type="P" pcode="RR" first="E" text="Gabbert, Blaine RR pass complete to Perry, Jared for 5 yards to the ILL44 (Wilson, T.), PENALTY ILL face mask (Wilson, T.) 15 yards to the ILL29, 1ST DOWN MU." newcontext="V,1,10,H29">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Perry, Jared" gain="5"></p_pa>
+    <p_tk vh="H" name="Wilson, T."></p_tk>
+    <p_pn vh="H" code="FM" type="face mask" name="Wilson, T." result="ACCEPT" at="H44" yards="15"></p_pn>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="ILL29" context="V,1,10,H29" playid="2,9,19" text="1st and 10." newcontext="V,1,10,H29">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="ILL29" context="V,1,10,H29" playid="2,10,20" type="P" text="Gabbert, Blaine pass incomplete to Jones, Andrew." newcontext="V,2,10,H29">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="INC" rcv="Jones, Andrew"></p_pa>
+   </play>
+   <play hasball="MU" down="2" togo="10" spot="ILL29" context="V,2,10,H29" playid="2,11,21" text="QB hurry by Liuget, C.." newcontext="V,2,10,H29">
+    <p_qbh vh="H" name="Liuget, C."></p_qbh>
+   </play>
+   <play hasball="MU" down="2" togo="10" spot="ILL29" context="V,2,10,H29" playid="2,12,22" type="P" pcode="LL" text="Gabbert, Blaine LL pass complete to Alexander, Dana for 9 yards to the ILL20 (Wilson, M.;Edwards, G.)." newcontext="V,3,1,H20">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Alexander, Dana" gain="9"></p_pa>
+    <p_tk vh="H" name="Wilson, M." assist="Y"></p_tk>
+    <p_tk vh="H" name="Edwards, G." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="1" spot="ILL20" context="V,3,1,H20" playid="2,13,23" type="R" pcode="LG" first="R" text="Gabbert, Blaine rush over left guard for 2 yards to the ILL18, 1ST DOWN MU (Smith, R.)." newcontext="V,1,10,H18">
+    <p_ru vh="V" name="Gabbert, Blaine" gain="2"></p_ru>
+    <p_tk vh="H" name="Smith, R."></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="ILL18" context="V,1,10,H18" playid="2,14,24" type="P" pcode="RR" text="Gabbert, Blaine sacked for loss of 12 yards to the ILL30 (Pilcher, D.), PENALTY MU intentional grounding (Gabbert, Blaine) 0 yards to the ILL30." newcontext="V,2,22,H30">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="SACK" gain="-12"></p_pa>
+    <p_tk vh="H" name="Pilcher, D." sack="Y" tfl="Y"></p_tk>
+    <p_pn vh="V" code="IG" type="intentional grounding" name="Gabbert, Blaine" result="ACCEPT"></p_pn>
+   </play>
+   <play hasball="MU" down="2" togo="22" spot="ILL30" context="V,2,22,H30" playid="2,15,25" text="2nd and 27." newcontext="V,2,27,H30">
+   </play>
+   <play hasball="MU" down="2" togo="27" spot="ILL30" context="V,2,27,H30" playid="2,16,26" type="R" pcode="LL" text="Moore, De'Vion rush left for no gain to the ILL30 (Liuget, C.)." newcontext="V,3,27,H30">
+    <p_ru vh="V" name="Moore, De'Vion" gain="0"></p_ru>
+    <p_tk vh="H" name="Liuget, C."></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="27" spot="ILL30" context="V,3,27,H30" playid="2,17,27" type="P" pcode="SI" text="Gabbert, Blaine sideline pass complete to Alexander, Dana for 16 yards to the ILL14." newcontext="V,4,11,H14">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Alexander, Dana" gain="16"></p_pa>
+   </play>
+   <play hasball="MU" down="4" togo="11" spot="ILL14" context="V,4,11,H14" playid="2,18,28" type="F" score="Y" clock="07:23" text="Ressel, Grant field goal attempt from 32 GOOD, clock 07:23." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Ressel, Grant" distance="32" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="0"></score>
+   <drivesum plays="14" yards="79" top="4:35" driveindex="2" complete="Y"></drivesum>
+   <play hasball="MU" down="1" togo="0" spot="MU30" context="V,1,0,V30" playid="2,19,29" type="K" text="Mills, Tanner kickoff 70 yards to the ILL0, Pollard, T. return 28 yards to the ILL28 (Prince, Munir;Ebner, Will)." newcontext="H,1,10,H28">
+    <p_ko vh="V" name="Mills, Tanner" gain="70"></p_ko>
+    <p_kr vh="H" name="Pollard, T." gain="28"></p_kr>
+    <p_tk vh="V" name="Prince, Munir" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ebner, Will" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H28,07:23" vh="H" spot="H28" clock="07:23" driveindex="3,29"></drivestart>
+   <play hasball="ILL" down="1" togo="10" spot="ILL28" context="H,1,10,H28" playid="3,1,30" clock="07:23" text="ILLINOIS drive start at 07:23." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL28" context="H,1,10,H28" playid="3,2,31" type="P" pcode="SI" text="Williams, J. sideline pass complete to Fayson, J. for 6 yards to the ILL34 (Gettis, Carl)." newcontext="H,2,4,H34">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Fayson, J." gain="6"></p_pa>
+    <p_tk vh="V" name="Gettis, Carl"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="4" spot="ILL34" context="H,2,4,H34" playid="3,3,32" type="R" pcode="RR" text="Duvalt, C. rush right for 1 yard to the ILL35 (Smith, Jacquies)." newcontext="H,3,3,H35">
+    <p_ru vh="H" name="Duvalt, C." gain="1"></p_ru>
+    <p_tk vh="V" name="Smith, Jacquies"></p_tk>
+   </play>
+   <play hasball="ILL" down="3" togo="3" spot="ILL35" context="H,3,3,H35" playid="3,4,33" type="P" pcode="SI" text="Williams, J. sideline pass incomplete to Leshoure, M.." newcontext="H,4,3,H35">
+    <p_pa vh="H" qb="Williams, J." result="INC" rcv="Leshoure, M."></p_pa>
+   </play>
+   <play hasball="ILL" down="4" togo="3" spot="ILL35" context="H,4,3,H35" playid="3,5,34" text="QB hurry by Coulter, Brian." newcontext="H,4,3,H35">
+    <p_qbh vh="V" name="Coulter, Brian"></p_qbh>
+   </play>
+   <play hasball="ILL" down="4" togo="3" spot="ILL35" context="H,4,3,H35" playid="3,6,35" type="U" text="Santella, A. punt 40 yards to the MU25, fair catch by Gettis, Carl." newcontext="V,1,10,V25">
+    <p_pu vh="H" name="Santella, A." gain="40" fc="Gettis, Carl"></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="1:38" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,V25,07:23" vh="V" spot="V25" clock="07:23" driveindex="4,35"></drivestart>
+   <play hasball="MU" down="1" togo="10" spot="MU25" context="V,1,10,V25" playid="4,1,36" clock="05:45" text="MISSOURI drive start at 05:45." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU25" context="V,1,10,V25" playid="4,2,37" type="P" pcode="LL" text="Gabbert, Blaine LL pass complete to Kemp, Wes for 4 yards to the MU29 (Thomas, I.)." newcontext="V,2,6,V29">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Kemp, Wes" gain="4"></p_pa>
+    <p_tk vh="H" name="Thomas, I."></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="6" spot="MU29" context="V,2,6,V29" playid="4,3,38" type="R" pcode="RT" first="R" text="Gabbert, Blaine rush over right tackle for 11 yards to the MU40, 1ST DOWN MU (Thomas, I.)." newcontext="V,1,10,V40">
+    <p_ru vh="V" name="Gabbert, Blaine" gain="11"></p_ru>
+    <p_tk vh="H" name="Thomas, I."></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU40" context="V,1,10,V40" playid="4,4,39" type="R" pcode="LL" text="Washington, Der rush left for 4 yards to the MU44 (Thomas, I.;Nurse, C.)." newcontext="V,2,6,V44">
+    <p_ru vh="V" name="Washington, Der" gain="4"></p_ru>
+    <p_tk vh="H" name="Thomas, I." assist="Y"></p_tk>
+    <p_tk vh="H" name="Nurse, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="6" spot="MU44" context="V,2,6,V44" playid="4,5,40" type="E" text="PENALTY ILL offside (Nurse, C.) 5 yards to the MU49." newcontext="V,2,1,V49">
+    <p_pn vh="H" code="OS" type="offside" name="Nurse, C." result="ACCEPT" at="V44" yards="5"></p_pn>
+   </play>
+   <play hasball="MU" down="2" togo="1" spot="MU49" context="V,2,1,V49" playid="4,6,41" type="R" pcode="RT" text="Washington, Der rush over right tackle for no gain to the MU49 (Thomas, I.)." newcontext="V,3,1,V49">
+    <p_ru vh="V" name="Washington, Der" gain="0"></p_ru>
+    <p_tk vh="H" name="Thomas, I."></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="1" spot="MU49" context="V,3,1,V49" playid="4,7,42" type="R" pcode="LT" first="R" text="Washington, Der rush over left tackle for 2 yards to the ILL49, 1ST DOWN MU (Brent, J.;Wilson, M.)." newcontext="V,1,10,H49">
+    <p_ru vh="V" name="Washington, Der" gain="2"></p_ru>
+    <p_tk vh="H" name="Brent, J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Wilson, M." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="ILL49" context="V,1,10,H49" playid="4,8,43" type="P" pcode="SI" first="P" score="Y" clock="03:02" text="Gabbert, Blaine sideline pass complete to Kemp, Wes for 49 yards to the ILL0, 1ST DOWN MU, TOUCHDOWN, clock 03:02." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Kemp, Wes" gain="49"></p_pa>
+   </play>
+   <play hasball="MU" down="1" togo="0" spot="ILL03" context="V,1,0,H03" playid="4,9,44" type="X" score="Y" text="Ressel, Grant kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Ressel, Grant" qb="Ressel, Grant" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="0"></score>
+   <drivesum plays="6" yards="75" top="2:43" driveindex="4" complete="Y"></drivesum>
+   <play hasball="MU" down="1" togo="0" spot="MU30" context="V,1,0,V30" playid="4,10,45" type="K" text="Mills, Tanner kickoff 70 yards to the ILL0, Jenkins, A.J. return 26 yards to the ILL26 (Bonner, Donovan)." newcontext="H,1,10,H26">
+    <p_ko vh="V" name="Mills, Tanner" gain="70"></p_ko>
+    <p_kr vh="H" name="Jenkins, A.J." gain="26"></p_kr>
+    <p_tk vh="V" name="Bonner, Donovan"></p_tk>
+   </play>
+   <drivestart poss="H,H26,03:02" vh="H" spot="H26" clock="03:02" driveindex="5,45"></drivestart>
+   <play hasball="ILL" down="1" togo="10" spot="ILL26" context="H,1,10,H26" playid="5,1,46" clock="03:02" text="ILLINOIS drive start at 03:02." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL26" context="H,1,10,H26" playid="5,2,47" type="R" pcode="LG" text="Williams, J. rush over left guard for 7 yards to the ILL33 (Lambert, Luke)." newcontext="H,2,3,H33">
+    <p_ru vh="H" name="Williams, J." gain="7"></p_ru>
+    <p_tk vh="V" name="Lambert, Luke"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="3" spot="ILL33" context="H,2,3,H33" playid="5,3,48" type="R" pcode="LL" first="R" text="Pollard, T. rush left for 6 yards to the ILL39, 1ST DOWN ILL (Simmons, Jasper)." newcontext="H,1,10,H39">
+    <p_ru vh="H" name="Pollard, T." gain="6"></p_ru>
+    <p_tk vh="V" name="Simmons, Jasper"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL39" context="H,1,10,H39" playid="5,4,49" type="R" pcode="RR" text="Williams, J. rush right for 7 yards to the ILL46." newcontext="H,2,3,H46">
+    <p_ru vh="H" name="Williams, J." gain="7"></p_ru>
+   </play>
+   <play hasball="ILL" down="2" togo="3" spot="ILL46" context="H,2,3,H46" playid="5,5,50" type="R" pcode="RR" first="R" text="Pollard, T. rush right for 15 yards to the MU39, 1ST DOWN ILL, out-of-bounds (Simmons, Jasper)." ob="Y" newcontext="H,1,10,V39">
+    <p_ru vh="H" name="Pollard, T." gain="15"></p_ru>
+    <p_tk vh="V" name="Simmons, Jasper"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="MU39" context="H,1,10,V39" playid="5,6,51" type="P" pcode="MI" first="P" text="Williams, J. middle pass complete to Fayson, J. for 24 yards to the MU15, 1ST DOWN ILL (Simmons, Jasper)." newcontext="H,1,10,V15">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Fayson, J." gain="24"></p_pa>
+    <p_tk vh="V" name="Simmons, Jasper"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="MU15" context="H,1,10,V15" playid="5,7,52" type="R" pcode="MI" text="Pollard, T. rush up middle for 2 yards to the MU13 (Lambert, Luke)." newcontext="H,2,8,V13">
+    <p_ru vh="H" name="Pollard, T." gain="2"></p_ru>
+    <p_tk vh="V" name="Lambert, Luke"></p_tk>
+   </play>
+   <score qtr="1" V="10" H="0"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MU">
+    <firstdowns no="8" rush="5" pass="2" penalty="1"></firstdowns>
+    <penalties no="1" yds="0"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:18"></misc>
+    <rush att="11" yds="28" gain="42" loss="14" td="0" long="14"></rush>
+    <pass comp="7" att="8" int="0" yds="106" td="1" long="49" sacks="1" sackyds="12"></pass>
+    <rcv no="7" yds="106" td="1" long="49"></rcv>
+    <ko no="3" yds="205" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="32" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="12" tacka="6" tot_tack="18" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1" qbh="1"></defense>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ILL">
+    <firstdowns no="5" rush="2" pass="3" penalty="0"></firstdowns>
+    <penalties no="2" yds="20"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:42"></misc>
+    <rush att="8" yds="37" gain="38" loss="1" td="0" long="15"></rush>
+    <pass comp="5" att="8" int="0" yds="60" td="0" long="24" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="60" td="0" long="24"></rcv>
+    <punt no="2" yds="76" long="40" blkd="0" tb="0" fc="2" plus50="0" inside20="1" avg="38.0"></punt>
+    <defense tackua="11" tacka="8" tot_tack="19" tflua="2" tfla="0" tflyds="14" sacks="1" sackyds="12" qbh="1"></defense>
+    <kr no="3" yds="77" td="0" long="28"></kr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="ILL" down="2" togo="8" spot="MU13" context="H,2,8,V13" playid="5,8,53" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,2,8,V13">
+   </play>
+   <play hasball="ILL" down="2" togo="8" spot="MU13" context="H,2,8,V13" playid="5,9,54" type="R" pcode="RR" text="Williams, J. rush right for 5 yards to the MU8 (Smith, Aldon;Gettis, Carl)." newcontext="H,3,3,V08">
+    <p_ru vh="H" name="Williams, J." gain="5"></p_ru>
+    <p_tk vh="V" name="Smith, Aldon" assist="Y"></p_tk>
+    <p_tk vh="V" name="Gettis, Carl" assist="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="3" togo="3" spot="MU08" context="H,3,3,V08" playid="5,10,55" type="R" pcode="RE" text="Fayson, J. rush over right end for 1 yard to the MU7 (Smith, Aldon;Gettis, Carl)." newcontext="H,4,2,V07">
+    <p_ru vh="H" name="Fayson, J." gain="1"></p_ru>
+    <p_tk vh="V" name="Smith, Aldon" assist="Y"></p_tk>
+    <p_tk vh="V" name="Gettis, Carl" assist="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="4" togo="2" spot="MU07" context="H,4,2,V07" playid="5,11,56" type="F" score="Y" clock="13:40" text="Eller, M. field goal attempt from 24 GOOD, clock 13:40." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Eller, M." distance="24" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="10" H="3"></score>
+   <drivesum plays="9" yards="67" top="4:22" driveindex="5" complete="Y"></drivesum>
+   <play hasball="ILL" down="1" togo="0" spot="ILL30" context="H,1,0,H30" playid="5,12,57" type="K" text="Dimke, D. kickoff 58 yards to the MU12, Simmons, Jasper return 10 yards to the MU22 (Gully, A.)." newcontext="V,1,10,V22">
+    <p_ko vh="H" name="Dimke, D." gain="58"></p_ko>
+    <p_kr vh="V" name="Simmons, Jasper" gain="10"></p_kr>
+    <p_tk vh="H" name="Gully, A."></p_tk>
+   </play>
+   <drivestart poss="V,V22,13:40" vh="V" spot="V22" clock="13:40" driveindex="6,57"></drivestart>
+   <play hasball="MU" down="1" togo="10" spot="MU22" context="V,1,10,V22" playid="6,1,58" clock="13:40" text="MISSOURI drive start at 13:40." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU22" context="V,1,10,V22" playid="6,2,59" type="P" pcode="LL" text="Gabbert, Blaine LL pass complete to Moore, De'Vion for loss of 3 yards to the MU19 (Hicks, D.)." newcontext="V,2,13,V19">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Moore, De'Vion" gain="-3"></p_pa>
+    <p_tk vh="H" name="Hicks, D." tfl="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="13" spot="MU19" context="V,2,13,V19" playid="6,3,60" type="E" pcode="SL" first="E" text="Gabbert, Blaine slant pass incomplete to Perry, Jared, PENALTY ILL personal foul (Hardeman, D.) 15 yards to the MU34, 1ST DOWN MU, NO PLAY." newcontext="V,1,10,V34">
+    <p_pn vh="H" code="PF" type="personal foul" name="Hardeman, D." result="ACCEPT" at="V19" yards="15"></p_pn>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU34" context="V,1,10,V34" playid="6,4,61" type="R" pcode="RR" text="Moore, De'Vion rush right for 9 yards to the MU43 (Wilson, T.;Hardeman, D.)." newcontext="V,2,1,V43">
+    <p_ru vh="V" name="Moore, De'Vion" gain="9"></p_ru>
+    <p_tk vh="H" name="Wilson, T." assist="Y"></p_tk>
+    <p_tk vh="H" name="Hardeman, D." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="1" spot="MU43" context="V,2,1,V43" playid="6,5,62" type="P" pcode="SI" text="Gabbert, Blaine sideline pass incomplete to Perry, Jared (Wilson, T.)." newcontext="V,3,1,V43">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="INC" rcv="Perry, Jared"></p_pa>
+    <p_bu vh="H" name="Wilson, T."></p_bu>
+   </play>
+   <play hasball="MU" down="3" togo="1" spot="MU43" context="V,3,1,V43" playid="6,6,63" type="R" pcode="RR" text="Moore, De'Vion rush right for no gain to the MU43 (Hardeman, D.)." newcontext="V,4,1,V43">
+    <p_ru vh="V" name="Moore, De'Vion" gain="0"></p_ru>
+    <p_tk vh="H" name="Hardeman, D."></p_tk>
+   </play>
+   <play hasball="MU" down="4" togo="1" spot="MU43" context="V,4,1,V43" playid="6,7,64" type="U" text="Harry IV, Jake punt 51 yards to the ILL6." newcontext="H,1,10,H06">
+    <p_pu vh="V" name="Harry IV, Jake" gain="51" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="4" yards="21" top="1:59" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H06,13:40" vh="H" spot="H06" clock="13:40" driveindex="7,64"></drivestart>
+   <play hasball="ILL" down="1" togo="10" spot="ILL06" context="H,1,10,H06" playid="7,1,65" clock="11:41" text="ILLINOIS drive start at 11:41." newcontext="H,1,10,H06">
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL06" context="H,1,10,H06" playid="7,2,66" type="R" pcode="RT" text="Leshoure, M. rush over right tackle for loss of 1 yard to the ILL5 (Ebner, Will)." newcontext="H,2,11,H05">
+    <p_ru vh="H" name="Leshoure, M." gain="-1"></p_ru>
+    <p_tk vh="V" name="Ebner, Will" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="11" spot="ILL05" context="H,2,11,H05" playid="7,3,67" type="P" pcode="SI" text="Williams, J. sideline pass incomplete to Duvalt, C.." newcontext="H,3,11,H05">
+    <p_pa vh="H" qb="Williams, J." result="INC" rcv="Duvalt, C."></p_pa>
+   </play>
+   <play hasball="ILL" down="3" togo="11" spot="ILL05" context="H,3,11,H05" playid="7,4,68" type="P" pcode="SI" first="P" text="Williams, J. sideline pass complete to Leshoure, M. for 13 yards to the ILL18, 1ST DOWN ILL." newcontext="H,1,10,H18">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Leshoure, M." gain="13"></p_pa>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL18" context="H,1,10,H18" playid="7,5,69" type="R" pcode="RR" text="Pollard, T. rush right for 5 yards to the ILL23, out-of-bounds (Weatherspoon, S)." ob="Y" newcontext="H,2,5,H23">
+    <p_ru vh="H" name="Pollard, T." gain="5"></p_ru>
+    <p_tk vh="V" name="Weatherspoon, S"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="5" spot="ILL23" context="H,2,5,H23" playid="7,6,70" type="P" pcode="SI" text="Williams, J. sideline pass incomplete to Duvalt, C.." newcontext="H,3,5,H23">
+    <p_pa vh="H" qb="Williams, J." result="INC" rcv="Duvalt, C."></p_pa>
+   </play>
+   <play hasball="ILL" down="3" togo="5" spot="ILL23" context="H,3,5,H23" playid="7,7,71" type="P" pcode="MI" turnover="I" text="Williams, J. middle pass intercepted by Ricks, Hardy at the ILL42, Ricks, Hardy return 16 yards to the ILL26 (Fayson, J.)." newcontext="V,1,10,H26">
+    <p_pa vh="H" qb="Williams, J." result="INT"></p_pa>
+    <p_ir vh="V" name="Ricks, Hardy" at="H42" gain="16"></p_ir>
+    <p_tk vh="H" name="Fayson, J."></p_tk>
+   </play>
+   <drivesum plays="6" yards="17" top="1:59" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="V,H26,11:41" vh="V" spot="H26" clock="11:41" driveindex="8,71"></drivestart>
+   <play hasball="MU" down="1" togo="10" spot="ILL26" context="V,1,10,H26" playid="8,1,72" clock="09:42" text="MISSOURI drive start at 09:42." newcontext="V,1,10,H26">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="ILL26" context="V,1,10,H26" playid="8,2,73" type="P" pcode="SI" text="Gabbert, Blaine sideline pass incomplete to Alexander, Dana." newcontext="V,2,10,H26">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="INC" rcv="Alexander, Dana"></p_pa>
+   </play>
+   <play hasball="MU" down="2" togo="10" spot="ILL26" context="V,2,10,H26" playid="8,3,74" type="R" pcode="LL" text="Gabbert, Blaine rush left for no gain to the ILL26 (Wilson, M.)." newcontext="V,3,10,H26">
+    <p_ru vh="V" name="Gabbert, Blaine" gain="0"></p_ru>
+    <p_tk vh="H" name="Wilson, M."></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="10" spot="ILL26" context="V,3,10,H26" playid="8,4,75" type="P" pcode="MI" text="Gabbert, Blaine middle pass complete to Washington, Der for no gain to the ILL26 (Wilson, M.)." newcontext="V,4,10,H26">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Washington, Der" gain="0"></p_pa>
+    <p_tk vh="H" name="Wilson, M."></p_tk>
+   </play>
+   <play hasball="MU" down="4" togo="10" spot="ILL26" context="V,4,10,H26" playid="8,5,76" type="F" score="Y" clock="08:36" text="Ressel, Grant field goal attempt from 44 GOOD, clock 08:36." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Ressel, Grant" distance="44" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="13" H="3"></score>
+   <drivesum plays="4" yards="0" top="1:06" driveindex="8" complete="Y"></drivesum>
+   <play hasball="MU" down="1" togo="0" spot="MU30" context="V,1,0,V30" playid="8,6,77" type="K" text="Mills, Tanner kickoff 66 yards to the ILL4, Pollard, T. return 21 yards to the ILL25 (Ebner, Will;Jackson, Kenji)." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Mills, Tanner" gain="66"></p_ko>
+    <p_kr vh="H" name="Pollard, T." gain="21"></p_kr>
+    <p_tk vh="V" name="Ebner, Will" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jackson, Kenji" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H25,08:36" vh="H" spot="H25" clock="08:36" driveindex="9,77"></drivestart>
+   <play hasball="ILL" down="1" togo="10" spot="ILL25" context="H,1,10,H25" playid="9,1,78" clock="08:36" text="ILLINOIS drive start at 08:36." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL25" context="H,1,10,H25" playid="9,2,79" type="R" pcode="RR" text="Duvalt, C. rush right for loss of 5 yards to the ILL20 (Smith, Aldon)." newcontext="H,2,15,H20">
+    <p_ru vh="H" name="Duvalt, C." gain="-5"></p_ru>
+    <p_tk vh="V" name="Smith, Aldon" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="15" spot="ILL20" context="H,2,15,H20" playid="9,3,80" type="P" pcode="SI" text="McGee, E. sideline pass incomplete to Duvalt, C.." newcontext="H,3,15,H20">
+    <p_pa vh="H" qb="McGee, E." result="INC" rcv="Duvalt, C."></p_pa>
+   </play>
+   <play hasball="ILL" down="3" togo="15" spot="ILL20" context="H,3,15,H20" playid="9,4,81" type="R" pcode="MI" text="Williams, J. rush up middle for 7 yards to the ILL27 (Smith, Jacquies;Weatherspoon, S)." newcontext="H,4,8,H27">
+    <p_ru vh="H" name="Williams, J." gain="7"></p_ru>
+    <p_tk vh="V" name="Smith, Jacquies" assist="Y"></p_tk>
+    <p_tk vh="V" name="Weatherspoon, S" assist="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="4" togo="8" spot="ILL27" context="H,4,8,H27" playid="9,5,82" type="E" first="E" text="PENALTY MU roughing the kicker (Edwards, Kip) 15 yards to the ILL42, 1ST DOWN ILL." newcontext="H,1,10,H42">
+    <p_pn vh="V" code="RK" type="roughing the kicker" name="Edwards, Kip" result="ACCEPT" at="H27" yards="15"></p_pn>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL42" context="H,1,10,H42" playid="9,6,83" type="R" pcode="MI" text="Leshoure, M. rush up middle for 4 yards to the ILL46 (Smith, Jacquies)." newcontext="H,2,6,H46">
+    <p_ru vh="H" name="Leshoure, M." gain="4"></p_ru>
+    <p_tk vh="V" name="Smith, Jacquies"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="6" spot="ILL46" context="H,2,6,H46" playid="9,7,84" type="R" pcode="LG" first="R" text="Leshoure, M. rush over left guard for 12 yards to the MU42, 1ST DOWN ILL (Jackson, Kenji;Ricks, Hardy)." newcontext="H,1,10,V42">
+    <p_ru vh="H" name="Leshoure, M." gain="12"></p_ru>
+    <p_tk vh="V" name="Jackson, Kenji" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ricks, Hardy" assist="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="MU42" context="H,1,10,V42" playid="9,8,85" type="E" text="PENALTY MU substitution infraction 5 yards to the MU37." newcontext="H,1,5,V37">
+    <p_pn vh="V" code="SU" type="substitution infraction" result="ACCEPT" at="V42" yards="5"></p_pn>
+   </play>
+   <play hasball="ILL" down="1" togo="5" spot="MU37" context="H,1,5,V37" playid="9,9,86" type="R" pcode="RR" first="R" text="Leshoure, M. rush right for 8 yards to the MU29, 1ST DOWN ILL (Jackson, Kenji)." newcontext="H,1,10,V29">
+    <p_ru vh="H" name="Leshoure, M." gain="8"></p_ru>
+    <p_tk vh="V" name="Jackson, Kenji"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="MU29" context="H,1,10,V29" playid="9,10,87" type="P" pcode="SI" text="Williams, J. sideline pass complete to Duvalt, C. for 6 yards to the MU23 (Gettis, Carl)." newcontext="H,2,4,V23">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Duvalt, C." gain="6"></p_pa>
+    <p_tk vh="V" name="Gettis, Carl"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="4" spot="MU23" context="H,2,4,V23" playid="9,11,88" type="R" pcode="RT" text="Williams, J. rush over right tackle for 3 yards to the MU20 (Ebner, Will)." newcontext="H,3,1,V20">
+    <p_ru vh="H" name="Williams, J." gain="3"></p_ru>
+    <p_tk vh="V" name="Ebner, Will"></p_tk>
+   </play>
+   <play hasball="ILL" down="3" togo="1" spot="MU20" context="H,3,1,V20" playid="9,12,89" type="R" pcode="RG" text="Leshoure, M. rush over right guard for no gain to the MU20 (Smith, Jacquies;Smith, Aldon)." newcontext="H,4,1,V20">
+    <p_ru vh="H" name="Leshoure, M." gain="0"></p_ru>
+    <p_tk vh="V" name="Smith, Jacquies" assist="Y"></p_tk>
+    <p_tk vh="V" name="Smith, Aldon" assist="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="4" togo="1" spot="MU20" context="H,4,1,V20" playid="9,13,90" type="R" pcode="MI" text="Williams, J. rush up middle for loss of 4 yards to the MU24 (TEAM)." newcontext="V,1,10,V24">
+    <p_ru vh="H" name="Williams, J." gain="-4"></p_ru>
+    <p_tk vh="V" name="TEAM" tfl="Y"></p_tk>
+   </play>
+   <drivesum plays="10" yards="51" top="4:15" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V24,08:36" vh="V" spot="V24" clock="08:36" driveindex="10,90"></drivestart>
+   <play hasball="MU" down="1" togo="10" spot="MU24" context="V,1,10,V24" playid="10,1,91" clock="04:21" text="MISSOURI drive start at 04:21." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU24" context="V,1,10,V24" playid="10,2,92" type="R" pcode="LL" text="Moore, De'Vion rush left for 8 yards to the MU32 (Hardeman, D.)." newcontext="V,2,2,V32">
+    <p_ru vh="V" name="Moore, De'Vion" gain="8"></p_ru>
+    <p_tk vh="H" name="Hardeman, D."></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="2" spot="MU32" context="V,2,2,V32" playid="10,3,93" type="P" pcode="RR" first="P" text="Gabbert, Blaine RR pass complete to Alexander, Dana for 12 yards to the MU44, 1ST DOWN MU, out-of-bounds (Edwards, G.)." ob="Y" newcontext="V,1,10,V44">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Alexander, Dana" gain="12"></p_pa>
+    <p_tk vh="H" name="Edwards, G."></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU44" context="V,1,10,V44" playid="10,4,94" type="P" pcode="MI" text="Gabbert, Blaine middle pass incomplete to Perry, Jared." newcontext="V,2,10,V44">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="INC" rcv="Perry, Jared"></p_pa>
+   </play>
+   <play hasball="MU" down="2" togo="10" spot="MU44" context="V,2,10,V44" playid="10,5,95" type="R" pcode="RG" text="Washington, Der rush over right guard for loss of 1 yard to the MU43 (Wilson, T.)." newcontext="V,3,11,V43">
+    <p_ru vh="V" name="Washington, Der" gain="-1"></p_ru>
+    <p_tk vh="H" name="Wilson, T." tfl="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="11" spot="MU43" context="V,3,11,V43" playid="10,6,96" type="P" pcode="SI" first="P" text="Gabbert, Blaine sideline pass complete to Kemp, Wes for 21 yards to the ILL36, 1ST DOWN MU (Hicks, D.)." newcontext="V,1,10,H36">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Kemp, Wes" gain="21"></p_pa>
+    <p_tk vh="H" name="Hicks, D."></p_tk>
+   </play>
+   <comment text="Play was reviewed by technical advisor and was overturned"></comment>
+   <play hasball="MU" down="1" togo="10" spot="ILL36" context="V,1,10,H36" playid="10,7,98" type="P" pcode="MI" text="Gabbert, Blaine middle pass complete to Jones, Andrew for 6 yards to the ILL30 (Edwards, G.)." newcontext="V,2,4,H30">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Jones, Andrew" gain="6"></p_pa>
+    <p_tk vh="H" name="Edwards, G."></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="4" spot="ILL30" context="V,2,4,H30" playid="10,8,99" type="P" pcode="LL" text="Gabbert, Blaine LL pass incomplete to Alexander, Dana (Hardeman, D.)." newcontext="V,3,4,H30">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="BRUP" rcv="Alexander, Dana"></p_pa>
+    <p_bu vh="H" name="Hardeman, D."></p_bu>
+   </play>
+   <play hasball="MU" down="3" togo="4" spot="ILL30" context="V,3,4,H30" playid="10,9,100" type="R" pcode="LT" text="Moore, De'Vion rush over left tackle for 2 yards to the ILL28 (Pilcher, D.)." newcontext="V,4,2,H28">
+    <p_ru vh="V" name="Moore, De'Vion" gain="2"></p_ru>
+    <p_tk vh="H" name="Pilcher, D."></p_tk>
+   </play>
+   <play hasball="MU" down="4" togo="2" spot="ILL28" context="V,4,2,H28" playid="10,10,101" type="P" pcode="SI" first="P" text="Gabbert, Blaine sideline pass complete to Alexander, Dana for 6 yards to the ILL22, 1ST DOWN MU, out-of-bounds (Hardeman, D.)." ob="Y" newcontext="V,1,10,H22">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Alexander, Dana" gain="6"></p_pa>
+    <p_tk vh="H" name="Hardeman, D."></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="ILL22" context="V,1,10,H22" playid="10,11,102" type="R" pcode="MI" text="Washington, Der rush up middle for no gain to the ILL22 (Thomas, I.)." newcontext="V,2,10,H22">
+    <p_ru vh="V" name="Washington, Der" gain="0"></p_ru>
+    <p_tk vh="H" name="Thomas, I."></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="10" spot="ILL22" context="V,2,10,H22" playid="10,12,103" type="P" pcode="RR" text="Gabbert, Blaine RR pass complete to Jackson, Jerrel for loss of 1 yard to the ILL23 (Bellamy, T.)." newcontext="V,3,11,H23">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Jackson, Jerrel" gain="-1"></p_pa>
+    <p_tk vh="H" name="Bellamy, T." tfl="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="11" spot="ILL23" context="V,3,11,H23" playid="10,13,104" type="P" pcode="PO" text="Gabbert, Blaine post pass incomplete to Moe, T.J.." newcontext="V,4,11,H23">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="INC" rcv="Moe, T.J."></p_pa>
+   </play>
+   <play hasball="MU" down="4" togo="11" spot="ILL23" context="V,4,11,H23" playid="10,14,105" type="F" score="Y" clock="00:06" text="Ressel, Grant field goal attempt from 41 GOOD, clock 00:06." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Ressel, Grant" distance="41" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="16" H="3"></score>
+   <drivesum plays="13" yards="53" top="4:15" driveindex="10" complete="Y"></drivesum>
+   <play hasball="MU" down="1" togo="0" spot="MU30" context="V,1,0,V30" playid="10,15,106" type="K" text="Mills, Tanner kickoff 53 yards to the ILL17, Pollard, T. return 18 yards to the ILL35 (Edwards, Kip)." newcontext="H,1,10,H35">
+    <p_ko vh="V" name="Mills, Tanner" gain="53"></p_ko>
+    <p_kr vh="H" name="Pollard, T." gain="18"></p_kr>
+    <p_tk vh="V" name="Edwards, Kip"></p_tk>
+   </play>
+   <drivestart poss="H,H35,00:06" vh="H" spot="H35" clock="00:06" driveindex="11,106"></drivestart>
+   <play hasball="ILL" down="1" togo="10" spot="ILL35" context="H,1,10,H35" playid="11,1,107" clock="00:06" text="ILLINOIS drive start at 00:06." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL35" context="H,1,10,H35" playid="11,2,108" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,1,10,H35">
+   </play>
+   <drivesum plays="0" yards="0" top="0:06" driveindex="11" complete="Y"></drivesum>
+   <score qtr="2" V="16" H="3"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MU">
+    <firstdowns no="4" rush="0" pass="3" penalty="1"></firstdowns>
+    <penalties no="2" yds="20"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:20"></misc>
+    <rush att="7" yds="18" gain="19" loss="1" td="0" long="0"></rush>
+    <pass comp="7" att="12" int="0" yds="41" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="41" td="0" long="0"></rcv>
+    <punt no="1" yds="51" long="51" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="51.0"></punt>
+    <ko no="2" yds="119" ob="0" tb="0"></ko>
+    <fg made="2" att="2" long="12" blkd="0"></fg>
+    <defense tackua="9" tacka="12" tot_tack="21" tflua="3" tfla="0" tflyds="10" sacks="0" sackyds="0" int="1" intyds="16"></defense>
+    <kr no="1" yds="10" td="0" long="10"></kr>
+    <ir no="1" yds="16" td="0" long="16"></ir>
+    <scoring fg="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ILL">
+    <firstdowns no="4" rush="2" pass="1" penalty="1"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:40"></misc>
+    <rush att="12" yds="35" gain="45" loss="10" td="0" long="0"></rush>
+    <pass comp="2" att="6" int="1" yds="19" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="19" td="0" long="0"></rcv>
+    <ko no="1" yds="58" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="24" blkd="0"></fg>
+    <defense tackua="15" tacka="2" tot_tack="17" tflua="3" tfla="0" tflyds="5" sacks="1" sackyds="12" brup="2"></defense>
+    <kr no="2" yds="39" td="0" long="0"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="ILL" down="1" togo="10" spot="ILL35" context="H,1,10,H35" playid="11,3,109" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, ILL ball on ILL30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL30" context="H,1,10,H30" playid="11,4,110" type="K" text="Dimke, D. kickoff 69 yards to the MU1, Simmons, Jasper return 28 yards to the MU29 (Dimke, D.;Green, J.), PENALTY MU holding (Crane, Tyler) 10 yards to the MU19, 1st and 10, MU ball on MU19." newcontext="V,1,10,V19">
+    <p_ko vh="H" name="Dimke, D." gain="69"></p_ko>
+    <p_kr vh="V" name="Simmons, Jasper" gain="28"></p_kr>
+    <p_tk vh="H" name="Dimke, D." assist="Y"></p_tk>
+    <p_tk vh="H" name="Green, J." assist="Y"></p_tk>
+    <p_pn vh="V" code="HO" type="holding" name="Crane, Tyler" result="ACCEPT" at="V29" yards="10"></p_pn>
+   </play>
+   <drivestart poss="V,V19,15:00" vh="V" spot="V19" clock="15:00" driveindex="12,110"></drivestart>
+   <play hasball="MU" down="1" togo="10" spot="MU19" context="V,1,10,V19" playid="12,1,111" clock="15:00" text="MISSOURI drive start at 15:00." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU19" context="V,1,10,V19" playid="12,2,112" type="P" pcode="SI" first="P" text="Gabbert, Blaine sideline pass complete to Perry, Jared for 14 yards to the MU33, 1ST DOWN MU." newcontext="V,1,10,V33">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Perry, Jared" gain="14"></p_pa>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU33" context="V,1,10,V33" playid="12,3,113" type="R" pcode="RT" text="Washington, Der rush over right tackle for 8 yards to the MU41 (Wilson, T.;Thomas, I.)." newcontext="V,2,2,V41">
+    <p_ru vh="V" name="Washington, Der" gain="8"></p_ru>
+    <p_tk vh="H" name="Wilson, T." assist="Y"></p_tk>
+    <p_tk vh="H" name="Thomas, I." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="2" spot="MU41" context="V,2,2,V41" playid="12,4,114" type="R" pcode="LL" text="Washington, Der rush left for no gain to the MU41 (Wilson, M.;Edwards, G.)." newcontext="V,3,2,V41">
+    <p_ru vh="V" name="Washington, Der" gain="0"></p_ru>
+    <p_tk vh="H" name="Wilson, M." assist="Y"></p_tk>
+    <p_tk vh="H" name="Edwards, G." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="2" spot="MU41" context="V,3,2,V41" playid="12,5,115" type="P" pcode="MI" first="P" text="Gabbert, Blaine middle pass complete to Alexander, Dana for 31 yards to the ILL28, 1ST DOWN MU (Hicks, D.)." newcontext="V,1,10,H28">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Alexander, Dana" gain="31"></p_pa>
+    <p_tk vh="H" name="Hicks, D."></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="ILL28" context="V,1,10,H28" playid="12,6,116" type="P" pcode="SI" text="Gabbert, Blaine sideline pass incomplete to Kemp, Wes." newcontext="V,2,10,H28">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="INC" rcv="Kemp, Wes"></p_pa>
+   </play>
+   <play hasball="MU" down="2" togo="10" spot="ILL28" context="V,2,10,H28" playid="12,7,117" type="P" pcode="RR" text="Gabbert, Blaine sacked for loss of 4 yards to the ILL32 (Bellamy, T.)." newcontext="V,3,14,H32">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="SACK" gain="-4"></p_pa>
+    <p_tk vh="H" name="Bellamy, T." sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="14" spot="ILL32" context="V,3,14,H32" playid="12,8,118" type="P" pcode="DP" first="P" text="Gabbert, Blaine deep pass complete to Alexander, Dana for 29 yards to the ILL3, 1ST DOWN MU (Wilson, T.)." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Alexander, Dana" gain="29"></p_pa>
+    <p_tk vh="H" name="Wilson, T."></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="0" spot="ILL03" context="V,1,0,H03" playid="12,9,119" type="R" pcode="RR" text="Moore, De'Vion rush right for loss of 1 yard to the ILL4 (Liuget, C.;Wilson, T.)." newcontext="V,2,0,H04">
+    <p_ru vh="V" name="Moore, De'Vion" gain="-1"></p_ru>
+    <p_tk vh="H" name="Liuget, C." tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Wilson, T." tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="0" spot="ILL04" context="V,2,0,H04" playid="12,10,120" type="P" pcode="MI" score="Y" clock="11:18" text="Gabbert, Blaine middle pass complete to Jackson, Jerrel for 4 yards to the ILL0, TOUCHDOWN, clock 11:18." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Jackson, Jerrel" gain="4"></p_pa>
+   </play>
+   <play hasball="MU" down="1" togo="0" spot="ILL03" context="V,1,0,H03" playid="12,11,121" type="X" score="Y" text="Ressel, Grant kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Ressel, Grant" qb="Ressel, Grant" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="23" H="3"></score>
+   <drivesum plays="9" yards="81" top="3:42" driveindex="12" complete="Y"></drivesum>
+   <play hasball="MU" down="1" togo="0" spot="MU30" context="V,1,0,V30" playid="12,12,122" type="K" text="Mills, Tanner kickoff 70 yards to the ILL0, Jenkins, A.J. return 24 yards to the ILL24 (Jackson, Kenji)." newcontext="H,1,10,H24">
+    <p_ko vh="V" name="Mills, Tanner" gain="70"></p_ko>
+    <p_kr vh="H" name="Jenkins, A.J." gain="24"></p_kr>
+    <p_tk vh="V" name="Jackson, Kenji"></p_tk>
+   </play>
+   <drivestart poss="H,H24,11:18" vh="H" spot="H24" clock="11:18" driveindex="13,122"></drivestart>
+   <play hasball="ILL" down="1" togo="10" spot="ILL24" context="H,1,10,H24" playid="13,1,123" clock="11:18" text="ILLINOIS drive start at 11:18." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL24" context="H,1,10,H24" playid="13,2,124" type="P" pcode="RR" text="Williams, J. RR pass complete to Fayson, J. for 9 yards to the ILL33." newcontext="H,2,1,H33">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Fayson, J." gain="9"></p_pa>
+   </play>
+   <play hasball="ILL" down="2" togo="1" spot="ILL33" context="H,2,1,H33" playid="13,3,125" type="P" pcode="LL" first="P" text="Williams, J. LL pass complete to Sykes, F. for 7 yards to the ILL40, 1ST DOWN ILL (Lambert, Luke)." newcontext="H,1,10,H40">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Sykes, F." gain="7"></p_pa>
+    <p_tk vh="V" name="Lambert, Luke"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL40" context="H,1,10,H40" playid="13,4,126" type="P" pcode="MI" text="Williams, J. middle pass incomplete to Duvalt, C.." newcontext="H,2,10,H40">
+    <p_pa vh="H" qb="Williams, J." result="INC" rcv="Duvalt, C."></p_pa>
+   </play>
+   <play hasball="ILL" down="2" togo="10" spot="ILL40" context="H,2,10,H40" playid="13,5,127" type="E" text="PENALTY ILL false start (Allen, J.) 5 yards to the ILL35." newcontext="H,2,15,H35">
+    <p_pn vh="H" code="FS" type="false start" name="Allen, J." result="ACCEPT" at="H40" yards="5"></p_pn>
+   </play>
+   <play hasball="ILL" down="2" togo="15" spot="ILL35" context="H,2,15,H35" playid="13,6,128" type="P" pcode="RR" first="P" text="Williams, J. RR pass complete to Leshoure, M. for 17 yards to the MU48, 1ST DOWN ILL (Gettis, Carl)." newcontext="H,1,10,V48">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Leshoure, M." gain="17"></p_pa>
+    <p_tk vh="V" name="Gettis, Carl"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="MU48" context="H,1,10,V48" playid="13,7,129" type="P" pcode="LL" text="Williams, J. LL pass complete to Sykes, F. for 7 yards to the MU41 (Rutland, Kevin)." newcontext="H,2,3,V41">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Sykes, F." gain="7"></p_pa>
+    <p_tk vh="V" name="Rutland, Kevin"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="3" spot="MU41" context="H,2,3,V41" playid="13,8,130" type="P" pcode="RR" turnover="F" text="Williams, J. RR pass complete to Cumberland, J. for 16 yards to the MU25, fumble forced by Howard, Del, fumble by Cumberland, J. recovered by MU Howard, Del at MU25." newcontext="V,1,10,V25">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Cumberland, J." gain="16"></p_pa>
+    <p_fumb vh="H" name="Cumberland, J." at="V25" frvh="V" frname="Howard, Del"></p_fumb>
+    <p_tk vh="V" name="Howard, Del" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="6" yards="51" top="1:38" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="V,V25,11:18" vh="V" spot="V25" clock="11:18" driveindex="14,130"></drivestart>
+   <play hasball="MU" down="1" togo="10" spot="MU25" context="V,1,10,V25" playid="14,1,131" clock="09:40" text="MISSOURI drive start at 09:40." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU25" context="V,1,10,V25" playid="14,2,132" type="P" pcode="MI" text="Gabbert, Blaine middle pass complete to Jones, Andrew for 3 yards to the MU28 (Thomas, I.;Liuget, C.)." newcontext="V,2,7,V28">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Jones, Andrew" gain="3"></p_pa>
+    <p_tk vh="H" name="Thomas, I." assist="Y"></p_tk>
+    <p_tk vh="H" name="Liuget, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="7" spot="MU28" context="V,2,7,V28" playid="14,3,133" type="R" pcode="LL" text="Washington, Der rush left for 4 yards to the MU32 (Thomas, I.;Wilson, M.)." newcontext="V,3,3,V32">
+    <p_ru vh="V" name="Washington, Der" gain="4"></p_ru>
+    <p_tk vh="H" name="Thomas, I." assist="Y"></p_tk>
+    <p_tk vh="H" name="Wilson, M." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="3" spot="MU32" context="V,3,3,V32" playid="14,4,134" type="P" pcode="SI" text="Gabbert, Blaine sideline pass incomplete to Perry, Jared." newcontext="V,4,3,V32">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="INC" rcv="Perry, Jared"></p_pa>
+   </play>
+   <play hasball="MU" down="4" togo="3" spot="MU32" context="V,4,3,V32" playid="14,5,135" type="U" text="Harry IV, Jake punt 37 yards to the ILL31, Ramsey, J. return 0 yards to the ILL31, fumble by Ramsey, J. recovered by ILL Wilson, T. at ILL32." newcontext="H,1,10,H32">
+    <p_pu vh="V" name="Harry IV, Jake" gain="37"></p_pu>
+    <p_pr vh="H" name="Ramsey, J." gain="0"></p_pr>
+    <p_fumb vh="H" name="Ramsey, J." at="H32" frvh="H" frname="Wilson, T."></p_fumb>
+   </play>
+   <drivesum plays="3" yards="7" top="1:14" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,H32,09:40" vh="H" spot="H32" clock="09:40" driveindex="15,135"></drivestart>
+   <play hasball="ILL" down="1" togo="10" spot="ILL32" context="H,1,10,H32" playid="15,1,136" clock="08:26" text="ILLINOIS drive start at 08:26, ILL ball on ILL32." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL32" context="H,1,10,H32" playid="15,2,137" type="P" pcode="RR" text="Williams, J. RR pass incomplete to Cumberland, J.." newcontext="H,2,10,H32">
+    <p_pa vh="H" qb="Williams, J." result="INC" rcv="Cumberland, J."></p_pa>
+   </play>
+   <play hasball="ILL" down="2" togo="10" spot="ILL32" context="H,2,10,H32" playid="15,3,138" type="P" text="Williams, J. sacked for loss of 1 yard to the ILL31 (Weatherspoon, S)." newcontext="H,3,11,H31">
+    <p_pa vh="H" qb="Williams, J." result="SACK" gain="-1"></p_pa>
+    <p_tk vh="V" name="Weatherspoon, S" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="3" togo="11" spot="ILL31" context="H,3,11,H31" playid="15,4,139" type="P" pcode="RR" text="Williams, J. RR pass incomplete to Ramsey, J., QB hurry by Weatherspoon, S." newcontext="H,4,11,H31">
+    <p_pa vh="H" qb="Williams, J." result="INC" rcv="Ramsey, J."></p_pa>
+    <p_qbh vh="V" name="Weatherspoon, S"></p_qbh>
+   </play>
+   <play hasball="ILL" down="4" togo="11" spot="ILL31" context="H,4,11,H31" playid="15,5,140" text="QB hurry by Smith, Jacquies." newcontext="H,4,11,H31">
+    <p_qbh vh="V" name="Smith, Jacquies"></p_qbh>
+   </play>
+   <play hasball="ILL" down="4" togo="11" spot="ILL31" context="H,4,11,H31" playid="15,6,141" type="U" text="Santella, A. punt 39 yards to the MU30, Gettis, Carl return 0 yards to the MU30 (Leshoure, M.)." newcontext="V,1,10,V30">
+    <p_pu vh="H" name="Santella, A." gain="39"></p_pu>
+    <p_pr vh="V" name="Gettis, Carl" gain="0"></p_pr>
+    <p_tk vh="H" name="Leshoure, M."></p_tk>
+   </play>
+   <drivesum plays="3" yards="-1" top="0:52" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="V,V30,08:26" vh="V" spot="V30" clock="08:26" driveindex="16,141"></drivestart>
+   <play hasball="MU" down="1" togo="10" spot="MU30" context="V,1,10,V30" playid="16,1,142" clock="07:34" text="MISSOURI drive start at 07:34." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU30" context="V,1,10,V30" playid="16,2,143" type="R" pcode="LL" first="R" text="Washington, Der rush left for 10 yards to the MU40, 1ST DOWN MU (Flowers, B.;Edwards, G.)." newcontext="V,1,10,V40">
+    <p_ru vh="V" name="Washington, Der" gain="10"></p_ru>
+    <p_tk vh="H" name="Flowers, B." assist="Y"></p_tk>
+    <p_tk vh="H" name="Edwards, G." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU40" context="V,1,10,V40" playid="16,3,144" type="P" pcode="RR" text="Gabbert, Blaine RR pass complete to Jones, Andrew for 8 yards to the MU48 (Wilson, M.;Bellamy, T.)." newcontext="V,2,2,V48">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Jones, Andrew" gain="8"></p_pa>
+    <p_tk vh="H" name="Wilson, M." assist="Y"></p_tk>
+    <p_tk vh="H" name="Bellamy, T." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="2" spot="MU48" context="V,2,2,V48" playid="16,4,145" type="R" pcode="MI" text="Moore, De'Vion rush up middle for 1 yard to the MU49 (Thomas, I.;Wilson, M.)." newcontext="V,3,1,V49">
+    <p_ru vh="V" name="Moore, De'Vion" gain="1"></p_ru>
+    <p_tk vh="H" name="Thomas, I." assist="Y"></p_tk>
+    <p_tk vh="H" name="Wilson, M." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="1" spot="MU49" context="V,3,1,V49" playid="16,5,146" type="P" pcode="RR" first="P" text="Gabbert, Blaine RR pass complete to Alexander, Dana for 5 yards to the ILL46, 1ST DOWN MU (Flowers, B.)." newcontext="V,1,10,H46">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Alexander, Dana" gain="5"></p_pa>
+    <p_tk vh="H" name="Flowers, B."></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="ILL46" context="V,1,10,H46" playid="16,6,147" type="P" pcode="SL" first="P" score="Y" clock="05:39" text="Gabbert, Blaine slant pass complete to Perry, Jared for 46 yards to the ILL0, 1ST DOWN MU, TOUCHDOWN, clock 05:39." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Perry, Jared" gain="46"></p_pa>
+   </play>
+   <play hasball="MU" down="1" togo="0" spot="ILL03" context="V,1,0,H03" playid="16,7,148" type="X" score="Y" text="Ressel, Grant kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Ressel, Grant" qb="Ressel, Grant" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="30" H="3"></score>
+   <drivesum plays="5" yards="70" top="1:55" driveindex="16" complete="Y"></drivesum>
+   <play hasball="MU" down="1" togo="0" spot="MU30" context="V,1,0,V30" playid="16,8,149" type="K" text="Mills, Tanner kickoff 70 yards to the ILL0, Pollard, T. return 21 yards to the ILL21 (Bonner, Donovan)." newcontext="H,1,10,H21">
+    <p_ko vh="V" name="Mills, Tanner" gain="70"></p_ko>
+    <p_kr vh="H" name="Pollard, T." gain="21"></p_kr>
+    <p_tk vh="V" name="Bonner, Donovan"></p_tk>
+   </play>
+   <drivestart poss="H,H21,05:39" vh="H" spot="H21" clock="05:39" driveindex="17,149"></drivestart>
+   <play hasball="ILL" down="1" togo="10" spot="ILL21" context="H,1,10,H21" playid="17,1,150" clock="05:39" text="ILLINOIS drive start at 05:39." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL21" context="H,1,10,H21" playid="17,2,151" type="R" pcode="RR" text="Leshoure, M. rush right for 4 yards to the ILL25 (Coulter, Brian;Weatherspoon, S)." newcontext="H,2,6,H25">
+    <p_ru vh="H" name="Leshoure, M." gain="4"></p_ru>
+    <p_tk vh="V" name="Coulter, Brian" assist="Y"></p_tk>
+    <p_tk vh="V" name="Weatherspoon, S" assist="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="6" spot="ILL25" context="H,2,6,H25" playid="17,3,152" type="R" pcode="RT" text="Williams, J. rush over right tackle for 2 yards to the ILL27 (Resonno, Terrel)." newcontext="H,3,4,H27">
+    <p_ru vh="H" name="Williams, J." gain="2"></p_ru>
+    <p_tk vh="V" name="Resonno, Terrel"></p_tk>
+   </play>
+   <play hasball="ILL" down="3" togo="4" spot="ILL27" context="H,3,4,H27" playid="17,4,153" type="P" pcode="LL" first="P" text="Williams, J. LL pass complete to Ramsey, J. for 12 yards to the ILL39, 1ST DOWN ILL (Rutland, Kevin)." newcontext="H,1,10,H39">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Ramsey, J." gain="12"></p_pa>
+    <p_tk vh="V" name="Rutland, Kevin"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL39" context="H,1,10,H39" playid="17,5,154" type="R" pcode="MI" text="Williams, J. rush up middle for 1 yard to the ILL40 (Weatherspoon, S;Lambert, Luke)." newcontext="H,2,9,H40">
+    <p_ru vh="H" name="Williams, J." gain="1"></p_ru>
+    <p_tk vh="V" name="Weatherspoon, S" assist="Y"></p_tk>
+    <p_tk vh="V" name="Lambert, Luke" assist="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="9" spot="ILL40" context="H,2,9,H40" playid="17,6,155" type="P" pcode="RR" text="Williams, J. RR pass complete to Sykes, F. for 4 yards to the ILL44, out-of-bounds (Rutland, Kevin;Gettis, Carl)." ob="Y" newcontext="H,3,5,H44">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Sykes, F." gain="4"></p_pa>
+    <p_tk vh="V" name="Rutland, Kevin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Gettis, Carl" assist="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="3" togo="5" spot="ILL44" context="H,3,5,H44" playid="17,7,156" type="P" pcode="RR" first="P" text="Williams, J. RR pass complete to Leshoure, M. for 11 yards to the MU45, 1ST DOWN ILL (Simmons, Jasper)." newcontext="H,1,10,V45">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Leshoure, M." gain="11"></p_pa>
+    <p_tk vh="V" name="Simmons, Jasper"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="MU45" context="H,1,10,V45" playid="17,8,157" type="P" pcode="MI" text="Williams, J. middle pass complete to Hoomanawanui, M for 2 yards to the MU43 (Jackson, Kenji)." newcontext="H,2,8,V43">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Hoomanawanui, M" gain="2"></p_pa>
+    <p_tk vh="V" name="Jackson, Kenji"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="8" spot="MU43" context="H,2,8,V43" playid="17,9,158" type="P" pcode="SI" first="P" text="Williams, J. sideline pass complete to Cumberland, J. for 11 yards to the MU32, 1ST DOWN ILL." newcontext="H,1,10,V32">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Cumberland, J." gain="11"></p_pa>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="MU32" context="H,1,10,V32" playid="17,10,159" type="R" pcode="MI" text="Williams, J. rush up middle for 9 yards to the MU23 (Jackson, Kenji)." newcontext="H,2,1,V23">
+    <p_ru vh="H" name="Williams, J." gain="9"></p_ru>
+    <p_tk vh="V" name="Jackson, Kenji"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="1" spot="MU23" context="H,2,1,V23" playid="17,11,160" type="R" pcode="LL" first="R" text="Pollard, T. rush left for 10 yards to the MU13, 1ST DOWN ILL, out-of-bounds (Simmons, Jasper)." ob="Y" newcontext="H,1,10,V13">
+    <p_ru vh="H" name="Pollard, T." gain="10"></p_ru>
+    <p_tk vh="V" name="Simmons, Jasper"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="MU13" context="H,1,10,V13" playid="17,12,161" type="R" pcode="LL" text="Leshoure, M. rush left for 9 yards to the MU4, out-of-bounds (Weatherspoon, S)." ob="Y" newcontext="H,2,1,V04">
+    <p_ru vh="H" name="Leshoure, M." gain="9"></p_ru>
+    <p_tk vh="V" name="Weatherspoon, S"></p_tk>
+   </play>
+   <score qtr="3" V="30" H="3"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MU">
+    <firstdowns no="6" rush="1" pass="5" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:51"></misc>
+    <rush att="7" yds="18" gain="23" loss="5" td="0" long="0"></rush>
+    <pass comp="8" att="10" int="0" yds="140" td="2" long="0" sacks="1" sackyds="4"></pass>
+    <rcv no="8" yds="140" td="2" long="0"></rcv>
+    <punt no="1" yds="37" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="37.0"></punt>
+    <ko no="2" yds="140" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="14" tacka="6" tot_tack="20" tflua="1" tfla="0" tflyds="1" sacks="1" sackyds="1" qbh="2" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="28" td="0" long="18"></kr>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ILL">
+    <firstdowns no="6" rush="1" pass="5" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="2" lost="1"></fumbles>
+    <misc yds="0" top="08:09"></misc>
+    <rush att="7" yds="34" gain="35" loss="1" td="0" long="0"></rush>
+    <pass comp="10" att="13" int="0" yds="96" td="0" long="0" sacks="1" sackyds="1"></pass>
+    <rcv no="10" yds="96" td="0" long="0"></rcv>
+    <punt no="1" yds="39" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="39.0"></punt>
+    <ko no="1" yds="69" ob="0" tb="0"></ko>
+    <defense tackua="5" tacka="18" tot_tack="23" tflua="3" tfla="0" tflyds="6" sacks="2" sackyds="16"></defense>
+    <kr no="2" yds="45" td="0" long="0"></kr>
+    <pr no="1" yds="1" td="0" long="0"></pr>
+    <fumbles no="2" lost="1"></fumbles>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="ILL" down="2" togo="1" spot="MU04" context="H,2,1,V04" playid="17,13,162" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,2,1,V04">
+   </play>
+   <play hasball="ILL" down="2" togo="1" spot="MU04" context="H,2,1,V04" playid="17,14,163" type="R" pcode="LL" text="Williams, J. rush left for loss of 2 yards to the MU6 (Smith, Aldon)." newcontext="H,3,3,V06">
+    <p_ru vh="H" name="Williams, J." gain="-2"></p_ru>
+    <p_tk vh="V" name="Smith, Aldon" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="3" togo="3" spot="MU06" context="H,3,3,V06" playid="17,15,164" type="P" pcode="LL" first="P" text="Williams, J. LL pass complete to Pollard, T. for 4 yards to the MU2, 1ST DOWN ILL, out-of-bounds (Weatherspoon, S)." ob="Y" newcontext="H,1,0,V02">
+    <p_pa vh="H" qb="Williams, J." result="COMP" rcv="Pollard, T." gain="4"></p_pa>
+    <p_tk vh="V" name="Weatherspoon, S"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="0" spot="MU02" context="H,1,0,V02" playid="17,16,165" type="R" pcode="MI" text="Leshoure, M. rush up middle for 1 yard to the MU1 (Hamilton, Domin)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Leshoure, M." gain="1"></p_ru>
+    <p_tk vh="V" name="Hamilton, Domin"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="0" spot="MU01" context="H,2,0,V01" playid="17,17,166" type="R" pcode="RG" score="Y" clock="13:19" text="Leshoure, M. rush over right guard for 1 yard to the MU0, TOUCHDOWN, clock 13:19." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Leshoure, M." gain="1"></p_ru>
+   </play>
+   <play hasball="ILL" down="1" togo="0" spot="MU03" context="H,1,0,V03" playid="17,18,167" type="X" text="Eller, M. kick attempt failed." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Eller, M." qb="Eller, M." type="K" result="MISSED"></p_pat>
+   </play>
+   <score V="30" H="9"></score>
+   <drivesum plays="15" yards="79" top="7:20" driveindex="17" complete="Y"></drivesum>
+   <play hasball="ILL" down="1" togo="0" spot="ILL30" context="H,1,0,H30" playid="17,19,168" type="K" text="Dimke, D. kickoff 57 yards to the MU13, Jackson, Jerrel return 13 yards to the MU26 (Gress, A.)." newcontext="V,1,10,V26">
+    <p_ko vh="H" name="Dimke, D." gain="57"></p_ko>
+    <p_kr vh="V" name="Jackson, Jerrel" gain="13"></p_kr>
+    <p_tk vh="H" name="Gress, A."></p_tk>
+   </play>
+   <drivestart poss="V,V26,13:19" vh="V" spot="V26" clock="13:19" driveindex="18,168"></drivestart>
+   <play hasball="MU" down="1" togo="10" spot="MU26" context="V,1,10,V26" playid="18,1,169" clock="13:19" text="MISSOURI drive start at 13:19." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU26" context="V,1,10,V26" playid="18,2,170" type="R" pcode="RT" text="Washington, Der rush over right tackle for 2 yards to the MU28 (Bussey, N.;James, A.)." newcontext="V,2,8,V28">
+    <p_ru vh="V" name="Washington, Der" gain="2"></p_ru>
+    <p_tk vh="H" name="Bussey, N." assist="Y"></p_tk>
+    <p_tk vh="H" name="James, A." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="8" spot="MU28" context="V,2,8,V28" playid="18,3,171" type="P" pcode="RR" text="Gabbert, Blaine RR pass complete to Kemp, Wes for 3 yards to the MU31 (Wilson, T.)." newcontext="V,3,5,V31">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Kemp, Wes" gain="3"></p_pa>
+    <p_tk vh="H" name="Wilson, T."></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="5" spot="MU31" context="V,3,5,V31" playid="18,4,172" type="P" pcode="SL" text="Gabbert, Blaine slant pass complete to Alexander, Dana for 1 yard to the MU32, fumble forced by Pilcher, D., fumble by Alexander, Dana recovered by MU Palmgren, Jayso at MU32, PENALTY MU illegal block (Jackson, Jerrel) 15 yards to the MU17." newcontext="V,3,19,V17">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Alexander, Dana" gain="1"></p_pa>
+    <p_fumb vh="V" name="Alexander, Dana" at="V32" frvh="V" frname="Palmgren, Jayso"></p_fumb>
+    <p_tk vh="H" name="Pilcher, D." ff="Y"></p_tk>
+    <p_pn vh="V" code="BL" type="illegal block" name="Jackson, Jerrel" result="ACCEPT" at="V32" yards="15"></p_pn>
+   </play>
+   <play hasball="MU" down="3" togo="19" spot="MU17" context="V,3,19,V17" playid="18,5,173" text="3rd and 19." newcontext="V,3,19,V17">
+   </play>
+   <play hasball="MU" down="3" togo="19" spot="MU17" context="V,3,19,V17" playid="18,6,174" type="P" first="P" text="Gabbert, Blaine pass complete to Perry, Jared for 28 yards to the MU45, 1ST DOWN MU (Nurse, C.)." newcontext="V,1,10,V45">
+    <p_pa vh="V" qb="Gabbert, Blaine" result="COMP" rcv="Perry, Jared" gain="28"></p_pa>
+    <p_tk vh="H" name="Nurse, C."></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU45" context="V,1,10,V45" playid="18,7,175" type="R" text="Washington, Der rush for loss of 3 yards to the MU42 (Nurse, C.)." newcontext="V,2,13,V42">
+    <p_ru vh="V" name="Washington, Der" gain="-3"></p_ru>
+    <p_tk vh="H" name="Nurse, C." tfl="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="13" spot="MU42" context="V,2,13,V42" playid="18,8,176" type="R" pcode="MI" text="Gabbert, Blaine rush up middle for 12 yards to the ILL46 (Pilcher, D.)." newcontext="V,3,1,H46">
+    <p_ru vh="V" name="Gabbert, Blaine" gain="12"></p_ru>
+    <p_tk vh="H" name="Pilcher, D."></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="1" spot="ILL46" context="V,3,1,H46" playid="18,9,177" type="R" first="R" text="Gabbert, Blaine rush for 4 yards to the ILL42, 1ST DOWN MU (Wilson, M.;Liuget, C.)." newcontext="V,1,10,H42">
+    <p_ru vh="V" name="Gabbert, Blaine" gain="4"></p_ru>
+    <p_tk vh="H" name="Wilson, M." assist="Y"></p_tk>
+    <p_tk vh="H" name="Liuget, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="ILL42" context="V,1,10,H42" playid="18,10,178" type="R" first="R" text="Washington, Der rush for 32 yards to the ILL10, 1ST DOWN MU (Edwards, G.;Hicks, D.)." newcontext="V,1,0,H10">
+    <p_ru vh="V" name="Washington, Der" gain="32"></p_ru>
+    <p_tk vh="H" name="Edwards, G." assist="Y"></p_tk>
+    <p_tk vh="H" name="Hicks, D." assist="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="1" togo="0" spot="ILL10" context="V,1,0,H10" playid="18,11,179" type="R" text="Moore, De'Vion rush for 2 yards to the ILL8 (Bellamy, T.)." newcontext="V,2,0,H08">
+    <p_ru vh="V" name="Moore, De'Vion" gain="2"></p_ru>
+    <p_tk vh="H" name="Bellamy, T."></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="0" spot="ILL08" context="V,2,0,H08" playid="18,12,180" type="R" pcode="RG" score="Y" clock="08:48" text="Gabbert, Blaine rush over right guard for 8 yards to the ILL0, TOUCHDOWN, clock 08:48." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Gabbert, Blaine" gain="8"></p_ru>
+   </play>
+   <play hasball="MU" down="1" togo="0" spot="ILL03" context="V,1,0,H03" playid="18,13,181" type="X" score="Y" text="Ressel, Grant kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Ressel, Grant" qb="Ressel, Grant" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="37" H="9"></score>
+   <drivesum plays="10" yards="74" top="4:31" driveindex="18" complete="Y"></drivesum>
+   <play hasball="MU" down="1" togo="0" spot="MU30" context="V,1,0,V30" playid="18,14,182" type="K" text="Mills, Tanner kickoff 70 yards to the ILL0, Pollard, T. return 32 yards to the ILL32 (Simmons, Jasper;Bonner, Donovan)." newcontext="H,1,10,H32">
+    <p_ko vh="V" name="Mills, Tanner" gain="70"></p_ko>
+    <p_kr vh="H" name="Pollard, T." gain="32"></p_kr>
+    <p_tk vh="V" name="Simmons, Jasper" assist="Y"></p_tk>
+    <p_tk vh="V" name="Bonner, Donovan" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H32,08:48" vh="H" spot="H32" clock="08:48" driveindex="19,182"></drivestart>
+   <play hasball="ILL" down="1" togo="10" spot="ILL32" context="H,1,10,H32" playid="19,1,183" clock="08:48" text="ILLINOIS drive start at 08:48." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL32" context="H,1,10,H32" playid="19,2,184" type="P" pcode="SI" text="Williams, J. sideline pass incomplete to Cumberland, J.." newcontext="H,2,10,H32">
+    <p_pa vh="H" qb="Williams, J." result="INC" rcv="Cumberland, J."></p_pa>
+   </play>
+   <play hasball="ILL" down="2" togo="10" spot="ILL32" context="H,2,10,H32" playid="19,3,185" type="P" text="Williams, J. sacked for loss of 3 yards to the ILL29 (Smith, Jacquies)." newcontext="H,3,13,H29">
+    <p_pa vh="H" qb="Williams, J." result="SACK" gain="-3"></p_pa>
+    <p_tk vh="V" name="Smith, Jacquies" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="3" togo="13" spot="ILL29" context="H,3,13,H29" playid="19,4,186" type="P" text="Williams, J. sacked for loss of 4 yards to the ILL25 (Smith, Aldon)." newcontext="H,4,17,H25">
+    <p_pa vh="H" qb="Williams, J." result="SACK" gain="-4"></p_pa>
+    <p_tk vh="V" name="Smith, Aldon" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="4" togo="17" spot="ILL25" context="H,4,17,H25" playid="19,5,187" type="U" text="Santella, A. punt 41 yards to the MU34, fair catch by Gettis, Carl." newcontext="V,1,10,V34">
+    <p_pu vh="H" name="Santella, A." gain="41" fc="Gettis, Carl"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-7" top="1:23" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V34,08:48" vh="V" spot="V34" clock="08:48" driveindex="20,187"></drivestart>
+   <play hasball="MU" down="1" togo="10" spot="MU34" context="V,1,10,V34" playid="20,1,188" clock="07:25" text="MISSOURI drive start at 07:25." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU34" context="V,1,10,V34" playid="20,2,189" type="R" pcode="RT" text="Lawrence, Kendi rush over right tackle for 3 yards to the MU37 (Thomas, I.)." newcontext="V,2,7,V37">
+    <p_ru vh="V" name="Lawrence, Kendi" gain="3"></p_ru>
+    <p_tk vh="H" name="Thomas, I."></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="7" spot="MU37" context="V,2,7,V37" playid="20,3,190" type="R" pcode="MI" text="Lawrence, Kendi rush up middle for loss of 4 yards to the MU33 (Liuget, C.)." newcontext="V,3,11,V33">
+    <p_ru vh="V" name="Lawrence, Kendi" gain="-4"></p_ru>
+    <p_tk vh="H" name="Liuget, C." tfl="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="11" spot="MU33" context="V,3,11,V33" playid="20,4,191" type="P" pcode="RR" text="Weatherspoon, S RR pass complete to Egnew, Michael for 6 yards to the MU39, out-of-bounds (Thomas, I.)." ob="Y" newcontext="V,4,5,V39">
+    <p_pa vh="V" qb="Weatherspoon, S" result="COMP" rcv="Egnew, Michael" gain="6"></p_pa>
+    <p_tk vh="H" name="Thomas, I."></p_tk>
+   </play>
+   <play hasball="MU" down="4" togo="5" spot="MU39" context="V,4,5,V39" playid="20,5,192" type="U" text="Harry IV, Jake punt 60 yards to the ILL1, downed." newcontext="H,1,10,H01">
+    <p_pu vh="V" name="Harry IV, Jake" gain="60" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="5" top="2:04" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,H01,07:25" vh="H" spot="H01" clock="07:25" driveindex="21,192"></drivestart>
+   <play hasball="ILL" down="1" togo="10" spot="ILL01" context="H,1,10,H01" playid="21,1,193" clock="05:21" text="ILLINOIS drive start at 05:21." newcontext="H,1,10,H01">
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL01" context="H,1,10,H01" playid="21,2,194" type="R" pcode="RG" text="Leshoure, M. rush over right guard for no gain to the ILL1 (Ebner, Will)." newcontext="H,2,10,H01">
+    <p_ru vh="H" name="Leshoure, M." gain="0"></p_ru>
+    <p_tk vh="V" name="Ebner, Will"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="10" spot="ILL01" context="H,2,10,H01" playid="21,3,195" type="P" pcode="RR" text="McGee, E. RR pass complete to Graham, H. for 3 yards to the ILL4, out-of-bounds (Weatherspoon, S)." ob="Y" newcontext="H,3,7,H04">
+    <p_pa vh="H" qb="McGee, E." result="COMP" rcv="Graham, H." gain="3"></p_pa>
+    <p_tk vh="V" name="Weatherspoon, S"></p_tk>
+   </play>
+   <play hasball="ILL" down="3" togo="7" spot="ILL04" context="H,3,7,H04" playid="21,4,196" type="R" pcode="LL" text="McGee, E. rush left for 5 yards to the ILL9 (Baston, Jaron;Lambert, Luke)." newcontext="H,4,2,H09">
+    <p_ru vh="H" name="McGee, E." gain="5"></p_ru>
+    <p_tk vh="V" name="Baston, Jaron" assist="Y"></p_tk>
+    <p_tk vh="V" name="Lambert, Luke" assist="Y"></p_tk>
+   </play>
+   <play hasball="ILL" down="4" togo="2" spot="ILL09" context="H,4,2,H09" playid="21,5,197" type="U" text="Santella, A. punt 43 yards to the MU48, Gerau, Brandon return 3 yards to the ILL49 (Becker, Z.)." newcontext="V,1,10,H49">
+    <p_pu vh="H" name="Santella, A." gain="43"></p_pu>
+    <p_pr vh="V" name="Gerau, Brandon" gain="3"></p_pr>
+    <p_tk vh="H" name="Becker, Z."></p_tk>
+   </play>
+   <drivesum plays="3" yards="8" top="1:58" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="V,H49,05:21" vh="V" spot="H49" clock="05:21" driveindex="22,197"></drivestart>
+   <play hasball="MU" down="1" togo="10" spot="ILL49" context="V,1,10,H49" playid="22,1,198" clock="03:23" text="MISSOURI drive start at 03:23." newcontext="V,1,10,H49">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="ILL49" context="V,1,10,H49" playid="22,2,199" type="R" pcode="LG" text="Lawrence, Kendi rush over left guard for no gain to the ILL49 (Mercilus, W.)." newcontext="V,2,10,H49">
+    <p_ru vh="V" name="Lawrence, Kendi" gain="0"></p_ru>
+    <p_tk vh="H" name="Mercilus, W."></p_tk>
+   </play>
+   <play hasball="MU" down="2" togo="10" spot="ILL49" context="V,2,10,H49" playid="22,3,200" type="R" pcode="LL" text="Lawrence, Kendi rush left for loss of 1 yard to the 50 yardline (Thomas, I.)." newcontext="V,3,11,V50">
+    <p_ru vh="V" name="Lawrence, Kendi" gain="-1"></p_ru>
+    <p_tk vh="H" name="Thomas, I." tfl="Y"></p_tk>
+   </play>
+   <play hasball="MU" down="3" togo="11" spot="MU50" context="V,3,11,V50" playid="22,4,201" type="P" pcode="SL" text="Weatherspoon, S slant pass incomplete to Moe, T.J. (Hicks, D.)." newcontext="V,4,11,V50">
+    <p_pa vh="V" qb="Weatherspoon, S" result="BRUP" rcv="Moe, T.J."></p_pa>
+    <p_bu vh="H" name="Hicks, D."></p_bu>
+   </play>
+   <play hasball="MU" down="4" togo="11" spot="MU50" context="V,4,11,V50" playid="22,5,202" type="U" text="Grabner, Matt punt 38 yards to the ILL12, Fayson, J. return 4 yards to the ILL16 (Ebner, Will;Brinkley, Beau)." newcontext="H,1,10,H16">
+    <p_pu vh="V" name="Grabner, Matt" gain="38" in20="Y"></p_pu>
+    <p_pr vh="H" name="Fayson, J." gain="4"></p_pr>
+    <p_tk vh="V" name="Ebner, Will" assist="Y"></p_tk>
+    <p_tk vh="V" name="Brinkley, Beau" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-1" top="1:40" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="H,H16,03:23" vh="H" spot="H16" clock="03:23" driveindex="23,202"></drivestart>
+   <play hasball="ILL" down="1" togo="10" spot="ILL16" context="H,1,10,H16" playid="23,1,203" clock="01:43" text="ILLINOIS drive start at 01:43." newcontext="H,1,10,H16">
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL16" context="H,1,10,H16" playid="23,2,204" type="P" pcode="LL" text="McGee, E. LL pass complete to Ramsey, J. for 8 yards to the ILL24 (Hobson, Trey)." newcontext="H,2,2,H24">
+    <p_pa vh="H" qb="McGee, E." result="COMP" rcv="Ramsey, J." gain="8"></p_pa>
+    <p_tk vh="V" name="Hobson, Trey"></p_tk>
+   </play>
+   <play hasball="ILL" down="2" togo="2" spot="ILL24" context="H,2,2,H24" playid="23,3,205" type="P" pcode="SI" text="McGee, E. sideline pass incomplete to James, C.." newcontext="H,3,2,H24">
+    <p_pa vh="H" qb="McGee, E." result="INC" rcv="James, C."></p_pa>
+   </play>
+   <play hasball="ILL" down="3" togo="2" spot="ILL24" context="H,3,2,H24" playid="23,4,206" type="R" pcode="LL" first="R" text="McGee, E. rush left for 6 yards to the ILL30, 1ST DOWN ILL (Hobson, Trey)." newcontext="H,1,10,H30">
+    <p_ru vh="H" name="McGee, E." gain="6"></p_ru>
+    <p_tk vh="V" name="Hobson, Trey"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL30" context="H,1,10,H30" playid="23,5,207" type="P" pcode="SI" first="P" text="McGee, E. sideline pass complete to James, C. for 19 yards to the ILL49, 1ST DOWN ILL, out-of-bounds (Prince, Munir)." ob="Y" newcontext="H,1,10,H49">
+    <p_pa vh="H" qb="McGee, E." result="COMP" rcv="James, C." gain="19"></p_pa>
+    <p_tk vh="V" name="Prince, Munir"></p_tk>
+   </play>
+   <play hasball="ILL" down="1" togo="10" spot="ILL49" context="H,1,10,H49" playid="23,6,208" type="P" pcode="SI" text="McGee, E. sideline pass incomplete to James, C.." newcontext="H,2,10,H49">
+    <p_pa vh="H" qb="McGee, E." result="INC" rcv="James, C."></p_pa>
+   </play>
+   <play hasball="ILL" down="2" togo="10" spot="ILL49" context="H,2,10,H49" playid="23,7,209" type="P" pcode="MI" text="McGee, E. middle pass complete to Green, J. for 6 yards to the MU45 (Ebner, Will)." newcontext="H,3,4,V45">
+    <p_pa vh="H" qb="McGee, E." result="COMP" rcv="Green, J." gain="6"></p_pa>
+    <p_tk vh="V" name="Ebner, Will"></p_tk>
+   </play>
+   <play hasball="ILL" down="3" togo="4" spot="MU45" context="H,3,4,V45" playid="23,8,210" type="P" pcode="SI" text="McGee, E. sideline pass incomplete to James, C.." newcontext="H,4,4,V45">
+    <p_pa vh="H" qb="McGee, E." result="INC" rcv="James, C."></p_pa>
+   </play>
+   <play hasball="ILL" down="4" togo="4" spot="MU45" context="H,4,4,V45" playid="23,9,211" type="P" pcode="RR" text="McGee, E. RR pass incomplete to James, C., QB hurry by Grabner, Matt." newcontext="V,1,10,V45">
+    <p_pa vh="H" qb="McGee, E." result="INC" rcv="James, C."></p_pa>
+    <p_qbh vh="V" name="Grabner, Matt"></p_qbh>
+   </play>
+   <drivesum plays="8" yards="39" top="1:33" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="V,V45,01:43" vh="V" spot="V45" clock="01:43" driveindex="24,211"></drivestart>
+   <play hasball="MU" down="1" togo="10" spot="MU45" context="V,1,10,V45" playid="24,1,212" clock="00:10" text="MISSOURI drive start at 00:10." newcontext="V,1,10,V45">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU45" context="V,1,10,V45" playid="24,2,213" text="MU ball on MU46." newcontext="V,1,10,V46">
+   </play>
+   <play hasball="MU" down="1" togo="10" spot="MU46" context="V,1,10,V46" playid="24,3,214" type="R" text="TEAM rush for loss of 2 yards to the MU44." newcontext="V,2,12,V44">
+    <p_ru vh="V" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="MU" down="2" togo="12" spot="MU44" context="V,2,12,V44" playid="24,4,215" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="V,2,12,V44">
+   </play>
+   <drivesum plays="1" yards="-2" top="0:10" driveindex="24" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Missouri defeats Illinois by a score of 37 to 9."></play>
+   <score final="Y" V="37" H="9"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MU">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="08:25"></misc>
+    <rush att="12" yds="53" gain="63" loss="10" td="1" long="18"></rush>
+    <pass comp="4" att="5" int="0" yds="38" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="38" td="0" long="0"></rcv>
+    <punt no="2" yds="98" long="9" blkd="0" tb="0" fc="0" plus50="1" inside20="2" avg="49.0"></punt>
+    <ko no="1" yds="70" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="6" tot_tack="17" tflua="3" tfla="0" tflyds="9" sacks="3" sackyds="8" qbh="1"></defense>
+    <kr no="1" yds="13" td="0" long="0"></kr>
+    <pr no="1" yds="3" td="0" long="3"></pr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ILL">
+    <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="4" thirdatt="7" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:35"></misc>
+    <rush att="8" yds="4" gain="13" loss="9" td="1" long="0"></rush>
+    <pass comp="5" att="10" int="0" yds="40" td="0" long="0" sacks="2" sackyds="7"></pass>
+    <rcv no="5" yds="40" td="0" long="0"></rcv>
+    <punt no="2" yds="84" long="3" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="42.0"></punt>
+    <ko no="1" yds="57" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="0"></pat>
+    <defense tackua="13" tacka="6" tot_tack="19" tflua="3" tfla="0" tflyds="8" sacks="2" sackyds="16" brup="1" ff="1"></defense>
+    <kr no="1" yds="32" td="0" long="4"></kr>
+    <pr no="1" yds="4" td="0" long="4"></pr>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="MU" down="2" togo="12" spot="MU44" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="3" htor="3" dtgtext="Game Over" ldtext="Drive started: 00:10, 4th Qtr"></downtogo>
+ </plays>

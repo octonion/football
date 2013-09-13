@@ -1,0 +1,947 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD30" context="V,1,10,V30" playid="0,1,0" text="Stanford wins toss, elects to receive; WSU defends West goal." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD30" context="V,1,10,V30" playid="0,2,1" text="WSU ball on WSU30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU30" context="H,1,10,H30" playid="0,3,2" type="K" text="Rooney,Patrick kickoff 70 yards to the STANFORD0, Owusu, C return 34 yards to the STANFORD34 (Karstetter,Jar.)." newcontext="V,1,10,V34">
+    <p_ko vh="H" name="rooney,Patrick" gain="70"></p_ko>
+    <p_kr vh="V" name="Owusu, C" gain="34"></p_kr>
+    <p_tk vh="H" name="Karstetter,Jar."></p_tk>
+   </play>
+   <drivestart poss="V,V34,15:00" vh="V" spot="V34" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD34" context="V,1,10,V34" playid="1,1,3" type="R" text="Gerhart, T rush for 8 yards to the STANFORD42 (Hicks,Xavier)." newcontext="V,2,2,V42">
+    <p_ru vh="V" name="Gerhart, T" gain="8"></p_ru>
+    <p_tk vh="H" name="Hicks,Xavier"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="2" spot="STANFORD42" context="V,2,2,V42" playid="1,2,4" type="P" text="Luck, A pass incomplete to Owusu, C." newcontext="V,3,2,V42">
+    <p_pa vh="V" qb="Luck, A" result="INC" rcv="Owusu, C"></p_pa>
+   </play>
+   <play hasball="STANFORD" down="3" togo="2" spot="STANFORD42" context="V,3,2,V42" playid="1,3,5" type="R" first="R" text="Gerhart, T rush for 13 yards to the WSU45, 1ST DOWN STANFORD (Bland,Louis)." newcontext="V,1,10,H45">
+    <p_ru vh="V" name="Gerhart, T" gain="13"></p_ru>
+    <p_tk vh="H" name="Bland,Louis"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU45" context="V,1,10,H45" playid="1,4,6" type="P" text="Luck, A pass incomplete to Fleener, C." newcontext="V,2,10,H45">
+    <p_pa vh="V" qb="Luck, A" result="INC" rcv="Fleener, C"></p_pa>
+   </play>
+   <play hasball="STANFORD" down="2" togo="10" spot="WSU45" context="V,2,10,H45" playid="1,5,7" type="R" text="Stewart, J rush for 3 yards to the WSU42 (Nwachukwu,Chima)." newcontext="V,3,7,H42">
+    <p_ru vh="V" name="Stewart, J" gain="3"></p_ru>
+    <p_tk vh="H" name="Nwachukwu,Chima"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="3" togo="7" spot="WSU42" context="V,3,7,H42" playid="1,6,8" type="R" first="R" text="Luck, A rush for 31 yards to the WSU11, 1ST DOWN STANFORD, out-of-bounds (Hicks,Xavier)." ob="Y" newcontext="V,1,10,H11">
+    <p_ru vh="V" name="Luck, A" gain="31"></p_ru>
+    <p_tk vh="H" name="Hicks,Xavier"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU11" context="V,1,10,H11" playid="1,7,9" type="R" text="Gerhart, T rush for 6 yards to the WSU5 (Daniels,LeAndre)." newcontext="V,2,4,H05">
+    <p_ru vh="V" name="Gerhart, T" gain="6"></p_ru>
+    <p_tk vh="H" name="Daniels,LeAndre"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="4" spot="WSU05" context="V,2,4,H05" playid="1,8,10" type="R" first="R" text="Gerhart, T rush for 4 yards to the WSU1, 1ST DOWN STANFORD (Mattingly,Andy)." newcontext="V,1,0,H01">
+    <p_ru vh="V" name="Gerhart, T" gain="4"></p_ru>
+    <p_tk vh="H" name="Mattingly,Andy"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="1" togo="0" spot="WSU01" context="V,1,0,H01" playid="1,9,11" type="R" score="Y" clock="11:20" text="Gerhart, T rush for 1 yard to the WSU0, TOUCHDOWN, clock 11:20." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Gerhart, T" gain="1"></p_ru>
+   </play>
+   <play hasball="STANFORD" down="1" togo="0" spot="WSU03" context="V,1,0,H03" playid="1,10,12" type="E" text="PENALTY WSU substitution infraction 2 yards to the WSU1." newcontext="V,1,0,H01">
+    <p_pn vh="H" code="SU" type="substitution infraction" result="ACCEPT" at="H03" yards="2"></p_pn>
+   </play>
+   <play hasball="STANFORD" down="1" togo="0" spot="WSU01" context="V,1,0,H01" playid="1,11,13" type="X" score="Y" text="Gerhart, T rush attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Gerhart, T" qb="Gerhart, T" type="R" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="8" H="0"></score>
+   <drivesum plays="9" yards="66" top="3:40" driveindex="1" complete="Y"></drivesum>
+   <play hasball="STANFORD" down="1" togo="0" spot="STANFORD30" context="V,1,0,V30" playid="1,12,14" type="K" text="Whitaker, N kickoff 68 yards to the WSU2, Justin,Aire return 19 yards to the WSU21 (Howell, D)." newcontext="H,1,10,H21">
+    <p_ko vh="V" name="Whitaker, N" gain="68"></p_ko>
+    <p_kr vh="H" name="Justin,Aire" gain="19"></p_kr>
+    <p_tk vh="V" name="Howell, D"></p_tk>
+   </play>
+   <drivestart poss="H,H21,11:20" vh="H" spot="H21" clock="11:20" driveindex="2,14"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU21" context="H,1,10,H21" playid="2,1,15" clock="11:15" text="WASHINGTON STATE drive start at 11:15." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU21" context="H,1,10,H21" playid="2,2,16" type="R" text="Tardy,Dwight rush for 3 yards to the WSU24 (Masifilo, M)." newcontext="H,2,7,H24">
+    <p_ru vh="H" name="Tardy,Dwight" gain="3"></p_ru>
+    <p_tk vh="V" name="Masifilo, M"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="7" spot="WSU24" context="H,2,7,H24" playid="2,3,17" type="P" text="Lopina,Kevin pass incomplete to Thompson,Tony." newcontext="H,3,7,H24">
+    <p_pa vh="H" qb="Lopina,Kevin" result="INC" rcv="Thompson,Tony"></p_pa>
+   </play>
+   <play hasball="WSU" down="3" togo="7" spot="WSU24" context="H,3,7,H24" playid="2,4,18" type="P" first="P" text="Lopina,Kevin pass complete to Montgomery,Jam. for 9 yards to the WSU33, 1ST DOWN WSU, out-of-bounds (Sherman, R)." ob="Y" newcontext="H,1,10,H33">
+    <p_pa vh="H" qb="Lopina,Kevin" result="COMP" rcv="Montgomery,Jam." gain="9"></p_pa>
+    <p_tk vh="V" name="Sherman, R"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU33" context="H,1,10,H33" playid="2,5,19" type="R" text="Montgomery,Jam. rush for 6 yards to the WSU39 (Lorig, E;Amajoyi, C)." newcontext="H,2,4,H39">
+    <p_ru vh="H" name="Montgomery,Jam." gain="6"></p_ru>
+    <p_tk vh="V" name="Lorig, E" assist="Y"></p_tk>
+    <p_tk vh="V" name="Amajoyi, C" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="4" spot="WSU39" context="H,2,4,H39" playid="2,6,20" type="R" first="R" text="Montgomery,Jam. rush for 6 yards to the WSU45, 1ST DOWN WSU (Snyder, C)." newcontext="H,1,10,H45">
+    <p_ru vh="H" name="Montgomery,Jam." gain="6"></p_ru>
+    <p_tk vh="V" name="Snyder, C"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU45" context="H,1,10,H45" playid="2,7,21" type="P" text="Lopina,Kevin pass incomplete to Stormo,Skylar, QB hurry by Masifilo, M." newcontext="H,2,10,H45">
+    <p_pa vh="H" qb="Lopina,Kevin" result="INC" rcv="Stormo,Skylar"></p_pa>
+    <p_qbh vh="V" name="Masifilo, M"></p_qbh>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WSU45" context="H,2,10,H45" playid="2,8,22" type="R" first="R" text="Tardy,Dwight rush for 20 yards to the STANFORD35, 1ST DOWN WSU (Howell, D)." newcontext="H,1,10,V35">
+    <p_ru vh="H" name="Tardy,Dwight" gain="20"></p_ru>
+    <p_tk vh="V" name="Howell, D"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STANFORD35" context="H,1,10,V35" playid="2,9,23" type="R" text="Tardy,Dwight rush for 8 yards to the STANFORD27 (Powers, W;Sherman, R)." newcontext="H,2,2,V27">
+    <p_ru vh="H" name="Tardy,Dwight" gain="8"></p_ru>
+    <p_tk vh="V" name="Powers, W" assist="Y"></p_tk>
+    <p_tk vh="V" name="Sherman, R" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="2" spot="STANFORD27" context="H,2,2,V27" playid="2,10,24" type="R" text="Montgomery,Jam. rush for 1 yard to the STANFORD26 (Keiser, T)." newcontext="H,3,1,V26">
+    <p_ru vh="H" name="Montgomery,Jam." gain="1"></p_ru>
+    <p_tk vh="V" name="Keiser, T"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="1" spot="STANFORD26" context="H,3,1,V26" playid="2,11,25" type="R" first="R" text="Lopina,Kevin rush for 2 yards to the STANFORD24, 1ST DOWN WSU." newcontext="H,1,10,V24">
+    <p_ru vh="H" name="Lopina,Kevin" gain="2"></p_ru>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STANFORD24" context="H,1,10,V24" playid="2,12,26" type="P" text="Lopina,Kevin pass complete to Montgomery,Jam. for 4 yards to the STANFORD20 (Powers, W;Snyder, C)." newcontext="H,2,6,V20">
+    <p_pa vh="H" qb="Lopina,Kevin" result="COMP" rcv="Montgomery,Jam." gain="4"></p_pa>
+    <p_tk vh="V" name="Powers, W" assist="Y"></p_tk>
+    <p_tk vh="V" name="Snyder, C" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="6" spot="STANFORD20" context="H,2,6,V20" playid="2,13,27" type="R" text="Tardy,Dwight rush for 3 yards to the STANFORD17 (Snyder, C)." newcontext="H,3,3,V17">
+    <p_ru vh="H" name="Tardy,Dwight" gain="3"></p_ru>
+    <p_tk vh="V" name="Snyder, C"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="3" spot="STANFORD17" context="H,3,3,V17" playid="2,14,28" type="R" first="R" text="Lopina,Kevin rush for 3 yards to the STANFORD14, 1ST DOWN WSU (McNally, B)." newcontext="H,1,10,V14">
+    <p_ru vh="H" name="Lopina,Kevin" gain="3"></p_ru>
+    <p_tk vh="V" name="McNally, B"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STANFORD14" context="H,1,10,V14" playid="2,15,29" type="R" text="Tardy,Dwight rush for 6 yards to the STANFORD8 (Howell, D)." newcontext="H,2,4,V08">
+    <p_ru vh="H" name="Tardy,Dwight" gain="6"></p_ru>
+    <p_tk vh="V" name="Howell, D"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="4" spot="STANFORD08" context="H,2,4,V08" playid="2,16,30" type="#" clock="04:57" text="Timeout STANFORD, clock 04:57." newcontext="H,2,4,V08">
+    <p_to vh="V" team="STANFORD"></p_to>
+   </play>
+   <play hasball="WSU" down="2" togo="4" spot="STANFORD08" context="H,2,4,V08" playid="2,17,31" type="P" first="P" text="Lopina,Kevin pass complete to Blackledge,Dan. for 7 yards to the STANFORD1, 1ST DOWN WSU (Powers, W)." newcontext="H,1,0,V01">
+    <p_pa vh="H" qb="Lopina,Kevin" result="COMP" rcv="Blackledge,Dan." gain="7"></p_pa>
+    <p_tk vh="V" name="Powers, W"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="STANFORD01" context="H,1,0,V01" playid="2,18,32" type="R" text="Tardy,Dwight rush for loss of 1 yard to the STANFORD2 (Amajoyi, C)." newcontext="H,2,0,V02">
+    <p_ru vh="H" name="Tardy,Dwight" gain="-1"></p_ru>
+    <p_tk vh="V" name="Amajoyi, C" tfl="Y"></p_tk>
+   </play>
+   <comment text="Play reviewed, call stands."></comment>
+   <play hasball="WSU" down="2" togo="0" spot="STANFORD02" context="H,2,0,V02" playid="2,19,34" type="R" text="Montgomery,Jam. rush for loss of 2 yards to the STANFORD4 (Keiser, T;Howell, D)." newcontext="H,3,0,V04">
+    <p_ru vh="H" name="Montgomery,Jam." gain="-2"></p_ru>
+    <p_tk vh="V" name="Keiser, T" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Howell, D" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="0" spot="STANFORD04" context="H,3,0,V04" playid="2,20,35" type="P" text="Lopina,Kevin pass incomplete to Karstetter,Jar. (Fua, S)." newcontext="H,4,0,V04">
+    <p_pa vh="H" qb="Lopina,Kevin" result="BRUP" rcv="Karstetter,Jar."></p_pa>
+    <p_bu vh="V" name="Fua, S"></p_bu>
+   </play>
+   <play hasball="WSU" down="4" togo="0" spot="STANFORD04" context="H,4,0,V04" playid="2,21,36" type="F" clock="03:15" text="Grasu,Nico field goal attempt from 21 MISSED - wide right, spot at STANFORD20, clock 03:15." newcontext="V,1,10,V20">
+    <p_fg vh="H" name="Grasu,Nico" distance="21" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="19" yards="75" top="8:00" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,V20,03:15" vh="V" spot="V20" clock="03:15" driveindex="3,36"></drivestart>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD20" context="V,1,10,V20" playid="3,1,37" clock="03:15" text="STANFORD drive start at 03:15." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD20" context="V,1,10,V20" playid="3,2,38" type="P" text="Luck, A pass complete to Owusu, C for 2 yards to the STANFORD22 (Jones,Brandon)." newcontext="V,2,8,V22">
+    <p_pa vh="V" qb="Luck, A" result="COMP" rcv="Owusu, C" gain="2"></p_pa>
+    <p_tk vh="H" name="Jones,Brandon"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="8" spot="STANFORD22" context="V,2,8,V22" playid="3,3,39" type="R" first="R" text="Owusu, C rush for 10 yards to the STANFORD32, 1ST DOWN STANFORD (Kooyman,Kevin)." newcontext="V,1,10,V32">
+    <p_ru vh="V" name="Owusu, C" gain="10"></p_ru>
+    <p_tk vh="H" name="Kooyman,Kevin"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD32" context="V,1,10,V32" playid="3,4,40" type="P" first="P" text="Luck, A pass complete to Whalen, R for 14 yards to the STANFORD46, 1ST DOWN STANFORD (Nwachukwu,Chima;Hicks,Xavier)." newcontext="V,1,10,V46">
+    <p_pa vh="V" qb="Luck, A" result="COMP" rcv="Whalen, R" gain="14"></p_pa>
+    <p_tk vh="H" name="Nwachukwu,Chima" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hicks,Xavier" assist="Y"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD46" context="V,1,10,V46" playid="3,5,41" type="R" text="Luck, A rush for 5 yards to the WSU49 (Stripling,Jason)." newcontext="V,2,5,H49">
+    <p_ru vh="V" name="Luck, A" gain="5"></p_ru>
+    <p_tk vh="H" name="Stripling,Jason"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="5" spot="WSU49" context="V,2,5,H49" playid="3,6,42" type="R" text="Gerhart, T rush for 2 yards to the WSU47 (Stripling,Jason;Bland,Louis)." newcontext="V,3,3,H47">
+    <p_ru vh="V" name="Gerhart, T" gain="2"></p_ru>
+    <p_tk vh="H" name="Stripling,Jason" assist="Y"></p_tk>
+    <p_tk vh="H" name="Bland,Louis" assist="Y"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="3" togo="3" spot="WSU47" context="V,3,3,H47" playid="3,7,43" type="P" text="Luck, A pass incomplete to Fleener, C." newcontext="V,4,3,H47">
+    <p_pa vh="V" qb="Luck, A" result="INC" rcv="Fleener, C"></p_pa>
+   </play>
+   <play hasball="STANFORD" down="4" togo="3" spot="WSU47" context="V,4,3,H47" playid="3,8,44" type="U" text="Green, D punt 47 yards to the WSU0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Green, D" gain="47" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="33" top="3:09" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,H20,03:15" vh="H" spot="H20" clock="03:15" driveindex="4,44"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="H,1,10,H20" playid="4,1,45" clock="00:06" text="WASHINGTON STATE drive start at 00:06." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="H,1,10,H20" playid="4,2,46" type="R" first="R" text="Montgomery,Jam. rush for 23 yards to the WSU43, 1ST DOWN WSU (Howell, D)." newcontext="H,1,10,H43">
+    <p_ru vh="H" name="Montgomery,Jam." gain="23"></p_ru>
+    <p_tk vh="V" name="Howell, D"></p_tk>
+   </play>
+   <score qtr="1" V="8" H="0"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="STANFORD">
+    <firstdowns no="5" rush="4" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:49"></misc>
+    <rush att="10" yds="83" gain="83" loss="0" td="1" long="31"></rush>
+    <pass comp="2" att="5" int="0" yds="16" td="0" long="14" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="16" td="0" long="14"></rcv>
+    <punt no="1" yds="47" long="47" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="47.0"></punt>
+    <ko no="1" yds="68" ob="0" tb="0"></ko>
+    <pat rushatt="1" rushmade="1"></pat>
+    <defense tackua="12" tacka="8" tot_tack="20" tflua="3" tfla="0" tflyds="5" sacks="0" sackyds="0" brup="1" qbh="1"></defense>
+    <kr no="1" yds="34" td="0" long="34"></kr>
+    <scoring td="1" patrush="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WSU">
+    <firstdowns no="7" rush="5" pass="2" penalty="0"></firstdowns>
+    <penalties no="1" yds="2"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:11"></misc>
+    <rush att="13" yds="78" gain="81" loss="3" td="0" long="23"></rush>
+    <pass comp="3" att="6" int="0" yds="20" td="0" long="9" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="20" td="0" long="9"></rcv>
+    <ko no="1" yds="70" ob="0" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="10" tacka="4" tot_tack="14" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="19" td="0" long="19"></kr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="WSU" down="1" togo="10" spot="WSU43" context="H,1,10,H43" playid="4,3,47" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU43" context="H,1,10,H43" playid="4,4,48" type="P" text="Lopina,Kevin pass complete to Anderson,Jeshua for 9 yards to the STANFORD48 (Howell, D)." newcontext="H,2,1,V48">
+    <p_pa vh="H" qb="Lopina,Kevin" result="COMP" rcv="Anderson,Jeshua" gain="9"></p_pa>
+    <p_tk vh="V" name="Howell, D"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="1" spot="STANFORD48" context="H,2,1,V48" playid="4,5,49" type="P" first="P" text="Lopina,Kevin pass complete to Thompson,Tony for 15 yards to the STANFORD33, 1ST DOWN WSU." newcontext="H,1,10,V33">
+    <p_pa vh="H" qb="Lopina,Kevin" result="COMP" rcv="Thompson,Tony" gain="15"></p_pa>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STANFORD33" context="H,1,10,V33" playid="4,6,50" type="R" text="Simone,Gino rush for 7 yards to the STANFORD26, out-of-bounds (McNally, B)." ob="Y" newcontext="H,2,3,V26">
+    <p_ru vh="H" name="Simone,Gino" gain="7"></p_ru>
+    <p_tk vh="V" name="McNally, B"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="3" spot="STANFORD26" context="H,2,3,V26" playid="4,7,51" type="R" text="Montgomery,Jam. rush for no gain to the STANFORD26 (Howell, D)." newcontext="H,3,3,V26">
+    <p_ru vh="H" name="Montgomery,Jam." gain="0"></p_ru>
+    <p_tk vh="V" name="Howell, D"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="3" spot="STANFORD26" context="H,3,3,V26" playid="4,8,52" type="P" text="Lopina,Kevin pass incomplete to Karstetter,Jar. (Sherman, R)." newcontext="H,4,3,V26">
+    <p_pa vh="H" qb="Lopina,Kevin" result="BRUP" rcv="Karstetter,Jar."></p_pa>
+    <p_bu vh="V" name="Sherman, R"></p_bu>
+   </play>
+   <play hasball="WSU" down="4" togo="3" spot="STANFORD26" context="H,4,3,V26" playid="4,9,53" type="F" score="Y" clock="12:43" text="Grasu,Nico field goal attempt from 44 GOOD, clock 12:43." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Grasu,Nico" distance="44" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="8" H="3"></score>
+   <drivesum plays="7" yards="54" top="2:23" driveindex="4" complete="Y"></drivesum>
+   <play hasball="WSU" down="1" togo="0" spot="WSU30" context="H,1,0,H30" playid="4,10,54" type="K" text="Rooney,Patrick kickoff 65 yards to the STANFORD5, Owusu, C return 24 yards to the STANFORD29 (Ledgerwood,Mike;Hoffman-Ellis,A)." newcontext="V,1,10,V29">
+    <p_ko vh="H" name="rooney,Patrick" gain="65"></p_ko>
+    <p_kr vh="V" name="Owusu, C" gain="24"></p_kr>
+    <p_tk vh="H" name="Ledgerwood,Mike" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hoffman-Ellis,A" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V29,12:43" vh="V" spot="V29" clock="12:43" driveindex="5,54"></drivestart>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD29" context="V,1,10,V29" playid="5,1,55" clock="12:38" text="STANFORD drive start at 12:38." newcontext="V,1,10,V29">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD29" context="V,1,10,V29" playid="5,2,56" type="P" text="Luck, A pass complete to Fleener, C for 8 yards to the STANFORD37 (Mattingly,Andy;Bland,Louis)." newcontext="V,2,2,V37">
+    <p_pa vh="V" qb="Luck, A" result="COMP" rcv="Fleener, C" gain="8"></p_pa>
+    <p_tk vh="H" name="Mattingly,Andy" assist="Y"></p_tk>
+    <p_tk vh="H" name="Bland,Louis" assist="Y"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="2" spot="STANFORD37" context="V,2,2,V37" playid="5,3,57" type="P" first="P" score="Y" clock="11:54" text="Luck, A pass complete to Owusu, C for 63 yards to the WSU0, 1ST DOWN STANFORD, TOUCHDOWN, clock 11:54." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Luck, A" result="COMP" rcv="Owusu, C" gain="63"></p_pa>
+   </play>
+   <play hasball="STANFORD" down="1" togo="0" spot="WSU03" context="V,1,0,H03" playid="5,4,58" type="X" score="Y" text="Whitaker, N kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Whitaker, N" qb="Whitaker, N" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="15" H="3"></score>
+   <drivesum plays="2" yards="71" top="0:44" driveindex="5" complete="Y"></drivesum>
+   <play hasball="STANFORD" down="1" togo="0" spot="STANFORD30" context="V,1,0,V30" playid="5,5,59" type="K" text="Whitaker, N kickoff 70 yards to the WSU0, Justin,Aire return 13 yards to the WSU13 (McNally, B)." newcontext="H,1,10,H13">
+    <p_ko vh="V" name="Whitaker, N" gain="70"></p_ko>
+    <p_kr vh="H" name="Justin,Aire" gain="13"></p_kr>
+    <p_tk vh="V" name="McNally, B"></p_tk>
+   </play>
+   <drivestart poss="H,H13,11:54" vh="H" spot="H13" clock="11:54" driveindex="6,59"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU13" context="H,1,10,H13" playid="6,1,60" clock="11:48" text="WASHINGTON STATE drive start at 11:48." newcontext="H,1,10,H13">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU13" context="H,1,10,H13" playid="6,2,61" type="P" first="P" text="Lobbestael,Mar. pass complete to Thompson,Tony for 21 yards to the WSU34, 1ST DOWN WSU." newcontext="H,1,10,H34">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="COMP" rcv="Thompson,Tony" gain="21"></p_pa>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU34" context="H,1,10,H34" playid="6,3,62" type="P" first="P" text="Lobbestael,Mar. pass complete to Blackledge,Dan. for 16 yards to the 50 yardline, 1ST DOWN WSU (McNally, B)." newcontext="H,1,10,H50">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="COMP" rcv="Blackledge,Dan." gain="16"></p_pa>
+    <p_tk vh="V" name="McNally, B"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU50" context="H,1,10,H50" playid="6,4,63" type="P" text="Lobbestael,Mar. pass incomplete to Thompson,Tony (Snyder, C)." newcontext="H,2,10,H50">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="INC" rcv="Thompson,Tony"></p_pa>
+    <p_bu vh="V" name="Snyder, C"></p_bu>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="WSU50" context="H,2,10,H50" playid="6,5,64" type="P" text="Lobbestael,Mar. pass incomplete to Solomon,Jeff.." newcontext="H,3,10,H50">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="INC" rcv="Solomon,Jeff."></p_pa>
+   </play>
+   <play hasball="WSU" down="3" togo="10" spot="WSU50" context="H,3,10,H50" playid="6,6,65" type="P" text="Lobbestael,Mar. pass complete to Simone,Gino for 5 yards to the STANFORD45 (McNally, B)." newcontext="H,4,5,V45">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="COMP" rcv="Simone,Gino" gain="5"></p_pa>
+    <p_tk vh="V" name="McNally, B"></p_tk>
+   </play>
+   <play hasball="WSU" down="4" togo="5" spot="STANFORD45" context="H,4,5,V45" playid="6,7,66" type="U" text="Forrest,Reid punt 33 yards to the STANFORD12, fair catch by Sherman, R." newcontext="V,1,10,V12">
+    <p_pu vh="H" name="Forrest,Reid" gain="33" in20="Y" fc="Sherman, R"></p_pu>
+   </play>
+   <drivesum plays="5" yards="42" top="1:42" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="V,V12,11:48" vh="V" spot="V12" clock="11:48" driveindex="7,66"></drivestart>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD12" context="V,1,10,V12" playid="7,1,67" clock="10:06" text="STANFORD drive start at 10:06." newcontext="V,1,10,V12">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD12" context="V,1,10,V12" playid="7,2,68" type="R" text="Gerhart, T rush for 1 yard to the STANFORD13 (Bland,Louis)." newcontext="V,2,9,V13">
+    <p_ru vh="V" name="Gerhart, T" gain="1"></p_ru>
+    <p_tk vh="H" name="Bland,Louis"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="9" spot="STANFORD13" context="V,2,9,V13" playid="7,3,69" type="P" first="P" text="Luck, A pass complete to Whalen, R for 23 yards to the STANFORD36, 1ST DOWN STANFORD (Nwachukwu,Chima)." newcontext="V,1,10,V36">
+    <p_pa vh="V" qb="Luck, A" result="COMP" rcv="Whalen, R" gain="23"></p_pa>
+    <p_tk vh="H" name="Nwachukwu,Chima"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD36" context="V,1,10,V36" playid="7,4,70" type="R" text="Luck, A rush for 8 yards to the STANFORD44." newcontext="V,2,2,V44">
+    <p_ru vh="V" name="Luck, A" gain="8"></p_ru>
+   </play>
+   <play hasball="STANFORD" down="2" togo="2" spot="STANFORD44" context="V,2,2,V44" playid="7,5,71" type="R" first="R" text="Gerhart, T rush for 6 yards to the 50 yardline, 1ST DOWN STANFORD (Kooyman,Kevin;Hoffman-Ellis,A)." newcontext="V,1,10,V50">
+    <p_ru vh="V" name="Gerhart, T" gain="6"></p_ru>
+    <p_tk vh="H" name="Kooyman,Kevin" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hoffman-Ellis,A" assist="Y"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD50" context="V,1,10,V50" playid="7,6,72" type="P" first="E" text="Luck, A pass incomplete to Stewart, J, dropped pass, PENALTY WSU personal foul (Daniels,LeAndre) 15 yards to the WSU35, 1ST DOWN STANFORD, deadball foul." newcontext="V,1,10,H35">
+    <p_pa vh="V" qb="Luck, A" result="DROP" rcv="Stewart, J"></p_pa>
+    <p_pn vh="H" code="PF" type="personal foul" name="Daniels,LeAndre" result="ACCEPT" at="V50" yards="15"></p_pn>
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU35" context="V,1,10,H35" playid="7,7,73" text="1st and 10." newcontext="V,1,10,H35">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU35" context="V,1,10,H35" playid="7,8,74" type="P" text="Luck, A pass incomplete to Fleener, C (Hoffman-Ellis,A)." newcontext="V,2,10,H35">
+    <p_pa vh="V" qb="Luck, A" result="INC" rcv="Fleener, C"></p_pa>
+    <p_bu vh="H" name="Hoffman-Ellis,A"></p_bu>
+   </play>
+   <play hasball="STANFORD" down="2" togo="10" spot="WSU35" context="V,2,10,H35" playid="7,9,75" type="R" text="Gerhart, T rush for 5 yards to the WSU30 (Daniels,LeAndre)." newcontext="V,3,5,H30">
+    <p_ru vh="V" name="Gerhart, T" gain="5"></p_ru>
+    <p_tk vh="H" name="Daniels,LeAndre"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="3" togo="5" spot="WSU30" context="V,3,5,H30" playid="7,10,76" type="R" first="R" text="Gerhart, T rush for 12 yards to the WSU18, 1ST DOWN STANFORD (Hicks,Xavier)." newcontext="V,1,10,H18">
+    <p_ru vh="V" name="Gerhart, T" gain="12"></p_ru>
+    <p_tk vh="H" name="Hicks,Xavier"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU18" context="V,1,10,H18" playid="7,11,77" type="R" text="Stewart, J rush for 6 yards to the WSU12 (Wolfgramm,Bern.)." newcontext="V,2,4,H12">
+    <p_ru vh="V" name="Stewart, J" gain="6"></p_ru>
+    <p_tk vh="H" name="Wolfgramm,Bern."></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="4" spot="WSU12" context="V,2,4,H12" playid="7,12,78" type="R" first="R" score="Y" clock="05:40" text="Stewart, J rush for 12 yards to the WSU0, 1ST DOWN STANFORD, TOUCHDOWN, clock 05:40." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Stewart, J" gain="12"></p_ru>
+   </play>
+   <play hasball="STANFORD" down="1" togo="0" spot="WSU03" context="V,1,0,H03" playid="7,13,79" type="X" score="Y" text="Whitaker, N kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Whitaker, N" qb="Whitaker, N" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="22" H="3"></score>
+   <drivesum plays="10" yards="88" top="4:26" driveindex="7" complete="Y"></drivesum>
+   <play hasball="STANFORD" down="1" togo="0" spot="STANFORD30" context="V,1,0,V30" playid="7,14,80" type="K" text="Whitaker, N kickoff 70 yards to the WSU0, touchback." newcontext="H,1,10,H20">
+    <p_ko vh="V" name="Whitaker, N" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H20,05:40" vh="H" spot="H20" clock="05:40" driveindex="8,80"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="H,1,10,H20" playid="8,1,81" clock="05:40" text="WASHINGTON STATE drive start at 05:40." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="H,1,10,H20" playid="8,2,82" type="R" text="Montgomery,Jam. rush for loss of 2 yards to the WSU18 (Lorig, E)." newcontext="H,2,12,H18">
+    <p_ru vh="H" name="Montgomery,Jam." gain="-2"></p_ru>
+    <p_tk vh="V" name="Lorig, E" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="12" spot="WSU18" context="H,2,12,H18" playid="8,3,83" type="R" text="Montgomery,Jam. rush for 3 yards to the WSU21 (Amajoyi, C)." newcontext="H,3,9,H21">
+    <p_ru vh="H" name="Montgomery,Jam." gain="3"></p_ru>
+    <p_tk vh="V" name="Amajoyi, C"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="9" spot="WSU21" context="H,3,9,H21" playid="8,4,84" type="P" text="Lobbestael,Mar. sacked for loss of 2 yards to the WSU19 (Keiser, T), PENALTY WSU holding declined." newcontext="H,4,11,H19">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="SACK" gain="-2"></p_pa>
+    <p_tk vh="V" name="Keiser, T" sack="Y" tfl="Y"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="WSU" down="4" togo="11" spot="WSU19" context="H,4,11,H19" playid="8,5,85" type="U" text="Forrest,Reid punt 45 yards to the STANFORD36, Sherman, R return 59 yards to the WSU5 (Hicks,Xavier)." newcontext="V,1,0,H05">
+    <p_pu vh="H" name="Forrest,Reid" gain="45"></p_pu>
+    <p_pr vh="V" name="Sherman, R" gain="59"></p_pr>
+    <p_tk vh="H" name="Hicks,Xavier"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-1" top="1:50" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,H05,05:40" vh="V" spot="H05" clock="05:40" driveindex="9,85"></drivestart>
+   <play hasball="STANFORD" down="1" togo="0" spot="WSU05" context="V,1,0,H05" playid="9,1,86" clock="03:50" text="STANFORD drive start at 03:50." newcontext="V,1,0,H05">
+   </play>
+   <play hasball="STANFORD" down="1" togo="0" spot="WSU05" context="V,1,0,H05" playid="9,2,87" type="#" clock="03:50" text="Timeout Washington State, clock 03:50." newcontext="V,1,0,H05">
+    <p_to vh="H" team="Washington State"></p_to>
+   </play>
+   <play hasball="STANFORD" down="1" togo="0" spot="WSU05" context="V,1,0,H05" playid="9,3,88" type="R" text="Gerhart, T rush for no gain to the WSU5 (Kooyman,Kevin;Hicks,Xavier)." newcontext="V,2,0,H05">
+    <p_ru vh="V" name="Gerhart, T" gain="0"></p_ru>
+    <p_tk vh="H" name="Kooyman,Kevin" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hicks,Xavier" assist="Y"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="0" spot="WSU05" context="V,2,0,H05" playid="9,4,89" type="R" text="Gerhart, T rush for 4 yards to the WSU1 (Bland,Louis)." newcontext="V,3,0,H01">
+    <p_ru vh="V" name="Gerhart, T" gain="4"></p_ru>
+    <p_tk vh="H" name="Bland,Louis"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="3" togo="0" spot="WSU01" context="V,3,0,H01" playid="9,5,90" type="R" text="Gerhart, T rush for no gain to the WSU1 (Stripling,Jason)." newcontext="V,4,0,H01">
+    <p_ru vh="V" name="Gerhart, T" gain="0"></p_ru>
+    <p_tk vh="H" name="Stripling,Jason"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="4" togo="0" spot="WSU01" context="V,4,0,H01" playid="9,6,91" type="P" text="Luck, A pass incomplete (Mattingly,Andy)." newcontext="H,1,10,H01">
+    <p_pa vh="V" qb="Luck, A" result="INC"></p_pa>
+    <p_bu vh="H" name="Mattingly,Andy"></p_bu>
+   </play>
+   <drivesum plays="4" yards="4" top="2:14" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,H01,03:50" vh="H" spot="H01" clock="03:50" driveindex="10,91"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU01" context="H,1,10,H01" playid="10,1,92" clock="01:36" text="WASHINGTON STATE drive start at 01:36." newcontext="H,1,10,H01">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU01" context="H,1,10,H01" playid="10,2,93" text="WSU ball on WSU2." newcontext="H,1,10,H02">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU02" context="H,1,10,H02" playid="10,3,94" type="R" text="Montgomery,Jam. rush for 1 yard to the WSU3 (Snyder, C)." newcontext="H,2,9,H03">
+    <p_ru vh="H" name="Montgomery,Jam." gain="1"></p_ru>
+    <p_tk vh="V" name="Snyder, C"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="9" spot="WSU03" context="H,2,9,H03" playid="10,4,95" type="#" clock="01:30" text="Timeout STANFORD, clock 01:30." newcontext="H,2,9,H03">
+    <p_to vh="V" team="STANFORD"></p_to>
+   </play>
+   <play hasball="WSU" down="2" togo="9" spot="WSU03" context="H,2,9,H03" playid="10,5,96" type="R" text="Montgomery,Jam. rush for 1 yard to the WSU4 (Masifilo, M)." newcontext="H,3,8,H04">
+    <p_ru vh="H" name="Montgomery,Jam." gain="1"></p_ru>
+    <p_tk vh="V" name="Masifilo, M"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="8" spot="WSU04" context="H,3,8,H04" playid="10,6,97" type="#" clock="00:43" text="Timeout Washington State, clock 00:43." newcontext="H,3,8,H04">
+    <p_to vh="H" team="Washington State"></p_to>
+   </play>
+   <play hasball="WSU" down="3" togo="8" spot="WSU04" context="H,3,8,H04" playid="10,7,98" type="R" text="Montgomery,Jam. rush for loss of 3 yards to the WSU1 (Keiser, T)." newcontext="H,4,11,H01">
+    <p_ru vh="H" name="Montgomery,Jam." gain="-3"></p_ru>
+    <p_tk vh="V" name="Keiser, T" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="4" togo="11" spot="WSU01" context="H,4,11,H01" playid="10,8,99" type="#" clock="00:35" text="Timeout STANFORD, clock 00:35." newcontext="H,4,11,H01">
+    <p_to vh="V" team="STANFORD"></p_to>
+   </play>
+   <play hasball="WSU" down="4" togo="11" spot="WSU01" context="H,4,11,H01" playid="10,9,100" type="U" text="Forrest,Reid punt 53 yards to the STANFORD46, Sherman, R return 9 yards to the WSU45 (Bland,Louis)." newcontext="V,1,10,H45">
+    <p_pu vh="H" name="Forrest,Reid" gain="53"></p_pu>
+    <p_pr vh="V" name="Sherman, R" gain="9"></p_pr>
+    <p_tk vh="H" name="Bland,Louis"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-1" top="1:12" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="V,H45,00:35" vh="V" spot="H45" clock="00:35" driveindex="11,100"></drivestart>
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU45" context="V,1,10,H45" playid="11,1,101" clock="00:24" text="STANFORD drive start at 00:24." newcontext="V,1,10,H45">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU45" context="V,1,10,H45" playid="11,2,102" type="R" text="Luck, A rush for 1 yard to the WSU44 (Long,Travis)." newcontext="V,2,9,H44">
+    <p_ru vh="V" name="Luck, A" gain="1"></p_ru>
+    <p_tk vh="H" name="Long,Travis"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="9" spot="WSU44" context="V,2,9,H44" playid="11,3,103" type="P" text="TEAM pass incomplete." newcontext="V,3,9,H44">
+    <p_pa vh="V" qb="TEAM" result="INC"></p_pa>
+   </play>
+   <play hasball="STANFORD" down="3" togo="9" spot="WSU44" context="V,3,9,H44" playid="11,4,104" type="P" text="Luck, A pass complete to Reuland, K for 6 yards to the WSU38 (Bland,Louis)." newcontext="V,4,3,H38">
+    <p_pa vh="V" qb="Luck, A" result="COMP" rcv="Reuland, K" gain="6"></p_pa>
+    <p_tk vh="H" name="Bland,Louis"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="4" togo="3" spot="WSU38" context="V,4,3,H38" playid="11,5,105" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,4,3,H38">
+   </play>
+   <drivesum plays="3" yards="7" top="0:24" driveindex="11" complete="Y"></drivesum>
+   <score qtr="2" V="22" H="3"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="STANFORD">
+    <firstdowns no="6" rush="3" pass="2" penalty="1"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:53"></misc>
+    <rush att="11" yds="55" gain="55" loss="0" td="1" long="0"></rush>
+    <pass comp="4" att="8" int="0" yds="100" td="1" long="49" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="100" td="1" long="49"></rcv>
+    <ko no="2" yds="140" ob="0" tb="1"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="12" tacka="0" tot_tack="12" tflua="3" tfla="0" tflyds="7" sacks="1" sackyds="2" brup="2"></defense>
+    <kr no="1" yds="24" td="0" long="0"></kr>
+    <pr no="2" yds="68" td="0" long="59"></pr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WSU">
+    <firstdowns no="3" rush="0" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:07"></misc>
+    <rush att="8" yds="5" gain="12" loss="7" td="0" long="0"></rush>
+    <pass comp="5" att="8" int="0" yds="66" td="0" long="12" sacks="1" sackyds="2"></pass>
+    <rcv no="5" yds="66" td="0" long="12"></rcv>
+    <punt no="3" yds="131" long="53" blkd="0" tb="0" fc="1" plus50="1" inside20="1" avg="43.7"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="44" blkd="0"></fg>
+    <defense tackua="11" tacka="8" tot_tack="19" sacks="0" sackyds="0" brup="2"></defense>
+    <kr no="1" yds="13" td="0" long="0"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <comment text="WSU to receive; Stanford defends West goal"></comment>
+   <play hasball="STANFORD" down="4" togo="3" spot="WSU38" context="V,4,3,H38" playid="11,6,106" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00." newcontext="V,4,3,H38">
+   </play>
+   <play hasball="STANFORD" down="4" togo="3" spot="WSU38" context="V,4,3,H38" playid="11,7,108" text="STANFORD ball on STANFORD30." newcontext="V,4,3,V30">
+   </play>
+   <play hasball="STANFORD" down="4" togo="3" spot="STANFORD30" context="V,4,3,V30" playid="11,8,109" type="K" text="Whitaker, N kickoff 70 yards to the WSU0, touchback." newcontext="H,1,10,H20">
+    <p_ko vh="V" name="Whitaker, N" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H20,15:00" vh="H" spot="H20" clock="15:00" driveindex="12,109"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="H,1,10,H20" playid="12,1,110" clock="15:00" text="WASHINGTON STATE drive start at 15:00." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU20" context="H,1,10,H20" playid="12,2,111" type="R" text="Tardy,Dwight rush for 3 yards to the WSU23 (Snyder, C)." newcontext="H,2,7,H23">
+    <p_ru vh="H" name="Tardy,Dwight" gain="3"></p_ru>
+    <p_tk vh="V" name="Snyder, C"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="7" spot="WSU23" context="H,2,7,H23" playid="12,3,112" type="R" text="Tardy,Dwight rush for 3 yards to the WSU26 (Masifilo, M)." newcontext="H,3,4,H26">
+    <p_ru vh="H" name="Tardy,Dwight" gain="3"></p_ru>
+    <p_tk vh="V" name="Masifilo, M"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="4" spot="WSU26" context="H,3,4,H26" playid="12,4,113" type="P" first="P" text="Lopina,Kevin pass complete to Montgomery,Jam. for 13 yards to the WSU39, 1ST DOWN WSU (Sherman, R)." newcontext="H,1,10,H39">
+    <p_pa vh="H" qb="Lopina,Kevin" result="COMP" rcv="Montgomery,Jam." gain="13"></p_pa>
+    <p_tk vh="V" name="Sherman, R"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU39" context="H,1,10,H39" playid="12,5,114" type="P" first="P" text="Lopina,Kevin pass complete to Blackledge,Dan. for 12 yards to the STANFORD49, 1ST DOWN WSU (Howell, D)." newcontext="H,1,10,V49">
+    <p_pa vh="H" qb="Lopina,Kevin" result="COMP" rcv="Blackledge,Dan." gain="12"></p_pa>
+    <p_tk vh="V" name="Howell, D"></p_tk>
+   </play>
+   <comment text="Play reviewed, call stands."></comment>
+   <play hasball="WSU" down="1" togo="10" spot="STANFORD49" context="H,1,10,V49" playid="12,6,116" type="R" text="Montgomery,Jam. rush for 2 yards to the STANFORD47 (McAndrew, T)." newcontext="H,2,8,V47">
+    <p_ru vh="H" name="Montgomery,Jam." gain="2"></p_ru>
+    <p_tk vh="V" name="McAndrew, T"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="8" spot="STANFORD47" context="H,2,8,V47" playid="12,7,117" type="#" clock="12:11" text="Timeout Washington State, clock 12:11." newcontext="H,2,8,V47">
+    <p_to vh="H" team="Washington State"></p_to>
+   </play>
+   <play hasball="WSU" down="2" togo="8" spot="STANFORD47" context="H,2,8,V47" playid="12,8,118" type="P" first="P" text="Lopina,Kevin pass complete to Karstetter,Jar. for 39 yards to the STANFORD8, 1ST DOWN WSU, out-of-bounds (Sherman, R)." ob="Y" newcontext="H,1,0,V08">
+    <p_pa vh="H" qb="Lopina,Kevin" result="COMP" rcv="Karstetter,Jar." gain="39"></p_pa>
+    <p_tk vh="V" name="Sherman, R"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="STANFORD08" context="H,1,0,V08" playid="12,9,119" type="R" text="Tardy,Dwight rush for 3 yards to the STANFORD5 (Udofia, E)." newcontext="H,2,0,V05">
+    <p_ru vh="H" name="Tardy,Dwight" gain="3"></p_ru>
+    <p_tk vh="V" name="Udofia, E"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="0" spot="STANFORD05" context="H,2,0,V05" playid="12,10,120" type="P" score="Y" clock="11:04" text="Lopina,Kevin pass complete to Karstetter,Jar. for 5 yards to the STANFORD0, TOUCHDOWN, clock 11:04." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Lopina,Kevin" result="COMP" rcv="Karstetter,Jar." gain="5"></p_pa>
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="STANFORD03" context="H,1,0,V03" playid="12,11,121" type="E" text="PENALTY WSU false start (Stormo,Skylar) 5 yards to the STANFORD8." newcontext="H,1,0,V08">
+    <p_pn vh="H" code="FS" type="false start" name="Stormo,Skylar" result="ACCEPT" at="V03" yards="5"></p_pn>
+   </play>
+   <play hasball="WSU" down="1" togo="0" spot="STANFORD08" context="H,1,0,V08" playid="12,12,122" type="X" score="Y" text="Grasu,Nico kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Grasu,Nico" qb="Grasu,Nico" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="22" H="10"></score>
+   <drivesum plays="8" yards="80" top="3:56" driveindex="12" complete="Y"></drivesum>
+   <play hasball="WSU" down="1" togo="0" spot="WSU30" context="H,1,0,H30" playid="12,13,123" type="K" score="Y" clock="10:52" text="Rooney,Patrick kickoff 55 yards to the STANFORD15, Owusu, C return 85 yards to the WSU0, TOUCHDOWN, clock 10:52." newcontext="V,1,0,H03">
+    <p_ko vh="H" name="rooney,Patrick" gain="55"></p_ko>
+    <p_kr vh="V" name="Owusu, C" gain="85"></p_kr>
+   </play>
+   <drivestart poss="V,H03,10:52" vh="V" spot="H03" clock="10:52" driveindex="13,123"></drivestart>
+   <play hasball="STANFORD" down="1" togo="0" spot="WSU03" context="V,1,0,H03" playid="13,1,124" type="X" score="Y" text="Whitaker, N kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Whitaker, N" qb="Whitaker, N" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="29" H="10"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="13" complete="Y"></drivesum>
+   <play hasball="STANFORD" down="1" togo="0" spot="STANFORD30" context="V,1,0,V30" playid="13,2,125" type="K" text="Whitaker, N kickoff 66 yards to the WSU4, Montgomery,Jam. return 35 yards to the WSU39, out-of-bounds (McNally, B)." ob="Y" newcontext="H,1,10,H39">
+    <p_ko vh="V" name="Whitaker, N" gain="66"></p_ko>
+    <p_kr vh="H" name="Montgomery,Jam." gain="35"></p_kr>
+    <p_tk vh="V" name="McNally, B"></p_tk>
+   </play>
+   <drivestart poss="H,H39,10:52" vh="H" spot="H39" clock="10:52" driveindex="14,125"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU39" context="H,1,10,H39" playid="14,1,126" clock="10:41" text="WASHINGTON STATE drive start at 10:41." newcontext="H,1,10,H39">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU39" context="H,1,10,H39" playid="14,2,127" type="P" text="Lopina,Kevin pass complete to Tardy,Dwight for 9 yards to the WSU48 (Howell, D)." newcontext="H,2,1,H48">
+    <p_pa vh="H" qb="Lopina,Kevin" result="COMP" rcv="Tardy,Dwight" gain="9"></p_pa>
+    <p_tk vh="V" name="Howell, D"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="1" spot="WSU48" context="H,2,1,H48" playid="14,3,128" type="R" first="R" text="Tardy,Dwight rush for 7 yards to the STANFORD45, 1ST DOWN WSU (Amajoyi, C)." newcontext="H,1,10,V45">
+    <p_ru vh="H" name="Tardy,Dwight" gain="7"></p_ru>
+    <p_tk vh="V" name="Amajoyi, C"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STANFORD45" context="H,1,10,V45" playid="14,4,129" type="R" text="Tardy,Dwight rush for no gain to the STANFORD45 (Bulke, B)." newcontext="H,2,10,V45">
+    <p_ru vh="H" name="Tardy,Dwight" gain="0"></p_ru>
+    <p_tk vh="V" name="Bulke, B"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="10" spot="STANFORD45" context="H,2,10,V45" playid="14,5,130" type="P" text="Lopina,Kevin pass incomplete to Anderson,Jeshua, QB hurry by Fua, S." newcontext="H,3,10,V45">
+    <p_pa vh="H" qb="Lopina,Kevin" result="INC" rcv="Anderson,Jeshua"></p_pa>
+    <p_qbh vh="V" name="Fua, S"></p_qbh>
+   </play>
+   <play hasball="WSU" down="3" togo="10" spot="STANFORD45" context="H,3,10,V45" playid="14,6,131" type="R" text="Lopina,Kevin rush for 5 yards to the STANFORD40, out-of-bounds (Thomas, C)." ob="Y" newcontext="H,4,5,V40">
+    <p_ru vh="H" name="Lopina,Kevin" gain="5"></p_ru>
+    <p_tk vh="V" name="Thomas, C"></p_tk>
+   </play>
+   <play hasball="WSU" down="4" togo="5" spot="STANFORD40" context="H,4,5,V40" playid="14,7,132" type="U" text="Forrest,Reid punt 40 yards to the STANFORD0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Forrest,Reid" gain="40" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="21" top="1:50" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,V20,10:41" vh="V" spot="V20" clock="10:41" driveindex="15,132"></drivestart>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD20" context="V,1,10,V20" playid="15,1,133" clock="08:51" text="STANFORD drive start at 08:51." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD20" context="V,1,10,V20" playid="15,2,134" type="R" first="R" text="Gerhart, T rush for 15 yards to the STANFORD35, 1ST DOWN STANFORD, out-of-bounds (Nwachukwu,Chima)." ob="Y" newcontext="V,1,10,V35">
+    <p_ru vh="V" name="Gerhart, T" gain="15"></p_ru>
+    <p_tk vh="H" name="Nwachukwu,Chima"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD35" context="V,1,10,V35" playid="15,3,135" type="P" first="P" text="Luck, A pass complete to Owusu, C for 21 yards to the WSU44, fumble forced by Jones,Brandon, fumble by Owusu, C recovered by STANFORD TEAM at WSU44, 1ST DOWN STANFORD, out-of-bounds (Jones,Brandon)." ob="Y" newcontext="V,1,10,H44">
+    <p_pa vh="V" qb="Luck, A" result="COMP" rcv="Owusu, C" gain="21"></p_pa>
+    <p_fumb vh="V" name="Owusu, C" at="H44" frvh="V" frname="TEAM"></p_fumb>
+    <p_tk vh="H" name="Jones,Brandon" ff="Y"></p_tk>
+    <p_tk vh="H" name="Jones,Brandon"></p_tk>
+   </play>
+   <comment text="WSU challenge on play, play stands."></comment>
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU44" context="V,1,10,H44" playid="15,4,137" type="R" text="Gerhart, T rush for 1 yard to the WSU43 (Mattingly,Andy)." newcontext="V,2,9,H43">
+    <p_ru vh="V" name="Gerhart, T" gain="1"></p_ru>
+    <p_tk vh="H" name="Mattingly,Andy"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="9" spot="WSU43" context="V,2,9,H43" playid="15,5,138" type="P" text="Luck, A pass incomplete to Owusu, C." newcontext="V,3,9,H43">
+    <p_pa vh="V" qb="Luck, A" result="INC" rcv="Owusu, C"></p_pa>
+   </play>
+   <play hasball="STANFORD" down="3" togo="9" spot="WSU43" context="V,3,9,H43" playid="15,6,139" type="E" text="Luck, A pass complete to Baldwin, D for 33 yards to the WSU10 (Jones,Brandon), PENALTY STANFORD personal foul (Marinelli, C) 15 yards to the STANFORD42, NO PLAY." newcontext="V,3,24,V42">
+    <p_pn vh="V" code="PF" type="personal foul" name="Marinelli, C" result="ACCEPT" at="H43" yards="15"></p_pn>
+   </play>
+   <play hasball="STANFORD" down="3" togo="24" spot="STANFORD42" context="V,3,24,V42" playid="15,7,140" type="P" text="Luck, A pass incomplete to Owusu, C (Block,Eric)." newcontext="V,4,24,V42">
+    <p_pa vh="V" qb="Luck, A" result="INC" rcv="Owusu, C"></p_pa>
+    <p_bu vh="H" name="Block,Eric"></p_bu>
+   </play>
+   <play hasball="STANFORD" down="4" togo="24" spot="STANFORD42" context="V,4,24,V42" playid="15,8,141" type="U" text="Green, D punt 46 yards to the WSU12, fair catch by Jones,Brandon." newcontext="H,1,10,H12">
+    <p_pu vh="V" name="Green, D" gain="46" in20="Y" fc="Jones,Brandon"></p_pu>
+   </play>
+   <drivesum plays="5" yards="22" top="2:03" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H12,08:51" vh="H" spot="H12" clock="08:51" driveindex="16,141"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU12" context="H,1,10,H12" playid="16,1,142" clock="06:48" text="WASHINGTON STATE drive start at 06:48." newcontext="H,1,10,H12">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU12" context="H,1,10,H12" playid="16,2,143" text="WSU ball on WSU13." newcontext="H,1,10,H13">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU13" context="H,1,10,H13" playid="16,3,144" type="R" text="Montgomery,Jam. rush for 3 yards to the WSU16 (Snyder, C)." newcontext="H,2,7,H16">
+    <p_ru vh="H" name="Montgomery,Jam." gain="3"></p_ru>
+    <p_tk vh="V" name="Snyder, C"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="7" spot="WSU16" context="H,2,7,H16" playid="16,4,145" type="E" first="E" text="Lopina,Kevin sacked for loss of 8 yards to the WSU8 (Thomas, C), PENALTY STANFORD personal foul (Gatewood, C) 15 yards to the WSU31, 1ST DOWN WSU, NO PLAY." newcontext="H,1,10,H31">
+    <p_pn vh="V" code="PF" type="personal foul" name="Gatewood, C" result="ACCEPT" at="H16" yards="15"></p_pn>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU31" context="H,1,10,H31" playid="16,5,146" type="P" first="P" text="Solomon,Jeff. pass complete to Karstetter,Jar. for 47 yards to the STANFORD22, 1ST DOWN WSU (Sherman, R)." newcontext="H,1,10,V22">
+    <p_pa vh="H" qb="Solomon,Jeff." result="COMP" rcv="Karstetter,Jar." gain="47"></p_pa>
+    <p_tk vh="V" name="Sherman, R"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STANFORD22" context="H,1,10,V22" playid="16,6,147" type="R" text="Tardy,Dwight rush for 4 yards to the STANFORD18 (Snyder, C)." newcontext="H,2,6,V18">
+    <p_ru vh="H" name="Tardy,Dwight" gain="4"></p_ru>
+    <p_tk vh="V" name="Snyder, C"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="6" spot="STANFORD18" context="H,2,6,V18" playid="16,7,148" type="R" text="Montgomery,Jam. rush for no gain to the STANFORD18 (Fua, S)." newcontext="H,3,6,V18">
+    <p_ru vh="H" name="Montgomery,Jam." gain="0"></p_ru>
+    <p_tk vh="V" name="Fua, S"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="6" spot="STANFORD18" context="H,3,6,V18" playid="16,8,149" type="P" text="Solomon,Jeff. pass incomplete to Montgomery,Jam.." newcontext="H,4,6,V18">
+    <p_pa vh="H" qb="Solomon,Jeff." result="INC" rcv="Montgomery,Jam."></p_pa>
+   </play>
+   <play hasball="WSU" down="4" togo="6" spot="STANFORD18" context="H,4,6,V18" playid="16,9,150" type="F" score="Y" clock="03:49" text="Grasu,Nico field goal attempt from 35 GOOD, clock 03:49." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Grasu,Nico" distance="35" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="29" H="13"></score>
+   <drivesum plays="6" yards="69" top="2:59" driveindex="16" complete="Y"></drivesum>
+   <play hasball="WSU" down="1" togo="0" spot="WSU30" context="H,1,0,H30" playid="16,10,151" type="K" text="Rooney,Patrick kickoff 45 yards to the STANFORD25, out-of-bounds, STANFORD ball on STANFORD40." ob="Y" newcontext="V,1,10,V40">
+    <p_ko vh="H" name="rooney,Patrick" gain="45" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V40,03:49" vh="V" spot="V40" clock="03:49" driveindex="17,151"></drivestart>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD40" context="V,1,10,V40" playid="17,1,152" clock="03:49" text="STANFORD drive start at 03:49." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD40" context="V,1,10,V40" playid="17,2,153" type="R" text="Gerhart, T rush for 3 yards to the STANFORD43 (Bland,Louis)." newcontext="V,2,7,V43">
+    <p_ru vh="V" name="Gerhart, T" gain="3"></p_ru>
+    <p_tk vh="H" name="Bland,Louis"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="7" spot="STANFORD43" context="V,2,7,V43" playid="17,3,154" type="P" text="Luck, A pass incomplete to Dray, J, QB hurry by Stripling,Jason." newcontext="V,3,7,V43">
+    <p_pa vh="V" qb="Luck, A" result="INC" rcv="Dray, J"></p_pa>
+    <p_qbh vh="H" name="Stripling,Jason"></p_qbh>
+   </play>
+   <play hasball="STANFORD" down="3" togo="7" spot="STANFORD43" context="V,3,7,V43" playid="17,4,155" type="P" first="P" text="Luck, A pass complete to Whalen, R for 12 yards to the WSU45, 1ST DOWN STANFORD, out-of-bounds (Nwachukwu,Chima)." ob="Y" newcontext="V,1,10,H45">
+    <p_pa vh="V" qb="Luck, A" result="COMP" rcv="Whalen, R" gain="12"></p_pa>
+    <p_tk vh="H" name="Nwachukwu,Chima"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU45" context="V,1,10,H45" playid="17,5,156" type="R" text="Gerhart, T rush for loss of 2 yards to the WSU47 (Bland,Louis)." newcontext="V,2,12,H47">
+    <p_ru vh="V" name="Gerhart, T" gain="-2"></p_ru>
+    <p_tk vh="H" name="Bland,Louis" tfl="Y"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="12" spot="WSU47" context="V,2,12,H47" playid="17,6,157" type="#" clock="02:03" text="Timeout STANFORD, clock 02:03." newcontext="V,2,12,H47">
+    <p_to vh="V" team="STANFORD"></p_to>
+   </play>
+   <play hasball="STANFORD" down="2" togo="12" spot="WSU47" context="V,2,12,H47" playid="17,7,158" type="R" text="Gerhart, T rush for 2 yards to the WSU45 (Turpin,Toby)." newcontext="V,3,10,H45">
+    <p_ru vh="V" name="Gerhart, T" gain="2"></p_ru>
+    <p_tk vh="H" name="Turpin,Toby"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="3" togo="10" spot="WSU45" context="V,3,10,H45" playid="17,8,159" type="P" text="Luck, A pass complete to Whalen, G for 7 yards to the WSU38, out-of-bounds (McCartney,Kyle)." ob="Y" newcontext="V,4,3,H38">
+    <p_pa vh="V" qb="Luck, A" result="COMP" rcv="Whalen, G" gain="7"></p_pa>
+    <p_tk vh="H" name="McCartney,Kyle"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="4" togo="3" spot="WSU38" context="V,4,3,H38" playid="17,9,160" type="P" first="P" text="Luck, A pass complete to Whalen, R for 25 yards to the WSU13, 1ST DOWN STANFORD (Hicks,Xavier)." newcontext="V,1,10,H13">
+    <p_pa vh="V" qb="Luck, A" result="COMP" rcv="Whalen, R" gain="25"></p_pa>
+    <p_tk vh="H" name="Hicks,Xavier"></p_tk>
+   </play>
+   <score qtr="3" V="29" H="13"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="STANFORD">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="2" yds="30"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:04"></misc>
+    <rush att="5" yds="19" gain="21" loss="2" td="0" long="0"></rush>
+    <pass comp="4" att="7" int="0" yds="65" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="65" td="0" long="0"></rcv>
+    <punt no="1" yds="46" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="46.0"></punt>
+    <ko no="2" yds="136" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="16" tacka="0" tot_tack="16" sacks="1" sackyds="2" qbh="1"></defense>
+    <kr no="1" yds="85" td="1" long="51"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WSU">
+    <firstdowns no="6" rush="1" pass="4" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:56"></misc>
+    <rush att="10" yds="30" gain="30" loss="0" td="0" long="0"></rush>
+    <pass comp="6" att="8" int="0" yds="125" td="1" long="26" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="125" td="1" long="26"></rcv>
+    <punt no="1" yds="40" long="0" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="40.0"></punt>
+    <ko no="2" yds="100" ob="1" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="0" tot_tack="10" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="1" qbh="1" ff="1"></defense>
+    <kr no="1" yds="35" td="0" long="16"></kr>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU13" context="V,1,10,H13" playid="17,10,161" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,1,10,H13">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU13" context="V,1,10,H13" playid="17,11,162" type="R" text="Gerhart, T rush for no gain to the WSU13 (Turpin,Toby)." newcontext="V,2,10,H13">
+    <p_ru vh="V" name="Gerhart, T" gain="0"></p_ru>
+    <p_tk vh="H" name="Turpin,Toby"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="10" spot="WSU13" context="V,2,10,H13" playid="17,12,163" type="P" text="Luck, A pass incomplete to Fleener, C." newcontext="V,3,10,H13">
+    <p_pa vh="V" qb="Luck, A" result="INC" rcv="Fleener, C"></p_pa>
+   </play>
+   <play hasball="STANFORD" down="3" togo="10" spot="WSU13" context="V,3,10,H13" playid="17,13,164" type="P" text="Luck, A pass incomplete to Gerhart, T." newcontext="V,4,10,H13">
+    <p_pa vh="V" qb="Luck, A" result="INC" rcv="Gerhart, T"></p_pa>
+   </play>
+   <play hasball="STANFORD" down="4" togo="10" spot="WSU13" context="V,4,10,H13" playid="17,14,165" type="F" score="Y" clock="14:06" text="Whitaker, N field goal attempt from 30 GOOD, clock 14:06." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Whitaker, N" distance="30" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="32" H="13"></score>
+   <drivesum plays="11" yards="47" top="4:43" driveindex="17" complete="Y"></drivesum>
+   <play hasball="STANFORD" down="1" togo="0" spot="STANFORD30" context="V,1,0,V30" playid="17,15,166" type="K" text="Whitaker, N kickoff 70 yards to the WSU0, Montgomery,Jam. return 38 yards to the WSU38 (Stewart, J)." newcontext="H,1,10,H38">
+    <p_ko vh="V" name="Whitaker, N" gain="70"></p_ko>
+    <p_kr vh="H" name="Montgomery,Jam." gain="38"></p_kr>
+    <p_tk vh="V" name="Stewart, J"></p_tk>
+   </play>
+   <drivestart poss="H,H38,14:06" vh="H" spot="H38" clock="14:06" driveindex="18,166"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU38" context="H,1,10,H38" playid="18,1,167" clock="13:57" text="WASHINGTON STATE drive start at 13:57." newcontext="H,1,10,H38">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU38" context="H,1,10,H38" playid="18,2,168" type="P" first="P" text="Lobbestael,Mar. pass complete to Blackledge,Dan. for 20 yards to the STANFORD42, 1ST DOWN WSU, out-of-bounds (Snyder, C)." ob="Y" newcontext="H,1,10,V42">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="COMP" rcv="Blackledge,Dan." gain="20"></p_pa>
+    <p_tk vh="V" name="Snyder, C"></p_tk>
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="STANFORD42" context="H,1,10,V42" playid="18,3,169" type="P" text="Lobbestael,Mar. pass complete to Blackledge,Dan. for 7 yards to the STANFORD35 (Bergen, M)." newcontext="H,2,3,V35">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="COMP" rcv="Blackledge,Dan." gain="7"></p_pa>
+    <p_tk vh="V" name="Bergen, M"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="3" spot="STANFORD35" context="H,2,3,V35" playid="18,4,170" type="R" text="Tardy,Dwight rush for loss of 1 yard to the STANFORD36 (Keiser, T)." newcontext="H,3,4,V36">
+    <p_ru vh="H" name="Tardy,Dwight" gain="-1"></p_ru>
+    <p_tk vh="V" name="Keiser, T" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="3" togo="4" spot="STANFORD36" context="H,3,4,V36" playid="18,5,171" type="P" text="Lobbestael,Mar. pass incomplete to Solomon,Jeff.." newcontext="H,4,4,V36">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="INC" rcv="Solomon,Jeff."></p_pa>
+   </play>
+   <play hasball="WSU" down="4" togo="4" spot="STANFORD36" context="H,4,4,V36" playid="18,6,172" type="#" clock="12:21" text="Timeout Washington State, clock 12:21." newcontext="H,4,4,V36">
+    <p_to vh="H" team="Washington State"></p_to>
+   </play>
+   <play hasball="WSU" down="4" togo="4" spot="STANFORD36" context="H,4,4,V36" playid="18,7,173" type="P" text="Lobbestael,Mar. pass complete to Tardy,Dwight for 2 yards to the STANFORD34 (Gatewood, C), QB hurry by Lorig, E." newcontext="V,1,10,V34">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="COMP" rcv="Tardy,Dwight" gain="2"></p_pa>
+    <p_tk vh="V" name="Gatewood, C"></p_tk>
+    <p_qbh vh="V" name="Lorig, E"></p_qbh>
+   </play>
+   <drivesum plays="5" yards="28" top="1:43" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="V,V34,12:21" vh="V" spot="V34" clock="12:21" driveindex="19,173"></drivestart>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD34" context="V,1,10,V34" playid="19,1,174" clock="12:14" text="STANFORD drive start at 12:14." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD34" context="V,1,10,V34" playid="19,2,175" type="R" text="Gerhart, T rush for 5 yards to the STANFORD39 (Hoffman-Ellis,A)." newcontext="V,2,5,V39">
+    <p_ru vh="V" name="Gerhart, T" gain="5"></p_ru>
+    <p_tk vh="H" name="Hoffman-Ellis,A"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="5" spot="STANFORD39" context="V,2,5,V39" playid="19,3,176" type="E" text="Gerhart, T rush for 14 yards to the WSU47 (Hicks,Xavier), PENALTY STANFORD illegal block (Beeler, C) 15 yards to the STANFORD24, NO PLAY." newcontext="V,2,20,V24">
+    <p_pn vh="V" code="BL" type="illegal block" name="Beeler, C" result="ACCEPT" at="V39" yards="15"></p_pn>
+   </play>
+   <play hasball="STANFORD" down="2" togo="20" spot="STANFORD24" context="V,2,20,V24" playid="19,4,177" type="R" text="Stewart, J rush for 6 yards to the STANFORD30 (Daniels,LeAndre)." newcontext="V,3,14,V30">
+    <p_ru vh="V" name="Stewart, J" gain="6"></p_ru>
+    <p_tk vh="H" name="Daniels,LeAndre"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="3" togo="14" spot="STANFORD30" context="V,3,14,V30" playid="19,5,178" type="P" text="Luck, A sacked for loss of 1 yard to the STANFORD29 (Kooyman,Kevin), fumble by Luck, A recovered by STANFORD DeCastro, D at STANFORD29." newcontext="V,4,15,V29">
+    <p_pa vh="V" qb="Luck, A" result="FUMB" gain="-1"></p_pa>
+    <p_fumb vh="V" name="Luck, A" at="V29" frvh="V" frname="DeCastro, D"></p_fumb>
+    <p_tk vh="H" name="Kooyman,Kevin" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="4" togo="15" spot="STANFORD29" context="V,4,15,V29" playid="19,6,179" type="U" text="Green, D punt 40 yards to the WSU31, downed." newcontext="H,1,10,H31">
+    <p_pu vh="V" name="Green, D" gain="40"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-5" top="2:50" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,H31,12:14" vh="H" spot="H31" clock="12:14" driveindex="20,179"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU31" context="H,1,10,H31" playid="20,1,180" clock="09:24" text="WASHINGTON STATE drive start at 09:24." newcontext="H,1,10,H31">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU31" context="H,1,10,H31" playid="20,2,181" text="WSU ball on WSU32." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU32" context="H,1,10,H32" playid="20,3,182" type="P" text="Lobbestael,Mar. sacked for loss of 8 yards to the WSU24 (Thomas, C)." newcontext="H,2,18,H24">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="SACK" gain="-8"></p_pa>
+    <p_tk vh="V" name="Thomas, C" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="18" spot="WSU24" context="H,2,18,H24" playid="20,4,183" type="P" text="Lobbestael,Mar. pass incomplete, PENALTY WSU intentional grounding (Lobbestael,Mar.) 2 yards to the WSU22." newcontext="H,3,20,H22">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="INC"></p_pa>
+    <p_pn vh="H" code="IG" type="intentional grounding" name="Lobbestael,Mar." result="ACCEPT" at="H24" yards="2"></p_pn>
+   </play>
+   <play hasball="WSU" down="3" togo="20" spot="WSU22" context="H,3,20,H22" playid="20,5,184" text="3rd and 20." newcontext="H,3,20,H22">
+   </play>
+   <play hasball="WSU" down="3" togo="20" spot="WSU22" context="H,3,20,H22" playid="20,6,185" type="P" text="Lobbestael,Mar. sacked for no gain to the WSU22 (Lorig, E), PENALTY WSU intentional grounding (Lobbestael,Mar.) 0 yards to the WSU22." newcontext="H,4,20,H22">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="SACK" gain="0"></p_pa>
+    <p_tk vh="V" name="Lorig, E" sack="Y"></p_tk>
+    <p_pn vh="H" code="IG" type="intentional grounding" name="Lobbestael,Mar." result="ACCEPT"></p_pn>
+   </play>
+   <play hasball="WSU" down="4" togo="20" spot="WSU22" context="H,4,20,H22" playid="20,7,186" type="U" text="Forrest,Reid punt 64 yards to the STANFORD14, out-of-bounds." ob="Y" newcontext="V,1,10,V14">
+    <p_pu vh="H" name="Forrest,Reid" gain="64" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-10" top="0:50" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,V14,09:24" vh="V" spot="V14" clock="09:24" driveindex="21,186"></drivestart>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD14" context="V,1,10,V14" playid="21,1,187" clock="08:34" text="STANFORD drive start at 08:34." newcontext="V,1,10,V14">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD14" context="V,1,10,V14" playid="21,2,188" type="R" text="Gerhart, T rush for no gain to the STANFORD14 (Bland,Louis)." newcontext="V,2,10,V14">
+    <p_ru vh="V" name="Gerhart, T" gain="0"></p_ru>
+    <p_tk vh="H" name="Bland,Louis"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="10" spot="STANFORD14" context="V,2,10,V14" playid="21,3,189" text="2nd and 10." newcontext="V,2,10,V14">
+   </play>
+   <play hasball="STANFORD" down="2" togo="10" spot="STANFORD14" context="V,2,10,V14" playid="21,4,190" type="R" text="Luck, A rush for 9 yards to the STANFORD23, out-of-bounds (Stripling,Jason)." ob="Y" newcontext="V,3,1,V23">
+    <p_ru vh="V" name="Luck, A" gain="9"></p_ru>
+    <p_tk vh="H" name="Stripling,Jason"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="3" togo="1" spot="STANFORD23" context="V,3,1,V23" playid="21,5,191" type="R" first="R" text="Stewart, J rush for 30 yards to the WSU47, 1ST DOWN STANFORD (Daniels,LeAndre)." newcontext="V,1,10,H47">
+    <p_ru vh="V" name="Stewart, J" gain="30"></p_ru>
+    <p_tk vh="H" name="Daniels,LeAndre"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU47" context="V,1,10,H47" playid="21,6,192" type="R" text="Gerhart, T rush for loss of 4 yards to the STANFORD49 (Hicks,Xavier)." newcontext="V,2,14,V49">
+    <p_ru vh="V" name="Gerhart, T" gain="-4"></p_ru>
+    <p_tk vh="H" name="Hicks,Xavier" tfl="Y"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="14" spot="STANFORD49" context="V,2,14,V49" playid="21,7,193" type="P" text="Luck, A pass incomplete to Whalen, R (Simmons,Daniel)." newcontext="V,3,14,V49">
+    <p_pa vh="V" qb="Luck, A" result="INC" rcv="Whalen, R"></p_pa>
+    <p_bu vh="H" name="Simmons,Daniel"></p_bu>
+   </play>
+   <play hasball="STANFORD" down="3" togo="14" spot="STANFORD49" context="V,3,14,V49" playid="21,8,194" type="P" text="Luck, A pass complete to Fleener, C for 12 yards to the WSU39 (Stripling,Jason)." newcontext="V,4,2,H39">
+    <p_pa vh="V" qb="Luck, A" result="COMP" rcv="Fleener, C" gain="12"></p_pa>
+    <p_tk vh="H" name="Stripling,Jason"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="4" togo="2" spot="WSU39" context="V,4,2,H39" playid="21,9,195" type="#" clock="05:31" text="Timeout STANFORD, clock 05:31." newcontext="V,4,2,H39">
+    <p_to vh="V" team="STANFORD"></p_to>
+   </play>
+   <play hasball="STANFORD" down="4" togo="2" spot="WSU39" context="V,4,2,H39" playid="21,10,196" type="R" first="R" score="Y" clock="05:21" text="Gerhart, T rush for 39 yards to the WSU0, 1ST DOWN STANFORD, TOUCHDOWN, clock 05:21." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Gerhart, T" gain="39"></p_ru>
+   </play>
+   <play hasball="STANFORD" down="1" togo="0" spot="WSU03" context="V,1,0,H03" playid="21,11,197" type="X" score="Y" text="Whitaker, N kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Whitaker, N" qb="Whitaker, N" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="39" H="13"></score>
+   <drivesum plays="7" yards="86" top="3:13" driveindex="21" complete="Y"></drivesum>
+   <play hasball="STANFORD" down="1" togo="0" spot="STANFORD30" context="V,1,0,V30" playid="21,12,198" type="K" text="Whitaker, N kickoff 66 yards to the WSU4, Montgomery,Jam. return 17 yards to the WSU21 (Evans, K)." newcontext="H,1,10,H21">
+    <p_ko vh="V" name="Whitaker, N" gain="66"></p_ko>
+    <p_kr vh="H" name="Montgomery,Jam." gain="17"></p_kr>
+    <p_tk vh="V" name="Evans, K"></p_tk>
+   </play>
+   <drivestart poss="H,H21,05:21" vh="H" spot="H21" clock="05:21" driveindex="22,198"></drivestart>
+   <play hasball="WSU" down="1" togo="10" spot="WSU21" context="H,1,10,H21" playid="22,1,199" clock="05:16" text="WASHINGTON STATE drive start at 05:16." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="WSU" down="1" togo="10" spot="WSU21" context="H,1,10,H21" playid="22,2,200" type="P" text="Lobbestael,Mar. pass complete to Tardy,Dwight for 2 yards to the WSU23 (Gatewood, C)." newcontext="H,2,8,H23">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="COMP" rcv="Tardy,Dwight" gain="2"></p_pa>
+    <p_tk vh="V" name="Gatewood, C"></p_tk>
+   </play>
+   <play hasball="WSU" down="2" togo="8" spot="WSU23" context="H,2,8,H23" playid="22,3,201" type="P" text="Lobbestael,Mar. pass incomplete to Blackledge,Dan.." newcontext="H,3,8,H23">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="INC" rcv="Blackledge,Dan."></p_pa>
+   </play>
+   <play hasball="WSU" down="3" togo="8" spot="WSU23" context="H,3,8,H23" playid="22,4,202" type="P" text="Lobbestael,Mar. pass complete to Blackledge,Dan. for 5 yards to the WSU28 (Bergen, M)." newcontext="H,4,3,H28">
+    <p_pa vh="H" qb="Lobbestael,Mar." result="COMP" rcv="Blackledge,Dan." gain="5"></p_pa>
+    <p_tk vh="V" name="Bergen, M"></p_tk>
+   </play>
+   <play hasball="WSU" down="4" togo="3" spot="WSU28" context="H,4,3,H28" playid="22,5,203" type="U" text="Forrest,Reid punt 51 yards to the STANFORD21, Baldwin, D return -1 yards to the STANFORD20 (Jones,Brandon)." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Forrest,Reid" gain="51"></p_pu>
+    <p_pr vh="V" name="Baldwin, D" gain="-1"></p_pr>
+    <p_tk vh="H" name="Jones,Brandon"></p_tk>
+   </play>
+   <drivesum plays="3" yards="7" top="1:06" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V20,05:16" vh="V" spot="V20" clock="05:16" driveindex="23,203"></drivestart>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD20" context="V,1,10,V20" playid="23,1,204" clock="04:10" text="STANFORD drive start at 04:10." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD20" context="V,1,10,V20" playid="23,2,205" type="R" text="Taylor, S rush for 5 yards to the STANFORD25 (Wolfgramm,Bern.)." newcontext="V,2,5,V25">
+    <p_ru vh="V" name="Taylor, S" gain="5"></p_ru>
+    <p_tk vh="H" name="Wolfgramm,Bern."></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="5" spot="STANFORD25" context="V,2,5,V25" playid="23,3,206" type="R" first="R" text="Taylor, S rush for 7 yards to the STANFORD32, 1ST DOWN STANFORD, out-of-bounds (Nwachukwu,Chima)." ob="Y" newcontext="V,1,10,V32">
+    <p_ru vh="V" name="Taylor, S" gain="7"></p_ru>
+    <p_tk vh="H" name="Nwachukwu,Chima"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD32" context="V,1,10,V32" playid="23,4,207" type="R" text="Taylor, S rush for 8 yards to the STANFORD40 (Justin,Aire)." newcontext="V,2,2,V40">
+    <p_ru vh="V" name="Taylor, S" gain="8"></p_ru>
+    <p_tk vh="H" name="Justin,Aire"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="2" spot="STANFORD40" context="V,2,2,V40" playid="23,5,208" type="R" first="R" text="Gaffney, T rush for 5 yards to the STANFORD45, 1ST DOWN STANFORD (Justin,Aire)." newcontext="V,1,10,V45">
+    <p_ru vh="V" name="Gaffney, T" gain="5"></p_ru>
+    <p_tk vh="H" name="Justin,Aire"></p_tk>
+   </play>
+   <comment text="Stanford's Tavita Pritchard in at QB."></comment>
+   <play hasball="STANFORD" down="1" togo="10" spot="STANFORD45" context="V,1,10,V45" playid="23,6,210" type="R" first="R" text="Pritchard, T rush for 20 yards to the WSU35, 1ST DOWN STANFORD (Justin,Aire), PENALTY STANFORD holding (Baldwin, D) 10 yards to the WSU45." newcontext="V,1,20,H45">
+    <p_ru vh="V" name="Pritchard, T" gain="20"></p_ru>
+    <p_tk vh="H" name="Justin,Aire"></p_tk>
+    <p_pn vh="V" code="HO" type="holding" name="Baldwin, D" result="ACCEPT" at="H35" yards="10"></p_pn>
+   </play>
+   <play hasball="STANFORD" down="1" togo="20" spot="WSU45" context="V,1,20,H45" playid="23,7,211" text="1st and 10." newcontext="V,1,10,H45">
+   </play>
+   <play hasball="STANFORD" down="1" togo="10" spot="WSU45" context="V,1,10,H45" playid="23,8,212" type="R" text="Gaffney, T rush for 3 yards to the WSU42 (Beck,Myron)." newcontext="V,2,7,H42">
+    <p_ru vh="V" name="Gaffney, T" gain="3"></p_ru>
+    <p_tk vh="H" name="Beck,Myron"></p_tk>
+   </play>
+   <play hasball="STANFORD" down="2" togo="7" spot="WSU42" context="V,2,7,H42" playid="23,9,213" type="R" text="TEAM rush for loss of 1 yard to the WSU43." newcontext="V,3,8,H43">
+    <p_ru vh="V" name="TEAM" gain="-1"></p_ru>
+   </play>
+   <play hasball="STANFORD" down="3" togo="8" spot="WSU43" context="V,3,8,H43" playid="23,10,214" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="V,3,8,H43">
+   </play>
+   <drivesum plays="7" yards="37" top="4:10" driveindex="23" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Stanford defeats Washington State by a score of 39 to 13."></play>
+   <score final="Y" V="39" H="13"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="STANFORD">
+    <firstdowns no="5" rush="5" pass="0" penalty="0"></firstdowns>
+    <penalties no="2" yds="25"></penalties>
+    <conversions thirdconv="2" thirdatt="6" fourthconv="2" fourthatt="2"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="11:07"></misc>
+    <rush att="16" yds="131" gain="137" loss="6" td="1" long="8"></rush>
+    <pass comp="1" att="4" int="0" yds="12" td="0" long="0" sacks="1" sackyds="1"></pass>
+    <rcv no="1" yds="12" td="0" long="0"></rcv>
+    <punt no="1" yds="40" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="40.0"></punt>
+    <ko no="2" yds="136" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="30" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="0" tot_tack="10" tflua="2" tfla="0" tflyds="9" sacks="3" sackyds="10" qbh="1"></defense>
+    <pr no="1" yds="-1" td="0" long="0"></pr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WSU">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="2"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="03:53"></misc>
+    <rush att="3" yds="-9" gain="0" loss="9" td="0" long="0"></rush>
+    <pass comp="5" att="8" int="0" yds="36" td="0" long="0" sacks="2" sackyds="8"></pass>
+    <rcv no="5" yds="36" td="0" long="0"></rcv>
+    <punt no="2" yds="115" long="11" blkd="0" tb="0" fc="0" plus50="2" inside20="1" avg="57.5"></punt>
+    <defense tackua="16" tacka="0" tot_tack="16" tflua="2" tfla="0" tflyds="5" sacks="1" sackyds="1" brup="1" ff="1"></defense>
+    <kr no="2" yds="55" td="0" long="3"></kr>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="STANFORD" down="3" togo="8" spot="WSU43" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="1" htor="1" dtgtext="Game Over" ldtext="Drive started: 04:10, 4th Qtr"></downtogo>
+ </plays>

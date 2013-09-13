@@ -1,0 +1,1048 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="SIU" down="1" togo="10" spot="SIU30" context="V,1,10,V30" playid="0,1,0" text="Southern Illinois Captains - 3, 14, 21 and 76." newcontext="V,1,10,V30">
+   </play>
+   <comment text="Marshall Captains - 16, 20, 85 and 96."></comment>
+   <comment text="Southern Illinois wins toss, will receive and defend south goal."></comment>
+   <play hasball="SIU" down="1" togo="10" spot="SIU30" context="V,1,10,V30" playid="0,2,3" type="#" clock="15:00" text="Clock 15:00." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU30" context="V,1,10,V30" playid="0,3,4" text="MARSHALL ball on MARSHALL30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL30" context="H,1,10,H30" playid="0,4,5" type="K" text="RATANAMORN, Cra kickoff 70 yards to the SIU0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="RATANAMORN, Cra" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,15:00" vh="V" spot="V20" clock="15:00" driveindex="1,5"></drivestart>
+   <play hasball="SIU" down="1" togo="10" spot="SIU20" context="V,1,10,V20" playid="1,1,6" type="R" text="Karim, Deji rush for 4 yards to the SIU24 (CURRY, Vinny)." newcontext="V,2,6,V24">
+    <p_ru vh="V" name="Karim, Deji" gain="4"></p_ru>
+    <p_tk vh="H" name="CURRY, Vinny"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="6" spot="SIU24" context="V,2,6,V24" playid="1,2,7" type="P" text="Dieker, Chris pass complete to Morris, Bryce for 5 yards to the SIU29 (JOHNSON, Delvin;SHAKOOR, Ahmed)." newcontext="V,3,1,V29">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Morris, Bryce" gain="5"></p_pa>
+    <p_tk vh="H" name="JOHNSON, Delvin" assist="Y"></p_tk>
+    <p_tk vh="H" name="SHAKOOR, Ahmed" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="3" togo="1" spot="SIU29" context="V,3,1,V29" playid="1,3,8" type="R" first="R" text="Karim, Deji rush for 2 yards to the SIU31, 1ST DOWN SIU (MCCLELLAN, Albe;BURNS, Brandon)." newcontext="V,1,10,V31">
+    <p_ru vh="V" name="Karim, Deji" gain="2"></p_ru>
+    <p_tk vh="H" name="MCCLELLAN, Albe" assist="Y"></p_tk>
+    <p_tk vh="H" name="BURNS, Brandon" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU31" context="V,1,10,V31" playid="1,4,9" type="R" text="Karim, Deji rush for 2 yards to the SIU33 (HARVEY, Mario;SAUNDERS, John)." newcontext="V,2,8,V33">
+    <p_ru vh="V" name="Karim, Deji" gain="2"></p_ru>
+    <p_tk vh="H" name="HARVEY, Mario" assist="Y"></p_tk>
+    <p_tk vh="H" name="SAUNDERS, John" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="8" spot="SIU33" context="V,2,8,V33" playid="1,5,10" type="P" text="Dieker, Chris pass complete to Goode, John for 2 yards to the SIU35 (HARRIS, Kellen)." newcontext="V,3,6,V35">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Goode, John" gain="2"></p_pa>
+    <p_tk vh="H" name="HARRIS, Kellen"></p_tk>
+   </play>
+   <play hasball="SIU" down="3" togo="6" spot="SIU35" context="V,3,6,V35" playid="1,6,11" type="P" text="Dieker, Chris pass incomplete to Evans, Jeff, QB hurry by HARVEY, Mario." newcontext="V,4,6,V35">
+    <p_pa vh="V" qb="Dieker, Chris" result="INC" rcv="Evans, Jeff"></p_pa>
+    <p_qbh vh="H" name="HARVEY, Mario"></p_qbh>
+   </play>
+   <play hasball="SIU" down="4" togo="6" spot="SIU35" context="V,4,6,V35" playid="1,7,12" type="U" text="Ravanesi, Scott punt 46 yards to the MARSHALL19, fair catch by EVANS, Troy." newcontext="H,1,10,H19">
+    <p_pu vh="V" name="Ravanesi, Scott" gain="46" in20="Y" fc="EVANS, Troy"></p_pu>
+   </play>
+   <drivesum plays="6" yards="15" top="3:18" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,H19,15:00" vh="H" spot="H19" clock="15:00" driveindex="2,12"></drivestart>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL19" context="H,1,10,H19" playid="2,1,13" clock="11:42" text="MARSHALL UNIVERSITY drive start at 11:42." newcontext="H,1,10,H19">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL19" context="H,1,10,H19" playid="2,2,14" type="P" text="ANDERSON, Brian pass complete to SLATE, Cody for 4 yards to the MARSHALL23 (Rodgers, Marty;Williams, B.)." newcontext="H,2,6,H23">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="SLATE, Cody" gain="4"></p_pa>
+    <p_tk vh="V" name="Rodgers, Marty" assist="Y"></p_tk>
+    <p_tk vh="V" name="Williams, B." assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="6" spot="MARSHALL23" context="H,2,6,H23" playid="2,3,15" type="P" first="P" text="ANDERSON, Brian pass complete to WALKER, Chuck for 31 yards to the SIU46, 1ST DOWN MARSHALL, out-of-bounds." ob="Y" newcontext="H,1,10,V46">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WALKER, Chuck" gain="31"></p_pa>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU46" context="H,1,10,V46" playid="2,4,16" type="R" text="EDWARDS-MAYE, T rush for 3 yards to the SIU43 (Adubifa, Dolapo;Patton, Ryan)." newcontext="H,2,7,V43">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="3"></p_ru>
+    <p_tk vh="V" name="Adubifa, Dolapo" assist="Y"></p_tk>
+    <p_tk vh="V" name="Patton, Ryan" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="7" spot="SIU43" context="H,2,7,V43" playid="2,5,17" type="P" text="ANDERSON, Brian pass incomplete to EDMONSON, Court (Lindsey, Korey)." newcontext="H,3,7,V43">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="INC" rcv="EDMONSON, Court"></p_pa>
+    <p_bu vh="V" name="Lindsey, Korey"></p_bu>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="7" spot="SIU43" context="H,3,7,V43" playid="2,6,18" type="P" turnover="I" text="ANDERSON, Brian pass intercepted by Lindsey, Korey at the SIU34, Lindsey, Korey return 5 yards to the SIU39 (SLATE, Cody)." newcontext="V,1,10,V39">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="INT"></p_pa>
+    <p_ir vh="V" name="Lindsey, Korey" at="V34" gain="5"></p_ir>
+    <p_tk vh="H" name="SLATE, Cody"></p_tk>
+   </play>
+   <drivesum plays="5" yards="38" top="1:52" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,V39,11:42" vh="V" spot="V39" clock="11:42" driveindex="3,18"></drivestart>
+   <play hasball="SIU" down="1" togo="10" spot="SIU39" context="V,1,10,V39" playid="3,1,19" clock="09:50" text="SOUTHERN ILLINOIS drive start at 09:50." newcontext="V,1,10,V39">
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU39" context="V,1,10,V39" playid="3,2,20" type="R" text="Evans, Jeff rush for 3 yards to the SIU42 (BURNS, Brandon;HALL, Ashton)." newcontext="V,2,7,V42">
+    <p_ru vh="V" name="Evans, Jeff" gain="3"></p_ru>
+    <p_tk vh="H" name="BURNS, Brandon" assist="Y"></p_tk>
+    <p_tk vh="H" name="HALL, Ashton" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="7" spot="SIU42" context="V,2,7,V42" playid="3,3,21" type="#" clock="09:14" text="Timeout Southern Illinois, clock 09:14." newcontext="V,2,7,V42">
+    <p_to vh="V" team="Southern Illinois"></p_to>
+   </play>
+   <play hasball="SIU" down="2" togo="7" spot="SIU42" context="V,2,7,V42" playid="3,4,22" type="R" text="Karim, Deji rush for 4 yards to the SIU46 (CURRY, Vinny;JONES, Johnny)." newcontext="V,3,3,V46">
+    <p_ru vh="V" name="Karim, Deji" gain="4"></p_ru>
+    <p_tk vh="H" name="CURRY, Vinny" assist="Y"></p_tk>
+    <p_tk vh="H" name="JONES, Johnny" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="3" togo="3" spot="SIU46" context="V,3,3,V46" playid="3,5,23" type="P" text="Dieker, Chris pass complete to Allaria, Joe for 2 yards to the SIU48 (HALL, Ashton)." newcontext="V,4,1,V48">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Allaria, Joe" gain="2"></p_pa>
+    <p_tk vh="H" name="HALL, Ashton"></p_tk>
+   </play>
+   <play hasball="SIU" down="4" togo="1" spot="SIU48" context="V,4,1,V48" playid="3,6,24" type="#" clock="07:23" text="Timeout Southern Illinois, clock 07:23." newcontext="V,4,1,V48">
+    <p_to vh="V" team="Southern Illinois"></p_to>
+   </play>
+   <play hasball="SIU" down="4" togo="1" spot="SIU48" context="V,4,1,V48" playid="3,7,25" type="R" first="R" text="Karim, Deji rush for 3 yards to the MARSHALL49, 1ST DOWN SIU (BURNS, Brandon;SAUNDERS, John)." newcontext="V,1,10,H49">
+    <p_ru vh="V" name="Karim, Deji" gain="3"></p_ru>
+    <p_tk vh="H" name="BURNS, Brandon" assist="Y"></p_tk>
+    <p_tk vh="H" name="SAUNDERS, John" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL49" context="V,1,10,H49" playid="3,8,26" type="R" first="R" text="Karim, Deji rush for 11 yards to the MARSHALL38, 1ST DOWN SIU (SAUNDERS, John)." newcontext="V,1,10,H38">
+    <p_ru vh="V" name="Karim, Deji" gain="11"></p_ru>
+    <p_tk vh="H" name="SAUNDERS, John"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL38" context="V,1,10,H38" playid="3,9,27" type="P" text="Dieker, Chris pass complete to Karim, Deji for 7 yards to the MARSHALL31, out-of-bounds." ob="Y" newcontext="V,2,3,H31">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Karim, Deji" gain="7"></p_pa>
+   </play>
+   <play hasball="SIU" down="2" togo="3" spot="MARSHALL31" context="V,2,3,H31" playid="3,10,28" type="R" first="R" text="Karim, Deji rush for 6 yards to the MARSHALL25, 1ST DOWN SIU (HARRIS, Kellen;SHAKOOR, Ahmed)." newcontext="V,1,10,H25">
+    <p_ru vh="V" name="Karim, Deji" gain="6"></p_ru>
+    <p_tk vh="H" name="HARRIS, Kellen" assist="Y"></p_tk>
+    <p_tk vh="H" name="SHAKOOR, Ahmed" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL25" context="V,1,10,H25" playid="3,11,29" type="P" turnover="I" text="Dieker, Chris pass intercepted by HALL, Ashton at the MARSHALL2, HALL, Ashton return 18 yards to the MARSHALL20 (Boemer, Bryan), QB hurry by MCCLELLAN, Albe." newcontext="H,1,10,H20">
+    <p_pa vh="V" qb="Dieker, Chris" result="INT"></p_pa>
+    <p_ir vh="H" name="HALL, Ashton" at="H02" gain="18"></p_ir>
+    <p_tk vh="V" name="Boemer, Bryan"></p_tk>
+    <p_qbh vh="H" name="MCCLELLAN, Albe"></p_qbh>
+   </play>
+   <drivesum plays="8" yards="36" top="4:13" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,H20,07:23" vh="H" spot="H20" clock="07:23" driveindex="4,29"></drivestart>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL20" context="H,1,10,H20" playid="4,1,30" clock="05:37" text="MARSHALL UNIVERSITY drive start at 05:37." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL20" context="H,1,10,H20" playid="4,2,31" type="R" text="EDMONSON, Court rush for 4 yards to the MARSHALL24 (Rodgers, Marty)." newcontext="H,2,6,H24">
+    <p_ru vh="H" name="EDMONSON, Court" gain="4"></p_ru>
+    <p_tk vh="V" name="Rodgers, Marty"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="6" spot="MARSHALL24" context="H,2,6,H24" playid="4,3,32" type="R" first="R" text="EDWARDS-MAYE, T rush for 7 yards to the MARSHALL31, 1ST DOWN MARSHALL (Adubifa, Dolapo;Jordan, Brandin)." newcontext="H,1,10,H31">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="7"></p_ru>
+    <p_tk vh="V" name="Adubifa, Dolapo" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jordan, Brandin" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL31" context="H,1,10,H31" playid="4,4,33" type="P" text="ANDERSON, Brian pass complete to WALKER, Chuck for 2 yards to the MARSHALL33 (Williams, B.)." newcontext="H,2,8,H33">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WALKER, Chuck" gain="2"></p_pa>
+    <p_tk vh="V" name="Williams, B."></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="8" spot="MARSHALL33" context="H,2,8,H33" playid="4,5,34" type="E" text="ANDERSON, Brian pass complete to WALKER, Chuck for 6 yards to the MARSHALL39 (Mixon, Chauncey), PENALTY MARSHALL holding (SCHOFIELD, Chad) 10 yards to the MARSHALL23, NO PLAY." newcontext="H,2,18,H23">
+    <p_pn vh="H" code="HO" type="holding" name="SCHOFIELD, Chad" result="ACCEPT" at="H33" yards="10"></p_pn>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="18" spot="MARSHALL23" context="H,2,18,H23" playid="4,6,35" type="P" turnover="F" text="ANDERSON, Brian pass complete to WALKER, Chuck for 7 yards to the MARSHALL30, fumble forced by Jordan, Brandin, fumble by WALKER, Chuck recovered by SIU Colletti, Tony at MARSHALL31." newcontext="V,1,10,H31">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WALKER, Chuck" gain="7"></p_pa>
+    <p_fumb vh="H" name="WALKER, Chuck" at="H31" frvh="V" frname="Colletti, Tony"></p_fumb>
+    <p_tk vh="V" name="Jordan, Brandin" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="4" yards="11" top="2:22" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="V,H31,05:37" vh="V" spot="H31" clock="05:37" driveindex="5,35"></drivestart>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL31" context="V,1,10,H31" playid="5,1,36" clock="03:15" text="SOUTHERN ILLINOIS drive start at 03:15." newcontext="V,1,10,H31">
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL31" context="V,1,10,H31" playid="5,2,37" type="P" first="P" text="Dieker, Chris pass complete to Kernes, Ryan for 12 yards to the MARSHALL19, 1ST DOWN SIU (SHAKOOR, Ahmed)." newcontext="V,1,10,H19">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Kernes, Ryan" gain="12"></p_pa>
+    <p_tk vh="H" name="SHAKOOR, Ahmed"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL19" context="V,1,10,H19" playid="5,3,38" type="R" text="Karim, Deji rush for loss of 4 yards to the MARSHALL23 (CURRY, Vinny)." newcontext="V,2,14,H23">
+    <p_ru vh="V" name="Karim, Deji" gain="-4"></p_ru>
+    <p_tk vh="H" name="CURRY, Vinny" tfl="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="14" spot="MARSHALL23" context="V,2,14,H23" playid="5,4,39" type="E" text="PENALTY SIU false start (Kernes, Ryan) 5 yards to the MARSHALL28." newcontext="V,2,19,H28">
+    <p_pn vh="V" code="FS" type="false start" name="Kernes, Ryan" result="ACCEPT" at="H23" yards="5"></p_pn>
+   </play>
+   <play hasball="SIU" down="2" togo="19" spot="MARSHALL28" context="V,2,19,H28" playid="5,5,40" type="P" text="Dieker, Chris pass complete to Cheatham, Marc for 18 yards to the MARSHALL10 (SHAKOOR, Ahmed;GALE, Tyson)." newcontext="V,3,1,H10">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Cheatham, Marc" gain="18"></p_pa>
+    <p_tk vh="H" name="SHAKOOR, Ahmed" assist="Y"></p_tk>
+    <p_tk vh="H" name="GALE, Tyson" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="3" togo="1" spot="MARSHALL10" context="V,3,1,H10" playid="5,6,41" type="R" first="R" text="Dieker, Chris rush for 5 yards to the MARSHALL5, 1ST DOWN SIU (CURRY, Vinny)." newcontext="V,1,0,H05">
+    <p_ru vh="V" name="Dieker, Chris" gain="5"></p_ru>
+    <p_tk vh="H" name="CURRY, Vinny"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="0" spot="MARSHALL05" context="V,1,0,H05" playid="5,7,42" type="R" text="Karim, Deji rush for 4 yards to the MARSHALL1 (JANAC, Michael;GALE, Tyson)." newcontext="V,2,0,H01">
+    <p_ru vh="V" name="Karim, Deji" gain="4"></p_ru>
+    <p_tk vh="H" name="JANAC, Michael" assist="Y"></p_tk>
+    <p_tk vh="H" name="GALE, Tyson" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="0" spot="MARSHALL01" context="V,2,0,H01" playid="5,8,43" type="R" score="Y" clock="00:21" text="Dieker, Chris rush for 1 yard to the MARSHALL0, TOUCHDOWN, clock 00:21." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Dieker, Chris" gain="1"></p_ru>
+   </play>
+   <play hasball="SIU" down="1" togo="0" spot="MARSHALL03" context="V,1,0,H03" playid="5,9,44" type="X" score="Y" text="Dougherty, Kyle kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Dougherty, Kyle" qb="Dougherty, Kyle" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="0"></score>
+   <play hasball="SIU" down="1" togo="0" spot="SIU30" context="V,1,0,V30" playid="5,10,45" text="SIU ball on SIU30." newcontext="V,1,0,V30">
+   </play>
+   <drivesum plays="6" yards="31" top="2:54" driveindex="5" complete="Y"></drivesum>
+   <play hasball="SIU" down="1" togo="0" spot="SIU30" context="V,1,0,V30" playid="5,11,46" type="K" text="Dougherty, Kyle kickoff 66 yards to the MARSHALL4, EVANS, Troy return 23 yards to the MARSHALL27 (Littles, Travis)." newcontext="H,1,10,H27">
+    <p_ko vh="V" name="Dougherty, Kyle" gain="66"></p_ko>
+    <p_kr vh="H" name="EVANS, Troy" gain="23"></p_kr>
+    <p_tk vh="V" name="Littles, Travis"></p_tk>
+   </play>
+   <drivestart poss="H,H27,00:21" vh="H" spot="H27" clock="00:21" driveindex="6,46"></drivestart>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL27" context="H,1,10,H27" playid="6,1,47" clock="00:21" text="MARSHALL UNIVERSITY drive start at 00:21." newcontext="H,1,10,H27">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL27" context="H,1,10,H27" playid="6,2,48" type="R" text="WARD, Martin rush for 6 yards to the MARSHALL33 (Mixon, Chauncey;Russo, Kyle)." newcontext="H,2,4,H33">
+    <p_ru vh="H" name="WARD, Martin" gain="6"></p_ru>
+    <p_tk vh="V" name="Mixon, Chauncey" assist="Y"></p_tk>
+    <p_tk vh="V" name="Russo, Kyle" assist="Y"></p_tk>
+   </play>
+   <score qtr="1" V="7" H="0"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SIU">
+    <firstdowns no="6" rush="5" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:25"></misc>
+    <rush att="12" yds="41" gain="45" loss="4" td="1" long="11"></rush>
+    <pass comp="6" att="8" int="1" yds="46" td="0" long="18" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="46" td="0" long="18"></rcv>
+    <punt no="1" yds="46" long="46" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="46.0"></punt>
+    <ko no="1" yds="66" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="5" tacka="8" tot_tack="13" sacks="0" sackyds="0" brup="1" ff="1" fr="1" fryds="0" int="1" intyds="5"></defense>
+    <ir no="1" yds="5" td="0" long="5"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="MARSHALL">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="04:35"></misc>
+    <rush att="4" yds="20" gain="20" loss="0" td="0" long="7"></rush>
+    <pass comp="4" att="6" int="1" yds="45" td="0" long="31" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="45" td="0" long="31"></rcv>
+    <ko no="1" yds="70" ob="0" tb="1"></ko>
+    <defense tackua="8" tacka="18" tot_tack="26" tflua="1" tfla="0" tflyds="4" sacks="0" sackyds="0" qbh="2" int="1" intyds="18"></defense>
+    <kr no="1" yds="23" td="0" long="23"></kr>
+    <ir no="1" yds="18" td="0" long="18"></ir>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="MARSHALL" down="2" togo="4" spot="MARSHALL33" context="H,2,4,H33" playid="6,3,49" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,2,4,H33">
+   </play>
+   <play hasball="MARSHALL" down="2" togo="4" spot="MARSHALL33" context="H,2,4,H33" playid="6,4,50" type="R" first="R" text="WARD, Martin rush for 4 yards to the MARSHALL37, 1ST DOWN MARSHALL (Caldwell, Lance;Colletti, Tony)." newcontext="H,1,10,H37">
+    <p_ru vh="H" name="WARD, Martin" gain="4"></p_ru>
+    <p_tk vh="V" name="Caldwell, Lance" assist="Y"></p_tk>
+    <p_tk vh="V" name="Colletti, Tony" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL37" context="H,1,10,H37" playid="6,5,51" type="P" first="P" text="ANDERSON, Brian pass complete to SLATE, Cody for 23 yards to the SIU40, 1ST DOWN MARSHALL (Caldwell, Lance)." newcontext="H,1,10,V40">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="SLATE, Cody" gain="23"></p_pa>
+    <p_tk vh="V" name="Caldwell, Lance"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU40" context="H,1,10,V40" playid="6,6,52" type="R" text="WARD, Martin rush for 4 yards to the SIU36 (Williams, B.)." newcontext="H,2,6,V36">
+    <p_ru vh="H" name="WARD, Martin" gain="4"></p_ru>
+    <p_tk vh="V" name="Williams, B."></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="6" spot="SIU36" context="H,2,6,V36" playid="6,7,53" type="P" text="ANDERSON, Brian sacked for loss of 4 yards to the SIU40 (Walker, Kyle)." newcontext="H,3,10,V40">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="SACK" gain="-4"></p_pa>
+    <p_tk vh="V" name="Walker, Kyle" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="10" spot="SIU40" context="H,3,10,V40" playid="6,8,54" type="P" text="ANDERSON, Brian pass incomplete to EDMONSON, Court." newcontext="H,4,10,V40">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="INC" rcv="EDMONSON, Court"></p_pa>
+   </play>
+   <play hasball="MARSHALL" down="4" togo="10" spot="SIU40" context="H,4,10,V40" playid="6,9,55" type="U" text="WHITEHEAD, Kase punt 40 yards to the SIU0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="WHITEHEAD, Kase" gain="40" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="33" top="2:42" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="V,V20,15:00" vh="V" spot="V20" clock="15:00" driveindex="7,55"></drivestart>
+   <play hasball="SIU" down="1" togo="10" spot="SIU20" context="V,1,10,V20" playid="7,1,56" clock="12:39" text="SOUTHERN ILLINOIS drive start at 12:39." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU20" context="V,1,10,V20" playid="7,2,57" type="E" text="PENALTY SIU false start (Pickard, David) 5 yards to the SIU15." newcontext="V,1,15,V15">
+    <p_pn vh="V" code="FS" type="false start" name="Pickard, David" result="ACCEPT" at="V20" yards="5"></p_pn>
+   </play>
+   <play hasball="SIU" down="1" togo="15" spot="SIU15" context="V,1,15,V15" playid="7,3,58" type="R" text="Strother, Steve rush for 3 yards to the SIU18 (HALL, Ashton;CURRY, Vinny)." newcontext="V,2,12,V18">
+    <p_ru vh="V" name="Strother, Steve" gain="3"></p_ru>
+    <p_tk vh="H" name="HALL, Ashton" assist="Y"></p_tk>
+    <p_tk vh="H" name="CURRY, Vinny" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="12" spot="SIU18" context="V,2,12,V18" playid="7,4,59" type="P" text="Dieker, Chris pass complete to Morris, Bryce for 10 yards to the SIU28 (SHAKOOR, Ahmed;MCCLELLAN, Albe)." newcontext="V,3,2,V28">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Morris, Bryce" gain="10"></p_pa>
+    <p_tk vh="H" name="SHAKOOR, Ahmed" assist="Y"></p_tk>
+    <p_tk vh="H" name="MCCLELLAN, Albe" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="3" togo="2" spot="SIU28" context="V,3,2,V28" playid="7,5,60" type="P" first="P" text="Dieker, Chris pass complete to Morris, Bryce for 7 yards to the SIU35, 1ST DOWN SIU, out-of-bounds (HALL, Ashton)." ob="Y" newcontext="V,1,10,V35">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Morris, Bryce" gain="7"></p_pa>
+    <p_tk vh="H" name="HALL, Ashton"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU35" context="V,1,10,V35" playid="7,6,61" type="R" text="Karim, Deji rush for loss of 3 yards to the SIU32 (BURNS, Brandon)." newcontext="V,2,13,V32">
+    <p_ru vh="V" name="Karim, Deji" gain="-3"></p_ru>
+    <p_tk vh="H" name="BURNS, Brandon" tfl="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="13" spot="SIU32" context="V,2,13,V32" playid="7,7,62" type="P" text="Dieker, Chris sacked for loss of 1 yard to the SIU31 (HARRIS, Kellen;HARVEY, Mario)." newcontext="V,3,14,V31">
+    <p_pa vh="V" qb="Dieker, Chris" result="SACK" gain="-1"></p_pa>
+    <p_tk vh="H" name="HARRIS, Kellen" sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="HARVEY, Mario" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="3" togo="14" spot="SIU31" context="V,3,14,V31" playid="7,8,63" type="P" text="Dieker, Chris pass incomplete to Morris, Bryce, dropped pass." newcontext="V,4,14,V31">
+    <p_pa vh="V" qb="Dieker, Chris" result="DROP" rcv="Morris, Bryce"></p_pa>
+   </play>
+   <play hasball="SIU" down="4" togo="14" spot="SIU31" context="V,4,14,V31" playid="7,9,64" type="U" text="Ravanesi, Scott punt 44 yards to the MARSHALL25, fair catch by EVANS, Troy." newcontext="H,1,10,H25">
+    <p_pu vh="V" name="Ravanesi, Scott" gain="44" fc="EVANS, Troy"></p_pu>
+   </play>
+   <drivesum plays="6" yards="11" top="3:14" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,H25,12:39" vh="H" spot="H25" clock="12:39" driveindex="8,64"></drivestart>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL25" context="H,1,10,H25" playid="8,1,65" clock="09:25" text="MARSHALL UNIVERSITY drive start at 09:25." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL25" context="H,1,10,H25" playid="8,2,66" type="P" first="P" text="ANDERSON, Brian pass complete to SLATE, Cody for 10 yards to the MARSHALL35, 1ST DOWN MARSHALL, out-of-bounds (Franklin, S.)." ob="Y" newcontext="H,1,10,H35">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="SLATE, Cody" gain="10"></p_pa>
+    <p_tk vh="V" name="Franklin, S."></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL35" context="H,1,10,H35" playid="8,3,67" type="R" text="EDWARDS-MAYE, T rush for 3 yards to the MARSHALL38 (Williams, B.;Franklin, S.)." newcontext="H,2,7,H38">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="3"></p_ru>
+    <p_tk vh="V" name="Williams, B." assist="Y"></p_tk>
+    <p_tk vh="V" name="Franklin, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="7" spot="MARSHALL38" context="H,2,7,H38" playid="8,4,68" type="P" text="ANDERSON, Brian pass incomplete to EDMONSON, Court, QB hurry by Jordan, Brandin." newcontext="H,3,7,H38">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="INC" rcv="EDMONSON, Court"></p_pa>
+    <p_qbh vh="V" name="Jordan, Brandin"></p_qbh>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="7" spot="MARSHALL38" context="H,3,7,H38" playid="8,5,69" type="#" clock="08:18" text="Timeout Marshall University, clock 08:18." newcontext="H,3,7,H38">
+    <p_to vh="H" team="Marshall University"></p_to>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="7" spot="MARSHALL38" context="H,3,7,H38" playid="8,6,70" type="P" first="P" text="ANDERSON, Brian pass complete to SLATE, Cody for 9 yards to the MARSHALL47, 1ST DOWN MARSHALL (Jordan, Brandin;Franklin, S.)." newcontext="H,1,10,H47">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="SLATE, Cody" gain="9"></p_pa>
+    <p_tk vh="V" name="Jordan, Brandin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Franklin, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL47" context="H,1,10,H47" playid="8,7,71" type="P" text="ANDERSON, Brian pass complete to BONNER, Wayne for 3 yards to the 50 yardline (Franklin, S.)." newcontext="H,2,7,H50">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="BONNER, Wayne" gain="3"></p_pa>
+    <p_tk vh="V" name="Franklin, S."></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="7" spot="MARSHALL50" context="H,2,7,H50" playid="8,8,72" type="E" text="PENALTY SIU offside (Swanson, Kayon) 5 yards to the SIU45." newcontext="H,2,2,V45">
+    <p_pn vh="V" code="OS" type="offside" name="Swanson, Kayon" result="ACCEPT" at="H50" yards="5"></p_pn>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="2" spot="SIU45" context="H,2,2,V45" playid="8,9,73" type="R" text="EDWARDS-MAYE, T rush for loss of 5 yards to the 50 yardline (McElroy, Mike)." newcontext="H,3,7,H50">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="-5"></p_ru>
+    <p_tk vh="V" name="McElroy, Mike" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="7" spot="MARSHALL50" context="H,3,7,H50" playid="8,10,74" type="P" text="ANDERSON, Brian pass complete to WALKER, Chuck for 2 yards to the SIU48 (Williams, B.)." newcontext="H,4,5,V48">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WALKER, Chuck" gain="2"></p_pa>
+    <p_tk vh="V" name="Williams, B."></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="4" togo="5" spot="SIU48" context="H,4,5,V48" playid="8,11,75" type="U" turnover="F" text="WHITEHEAD, Kase punt 31 yards to the SIU17, Lindsey, Korey return 4 yards to the SIU21, fumble forced by MCCLELLAN, Sean, fumble by Lindsey, Korey recovered by MARSHALL SMITH, Lee at SIU22." newcontext="H,1,10,V22">
+    <p_pu vh="H" name="WHITEHEAD, Kase" gain="31"></p_pu>
+    <p_pr vh="V" name="Lindsey, Korey" gain="4"></p_pr>
+    <p_fumb vh="V" name="Lindsey, Korey" at="V22" frvh="H" frname="SMITH, Lee"></p_fumb>
+    <p_tk vh="H" name="MCCLELLAN, Sean" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="7" yards="27" top="4:02" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,V22,08:18" vh="H" spot="V22" clock="08:18" driveindex="10,75"></drivestart>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU22" context="H,1,10,V22" playid="10,1,76" clock="05:23" text="MARSHALL UNIVERSITY drive start at 05:23." newcontext="H,1,10,V22">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU22" context="H,1,10,V22" playid="10,2,77" text="SLATE, Cody at QB for Marshall University." newcontext="H,1,10,V22">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU22" context="H,1,10,V22" playid="10,3,78" type="R" text="SLATE, Cody rush for loss of 2 yards to the SIU24 (Wright, Fred)." newcontext="H,2,12,V24">
+    <p_ru vh="H" name="SLATE, Cody" gain="-2"></p_ru>
+    <p_tk vh="V" name="Wright, Fred" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="12" spot="SIU24" context="H,2,12,V24" playid="10,4,79" text="ANDERSON, Brian at QB for Marshall University." newcontext="H,2,12,V24">
+   </play>
+   <play hasball="MARSHALL" down="2" togo="12" spot="SIU24" context="H,2,12,V24" playid="10,5,80" type="P" first="P" text="ANDERSON, Brian pass complete to WALKER, Chuck for 16 yards to the SIU8, 1ST DOWN MARSHALL (Williams, B.)." newcontext="H,1,0,V08">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WALKER, Chuck" gain="16"></p_pa>
+    <p_tk vh="V" name="Williams, B."></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="0" spot="SIU08" context="H,1,0,V08" playid="10,6,81" type="E" text="PENALTY MARSHALL false start (BALDRIDGE, Dani) 5 yards to the SIU13." newcontext="H,1,0,V13">
+    <p_pn vh="H" code="FS" type="false start" name="BALDRIDGE, Dani" result="ACCEPT" at="V08" yards="5"></p_pn>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="0" spot="SIU13" context="H,1,0,V13" playid="10,7,82" type="R" text="WARD, Martin rush for 3 yards to the SIU10 (Lindsey, Korey)." newcontext="H,2,0,V10">
+    <p_ru vh="H" name="WARD, Martin" gain="3"></p_ru>
+    <p_tk vh="V" name="Lindsey, Korey"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="0" spot="SIU10" context="H,2,0,V10" playid="10,8,83" type="P" score="Y" clock="03:15" text="ANDERSON, Brian pass complete to SLATE, Cody for 10 yards to the SIU0, TOUCHDOWN, clock 03:15." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="SLATE, Cody" gain="10"></p_pa>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="0" spot="SIU03" context="H,1,0,V03" playid="10,9,84" type="X" score="Y" text="RATANAMORN, Cra kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="RATANAMORN, Cra" qb="RATANAMORN, Cra" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="7"></score>
+   <play hasball="MARSHALL" down="1" togo="0" spot="MARSHALL30" context="H,1,0,H30" playid="10,10,85" text="MARSHALL ball on MARSHALL30." newcontext="H,1,0,H30">
+   </play>
+   <drivesum plays="4" yards="22" top="2:08" driveindex="10" complete="Y"></drivesum>
+   <play hasball="MARSHALL" down="1" togo="0" spot="MARSHALL30" context="H,1,0,H30" playid="10,11,86" type="K" text="RATANAMORN, Cra kickoff 53 yards to the SIU17, out-of-bounds, SIU ball on SIU40." ob="Y" newcontext="V,1,10,V40">
+    <p_ko vh="H" name="RATANAMORN, Cra" gain="53" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V40,03:15" vh="V" spot="V40" clock="03:15" driveindex="11,86"></drivestart>
+   <play hasball="SIU" down="1" togo="10" spot="SIU40" context="V,1,10,V40" playid="11,1,87" clock="03:15" text="SOUTHERN ILLINOIS drive start at 03:15." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU40" context="V,1,10,V40" playid="11,2,88" type="R" text="Karim, Deji rush for 5 yards to the SIU45 (HARRIS, Kellen;JANAC, Michael)." newcontext="V,2,5,V45">
+    <p_ru vh="V" name="Karim, Deji" gain="5"></p_ru>
+    <p_tk vh="H" name="HARRIS, Kellen" assist="Y"></p_tk>
+    <p_tk vh="H" name="JANAC, Michael" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="5" spot="SIU45" context="V,2,5,V45" playid="11,3,89" type="R" text="Karim, Deji rush for 4 yards to the SIU49 (JONES, Johnny;CURRY, Vinny)." newcontext="V,3,1,V49">
+    <p_ru vh="V" name="Karim, Deji" gain="4"></p_ru>
+    <p_tk vh="H" name="JONES, Johnny" assist="Y"></p_tk>
+    <p_tk vh="H" name="CURRY, Vinny" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="3" togo="1" spot="SIU49" context="V,3,1,V49" playid="11,4,90" type="R" first="R" text="Dieker, Chris rush for 3 yards to the MARSHALL48, 1ST DOWN SIU (JONES, Johnny;BULLOCK, Brando)." newcontext="V,1,10,H48">
+    <p_ru vh="V" name="Dieker, Chris" gain="3"></p_ru>
+    <p_tk vh="H" name="JONES, Johnny" assist="Y"></p_tk>
+    <p_tk vh="H" name="BULLOCK, Brando" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL48" context="V,1,10,H48" playid="11,5,91" type="P" text="Dieker, Chris pass complete to Allaria, Joe for 5 yards to the MARSHALL43 (MCCLELLAN, Albe)." newcontext="V,2,5,H43">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Allaria, Joe" gain="5"></p_pa>
+    <p_tk vh="H" name="MCCLELLAN, Albe"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="5" spot="MARSHALL43" context="V,2,5,H43" playid="11,6,92" type="P" text="Dieker, Chris pass incomplete to Morris, Bryce." newcontext="V,3,5,H43">
+    <p_pa vh="V" qb="Dieker, Chris" result="INC" rcv="Morris, Bryce"></p_pa>
+   </play>
+   <play hasball="SIU" down="3" togo="5" spot="MARSHALL43" context="V,3,5,H43" playid="11,7,93" type="P" first="P" text="Dieker, Chris pass complete to Karim, Deji for 9 yards to the MARSHALL34, 1ST DOWN SIU, out-of-bounds." ob="Y" newcontext="V,1,10,H34">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Karim, Deji" gain="9"></p_pa>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL34" context="V,1,10,H34" playid="11,8,94" type="P" text="Dieker, Chris pass complete to Strother, Steve for 8 yards to the MARSHALL26 (PERRY, Kevin;JACOBS, John)." newcontext="V,2,2,H26">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Strother, Steve" gain="8"></p_pa>
+    <p_tk vh="H" name="PERRY, Kevin" assist="Y"></p_tk>
+    <p_tk vh="H" name="JACOBS, John" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="2" spot="MARSHALL26" context="V,2,2,H26" playid="11,9,95" type="P" first="P" text="Dieker, Chris pass complete to Evans, Jeff for 7 yards to the MARSHALL19, 1ST DOWN SIU, out-of-bounds (SHAKOOR, Ahmed)." ob="Y" newcontext="V,1,10,H19">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Evans, Jeff" gain="7"></p_pa>
+    <p_tk vh="H" name="SHAKOOR, Ahmed"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL19" context="V,1,10,H19" playid="11,10,96" type="P" first="P" text="Dieker, Chris pass complete to Strother, Steve for 17 yards to the MARSHALL2, 1ST DOWN SIU, out-of-bounds (BROWN, Omar)." ob="Y" newcontext="V,1,0,H02">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Strother, Steve" gain="17"></p_pa>
+    <p_tk vh="H" name="BROWN, Omar"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="0" spot="MARSHALL02" context="V,1,0,H02" playid="11,11,97" type="P" score="Y" clock="00:26" text="Dieker, Chris pass complete to Cheatham, Marc for 2 yards to the MARSHALL0, TOUCHDOWN, clock 00:26." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Cheatham, Marc" gain="2"></p_pa>
+   </play>
+   <play hasball="SIU" down="1" togo="0" spot="MARSHALL03" context="V,1,0,H03" playid="11,12,98" type="X" score="Y" text="Dougherty, Kyle kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Dougherty, Kyle" qb="Dougherty, Kyle" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="7"></score>
+   <play hasball="SIU" down="1" togo="0" spot="SIU30" context="V,1,0,V30" playid="11,13,99" text="SIU ball on SIU30." newcontext="V,1,0,V30">
+   </play>
+   <play hasball="SIU" down="1" togo="0" spot="SIU30" context="V,1,0,V30" playid="11,14,100" type="E" text="Dougherty, Kyle kickoff 69 yards to the MARSHALL1, EVANS, Troy return to the MARSHALL32 (Rodgers, Marty), PENALTY MARSHALL holding off-setting, PENALTY SIU face mask off-setting, NO PLAY." newcontext="V,1,0,V30">
+    <p_pn vh="H" code="HO" type="holding" result="OFFSET"></p_pn>
+    <p_pn vh="V" code="FM" type="face mask" result="OFFSET"></p_pn>
+   </play>
+   <drivesum plays="10" yards="60" top="2:49" driveindex="11" complete="Y"></drivesum>
+   <play hasball="SIU" down="1" togo="0" spot="SIU30" context="V,1,0,V30" playid="11,15,101" type="K" text="Dougherty, Kyle kickoff 54 yards to the MARSHALL16, EDWARDS-MAYE, T return 29 yards to the MARSHALL45 (Morris, Bryce)." newcontext="H,1,10,H45">
+    <p_ko vh="V" name="Dougherty, Kyle" gain="54"></p_ko>
+    <p_kr vh="H" name="EDWARDS-MAYE, T" gain="29"></p_kr>
+    <p_tk vh="V" name="Morris, Bryce"></p_tk>
+   </play>
+   <drivestart poss="H,H45,00:26" vh="H" spot="H45" clock="00:26" driveindex="12,101"></drivestart>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL45" context="H,1,10,H45" playid="12,1,102" clock="00:26" text="MARSHALL UNIVERSITY drive start at 00:26." newcontext="H,1,10,H45">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL45" context="H,1,10,H45" playid="12,2,103" type="P" text="ANDERSON, Brian pass incomplete to EVANS, Troy, QB hurry by Coda, Chance." newcontext="H,2,10,H45">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="INC" rcv="EVANS, Troy"></p_pa>
+    <p_qbh vh="V" name="Coda, Chance"></p_qbh>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="10" spot="MARSHALL45" context="H,2,10,H45" playid="12,3,104" type="E" text="PENALTY MARSHALL illegal forward pass (ANDERSON, Brian) 5 yards to the MARSHALL40." newcontext="H,3,15,H40">
+    <p_pn vh="H" code="FP" type="illegal forward pass" name="ANDERSON, Brian" result="ACCEPT" at="H45" yards="5"></p_pn>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="15" spot="MARSHALL40" context="H,3,15,H40" playid="12,4,105" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,3,15,H40">
+   </play>
+   <drivesum plays="1" yards="-5" top="0:26" driveindex="12" complete="Y"></drivesum>
+   <score qtr="2" V="14" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SIU">
+    <firstdowns no="5" rush="1" pass="4" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="06:03"></misc>
+    <rush att="6" yds="11" gain="15" loss="4" td="0" long="0"></rush>
+    <pass comp="8" att="10" int="0" yds="65" td="1" long="0" sacks="1" sackyds="1"></pass>
+    <rcv no="8" yds="65" td="1" long="0"></rcv>
+    <punt no="1" yds="44" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="44.0"></punt>
+    <ko no="1" yds="54" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="6" tot_tack="17" tflua="3" tfla="0" tflyds="11" sacks="1" sackyds="4" qbh="2"></defense>
+    <pr no="1" yds="5" td="0" long="4"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="MARSHALL">
+    <firstdowns no="5" rush="1" pass="4" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:57"></misc>
+    <rush att="7" yds="3" gain="14" loss="11" td="0" long="0"></rush>
+    <pass comp="7" att="10" int="0" yds="73" td="1" long="0" sacks="1" sackyds="4"></pass>
+    <rcv no="7" yds="73" td="1" long="0"></rcv>
+    <punt no="2" yds="71" long="40" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="35.5"></punt>
+    <ko no="1" yds="53" ob="1" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="6" tacka="14" tot_tack="20" tflua="3" tfla="0" tflyds="5" sacks="1" sackyds="1" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="29" td="0" long="6"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <comment text="Marshall to receive second half kickoff and defend south goal."></comment>
+   <play hasball="MARSHALL" down="3" togo="15" spot="MARSHALL40" context="H,3,15,H40" playid="12,5,106" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, SIU ball on SIU30." newcontext="V,3,15,V30">
+   </play>
+   <play hasball="SIU" down="3" togo="15" spot="SIU30" context="V,3,15,V30" playid="12,6,108" type="K" text="Dougherty, Kyle kickoff 51 yards to the MARSHALL19, EDWARDS-MAYE, T return 13 yards to the MARSHALL32 (Rodgers, Marty;Graham, Rashad)." newcontext="H,1,10,H32">
+    <p_ko vh="V" name="Dougherty, Kyle" gain="51"></p_ko>
+    <p_kr vh="H" name="EDWARDS-MAYE, T" gain="13"></p_kr>
+    <p_tk vh="V" name="Rodgers, Marty" assist="Y"></p_tk>
+    <p_tk vh="V" name="Graham, Rashad" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H32,15:00" vh="H" spot="H32" clock="15:00" driveindex="13,108"></drivestart>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL32" context="H,1,10,H32" playid="13,1,109" clock="15:00" text="MARSHALL UNIVERSITY drive start at 15:00." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL32" context="H,1,10,H32" playid="13,2,110" type="P" first="P" text="ANDERSON, Brian pass complete to WALKER, Chuck for 13 yards to the MARSHALL45, 1ST DOWN MARSHALL (Rodgers, Marty)." newcontext="H,1,10,H45">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WALKER, Chuck" gain="13"></p_pa>
+    <p_tk vh="V" name="Rodgers, Marty"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL45" context="H,1,10,H45" playid="13,3,111" type="R" text="WARD, Martin rush for 7 yards to the SIU48 (Rodgers, Marty;Lindsey, Korey)." newcontext="H,2,3,V48">
+    <p_ru vh="H" name="WARD, Martin" gain="7"></p_ru>
+    <p_tk vh="V" name="Rodgers, Marty" assist="Y"></p_tk>
+    <p_tk vh="V" name="Lindsey, Korey" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="3" spot="SIU48" context="H,2,3,V48" playid="13,4,112" type="R" first="R" text="WARD, Martin rush for 8 yards to the SIU40, 1ST DOWN MARSHALL (Jordan, Brandin;Arthurs, Chris)." newcontext="H,1,10,V40">
+    <p_ru vh="H" name="WARD, Martin" gain="8"></p_ru>
+    <p_tk vh="V" name="Jordan, Brandin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Arthurs, Chris" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU40" context="H,1,10,V40" playid="13,5,113" type="P" first="P" text="ANDERSON, Brian pass complete to WALKER, Chuck for 12 yards to the SIU28, 1ST DOWN MARSHALL, out-of-bounds (Mixon, Chauncey)." ob="Y" newcontext="H,1,10,V28">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WALKER, Chuck" gain="12"></p_pa>
+    <p_tk vh="V" name="Mixon, Chauncey"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU28" context="H,1,10,V28" playid="13,6,114" type="P" text="ANDERSON, Brian pass incomplete to WALKER, Chuck." newcontext="H,2,10,V28">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="INC" rcv="WALKER, Chuck"></p_pa>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="10" spot="SIU28" context="H,2,10,V28" playid="13,7,115" type="P" first="P" score="Y" clock="13:23" text="ANDERSON, Brian pass complete to WILSON, Antavio for 28 yards to the SIU0, 1ST DOWN MARSHALL, TOUCHDOWN, clock 13:23." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WILSON, Antavio" gain="28"></p_pa>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="0" spot="SIU03" context="H,1,0,V03" playid="13,8,116" type="X" score="Y" text="RATANAMORN, Cra kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="RATANAMORN, Cra" qb="RATANAMORN, Cra" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="14"></score>
+   <play hasball="MARSHALL" down="1" togo="0" spot="MARSHALL30" context="H,1,0,H30" playid="13,9,117" text="MARSHALL ball on MARSHALL30." newcontext="H,1,0,H30">
+   </play>
+   <drivesum plays="6" yards="68" top="1:37" driveindex="13" complete="Y"></drivesum>
+   <play hasball="MARSHALL" down="1" togo="0" spot="MARSHALL30" context="H,1,0,H30" playid="13,10,118" type="K" text="RATANAMORN, Cra kickoff 59 yards to the SIU11, out-of-bounds, SIU ball on SIU40." ob="Y" newcontext="V,1,10,V40">
+    <p_ko vh="H" name="RATANAMORN, Cra" gain="59" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V40,13:23" vh="V" spot="V40" clock="13:23" driveindex="14,118"></drivestart>
+   <play hasball="SIU" down="1" togo="10" spot="SIU40" context="V,1,10,V40" playid="14,1,119" clock="13:23" text="SOUTHERN ILLINOIS drive start at 13:23." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU40" context="V,1,10,V40" playid="14,2,120" type="R" turnover="F" text="Dieker, Chris rush for 1 yard to the SIU41, fumble forced by HARRIS, Kellen, fumble by Dieker, Chris recovered by MARSHALL HARRIS, Kellen at SIU41." newcontext="H,1,10,V41">
+    <p_ru vh="V" name="Dieker, Chris" gain="1"></p_ru>
+    <p_fumb vh="V" name="Dieker, Chris" at="V41" frvh="H" frname="HARRIS, Kellen"></p_fumb>
+    <p_tk vh="H" name="HARRIS, Kellen" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="1" yards="1" top="0:08" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,V41,13:23" vh="H" spot="V41" clock="13:23" driveindex="15,120"></drivestart>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU41" context="H,1,10,V41" playid="15,1,121" clock="13:15" text="MARSHALL UNIVERSITY drive start at 13:15." newcontext="H,1,10,V41">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU41" context="H,1,10,V41" playid="15,2,122" type="P" text="ANDERSON, Brian sacked for loss of 9 yards to the 50 yardline (Jordan, Brandin)." newcontext="H,2,19,H50">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="V" name="Jordan, Brandin" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="19" spot="MARSHALL50" context="H,2,19,H50" playid="15,3,123" type="P" text="ANDERSON, Brian pass complete to WALKER, Chuck for 9 yards to the SIU41, out-of-bounds." ob="Y" newcontext="H,3,10,V41">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WALKER, Chuck" gain="9"></p_pa>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="10" spot="SIU41" context="H,3,10,V41" playid="15,4,124" type="P" text="ANDERSON, Brian pass complete to SLATE, Cody for 6 yards to the SIU35 (Wright, Fred)." newcontext="H,4,4,V35">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="SLATE, Cody" gain="6"></p_pa>
+    <p_tk vh="V" name="Wright, Fred"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="4" togo="4" spot="SIU35" context="H,4,4,V35" playid="15,5,125" type="P" first="P" text="ANDERSON, Brian pass complete to WALKER, Chuck for 15 yards to the SIU20, 1ST DOWN MARSHALL (Lindsey, Korey)." newcontext="H,1,10,V20">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WALKER, Chuck" gain="15"></p_pa>
+    <p_tk vh="V" name="Lindsey, Korey"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU20" context="H,1,10,V20" playid="15,6,126" type="#" clock="11:12" text="Timeout Southern Illinois, clock 11:12." newcontext="H,1,10,V20">
+    <p_to vh="V" team="Southern Illinois"></p_to>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU20" context="H,1,10,V20" playid="15,7,127" type="R" text="EDWARDS-MAYE, T rush for 5 yards to the SIU15 (Russo, Kyle;Franklin, S.)." newcontext="H,2,5,V15">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="5"></p_ru>
+    <p_tk vh="V" name="Russo, Kyle" assist="Y"></p_tk>
+    <p_tk vh="V" name="Franklin, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="5" spot="SIU15" context="H,2,5,V15" playid="15,8,128" type="R" text="WARD, Martin rush for loss of 1 yard to the SIU16 (Swanson, Kayon;Russo, Kyle)." newcontext="H,3,6,V16">
+    <p_ru vh="H" name="WARD, Martin" gain="-1"></p_ru>
+    <p_tk vh="V" name="Swanson, Kayon" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Russo, Kyle" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="6" spot="SIU16" context="H,3,6,V16" playid="15,9,129" type="E" text="ANDERSON, Brian pass incomplete to SLATE, Cody, PENALTY SIU offside (Walker, Kyle) 5 yards to the SIU11, NO PLAY." newcontext="H,3,1,V11">
+    <p_pn vh="V" code="OS" type="offside" name="Walker, Kyle" result="ACCEPT" at="V16" yards="5"></p_pn>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="1" spot="SIU11" context="H,3,1,V11" playid="15,10,130" type="R" first="R" score="Y" clock="10:07" text="EDWARDS-MAYE, T rush for 11 yards to the SIU0, 1ST DOWN MARSHALL, TOUCHDOWN, clock 10:07." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="11"></p_ru>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="0" spot="SIU03" context="H,1,0,V03" playid="15,11,131" type="X" score="Y" text="RATANAMORN, Cra kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="RATANAMORN, Cra" qb="RATANAMORN, Cra" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="21"></score>
+   <play hasball="MARSHALL" down="1" togo="0" spot="MARSHALL30" context="H,1,0,H30" playid="15,12,132" text="MARSHALL ball on MARSHALL30." newcontext="H,1,0,H30">
+   </play>
+   <drivesum plays="7" yards="41" top="3:08" driveindex="15" complete="Y"></drivesum>
+   <play hasball="MARSHALL" down="1" togo="0" spot="MARSHALL30" context="H,1,0,H30" playid="15,13,133" type="K" text="WARNER, Tyler kickoff 52 yards to the SIU18, Allaria, Joe return 17 yards to the SIU35 (HALL, Ashton)." newcontext="V,1,10,V35">
+    <p_ko vh="H" name="WARNER, Tyler" gain="52"></p_ko>
+    <p_kr vh="V" name="Allaria, Joe" gain="17"></p_kr>
+    <p_tk vh="H" name="HALL, Ashton"></p_tk>
+   </play>
+   <drivestart poss="V,V35,10:07" vh="V" spot="V35" clock="10:07" driveindex="16,133"></drivestart>
+   <play hasball="SIU" down="1" togo="10" spot="SIU35" context="V,1,10,V35" playid="16,1,134" clock="10:07" text="SOUTHERN ILLINOIS drive start at 10:07." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU35" context="V,1,10,V35" playid="16,2,135" type="E" text="PENALTY SIU false start (Pickard, David) 5 yards to the SIU30." newcontext="V,1,15,V30">
+    <p_pn vh="V" code="FS" type="false start" name="Pickard, David" result="ACCEPT" at="V35" yards="5"></p_pn>
+   </play>
+   <play hasball="SIU" down="1" togo="15" spot="SIU30" context="V,1,15,V30" playid="16,3,136" type="R" text="Karim, Deji rush for 4 yards to the SIU34 (HARVEY, Mario;MCCLELLAN, Albe)." newcontext="V,2,11,V34">
+    <p_ru vh="V" name="Karim, Deji" gain="4"></p_ru>
+    <p_tk vh="H" name="HARVEY, Mario" assist="Y"></p_tk>
+    <p_tk vh="H" name="MCCLELLAN, Albe" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="11" spot="SIU34" context="V,2,11,V34" playid="16,4,137" type="P" text="Dieker, Chris sacked for loss of 9 yards to the SIU25 (MCCLELLAN, Albe)." newcontext="V,3,20,V25">
+    <p_pa vh="V" qb="Dieker, Chris" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="MCCLELLAN, Albe" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="3" togo="20" spot="SIU25" context="V,3,20,V25" playid="16,5,138" type="P" text="Dieker, Chris pass incomplete to Evans, Jeff." newcontext="V,4,20,V25">
+    <p_pa vh="V" qb="Dieker, Chris" result="INC" rcv="Evans, Jeff"></p_pa>
+   </play>
+   <play hasball="SIU" down="4" togo="20" spot="SIU25" context="V,4,20,V25" playid="16,6,139" type="U" text="Ravanesi, Scott punt 50 yards to the MARSHALL25, EVANS, Troy return 16 yards to the MARSHALL41 (Morse, Steven;Coda, Chance)." newcontext="H,1,10,H41">
+    <p_pu vh="V" name="Ravanesi, Scott" gain="50"></p_pu>
+    <p_pr vh="H" name="EVANS, Troy" gain="16"></p_pr>
+    <p_tk vh="V" name="Morse, Steven" assist="Y"></p_tk>
+    <p_tk vh="V" name="Coda, Chance" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-10" top="2:00" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,H41,10:07" vh="H" spot="H41" clock="10:07" driveindex="17,139"></drivestart>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL41" context="H,1,10,H41" playid="17,1,140" clock="08:07" text="MARSHALL UNIVERSITY drive start at 08:07." newcontext="H,1,10,H41">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL41" context="H,1,10,H41" playid="17,2,141" type="R" text="EDWARDS-MAYE, T rush for 2 yards to the MARSHALL43 (Caldwell, Lance;Spann, Robert)." newcontext="H,2,8,H43">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="2"></p_ru>
+    <p_tk vh="V" name="Caldwell, Lance" assist="Y"></p_tk>
+    <p_tk vh="V" name="Spann, Robert" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="8" spot="MARSHALL43" context="H,2,8,H43" playid="17,3,142" type="P" first="P" text="ANDERSON, Brian pass complete to SLATE, Cody for 13 yards to the SIU44, 1ST DOWN MARSHALL, out-of-bounds (Lindsey, Korey)." ob="Y" newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="SLATE, Cody" gain="13"></p_pa>
+    <p_tk vh="V" name="Lindsey, Korey"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU44" context="H,1,10,V44" playid="17,4,143" type="R" text="EDWARDS-MAYE, T rush for 4 yards to the SIU40 (Lindsey, Korey;Rodgers, Marty)." newcontext="H,2,6,V40">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="4"></p_ru>
+    <p_tk vh="V" name="Lindsey, Korey" assist="Y"></p_tk>
+    <p_tk vh="V" name="Rodgers, Marty" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="6" spot="SIU40" context="H,2,6,V40" playid="17,5,144" type="E" first="E" text="ANDERSON, Brian pass incomplete to SMITH, Lee (Caldwell, Lance), PENALTY SIU pass interference (Caldwell, Lance) 15 yards to the SIU25, 1ST DOWN MARSHALL, NO PLAY." newcontext="H,1,10,V25">
+    <p_pn vh="V" code="PI" type="pass interference" name="Caldwell, Lance" result="ACCEPT" at="V40" yards="15"></p_pn>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU25" context="H,1,10,V25" playid="17,6,145" type="R" text="ANDERSON, Brian rush for loss of 5 yards to the SIU30." newcontext="H,2,15,V30">
+    <p_ru vh="H" name="ANDERSON, Brian" gain="-5"></p_ru>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="15" spot="SIU30" context="H,2,15,V30" playid="17,7,146" type="E" first="E" text="ANDERSON, Brian pass incomplete to WALKER, Chuck, PENALTY SIU pass interference (King, Nick) 15 yards to the SIU15, 1ST DOWN MARSHALL, NO PLAY." newcontext="H,1,10,V15">
+    <p_pn vh="V" code="PI" type="pass interference" name="King, Nick" result="ACCEPT" at="V30" yards="15"></p_pn>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU15" context="H,1,10,V15" playid="17,8,147" type="P" first="P" score="Y" clock="05:21" text="ANDERSON, Brian pass complete to SLATE, Cody for 15 yards to the SIU0, 1ST DOWN MARSHALL, TOUCHDOWN, clock 05:21." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="SLATE, Cody" gain="15"></p_pa>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="0" spot="SIU03" context="H,1,0,V03" playid="17,9,148" type="X" score="Y" text="RATANAMORN, Cra kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="RATANAMORN, Cra" qb="RATANAMORN, Cra" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="28"></score>
+   <play hasball="MARSHALL" down="1" togo="0" spot="MARSHALL30" context="H,1,0,H30" playid="17,10,149" text="MARSHALL ball on MARSHALL30." newcontext="H,1,0,H30">
+   </play>
+   <drivesum plays="5" yards="59" top="2:46" driveindex="17" complete="Y"></drivesum>
+   <play hasball="MARSHALL" down="1" togo="0" spot="MARSHALL30" context="H,1,0,H30" playid="17,11,150" type="K" text="WARNER, Tyler kickoff 57 yards to the SIU13, Karim, Deji return 21 yards to the SIU34 (HATTEN, Jamie;PERRY, Kevin)." newcontext="V,1,10,V34">
+    <p_ko vh="H" name="WARNER, Tyler" gain="57"></p_ko>
+    <p_kr vh="V" name="Karim, Deji" gain="21"></p_kr>
+    <p_tk vh="H" name="HATTEN, Jamie" assist="Y"></p_tk>
+    <p_tk vh="H" name="PERRY, Kevin" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V34,05:21" vh="V" spot="V34" clock="05:21" driveindex="18,150"></drivestart>
+   <play hasball="SIU" down="1" togo="10" spot="SIU34" context="V,1,10,V34" playid="18,1,151" clock="05:21" text="SOUTHERN ILLINOIS drive start at 05:21." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU34" context="V,1,10,V34" playid="18,2,152" type="R" text="Karim, Deji rush for 5 yards to the SIU39 (HALL, Ashton;JACOBS, John)." newcontext="V,2,5,V39">
+    <p_ru vh="V" name="Karim, Deji" gain="5"></p_ru>
+    <p_tk vh="H" name="HALL, Ashton" assist="Y"></p_tk>
+    <p_tk vh="H" name="JACOBS, John" assist="Y"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="5" spot="SIU39" context="V,2,5,V39" playid="18,3,153" type="R" first="R" text="Karim, Deji rush for 8 yards to the SIU47, 1ST DOWN SIU (JOHNSON, Delvin)." newcontext="V,1,10,V47">
+    <p_ru vh="V" name="Karim, Deji" gain="8"></p_ru>
+    <p_tk vh="H" name="JOHNSON, Delvin"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU47" context="V,1,10,V47" playid="18,4,154" type="R" text="Strother, Steve rush for 5 yards to the MARSHALL48 (BURNS, Brandon)." newcontext="V,2,5,H48">
+    <p_ru vh="V" name="Strother, Steve" gain="5"></p_ru>
+    <p_tk vh="H" name="BURNS, Brandon"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="5" spot="MARSHALL48" context="V,2,5,H48" playid="18,5,155" type="P" first="P" text="Dieker, Chris pass complete to Allaria, Joe for 24 yards to the MARSHALL24, 1ST DOWN SIU (BROWN, Omar)." newcontext="V,1,10,H24">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Allaria, Joe" gain="24"></p_pa>
+    <p_tk vh="H" name="BROWN, Omar"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL24" context="V,1,10,H24" playid="18,6,156" type="R" first="R" text="Karim, Deji rush for 12 yards to the MARSHALL12, 1ST DOWN SIU (JACKSON, Rashad)." newcontext="V,1,10,H12">
+    <p_ru vh="V" name="Karim, Deji" gain="12"></p_ru>
+    <p_tk vh="H" name="JACKSON, Rashad"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL12" context="V,1,10,H12" playid="18,7,157" type="E" text="PENALTY MARSHALL offside (GLASCO, Montel) 5 yards to the MARSHALL7." newcontext="V,1,5,H07">
+    <p_pn vh="H" code="OS" type="offside" name="GLASCO, Montel" result="ACCEPT" at="H12" yards="5"></p_pn>
+   </play>
+   <play hasball="SIU" down="1" togo="5" spot="MARSHALL07" context="V,1,5,H07" playid="18,8,158" type="P" text="Dieker, Chris pass incomplete to Goode, John, QB hurry by JANAC, Michael." newcontext="V,2,5,H07">
+    <p_pa vh="V" qb="Dieker, Chris" result="INC" rcv="Goode, John"></p_pa>
+    <p_qbh vh="H" name="JANAC, Michael"></p_qbh>
+   </play>
+   <play hasball="SIU" down="2" togo="5" spot="MARSHALL07" context="V,2,5,H07" playid="18,9,159" type="R" text="Allaria, Joe rush for 3 yards to the MARSHALL4, out-of-bounds." ob="Y" newcontext="V,3,2,H04">
+    <p_ru vh="V" name="Allaria, Joe" gain="3"></p_ru>
+   </play>
+   <play hasball="SIU" down="3" togo="2" spot="MARSHALL04" context="V,3,2,H04" playid="18,10,160" type="P" first="P" score="Y" clock="01:54" text="Dieker, Chris pass complete to Goode, John for 4 yards to the MARSHALL0, 1ST DOWN SIU, TOUCHDOWN, clock 01:54." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Goode, John" gain="4"></p_pa>
+   </play>
+   <play hasball="SIU" down="1" togo="0" spot="MARSHALL03" context="V,1,0,H03" playid="18,11,161" type="X" score="Y" text="Dougherty, Kyle kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Dougherty, Kyle" qb="Dougherty, Kyle" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="28"></score>
+   <play hasball="SIU" down="1" togo="0" spot="SIU30" context="V,1,0,V30" playid="18,12,162" text="SIU ball on SIU30." newcontext="V,1,0,V30">
+   </play>
+   <drivesum plays="8" yards="66" top="3:27" driveindex="18" complete="Y"></drivesum>
+   <play hasball="SIU" down="1" togo="0" spot="SIU30" context="V,1,0,V30" playid="18,13,163" type="K" text="Dougherty, Kyle kickoff 50 yards to the MARSHALL20, EDWARDS-MAYE, T return 19 yards to the MARSHALL39 (Graham, Rashad;Caldwell, Lance)." newcontext="H,1,10,H39">
+    <p_ko vh="V" name="Dougherty, Kyle" gain="50"></p_ko>
+    <p_kr vh="H" name="EDWARDS-MAYE, T" gain="19"></p_kr>
+    <p_tk vh="V" name="Graham, Rashad" assist="Y"></p_tk>
+    <p_tk vh="V" name="Caldwell, Lance" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H39,01:54" vh="H" spot="H39" clock="01:54" driveindex="19,163"></drivestart>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL39" context="H,1,10,H39" playid="19,1,164" clock="01:54" text="MARSHALL UNIVERSITY drive start at 01:54." newcontext="H,1,10,H39">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL39" context="H,1,10,H39" playid="19,2,165" type="R" text="WARD, Martin rush for 1 yard to the MARSHALL40 (McElroy, Mike)." newcontext="H,2,9,H40">
+    <p_ru vh="H" name="WARD, Martin" gain="1"></p_ru>
+    <p_tk vh="V" name="McElroy, Mike"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="9" spot="MARSHALL40" context="H,2,9,H40" playid="19,3,166" type="P" text="ANDERSON, Brian pass complete to SMITH, Lee for 5 yards to the MARSHALL45 (Patton, Ryan;Walker, Kyle)." newcontext="H,3,4,H45">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="SMITH, Lee" gain="5"></p_pa>
+    <p_tk vh="V" name="Patton, Ryan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Walker, Kyle" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="4" spot="MARSHALL45" context="H,3,4,H45" playid="19,4,167" type="P" text="ANDERSON, Brian pass incomplete to WALKER, Chuck (Walker, Kyle)." newcontext="H,4,4,H45">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="INC" rcv="WALKER, Chuck"></p_pa>
+    <p_bu vh="V" name="Walker, Kyle"></p_bu>
+   </play>
+   <play hasball="MARSHALL" down="4" togo="4" spot="MARSHALL45" context="H,4,4,H45" playid="19,5,168" type="E" first="E" text="PENALTY SIU 12 men on the field 5 yards to the 50 yardline, 1ST DOWN MARSHALL." newcontext="H,1,10,H50">
+    <p_pn vh="V" code="12" type="12 men on the field" result="ACCEPT" at="H45" yards="5"></p_pn>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL50" context="H,1,10,H50" playid="19,6,169" type="R" text="WARD, Martin rush for 2 yards to the SIU48 (Jordan, Brandin)." newcontext="H,2,8,V48">
+    <p_ru vh="H" name="WARD, Martin" gain="2"></p_ru>
+    <p_tk vh="V" name="Jordan, Brandin"></p_tk>
+   </play>
+   <score qtr="3" V="21" H="28"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SIU">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="5" yds="45"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="05:35"></misc>
+    <rush att="8" yds="29" gain="38" loss="9" td="0" long="1"></rush>
+    <pass comp="2" att="4" int="0" yds="28" td="1" long="6" sacks="1" sackyds="9"></pass>
+    <rcv no="2" yds="28" td="1" long="6"></rcv>
+    <punt no="1" yds="50" long="4" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="50.0"></punt>
+    <ko no="2" yds="101" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="20" tot_tack="28" tflua="3" tfla="0" tflyds="11" sacks="2" sackyds="13" brup="1"></defense>
+    <kr no="2" yds="38" td="0" long="21"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="MARSHALL">
+    <firstdowns no="11" rush="2" pass="6" penalty="3"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:25"></misc>
+    <rush att="11" yds="25" gain="40" loss="15" td="1" long="4"></rush>
+    <pass comp="9" att="11" int="0" yds="116" td="2" long="0" sacks="1" sackyds="9"></pass>
+    <rcv no="9" yds="116" td="2" long="0"></rcv>
+    <ko no="3" yds="168" ob="1" tb="0"></ko>
+    <pat kickatt="3" kickmade="3"></pat>
+    <defense tackua="7" tacka="6" tot_tack="13" tflua="1" tfla="0" tflyds="9" sacks="2" sackyds="10" qbh="1" ff="1" fr="1" fryds="0"></defense>
+    <kr no="2" yds="32" td="0" long="0"></kr>
+    <pr no="1" yds="16" td="0" long="16"></pr>
+    <scoring td="3" patkick="3"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="MARSHALL" down="2" togo="8" spot="SIU48" context="H,2,8,V48" playid="19,7,170" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,2,8,V48">
+   </play>
+   <play hasball="MARSHALL" down="2" togo="8" spot="SIU48" context="H,2,8,V48" playid="19,8,171" type="E" text="ANDERSON, Brian pass incomplete to BONNER, Wayne (Williams, B.), QB hurry by Wright, Fred, PENALTY MARSHALL illegal block (EDWARDS-MAYE, T) 15 yards to the MARSHALL37, NO PLAY." newcontext="H,2,23,H37">
+    <p_pn vh="H" code="BL" type="illegal block" name="EDWARDS-MAYE, T" result="ACCEPT" at="V48" yards="15"></p_pn>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="23" spot="MARSHALL37" context="H,2,23,H37" playid="19,9,172" type="P" text="ANDERSON, Brian pass complete to BONNER, Wayne for 18 yards to the SIU45 (Caldwell, Lance;Jordan, Brandin)." newcontext="H,3,5,V45">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="BONNER, Wayne" gain="18"></p_pa>
+    <p_tk vh="V" name="Caldwell, Lance" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jordan, Brandin" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="5" spot="SIU45" context="H,3,5,V45" playid="19,10,173" type="#" clock="14:03" text="Timeout Marshall University, clock 14:03." newcontext="H,3,5,V45">
+    <p_to vh="H" team="Marshall University"></p_to>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="5" spot="SIU45" context="H,3,5,V45" playid="19,11,174" type="P" first="P" text="ANDERSON, Brian pass complete to SLATE, Cody for 24 yards to the SIU21, 1ST DOWN MARSHALL (Lindsey, Korey)." newcontext="H,1,10,V21">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="SLATE, Cody" gain="24"></p_pa>
+    <p_tk vh="V" name="Lindsey, Korey"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU21" context="H,1,10,V21" playid="19,12,175" text="SLATE, Cody at QB for Marshall University." newcontext="H,1,10,V21">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU21" context="H,1,10,V21" playid="19,13,176" type="R" text="SLATE, Cody rush for 2 yards to the SIU19 (Franklin, S.)." newcontext="H,2,8,V19">
+    <p_ru vh="H" name="SLATE, Cody" gain="2"></p_ru>
+    <p_tk vh="V" name="Franklin, S."></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="8" spot="SIU19" context="H,2,8,V19" playid="19,14,177" text="ANDERSON, Brian at QB for Marshall University." newcontext="H,2,8,V19">
+   </play>
+   <play hasball="MARSHALL" down="2" togo="8" spot="SIU19" context="H,2,8,V19" playid="19,15,178" type="R" text="WARD, Martin rush for 5 yards to the SIU14 (Jordan, Brandin;Rodgers, Marty)." newcontext="H,3,3,V14">
+    <p_ru vh="H" name="WARD, Martin" gain="5"></p_ru>
+    <p_tk vh="V" name="Jordan, Brandin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Rodgers, Marty" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="3" spot="SIU14" context="H,3,3,V14" playid="19,16,179" type="R" text="EDWARDS-MAYE, T rush for loss of 1 yard to the SIU15 (Jordan, Brandin;Seaman, Jason)." newcontext="H,4,4,V15">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="-1"></p_ru>
+    <p_tk vh="V" name="Jordan, Brandin" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Seaman, Jason" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="4" togo="4" spot="SIU15" context="H,4,4,V15" playid="19,17,180" type="F" score="Y" clock="11:33" text="RATANAMORN, Cra field goal attempt from 32 GOOD, clock 11:33." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="RATANAMORN, Cra" distance="32" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="21" H="31"></score>
+   <play hasball="MARSHALL" down="1" togo="0" spot="MARSHALL30" context="H,1,0,H30" playid="19,18,181" text="MARSHALL ball on MARSHALL30." newcontext="H,1,0,H30">
+   </play>
+   <drivesum plays="10" yards="46" top="5:21" driveindex="19" complete="Y"></drivesum>
+   <play hasball="MARSHALL" down="1" togo="0" spot="MARSHALL30" context="H,1,0,H30" playid="19,19,182" type="K" text="RATANAMORN, Cra kickoff 66 yards to the SIU4, Karim, Deji return 26 yards to the SIU30 (BROWN, Omar;PERRY, Kevin)." newcontext="V,1,10,V30">
+    <p_ko vh="H" name="RATANAMORN, Cra" gain="66"></p_ko>
+    <p_kr vh="V" name="Karim, Deji" gain="26"></p_kr>
+    <p_tk vh="H" name="BROWN, Omar" assist="Y"></p_tk>
+    <p_tk vh="H" name="PERRY, Kevin" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V30,11:33" vh="V" spot="V30" clock="11:33" driveindex="20,182"></drivestart>
+   <play hasball="SIU" down="1" togo="10" spot="SIU30" context="V,1,10,V30" playid="20,1,183" clock="11:33" text="SOUTHERN ILLINOIS drive start at 11:33." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU30" context="V,1,10,V30" playid="20,2,184" type="P" text="Dieker, Chris pass incomplete to Morris, Bryce (BURNS, Brandon)." newcontext="V,2,10,V30">
+    <p_pa vh="V" qb="Dieker, Chris" result="INC" rcv="Morris, Bryce"></p_pa>
+    <p_bu vh="H" name="BURNS, Brandon"></p_bu>
+   </play>
+   <play hasball="SIU" down="2" togo="10" spot="SIU30" context="V,2,10,V30" playid="20,3,185" type="P" text="Dieker, Chris pass incomplete to Evans, Jeff." newcontext="V,3,10,V30">
+    <p_pa vh="V" qb="Dieker, Chris" result="INC" rcv="Evans, Jeff"></p_pa>
+   </play>
+   <play hasball="SIU" down="3" togo="10" spot="SIU30" context="V,3,10,V30" playid="20,4,186" type="P" text="Dieker, Chris pass incomplete to Evans, Jeff, dropped pass (BROWN, Omar)." newcontext="V,4,10,V30">
+    <p_pa vh="V" qb="Dieker, Chris" result="DROP" rcv="Evans, Jeff"></p_pa>
+    <p_bu vh="H" name="BROWN, Omar"></p_bu>
+   </play>
+   <play hasball="SIU" down="4" togo="10" spot="SIU30" context="V,4,10,V30" playid="20,5,187" type="U" text="Ravanesi, Scott punt 42 yards to the MARSHALL28, EVANS, Troy return 0 yards to the MARSHALL28 (McFadden, James)." newcontext="H,1,10,H28">
+    <p_pu vh="V" name="Ravanesi, Scott" gain="42"></p_pu>
+    <p_pr vh="H" name="EVANS, Troy" gain="0"></p_pr>
+    <p_tk vh="V" name="McFadden, James"></p_tk>
+   </play>
+   <drivesum plays="3" yards="0" top="0:28" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,H28,11:33" vh="H" spot="H28" clock="11:33" driveindex="21,187"></drivestart>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL28" context="H,1,10,H28" playid="21,1,188" clock="11:05" text="MARSHALL UNIVERSITY drive start at 11:05." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL28" context="H,1,10,H28" playid="21,2,189" type="P" text="ANDERSON, Brian pass complete to WILSON, Jamal for 8 yards to the MARSHALL36 (Wright, Fred;McElroy, Mike)." newcontext="H,2,2,H36">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WILSON, Jamal" gain="8"></p_pa>
+    <p_tk vh="V" name="Wright, Fred" assist="Y"></p_tk>
+    <p_tk vh="V" name="McElroy, Mike" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="2" spot="MARSHALL36" context="H,2,2,H36" playid="21,3,190" type="R" text="EDWARDS-MAYE, T rush for 1 yard to the MARSHALL37 (Seaman, Jason;Littles, Travis)." newcontext="H,3,1,H37">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="1"></p_ru>
+    <p_tk vh="V" name="Seaman, Jason" assist="Y"></p_tk>
+    <p_tk vh="V" name="Littles, Travis" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="1" spot="MARSHALL37" context="H,3,1,H37" playid="21,4,191" type="R" first="R" text="WARD, Martin rush for 3 yards to the MARSHALL40, 1ST DOWN MARSHALL (McElroy, Mike)." newcontext="H,1,10,H40">
+    <p_ru vh="H" name="WARD, Martin" gain="3"></p_ru>
+    <p_tk vh="V" name="McElroy, Mike"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="MARSHALL40" context="H,1,10,H40" playid="21,5,192" type="P" text="ANDERSON, Brian pass complete to BONNER, Wayne for 5 yards to the MARSHALL45 (Lindsey, Korey)." newcontext="H,2,5,H45">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="BONNER, Wayne" gain="5"></p_pa>
+    <p_tk vh="V" name="Lindsey, Korey"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="5" spot="MARSHALL45" context="H,2,5,H45" playid="21,6,193" type="R" first="R" text="WARD, Martin rush for 7 yards to the SIU48, 1ST DOWN MARSHALL (Jordan, Brandin;Caldwell, Lance)." newcontext="H,1,10,V48">
+    <p_ru vh="H" name="WARD, Martin" gain="7"></p_ru>
+    <p_tk vh="V" name="Jordan, Brandin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Caldwell, Lance" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU48" context="H,1,10,V48" playid="21,7,194" type="P" text="ANDERSON, Brian pass incomplete to WILSON, Jamal." newcontext="H,2,10,V48">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="INC" rcv="WILSON, Jamal"></p_pa>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="10" spot="SIU48" context="H,2,10,V48" playid="21,8,195" type="P" text="ANDERSON, Brian pass complete to WILSON, Antavio for 5 yards to the SIU43, out-of-bounds." ob="Y" newcontext="H,3,5,V43">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WILSON, Antavio" gain="5"></p_pa>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="5" spot="SIU43" context="H,3,5,V43" playid="21,9,196" type="P" first="P" text="ANDERSON, Brian pass complete to WILSON, Antavio for 11 yards to the SIU32, 1ST DOWN MARSHALL (Lindsey, Korey;Jordan, Brandin), PENALTY SIU offside declined." newcontext="H,1,10,V32">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WILSON, Antavio" gain="11"></p_pa>
+    <p_tk vh="V" name="Lindsey, Korey" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jordan, Brandin" assist="Y"></p_tk>
+    <p_pn vh="V" code="OS" type="offside" name="Jordan, Brandin" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU32" context="H,1,10,V32" playid="21,10,197" type="P" text="ANDERSON, Brian pass incomplete to WILSON, Jamal (Graham, Rashad)." newcontext="H,2,10,V32">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="INC" rcv="WILSON, Jamal"></p_pa>
+    <p_bu vh="V" name="Graham, Rashad"></p_bu>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="10" spot="SIU32" context="H,2,10,V32" playid="21,11,198" type="R" text="ANDERSON, Brian rush for 4 yards to the SIU28 (Adubifa, Dolapo)." newcontext="H,3,6,V28">
+    <p_ru vh="H" name="ANDERSON, Brian" gain="4"></p_ru>
+    <p_tk vh="V" name="Adubifa, Dolapo"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="6" spot="SIU28" context="H,3,6,V28" playid="21,12,199" type="P" first="P" text="ANDERSON, Brian pass complete to WALKER, Chuck for 11 yards to the SIU17, 1ST DOWN MARSHALL, out-of-bounds." ob="Y" newcontext="H,1,10,V17">
+    <p_pa vh="H" qb="ANDERSON, Brian" result="COMP" rcv="WALKER, Chuck" gain="11"></p_pa>
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU17" context="H,1,10,V17" playid="21,13,200" type="R" text="EDWARDS-MAYE, T rush for 4 yards to the SIU13 (Swanson, Kayon;Lindsey, Korey)." newcontext="H,2,6,V13">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="4"></p_ru>
+    <p_tk vh="V" name="Swanson, Kayon" assist="Y"></p_tk>
+    <p_tk vh="V" name="Lindsey, Korey" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="6" spot="SIU13" context="H,2,6,V13" playid="21,14,201" type="R" text="WARD, Martin rush for 5 yards to the SIU8 (Patton, Ryan;Graham, Rashad)." newcontext="H,3,1,V08">
+    <p_ru vh="H" name="WARD, Martin" gain="5"></p_ru>
+    <p_tk vh="V" name="Patton, Ryan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Graham, Rashad" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="1" spot="SIU08" context="H,3,1,V08" playid="21,15,202" type="R" text="WARD, Martin rush for no gain to the SIU8 (Graham, Rashad;Caldwell, Lance)." newcontext="H,4,1,V08">
+    <p_ru vh="H" name="WARD, Martin" gain="0"></p_ru>
+    <p_tk vh="V" name="Graham, Rashad" assist="Y"></p_tk>
+    <p_tk vh="V" name="Caldwell, Lance" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="4" togo="1" spot="SIU08" context="H,4,1,V08" playid="21,16,203" type="R" text="EDWARDS-MAYE, T rush for loss of 1 yard to the SIU9 (Patton, Ryan;Jordan, Brandin)." newcontext="V,1,10,V09">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="-1"></p_ru>
+    <p_tk vh="V" name="Patton, Ryan" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jordan, Brandin" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="15" yards="63" top="7:30" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="V,V09,11:05" vh="V" spot="V09" clock="11:05" driveindex="22,203"></drivestart>
+   <play hasball="SIU" down="1" togo="10" spot="SIU09" context="V,1,10,V09" playid="22,1,204" clock="03:35" text="SOUTHERN ILLINOIS drive start at 03:35." newcontext="V,1,10,V09">
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU09" context="V,1,10,V09" playid="22,2,205" type="P" text="Dieker, Chris pass incomplete to Allaria, Joe (HALL, Ashton)." newcontext="V,2,10,V09">
+    <p_pa vh="V" qb="Dieker, Chris" result="INC" rcv="Allaria, Joe"></p_pa>
+    <p_bu vh="H" name="HALL, Ashton"></p_bu>
+   </play>
+   <play hasball="SIU" down="2" togo="10" spot="SIU09" context="V,2,10,V09" playid="22,3,206" type="P" text="Dieker, Chris pass incomplete to Cheatham, Marc, QB hurry by CURRY, Vinny." newcontext="V,3,10,V09">
+    <p_pa vh="V" qb="Dieker, Chris" result="INC" rcv="Cheatham, Marc"></p_pa>
+    <p_qbh vh="H" name="CURRY, Vinny"></p_qbh>
+   </play>
+   <play hasball="SIU" down="3" togo="10" spot="SIU09" context="V,3,10,V09" playid="22,4,207" type="P" first="P" text="Dieker, Chris pass complete to Morris, Bryce for 16 yards to the SIU25, 1ST DOWN SIU." newcontext="V,1,10,V25">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Morris, Bryce" gain="16"></p_pa>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU25" context="V,1,10,V25" playid="22,5,208" type="P" text="Dieker, Chris pass complete to Allaria, Joe for 7 yards to the SIU32, out-of-bounds (HALL, Ashton)." ob="Y" newcontext="V,2,3,V32">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Allaria, Joe" gain="7"></p_pa>
+    <p_tk vh="H" name="HALL, Ashton"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="3" spot="SIU32" context="V,2,3,V32" playid="22,6,209" type="P" first="P" text="Dieker, Chris pass complete to Evans, Jeff for 13 yards to the SIU45, 1ST DOWN SIU (HALL, Ashton)." newcontext="V,1,10,V45">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Evans, Jeff" gain="13"></p_pa>
+    <p_tk vh="H" name="HALL, Ashton"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU45" context="V,1,10,V45" playid="22,7,210" type="R" first="R" text="Dieker, Chris rush for 19 yards to the MARSHALL36, 1ST DOWN SIU (BROWN, Omar)." newcontext="V,1,10,H36">
+    <p_ru vh="V" name="Dieker, Chris" gain="19"></p_ru>
+    <p_tk vh="H" name="BROWN, Omar"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL36" context="V,1,10,H36" playid="22,8,211" type="P" first="P" text="Dieker, Chris pass complete to Morris, Bryce for 14 yards to the MARSHALL22, 1ST DOWN SIU (SAUNDERS, John)." newcontext="V,1,10,H22">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Morris, Bryce" gain="14"></p_pa>
+    <p_tk vh="H" name="SAUNDERS, John"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="MARSHALL22" context="V,1,10,H22" playid="22,9,212" type="P" text="Dieker, Chris pass incomplete to Allaria, Joe (BROWN, Omar)." newcontext="V,2,10,H22">
+    <p_pa vh="V" qb="Dieker, Chris" result="INC" rcv="Allaria, Joe"></p_pa>
+    <p_bu vh="H" name="BROWN, Omar"></p_bu>
+   </play>
+   <play hasball="SIU" down="2" togo="10" spot="MARSHALL22" context="V,2,10,H22" playid="22,10,213" type="P" text="Dieker, Chris pass incomplete to Morris, Bryce (GALE, Tyson), QB hurry by JACOBS, John." newcontext="V,3,10,H22">
+    <p_pa vh="V" qb="Dieker, Chris" result="INC" rcv="Morris, Bryce"></p_pa>
+    <p_bu vh="H" name="GALE, Tyson"></p_bu>
+    <p_qbh vh="H" name="JACOBS, John"></p_qbh>
+   </play>
+   <play hasball="SIU" down="3" togo="10" spot="MARSHALL22" context="V,3,10,H22" playid="22,11,214" type="P" first="P" text="Dieker, Chris pass complete to Morris, Bryce for 17 yards to the MARSHALL5, 1ST DOWN SIU (HALL, Ashton)." newcontext="V,1,0,H05">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Morris, Bryce" gain="17"></p_pa>
+    <p_tk vh="H" name="HALL, Ashton"></p_tk>
+   </play>
+   <play hasball="SIU" down="1" togo="0" spot="MARSHALL05" context="V,1,0,H05" playid="22,12,215" type="P" text="Dieker, Chris pass incomplete to Morris, Bryce." newcontext="V,2,0,H05">
+    <p_pa vh="V" qb="Dieker, Chris" result="INC" rcv="Morris, Bryce"></p_pa>
+   </play>
+   <play hasball="SIU" down="2" togo="0" spot="MARSHALL05" context="V,2,0,H05" playid="22,13,216" type="R" score="Y" clock="01:40" text="Dieker, Chris rush for 5 yards to the MARSHALL0, TOUCHDOWN, clock 01:40." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Dieker, Chris" gain="5"></p_ru>
+   </play>
+   <play hasball="SIU" down="1" togo="0" spot="MARSHALL03" context="V,1,0,H03" playid="22,14,217" type="X" score="Y" text="Dougherty, Kyle kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Dougherty, Kyle" qb="Dougherty, Kyle" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="28" H="31"></score>
+   <play hasball="SIU" down="1" togo="0" spot="SIU30" context="V,1,0,V30" playid="22,15,218" text="SIU ball on SIU30." newcontext="V,1,0,V30">
+   </play>
+   <drivesum plays="12" yards="91" top="1:55" driveindex="22" complete="Y"></drivesum>
+   <play hasball="SIU" down="1" togo="0" spot="SIU30" context="V,1,0,V30" playid="22,16,219" type="K" text="Dougherty, Kyle kickoff 13 yards to the SIU43, on-side kick, recovered by MARSHALL on SIU43, out-of-bounds." ob="Y" newcontext="H,1,10,V43">
+    <p_ko vh="V" name="Dougherty, Kyle" gain="13" result="N"></p_ko>
+   </play>
+   <drivestart poss="H,V43,01:40" vh="H" spot="V43" clock="01:40" driveindex="23,219"></drivestart>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU43" context="H,1,10,V43" playid="23,1,220" clock="01:40" text="MARSHALL UNIVERSITY drive start at 01:40." newcontext="H,1,10,V43">
+   </play>
+   <play hasball="MARSHALL" down="1" togo="10" spot="SIU43" context="H,1,10,V43" playid="23,2,221" type="R" text="EDWARDS-MAYE, T rush for 3 yards to the SIU40 (Coda, Chance;Wright, Fred)." newcontext="H,2,7,V40">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="3"></p_ru>
+    <p_tk vh="V" name="Coda, Chance" assist="Y"></p_tk>
+    <p_tk vh="V" name="Wright, Fred" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="7" spot="SIU40" context="H,2,7,V40" playid="23,3,222" type="#" clock="01:33" text="Timeout Southern Illinois, clock 01:33." newcontext="H,2,7,V40">
+    <p_to vh="V" team="Southern Illinois"></p_to>
+   </play>
+   <play hasball="MARSHALL" down="2" togo="7" spot="SIU40" context="H,2,7,V40" playid="23,4,223" type="R" text="EDWARDS-MAYE, T rush for no gain to the SIU40 (Arthurs, Chris;Spann, Robert)." newcontext="H,3,7,V40">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="0"></p_ru>
+    <p_tk vh="V" name="Arthurs, Chris" assist="Y"></p_tk>
+    <p_tk vh="V" name="Spann, Robert" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="7" spot="SIU40" context="H,3,7,V40" playid="23,5,224" type="#" clock="01:28" text="Timeout Southern Illinois, clock 01:28." newcontext="H,3,7,V40">
+    <p_to vh="V" team="Southern Illinois"></p_to>
+   </play>
+   <play hasball="MARSHALL" down="3" togo="7" spot="SIU40" context="H,3,7,V40" playid="23,6,225" type="R" text="EDWARDS-MAYE, T rush for loss of 8 yards to the SIU48 (Adubifa, Dolapo;Spann, Robert)." newcontext="H,4,15,V48">
+    <p_ru vh="H" name="EDWARDS-MAYE, T" gain="-8"></p_ru>
+    <p_tk vh="V" name="Adubifa, Dolapo" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Spann, Robert" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="MARSHALL" down="4" togo="15" spot="SIU48" context="H,4,15,V48" playid="23,7,226" type="E" text="PENALTY MARSHALL delay of game 5 yards to the MARSHALL47." newcontext="H,4,20,H47">
+    <p_pn vh="H" code="DG" type="delay of game" result="ACCEPT" at="V48" yards="5"></p_pn>
+   </play>
+   <play hasball="MARSHALL" down="4" togo="20" spot="MARSHALL47" context="H,4,20,H47" playid="23,8,227" type="U" text="WHITEHEAD, Kase punt 39 yards to the SIU14, Lindsey, Korey return 5 yards to the SIU19." newcontext="V,1,10,V19">
+    <p_pu vh="H" name="WHITEHEAD, Kase" gain="39" in20="Y"></p_pu>
+    <p_pr vh="V" name="Lindsey, Korey" gain="5"></p_pr>
+   </play>
+   <drivesum plays="3" yards="-10" top="1:14" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="V,V19,01:28" vh="V" spot="V19" clock="01:28" driveindex="24,227"></drivestart>
+   <play hasball="SIU" down="1" togo="10" spot="SIU19" context="V,1,10,V19" playid="24,1,228" clock="00:26" text="SOUTHERN ILLINOIS drive start at 00:26." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="SIU" down="1" togo="10" spot="SIU19" context="V,1,10,V19" playid="24,2,229" type="P" text="Dieker, Chris pass complete to Strother, Steve for no gain to the SIU19 (JACOBS, John)." newcontext="V,2,10,V19">
+    <p_pa vh="V" qb="Dieker, Chris" result="COMP" rcv="Strother, Steve" gain="0"></p_pa>
+    <p_tk vh="H" name="JACOBS, John"></p_tk>
+   </play>
+   <play hasball="SIU" down="2" togo="10" spot="SIU19" context="V,2,10,V19" playid="24,3,230" type="P" text="TEAM pass incomplete." newcontext="V,3,10,V19">
+    <p_pa vh="V" qb="TEAM" result="INC"></p_pa>
+   </play>
+   <comment text="Dieker spiked ball to stop clock."></comment>
+   <play hasball="SIU" down="3" togo="10" spot="SIU19" context="V,3,10,V19" playid="24,4,232" type="P" text="Dieker, Chris pass incomplete to Evans, Jeff (BROWN, Omar)." newcontext="V,4,10,V19">
+    <p_pa vh="V" qb="Dieker, Chris" result="INC" rcv="Evans, Jeff"></p_pa>
+    <p_bu vh="H" name="BROWN, Omar"></p_bu>
+   </play>
+   <play hasball="SIU" down="4" togo="10" spot="SIU19" context="V,4,10,V19" playid="24,5,233" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="V,4,10,V19">
+   </play>
+   <drivesum plays="3" yards="0" top="0:26" driveindex="24" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Marshall defeats Southern Illinois by a score of 31 to 28."></play>
+   <score final="Y" V="28" H="31"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SIU">
+    <firstdowns no="5" rush="1" pass="4" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="02:49"></misc>
+    <rush att="2" yds="24" gain="24" loss="0" td="1" long="7"></rush>
+    <pass comp="6" att="16" int="0" yds="67" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="67" td="0" long="0"></rcv>
+    <punt no="1" yds="42" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="42.0"></punt>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="6" tacka="28" tot_tack="34" tflua="6" tfla="0" tflyds="20" sacks="2" sackyds="13" brup="1"></defense>
+    <kr no="1" yds="26" td="0" long="5"></kr>
+    <pr no="1" yds="5" td="0" long="1"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="MARSHALL">
+    <firstdowns no="5" rush="2" pass="3" penalty="0"></firstdowns>
+    <penalties no="2" yds="20"></penalties>
+    <conversions thirdconv="4" thirdatt="8" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="12:11"></misc>
+    <rush att="14" yds="24" gain="34" loss="10" td="0" long="0"></rush>
+    <pass comp="7" att="9" int="0" yds="82" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="82" td="0" long="0"></rcv>
+    <punt no="1" yds="39" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="39.0"></punt>
+    <ko no="1" yds="66" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="32" blkd="0"></fg>
+    <defense tackua="6" tacka="2" tot_tack="8" sacks="2" sackyds="10" brup="6" qbh="2"></defense>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="SIU" down="4" togo="10" spot="SIU19" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="0" htor="2" dtgtext="Game Over" ldtext="Drive started: 00:26, 4th Qtr"></downtogo>
+ </plays>

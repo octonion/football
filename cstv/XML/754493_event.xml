@@ -1,0 +1,1100 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="SFA" down="1" togo="10" spot="SFA30" context="V,1,10,V30" playid="0,1,0" type="#" clock="15:00" text="Clock 15:00." newcontext="V,1,10,V30">
+   </play>
+   <comment text="SFA won toss, differed to 2nd half."></comment>
+   <comment text="SMU will defend south end zone"></comment>
+   <play hasball="SFA" down="1" togo="10" spot="SFA30" context="V,1,10,V30" playid="0,2,3" type="E" text="PENALTY SFA delay of game (Engwall, Evan) 5 yards to the SFA25." newcontext="V,1,15,V25">
+    <p_pn vh="V" code="DG" type="delay of game" name="Engwall, Evan" result="ACCEPT" at="V30" yards="5"></p_pn>
+   </play>
+   <play hasball="SFA" down="1" togo="15" spot="SFA25" context="V,1,15,V25" playid="0,3,4" type="K" text="Engwall, Evan kickoff 70 yards to the SMU5, MCCANN, Bryan return 13 yards to the SMU18." newcontext="H,1,10,H18">
+    <p_ko vh="V" name="Engwall, Evan" gain="70"></p_ko>
+    <p_kr vh="H" name="MCCANN, Bryan" gain="13"></p_kr>
+   </play>
+   <drivestart poss="H,H18,15:00" vh="H" spot="H18" clock="15:00" driveindex="1,4"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU18" context="H,1,10,H18" playid="1,1,5" type="#" clock="14:55" text="Clock 14:55." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU18" context="H,1,10,H18" playid="1,2,6" type="P" text="MITCHELL, B.L. pass incomplete to WILKERSON, T.." newcontext="H,2,10,H18">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="WILKERSON, T."></p_pa>
+   </play>
+   <play hasball="SMU" down="2" togo="10" spot="SMU18" context="H,2,10,H18" playid="1,3,7" type="R" text="MCNEAL, Shawnbr rush for 2 yards to the SMU20 (Williams, Jabar)." newcontext="H,3,8,H20">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="2"></p_ru>
+    <p_tk vh="V" name="Williams, Jabar"></p_tk>
+   </play>
+   <play hasball="SMU" down="3" togo="8" spot="SMU20" context="H,3,8,H20" playid="1,4,8" type="P" text="MITCHELL, B.L. pass incomplete to ROBINSON, A.." newcontext="H,4,8,H20">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="ROBINSON, A."></p_pa>
+   </play>
+   <play hasball="SMU" down="4" togo="8" spot="SMU20" context="H,4,8,H20" playid="1,5,9" type="U" text="SZYMANSKI, Matt punt 50 yards to the SFA30, Brooks, Duane return -2 yards to the SFA28 (JONES, Tyler), PENALTY SMU face mask (JONES, Tyler) 15 yards to the SFA43, 1st and 10, SFA ball on SFA43." newcontext="V,1,10,V43">
+    <p_pu vh="H" name="SZYMANSKI, Matt" gain="50"></p_pu>
+    <p_pr vh="V" name="Brooks, Duane" gain="-2"></p_pr>
+    <p_tk vh="H" name="JONES, Tyler"></p_tk>
+    <p_pn vh="H" code="FM" type="face mask" name="JONES, Tyler" result="ACCEPT" at="V28" yards="15"></p_pn>
+   </play>
+   <drivesum plays="3" yards="2" top="1:17" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="V,V43,14:55" vh="V" spot="V43" clock="14:55" driveindex="2,9"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA43" context="V,1,10,V43" playid="2,1,10" clock="13:43" text="STEPHEN F. AUSTIN drive start at 13:43." newcontext="V,1,10,V43">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA43" context="V,1,10,V43" playid="2,2,11" type="P" turnover="I" text="Moses, Jeremy pass intercepted by FRAZIER, M. at the SFA46, FRAZIER, M. return 0 yards to the SFA46." newcontext="H,1,10,V46">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INT"></p_pa>
+    <p_ir vh="H" name="FRAZIER, M." at="V46" gain="0"></p_ir>
+   </play>
+   <drivesum plays="1" yards="0" top="0:07" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,V46,13:43" vh="H" spot="V46" clock="13:43" driveindex="3,11"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SFA46" context="H,1,10,V46" playid="3,1,12" clock="13:36" text="SMU MUSTANGS drive start at 13:36." newcontext="H,1,10,V46">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SFA46" context="H,1,10,V46" playid="3,2,13" type="P" text="MITCHELL, B.L. pass incomplete to BEASLEY, Cole." newcontext="H,2,10,V46">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="BEASLEY, Cole"></p_pa>
+   </play>
+   <play hasball="SMU" down="2" togo="10" spot="SFA46" context="H,2,10,V46" playid="3,3,14" type="P" text="MITCHELL, B.L. pass complete to JOHNSON, Darius for 3 yards to the SFA43." newcontext="H,3,7,V43">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="JOHNSON, Darius" gain="3"></p_pa>
+   </play>
+   <play hasball="SMU" down="3" togo="7" spot="SFA43" context="H,3,7,V43" playid="3,4,15" type="R" text="MCNEAL, Shawnbr rush for 5 yards to the SFA38 (Williams, Jabar)." newcontext="H,4,2,V38">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="5"></p_ru>
+    <p_tk vh="V" name="Williams, Jabar"></p_tk>
+   </play>
+   <play hasball="SMU" down="4" togo="2" spot="SFA38" context="H,4,2,V38" playid="3,5,16" type="P" turnover="I" text="MITCHELL, B.L. pass intercepted by Barlow, Cory at the SFA20, Barlow, Cory return 75 yards to the SMU5 (WEAVER, Taylor)." newcontext="V,1,0,H05">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INT"></p_pa>
+    <p_ir vh="V" name="Barlow, Cory" at="V20" gain="75"></p_ir>
+    <p_tk vh="H" name="WEAVER, Taylor"></p_tk>
+   </play>
+   <drivesum plays="4" yards="8" top="1:47" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,H05,13:36" vh="V" spot="H05" clock="13:36" driveindex="4,16"></drivestart>
+   <play hasball="SFA" down="1" togo="0" spot="SMU05" context="V,1,0,H05" playid="4,1,17" clock="11:49" text="STEPHEN F. AUSTIN drive start at 11:49." newcontext="V,1,0,H05">
+   </play>
+   <play hasball="SFA" down="1" togo="0" spot="SMU05" context="V,1,0,H05" playid="4,2,18" type="R" text="Pervis, Vincent rush for 3 yards to the SMU2 (FLEPS, Pete;BANJO, Chris)." newcontext="V,2,0,H02">
+    <p_ru vh="V" name="Pervis, Vincent" gain="3"></p_ru>
+    <p_tk vh="H" name="FLEPS, Pete" assist="Y"></p_tk>
+    <p_tk vh="H" name="BANJO, Chris" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="0" spot="SMU02" context="V,2,0,H02" playid="4,3,19" type="P" score="Y" clock="11:11" text="Moses, Jeremy pass complete to Crawford, Graly for 2 yards to the SMU0, TOUCHDOWN, clock 11:11." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Crawford, Graly" gain="2"></p_pa>
+   </play>
+   <play hasball="SFA" down="1" togo="0" spot="SMU03" context="V,1,0,H03" playid="4,4,20" type="X" score="Y" text="Engwall, Evan kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Engwall, Evan" qb="Engwall, Evan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="0"></score>
+   <drivesum plays="2" yards="5" top="0:38" driveindex="4" complete="Y"></drivesum>
+   <play hasball="SFA" down="1" togo="0" spot="SFA30" context="V,1,0,V30" playid="4,5,21" type="K" text="Engwall, Evan kickoff 64 yards to the SMU6, MCCANN, Bryan return 36 yards to the SMU42 (Aubrey, Jordan)." newcontext="H,1,10,H42">
+    <p_ko vh="V" name="Engwall, Evan" gain="64"></p_ko>
+    <p_kr vh="H" name="MCCANN, Bryan" gain="36"></p_kr>
+    <p_tk vh="V" name="Aubrey, Jordan"></p_tk>
+   </play>
+   <drivestart poss="H,H42,11:11" vh="H" spot="H42" clock="11:11" driveindex="5,21"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU42" context="H,1,10,H42" playid="5,1,22" clock="11:02" text="SMU MUSTANGS drive start at 11:02." newcontext="H,1,10,H42">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU42" context="H,1,10,H42" playid="5,2,23" type="R" first="R" text="MCNEAL, Shawnbr rush for 10 yards to the SFA48, 1ST DOWN SMU (Ducote, Devin)." newcontext="H,1,10,V48">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="10"></p_ru>
+    <p_tk vh="V" name="Ducote, Devin"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SFA48" context="H,1,10,V48" playid="5,3,24" type="R" text="MCNEAL, Shawnbr rush for 2 yards to the SFA46 (Choice, Derrick)." newcontext="H,2,8,V46">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="2"></p_ru>
+    <p_tk vh="V" name="Choice, Derrick"></p_tk>
+   </play>
+   <play hasball="SMU" down="2" togo="8" spot="SFA46" context="H,2,8,V46" playid="5,4,25" type="E" text="MCNEAL, Shawnbr rush for 3 yards to the SFA43 (Aubrey, Josh;Ducote, Devin), PENALTY SMU illegal block 15 yards to the SMU39, NO PLAY." newcontext="H,2,23,H39">
+    <p_pn vh="H" code="BL" type="illegal block" result="ACCEPT" at="V46" yards="15"></p_pn>
+   </play>
+   <play hasball="SMU" down="2" togo="23" spot="SMU39" context="H,2,23,H39" playid="5,5,26" type="P" text="MITCHELL, B.L. pass complete to SANDERS, E. for 10 yards to the SMU49." newcontext="H,3,13,H49">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="SANDERS, E." gain="10"></p_pa>
+   </play>
+   <play hasball="SMU" down="3" togo="13" spot="SMU49" context="H,3,13,H49" playid="5,6,27" type="P" text="MITCHELL, B.L. pass complete to LINE, Zach for 4 yards to the SFA47 (Williams, Jabar)." newcontext="H,4,9,V47">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="LINE, Zach" gain="4"></p_pa>
+    <p_tk vh="V" name="Williams, Jabar"></p_tk>
+   </play>
+   <play hasball="SMU" down="4" togo="9" spot="SFA47" context="H,4,9,V47" playid="5,7,28" type="U" text="SZYMANSKI, Matt punt 47 yards to the SFA0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="SZYMANSKI, Matt" gain="47" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="4" yards="11" top="2:50" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,V20,11:02" vh="V" spot="V20" clock="11:02" driveindex="6,28"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA20" context="V,1,10,V20" playid="6,1,29" clock="08:12" text="STEPHEN F. AUSTIN drive start at 08:12." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA20" context="V,1,10,V20" playid="6,2,30" type="R" text="Pervis, Vincent rush for no gain to the SFA20 (KENNEMER, Chase;FLEPS, Pete)." newcontext="V,2,10,V20">
+    <p_ru vh="V" name="Pervis, Vincent" gain="0"></p_ru>
+    <p_tk vh="H" name="KENNEMER, Chase" assist="Y"></p_tk>
+    <p_tk vh="H" name="FLEPS, Pete" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="10" spot="SFA20" context="V,2,10,V20" playid="6,3,31" type="R" text="Pervis, Vincent rush for 9 yards to the SFA29 (ENRIGHT, Mitch;BANJO, Chris)." newcontext="V,3,1,V29">
+    <p_ru vh="V" name="Pervis, Vincent" gain="9"></p_ru>
+    <p_tk vh="H" name="ENRIGHT, Mitch" assist="Y"></p_tk>
+    <p_tk vh="H" name="BANJO, Chris" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="1" spot="SFA29" context="V,3,1,V29" playid="6,4,32" type="R" text="Pervis, Vincent rush for loss of 1 yard to the SFA28 (FRAZIER, M.)." newcontext="V,4,2,V28">
+    <p_ru vh="V" name="Pervis, Vincent" gain="-1"></p_ru>
+    <p_tk vh="H" name="FRAZIER, M." tfl="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="4" togo="2" spot="SFA28" context="V,4,2,V28" playid="6,5,33" type="U" score="Y" clock="06:02" text="Nelson, Drew punt 51 yards to the SMU21, SANDERS, E. return 79 yards to the SFA0, TOUCHDOWN, clock 06:02." newcontext="H,1,0,V03">
+    <p_pu vh="V" name="Nelson, Drew" gain="51"></p_pu>
+    <p_pr vh="H" name="SANDERS, E." gain="79"></p_pr>
+   </play>
+   <drivesum plays="3" yards="8" top="2:10" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,V03,06:02" vh="H" spot="V03" clock="06:02" driveindex="7,33"></drivestart>
+   <play hasball="SMU" down="1" togo="0" spot="SFA03" context="H,1,0,V03" playid="7,1,34" type="E" text="PENALTY SMU delay of game (BEASLEY, Cole) 5 yards to the SFA8." newcontext="H,1,0,V08">
+    <p_pn vh="H" code="DG" type="delay of game" name="BEASLEY, Cole" result="ACCEPT" at="V03" yards="5"></p_pn>
+   </play>
+   <play hasball="SMU" down="1" togo="0" spot="SFA08" context="H,1,0,V08" playid="7,2,35" type="X" score="Y" text="SZYMANSKI, Matt kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="SZYMANSKI, Matt" qb="SZYMANSKI, Matt" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="7"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="7" complete="Y"></drivesum>
+   <play hasball="SMU" down="1" togo="0" spot="SMU30" context="H,1,0,H30" playid="7,3,36" type="K" text="SZYMANSKI, Matt kickoff 70 yards to the SFA0, Parks, Contrevi return 47 yards to the SFA47 (HUDMAN, Bryce)." newcontext="V,1,10,V47">
+    <p_ko vh="H" name="SZYMANSKI, Matt" gain="70"></p_ko>
+    <p_kr vh="V" name="Parks, Contrevi" gain="47"></p_kr>
+    <p_tk vh="H" name="HUDMAN, Bryce"></p_tk>
+   </play>
+   <drivestart poss="V,V47,06:02" vh="V" spot="V47" clock="06:02" driveindex="8,36"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA47" context="V,1,10,V47" playid="8,1,37" type="#" clock="05:56" text="Clock 05:56." newcontext="V,1,10,V47">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA47" context="V,1,10,V47" playid="8,2,38" type="P" first="P" text="Moses, Jeremy pass complete to Parks, Contrevi for 13 yards to the SMU40, 1ST DOWN SFA (DENNIS, Rock)." newcontext="V,1,10,H40">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Parks, Contrevi" gain="13"></p_pa>
+    <p_tk vh="H" name="DENNIS, Rock"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU40" context="V,1,10,H40" playid="8,3,39" type="R" text="Ross, Tyrone rush for 1 yard to the SMU39 (MITCHELL, B.L.;FLEPS, Pete)." newcontext="V,2,9,H39">
+    <p_ru vh="V" name="Ross, Tyrone" gain="1"></p_ru>
+    <p_tk vh="H" name="MITCHELL, B.L." assist="Y"></p_tk>
+    <p_tk vh="H" name="FLEPS, Pete" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="9" spot="SMU39" context="V,2,9,H39" playid="8,4,40" type="P" text="Moses, Jeremy pass complete to Crawford, Graly for 8 yards to the SMU31 (KENNEMER, Chase)." newcontext="V,3,1,H31">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Crawford, Graly" gain="8"></p_pa>
+    <p_tk vh="H" name="KENNEMER, Chase"></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="1" spot="SMU31" context="V,3,1,H31" playid="8,5,41" type="P" turnover="I" text="Moses, Jeremy pass intercepted by MCCANN, Bryan at the SMU30, MCCANN, Bryan return 0 yards to the SMU30." newcontext="H,1,10,H30">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INT"></p_pa>
+    <p_ir vh="H" name="MCCANN, Bryan" at="H30" gain="0"></p_ir>
+   </play>
+   <drivesum plays="4" yards="22" top="1:36" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H30,05:56" vh="H" spot="H30" clock="05:56" driveindex="9,41"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU30" context="H,1,10,H30" playid="9,1,42" clock="04:20" text="SMU MUSTANGS drive start at 04:20." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU30" context="H,1,10,H30" playid="9,2,43" type="P" text="MITCHELL, B.L. pass complete to SANDERS, E. for 6 yards to the SMU36 (Haynes, Chad)." newcontext="H,2,4,H36">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="SANDERS, E." gain="6"></p_pa>
+    <p_tk vh="V" name="Haynes, Chad"></p_tk>
+   </play>
+   <play hasball="SMU" down="2" togo="4" spot="SMU36" context="H,2,4,H36" playid="9,3,44" type="R" text="MCNEAL, Shawnbr rush for loss of 2 yards to the SMU34 (Fincher, Jacob;Choice, Derrick)." newcontext="H,3,6,H34">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="-2"></p_ru>
+    <p_tk vh="V" name="Fincher, Jacob" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Choice, Derrick" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="SMU" down="3" togo="6" spot="SMU34" context="H,3,6,H34" playid="9,4,45" type="P" text="MITCHELL, B.L. pass incomplete to ROBINSON, A.." newcontext="H,4,6,H34">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="ROBINSON, A."></p_pa>
+   </play>
+   <play hasball="SMU" down="4" togo="6" spot="SMU34" context="H,4,6,H34" playid="9,5,46" type="U" text="SZYMANSKI, Matt punt 26 yards to the SFA40, out-of-bounds." ob="Y" newcontext="V,1,10,V40">
+    <p_pu vh="H" name="SZYMANSKI, Matt" gain="26" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="4" top="1:38" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V40,04:20" vh="V" spot="V40" clock="04:20" driveindex="10,46"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA40" context="V,1,10,V40" playid="10,1,47" clock="02:42" text="STEPHEN F. AUSTIN drive start at 02:42." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA40" context="V,1,10,V40" playid="10,2,48" type="R" text="Ross, Tyrone rush for 1 yard to the SFA41 (KENNEMER, Chase)." newcontext="V,2,9,V41">
+    <p_ru vh="V" name="Ross, Tyrone" gain="1"></p_ru>
+    <p_tk vh="H" name="KENNEMER, Chase"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="9" spot="SFA41" context="V,2,9,V41" playid="10,3,49" type="P" first="P" text="Moses, Jeremy pass complete to Rhea, Aaron for 38 yards to the SMU21, 1ST DOWN SFA." newcontext="V,1,10,H21">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Rhea, Aaron" gain="38"></p_pa>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU21" context="V,1,10,H21" playid="10,4,50" type="P" text="Moses, Jeremy pass incomplete." newcontext="V,2,10,H21">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC"></p_pa>
+   </play>
+   <play hasball="SFA" down="2" togo="10" spot="SMU21" context="V,2,10,H21" playid="10,5,51" type="P" text="Moses, Jeremy pass incomplete to Rhea, Aaron (KENNEMER, Chase)." newcontext="V,3,10,H21">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Rhea, Aaron"></p_pa>
+    <p_bu vh="H" name="KENNEMER, Chase"></p_bu>
+   </play>
+   <play hasball="SFA" down="3" togo="10" spot="SMU21" context="V,3,10,H21" playid="10,6,52" type="P" turnover="I" text="Moses, Jeremy pass intercepted by DENNIS, Rock at the SMU0, DENNIS, Rock return 4 yards to the SMU4." newcontext="H,1,10,H04">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INT"></p_pa>
+    <p_ir vh="H" name="DENNIS, Rock" at="H00" gain="4"></p_ir>
+   </play>
+   <drivesum plays="5" yards="39" top="1:09" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H04,02:42" vh="H" spot="H04" clock="02:42" driveindex="11,52"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU04" context="H,1,10,H04" playid="11,1,53" clock="01:33" text="SMU MUSTANGS drive start at 01:33." newcontext="H,1,10,H04">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU04" context="H,1,10,H04" playid="11,2,54" type="P" text="MITCHELL, B.L. pass incomplete to ROBINSON, A. (Haynes, Chad)." newcontext="H,2,10,H04">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="ROBINSON, A."></p_pa>
+    <p_bu vh="V" name="Haynes, Chad"></p_bu>
+   </play>
+   <play hasball="SMU" down="2" togo="10" spot="SMU04" context="H,2,10,H04" playid="11,3,55" type="R" text="LINE, Zach rush for no gain to the SMU4 (Knicky, Tim)." newcontext="H,3,10,H04">
+    <p_ru vh="H" name="LINE, Zach" gain="0"></p_ru>
+    <p_tk vh="V" name="Knicky, Tim"></p_tk>
+   </play>
+   <play hasball="SMU" down="3" togo="10" spot="SMU04" context="H,3,10,H04" playid="11,4,56" type="P" first="P" text="MITCHELL, B.L. pass complete to WILKERSON, T. for 34 yards to the SMU38, 1ST DOWN SMU (Haynes, Chad)." newcontext="H,1,10,H38">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="WILKERSON, T." gain="34"></p_pa>
+    <p_tk vh="V" name="Haynes, Chad"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU38" context="H,1,10,H38" playid="11,5,57" type="P" text="MITCHELL, B.L. pass complete to JOHNSON, Darius for 3 yards to the SMU41 (Hicks, Andre)." newcontext="H,2,7,H41">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="JOHNSON, Darius" gain="3"></p_pa>
+    <p_tk vh="V" name="Hicks, Andre"></p_tk>
+   </play>
+   <score qtr="1" V="7" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SFA">
+    <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:40"></misc>
+    <rush att="6" yds="13" gain="14" loss="1" td="0" long="9"></rush>
+    <pass comp="4" att="9" int="3" yds="61" td="1" long="38" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="61" td="1" long="38"></rcv>
+    <punt no="1" yds="51" long="51" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="51.0"></punt>
+    <ko no="2" yds="134" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="2" tot_tack="12" tflua="2" tfla="0" tflyds="4" sacks="0" sackyds="0" brup="1" int="1" intyds="75"></defense>
+    <kr no="1" yds="47" td="0" long="47"></kr>
+    <pr no="1" yds="-2" td="0" long="0"></pr>
+    <ir no="1" yds="75" td="0" long="75"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="SMU">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="3" yds="35"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:05"></misc>
+    <rush att="6" yds="17" gain="19" loss="2" td="0" long="10"></rush>
+    <pass comp="6" att="12" int="1" yds="60" td="0" long="34" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="60" td="0" long="34"></rcv>
+    <punt no="3" yds="123" long="50" blkd="0" tb="1" fc="0" plus50="1" inside20="0" avg="41.0"></punt>
+    <ko no="1" yds="70" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="7" tacka="8" tot_tack="15" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1" int="3" intyds="4"></defense>
+    <kr no="2" yds="49" td="0" long="36"></kr>
+    <pr no="1" yds="79" td="1" long="79"></pr>
+    <ir no="3" yds="4" td="0" long="4"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="SMU" down="2" togo="7" spot="SMU41" context="H,2,7,H41" playid="11,6,58" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,2,7,H41">
+   </play>
+   <play hasball="SMU" down="2" togo="7" spot="SMU41" context="H,2,7,H41" playid="11,7,59" type="E" text="MCNEAL, Shawnbr rush for 11 yards to the SFA48, out-of-bounds, PENALTY SMU holding (BEACHUM, Kelvin) 10 yards to the SMU31, NO PLAY." ob="Y" newcontext="H,2,17,H31">
+    <p_pn vh="H" code="HO" type="holding" name="BEACHUM, Kelvin" result="ACCEPT" at="H41" yards="10"></p_pn>
+   </play>
+   <play hasball="SMU" down="2" togo="17" spot="SMU31" context="H,2,17,H31" playid="11,8,60" type="P" text="MITCHELL, B.L. pass complete to SANDERS, E. for 5 yards to the SMU36." newcontext="H,3,12,H36">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="SANDERS, E." gain="5"></p_pa>
+   </play>
+   <play hasball="SMU" down="3" togo="12" spot="SMU36" context="H,3,12,H36" playid="11,9,61" type="P" text="MITCHELL, B.L. sacked for loss of 7 yards to the SMU29 (Charles, Kennet)." newcontext="H,4,19,H29">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="SACK" gain="-7"></p_pa>
+    <p_tk vh="V" name="Charles, Kennet" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="SMU" down="4" togo="19" spot="SMU29" context="H,4,19,H29" playid="11,10,62" type="U" text="SZYMANSKI, Matt punt 55 yards to the SFA16, Brooks, Duane return 0 yards to the SFA16, fumble by Brooks, Duane recovered by SFA Brooks, Duane at SFA2 (FLEPS, Pete)." newcontext="V,1,10,V02">
+    <p_pu vh="H" name="SZYMANSKI, Matt" gain="55" in20="Y"></p_pu>
+    <p_pr vh="V" name="Brooks, Duane" gain="0"></p_pr>
+    <p_fumb vh="V" name="Brooks, Duane" at="V02" frvh="V" frname="Brooks, Duane"></p_fumb>
+    <p_tk vh="H" name="FLEPS, Pete"></p_tk>
+   </play>
+   <drivesum plays="6" yards="25" top="3:16" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,V02,15:00" vh="V" spot="V02" clock="15:00" driveindex="12,62"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA02" context="V,1,10,V02" playid="12,1,63" clock="13:17" text="STEPHEN F. AUSTIN drive start at 13:17, SFA ball on SFA2." newcontext="V,1,10,V02">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA02" context="V,1,10,V02" playid="12,2,64" type="E" text="PENALTY SFA false start (Holmes, Max) 1 yards to the SFA1." newcontext="V,1,11,V01">
+    <p_pn vh="V" code="FS" type="false start" name="Holmes, Max" result="ACCEPT" at="V02" yards="1"></p_pn>
+   </play>
+   <play hasball="SFA" down="1" togo="11" spot="SFA01" context="V,1,11,V01" playid="12,3,65" type="P" text="Moses, Jeremy pass incomplete to Taylor, Marcus." newcontext="V,2,11,V01">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Taylor, Marcus"></p_pa>
+   </play>
+   <play hasball="SFA" down="2" togo="11" spot="SFA01" context="V,2,11,V01" playid="12,4,66" type="P" text="Moses, Jeremy pass complete to Taylor, Marcus for 4 yards to the SFA5 (MOORE, Sterling)." newcontext="V,3,7,V05">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Taylor, Marcus" gain="4"></p_pa>
+    <p_tk vh="H" name="MOORE, Sterling"></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="7" spot="SFA05" context="V,3,7,V05" playid="12,5,67" type="P" first="P" text="Moses, Jeremy pass complete to Rhea, Aaron for 25 yards to the SFA30, 1ST DOWN SFA, out-of-bounds (DENNIS, Rock), PENALTY SMU offside declined." ob="Y" newcontext="V,1,10,V30">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Rhea, Aaron" gain="25"></p_pa>
+    <p_tk vh="H" name="DENNIS, Rock"></p_tk>
+    <p_pn vh="H" code="OS" type="offside" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA30" context="V,1,10,V30" playid="12,6,68" type="R" text="Pervis, Vincent rush for 8 yards to the SFA38 (KENNEMER, Chase;MOORE, Sterling)." newcontext="V,2,2,V38">
+    <p_ru vh="V" name="Pervis, Vincent" gain="8"></p_ru>
+    <p_tk vh="H" name="KENNEMER, Chase" assist="Y"></p_tk>
+    <p_tk vh="H" name="MOORE, Sterling" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="2" spot="SFA38" context="V,2,2,V38" playid="12,7,69" type="R" text="Pervis, Vincent rush for no gain to the SFA38 (ROGERS, Cameron)." newcontext="V,3,2,V38">
+    <p_ru vh="V" name="Pervis, Vincent" gain="0"></p_ru>
+    <p_tk vh="H" name="ROGERS, Cameron"></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="2" spot="SFA38" context="V,3,2,V38" playid="12,8,70" type="R" text="Moses, Jeremy rush for loss of 4 yards to the SFA34, fumble by Moses, Jeremy recovered by SFA Moses, Jeremy at SFA34." newcontext="V,4,6,V34">
+    <p_ru vh="V" name="Moses, Jeremy" gain="-4"></p_ru>
+    <p_fumb vh="V" name="Moses, Jeremy" at="V34" frvh="V" frname="Moses, Jeremy"></p_fumb>
+   </play>
+   <play hasball="SFA" down="4" togo="6" spot="SFA34" context="V,4,6,V34" playid="12,9,71" type="U" text="Nelson, Drew punt 38 yards to the SMU28, fair catch by SANDERS, E.." newcontext="H,1,10,H28">
+    <p_pu vh="V" name="Nelson, Drew" gain="38" fc="SANDERS, E."></p_pu>
+   </play>
+   <drivesum plays="6" yards="32" top="3:04" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H28,13:17" vh="H" spot="H28" clock="13:17" driveindex="13,71"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU28" context="H,1,10,H28" playid="13,1,72" clock="10:13" text="SMU MUSTANGS drive start at 10:13." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU28" context="H,1,10,H28" playid="13,2,73" type="R" text="MCNEAL, Shawnbr rush for no gain to the SMU28 (Barlow, Cory)." newcontext="H,2,10,H28">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="0"></p_ru>
+    <p_tk vh="V" name="Barlow, Cory"></p_tk>
+   </play>
+   <play hasball="SMU" down="2" togo="10" spot="SMU28" context="H,2,10,H28" playid="13,3,74" type="P" text="MITCHELL, B.L. pass incomplete to WILKERSON, T.." newcontext="H,3,10,H28">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="WILKERSON, T."></p_pa>
+   </play>
+   <play hasball="SMU" down="3" togo="10" spot="SMU28" context="H,3,10,H28" playid="13,4,75" type="P" first="P" text="MITCHELL, B.L. pass complete to JOHNSON, Darius for 12 yards to the SMU40, 1ST DOWN SMU (Knicky, Tim)." newcontext="H,1,10,H40">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="JOHNSON, Darius" gain="12"></p_pa>
+    <p_tk vh="V" name="Knicky, Tim"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU40" context="H,1,10,H40" playid="13,5,76" type="P" text="MITCHELL, B.L. pass complete to SANDERS, E. for 4 yards to the SMU44 (Barlow, Cory)." newcontext="H,2,6,H44">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="SANDERS, E." gain="4"></p_pa>
+    <p_tk vh="V" name="Barlow, Cory"></p_tk>
+   </play>
+   <play hasball="SMU" down="2" togo="6" spot="SMU44" context="H,2,6,H44" playid="13,6,77" type="P" text="MITCHELL, B.L. pass incomplete to BEASLEY, Cole." newcontext="H,3,6,H44">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="BEASLEY, Cole"></p_pa>
+   </play>
+   <play hasball="SMU" down="3" togo="6" spot="SMU44" context="H,3,6,H44" playid="13,7,78" type="P" text="MITCHELL, B.L. pass incomplete to WILKERSON, T.." newcontext="H,4,6,H44">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="WILKERSON, T."></p_pa>
+   </play>
+   <play hasball="SMU" down="4" togo="6" spot="SMU44" context="H,4,6,H44" playid="13,8,79" type="U" text="SZYMANSKI, Matt punt 46 yards to the SFA10, out-of-bounds." ob="Y" newcontext="V,1,10,V10">
+    <p_pu vh="H" name="SZYMANSKI, Matt" gain="46" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="16" top="2:22" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="V,V10,10:13" vh="V" spot="V10" clock="10:13" driveindex="14,79"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA10" context="V,1,10,V10" playid="14,1,80" clock="07:51" text="STEPHEN F. AUSTIN drive start at 07:51." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA10" context="V,1,10,V10" playid="14,2,81" type="P" first="P" text="Moses, Jeremy pass complete to Rhea, Aaron for 26 yards to the SFA36, 1ST DOWN SFA, out-of-bounds (BANJO, Chris)." ob="Y" newcontext="V,1,10,V36">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Rhea, Aaron" gain="26"></p_pa>
+    <p_tk vh="H" name="BANJO, Chris"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA36" context="V,1,10,V36" playid="14,3,82" type="R" text="Pervis, Vincent rush for 4 yards to the SFA40 (FRAZIER, M.;KENNEMER, Chase)." newcontext="V,2,6,V40">
+    <p_ru vh="V" name="Pervis, Vincent" gain="4"></p_ru>
+    <p_tk vh="H" name="FRAZIER, M." assist="Y"></p_tk>
+    <p_tk vh="H" name="KENNEMER, Chase" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="6" spot="SFA40" context="V,2,6,V40" playid="14,4,83" type="P" first="P" text="Moses, Jeremy pass complete to Rhea, Aaron for 6 yards to the SFA46, 1ST DOWN SFA (DENNIS, Rock)." newcontext="V,1,10,V46">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Rhea, Aaron" gain="6"></p_pa>
+    <p_tk vh="H" name="DENNIS, Rock"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA46" context="V,1,10,V46" playid="14,5,84" type="R" text="Pervis, Vincent rush for 4 yards to the 50 yardline (ROGERS, Cameron)." newcontext="V,2,6,V50">
+    <p_ru vh="V" name="Pervis, Vincent" gain="4"></p_ru>
+    <p_tk vh="H" name="ROGERS, Cameron"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="6" spot="SFA50" context="V,2,6,V50" playid="14,6,85" type="P" first="P" text="Moses, Jeremy pass complete to Brooks, Duane for 6 yards to the SMU44, 1ST DOWN SFA (HUDMAN, Bryce)." newcontext="V,1,10,H44">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Brooks, Duane" gain="6"></p_pa>
+    <p_tk vh="H" name="HUDMAN, Bryce"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU44" context="V,1,10,H44" playid="14,7,86" type="R" text="Pervis, Vincent rush for 4 yards to the SMU40 (PARHAM, Chris;ROGERS, Cameron)." newcontext="V,2,6,H40">
+    <p_ru vh="V" name="Pervis, Vincent" gain="4"></p_ru>
+    <p_tk vh="H" name="PARHAM, Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="ROGERS, Cameron" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="6" spot="SMU40" context="V,2,6,H40" playid="14,8,87" type="P" text="Moses, Jeremy pass complete to Roberson, Corde for loss of 5 yards to the SMU45 (HUDMAN, Bryce)." newcontext="V,3,11,H45">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Roberson, Corde" gain="-5"></p_pa>
+    <p_tk vh="H" name="HUDMAN, Bryce" tfl="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="11" spot="SMU45" context="V,3,11,H45" playid="14,9,88" type="P" first="P" text="Moses, Jeremy pass complete to Scott, Brandon for 16 yards to the SMU29, 1ST DOWN SFA (DENNIS, Rock;MCCANN, Bryan)." newcontext="V,1,10,H29">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Scott, Brandon" gain="16"></p_pa>
+    <p_tk vh="H" name="DENNIS, Rock" assist="Y"></p_tk>
+    <p_tk vh="H" name="MCCANN, Bryan" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU29" context="V,1,10,H29" playid="14,10,89" type="P" text="Moses, Jeremy pass incomplete to Rhea, Aaron." newcontext="V,2,10,H29">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Rhea, Aaron"></p_pa>
+   </play>
+   <play hasball="SFA" down="2" togo="10" spot="SMU29" context="V,2,10,H29" playid="14,11,90" type="#" clock="05:01" text="Timeout SMU Mustangs, clock 05:01." newcontext="V,2,10,H29">
+    <p_to vh="H" team="SMU Mustangs"></p_to>
+   </play>
+   <play hasball="SFA" down="2" togo="10" spot="SMU29" context="V,2,10,H29" playid="14,12,91" type="P" text="Moses, Jeremy pass incomplete to Crawford, Graly." newcontext="V,3,10,H29">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Crawford, Graly"></p_pa>
+   </play>
+   <play hasball="SFA" down="3" togo="10" spot="SMU29" context="V,3,10,H29" playid="14,13,92" type="P" text="Moses, Jeremy pass incomplete to Rhea, Aaron (BANJO, Chris)." newcontext="V,4,10,H29">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Rhea, Aaron"></p_pa>
+    <p_bu vh="H" name="BANJO, Chris"></p_bu>
+   </play>
+   <play hasball="SFA" down="4" togo="10" spot="SMU29" context="V,4,10,H29" playid="14,14,93" type="F" score="Y" clock="04:42" text="Engwall, Evan field goal attempt from 46 GOOD, clock 04:42." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Engwall, Evan" distance="46" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="10" H="7"></score>
+   <drivesum plays="12" yards="61" top="3:09" driveindex="14" complete="Y"></drivesum>
+   <play hasball="SFA" down="1" togo="0" spot="SFA30" context="V,1,0,V30" playid="14,15,94" type="K" text="Engwall, Evan kickoff 30 yards to the SMU40, fair catch by HENDERSON, B.." newcontext="H,1,10,H40">
+    <p_ko vh="V" name="Engwall, Evan" gain="30" result="C" fc="HENDERSON, B."></p_ko>
+   </play>
+   <drivestart poss="H,H40,04:42" vh="H" spot="H40" clock="04:42" driveindex="15,94"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU40" context="H,1,10,H40" playid="15,1,95" clock="04:42" text="SMU MUSTANGS drive start at 04:42." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU40" context="H,1,10,H40" playid="15,2,96" type="P" text="MITCHELL, B.L. pass incomplete to WILKERSON, T.." newcontext="H,2,10,H40">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="WILKERSON, T."></p_pa>
+   </play>
+   <play hasball="SMU" down="2" togo="10" spot="SMU40" context="H,2,10,H40" playid="15,3,97" type="P" text="MITCHELL, B.L. pass complete to SANDERS, E. for 6 yards to the SMU46 (Banks, Andre)." newcontext="H,3,4,H46">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="SANDERS, E." gain="6"></p_pa>
+    <p_tk vh="V" name="Banks, Andre"></p_tk>
+   </play>
+   <play hasball="SMU" down="3" togo="4" spot="SMU46" context="H,3,4,H46" playid="15,4,98" type="P" first="P" text="MITCHELL, B.L. pass complete to SANDERS, E. for 4 yards to the 50 yardline, 1ST DOWN SMU (Knicky, Tim)." newcontext="H,1,10,H50">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="SANDERS, E." gain="4"></p_pa>
+    <p_tk vh="V" name="Knicky, Tim"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU50" context="H,1,10,H50" playid="15,5,99" type="P" first="P" text="MITCHELL, B.L. pass complete to SANDERS, E. for 21 yards to the SFA29, 1ST DOWN SMU (Barlow, Cory)." newcontext="H,1,10,V29">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="SANDERS, E." gain="21"></p_pa>
+    <p_tk vh="V" name="Barlow, Cory"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SFA29" context="H,1,10,V29" playid="15,6,100" type="#" clock="03:17" text="Timeout Stephen F. Austin, clock 03:17." newcontext="H,1,10,V29">
+    <p_to vh="V" team="Stephen F. Austin"></p_to>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SFA29" context="H,1,10,V29" playid="15,7,101" type="P" first="P" text="MITCHELL, B.L. pass complete to ROBINSON, A. for 11 yards to the SFA18, 1ST DOWN SMU (Banks, Andre)." newcontext="H,1,10,V18">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="ROBINSON, A." gain="11"></p_pa>
+    <p_tk vh="V" name="Banks, Andre"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SFA18" context="H,1,10,V18" playid="15,8,102" type="P" first="P" score="Y" clock="02:45" text="MITCHELL, B.L. pass complete to JOHNSON, Darius for 18 yards to the SFA0, 1ST DOWN SMU, TOUCHDOWN, clock 02:45." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="JOHNSON, Darius" gain="18"></p_pa>
+   </play>
+   <play hasball="SMU" down="1" togo="0" spot="SFA03" context="H,1,0,V03" playid="15,9,103" type="X" score="Y" text="SZYMANSKI, Matt kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="SZYMANSKI, Matt" qb="SZYMANSKI, Matt" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="14"></score>
+   <drivesum plays="6" yards="60" top="1:57" driveindex="15" complete="Y"></drivesum>
+   <play hasball="SMU" down="1" togo="0" spot="SMU30" context="H,1,0,H30" playid="15,10,104" type="K" text="SZYMANSKI, Matt kickoff 65 yards to the SFA5, Parks, Contrevi return 18 yards to the SFA23 (DAVIS, Aaron;JONES, Victor)." newcontext="V,1,10,V23">
+    <p_ko vh="H" name="SZYMANSKI, Matt" gain="65"></p_ko>
+    <p_kr vh="V" name="Parks, Contrevi" gain="18"></p_kr>
+    <p_tk vh="H" name="DAVIS, Aaron" assist="Y"></p_tk>
+    <p_tk vh="H" name="JONES, Victor" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V23,02:45" vh="V" spot="V23" clock="02:45" driveindex="16,104"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA23" context="V,1,10,V23" playid="16,1,105" clock="02:38" text="STEPHEN F. AUSTIN drive start at 02:38." newcontext="V,1,10,V23">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA23" context="V,1,10,V23" playid="16,2,106" type="P" text="Moses, Jeremy pass complete to Rhea, Aaron for 5 yards to the SFA28 (DENNIS, Rock)." newcontext="V,2,5,V28">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Rhea, Aaron" gain="5"></p_pa>
+    <p_tk vh="H" name="DENNIS, Rock"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="5" spot="SFA28" context="V,2,5,V28" playid="16,3,107" type="P" first="P" text="Moses, Jeremy pass complete to Crawford, Graly for 11 yards to the SFA39, 1ST DOWN SFA (REED, Taylor;BANJO, Chris)." newcontext="V,1,10,V39">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Crawford, Graly" gain="11"></p_pa>
+    <p_tk vh="H" name="REED, Taylor" assist="Y"></p_tk>
+    <p_tk vh="H" name="BANJO, Chris" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA39" context="V,1,10,V39" playid="16,4,108" type="R" text="Ross, Tyrone rush for 5 yards to the SFA44 (DAVIS, Ja'Gared)." newcontext="V,2,5,V44">
+    <p_ru vh="V" name="Ross, Tyrone" gain="5"></p_ru>
+    <p_tk vh="H" name="DAVIS, Ja'Gared"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="5" spot="SFA44" context="V,2,5,V44" playid="16,5,109" type="#" clock="01:42" text="Timeout Stephen F. Austin, clock 01:42." newcontext="V,2,5,V44">
+    <p_to vh="V" team="Stephen F. Austin"></p_to>
+   </play>
+   <play hasball="SFA" down="2" togo="5" spot="SFA44" context="V,2,5,V44" playid="16,6,110" type="R" text="Ross, Tyrone rush for no gain to the SFA44 (REED, Taylor)." newcontext="V,3,5,V44">
+    <p_ru vh="V" name="Ross, Tyrone" gain="0"></p_ru>
+    <p_tk vh="H" name="REED, Taylor"></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="5" spot="SFA44" context="V,3,5,V44" playid="16,7,111" type="P" text="Moses, Jeremy pass incomplete to Rhea, Aaron, QB hurry by THOMPSON, T.." newcontext="V,4,5,V44">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Rhea, Aaron"></p_pa>
+    <p_qbh vh="H" name="THOMPSON, T."></p_qbh>
+   </play>
+   <play hasball="SFA" down="4" togo="5" spot="SFA44" context="V,4,5,V44" playid="16,8,112" type="U" text="Nelson, Drew punt 39 yards to the SMU17, fair catch by SANDERS, E.." newcontext="H,1,10,H17">
+    <p_pu vh="V" name="Nelson, Drew" gain="39" in20="Y" fc="SANDERS, E."></p_pu>
+   </play>
+   <drivesum plays="5" yards="21" top="1:44" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,H17,01:42" vh="H" spot="H17" clock="01:42" driveindex="17,112"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU17" context="H,1,10,H17" playid="17,1,113" clock="00:54" text="SMU MUSTANGS drive start at 00:54." newcontext="H,1,10,H17">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU17" context="H,1,10,H17" playid="17,2,114" type="P" text="MITCHELL, B.L. pass incomplete to ROBINSON, A.." newcontext="H,2,10,H17">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="ROBINSON, A."></p_pa>
+   </play>
+   <play hasball="SMU" down="2" togo="10" spot="SMU17" context="H,2,10,H17" playid="17,3,115" type="P" text="MITCHELL, B.L. pass complete to LINE, Zach for 3 yards to the SMU20 (Knicky, Tim)." newcontext="H,3,7,H20">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="LINE, Zach" gain="3"></p_pa>
+    <p_tk vh="V" name="Knicky, Tim"></p_tk>
+   </play>
+   <play hasball="SMU" down="3" togo="7" spot="SMU20" context="H,3,7,H20" playid="17,4,116" type="#" clock="00:24" text="Timeout SMU Mustangs, clock 00:24." newcontext="H,3,7,H20">
+    <p_to vh="H" team="SMU Mustangs"></p_to>
+   </play>
+   <play hasball="SMU" down="3" togo="7" spot="SMU20" context="H,3,7,H20" playid="17,5,117" type="P" text="MITCHELL, B.L. pass incomplete to ROBINSON, A.." newcontext="H,4,7,H20">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="ROBINSON, A."></p_pa>
+   </play>
+   <play hasball="SMU" down="4" togo="7" spot="SMU20" context="H,4,7,H20" playid="17,6,118" type="U" text="SZYMANSKI, Matt punt 42 yards to the SFA38, Brooks, Duane return 4 yards to the SFA42, out-of-bounds (ROBINSON, Keith), PENALTY SFA roughing the kicker declined." ob="Y" newcontext="V,1,10,V42">
+    <p_pu vh="H" name="SZYMANSKI, Matt" gain="42"></p_pu>
+    <p_pr vh="V" name="Brooks, Duane" gain="4"></p_pr>
+    <p_tk vh="H" name="ROBINSON, Keith"></p_tk>
+    <p_pn vh="V" code="RK" type="roughing the kicker" result="DECLINE"></p_pn>
+   </play>
+   <drivesum plays="3" yards="3" top="0:50" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V42,00:24" vh="V" spot="V42" clock="00:24" driveindex="18,118"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA42" context="V,1,10,V42" playid="18,1,119" clock="00:04" text="STEPHEN F. AUSTIN drive start at 00:04." newcontext="V,1,10,V42">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA42" context="V,1,10,V42" playid="18,2,120" type="P" text="Moses, Jeremy pass complete to Brooks, Duane for 9 yards to the SMU49 (ROGERS, Cameron)." newcontext="V,2,1,H49">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Brooks, Duane" gain="9"></p_pa>
+    <p_tk vh="H" name="ROGERS, Cameron"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="1" spot="SMU49" context="V,2,1,H49" playid="18,3,121" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,2,1,H49">
+   </play>
+   <drivesum plays="1" yards="9" top="0:04" driveindex="18" complete="Y"></drivesum>
+   <score qtr="2" V="10" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SFA">
+    <firstdowns no="6" rush="0" pass="6" penalty="0"></firstdowns>
+    <penalties no="1" yds="1"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="2" lost="0"></fumbles>
+    <misc yds="0" top="08:01"></misc>
+    <rush att="8" yds="21" gain="25" loss="4" td="0" long="0"></rush>
+    <pass comp="10" att="15" int="0" yds="103" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="10" yds="103" td="0" long="0"></rcv>
+    <punt no="2" yds="77" long="0" blkd="0" tb="0" fc="2" plus50="0" inside20="1" avg="38.5"></punt>
+    <ko no="1" yds="30" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="46" blkd="0"></fg>
+    <defense tackua="9" tacka="0" tot_tack="9" tflua="1" tfla="0" tflyds="7" sacks="1" sackyds="7"></defense>
+    <kr no="1" yds="18" td="0" long="0"></kr>
+    <pr no="2" yds="-10" td="0" long="4"></pr>
+    <fumbles no="2" lost="0"></fumbles>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="SMU">
+    <firstdowns no="5" rush="0" pass="5" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="3" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:52"></misc>
+    <rush att="2" yds="-7" gain="0" loss="7" td="0" long="0"></rush>
+    <pass comp="9" att="15" int="0" yds="84" td="1" long="0" sacks="1" sackyds="7"></pass>
+    <rcv no="9" yds="84" td="1" long="0"></rcv>
+    <punt no="3" yds="143" long="5" blkd="0" tb="0" fc="0" plus50="1" inside20="2" avg="47.7"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="14" tacka="12" tot_tack="26" tflua="1" tfla="0" tflyds="5" sacks="0" sackyds="0" brup="1" qbh="1"></defense>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="SFA" down="2" togo="1" spot="SMU49" context="V,2,1,H49" playid="18,4,122" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00." newcontext="V,2,1,H49">
+   </play>
+   <play hasball="SFA" down="2" togo="1" spot="SMU49" context="V,2,1,H49" playid="18,5,123" text="SMU ball on SMU30." newcontext="H,2,1,H30">
+   </play>
+   <play hasball="SMU" down="2" togo="1" spot="SMU30" context="H,2,1,H30" playid="18,6,124" type="K" text="SZYMANSKI, Matt kickoff 65 yards to the SFA5, Pervis, Vincent return 23 yards to the SFA28 (THOMAS, Bennie;ROBINSON, Keith)." newcontext="V,1,10,V28">
+    <p_ko vh="H" name="SZYMANSKI, Matt" gain="65"></p_ko>
+    <p_kr vh="V" name="Pervis, Vincent" gain="23"></p_kr>
+    <p_tk vh="H" name="THOMAS, Bennie" assist="Y"></p_tk>
+    <p_tk vh="H" name="ROBINSON, Keith" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V28,15:00" vh="V" spot="V28" clock="15:00" driveindex="19,124"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA28" context="V,1,10,V28" playid="19,1,125" clock="14:52" text="STEPHEN F. AUSTIN drive start at 14:52." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA28" context="V,1,10,V28" playid="19,2,126" type="R" text="Parks, Contrevi rush for 7 yards to the SFA35, out-of-bounds (BANJO, Chris)." ob="Y" newcontext="V,2,3,V35">
+    <p_ru vh="V" name="Parks, Contrevi" gain="7"></p_ru>
+    <p_tk vh="H" name="BANJO, Chris"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="3" spot="SFA35" context="V,2,3,V35" playid="19,3,127" type="R" text="Ross, Tyrone rush for no gain to the SFA35 (YENGA, Youri)." newcontext="V,3,3,V35">
+    <p_ru vh="V" name="Ross, Tyrone" gain="0"></p_ru>
+    <p_tk vh="H" name="YENGA, Youri"></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="3" spot="SFA35" context="V,3,3,V35" playid="19,4,128" type="P" first="P" text="Moses, Jeremy pass complete to Crawford, Graly for 12 yards to the SFA47, 1ST DOWN SFA (THOMPSON, T.)." newcontext="V,1,10,V47">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Crawford, Graly" gain="12"></p_pa>
+    <p_tk vh="H" name="THOMPSON, T."></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA47" context="V,1,10,V47" playid="19,5,129" type="P" text="Moses, Jeremy pass complete to Crawford, Graly for 4 yards to the SMU49 (MOORE, Sterling)." newcontext="V,2,6,H49">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Crawford, Graly" gain="4"></p_pa>
+    <p_tk vh="H" name="MOORE, Sterling"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="6" spot="SMU49" context="V,2,6,H49" playid="19,6,130" type="P" text="Moses, Jeremy pass complete to Taylor, Marcus for 5 yards to the SMU44 (YENGA, Youri)." newcontext="V,3,1,H44">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Taylor, Marcus" gain="5"></p_pa>
+    <p_tk vh="H" name="YENGA, Youri"></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="1" spot="SMU44" context="V,3,1,H44" playid="19,7,131" type="P" first="P" text="Moses, Jeremy pass complete to Crawford, Graly for 5 yards to the SMU39, 1ST DOWN SFA (BANJO, Chris)." newcontext="V,1,10,H39">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Crawford, Graly" gain="5"></p_pa>
+    <p_tk vh="H" name="BANJO, Chris"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU39" context="V,1,10,H39" playid="19,8,132" type="P" first="P" text="Moses, Jeremy pass complete to Parks, Contrevi for 13 yards to the SMU26, 1ST DOWN SFA." newcontext="V,1,10,H26">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Parks, Contrevi" gain="13"></p_pa>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU26" context="V,1,10,H26" playid="19,9,133" type="E" text="PENALTY SMU substitution infraction 5 yards to the SMU21." newcontext="V,1,5,H21">
+    <p_pn vh="H" code="SU" type="substitution infraction" result="ACCEPT" at="H26" yards="5"></p_pn>
+   </play>
+   <play hasball="SFA" down="1" togo="5" spot="SMU21" context="V,1,5,H21" playid="19,10,134" type="P" text="Moses, Jeremy pass incomplete to Parks, Contrevi." newcontext="V,2,5,H21">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Parks, Contrevi"></p_pa>
+   </play>
+   <play hasball="SFA" down="2" togo="5" spot="SMU21" context="V,2,5,H21" playid="19,11,135" type="P" text="Moses, Jeremy pass incomplete to Pervis, Vincent." newcontext="V,3,5,H21">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Pervis, Vincent"></p_pa>
+   </play>
+   <play hasball="SFA" down="3" togo="5" spot="SMU21" context="V,3,5,H21" playid="19,12,136" type="P" text="Moses, Jeremy pass incomplete to Brooks, Duane." newcontext="V,4,5,H21">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Brooks, Duane"></p_pa>
+   </play>
+   <play hasball="SFA" down="4" togo="5" spot="SMU21" context="V,4,5,H21" playid="19,13,137" type="F" score="Y" clock="11:45" text="Engwall, Evan field goal attempt from 38 GOOD, clock 11:45." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Engwall, Evan" distance="38" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="13" H="14"></score>
+   <drivesum plays="11" yards="51" top="3:07" driveindex="19" complete="Y"></drivesum>
+   <play hasball="SFA" down="1" togo="0" spot="SFA30" context="V,1,0,V30" playid="19,14,138" type="K" text="Engwall, Evan kickoff 64 yards to the SMU6, out-of-bounds, SMU ball on SMU40." ob="Y" newcontext="H,1,10,H40">
+    <p_ko vh="V" name="Engwall, Evan" gain="64" result="O"></p_ko>
+   </play>
+   <drivestart poss="H,H40,11:45" vh="H" spot="H40" clock="11:45" driveindex="20,138"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU40" context="H,1,10,H40" playid="20,1,139" clock="11:45" text="SMU MUSTANGS drive start at 11:45." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU40" context="H,1,10,H40" playid="20,2,140" type="R" text="MCNEAL, Shawnbr rush for loss of 1 yard to the SMU39 (Williams, Jabar;Sternes, Rainey)." newcontext="H,2,11,H39">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="-1"></p_ru>
+    <p_tk vh="V" name="Williams, Jabar" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Sternes, Rainey" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="SMU" down="2" togo="11" spot="SMU39" context="H,2,11,H39" playid="20,3,141" type="P" text="MITCHELL, B.L. pass incomplete to HAYNES, Bradley (Barlow, Cory)." newcontext="H,3,11,H39">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="HAYNES, Bradley"></p_pa>
+    <p_bu vh="V" name="Barlow, Cory"></p_bu>
+   </play>
+   <play hasball="SMU" down="3" togo="11" spot="SMU39" context="H,3,11,H39" playid="20,4,142" type="P" text="MITCHELL, B.L. pass incomplete to JOHNSON, Darius." newcontext="H,4,11,H39">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="JOHNSON, Darius"></p_pa>
+   </play>
+   <play hasball="SMU" down="4" togo="11" spot="SMU39" context="H,4,11,H39" playid="20,5,143" type="U" text="SZYMANSKI, Matt punt 43 yards to the SFA18, Parks, Contrevi return 10 yards to the SFA28 (DAVIS, Aaron;PARHAM, Chris)." newcontext="V,1,10,V28">
+    <p_pu vh="H" name="SZYMANSKI, Matt" gain="43"></p_pu>
+    <p_pr vh="V" name="Parks, Contrevi" gain="10"></p_pr>
+    <p_tk vh="H" name="DAVIS, Aaron" assist="Y"></p_tk>
+    <p_tk vh="H" name="PARHAM, Chris" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-1" top="1:05" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,V28,11:45" vh="V" spot="V28" clock="11:45" driveindex="21,143"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA28" context="V,1,10,V28" playid="21,1,144" clock="10:40" text="STEPHEN F. AUSTIN drive start at 10:40." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA28" context="V,1,10,V28" playid="21,2,145" type="P" text="Moses, Jeremy pass complete to Fancher, Zek for 6 yards to the SFA34 (FLEMING, P.)." newcontext="V,2,4,V34">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Fancher, Zek" gain="6"></p_pa>
+    <p_tk vh="H" name="FLEMING, P."></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="4" spot="SFA34" context="V,2,4,V34" playid="21,3,146" type="R" text="Ross, Tyrone rush for no gain to the SFA34 (MCCANN, Bryan;FRAZIER, M.)." newcontext="V,3,4,V34">
+    <p_ru vh="V" name="Ross, Tyrone" gain="0"></p_ru>
+    <p_tk vh="H" name="MCCANN, Bryan" assist="Y"></p_tk>
+    <p_tk vh="H" name="FRAZIER, M." assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="4" spot="SFA34" context="V,3,4,V34" playid="21,4,147" type="P" first="P" text="Moses, Jeremy pass complete to Rhea, Aaron for 21 yards to the SMU45, 1ST DOWN SFA (DENNIS, Rock)." newcontext="V,1,10,H45">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Rhea, Aaron" gain="21"></p_pa>
+    <p_tk vh="H" name="DENNIS, Rock"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU45" context="V,1,10,H45" playid="21,5,148" type="R" first="R" text="Pervis, Vincent rush for 12 yards to the SMU33, 1ST DOWN SFA (REED, Taylor)." newcontext="V,1,10,H33">
+    <p_ru vh="V" name="Pervis, Vincent" gain="12"></p_ru>
+    <p_tk vh="H" name="REED, Taylor"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU33" context="V,1,10,H33" playid="21,6,149" type="R" text="Pervis, Vincent rush for 7 yards to the SMU26 (KENNEMER, Chase)." newcontext="V,2,3,H26">
+    <p_ru vh="V" name="Pervis, Vincent" gain="7"></p_ru>
+    <p_tk vh="H" name="KENNEMER, Chase"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="3" spot="SMU26" context="V,2,3,H26" playid="21,7,150" type="R" text="Ross, Tyrone rush for 2 yards to the SMU24 (THOMPSON, T.)." newcontext="V,3,1,H24">
+    <p_ru vh="V" name="Ross, Tyrone" gain="2"></p_ru>
+    <p_tk vh="H" name="THOMPSON, T."></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="1" spot="SMU24" context="V,3,1,H24" playid="21,8,151" type="R" first="R" text="Ross, Tyrone rush for 2 yards to the SMU22, 1ST DOWN SFA (REED, Taylor)." newcontext="V,1,10,H22">
+    <p_ru vh="V" name="Ross, Tyrone" gain="2"></p_ru>
+    <p_tk vh="H" name="REED, Taylor"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU22" context="V,1,10,H22" playid="21,9,152" type="P" turnover="I" text="Moses, Jeremy pass intercepted by DENNIS, Rock at the SMU10, DENNIS, Rock return 0 yards to the SMU10." newcontext="H,1,10,H10">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INT"></p_pa>
+    <p_ir vh="H" name="DENNIS, Rock" at="H10" gain="0"></p_ir>
+   </play>
+   <drivesum plays="8" yards="50" top="3:42" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,H10,10:40" vh="H" spot="H10" clock="10:40" driveindex="22,152"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU10" context="H,1,10,H10" playid="22,1,153" clock="06:58" text="SMU MUSTANGS drive start at 06:58." newcontext="H,1,10,H10">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU10" context="H,1,10,H10" playid="22,2,154" type="R" text="MCNEAL, Shawnbr rush for 4 yards to the SMU14 (Hicks, Andre)." newcontext="H,2,6,H14">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="4"></p_ru>
+    <p_tk vh="V" name="Hicks, Andre"></p_tk>
+   </play>
+   <play hasball="SMU" down="2" togo="6" spot="SMU14" context="H,2,6,H14" playid="22,3,155" type="R" first="R" text="MCNEAL, Shawnbr rush for 11 yards to the SMU25, 1ST DOWN SMU (Aubrey, Josh;Hicks, Andre)." newcontext="H,1,10,H25">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="11"></p_ru>
+    <p_tk vh="V" name="Aubrey, Josh" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hicks, Andre" assist="Y"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU25" context="H,1,10,H25" playid="22,4,156" type="P" text="MITCHELL, B.L. pass incomplete to FLEMING, P.." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="FLEMING, P."></p_pa>
+   </play>
+   <play hasball="SMU" down="2" togo="10" spot="SMU25" context="H,2,10,H25" playid="22,5,157" type="P" text="MITCHELL, B.L. pass complete to ROBINSON, A. for 7 yards to the SMU32." newcontext="H,3,3,H32">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="ROBINSON, A." gain="7"></p_pa>
+   </play>
+   <play hasball="SMU" down="3" togo="3" spot="SMU32" context="H,3,3,H32" playid="22,6,158" type="P" first="P" text="MITCHELL, B.L. pass complete to SANDERS, E. for 10 yards to the SMU42, 1ST DOWN SMU (Williams, Micha)." newcontext="H,1,10,H42">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="SANDERS, E." gain="10"></p_pa>
+    <p_tk vh="V" name="Williams, Micha"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU42" context="H,1,10,H42" playid="22,7,159" type="P" text="MITCHELL, B.L. pass complete to MCNEAL, Shawnbr for 3 yards to the SMU45, out-of-bounds (Choice, Derrick)." ob="Y" newcontext="H,2,7,H45">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="MCNEAL, Shawnbr" gain="3"></p_pa>
+    <p_tk vh="V" name="Choice, Derrick"></p_tk>
+   </play>
+   <play hasball="SMU" down="2" togo="7" spot="SMU45" context="H,2,7,H45" playid="22,8,160" type="P" text="MITCHELL, B.L. pass complete to MCNEAL, Shawnbr for 1 yard to the SMU46 (Banks, Andre)." newcontext="H,3,6,H46">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="MCNEAL, Shawnbr" gain="1"></p_pa>
+    <p_tk vh="V" name="Banks, Andre"></p_tk>
+   </play>
+   <play hasball="SMU" down="3" togo="6" spot="SMU46" context="H,3,6,H46" playid="22,9,161" type="P" text="MITCHELL, B.L. pass incomplete to JOHNSON, Darius (Knicky, Tim)." newcontext="H,4,6,H46">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="JOHNSON, Darius"></p_pa>
+    <p_bu vh="V" name="Knicky, Tim"></p_bu>
+   </play>
+   <play hasball="SMU" down="4" togo="6" spot="SMU46" context="H,4,6,H46" playid="22,10,162" type="R" text="SZYMANSKI, Matt rush for loss of 1 yard to the SMU45, out-of-bounds (Ducote, Devin), PENALTY SMU holding declined." ob="Y" newcontext="V,1,10,H45">
+    <p_ru vh="H" name="SZYMANSKI, Matt" gain="-1"></p_ru>
+    <p_tk vh="V" name="Ducote, Devin" tfl="Y"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" result="DECLINE"></p_pn>
+   </play>
+   <drivesum plays="9" yards="35" top="3:41" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,H45,06:58" vh="V" spot="H45" clock="06:58" driveindex="23,162"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SMU45" context="V,1,10,H45" playid="23,1,163" clock="03:17" text="STEPHEN F. AUSTIN drive start at 03:17." newcontext="V,1,10,H45">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU45" context="V,1,10,H45" playid="23,2,164" type="P" first="P" text="Moses, Jeremy pass complete to Parks, Contrevi for 23 yards to the SMU22, 1ST DOWN SFA (HUDMAN, Bryce)." newcontext="V,1,10,H22">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Parks, Contrevi" gain="23"></p_pa>
+    <p_tk vh="H" name="HUDMAN, Bryce"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU22" context="V,1,10,H22" playid="23,3,165" type="R" text="Ross, Tyrone rush for loss of 3 yards to the SMU25 (PARHAM, Chris;DENNIS, Rock)." newcontext="V,2,13,H25">
+    <p_ru vh="V" name="Ross, Tyrone" gain="-3"></p_ru>
+    <p_tk vh="H" name="PARHAM, Chris" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="DENNIS, Rock" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="13" spot="SMU25" context="V,2,13,H25" playid="23,4,166" type="P" text="Moses, Jeremy pass complete to Ross, Tyrone for 3 yards to the SMU22 (KENNEMER, Chase)." newcontext="V,3,10,H22">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Ross, Tyrone" gain="3"></p_pa>
+    <p_tk vh="H" name="KENNEMER, Chase"></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="10" spot="SMU22" context="V,3,10,H22" playid="23,5,167" type="E" text="PENALTY SFA unsportsmanlike conduct (Garrison, Chris) 15 yards to the SMU37." newcontext="V,3,25,H37">
+    <p_pn vh="V" code="UC" type="unsportsmanlike conduct" name="Garrison, Chris" result="ACCEPT" at="H22" yards="15"></p_pn>
+   </play>
+   <play hasball="SFA" down="3" togo="25" spot="SMU37" context="V,3,25,H37" playid="23,6,168" type="R" text="Pervis, Vincent rush for 7 yards to the SMU30 (MOORE, Sterling;YENGA, Youri)." newcontext="V,4,18,H30">
+    <p_ru vh="V" name="Pervis, Vincent" gain="7"></p_ru>
+    <p_tk vh="H" name="MOORE, Sterling" assist="Y"></p_tk>
+    <p_tk vh="H" name="YENGA, Youri" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="4" togo="18" spot="SMU30" context="V,4,18,H30" playid="23,7,169" type="F" score="Y" clock="01:09" text="Engwall, Evan field goal attempt from 48 GOOD, clock 01:09." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Engwall, Evan" distance="48" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="16" H="14"></score>
+   <drivesum plays="5" yards="15" top="2:08" driveindex="23" complete="Y"></drivesum>
+   <play hasball="SFA" down="1" togo="0" spot="SFA30" context="V,1,0,V30" playid="23,8,170" type="K" text="Engwall, Evan kickoff 63 yards to the SMU7, BUTLER, Chris return 31 yards to the SMU38 (Williams, Garre)." newcontext="H,1,10,H38">
+    <p_ko vh="V" name="Engwall, Evan" gain="63"></p_ko>
+    <p_kr vh="H" name="BUTLER, Chris" gain="31"></p_kr>
+    <p_tk vh="V" name="Williams, Garre"></p_tk>
+   </play>
+   <drivestart poss="H,H38,01:09" vh="H" spot="H38" clock="01:09" driveindex="24,170"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU38" context="H,1,10,H38" playid="24,1,171" clock="01:00" text="SMU MUSTANGS drive start at 01:00." newcontext="H,1,10,H38">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU38" context="H,1,10,H38" playid="24,2,172" type="P" text="MITCHELL, B.L. pass incomplete to ROBINSON, A.." newcontext="H,2,10,H38">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="ROBINSON, A."></p_pa>
+   </play>
+   <play hasball="SMU" down="2" togo="10" spot="SMU38" context="H,2,10,H38" playid="24,3,173" type="P" turnover="I" text="MITCHELL, B.L. pass intercepted by Haynes, Chad at the SFA40, Haynes, Chad return 55 yards to the SMU5 (COLLINS, Bryan)." newcontext="V,1,0,H05">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INT"></p_pa>
+    <p_ir vh="V" name="Haynes, Chad" at="V40" gain="55"></p_ir>
+    <p_tk vh="H" name="COLLINS, Bryan"></p_tk>
+   </play>
+   <drivesum plays="2" yards="0" top="0:22" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="V,H05,01:00" vh="V" spot="H05" clock="01:00" driveindex="25,173"></drivestart>
+   <play hasball="SFA" down="1" togo="0" spot="SMU05" context="V,1,0,H05" playid="25,1,174" clock="00:38" text="STEPHEN F. AUSTIN drive start at 00:38." newcontext="V,1,0,H05">
+   </play>
+   <play hasball="SFA" down="1" togo="0" spot="SMU05" context="V,1,0,H05" playid="25,2,175" type="P" text="Moses, Jeremy pass incomplete to Crawford, Graly." newcontext="V,2,0,H05">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Crawford, Graly"></p_pa>
+   </play>
+   <play hasball="SFA" down="2" togo="0" spot="SMU05" context="V,2,0,H05" playid="25,3,176" type="P" text="Moses, Jeremy pass incomplete to Taylor, Marcus." newcontext="V,3,0,H05">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Taylor, Marcus"></p_pa>
+   </play>
+   <play hasball="SFA" down="3" togo="0" spot="SMU05" context="V,3,0,H05" playid="25,4,177" type="P" score="Y" clock="00:22" text="Moses, Jeremy pass complete to Rhea, Aaron for 5 yards to the SMU0, TOUCHDOWN, clock 00:22." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Rhea, Aaron" gain="5"></p_pa>
+   </play>
+   <play hasball="SFA" down="1" togo="0" spot="SMU03" context="V,1,0,H03" playid="25,5,178" type="X" score="Y" text="Engwall, Evan kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Engwall, Evan" qb="Engwall, Evan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="23" H="14"></score>
+   <drivesum plays="3" yards="5" top="0:16" driveindex="25" complete="Y"></drivesum>
+   <play hasball="SFA" down="1" togo="0" spot="SFA30" context="V,1,0,V30" playid="25,6,179" type="K" text="Engwall, Evan kickoff 70 yards to the SMU0, MCCANN, Bryan return 62 yards to the SFA38 (Engwall, Evan)." newcontext="H,1,10,V38">
+    <p_ko vh="V" name="Engwall, Evan" gain="70"></p_ko>
+    <p_kr vh="H" name="MCCANN, Bryan" gain="62"></p_kr>
+    <p_tk vh="V" name="Engwall, Evan"></p_tk>
+   </play>
+   <drivestart poss="H,V38,00:22" vh="H" spot="V38" clock="00:22" driveindex="26,179"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SFA38" context="H,1,10,V38" playid="26,1,180" clock="00:11" text="SMU MUSTANGS drive start at 00:11." newcontext="H,1,10,V38">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SFA38" context="H,1,10,V38" playid="26,2,181" type="R" text="MCNEAL, Shawnbr rush for 3 yards to the SFA35 (Saurit, Weekend)." newcontext="H,2,7,V35">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="3"></p_ru>
+    <p_tk vh="V" name="Saurit, Weekend"></p_tk>
+   </play>
+   <score qtr="3" V="23" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SFA">
+    <firstdowns no="7" rush="2" pass="5" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="5" thirdatt="7" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:13"></misc>
+    <rush att="9" yds="34" gain="37" loss="3" td="0" long="3"></rush>
+    <pass comp="10" att="16" int="1" yds="97" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="10" yds="97" td="1" long="0"></rcv>
+    <ko no="3" yds="197" ob="1" tb="0"></ko>
+    <fg made="2" att="2" long="2" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="4" tot_tack="12" tflua="3" tfla="0" tflyds="3" sacks="1" sackyds="7" brup="2" int="1" intyds="55"></defense>
+    <kr no="1" yds="23" td="0" long="0"></kr>
+    <pr no="1" yds="10" td="0" long="6"></pr>
+    <ir no="1" yds="55" td="0" long="0"></ir>
+    <scoring td="1" fg="2" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="SMU">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:19"></misc>
+    <rush att="5" yds="16" gain="18" loss="2" td="0" long="1"></rush>
+    <pass comp="4" att="10" int="1" yds="21" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="21" td="0" long="0"></rcv>
+    <punt no="1" yds="43" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="43.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <defense tackua="15" tacka="10" tot_tack="25" tflua="2" tfla="0" tflyds="6" sacks="0" sackyds="0" int="1" intyds="0"></defense>
+    <kr no="2" yds="93" td="0" long="26"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="SMU" down="2" togo="7" spot="SFA35" context="H,2,7,V35" playid="26,3,182" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,2,7,V35">
+   </play>
+   <play hasball="SMU" down="2" togo="7" spot="SFA35" context="H,2,7,V35" playid="26,4,183" type="R" text="MITCHELL, B.L. rush for loss of 1 yard to the SFA36 (Hicks, Andre)." newcontext="H,3,8,V36">
+    <p_ru vh="H" name="MITCHELL, B.L." gain="-1"></p_ru>
+    <p_tk vh="V" name="Hicks, Andre" tfl="Y"></p_tk>
+   </play>
+   <play hasball="SMU" down="3" togo="8" spot="SFA36" context="H,3,8,V36" playid="26,5,184" type="P" text="MITCHELL, B.L. pass incomplete to ROBINSON, A.." newcontext="H,4,8,V36">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="ROBINSON, A."></p_pa>
+   </play>
+   <play hasball="SMU" down="4" togo="8" spot="SFA36" context="H,4,8,V36" playid="26,6,185" type="F" score="Y" clock="14:01" text="SZYMANSKI, Matt field goal attempt from 53 GOOD, clock 14:01." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="SZYMANSKI, Matt" distance="53" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="23" H="17"></score>
+   <drivesum plays="4" yards="2" top="1:10" driveindex="26" complete="Y"></drivesum>
+   <play hasball="SMU" down="1" togo="0" spot="SMU30" context="H,1,0,H30" playid="26,7,186" type="K" text="SZYMANSKI, Matt kickoff 48 yards to the SFA22, Pervis, Vincent return 5 yards to the SFA27 (CASTRO, Chris)." newcontext="V,1,10,V27">
+    <p_ko vh="H" name="SZYMANSKI, Matt" gain="48"></p_ko>
+    <p_kr vh="V" name="Pervis, Vincent" gain="5"></p_kr>
+    <p_tk vh="H" name="CASTRO, Chris"></p_tk>
+   </play>
+   <drivestart poss="V,V27,14:01" vh="V" spot="V27" clock="14:01" driveindex="27,186"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA27" context="V,1,10,V27" playid="27,1,187" clock="13:57" text="STEPHEN F. AUSTIN drive start at 13:57." newcontext="V,1,10,V27">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA27" context="V,1,10,V27" playid="27,2,188" type="P" first="P" text="Moses, Jeremy pass complete to Pervis, Vincent for 14 yards to the SFA41, 1ST DOWN SFA, out-of-bounds (MOORE, Sterling)." ob="Y" newcontext="V,1,10,V41">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Pervis, Vincent" gain="14"></p_pa>
+    <p_tk vh="H" name="MOORE, Sterling"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA41" context="V,1,10,V41" playid="27,3,189" type="P" turnover="F" text="Moses, Jeremy pass complete to Crawford, Graly for 30 yards to the SMU29, fumble forced by BANJO, Chris, fumble by Crawford, Graly recovered by SMU DENNIS, Rock at SMU29." newcontext="H,1,10,H29">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Crawford, Graly" gain="30"></p_pa>
+    <p_fumb vh="V" name="Crawford, Graly" at="H29" frvh="H" frname="DENNIS, Rock"></p_fumb>
+    <p_tk vh="H" name="BANJO, Chris" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="2" yards="44" top="0:35" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="H,H29,13:57" vh="H" spot="H29" clock="13:57" driveindex="28,189"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU29" context="H,1,10,H29" playid="28,1,190" clock="13:22" text="SMU MUSTANGS drive start at 13:22." newcontext="H,1,10,H29">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU29" context="H,1,10,H29" playid="28,2,191" type="#" clock="13:22" text="Timeout Stephen F. Austin, clock 13:22." newcontext="H,1,10,H29">
+    <p_to vh="V" team="Stephen F. Austin"></p_to>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU29" context="H,1,10,H29" playid="28,3,192" type="R" first="R" text="MCNEAL, Shawnbr rush for 15 yards to the SMU44, 1ST DOWN SMU, out-of-bounds (Banks, Andre;Barlow, Cory)." ob="Y" newcontext="H,1,10,H44">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="15"></p_ru>
+    <p_tk vh="V" name="Banks, Andre" assist="Y"></p_tk>
+    <p_tk vh="V" name="Barlow, Cory" assist="Y"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU44" context="H,1,10,H44" playid="28,4,193" type="P" text="MITCHELL, B.L. pass incomplete to SANDERS, E.." newcontext="H,2,10,H44">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="SANDERS, E."></p_pa>
+   </play>
+   <play hasball="SMU" down="2" togo="10" spot="SMU44" context="H,2,10,H44" playid="28,5,194" type="R" first="R" text="MCNEAL, Shawnbr rush for 13 yards to the SFA43, 1ST DOWN SMU, out-of-bounds (Haynes, Chad)." ob="Y" newcontext="H,1,10,V43">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="13"></p_ru>
+    <p_tk vh="V" name="Haynes, Chad"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SFA43" context="H,1,10,V43" playid="28,6,195" type="R" text="MCNEAL, Shawnbr rush for 8 yards to the SFA35 (Haynes, Chad;Ducote, Devin)." newcontext="H,2,2,V35">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="8"></p_ru>
+    <p_tk vh="V" name="Haynes, Chad" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ducote, Devin" assist="Y"></p_tk>
+   </play>
+   <play hasball="SMU" down="2" togo="2" spot="SFA35" context="H,2,2,V35" playid="28,7,196" type="P" first="P" text="MITCHELL, B.L. pass complete to LINE, Zach for 4 yards to the SFA31, 1ST DOWN SMU (Thompson, Wayne)." newcontext="H,1,10,V31">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="LINE, Zach" gain="4"></p_pa>
+    <p_tk vh="V" name="Thompson, Wayne"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SFA31" context="H,1,10,V31" playid="28,8,197" type="P" first="P" text="MITCHELL, B.L. pass complete to LINE, Zach for 10 yards to the SFA21, 1ST DOWN SMU (Banks, Andre)." newcontext="H,1,10,V21">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="LINE, Zach" gain="10"></p_pa>
+    <p_tk vh="V" name="Banks, Andre"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SFA21" context="H,1,10,V21" playid="28,9,198" type="P" first="P" text="MITCHELL, B.L. pass complete to ROBINSON, A. for 17 yards to the SFA4, 1ST DOWN SMU (Haynes, Chad)." newcontext="H,1,0,V04">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="ROBINSON, A." gain="17"></p_pa>
+    <p_tk vh="V" name="Haynes, Chad"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="0" spot="SFA04" context="H,1,0,V04" playid="28,10,199" type="R" text="LINE, Zach rush for 2 yards to the SFA2 (Fincher, Jacob)." newcontext="H,2,0,V02">
+    <p_ru vh="H" name="LINE, Zach" gain="2"></p_ru>
+    <p_tk vh="V" name="Fincher, Jacob"></p_tk>
+   </play>
+   <play hasball="SMU" down="2" togo="0" spot="SFA02" context="H,2,0,V02" playid="28,11,200" type="R" text="LINE, Zach rush for 1 yard to the SFA1 (Williams, Jabar)." newcontext="H,3,0,V01">
+    <p_ru vh="H" name="LINE, Zach" gain="1"></p_ru>
+    <p_tk vh="V" name="Williams, Jabar"></p_tk>
+   </play>
+   <play hasball="SMU" down="3" togo="0" spot="SFA01" context="H,3,0,V01" playid="28,12,201" type="R" text="MITCHELL, B.L. rush for no gain to the SFA1 (Warren, Sean;Charles, Kennet)." newcontext="H,4,0,V01">
+    <p_ru vh="H" name="MITCHELL, B.L." gain="0"></p_ru>
+    <p_tk vh="V" name="Warren, Sean" assist="Y"></p_tk>
+    <p_tk vh="V" name="Charles, Kennet" assist="Y"></p_tk>
+   </play>
+   <play hasball="SMU" down="4" togo="0" spot="SFA01" context="H,4,0,V01" playid="28,13,202" type="R" score="Y" clock="07:47" text="MITCHELL, B.L. rush for 1 yard to the SFA0, TOUCHDOWN, clock 07:47." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="MITCHELL, B.L." gain="1"></p_ru>
+   </play>
+   <play hasball="SMU" down="1" togo="0" spot="SFA03" context="H,1,0,V03" playid="28,14,203" type="X" score="Y" text="SZYMANSKI, Matt kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="SZYMANSKI, Matt" qb="SZYMANSKI, Matt" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="23" H="24"></score>
+   <drivesum plays="11" yards="71" top="5:35" driveindex="28" complete="Y"></drivesum>
+   <play hasball="SMU" down="1" togo="0" spot="SMU30" context="H,1,0,H30" playid="28,15,204" type="K" text="SZYMANSKI, Matt kickoff 70 yards to the SFA0, Pervis, Vincent return 25 yards to the SFA25, fumble by Pervis, Vincent recovered by SFA Pervis, Vincent at SFA32." newcontext="V,1,10,V32">
+    <p_ko vh="H" name="SZYMANSKI, Matt" gain="70"></p_ko>
+    <p_kr vh="V" name="Pervis, Vincent" gain="25"></p_kr>
+    <p_fumb vh="V" name="Pervis, Vincent" at="V32" frvh="V" frname="Pervis, Vincent"></p_fumb>
+   </play>
+   <drivestart poss="V,V32,07:47" vh="V" spot="V32" clock="07:47" driveindex="29,204"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA32" context="V,1,10,V32" playid="29,1,205" clock="07:40" text="STEPHEN F. AUSTIN drive start at 07:40, SFA ball on SFA32." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA32" context="V,1,10,V32" playid="29,2,206" type="P" turnover="I" text="Moses, Jeremy pass intercepted by MOORE, Sterling at the SMU37, MOORE, Sterling return 0 yards to the SMU37." newcontext="H,1,10,H37">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INT"></p_pa>
+    <p_ir vh="H" name="MOORE, Sterling" at="H37" gain="0"></p_ir>
+   </play>
+   <drivesum plays="1" yards="0" top="0:08" driveindex="29" complete="Y"></drivesum>
+   <drivestart poss="H,H37,07:40" vh="H" spot="H37" clock="07:40" driveindex="30,206"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU37" context="H,1,10,H37" playid="30,1,207" clock="07:32" text="SMU MUSTANGS drive start at 07:32." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU37" context="H,1,10,H37" playid="30,2,208" type="R" text="MCNEAL, Shawnbr rush for 7 yards to the SMU44, out-of-bounds (Haynes, Chad)." ob="Y" newcontext="H,2,3,H44">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="7"></p_ru>
+    <p_tk vh="V" name="Haynes, Chad"></p_tk>
+   </play>
+   <play hasball="SMU" down="2" togo="3" spot="SMU44" context="H,2,3,H44" playid="30,3,209" type="R" text="MCNEAL, Shawnbr rush for loss of 2 yards to the SMU42 (Hicks, Andre)." newcontext="H,3,5,H42">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="-2"></p_ru>
+    <p_tk vh="V" name="Hicks, Andre" tfl="Y"></p_tk>
+   </play>
+   <play hasball="SMU" down="3" togo="5" spot="SMU42" context="H,3,5,H42" playid="30,4,210" type="E" first="E" text="MITCHELL, B.L. pass incomplete to HAYNES, Bradley (Barlow, Cory), PENALTY SFA pass interference (Barlow, Cory) 15 yards to the SFA43, 1ST DOWN SMU, NO PLAY." newcontext="H,1,10,V43">
+    <p_pn vh="V" code="PI" type="pass interference" name="Barlow, Cory" result="ACCEPT" at="H42" yards="15"></p_pn>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SFA43" context="H,1,10,V43" playid="30,5,211" type="P" text="MITCHELL, B.L. pass incomplete to ROBINSON, A.." newcontext="H,2,10,V43">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="ROBINSON, A."></p_pa>
+   </play>
+   <play hasball="SMU" down="2" togo="10" spot="SFA43" context="H,2,10,V43" playid="30,6,212" type="P" text="MITCHELL, B.L. pass complete to BEASLEY, Cole for 6 yards to the SFA37 (Banks, Andre)." newcontext="H,3,4,V37">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="COMP" rcv="BEASLEY, Cole" gain="6"></p_pa>
+    <p_tk vh="V" name="Banks, Andre"></p_tk>
+   </play>
+   <play hasball="SMU" down="3" togo="4" spot="SFA37" context="H,3,4,V37" playid="30,7,213" type="P" text="MITCHELL, B.L. pass incomplete to HAYNES, Bradley (Warren, Sean)." newcontext="H,4,4,V37">
+    <p_pa vh="H" qb="MITCHELL, B.L." result="INC" rcv="HAYNES, Bradley"></p_pa>
+    <p_bu vh="V" name="Warren, Sean"></p_bu>
+   </play>
+   <play hasball="SMU" down="4" togo="4" spot="SFA37" context="H,4,4,V37" playid="30,8,214" type="U" text="SZYMANSKI, Matt punt 17 yards to the SFA20, out-of-bounds." ob="Y" newcontext="V,1,10,V20">
+    <p_pu vh="H" name="SZYMANSKI, Matt" gain="17" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="26" top="2:17" driveindex="30" complete="Y"></drivesum>
+   <drivestart poss="V,V20,07:32" vh="V" spot="V20" clock="07:32" driveindex="31,214"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA20" context="V,1,10,V20" playid="31,1,215" clock="05:15" text="STEPHEN F. AUSTIN drive start at 05:15." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA20" context="V,1,10,V20" playid="31,2,216" type="R" text="Pervis, Vincent rush for 4 yards to the SFA24 (KENNEMER, Chase;DENNIS, Rock)." newcontext="V,2,6,V24">
+    <p_ru vh="V" name="Pervis, Vincent" gain="4"></p_ru>
+    <p_tk vh="H" name="KENNEMER, Chase" assist="Y"></p_tk>
+    <p_tk vh="H" name="DENNIS, Rock" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="6" spot="SFA24" context="V,2,6,V24" playid="31,3,217" type="P" first="P" text="Moses, Jeremy pass complete to Rhea, Aaron for 41 yards to the SMU35, 1ST DOWN SFA, out-of-bounds (BANJO, Chris)." ob="Y" newcontext="V,1,10,H35">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Rhea, Aaron" gain="41"></p_pa>
+    <p_tk vh="H" name="BANJO, Chris"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU35" context="V,1,10,H35" playid="31,4,218" type="P" text="Moses, Jeremy pass complete to Roberson, Corde for 7 yards to the SMU28 (MCCANN, Bryan)." newcontext="V,2,3,H28">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Roberson, Corde" gain="7"></p_pa>
+    <p_tk vh="H" name="MCCANN, Bryan"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="3" spot="SMU28" context="V,2,3,H28" playid="31,5,219" type="R" first="R" text="Pervis, Vincent rush for 5 yards to the SMU23, 1ST DOWN SFA (BANJO, Chris;YENGA, Youri)." newcontext="V,1,10,H23">
+    <p_ru vh="V" name="Pervis, Vincent" gain="5"></p_ru>
+    <p_tk vh="H" name="BANJO, Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="YENGA, Youri" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU23" context="V,1,10,H23" playid="31,6,220" type="P" text="Moses, Jeremy pass incomplete to Roberson, Corde (ROBINSON, Keith)." newcontext="V,2,10,H23">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Roberson, Corde"></p_pa>
+    <p_bu vh="H" name="ROBINSON, Keith"></p_bu>
+   </play>
+   <play hasball="SFA" down="2" togo="10" spot="SMU23" context="V,2,10,H23" playid="31,7,221" type="R" text="Pervis, Vincent rush for 2 yards to the SMU21 (YENGA, Youri)." newcontext="V,3,8,H21">
+    <p_ru vh="V" name="Pervis, Vincent" gain="2"></p_ru>
+    <p_tk vh="H" name="YENGA, Youri"></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="8" spot="SMU21" context="V,3,8,H21" playid="31,8,222" type="#" clock="03:00" text="Timeout SMU Mustangs, clock 03:00." newcontext="V,3,8,H21">
+    <p_to vh="H" team="SMU Mustangs"></p_to>
+   </play>
+   <play hasball="SFA" down="3" togo="8" spot="SMU21" context="V,3,8,H21" playid="31,9,223" type="R" text="Moses, Jeremy rush for loss of 1 yard to the SMU22 (YENGA, Youri;BANJO, Chris)." newcontext="V,4,9,H22">
+    <p_ru vh="V" name="Moses, Jeremy" gain="-1"></p_ru>
+    <p_tk vh="H" name="YENGA, Youri" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="BANJO, Chris" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="4" togo="9" spot="SMU22" context="V,4,9,H22" playid="31,10,224" type="F" clock="02:13" text="Engwall, Evan field goal attempt from 39 MISSED - wide left, spot at SMU22, clock 02:13." newcontext="H,1,10,H22">
+    <p_fg vh="V" name="Engwall, Evan" distance="39" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="8" yards="58" top="3:02" driveindex="31" complete="Y"></drivesum>
+   <drivestart poss="H,H22,02:13" vh="H" spot="H22" clock="02:13" driveindex="32,224"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU22" context="H,1,10,H22" playid="32,1,225" clock="02:13" text="SMU MUSTANGS drive start at 02:13." newcontext="H,1,10,H22">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU22" context="H,1,10,H22" playid="32,2,226" type="R" text="MCNEAL, Shawnbr rush for 5 yards to the SMU27 (Ducote, Devin)." newcontext="H,2,5,H27">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="5"></p_ru>
+    <p_tk vh="V" name="Ducote, Devin"></p_tk>
+   </play>
+   <play hasball="SMU" down="2" togo="5" spot="SMU27" context="H,2,5,H27" playid="32,3,227" type="#" clock="02:05" text="Timeout Stephen F. Austin, clock 02:05." newcontext="H,2,5,H27">
+    <p_to vh="V" team="Stephen F. Austin"></p_to>
+   </play>
+   <play hasball="SMU" down="2" togo="5" spot="SMU27" context="H,2,5,H27" playid="32,4,228" type="R" first="R" text="MCNEAL, Shawnbr rush for 27 yards to the SFA46, 1ST DOWN SMU, out-of-bounds (Haynes, Chad;Barlow, Cory)." ob="Y" newcontext="H,1,10,V46">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="27"></p_ru>
+    <p_tk vh="V" name="Haynes, Chad" assist="Y"></p_tk>
+    <p_tk vh="V" name="Barlow, Cory" assist="Y"></p_tk>
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SFA46" context="H,1,10,V46" playid="32,5,229" type="E" text="PENALTY SMU delay of game (MITCHELL, B.L.) 5 yards to the SMU49." newcontext="H,1,15,H49">
+    <p_pn vh="H" code="DG" type="delay of game" name="MITCHELL, B.L." result="ACCEPT" at="V46" yards="5"></p_pn>
+   </play>
+   <play hasball="SMU" down="1" togo="15" spot="SMU49" context="H,1,15,H49" playid="32,6,230" type="R" text="MCNEAL, Shawnbr rush for 2 yards to the SFA49 (Barlow, Cory)." newcontext="H,2,13,V49">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="2"></p_ru>
+    <p_tk vh="V" name="Barlow, Cory"></p_tk>
+   </play>
+   <play hasball="SMU" down="2" togo="13" spot="SFA49" context="H,2,13,V49" playid="32,7,231" type="#" clock="01:45" text="Timeout Stephen F. Austin, clock 01:45." newcontext="H,2,13,V49">
+    <p_to vh="V" team="Stephen F. Austin"></p_to>
+   </play>
+   <play hasball="SMU" down="2" togo="13" spot="SFA49" context="H,2,13,V49" playid="32,8,232" type="R" first="R" score="Y" clock="01:31" text="MCNEAL, Shawnbr rush for 49 yards to the SFA0, 1ST DOWN SMU, TOUCHDOWN, clock 01:31." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="MCNEAL, Shawnbr" gain="49"></p_ru>
+   </play>
+   <play hasball="SMU" down="1" togo="0" spot="SFA03" context="H,1,0,V03" playid="32,9,233" type="X" score="Y" text="SZYMANSKI, Matt kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="SZYMANSKI, Matt" qb="SZYMANSKI, Matt" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="23" H="31"></score>
+   <drivesum plays="4" yards="78" top="0:42" driveindex="32" complete="Y"></drivesum>
+   <play hasball="SMU" down="1" togo="0" spot="SMU30" context="H,1,0,H30" playid="32,10,234" type="K" text="SZYMANSKI, Matt kickoff 70 yards to the SFA0, Parks, Contrevi return 22 yards to the SFA22 (THOMAS, Bennie;REED, Taylor)." newcontext="V,1,10,V22">
+    <p_ko vh="H" name="SZYMANSKI, Matt" gain="70"></p_ko>
+    <p_kr vh="V" name="Parks, Contrevi" gain="22"></p_kr>
+    <p_tk vh="H" name="THOMAS, Bennie" assist="Y"></p_tk>
+    <p_tk vh="H" name="REED, Taylor" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V22,01:31" vh="V" spot="V22" clock="01:31" driveindex="33,234"></drivestart>
+   <play hasball="SFA" down="1" togo="10" spot="SFA22" context="V,1,10,V22" playid="33,1,235" clock="01:24" text="STEPHEN F. AUSTIN drive start at 01:24." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SFA22" context="V,1,10,V22" playid="33,2,236" type="P" text="Moses, Jeremy pass complete to Brooks, Duane for loss of 1 yard to the SFA21 (PARHAM, Chris;KENNEMER, Chase)." newcontext="V,2,11,V21">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Brooks, Duane" gain="-1"></p_pa>
+    <p_tk vh="H" name="PARHAM, Chris" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="KENNEMER, Chase" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="2" togo="11" spot="SFA21" context="V,2,11,V21" playid="33,3,237" type="P" text="Moses, Jeremy pass incomplete to Brooks, Duane." newcontext="V,3,11,V21">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Brooks, Duane"></p_pa>
+   </play>
+   <play hasball="SFA" down="3" togo="11" spot="SFA21" context="V,3,11,V21" playid="33,4,238" type="P" first="P" text="Moses, Jeremy pass complete to Brooks, Duane for 30 yards to the SMU49, 1ST DOWN SFA (YENGA, Youri)." newcontext="V,1,10,H49">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Brooks, Duane" gain="30"></p_pa>
+    <p_tk vh="H" name="YENGA, Youri"></p_tk>
+   </play>
+   <play hasball="SFA" down="1" togo="10" spot="SMU49" context="V,1,10,H49" playid="33,5,239" type="P" text="Moses, Jeremy pass incomplete to Crawford, Graly (MOORE, Sterling)." newcontext="V,2,10,H49">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Crawford, Graly"></p_pa>
+    <p_bu vh="H" name="MOORE, Sterling"></p_bu>
+   </play>
+   <play hasball="SFA" down="2" togo="10" spot="SMU49" context="V,2,10,H49" playid="33,6,240" type="P" text="Moses, Jeremy sacked for loss of 9 yards to the SFA42 (KENNEMER, Chase)." newcontext="V,3,19,V42">
+    <p_pa vh="V" qb="Moses, Jeremy" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="KENNEMER, Chase" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="SFA" down="3" togo="19" spot="SFA42" context="V,3,19,V42" playid="33,7,241" type="P" text="Moses, Jeremy pass complete to Parks, Contrevi for 9 yards to the SMU49 (YENGA, Youri)." newcontext="V,4,10,H49">
+    <p_pa vh="V" qb="Moses, Jeremy" result="COMP" rcv="Parks, Contrevi" gain="9"></p_pa>
+    <p_tk vh="H" name="YENGA, Youri"></p_tk>
+   </play>
+   <play hasball="SFA" down="4" togo="10" spot="SMU49" context="V,4,10,H49" playid="33,8,242" type="P" text="Moses, Jeremy pass incomplete to Crawford, Graly (BANJO, Chris)." newcontext="H,1,10,H49">
+    <p_pa vh="V" qb="Moses, Jeremy" result="INC" rcv="Crawford, Graly"></p_pa>
+    <p_bu vh="H" name="BANJO, Chris"></p_bu>
+   </play>
+   <drivesum plays="7" yards="29" top="1:24" driveindex="33" complete="Y"></drivesum>
+   <drivestart poss="H,H49,01:24" vh="H" spot="H49" clock="01:24" driveindex="34,242"></drivestart>
+   <play hasball="SMU" down="1" togo="10" spot="SMU49" context="H,1,10,H49" playid="34,1,243" clock="00:00" text="SMU MUSTANGS drive start at 00:00." newcontext="H,1,10,H49">
+   </play>
+   <play hasball="SMU" down="1" togo="10" spot="SMU49" context="H,1,10,H49" playid="34,2,244" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,1,10,H49">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="34" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="SMU defeats SFA by a score of 31 to 23."></play>
+   <score final="Y" V="23" H="31"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SFA">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="2" lost="1"></fumbles>
+    <misc yds="0" top="05:09"></misc>
+    <rush att="5" yds="1" gain="11" loss="10" td="0" long="0"></rush>
+    <pass comp="7" att="12" int="1" yds="130" td="0" long="3" sacks="1" sackyds="9"></pass>
+    <rcv no="7" yds="130" td="0" long="3"></rcv>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="12" tacka="8" tot_tack="20" tflua="2" tfla="0" tflyds="3" sacks="1" sackyds="7" brup="1"></defense>
+    <kr no="3" yds="59" td="0" long="0"></kr>
+    <fumbles no="2" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="SMU">
+    <firstdowns no="8" rush="4" pass="3" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:33"></misc>
+    <rush att="14" yds="127" gain="130" loss="3" td="2" long="38"></rush>
+    <pass comp="4" att="8" int="0" yds="37" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="37" td="0" long="0"></rcv>
+    <punt no="1" yds="17" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="17.0"></punt>
+    <ko no="3" yds="188" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="53" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="9" tacka="10" tot_tack="19" tflua="5" tfla="0" tflyds="13" sacks="1" sackyds="9" brup="3" ff="1" fr="1" fryds="0" int="1" intyds="0"></defense>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="SMU" down="1" togo="10" spot="SMU49" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="0" htor="2" dtgtext="Game Over" ldtext="Drive started: 01:24, 4th Qtr"></downtogo>
+ </plays>

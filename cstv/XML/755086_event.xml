@@ -1,0 +1,910 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="PSU" down="1" togo="10" spot="PSU30" context="V,1,10,V30" playid="0,1,0" text="OSU wins toss, defers and will defend south goal" newcontext="V,1,10,V30">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU30" context="V,1,10,V30" playid="0,2,1" text="OSU ball on OSU30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU30" context="H,1,10,H30" playid="0,3,2" type="K" text="Kahut, Justin kickoff 65 yards to the PSU5, Aaron Woods return 18 yards to the PSU23 (Roberson, D.)." newcontext="V,1,10,V23">
+    <p_ko vh="H" name="Kahut, Justin" gain="65"></p_ko>
+    <p_kr vh="V" name="Aaron Woods" gain="18"></p_kr>
+    <p_tk vh="H" name="Roberson, D."></p_tk>
+   </play>
+   <drivestart poss="V,V23,15:00" vh="V" spot="V23" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU23" context="V,1,10,V23" playid="1,1,3" type="P" text="Drew Hubel pass complete to Ray Fry for 6 yards to the PSU29 (Kristick, K.)." newcontext="V,2,4,V29">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Ray Fry" gain="6"></p_pa>
+    <p_tk vh="H" name="Kristick, K."></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="4" spot="PSU29" context="V,2,4,V29" playid="1,2,4" type="R" text="B. McClintock rush for 1 yard to the PSU30 (Paea, Stephen;Roberson, D.)." newcontext="V,3,3,V30">
+    <p_ru vh="V" name="B. McClintock" gain="1"></p_ru>
+    <p_tk vh="H" name="Paea, Stephen" assist="Y"></p_tk>
+    <p_tk vh="H" name="Roberson, D." assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="3" spot="PSU30" context="V,3,3,V30" playid="1,3,5" type="R" first="R" text="Evans Okotcha rush for 10 yards to the PSU40, 1ST DOWN PSU (Tuimaunei, S.;Pa'aluhi, David)." newcontext="V,1,10,V40">
+    <p_ru vh="V" name="Evans Okotcha" gain="10"></p_ru>
+    <p_tk vh="H" name="Tuimaunei, S." assist="Y"></p_tk>
+    <p_tk vh="H" name="Pa'aluhi, David" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU40" context="V,1,10,V40" playid="1,4,6" type="P" first="P" text="Drew Hubel pass complete to Ray Fry for 16 yards to the OSU44, 1ST DOWN PSU (Mitchell, Lance;Dockery, James)." newcontext="V,1,10,H44">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Ray Fry" gain="16"></p_pa>
+    <p_tk vh="H" name="Mitchell, Lance" assist="Y"></p_tk>
+    <p_tk vh="H" name="Dockery, James" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="OSU44" context="V,1,10,H44" playid="1,5,7" type="R" text="Evans Okotcha rush for 2 yards to the OSU42 (Kristick, K.;Pankey, Keith)." newcontext="V,2,8,H42">
+    <p_ru vh="V" name="Evans Okotcha" gain="2"></p_ru>
+    <p_tk vh="H" name="Kristick, K." assist="Y"></p_tk>
+    <p_tk vh="H" name="Pankey, Keith" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="8" spot="OSU42" context="V,2,8,H42" playid="1,6,8" type="P" text="Drew Hubel pass complete to Lavonte Kirven for 5 yards to the OSU37 (Mitchell, Lance;Tuimaunei, S.)." newcontext="V,3,3,H37">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Lavonte Kirven" gain="5"></p_pa>
+    <p_tk vh="H" name="Mitchell, Lance" assist="Y"></p_tk>
+    <p_tk vh="H" name="Tuimaunei, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="3" spot="OSU37" context="V,3,3,H37" playid="1,7,9" type="R" text="Evans Okotcha rush for 2 yards to the OSU35 (Moala, Latu;Frahm, Kevin)." newcontext="V,4,1,H35">
+    <p_ru vh="V" name="Evans Okotcha" gain="2"></p_ru>
+    <p_tk vh="H" name="Moala, Latu" assist="Y"></p_tk>
+    <p_tk vh="H" name="Frahm, Kevin" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="4" togo="1" spot="OSU35" context="V,4,1,H35" playid="1,8,10" type="E" text="PENALTY PSU false start (Moses Punzal) 5 yards to the OSU40." newcontext="V,4,6,H40">
+    <p_pn vh="V" code="FS" type="false start" name="Moses Punzal" result="ACCEPT" at="H35" yards="5"></p_pn>
+   </play>
+   <play hasball="PSU" down="4" togo="6" spot="OSU40" context="V,4,6,H40" playid="1,9,11" type="U" text="Thomas Duyndam punt 27 yards to the OSU13, fair catch by Kavanaugh, T.." newcontext="H,1,10,H13">
+    <p_pu vh="V" name="Thomas Duyndam" gain="27" in20="Y" fc="Kavanaugh, T."></p_pu>
+   </play>
+   <drivesum plays="7" yards="37" top="5:22" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,H13,15:00" vh="H" spot="H13" clock="15:00" driveindex="2,11"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU13" context="H,1,10,H13" playid="2,1,12" clock="09:38" text="OREGON STATE drive start at 09:38." newcontext="H,1,10,H13">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU13" context="H,1,10,H13" playid="2,2,13" type="P" first="P" score="Y" clock="09:26" text="Canfield, Sean pass complete to Rodgers, James for 87 yards to the PSU0, 1ST DOWN OSU, TOUCHDOWN, clock 09:26." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Canfield, Sean" result="COMP" rcv="Rodgers, James" gain="87"></p_pa>
+   </play>
+   <play hasball="OSU" down="1" togo="0" spot="PSU03" context="H,1,0,V03" playid="2,3,14" type="X" score="Y" text="Kahut, Justin kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Kahut, Justin" qb="Kahut, Justin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="1" yards="87" top="0:12" driveindex="2" complete="Y"></drivesum>
+   <play hasball="OSU" down="1" togo="0" spot="OSU30" context="H,1,0,H30" playid="2,4,15" type="K" text="Kahut, Justin kickoff 54 yards to the PSU16, Aaron Woods return 18 yards to the PSU34 (Watkins, A.;Roberson, D.)." newcontext="V,1,10,V34">
+    <p_ko vh="H" name="Kahut, Justin" gain="54"></p_ko>
+    <p_kr vh="V" name="Aaron Woods" gain="18"></p_kr>
+    <p_tk vh="H" name="Watkins, A." assist="Y"></p_tk>
+    <p_tk vh="H" name="Roberson, D." assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V34,09:26" vh="V" spot="V34" clock="09:26" driveindex="3,15"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU34" context="V,1,10,V34" playid="3,1,16" clock="09:21" text="PORTLAND STATE drive start at 09:21." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU34" context="V,1,10,V34" playid="3,2,17" type="R" text="B. McClintock rush for 1 yard to the PSU35 (Masaniai, C.;Pa'aluhi, David)." newcontext="V,2,9,V35">
+    <p_ru vh="V" name="B. McClintock" gain="1"></p_ru>
+    <p_tk vh="H" name="Masaniai, C." assist="Y"></p_tk>
+    <p_tk vh="H" name="Pa'aluhi, David" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="9" spot="PSU35" context="V,2,9,V35" playid="3,3,18" type="E" text="PENALTY PSU false start (Moses Punzal) 5 yards to the PSU30." newcontext="V,2,14,V30">
+    <p_pn vh="V" code="FS" type="false start" name="Moses Punzal" result="ACCEPT" at="V35" yards="5"></p_pn>
+   </play>
+   <play hasball="PSU" down="2" togo="14" spot="PSU30" context="V,2,14,V30" playid="3,4,19" type="P" text="Drew Hubel pass incomplete to D. Wolverton." newcontext="V,3,14,V30">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="D. Wolverton"></p_pa>
+   </play>
+   <play hasball="PSU" down="3" togo="14" spot="PSU30" context="V,3,14,V30" playid="3,5,20" type="P" turnover="F" text="Drew Hubel pass complete to D. Wolverton for 8 yards to the PSU38, fumble forced by Clark, Tim, fumble by D. Wolverton recovered by OSU Paea, Stephen at PSU38." newcontext="H,1,10,V38">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="D. Wolverton" gain="8"></p_pa>
+    <p_fumb vh="V" name="D. Wolverton" at="V38" frvh="H" frname="Paea, Stephen"></p_fumb>
+    <p_tk vh="H" name="Clark, Tim" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="4" top="1:23" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,V38,09:21" vh="H" spot="V38" clock="09:21" driveindex="4,20"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="PSU38" context="H,1,10,V38" playid="4,1,21" clock="07:58" text="OREGON STATE drive start at 07:58." newcontext="H,1,10,V38">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="PSU38" context="H,1,10,V38" playid="4,2,22" type="R" text="Rodgers, Jacq. rush for loss of 1 yard to the PSU39 (Erik Pedersen)." newcontext="H,2,11,V39">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="-1"></p_ru>
+    <p_tk vh="V" name="Erik Pedersen" tfl="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="11" spot="PSU39" context="H,2,11,V39" playid="4,3,23" type="P" text="Canfield, Sean pass complete to Rodgers, Jacq. for 9 yards to the PSU30 (Cody Worthen;DeShawn Shead)." newcontext="H,3,2,V30">
+    <p_pa vh="H" qb="Canfield, Sean" result="COMP" rcv="Rodgers, Jacq." gain="9"></p_pa>
+    <p_tk vh="V" name="Cody Worthen" assist="Y"></p_tk>
+    <p_tk vh="V" name="DeShawn Shead" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="2" spot="PSU30" context="H,3,2,V30" playid="4,4,24" type="R" first="R" text="Rodgers, Jacq. rush for 3 yards to the PSU27, 1ST DOWN OSU (Jermaine Jacobs;Cody Worthen)." newcontext="H,1,10,V27">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="3"></p_ru>
+    <p_tk vh="V" name="Jermaine Jacobs" assist="Y"></p_tk>
+    <p_tk vh="V" name="Cody Worthen" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="PSU27" context="H,1,10,V27" playid="4,5,25" type="P" text="Canfield, Sean pass incomplete to Rodgers, Jacq.." newcontext="H,2,10,V27">
+    <p_pa vh="H" qb="Canfield, Sean" result="INC" rcv="Rodgers, Jacq."></p_pa>
+   </play>
+   <play hasball="OSU" down="2" togo="10" spot="PSU27" context="H,2,10,V27" playid="4,6,26" type="R" first="R" text="Rodgers, James rush for 14 yards to the PSU13, 1ST DOWN OSU." newcontext="H,1,10,V13">
+    <p_ru vh="H" name="Rodgers, James" gain="14"></p_ru>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="PSU13" context="H,1,10,V13" playid="4,7,27" type="R" text="Rodgers, Jacq. rush for 8 yards to the PSU5 (Joel Sisler)." newcontext="H,2,2,V05">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="8"></p_ru>
+    <p_tk vh="V" name="Joel Sisler"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="2" spot="PSU05" context="H,2,2,V05" playid="4,8,28" type="R" first="R" score="Y" clock="05:35" text="Rodgers, Jacq. rush for 5 yards to the PSU0, 1ST DOWN OSU, TOUCHDOWN, clock 05:35." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="5"></p_ru>
+   </play>
+   <play hasball="OSU" down="1" togo="0" spot="PSU03" context="H,1,0,V03" playid="4,9,29" type="X" score="Y" text="Kahut, Justin kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Kahut, Justin" qb="Kahut, Justin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="14"></score>
+   <drivesum plays="7" yards="38" top="2:23" driveindex="4" complete="Y"></drivesum>
+   <play hasball="OSU" down="1" togo="0" spot="OSU30" context="H,1,0,H30" playid="4,10,30" type="K" text="Kahut, Justin kickoff 63 yards to the PSU7, Aaron Woods return 11 yards to the PSU18 (Hardin, Brandon;Watkins, A.)." newcontext="V,1,10,V18">
+    <p_ko vh="H" name="Kahut, Justin" gain="63"></p_ko>
+    <p_kr vh="V" name="Aaron Woods" gain="11"></p_kr>
+    <p_tk vh="H" name="Hardin, Brandon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Watkins, A." assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V18,05:35" vh="V" spot="V18" clock="05:35" driveindex="5,30"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU18" context="V,1,10,V18" playid="5,1,31" clock="05:30" text="PORTLAND STATE drive start at 05:30." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU18" context="V,1,10,V18" playid="5,2,32" type="R" text="Ben Bowen rush for 2 yards to the PSU20 (Pa'aluhi, David;Moala, Latu)." newcontext="V,2,8,V20">
+    <p_ru vh="V" name="Ben Bowen" gain="2"></p_ru>
+    <p_tk vh="H" name="Pa'aluhi, David" assist="Y"></p_tk>
+    <p_tk vh="H" name="Moala, Latu" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="8" spot="PSU20" context="V,2,8,V20" playid="5,3,33" type="P" first="P" text="Drew Hubel pass complete to Ray Fry for 12 yards to the PSU32, 1ST DOWN PSU (Mitchell, Lance)." newcontext="V,1,10,V32">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Ray Fry" gain="12"></p_pa>
+    <p_tk vh="H" name="Mitchell, Lance"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU32" context="V,1,10,V32" playid="5,4,34" type="P" text="Drew Hubel pass incomplete to Lavonte Kirven." newcontext="V,2,10,V32">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="Lavonte Kirven"></p_pa>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="PSU32" context="V,2,10,V32" playid="5,5,35" type="R" text="Ben Bowen rush for no gain to the PSU32 (Pa'aluhi, David;Pankey, Keith)." newcontext="V,3,10,V32">
+    <p_ru vh="V" name="Ben Bowen" gain="0"></p_ru>
+    <p_tk vh="H" name="Pa'aluhi, David" assist="Y"></p_tk>
+    <p_tk vh="H" name="Pankey, Keith" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="10" spot="PSU32" context="V,3,10,V32" playid="5,6,36" type="P" first="P" text="Drew Hubel pass complete to Ray Fry for 40 yards to the OSU28, 1ST DOWN PSU (Tuimaunei, S.)." newcontext="V,1,10,H28">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Ray Fry" gain="40"></p_pa>
+    <p_tk vh="H" name="Tuimaunei, S."></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="OSU28" context="V,1,10,H28" playid="5,7,37" type="P" text="Drew Hubel pass incomplete to Ray Fry (Dockery, James)." newcontext="V,2,10,H28">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="Ray Fry"></p_pa>
+    <p_bu vh="H" name="Dockery, James"></p_bu>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="OSU28" context="V,2,10,H28" playid="5,8,38" type="R" text="Evans Okotcha rush for loss of 3 yards to the OSU31 (Masaniai, C.)." newcontext="V,3,13,H31">
+    <p_ru vh="V" name="Evans Okotcha" gain="-3"></p_ru>
+    <p_tk vh="H" name="Masaniai, C." tfl="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="13" spot="OSU31" context="V,3,13,H31" playid="5,9,39" type="P" text="Drew Hubel pass complete to Ray Fry for 9 yards to the OSU22 (Mitchell, Lance;Tuimaunei, S.)." newcontext="V,4,4,H22">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Ray Fry" gain="9"></p_pa>
+    <p_tk vh="H" name="Mitchell, Lance" assist="Y"></p_tk>
+    <p_tk vh="H" name="Tuimaunei, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="4" togo="4" spot="OSU22" context="V,4,4,H22" playid="5,10,40" type="F" clock="01:18" text="Wade Penner field goal attempt from 38 MISSED - wide left, spot at OSU22, clock 01:18." newcontext="H,1,10,H22">
+    <p_fg vh="V" name="Wade Penner" distance="38" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="9" yards="60" top="4:12" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,H22,01:18" vh="H" spot="H22" clock="01:18" driveindex="6,40"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU22" context="H,1,10,H22" playid="6,1,41" clock="01:18" text="OREGON STATE drive start at 01:18." newcontext="H,1,10,H22">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU22" context="H,1,10,H22" playid="6,2,42" type="R" text="Rodgers, Jacq. rush for 4 yards to the OSU26 (Ryan Rau;Travis Beckley)." newcontext="H,2,6,H26">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="4"></p_ru>
+    <p_tk vh="V" name="Ryan Rau" assist="Y"></p_tk>
+    <p_tk vh="V" name="Travis Beckley" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="6" spot="OSU26" context="H,2,6,H26" playid="6,3,43" type="R" first="R" text="Rodgers, James rush for 9 yards to the OSU35, 1ST DOWN OSU (Erik Pedersen)." newcontext="H,1,10,H35">
+    <p_ru vh="H" name="Rodgers, James" gain="9"></p_ru>
+    <p_tk vh="V" name="Erik Pedersen"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU35" context="H,1,10,H35" playid="6,4,44" type="R" text="Rodgers, Jacq. rush for 5 yards to the OSU40 (Jermaine Jacobs;Cody Worthen)." newcontext="H,2,5,H40">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="5"></p_ru>
+    <p_tk vh="V" name="Jermaine Jacobs" assist="Y"></p_tk>
+    <p_tk vh="V" name="Cody Worthen" assist="Y"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="PSU">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="11:07"></misc>
+    <rush att="8" yds="15" gain="18" loss="3" td="0" long="10"></rush>
+    <pass comp="7" att="10" int="0" yds="96" td="0" long="40" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="96" td="0" long="40"></rcv>
+    <punt no="1" yds="27" long="27" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="27.0"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="3" tacka="8" tot_tack="11" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0"></defense>
+    <kr no="3" yds="47" td="0" long="18"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="OSU">
+    <firstdowns no="5" rush="4" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="03:53"></misc>
+    <rush att="8" yds="47" gain="48" loss="1" td="1" long="14"></rush>
+    <pass comp="2" att="3" int="0" yds="96" td="1" long="87" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="96" td="1" long="87"></rcv>
+    <ko no="3" yds="182" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="6" tacka="24" tot_tack="30" tflua="1" tfla="0" tflyds="3" sacks="0" sackyds="0" brup="1" ff="1" fr="1" fryds="0"></defense>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="OSU" down="2" togo="5" spot="OSU40" context="H,2,5,H40" playid="6,5,45" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,2,5,H40">
+   </play>
+   <play hasball="OSU" down="2" togo="5" spot="OSU40" context="H,2,5,H40" playid="6,6,46" type="P" first="P" text="Canfield, Sean pass complete to Rodgers, Jacq. for 22 yards to the PSU38, 1ST DOWN OSU (Ryan Rau)." newcontext="H,1,10,V38">
+    <p_pa vh="H" qb="Canfield, Sean" result="COMP" rcv="Rodgers, Jacq." gain="22"></p_pa>
+    <p_tk vh="V" name="Ryan Rau"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="PSU38" context="H,1,10,V38" playid="6,7,47" type="R" text="Rodgers, Jacq. rush for 1 yard to the PSU37 (Colton Russi;Erik Pedersen)." newcontext="H,2,9,V37">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="1"></p_ru>
+    <p_tk vh="V" name="Colton Russi" assist="Y"></p_tk>
+    <p_tk vh="V" name="Erik Pedersen" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="9" spot="PSU37" context="H,2,9,V37" playid="6,8,48" type="P" text="Canfield, Sean pass complete to Rodgers, James for 8 yards to the PSU29 (Tracy Ford;Carl Sommer)." newcontext="H,3,1,V29">
+    <p_pa vh="H" qb="Canfield, Sean" result="COMP" rcv="Rodgers, James" gain="8"></p_pa>
+    <p_tk vh="V" name="Tracy Ford" assist="Y"></p_tk>
+    <p_tk vh="V" name="Carl Sommer" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="1" spot="PSU29" context="H,3,1,V29" playid="6,9,49" type="E" text="PENALTY OSU illegal shift (Adeniji, Damola) 4 yards to the PSU33." newcontext="H,3,5,V33">
+    <p_pn vh="H" code="SH" type="illegal shift" name="Adeniji, Damola" result="ACCEPT" at="V29" yards="4"></p_pn>
+   </play>
+   <play hasball="OSU" down="3" togo="5" spot="PSU33" context="H,3,5,V33" playid="6,10,50" type="P" text="Canfield, Sean pass incomplete to Rodgers, Jacq.." newcontext="H,4,5,V33">
+    <p_pa vh="H" qb="Canfield, Sean" result="INC" rcv="Rodgers, Jacq."></p_pa>
+   </play>
+   <play hasball="OSU" down="4" togo="5" spot="PSU33" context="H,4,5,V33" playid="6,11,51" type="F" score="Y" clock="13:05" text="Kahut, Justin field goal attempt from 50 GOOD, clock 13:05." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Kahut, Justin" distance="50" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="17"></score>
+   <drivesum plays="8" yards="45" top="3:13" driveindex="6" complete="Y"></drivesum>
+   <play hasball="OSU" down="1" togo="0" spot="OSU30" context="H,1,0,H30" playid="6,12,52" type="K" text="Kahut, Justin kickoff 59 yards to the PSU11, Aaron Woods return 9 yards to the PSU20 (Darkins, Will;Hardin, Brandon)." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Kahut, Justin" gain="59"></p_ko>
+    <p_kr vh="V" name="Aaron Woods" gain="9"></p_kr>
+    <p_tk vh="H" name="Darkins, Will" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hardin, Brandon" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V20,13:05" vh="V" spot="V20" clock="13:05" driveindex="7,52"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU20" context="V,1,10,V20" playid="7,1,53" clock="13:00" text="PORTLAND STATE drive start at 13:00." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU20" context="V,1,10,V20" playid="7,2,54" type="R" text="Ben Bowen rush for 4 yards to the PSU24 (Pankey, Keith)." newcontext="V,2,6,V24">
+    <p_ru vh="V" name="Ben Bowen" gain="4"></p_ru>
+    <p_tk vh="H" name="Pankey, Keith"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="6" spot="PSU24" context="V,2,6,V24" playid="7,3,55" type="R" first="R" text="Drew Hubel rush for 7 yards to the PSU31, 1ST DOWN PSU (Clark, Tim;Frahm, Kevin)." newcontext="V,1,10,V31">
+    <p_ru vh="V" name="Drew Hubel" gain="7"></p_ru>
+    <p_tk vh="H" name="Clark, Tim" assist="Y"></p_tk>
+    <p_tk vh="H" name="Frahm, Kevin" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU31" context="V,1,10,V31" playid="7,4,56" type="P" text="Drew Hubel pass complete to D. Wolverton for 6 yards to the PSU37 ('Unga, Devin;Clark, Tim)." newcontext="V,2,4,V37">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="D. Wolverton" gain="6"></p_pa>
+    <p_tk vh="H" name="'Unga, Devin" assist="Y"></p_tk>
+    <p_tk vh="H" name="Clark, Tim" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="4" spot="PSU37" context="V,2,4,V37" playid="7,5,57" type="P" text="Drew Hubel pass complete to Aaron Woods for 3 yards to the PSU40 ('Unga, Devin;Terry, Ben)." newcontext="V,3,1,V40">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Aaron Woods" gain="3"></p_pa>
+    <p_tk vh="H" name="'Unga, Devin" assist="Y"></p_tk>
+    <p_tk vh="H" name="Terry, Ben" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="1" spot="PSU40" context="V,3,1,V40" playid="7,6,58" type="P" first="P" text="Drew Hubel pass complete to K. Anderson for 9 yards to the PSU49, 1ST DOWN PSU (Dockery, James)." newcontext="V,1,10,V49">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="K. Anderson" gain="9"></p_pa>
+    <p_tk vh="H" name="Dockery, James"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU49" context="V,1,10,V49" playid="7,7,59" type="R" text="Evans Okotcha rush for loss of 1 yard to the PSU48 (Stevenson, J.)." newcontext="V,2,11,V48">
+    <p_ru vh="V" name="Evans Okotcha" gain="-1"></p_ru>
+    <p_tk vh="H" name="Stevenson, J." tfl="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="11" spot="PSU48" context="V,2,11,V48" playid="7,8,60" type="P" text="Drew Hubel pass incomplete to Aaron Woods." newcontext="V,3,11,V48">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="Aaron Woods"></p_pa>
+   </play>
+   <play hasball="PSU" down="3" togo="11" spot="PSU48" context="V,3,11,V48" playid="7,9,61" type="P" text="Drew Hubel pass incomplete to Ray Fry." newcontext="V,4,11,V48">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="Ray Fry"></p_pa>
+   </play>
+   <play hasball="PSU" down="4" togo="11" spot="PSU48" context="V,4,11,V48" playid="7,10,62" type="U" text="Thomas Duyndam punt 34 yards to the OSU18, Kavanaugh, T. return 0 yards to the OSU18 (Braedyn Eagle)." newcontext="H,1,10,H18">
+    <p_pu vh="V" name="Thomas Duyndam" gain="34" in20="Y"></p_pu>
+    <p_pr vh="H" name="Kavanaugh, T." gain="0"></p_pr>
+    <p_tk vh="V" name="Braedyn Eagle"></p_tk>
+   </play>
+   <drivesum plays="8" yards="28" top="4:10" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,H18,13:00" vh="H" spot="H18" clock="13:00" driveindex="8,62"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU18" context="H,1,10,H18" playid="8,1,63" clock="08:50" text="OREGON STATE drive start at 08:50." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU18" context="H,1,10,H18" playid="8,2,64" type="R" first="R" text="Rodgers, Jacq. rush for 14 yards to the OSU32, 1ST DOWN OSU (Cody Worthen)." newcontext="H,1,10,H32">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="14"></p_ru>
+    <p_tk vh="V" name="Cody Worthen"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU32" context="H,1,10,H32" playid="8,3,65" type="R" text="Rodgers, Jacq. rush for 1 yard to the OSU33 (Erik Pedersen)." newcontext="H,2,9,H33">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="1"></p_ru>
+    <p_tk vh="V" name="Erik Pedersen"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="9" spot="OSU33" context="H,2,9,H33" playid="8,4,66" type="P" text="Canfield, Sean pass complete to Rodgers, Jacq. for loss of 2 yards to the OSU31 (Ryan Pedersen)." newcontext="H,3,11,H31">
+    <p_pa vh="H" qb="Canfield, Sean" result="COMP" rcv="Rodgers, Jacq." gain="-2"></p_pa>
+    <p_tk vh="V" name="Ryan Pedersen" tfl="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="11" spot="OSU31" context="H,3,11,H31" playid="8,5,67" type="P" first="P" text="Canfield, Sean pass complete to Adeniji, Damola for 16 yards to the OSU47, 1ST DOWN OSU (Tracy Ford), PENALTY PSU personal foul (Carl Sommer) 15 yards to the PSU38, 1ST DOWN OSU." newcontext="H,1,10,V38">
+    <p_pa vh="H" qb="Canfield, Sean" result="COMP" rcv="Adeniji, Damola" gain="16"></p_pa>
+    <p_tk vh="V" name="Tracy Ford"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" name="Carl Sommer" result="ACCEPT" at="H47" yards="15"></p_pn>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="PSU38" context="H,1,10,V38" playid="8,6,68" text="1st and 10." newcontext="H,1,10,V38">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="PSU38" context="H,1,10,V38" playid="8,7,69" type="R" text="Rodgers, Jacq. rush for 5 yards to the PSU33 (Erik Pedersen;Jermaine Jacobs)." newcontext="H,2,5,V33">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="5"></p_ru>
+    <p_tk vh="V" name="Erik Pedersen" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jermaine Jacobs" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="5" spot="PSU33" context="H,2,5,V33" playid="8,8,70" type="P" text="Canfield, Sean pass complete to Rodgers, Jacq. for 3 yards to the PSU30 (Travis Beckley;Erik Pedersen)." newcontext="H,3,2,V30">
+    <p_pa vh="H" qb="Canfield, Sean" result="COMP" rcv="Rodgers, Jacq." gain="3"></p_pa>
+    <p_tk vh="V" name="Travis Beckley" assist="Y"></p_tk>
+    <p_tk vh="V" name="Erik Pedersen" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="2" spot="PSU30" context="H,3,2,V30" playid="8,9,71" type="R" first="R" text="Rodgers, Jacq. rush for 8 yards to the PSU22, 1ST DOWN OSU (Cody Worthen;Ryan Pedersen)." newcontext="H,1,10,V22">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="8"></p_ru>
+    <p_tk vh="V" name="Cody Worthen" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ryan Pedersen" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="PSU22" context="H,1,10,V22" playid="8,10,72" type="R" text="Rodgers, Jacq. rush for 2 yards to the PSU20 (Erik Pedersen)." newcontext="H,2,8,V20">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="2"></p_ru>
+    <p_tk vh="V" name="Erik Pedersen"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="8" spot="PSU20" context="H,2,8,V20" playid="8,11,73" type="P" text="Canfield, Sean pass incomplete to Rodgers, Jacq.." newcontext="H,3,8,V20">
+    <p_pa vh="H" qb="Canfield, Sean" result="INC" rcv="Rodgers, Jacq."></p_pa>
+   </play>
+   <play hasball="OSU" down="3" togo="8" spot="PSU20" context="H,3,8,V20" playid="8,12,74" type="P" first="P" text="Canfield, Sean pass complete to Adeniji, Damola for 15 yards to the PSU5, 1ST DOWN OSU (Tracy Ford)." newcontext="H,1,0,V05">
+    <p_pa vh="H" qb="Canfield, Sean" result="COMP" rcv="Adeniji, Damola" gain="15"></p_pa>
+    <p_tk vh="V" name="Tracy Ford"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="0" spot="PSU05" context="H,1,0,V05" playid="8,13,75" type="#" clock="03:29" text="Timeout Oregon State, clock 03:29." newcontext="H,1,0,V05">
+    <p_to vh="H" team="Oregon State"></p_to>
+   </play>
+   <play hasball="OSU" down="1" togo="0" spot="PSU05" context="H,1,0,V05" playid="8,14,76" type="R" text="Rodgers, Jacq. rush for 4 yards to the PSU1 (Erik Pedersen;Jermaine Jacobs)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="4"></p_ru>
+    <p_tk vh="V" name="Erik Pedersen" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jermaine Jacobs" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="0" spot="PSU01" context="H,2,0,V01" playid="8,15,77" type="R" text="Rodgers, Jacq. rush for no gain to the PSU1 (Carl Sommer;Ryan Rau)." newcontext="H,3,0,V01">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="0"></p_ru>
+    <p_tk vh="V" name="Carl Sommer" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ryan Rau" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="0" spot="PSU01" context="H,3,0,V01" playid="8,16,78" type="R" score="Y" clock="01:59" text="Rodgers, Jacq. rush for 1 yard to the PSU0, TOUCHDOWN, clock 01:59." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="1"></p_ru>
+   </play>
+   <play hasball="OSU" down="1" togo="0" spot="PSU03" context="H,1,0,V03" playid="8,17,79" type="X" score="Y" text="Kahut, Justin kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Kahut, Justin" qb="Kahut, Justin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="24"></score>
+   <drivesum plays="13" yards="82" top="6:51" driveindex="8" complete="Y"></drivesum>
+   <play hasball="OSU" down="1" togo="0" spot="OSU30" context="H,1,0,H30" playid="8,18,80" type="K" text="Kahut, Justin kickoff 64 yards to the PSU6, Aaron Woods return 19 yards to the PSU25 (Camat, Keo;Poyer, Jordan)." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Kahut, Justin" gain="64"></p_ko>
+    <p_kr vh="V" name="Aaron Woods" gain="19"></p_kr>
+    <p_tk vh="H" name="Camat, Keo" assist="Y"></p_tk>
+    <p_tk vh="H" name="Poyer, Jordan" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V25,01:59" vh="V" spot="V25" clock="01:59" driveindex="9,80"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU25" context="V,1,10,V25" playid="9,1,81" clock="01:52" text="PORTLAND STATE drive start at 01:52." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU25" context="V,1,10,V25" playid="9,2,82" type="P" first="P" text="Drew Hubel pass complete to Lavonte Kirven for 20 yards to the PSU45, 1ST DOWN PSU." newcontext="V,1,10,V45">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Lavonte Kirven" gain="20"></p_pa>
+   </play>
+   <comment text="previous play reviewed and confirmed"></comment>
+   <play hasball="PSU" down="1" togo="10" spot="PSU45" context="V,1,10,V45" playid="9,3,84" type="P" text="Drew Hubel pass incomplete to D. Wolverton (Clark, Tim)." newcontext="V,2,10,V45">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="D. Wolverton"></p_pa>
+    <p_bu vh="H" name="Clark, Tim"></p_bu>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="PSU45" context="V,2,10,V45" playid="9,4,85" type="P" text="Drew Hubel pass incomplete to K. Anderson." newcontext="V,3,10,V45">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="K. Anderson"></p_pa>
+   </play>
+   <play hasball="PSU" down="3" togo="10" spot="PSU45" context="V,3,10,V45" playid="9,5,86" type="P" first="P" text="Drew Hubel pass complete to Ray Fry for 18 yards to the OSU37, 1ST DOWN PSU (Collins, C.;Watkins, A.)." newcontext="V,1,10,H37">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Ray Fry" gain="18"></p_pa>
+    <p_tk vh="H" name="Collins, C." assist="Y"></p_tk>
+    <p_tk vh="H" name="Watkins, A." assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="OSU37" context="V,1,10,H37" playid="9,6,87" type="P" text="Drew Hubel pass incomplete to Aaron Woods (Kristick, K.)." newcontext="V,2,10,H37">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="Aaron Woods"></p_pa>
+    <p_bu vh="H" name="Kristick, K."></p_bu>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="OSU37" context="V,2,10,H37" playid="9,7,88" type="P" first="P" text="Drew Hubel pass complete to Ray Fry for 16 yards to the OSU21, 1ST DOWN PSU (Collins, C.;Tuimaunei, S.)." newcontext="V,1,10,H21">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Ray Fry" gain="16"></p_pa>
+    <p_tk vh="H" name="Collins, C." assist="Y"></p_tk>
+    <p_tk vh="H" name="Tuimaunei, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="OSU21" context="V,1,10,H21" playid="9,8,89" type="P" text="Drew Hubel pass incomplete to Aaron Woods." newcontext="V,2,10,H21">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="Aaron Woods"></p_pa>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="OSU21" context="V,2,10,H21" playid="9,9,90" type="P" text="Drew Hubel pass complete to Aaron Woods for 1 yard to the OSU20 (Tuimaunei, S.)." newcontext="V,3,9,H20">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Aaron Woods" gain="1"></p_pa>
+    <p_tk vh="H" name="Tuimaunei, S."></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="9" spot="OSU20" context="V,3,9,H20" playid="9,10,91" type="#" clock="00:21" text="Timeout Portland State, clock 00:21." newcontext="V,3,9,H20">
+    <p_to vh="V" team="Portland State"></p_to>
+   </play>
+   <play hasball="PSU" down="3" togo="9" spot="OSU20" context="V,3,9,H20" playid="9,11,92" type="P" text="Drew Hubel pass incomplete to Ray Fry." newcontext="V,4,9,H20">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="Ray Fry"></p_pa>
+   </play>
+   <play hasball="PSU" down="4" togo="9" spot="OSU20" context="V,4,9,H20" playid="9,12,93" type="R" text="Evans Okotcha rush for 6 yards to the OSU14 (Mitchell, Lance)." newcontext="H,1,10,H14">
+    <p_ru vh="V" name="Evans Okotcha" gain="6"></p_ru>
+    <p_tk vh="H" name="Mitchell, Lance"></p_tk>
+   </play>
+   <drivesum plays="10" yards="61" top="1:41" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,H14,00:21" vh="H" spot="H14" clock="00:21" driveindex="10,93"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU14" context="H,1,10,H14" playid="10,1,94" clock="00:11" text="OREGON STATE drive start at 00:11." newcontext="H,1,10,H14">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU14" context="H,1,10,H14" playid="10,2,95" type="R" text="TEAM rush for loss of 2 yards to the OSU12." newcontext="H,2,12,H12">
+    <p_ru vh="H" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="OSU" down="2" togo="12" spot="OSU12" context="H,2,12,H12" playid="10,3,96" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,2,12,H12">
+   </play>
+   <drivesum plays="1" yards="-2" top="0:11" driveindex="10" complete="Y"></drivesum>
+   <score qtr="2" V="0" H="24"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="PSU">
+    <firstdowns no="5" rush="1" pass="4" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:03"></misc>
+    <rush att="4" yds="16" gain="17" loss="1" td="0" long="0"></rush>
+    <pass comp="7" att="14" int="0" yds="73" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="73" td="0" long="0"></rcv>
+    <punt no="1" yds="34" long="7" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="34.0"></punt>
+    <defense tackua="8" tacka="14" tot_tack="22" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0"></defense>
+    <kr no="2" yds="28" td="0" long="1"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="OSU">
+    <firstdowns no="6" rush="2" pass="3" penalty="1"></firstdowns>
+    <penalties no="1" yds="4"></penalties>
+    <conversions thirdconv="4" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:57"></misc>
+    <rush att="10" yds="34" gain="36" loss="2" td="1" long="0"></rush>
+    <pass comp="6" att="8" int="0" yds="62" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="62" td="0" long="0"></rcv>
+    <ko no="2" yds="123" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="50" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="5" tacka="14" tot_tack="19" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="2"></defense>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="OSU" down="2" togo="12" spot="OSU12" context="H,2,12,H12" playid="10,4,97" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, PSU ball on PSU30." newcontext="V,2,12,V30">
+   </play>
+   <play hasball="PSU" down="2" togo="12" spot="PSU30" context="V,2,12,V30" playid="10,5,98" type="K" text="Zach Brown kickoff 62 yards to the OSU8, Rodgers, James return 49 yards to the PSU43 (Colton Russi)." newcontext="H,1,10,V43">
+    <p_ko vh="V" name="Zach Brown" gain="62"></p_ko>
+    <p_kr vh="H" name="Rodgers, James" gain="49"></p_kr>
+    <p_tk vh="V" name="Colton Russi"></p_tk>
+   </play>
+   <drivestart poss="H,V43,15:00" vh="H" spot="V43" clock="15:00" driveindex="11,98"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="PSU43" context="H,1,10,V43" playid="11,1,99" clock="14:51" text="OREGON STATE drive start at 14:51." newcontext="H,1,10,V43">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="PSU43" context="H,1,10,V43" playid="11,2,100" type="R" first="R" score="Y" clock="14:42" text="Rodgers, Jacq. rush for 43 yards to the PSU0, 1ST DOWN OSU, TOUCHDOWN, clock 14:42." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Rodgers, Jacq." gain="43"></p_ru>
+   </play>
+   <play hasball="OSU" down="1" togo="0" spot="PSU03" context="H,1,0,V03" playid="11,3,101" type="X" score="Y" text="Kahut, Justin kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Kahut, Justin" qb="Kahut, Justin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="31"></score>
+   <drivesum plays="1" yards="43" top="0:09" driveindex="11" complete="Y"></drivesum>
+   <play hasball="OSU" down="1" togo="0" spot="OSU30" context="H,1,0,H30" playid="11,4,102" type="K" text="Kahut, Justin kickoff 61 yards to the PSU9, Aaron Woods return 27 yards to the PSU36 (Collins, C.)." newcontext="V,1,10,V36">
+    <p_ko vh="H" name="Kahut, Justin" gain="61"></p_ko>
+    <p_kr vh="V" name="Aaron Woods" gain="27"></p_kr>
+    <p_tk vh="H" name="Collins, C."></p_tk>
+   </play>
+   <drivestart poss="V,V36,14:42" vh="V" spot="V36" clock="14:42" driveindex="12,102"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU36" context="V,1,10,V36" playid="12,1,103" clock="14:35" text="PORTLAND STATE drive start at 14:35." newcontext="V,1,10,V36">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU36" context="V,1,10,V36" playid="12,2,104" type="P" text="Drew Hubel pass complete to Aaron Woods for 7 yards to the PSU43 (Mitchell, Lance;Kristick, K.)." newcontext="V,2,3,V43">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Aaron Woods" gain="7"></p_pa>
+    <p_tk vh="H" name="Mitchell, Lance" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kristick, K." assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="3" spot="PSU43" context="V,2,3,V43" playid="12,3,105" type="R" text="Ben Bowen rush for 1 yard to the PSU44 (Miller, Gabe;Frahm, Kevin)." newcontext="V,3,2,V44">
+    <p_ru vh="V" name="Ben Bowen" gain="1"></p_ru>
+    <p_tk vh="H" name="Miller, Gabe" assist="Y"></p_tk>
+    <p_tk vh="H" name="Frahm, Kevin" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="2" spot="PSU44" context="V,3,2,V44" playid="12,4,106" type="R" text="Ben Bowen rush for 1 yard to the PSU45 (Kristick, K.;Miller, Gabe)." newcontext="V,4,1,V45">
+    <p_ru vh="V" name="Ben Bowen" gain="1"></p_ru>
+    <p_tk vh="H" name="Kristick, K." assist="Y"></p_tk>
+    <p_tk vh="H" name="Miller, Gabe" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="4" togo="1" spot="PSU45" context="V,4,1,V45" playid="12,5,107" type="U" text="Thomas Duyndam punt 27 yards to the OSU28, Kavanaugh, T. return 3 yards to the OSU31 (J. Shoemaker;Evans Okotcha)." newcontext="H,1,10,H31">
+    <p_pu vh="V" name="Thomas Duyndam" gain="27"></p_pu>
+    <p_pr vh="H" name="Kavanaugh, T." gain="3"></p_pr>
+    <p_tk vh="V" name="J. Shoemaker" assist="Y"></p_tk>
+    <p_tk vh="V" name="Evans Okotcha" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="9" top="2:03" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H31,14:35" vh="H" spot="H31" clock="14:35" driveindex="13,107"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU31" context="H,1,10,H31" playid="13,1,108" clock="12:32" text="OREGON STATE drive start at 12:32." newcontext="H,1,10,H31">
+   </play>
+   <comment text="new QB for OSU - Ryan Katz - first collegiate appearance"></comment>
+   <play hasball="OSU" down="1" togo="10" spot="OSU31" context="H,1,10,H31" playid="13,2,110" type="R" text="Stevenson, J. rush for 8 yards to the OSU39 (Jordan Brown)." newcontext="H,2,2,H39">
+    <p_ru vh="H" name="Stevenson, J." gain="8"></p_ru>
+    <p_tk vh="V" name="Jordan Brown"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="2" spot="OSU39" context="H,2,2,H39" playid="13,3,111" type="R" first="R" text="Wheaton, Markus rush for 4 yards to the OSU43, 1ST DOWN OSU (Cody Worthen;DeShawn Shead)." newcontext="H,1,10,H43">
+    <p_ru vh="H" name="Wheaton, Markus" gain="4"></p_ru>
+    <p_tk vh="V" name="Cody Worthen" assist="Y"></p_tk>
+    <p_tk vh="V" name="DeShawn Shead" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU43" context="H,1,10,H43" playid="13,4,112" type="P" text="Katz, Ryan pass incomplete to Wheaton, Markus." newcontext="H,2,10,H43">
+    <p_pa vh="H" qb="Katz, Ryan" result="INC" rcv="Wheaton, Markus"></p_pa>
+   </play>
+   <play hasball="OSU" down="2" togo="10" spot="OSU43" context="H,2,10,H43" playid="13,5,113" type="P" text="Katz, Ryan sacked for loss of 12 yards to the OSU31 (Nathan Snow)." newcontext="H,3,22,H31">
+    <p_pa vh="H" qb="Katz, Ryan" result="SACK" gain="-12"></p_pa>
+    <p_tk vh="V" name="Nathan Snow" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="22" spot="OSU31" context="H,3,22,H31" playid="13,6,114" type="P" text="Katz, Ryan pass complete to Adeniji, Damola for 14 yards to the OSU45." newcontext="H,4,8,H45">
+    <p_pa vh="H" qb="Katz, Ryan" result="COMP" rcv="Adeniji, Damola" gain="14"></p_pa>
+   </play>
+   <play hasball="OSU" down="4" togo="8" spot="OSU45" context="H,4,8,H45" playid="13,7,115" type="U" text="Hekker, Johnny punt 55 yards to the PSU0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Hekker, Johnny" gain="55" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="14" top="2:51" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="V,V20,12:32" vh="V" spot="V20" clock="12:32" driveindex="14,115"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU20" context="V,1,10,V20" playid="14,1,116" clock="09:41" text="PORTLAND STATE drive start at 09:41." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU20" context="V,1,10,V20" playid="14,2,117" type="R" text="Evans Okotcha rush for 1 yard to the PSU21 (LaGrone, Matt;'Unga, Devin)." newcontext="V,2,9,V21">
+    <p_ru vh="V" name="Evans Okotcha" gain="1"></p_ru>
+    <p_tk vh="H" name="LaGrone, Matt" assist="Y"></p_tk>
+    <p_tk vh="H" name="'Unga, Devin" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="9" spot="PSU21" context="V,2,9,V21" playid="14,3,118" type="R" first="E" text="C. Kavanaugh rush for 3 yards to the PSU24 ('Unga, Devin), PENALTY OSU personal foul (Moala, Latu) 15 yards to the PSU39, 1ST DOWN PSU." newcontext="V,1,10,V39">
+    <p_ru vh="V" name="C. Kavanaugh" gain="3"></p_ru>
+    <p_tk vh="H" name="'Unga, Devin"></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" name="Moala, Latu" result="ACCEPT" at="V24" yards="15"></p_pn>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU39" context="V,1,10,V39" playid="14,4,119" text="1st and 10." newcontext="V,1,10,V39">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU39" context="V,1,10,V39" playid="14,5,120" type="R" text="Evans Okotcha rush for 4 yards to the PSU43 ('Unga, Devin;Robinson, R.)." newcontext="V,2,6,V43">
+    <p_ru vh="V" name="Evans Okotcha" gain="4"></p_ru>
+    <p_tk vh="H" name="'Unga, Devin" assist="Y"></p_tk>
+    <p_tk vh="H" name="Robinson, R." assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="6" spot="PSU43" context="V,2,6,V43" playid="14,6,121" type="R" text="C. Kavanaugh rush for 3 yards to the PSU46 (Moala, Latu)." newcontext="V,3,3,V46">
+    <p_ru vh="V" name="C. Kavanaugh" gain="3"></p_ru>
+    <p_tk vh="H" name="Moala, Latu"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="3" spot="PSU46" context="V,3,3,V46" playid="14,7,122" type="P" text="C. Kavanaugh pass incomplete to Ray Fry." newcontext="V,4,3,V46">
+    <p_pa vh="V" qb="C. Kavanaugh" result="INC" rcv="Ray Fry"></p_pa>
+   </play>
+   <play hasball="PSU" down="4" togo="3" spot="PSU46" context="V,4,3,V46" playid="14,8,123" type="U" text="Thomas Duyndam punt 38 yards to the OSU16, fair catch by Kavanaugh, T.." newcontext="H,1,10,H16">
+    <p_pu vh="V" name="Thomas Duyndam" gain="38" in20="Y" fc="Kavanaugh, T."></p_pu>
+   </play>
+   <drivesum plays="5" yards="26" top="2:48" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,H16,09:41" vh="H" spot="H16" clock="09:41" driveindex="15,123"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU16" context="H,1,10,H16" playid="15,1,124" clock="06:53" text="OREGON STATE drive start at 06:53." newcontext="H,1,10,H16">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU16" context="H,1,10,H16" playid="15,2,125" type="R" text="Stevenson, J. rush for 2 yards to the OSU18 (Ryan Pedersen;Jermaine Jacobs)." newcontext="H,2,8,H18">
+    <p_ru vh="H" name="Stevenson, J." gain="2"></p_ru>
+    <p_tk vh="V" name="Ryan Pedersen" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jermaine Jacobs" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="8" spot="OSU18" context="H,2,8,H18" playid="15,3,126" type="P" text="Katz, Ryan pass complete to Wheaton, Markus for 3 yards to the OSU21 (DeShawn Shead;Ryan Pedersen)." newcontext="H,3,5,H21">
+    <p_pa vh="H" qb="Katz, Ryan" result="COMP" rcv="Wheaton, Markus" gain="3"></p_pa>
+    <p_tk vh="V" name="DeShawn Shead" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ryan Pedersen" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="5" spot="OSU21" context="H,3,5,H21" playid="15,4,127" type="P" first="P" text="Katz, Ryan pass complete to Wheaton, Markus for 10 yards to the OSU31, 1ST DOWN OSU (Tracy Ford;Mike Williams)." newcontext="H,1,10,H31">
+    <p_pa vh="H" qb="Katz, Ryan" result="COMP" rcv="Wheaton, Markus" gain="10"></p_pa>
+    <p_tk vh="V" name="Tracy Ford" assist="Y"></p_tk>
+    <p_tk vh="V" name="Mike Williams" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU31" context="H,1,10,H31" playid="15,5,128" type="R" text="Stevenson, J. rush for loss of 1 yard to the OSU30 (Ryan Rau;Ryan Reardon)." newcontext="H,2,11,H30">
+    <p_ru vh="H" name="Stevenson, J." gain="-1"></p_ru>
+    <p_tk vh="V" name="Ryan Rau" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ryan Reardon" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="11" spot="OSU30" context="H,2,11,H30" playid="15,6,129" type="P" first="P" text="Katz, Ryan pass complete to Nichols, Aaron for 56 yards to the PSU14, 1ST DOWN OSU (Tracy Ford)." newcontext="H,1,10,V14">
+    <p_pa vh="H" qb="Katz, Ryan" result="COMP" rcv="Nichols, Aaron" gain="56"></p_pa>
+    <p_tk vh="V" name="Tracy Ford"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="PSU14" context="H,1,10,V14" playid="15,7,130" type="R" text="Stevenson, J. rush for 3 yards to the PSU11 (Dereck Jester;Erik Pedersen)." newcontext="H,2,7,V11">
+    <p_ru vh="H" name="Stevenson, J." gain="3"></p_ru>
+    <p_tk vh="V" name="Dereck Jester" assist="Y"></p_tk>
+    <p_tk vh="V" name="Erik Pedersen" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="7" spot="PSU11" context="H,2,7,V11" playid="15,8,131" type="R" text="Stevenson, J. rush for 3 yards to the PSU8 (Ryan Pedersen;Nick Gale)." newcontext="H,3,4,V08">
+    <p_ru vh="H" name="Stevenson, J." gain="3"></p_ru>
+    <p_tk vh="V" name="Ryan Pedersen" assist="Y"></p_tk>
+    <p_tk vh="V" name="Nick Gale" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="4" spot="PSU08" context="H,3,4,V08" playid="15,9,132" type="P" text="Katz, Ryan pass complete to Kjos, Casey for 1 yard to the PSU7 (Tracy Ford)." newcontext="H,4,3,V07">
+    <p_pa vh="H" qb="Katz, Ryan" result="COMP" rcv="Kjos, Casey" gain="1"></p_pa>
+    <p_tk vh="V" name="Tracy Ford"></p_tk>
+   </play>
+   <play hasball="OSU" down="4" togo="3" spot="PSU07" context="H,4,3,V07" playid="15,10,133" type="F" score="Y" clock="01:34" text="Kahut, Justin field goal attempt from 24 GOOD, clock 01:34." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Kahut, Justin" distance="24" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="34"></score>
+   <drivesum plays="9" yards="77" top="5:19" driveindex="15" complete="Y"></drivesum>
+   <play hasball="OSU" down="1" togo="0" spot="OSU30" context="H,1,0,H30" playid="15,11,134" type="K" text="Kahut, Justin kickoff 65 yards to the PSU5, Evans Okotcha return 23 yards to the PSU28 ('Unga, Kevin)." newcontext="V,1,10,V28">
+    <p_ko vh="H" name="Kahut, Justin" gain="65"></p_ko>
+    <p_kr vh="V" name="Evans Okotcha" gain="23"></p_kr>
+    <p_tk vh="H" name="'Unga, Kevin"></p_tk>
+   </play>
+   <drivestart poss="V,V28,01:34" vh="V" spot="V28" clock="01:34" driveindex="16,134"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU28" context="V,1,10,V28" playid="16,1,135" clock="01:28" text="PORTLAND STATE drive start at 01:28." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU28" context="V,1,10,V28" playid="16,2,136" type="R" text="Drew Hubel rush for no gain to the PSU28 (Miller, Gabe;Pa'aluhi, David)." newcontext="V,2,10,V28">
+    <p_ru vh="V" name="Drew Hubel" gain="0"></p_ru>
+    <p_tk vh="H" name="Miller, Gabe" assist="Y"></p_tk>
+    <p_tk vh="H" name="Pa'aluhi, David" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="PSU28" context="V,2,10,V28" playid="16,3,137" type="#" clock="00:41" text="Timeout Portland State, clock 00:41." newcontext="V,2,10,V28">
+    <p_to vh="V" team="Portland State"></p_to>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="PSU28" context="V,2,10,V28" playid="16,4,138" type="E" text="PENALTY OSU offside defense (Hunt, Mitchel) 5 yards to the PSU33." newcontext="V,2,5,V33">
+    <p_pn vh="H" code="OD" type="offside defense" name="Hunt, Mitchel" result="ACCEPT" at="V28" yards="5"></p_pn>
+   </play>
+   <play hasball="PSU" down="2" togo="5" spot="PSU33" context="V,2,5,V33" playid="16,5,139" type="E" text="PENALTY PSU false start (Dustin Waldron) 5 yards to the PSU28." newcontext="V,2,10,V28">
+    <p_pn vh="V" code="FS" type="false start" name="Dustin Waldron" result="ACCEPT" at="V33" yards="5"></p_pn>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="PSU28" context="V,2,10,V28" playid="16,6,140" type="P" first="P" text="Drew Hubel pass complete to Cory McCaffrey for 16 yards to the PSU44, 1ST DOWN PSU." newcontext="V,1,10,V44">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Cory McCaffrey" gain="16"></p_pa>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU44" context="V,1,10,V44" playid="16,7,141" type="P" text="Drew Hubel pass incomplete to Ray Fry." newcontext="V,2,10,V44">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="Ray Fry"></p_pa>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="PSU44" context="V,2,10,V44" playid="16,8,142" type="P" first="P" text="Drew Hubel pass complete to Ray Fry for 12 yards to the OSU44, 1ST DOWN PSU (Pankey, Keith)." newcontext="V,1,10,H44">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Ray Fry" gain="12"></p_pa>
+    <p_tk vh="H" name="Pankey, Keith"></p_tk>
+   </play>
+   <score qtr="3" V="0" H="34"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="PSU">
+    <firstdowns no="3" rush="0" pass="2" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:32"></misc>
+    <rush att="7" yds="13" gain="13" loss="0" td="0" long="0"></rush>
+    <pass comp="3" att="5" int="0" yds="35" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="35" td="0" long="0"></rcv>
+    <punt no="2" yds="65" long="4" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="32.5"></punt>
+    <ko no="1" yds="62" ob="0" tb="0"></ko>
+    <defense tackua="5" tacka="16" tot_tack="21" tflua="3" tfla="0" tflyds="14" sacks="1" sackyds="12"></defense>
+    <kr no="2" yds="50" td="0" long="8"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="OSU">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="20"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:28"></misc>
+    <rush att="8" yds="50" gain="63" loss="13" td="1" long="29"></rush>
+    <pass comp="5" att="6" int="0" yds="84" td="0" long="0" sacks="1" sackyds="12"></pass>
+    <rcv no="5" yds="84" td="0" long="0"></rcv>
+    <punt no="1" yds="55" long="55" blkd="0" tb="1" fc="0" plus50="1" inside20="0" avg="55.0"></punt>
+    <ko no="2" yds="126" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="5" tacka="12" tot_tack="17" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="49" td="0" long="49"></kr>
+    <pr no="1" yds="3" td="0" long="3"></pr>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="PSU" down="1" togo="10" spot="OSU44" context="V,1,10,H44" playid="16,9,143" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,1,10,H44">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="OSU44" context="V,1,10,H44" playid="16,10,144" type="P" text="Drew Hubel pass complete to Ray Fry for 9 yards to the OSU35 (Mitchell, Lance;Dockery, James)." newcontext="V,2,1,H35">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Ray Fry" gain="9"></p_pa>
+    <p_tk vh="H" name="Mitchell, Lance" assist="Y"></p_tk>
+    <p_tk vh="H" name="Dockery, James" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="1" spot="OSU35" context="V,2,1,H35" playid="16,11,145" type="P" text="Drew Hubel pass incomplete to Ray Fry (Mitchell, Lance)." newcontext="V,3,1,H35">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="Ray Fry"></p_pa>
+    <p_bu vh="H" name="Mitchell, Lance"></p_bu>
+   </play>
+   <play hasball="PSU" down="3" togo="1" spot="OSU35" context="V,3,1,H35" playid="16,12,146" type="R" first="R" text="Nick Kalpin rush for 3 yards to the OSU32, 1ST DOWN PSU (Masaniai, C.)." newcontext="V,1,10,H32">
+    <p_ru vh="V" name="Nick Kalpin" gain="3"></p_ru>
+    <p_tk vh="H" name="Masaniai, C."></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="OSU32" context="V,1,10,H32" playid="16,13,147" type="P" text="Drew Hubel pass incomplete to Cory McCaffrey, dropped pass." newcontext="V,2,10,H32">
+    <p_pa vh="V" qb="Drew Hubel" result="DROP" rcv="Cory McCaffrey"></p_pa>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="OSU32" context="V,2,10,H32" playid="16,14,148" type="E" text="PENALTY PSU delay of game (Drew Hubel) 5 yards to the OSU37." newcontext="V,2,15,H37">
+    <p_pn vh="V" code="DG" type="delay of game" name="Drew Hubel" result="ACCEPT" at="H32" yards="5"></p_pn>
+   </play>
+   <play hasball="PSU" down="2" togo="15" spot="OSU37" context="V,2,15,H37" playid="16,15,149" type="P" first="P" text="Drew Hubel pass complete to D. Wolverton for 35 yards to the OSU2, 1ST DOWN PSU." newcontext="V,1,0,H02">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="D. Wolverton" gain="35"></p_pa>
+   </play>
+   <play hasball="PSU" down="1" togo="0" spot="OSU02" context="V,1,0,H02" playid="16,16,150" type="P" text="Drew Hubel pass incomplete to Ray Fry." newcontext="V,2,0,H02">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="Ray Fry"></p_pa>
+   </play>
+   <play hasball="PSU" down="2" togo="0" spot="OSU02" context="V,2,0,H02" playid="16,17,151" type="R" text="Evans Okotcha rush for 1 yard to the OSU1 (Kristick, K.;Tuimaunei, S.)." newcontext="V,3,0,H01">
+    <p_ru vh="V" name="Evans Okotcha" gain="1"></p_ru>
+    <p_tk vh="H" name="Kristick, K." assist="Y"></p_tk>
+    <p_tk vh="H" name="Tuimaunei, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="0" spot="OSU01" context="V,3,0,H01" playid="16,18,152" type="R" text="Evans Okotcha rush for no gain to the OSU1 (Kristick, K.;Frahm, Kevin)." newcontext="V,4,0,H01">
+    <p_ru vh="V" name="Evans Okotcha" gain="0"></p_ru>
+    <p_tk vh="H" name="Kristick, K." assist="Y"></p_tk>
+    <p_tk vh="H" name="Frahm, Kevin" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="4" togo="0" spot="OSU01" context="V,4,0,H01" playid="16,19,153" type="P" text="Drew Hubel pass incomplete to Kalua Noa." newcontext="H,1,10,H01">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="Kalua Noa"></p_pa>
+   </play>
+   <drivesum plays="13" yards="71" top="4:46" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,H01,15:00" vh="H" spot="H01" clock="15:00" driveindex="17,153"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU01" context="H,1,10,H01" playid="17,1,154" clock="11:42" text="OREGON STATE drive start at 11:42." newcontext="H,1,10,H01">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU01" context="H,1,10,H01" playid="17,2,155" type="R" text="Jenkins, Jordan rush for 3 yards to the OSU4 (S. Matagiese;David Pedersen)." newcontext="H,2,7,H04">
+    <p_ru vh="H" name="Jenkins, Jordan" gain="3"></p_ru>
+    <p_tk vh="V" name="S. Matagiese" assist="Y"></p_tk>
+    <p_tk vh="V" name="David Pedersen" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="7" spot="OSU04" context="H,2,7,H04" playid="17,3,156" type="P" text="Katz, Ryan pass incomplete to Munoz, Geno (Joel Sisler)." newcontext="H,3,7,H04">
+    <p_pa vh="H" qb="Katz, Ryan" result="INC" rcv="Munoz, Geno"></p_pa>
+    <p_bu vh="V" name="Joel Sisler"></p_bu>
+   </play>
+   <play hasball="OSU" down="3" togo="7" spot="OSU04" context="H,3,7,H04" playid="17,4,157" type="P" text="Katz, Ryan pass incomplete to Wheaton, Markus (Nathan Snow)." newcontext="H,4,7,H04">
+    <p_pa vh="H" qb="Katz, Ryan" result="INC" rcv="Wheaton, Markus"></p_pa>
+    <p_bu vh="V" name="Nathan Snow"></p_bu>
+   </play>
+   <play hasball="OSU" down="4" togo="7" spot="OSU04" context="H,4,7,H04" playid="17,5,158" type="U" text="Hekker, Johnny punt 38 yards to the OSU42, fair catch by Tracy Ford." newcontext="V,1,10,H42">
+    <p_pu vh="H" name="Hekker, Johnny" gain="38" fc="Tracy Ford"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="0:58" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,H42,11:42" vh="V" spot="H42" clock="11:42" driveindex="18,158"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="OSU42" context="V,1,10,H42" playid="18,1,159" clock="10:44" text="PORTLAND STATE drive start at 10:44." newcontext="V,1,10,H42">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="OSU42" context="V,1,10,H42" playid="18,2,160" type="E" text="PENALTY PSU holding (Jermaine Jacobs) 10 yards to the PSU48." newcontext="V,1,20,V48">
+    <p_pn vh="V" code="HO" type="holding" name="Jermaine Jacobs" result="ACCEPT" at="H42" yards="10"></p_pn>
+   </play>
+   <play hasball="PSU" down="1" togo="20" spot="PSU48" context="V,1,20,V48" playid="18,3,161" type="P" text="Drew Hubel pass complete to Nick Hutter for 4 yards to the OSU48 ('Unga, Devin)." newcontext="V,2,16,H48">
+    <p_pa vh="V" qb="Drew Hubel" result="COMP" rcv="Nick Hutter" gain="4"></p_pa>
+    <p_tk vh="H" name="'Unga, Devin"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="16" spot="OSU48" context="V,2,16,H48" playid="18,4,162" type="P" text="Drew Hubel pass incomplete to K. Anderson (Collins, C.)." newcontext="V,3,16,H48">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="K. Anderson"></p_pa>
+    <p_bu vh="H" name="Collins, C."></p_bu>
+   </play>
+   <play hasball="PSU" down="3" togo="16" spot="OSU48" context="V,3,16,H48" playid="18,5,163" type="P" text="Drew Hubel pass incomplete to Cory McCaffrey." newcontext="V,4,16,H48">
+    <p_pa vh="V" qb="Drew Hubel" result="INC" rcv="Cory McCaffrey"></p_pa>
+   </play>
+   <play hasball="PSU" down="4" togo="16" spot="OSU48" context="V,4,16,H48" playid="18,6,164" type="U" text="Thomas Duyndam punt 36 yards to the OSU12, fair catch by Kavanaugh, T.." newcontext="H,1,10,H12">
+    <p_pu vh="V" name="Thomas Duyndam" gain="36" in20="Y" fc="Kavanaugh, T."></p_pu>
+   </play>
+   <drivesum plays="3" yards="-6" top="1:13" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,H12,10:44" vh="H" spot="H12" clock="10:44" driveindex="19,164"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU12" context="H,1,10,H12" playid="19,1,165" clock="09:31" text="OREGON STATE drive start at 09:31." newcontext="H,1,10,H12">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU12" context="H,1,10,H12" playid="19,2,166" type="R" text="Stevenson, J. rush for 2 yards to the OSU14 (J. Shoemaker;Cody Worthen)." newcontext="H,2,8,H14">
+    <p_ru vh="H" name="Stevenson, J." gain="2"></p_ru>
+    <p_tk vh="V" name="J. Shoemaker" assist="Y"></p_tk>
+    <p_tk vh="V" name="Cody Worthen" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="8" spot="OSU14" context="H,2,8,H14" playid="19,3,167" type="R" text="Stevenson, J. rush for 1 yard to the OSU15 (S. Matagiese;Joel Sisler)." newcontext="H,3,7,H15">
+    <p_ru vh="H" name="Stevenson, J." gain="1"></p_ru>
+    <p_tk vh="V" name="S. Matagiese" assist="Y"></p_tk>
+    <p_tk vh="V" name="Joel Sisler" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="7" spot="OSU15" context="H,3,7,H15" playid="19,4,168" type="R" text="Katz, Ryan rush for 6 yards to the OSU21 (Kevin Konrath;J. Shoemaker)." newcontext="H,4,1,H21">
+    <p_ru vh="H" name="Katz, Ryan" gain="6"></p_ru>
+    <p_tk vh="V" name="Kevin Konrath" assist="Y"></p_tk>
+    <p_tk vh="V" name="J. Shoemaker" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="4" togo="1" spot="OSU21" context="H,4,1,H21" playid="19,5,169" type="R" first="R" text="Katz, Ryan rush for 2 yards to the OSU23, 1ST DOWN OSU (Joel Sisler)." newcontext="H,1,10,H23">
+    <p_ru vh="H" name="Katz, Ryan" gain="2"></p_ru>
+    <p_tk vh="V" name="Joel Sisler"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU23" context="H,1,10,H23" playid="19,6,170" type="P" text="Katz, Ryan pass incomplete to Nichols, Aaron." newcontext="H,2,10,H23">
+    <p_pa vh="H" qb="Katz, Ryan" result="INC" rcv="Nichols, Aaron"></p_pa>
+   </play>
+   <play hasball="OSU" down="2" togo="10" spot="OSU23" context="H,2,10,H23" playid="19,7,171" type="R" text="Jenkins, Jordan rush for 3 yards to the OSU26 (S. Matagiese)." newcontext="H,3,7,H26">
+    <p_ru vh="H" name="Jenkins, Jordan" gain="3"></p_ru>
+    <p_tk vh="V" name="S. Matagiese"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="7" spot="OSU26" context="H,3,7,H26" playid="19,8,172" type="E" text="PENALTY OSU false start (Olander, B.) 5 yards to the OSU21." newcontext="H,3,12,H21">
+    <p_pn vh="H" code="FS" type="false start" name="Olander, B." result="ACCEPT" at="H26" yards="5"></p_pn>
+   </play>
+   <play hasball="OSU" down="3" togo="12" spot="OSU21" context="H,3,12,H21" playid="19,9,173" type="E" text="PENALTY OSU delay of game (Katz, Ryan) 5 yards to the OSU16." newcontext="H,3,17,H16">
+    <p_pn vh="H" code="DG" type="delay of game" name="Katz, Ryan" result="ACCEPT" at="H21" yards="5"></p_pn>
+   </play>
+   <play hasball="OSU" down="3" togo="17" spot="OSU16" context="H,3,17,H16" playid="19,10,174" type="P" text="Katz, Ryan sacked for loss of 9 yards to the OSU7 (Dereck Jester)." newcontext="H,4,26,H07">
+    <p_pa vh="H" qb="Katz, Ryan" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="V" name="Dereck Jester" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="4" togo="26" spot="OSU07" context="H,4,26,H07" playid="19,11,175" type="U" text="Hekker, Johnny punt 44 yards to the PSU49, Tracy Ford return 0 yards to the PSU49, fumble by Tracy Ford recovered by PSU Tracy Ford at PSU49." newcontext="V,1,10,V49">
+    <p_pu vh="H" name="Hekker, Johnny" gain="44"></p_pu>
+    <p_pr vh="V" name="Tracy Ford" gain="0"></p_pr>
+    <p_fumb vh="V" name="Tracy Ford" at="V49" frvh="V" frname="Tracy Ford"></p_fumb>
+   </play>
+   <drivesum plays="7" yards="-5" top="4:30" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V49,09:31" vh="V" spot="V49" clock="09:31" driveindex="20,175"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU49" context="V,1,10,V49" playid="20,1,176" clock="05:01" text="PORTLAND STATE drive start at 05:01." newcontext="V,1,10,V49">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU49" context="V,1,10,V49" playid="20,2,177" type="P" text="C. Kavanaugh pass complete to Ray Fry for 8 yards to the OSU43 (Watkins, A.)." newcontext="V,2,2,H43">
+    <p_pa vh="V" qb="C. Kavanaugh" result="COMP" rcv="Ray Fry" gain="8"></p_pa>
+    <p_tk vh="H" name="Watkins, A."></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="2" spot="OSU43" context="V,2,2,H43" playid="20,3,178" type="P" text="C. Kavanaugh pass incomplete to Zach Brown." newcontext="V,3,2,H43">
+    <p_pa vh="V" qb="C. Kavanaugh" result="INC" rcv="Zach Brown"></p_pa>
+   </play>
+   <play hasball="PSU" down="3" togo="2" spot="OSU43" context="V,3,2,H43" playid="20,4,179" type="P" first="P" text="C. Kavanaugh pass complete to K. Anderson for 14 yards to the OSU29, 1ST DOWN PSU (Watkins, A.)." newcontext="V,1,10,H29">
+    <p_pa vh="V" qb="C. Kavanaugh" result="COMP" rcv="K. Anderson" gain="14"></p_pa>
+    <p_tk vh="H" name="Watkins, A."></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="OSU29" context="V,1,10,H29" playid="20,5,180" type="R" first="R" text="C. Kavanaugh rush for 14 yards to the OSU15, 1ST DOWN PSU (Clark, Tim)." newcontext="V,1,10,H15">
+    <p_ru vh="V" name="C. Kavanaugh" gain="14"></p_ru>
+    <p_tk vh="H" name="Clark, Tim"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="OSU15" context="V,1,10,H15" playid="20,6,181" type="R" first="R" text="C. Kavanaugh rush for 14 yards to the OSU1, 1ST DOWN PSU ('Unga, Kevin;Watkins, A.)." newcontext="V,1,0,H01">
+    <p_ru vh="V" name="C. Kavanaugh" gain="14"></p_ru>
+    <p_tk vh="H" name="'Unga, Kevin" assist="Y"></p_tk>
+    <p_tk vh="H" name="Watkins, A." assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="0" spot="OSU01" context="V,1,0,H01" playid="20,7,182" type="R" score="Y" clock="02:51" text="C. Kavanaugh rush for 1 yard to the OSU0, TOUCHDOWN, clock 02:51." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="C. Kavanaugh" gain="1"></p_ru>
+   </play>
+   <play hasball="PSU" down="1" togo="0" spot="OSU03" context="V,1,0,H03" playid="20,8,183" type="X" score="Y" text="Robert Truax kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Robert Truax" qb="Robert Truax" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="34"></score>
+   <drivesum plays="6" yards="51" top="2:10" driveindex="20" complete="Y"></drivesum>
+   <play hasball="PSU" down="1" togo="0" spot="PSU30" context="V,1,0,V30" playid="20,9,184" type="K" text="Zach Brown kickoff 63 yards to the OSU7, Poyer, Jordan return 30 yards to the OSU37 (Mike Williams;J. Shoemaker)." newcontext="H,1,10,H37">
+    <p_ko vh="V" name="Zach Brown" gain="63"></p_ko>
+    <p_kr vh="H" name="Poyer, Jordan" gain="30"></p_kr>
+    <p_tk vh="V" name="Mike Williams" assist="Y"></p_tk>
+    <p_tk vh="V" name="J. Shoemaker" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H37,02:51" vh="H" spot="H37" clock="02:51" driveindex="21,184"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU37" context="H,1,10,H37" playid="21,1,185" clock="02:45" text="OREGON STATE drive start at 02:45." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU37" context="H,1,10,H37" playid="21,2,186" type="P" text="Katz, Ryan pass incomplete to Munoz, Geno." newcontext="H,2,10,H37">
+    <p_pa vh="H" qb="Katz, Ryan" result="INC" rcv="Munoz, Geno"></p_pa>
+   </play>
+   <play hasball="OSU" down="2" togo="10" spot="OSU37" context="H,2,10,H37" playid="21,3,187" type="R" text="Stevenson, J. rush for 5 yards to the OSU42 (J. Shoemaker)." newcontext="H,3,5,H42">
+    <p_ru vh="H" name="Stevenson, J." gain="5"></p_ru>
+    <p_tk vh="V" name="J. Shoemaker"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="5" spot="OSU42" context="H,3,5,H42" playid="21,4,188" type="P" first="P" text="Katz, Ryan pass complete to Halahuni, Joe for 35 yards to the PSU23, 1ST DOWN OSU (J. Shoemaker;Dominic David)." newcontext="H,1,10,V23">
+    <p_pa vh="H" qb="Katz, Ryan" result="COMP" rcv="Halahuni, Joe" gain="35"></p_pa>
+    <p_tk vh="V" name="J. Shoemaker" assist="Y"></p_tk>
+    <p_tk vh="V" name="Dominic David" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="PSU23" context="H,1,10,V23" playid="21,5,189" type="R" text="Stevenson, J. rush for 4 yards to the PSU19 (Ryan Reardon)." newcontext="H,2,6,V19">
+    <p_ru vh="H" name="Stevenson, J." gain="4"></p_ru>
+    <p_tk vh="V" name="Ryan Reardon"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="6" spot="PSU19" context="H,2,6,V19" playid="21,6,190" type="P" text="Katz, Ryan pass complete to Nichols, Aaron for 5 yards to the PSU14." newcontext="H,3,1,V14">
+    <p_pa vh="H" qb="Katz, Ryan" result="COMP" rcv="Nichols, Aaron" gain="5"></p_pa>
+   </play>
+   <play hasball="OSU" down="3" togo="1" spot="PSU14" context="H,3,1,V14" playid="21,7,191" type="R" first="R" text="Stevenson, J. rush for 3 yards to the PSU11, 1ST DOWN OSU (Dominic David;Joel Sisler)." newcontext="H,1,10,V11">
+    <p_ru vh="H" name="Stevenson, J." gain="3"></p_ru>
+    <p_tk vh="V" name="Dominic David" assist="Y"></p_tk>
+    <p_tk vh="V" name="Joel Sisler" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="PSU11" context="H,1,10,V11" playid="21,8,192" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,1,10,V11">
+   </play>
+   <drivesum plays="6" yards="52" top="2:45" driveindex="21" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Oregon State defeats Portland State by a score of 34 to 7."></play>
+   <score final="Y" V="7" H="34"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="PSU">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:41"></misc>
+    <rush att="6" yds="33" gain="33" loss="0" td="1" long="4"></rush>
+    <pass comp="5" att="12" int="0" yds="70" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="70" td="0" long="0"></rcv>
+    <punt no="1" yds="36" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="36.0"></punt>
+    <ko no="1" yds="63" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="5" tacka="14" tot_tack="19" tflua="1" tfla="0" tflyds="9" sacks="2" sackyds="21" brup="2"></defense>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="OSU">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:19"></misc>
+    <rush att="10" yds="20" gain="29" loss="9" td="0" long="0"></rush>
+    <pass comp="2" att="6" int="0" yds="40" td="0" long="0" sacks="1" sackyds="9"></pass>
+    <rcv no="2" yds="40" td="0" long="0"></rcv>
+    <punt no="2" yds="82" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="41.0"></punt>
+    <defense tackua="5" tacka="8" tot_tack="13" sacks="0" sackyds="0" brup="2"></defense>
+    <kr no="1" yds="30" td="0" long="0"></kr>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="OSU" down="1" togo="10" spot="PSU11" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="2" htor="3" dtgtext="Game Over" ldtext="Drive started: 02:45, 4th Qtr"></downtogo>
+ </plays>

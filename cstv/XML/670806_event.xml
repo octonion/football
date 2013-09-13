@@ -1,0 +1,944 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="LS" down="1" togo="10" spot="LS30" context="V,1,10,V30" playid="0,1,0" text="LSU wins toss, defers; UW elects to rec; LSU kicks, defends W goal" newcontext="V,1,10,V30">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS30" context="V,1,10,V30" playid="0,2,1" text="LS ball on LS30." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS30" context="V,1,10,V30" playid="0,3,2" type="K" text="Josh Jasper kickoff 66 yards to the WASH4, Polk, Jordan return 11 yards to the WASH15 (Richard Murphy)." newcontext="H,1,10,H15">
+    <p_ko vh="V" name="Josh Jasper" gain="66"></p_ko>
+    <p_kr vh="H" name="Polk, Jordan" gain="11"></p_kr>
+    <p_tk vh="V" name="Richard Murphy"></p_tk>
+   </play>
+   <drivestart poss="H,H15,15:00" vh="H" spot="H15" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="WASH" down="1" togo="10" spot="WASH15" context="H,1,10,H15" playid="1,1,3" type="P" text="Locker, Jake pass incomplete to Johnson, James." newcontext="H,2,10,H15">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Johnson, James"></p_pa>
+   </play>
+   <play hasball="WASH" down="2" togo="10" spot="WASH15" context="H,2,10,H15" playid="1,2,4" type="R" first="R" text="Polk, Chris rush for 10 yards to the WASH25, 1ST DOWN WASH, out-of-bounds (Al Woods)." ob="Y" newcontext="H,1,10,H25">
+    <p_ru vh="H" name="Polk, Chris" gain="10"></p_ru>
+    <p_tk vh="V" name="Al Woods"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH25" context="H,1,10,H25" playid="1,3,5" type="P" text="Locker, Jake pass incomplete to Aguilar, Devin." newcontext="H,2,10,H25">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Aguilar, Devin"></p_pa>
+   </play>
+   <play hasball="WASH" down="2" togo="10" spot="WASH25" context="H,2,10,H25" playid="1,4,6" type="R" text="Polk, Chris rush for 9 yards to the WASH34 (Perry Riley)." newcontext="H,3,1,H34">
+    <p_ru vh="H" name="Polk, Chris" gain="9"></p_ru>
+    <p_tk vh="V" name="Perry Riley"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="1" spot="WASH34" context="H,3,1,H34" playid="1,5,7" type="R" first="R" text="Locker, Jake rush for 2 yards to the WASH36, 1ST DOWN WASH (Drake Nevis)." newcontext="H,1,10,H36">
+    <p_ru vh="H" name="Locker, Jake" gain="2"></p_ru>
+    <p_tk vh="V" name="Drake Nevis"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH36" context="H,1,10,H36" playid="1,6,8" type="R" text="Polk, Chris rush for loss of 2 yards to the WASH34 (Chris Hawkins)." newcontext="H,2,12,H34">
+    <p_ru vh="H" name="Polk, Chris" gain="-2"></p_ru>
+    <p_tk vh="V" name="Chris Hawkins" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="12" spot="WASH34" context="H,2,12,H34" playid="1,7,9" type="P" text="Locker, Jake pass incomplete to Goodwin, D. (Pa. Peterson)." newcontext="H,3,12,H34">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Goodwin, D."></p_pa>
+    <p_bu vh="V" name="Pa. Peterson"></p_bu>
+   </play>
+   <play hasball="WASH" down="3" togo="12" spot="WASH34" context="H,3,12,H34" playid="1,8,10" type="P" first="P" text="Locker, Jake pass complete to Fogerson, Johri for 51 yards to the LS15, 1ST DOWN WASH, out-of-bounds (Pa. Peterson)." ob="Y" newcontext="H,1,10,V15">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Fogerson, Johri" gain="51"></p_pa>
+    <p_tk vh="V" name="Pa. Peterson"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS15" context="H,1,10,V15" playid="1,9,11" type="E" text="PENALTY WASH false start (Ossai, Ben) 5 yards to the LS20." newcontext="H,1,15,V20">
+    <p_pn vh="H" code="FS" type="false start" name="Ossai, Ben" result="ACCEPT" at="V15" yards="5"></p_pn>
+   </play>
+   <play hasball="WASH" down="1" togo="15" spot="LS20" context="H,1,15,V20" playid="1,10,12" type="R" text="Polk, Chris rush for 3 yards to the LS17 (Lavar Edwards)." newcontext="H,2,12,V17">
+    <p_ru vh="H" name="Polk, Chris" gain="3"></p_ru>
+    <p_tk vh="V" name="Lavar Edwards"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="12" spot="LS17" context="H,2,12,V17" playid="1,11,13" type="P" first="P" score="Y" clock="10:35" text="Locker, Jake pass complete to Johnson, James for 17 yards to the LS0, 1ST DOWN WASH, TOUCHDOWN, clock 10:35." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Johnson, James" gain="17"></p_pa>
+   </play>
+   <play hasball="WASH" down="1" togo="0" spot="LS03" context="H,1,0,V03" playid="1,12,14" type="X" score="Y" text="Folk, Erik kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Folk, Erik" qb="Folk, Erik" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="10" yards="85" top="4:25" driveindex="1" complete="Y"></drivesum>
+   <play hasball="WASH" down="1" togo="0" spot="WASH30" context="H,1,0,H30" playid="1,13,15" type="K" text="Folk, Erik kickoff 46 yards to the LS24, Ke. Williams return 7 yards to the LS31 (Butler, Donald)." newcontext="V,1,10,V31">
+    <p_ko vh="H" name="Folk, Erik" gain="46"></p_ko>
+    <p_kr vh="V" name="Ke. Williams" gain="7"></p_kr>
+    <p_tk vh="H" name="Butler, Donald"></p_tk>
+   </play>
+   <drivestart poss="V,V31,10:35" vh="V" spot="V31" clock="10:35" driveindex="2,15"></drivestart>
+   <play hasball="LS" down="1" togo="10" spot="LS31" context="V,1,10,V31" playid="2,1,16" clock="10:28" text="LSU drive start at 10:28." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS31" context="V,1,10,V31" playid="2,2,17" type="R" first="R" text="Jo. Jefferson rush for 18 yards to the LS49, 1ST DOWN LS (Richardson, Q.;Walker, Greg)." newcontext="V,1,10,V49">
+    <p_ru vh="V" name="Jo. Jefferson" gain="18"></p_ru>
+    <p_tk vh="H" name="Richardson, Q." assist="Y"></p_tk>
+    <p_tk vh="H" name="Walker, Greg" assist="Y"></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS49" context="V,1,10,V49" playid="2,3,18" type="R" first="R" text="Charles Scott rush for 21 yards to the WASH30, 1ST DOWN LS (Williams, Nate)." newcontext="V,1,10,H30">
+    <p_ru vh="V" name="Charles Scott" gain="21"></p_ru>
+    <p_tk vh="H" name="Williams, Nate"></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="WASH30" context="V,1,10,H30" playid="2,4,19" type="R" text="Charles Scott rush for 1 yard to the WASH29 (Savannah, E.J.)." newcontext="V,2,9,H29">
+    <p_ru vh="V" name="Charles Scott" gain="1"></p_ru>
+    <p_tk vh="H" name="Savannah, E.J."></p_tk>
+   </play>
+   <play hasball="LS" down="2" togo="9" spot="WASH29" context="V,2,9,H29" playid="2,5,20" type="R" text="Charles Scott rush for 4 yards to the WASH25 (Elisara, Cam.)." newcontext="V,3,5,H25">
+    <p_ru vh="V" name="Charles Scott" gain="4"></p_ru>
+    <p_tk vh="H" name="Elisara, Cam."></p_tk>
+   </play>
+   <play hasball="LS" down="3" togo="5" spot="WASH25" context="V,3,5,H25" playid="2,6,21" type="P" first="P" text="Jo. Jefferson pass complete to Brandon LaFell for 12 yards to the WASH13, 1ST DOWN LS (Butler, Donald)." newcontext="V,1,10,H13">
+    <p_pa vh="V" qb="Jo. Jefferson" result="COMP" rcv="Brandon LaFell" gain="12"></p_pa>
+    <p_tk vh="H" name="Butler, Donald"></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="WASH13" context="V,1,10,H13" playid="2,7,22" type="R" text="Charles Scott rush for 3 yards to the WASH10 (Butler, Donald;Savannah, E.J.)." newcontext="V,2,7,H10">
+    <p_ru vh="V" name="Charles Scott" gain="3"></p_ru>
+    <p_tk vh="H" name="Butler, Donald" assist="Y"></p_tk>
+    <p_tk vh="H" name="Savannah, E.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="LS" down="2" togo="7" spot="WASH10" context="V,2,7,H10" playid="2,8,23" type="R" text="Charles Scott rush for no gain to the WASH10 (Richardson, Q.)." newcontext="V,3,7,H10">
+    <p_ru vh="V" name="Charles Scott" gain="0"></p_ru>
+    <p_tk vh="H" name="Richardson, Q."></p_tk>
+   </play>
+   <play hasball="LS" down="3" togo="7" spot="WASH10" context="V,3,7,H10" playid="2,9,24" type="R" first="R" text="Ke. Williams rush for 7 yards to the WASH3, 1ST DOWN LS, out-of-bounds (Savannah, E.J.)." ob="Y" newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Ke. Williams" gain="7"></p_ru>
+    <p_tk vh="H" name="Savannah, E.J."></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="0" spot="WASH03" context="V,1,0,H03" playid="2,10,25" type="#" clock="06:58" text="Timeout Washington, clock 06:58." newcontext="V,1,0,H03">
+    <p_to vh="H" team="Washington"></p_to>
+   </play>
+   <play hasball="LS" down="1" togo="0" spot="WASH03" context="V,1,0,H03" playid="2,11,26" type="P" text="Jo. Jefferson pass incomplete to Richard Dickson (Aiyewa, Victor)." newcontext="V,2,0,H03">
+    <p_pa vh="V" qb="Jo. Jefferson" result="INC" rcv="Richard Dickson"></p_pa>
+    <p_bu vh="H" name="Aiyewa, Victor"></p_bu>
+   </play>
+   <play hasball="LS" down="2" togo="0" spot="WASH03" context="V,2,0,H03" playid="2,12,27" type="R" text="Charles Scott rush for 1 yard to the WASH2 (Butler, Donald;Aldrich, Kalani)." newcontext="V,3,0,H02">
+    <p_ru vh="V" name="Charles Scott" gain="1"></p_ru>
+    <p_tk vh="H" name="Butler, Donald" assist="Y"></p_tk>
+    <p_tk vh="H" name="Aldrich, Kalani" assist="Y"></p_tk>
+   </play>
+   <play hasball="LS" down="3" togo="0" spot="WASH02" context="V,3,0,H02" playid="2,13,28" type="#" clock="06:12" text="Timeout LSU, clock 06:12." newcontext="V,3,0,H02">
+    <p_to vh="V" team="LSU"></p_to>
+   </play>
+   <play hasball="LS" down="3" togo="0" spot="WASH02" context="V,3,0,H02" playid="2,14,29" type="E" text="PENALTY LS false start (Ciron Black) 5 yards to the WASH7." newcontext="V,3,0,H07">
+    <p_pn vh="V" code="FS" type="false start" name="Ciron Black" result="ACCEPT" at="H02" yards="5"></p_pn>
+   </play>
+   <play hasball="LS" down="3" togo="0" spot="WASH07" context="V,3,0,H07" playid="2,15,30" type="P" text="Jo. Jefferson pass incomplete to T. Toliver." newcontext="V,4,0,H07">
+    <p_pa vh="V" qb="Jo. Jefferson" result="INC" rcv="T. Toliver"></p_pa>
+   </play>
+   <play hasball="LS" down="4" togo="0" spot="WASH07" context="V,4,0,H07" playid="2,16,31" type="F" score="Y" clock="06:03" text="Josh Jasper field goal attempt from 24 GOOD, clock 06:03." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Josh Jasper" distance="24" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="7"></score>
+   <drivesum plays="12" yards="62" top="4:25" driveindex="2" complete="Y"></drivesum>
+   <play hasball="LS" down="1" togo="0" spot="LS30" context="V,1,0,V30" playid="2,17,32" type="K" text="Josh Jasper kickoff 61 yards to the WASH9, Polk, Jordan return 16 yards to the WASH25 (Ryan Baker)." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Josh Jasper" gain="61"></p_ko>
+    <p_kr vh="H" name="Polk, Jordan" gain="16"></p_kr>
+    <p_tk vh="V" name="Ryan Baker"></p_tk>
+   </play>
+   <drivestart poss="H,H25,06:03" vh="H" spot="H25" clock="06:03" driveindex="3,32"></drivestart>
+   <play hasball="WASH" down="1" togo="10" spot="WASH25" context="H,1,10,H25" playid="3,1,33" clock="05:58" text="WASHINGTON drive start at 05:58." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH25" context="H,1,10,H25" playid="3,2,34" type="P" score="Y" turnover="I" clock="05:49" text="Locker, Jake pass intercepted by Jacob Cutrera at the WASH29, Jacob Cutrera return 29 yards to the WASH0, TOUCHDOWN, clock 05:49." newcontext="V,1,0,H03">
+    <p_pa vh="H" qb="Locker, Jake" result="INT"></p_pa>
+    <p_ir vh="V" name="Jacob Cutrera" at="H29" gain="29"></p_ir>
+   </play>
+   <drivesum plays="1" yards="0" top="0:09" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,H03,05:49" vh="V" spot="H03" clock="05:49" driveindex="4,34"></drivestart>
+   <play hasball="LS" down="1" togo="0" spot="WASH03" context="V,1,0,H03" playid="4,1,35" type="X" score="Y" text="Josh Jasper kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Josh Jasper" qb="Josh Jasper" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="7"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="4" complete="Y"></drivesum>
+   <play hasball="LS" down="1" togo="0" spot="LS30" context="V,1,0,V30" playid="4,2,36" type="K" text="Josh Jasper kickoff 67 yards to the WASH3, Polk, Jordan return 24 yards to the WASH27 (Stevan Ridley)." newcontext="H,1,10,H27">
+    <p_ko vh="V" name="Josh Jasper" gain="67"></p_ko>
+    <p_kr vh="H" name="Polk, Jordan" gain="24"></p_kr>
+    <p_tk vh="V" name="Stevan Ridley"></p_tk>
+   </play>
+   <drivestart poss="H,H27,05:49" vh="H" spot="H27" clock="05:49" driveindex="5,36"></drivestart>
+   <play hasball="WASH" down="1" togo="10" spot="WASH27" context="H,1,10,H27" playid="5,1,37" clock="05:42" text="WASHINGTON drive start at 05:42." newcontext="H,1,10,H27">
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH27" context="H,1,10,H27" playid="5,2,38" type="R" first="R" text="Polk, Chris rush for 33 yards to the LS40, 1ST DOWN WASH (Danny McCray)." newcontext="H,1,10,V40">
+    <p_ru vh="H" name="Polk, Chris" gain="33"></p_ru>
+    <p_tk vh="V" name="Danny McCray"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS40" context="H,1,10,V40" playid="5,3,39" type="R" text="Fogerson, Johri rush for 3 yards to the LS37 (Al Woods)." newcontext="H,2,7,V37">
+    <p_ru vh="H" name="Fogerson, Johri" gain="3"></p_ru>
+    <p_tk vh="V" name="Al Woods"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="7" spot="LS37" context="H,2,7,V37" playid="5,4,40" type="E" text="PENALTY WASH illegal block 10 yards to the LS47." newcontext="H,2,17,V47">
+    <p_pn vh="H" code="BL" type="illegal block" result="ACCEPT" at="V37" yards="10"></p_pn>
+   </play>
+   <play hasball="WASH" down="2" togo="17" spot="LS47" context="H,2,17,V47" playid="5,5,41" type="R" text="Locker, Jake rush for 3 yards to the LS44 (Kelvin Sheppard)." newcontext="H,3,14,V44">
+    <p_ru vh="H" name="Locker, Jake" gain="3"></p_ru>
+    <p_tk vh="V" name="Kelvin Sheppard"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="14" spot="LS44" context="H,3,14,V44" playid="5,6,42" type="P" first="P" text="Locker, Jake pass complete to Aguilar, Devin for 17 yards to the LS27, 1ST DOWN WASH (Pa. Peterson)." newcontext="H,1,10,V27">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Aguilar, Devin" gain="17"></p_pa>
+    <p_tk vh="V" name="Pa. Peterson"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS27" context="H,1,10,V27" playid="5,7,43" type="P" text="Locker, Jake pass complete to Kearse, J. for 4 yards to the LS23 (Pa. Peterson)." newcontext="H,2,6,V23">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Kearse, J." gain="4"></p_pa>
+    <p_tk vh="V" name="Pa. Peterson"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="6" spot="LS23" context="H,2,6,V23" playid="5,8,44" type="P" first="P" text="Locker, Jake pass complete to Johnson, James for 7 yards to the LS16, 1ST DOWN WASH (Pa. Peterson)." newcontext="H,1,10,V16">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Johnson, James" gain="7"></p_pa>
+    <p_tk vh="V" name="Pa. Peterson"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS16" context="H,1,10,V16" playid="5,9,45" type="R" text="Locker, Jake rush for loss of 1 yard to the LS17 (Rahim Alem)." newcontext="H,2,11,V17">
+    <p_ru vh="H" name="Locker, Jake" gain="-1"></p_ru>
+    <p_tk vh="V" name="Rahim Alem" tfl="Y"></p_tk>
+   </play>
+   <comment text="Previous play reviewed, completed pass overturned"></comment>
+   <play hasball="WASH" down="2" togo="11" spot="LS17" context="H,2,11,V17" playid="5,10,47" type="R" first="R" text="Polk, Chris rush for 12 yards to the LS5, 1ST DOWN WASH (Jacob Cutrera)." newcontext="H,1,0,V05">
+    <p_ru vh="H" name="Polk, Chris" gain="12"></p_ru>
+    <p_tk vh="V" name="Jacob Cutrera"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="0" spot="LS05" context="H,1,0,V05" playid="5,11,48" type="R" turnover="F" text="Polk, Chris rush for 1 yard to the LS4, fumble by Polk, Chris recovered by LS Pa. Peterson at LS4." newcontext="V,1,10,V04">
+    <p_ru vh="H" name="Polk, Chris" gain="1"></p_ru>
+    <p_fumb vh="H" name="Polk, Chris" at="V04" frvh="V" frname="Pa. Peterson"></p_fumb>
+   </play>
+   <drivesum plays="9" yards="69" top="5:26" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,V04,05:42" vh="V" spot="V04" clock="05:42" driveindex="6,48"></drivestart>
+   <play hasball="LS" down="1" togo="10" spot="LS04" context="V,1,10,V04" playid="6,1,49" clock="00:16" text="LSU drive start at 00:16." newcontext="V,1,10,V04">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS04" context="V,1,10,V04" playid="6,2,50" type="R" text="Charles Scott rush for 2 yards to the LS6 (Williams, Nate)." newcontext="V,2,8,V06">
+    <p_ru vh="V" name="Charles Scott" gain="2"></p_ru>
+    <p_tk vh="H" name="Williams, Nate"></p_tk>
+   </play>
+   <score qtr="1" V="10" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="LS">
+    <firstdowns no="4" rush="3" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:48"></misc>
+    <rush att="9" yds="57" gain="57" loss="0" td="0" long="21"></rush>
+    <pass comp="1" att="3" int="0" yds="12" td="0" long="12" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="12" td="0" long="12"></rcv>
+    <ko no="3" yds="194" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="24" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="17" tacka="0" tot_tack="17" tflua="2" tfla="0" tflyds="3" sacks="0" sackyds="0" brup="1" fr="1" fryds="0" int="1" intyds="29"></defense>
+    <kr no="1" yds="7" td="0" long="7"></kr>
+    <ir no="1" yds="29" td="1" long="29"></ir>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WASH">
+    <firstdowns no="8" rush="4" pass="4" penalty="0"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="3" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="10:12"></misc>
+    <rush att="11" yds="73" gain="76" loss="3" td="0" long="33"></rush>
+    <pass comp="5" att="9" int="1" yds="96" td="1" long="51" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="96" td="1" long="51"></rcv>
+    <ko no="1" yds="46" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="6" tot_tack="14" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="3" yds="51" td="0" long="24"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="LS" down="2" togo="8" spot="LS06" context="V,2,8,V06" playid="6,3,51" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,2,8,V06">
+   </play>
+   <play hasball="LS" down="2" togo="8" spot="LS06" context="V,2,8,V06" playid="6,4,52" type="P" text="Jo. Jefferson pass incomplete to T. Toliver." newcontext="V,3,8,V06">
+    <p_pa vh="V" qb="Jo. Jefferson" result="INC" rcv="T. Toliver"></p_pa>
+   </play>
+   <play hasball="LS" down="3" togo="8" spot="LS06" context="V,3,8,V06" playid="6,5,53" type="P" text="Jo. Jefferson pass incomplete to Ke. Williams." newcontext="V,4,8,V06">
+    <p_pa vh="V" qb="Jo. Jefferson" result="INC" rcv="Ke. Williams"></p_pa>
+   </play>
+   <play hasball="LS" down="4" togo="8" spot="LS06" context="V,4,8,V06" playid="6,6,54" type="U" text="Derek Helton punt 36 yards to the LS42, Fogerson, Johri return 18 yards to the LS24 (Derek Helton)." newcontext="H,1,10,V24">
+    <p_pu vh="V" name="Derek Helton" gain="36"></p_pu>
+    <p_pr vh="H" name="Fogerson, Johri" gain="18"></p_pr>
+    <p_tk vh="V" name="Derek Helton"></p_tk>
+   </play>
+   <drivesum plays="3" yards="2" top="0:39" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,V24,15:00" vh="H" spot="V24" clock="15:00" driveindex="7,54"></drivestart>
+   <play hasball="WASH" down="1" togo="10" spot="LS24" context="H,1,10,V24" playid="7,1,55" clock="14:37" text="WASHINGTON drive start at 14:37." newcontext="H,1,10,V24">
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS24" context="H,1,10,V24" playid="7,2,56" type="P" text="Locker, Jake pass incomplete." newcontext="H,2,10,V24">
+    <p_pa vh="H" qb="Locker, Jake" result="INC"></p_pa>
+   </play>
+   <play hasball="WASH" down="2" togo="10" spot="LS24" context="H,2,10,V24" playid="7,3,57" type="P" text="Locker, Jake pass incomplete to Johnson, James." newcontext="H,3,10,V24">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Johnson, James"></p_pa>
+   </play>
+   <play hasball="WASH" down="3" togo="10" spot="LS24" context="H,3,10,V24" playid="7,4,58" type="R" text="Griffin, Willie rush for 8 yards to the LS16 (Chad Jones)." newcontext="H,4,2,V16">
+    <p_ru vh="H" name="Griffin, Willie" gain="8"></p_ru>
+    <p_tk vh="V" name="Chad Jones"></p_tk>
+   </play>
+   <play hasball="WASH" down="4" togo="2" spot="LS16" context="H,4,2,V16" playid="7,5,59" type="F" score="Y" clock="13:50" text="Folk, Erik field goal attempt from 34 GOOD, clock 13:50." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Folk, Erik" distance="34" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="10" H="10"></score>
+   <drivesum plays="4" yards="8" top="0:47" driveindex="7" complete="Y"></drivesum>
+   <play hasball="WASH" down="1" togo="0" spot="WASH30" context="H,1,0,H30" playid="7,6,60" type="K" text="Folk, Erik kickoff 40 yards to the LS30, Tr. Holliday return 6 yards to the LS36, out-of-bounds (Foster, Mason)." ob="Y" newcontext="V,1,10,V36">
+    <p_ko vh="H" name="Folk, Erik" gain="40"></p_ko>
+    <p_kr vh="V" name="Tr. Holliday" gain="6"></p_kr>
+    <p_tk vh="H" name="Foster, Mason"></p_tk>
+   </play>
+   <drivestart poss="V,V36,13:50" vh="V" spot="V36" clock="13:50" driveindex="8,60"></drivestart>
+   <play hasball="LS" down="1" togo="10" spot="LS36" context="V,1,10,V36" playid="8,1,61" clock="13:45" text="LSU drive start at 13:45." newcontext="V,1,10,V36">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS36" context="V,1,10,V36" playid="8,2,62" type="R" first="R" text="Jo. Jefferson rush for 11 yards to the LS47, 1ST DOWN LS (McDowell, V.;Aiyewa, Victor)." newcontext="V,1,10,V47">
+    <p_ru vh="V" name="Jo. Jefferson" gain="11"></p_ru>
+    <p_tk vh="H" name="McDowell, V." assist="Y"></p_tk>
+    <p_tk vh="H" name="Aiyewa, Victor" assist="Y"></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS47" context="V,1,10,V47" playid="8,3,63" text="Jarrett Lee at QB for LSU." newcontext="V,1,10,V47">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS47" context="V,1,10,V47" playid="8,4,64" type="E" first="E" text="PENALTY WASH personal foul 15 yards to the WASH38, 1ST DOWN LS." newcontext="V,1,10,H38">
+    <p_pn vh="H" code="PF" type="personal foul" result="ACCEPT" at="V47" yards="15"></p_pn>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="WASH38" context="V,1,10,H38" playid="8,5,65" text="Jo. Jefferson at QB for LSU." newcontext="V,1,10,H38">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="WASH38" context="V,1,10,H38" playid="8,6,66" type="R" text="Charles Scott rush for 4 yards to the WASH34 (Aiyewa, Victor)." newcontext="V,2,6,H34">
+    <p_ru vh="V" name="Charles Scott" gain="4"></p_ru>
+    <p_tk vh="H" name="Aiyewa, Victor"></p_tk>
+   </play>
+   <play hasball="LS" down="2" togo="6" spot="WASH34" context="V,2,6,H34" playid="8,7,67" type="E" first="E" text="PENALTY WASH personal foul 15 yards to the WASH19, 1ST DOWN LS." newcontext="V,1,10,H19">
+    <p_pn vh="H" code="PF" type="personal foul" result="ACCEPT" at="H34" yards="15"></p_pn>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="WASH19" context="V,1,10,H19" playid="8,8,68" type="R" turnover="F" text="Charles Scott rush for 1 yard to the WASH18, fumble forced by Foster, Mason, fumble by Charles Scott recovered by WASH Foster, Mason at WASH18." newcontext="H,1,10,H18">
+    <p_ru vh="V" name="Charles Scott" gain="1"></p_ru>
+    <p_fumb vh="V" name="Charles Scott" at="H18" frvh="H" frname="Foster, Mason"></p_fumb>
+    <p_tk vh="H" name="Foster, Mason" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="46" top="2:23" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H18,13:45" vh="H" spot="H18" clock="13:45" driveindex="9,68"></drivestart>
+   <play hasball="WASH" down="1" togo="10" spot="WASH18" context="H,1,10,H18" playid="9,1,69" clock="11:22" text="WASHINGTON drive start at 11:22." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH18" context="H,1,10,H18" playid="9,2,70" type="#" clock="11:22" text="Timeout Washington, clock 11:22." newcontext="H,1,10,H18">
+    <p_to vh="H" team="Washington"></p_to>
+   </play>
+   <comment text="Previous play reviewed, overturned to fumble"></comment>
+   <play hasball="WASH" down="1" togo="10" spot="WASH18" context="H,1,10,H18" playid="9,3,72" type="R" text="Polk, Chris rush for loss of 4 yards to the WASH14 (Harry Coleman)." newcontext="H,2,14,H14">
+    <p_ru vh="H" name="Polk, Chris" gain="-4"></p_ru>
+    <p_tk vh="V" name="Harry Coleman" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="14" spot="WASH14" context="H,2,14,H14" playid="9,4,73" type="R" text="Polk, Chris rush for 6 yards to the WASH20 (Danny McCray)." newcontext="H,3,8,H20">
+    <p_ru vh="H" name="Polk, Chris" gain="6"></p_ru>
+    <p_tk vh="V" name="Danny McCray"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="8" spot="WASH20" context="H,3,8,H20" playid="9,5,74" type="P" first="P" text="Locker, Jake pass complete to Johnson, James for 8 yards to the WASH28, 1ST DOWN WASH (Jai Eugene)." newcontext="H,1,10,H28">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Johnson, James" gain="8"></p_pa>
+    <p_tk vh="V" name="Jai Eugene"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH28" context="H,1,10,H28" playid="9,6,75" type="R" text="Polk, Chris rush for no gain to the WASH28 (Al Woods)." newcontext="H,2,10,H28">
+    <p_ru vh="H" name="Polk, Chris" gain="0"></p_ru>
+    <p_tk vh="V" name="Al Woods"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="10" spot="WASH28" context="H,2,10,H28" playid="9,7,76" type="R" text="Locker, Jake rush for 5 yards to the WASH33, out-of-bounds (Drake Nevis)." ob="Y" newcontext="H,3,5,H33">
+    <p_ru vh="H" name="Locker, Jake" gain="5"></p_ru>
+    <p_tk vh="V" name="Drake Nevis"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="5" spot="WASH33" context="H,3,5,H33" playid="9,8,77" type="P" first="P" text="Locker, Jake pass complete to Johnson, James for 6 yards to the WASH39, 1ST DOWN WASH (Perry Riley)." newcontext="H,1,10,H39">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Johnson, James" gain="6"></p_pa>
+    <p_tk vh="V" name="Perry Riley"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH39" context="H,1,10,H39" playid="9,9,78" type="P" text="Locker, Jake pass complete to Middleton, K. for 4 yards to the WASH43 (Harry Coleman)." newcontext="H,2,6,H43">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Middleton, K." gain="4"></p_pa>
+    <p_tk vh="V" name="Harry Coleman"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="6" spot="WASH43" context="H,2,6,H43" playid="9,10,79" type="E" text="PENALTY WASH false start (Habben, Cody) 5 yards to the WASH38." newcontext="H,2,11,H38">
+    <p_pn vh="H" code="FS" type="false start" name="Habben, Cody" result="ACCEPT" at="H43" yards="5"></p_pn>
+   </play>
+   <play hasball="WASH" down="2" togo="11" spot="WASH38" context="H,2,11,H38" playid="9,11,80" type="R" text="Polk, Chris rush for 2 yards to the WASH40 (Harry Coleman;Perry Riley)." newcontext="H,3,9,H40">
+    <p_ru vh="H" name="Polk, Chris" gain="2"></p_ru>
+    <p_tk vh="V" name="Harry Coleman" assist="Y"></p_tk>
+    <p_tk vh="V" name="Perry Riley" assist="Y"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="9" spot="WASH40" context="H,3,9,H40" playid="9,12,81" type="P" first="P" text="Locker, Jake pass complete to Middleton, K. for 14 yards to the LS46, 1ST DOWN WASH (Jacob Cutrera)." newcontext="H,1,10,V46">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Middleton, K." gain="14"></p_pa>
+    <p_tk vh="V" name="Jacob Cutrera"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS46" context="H,1,10,V46" playid="9,13,82" type="P" text="Locker, Jake pass incomplete to Polk, Chris (Laz. Levingston)." newcontext="H,2,10,V46">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Polk, Chris"></p_pa>
+    <p_bu vh="V" name="Laz. Levingston"></p_bu>
+   </play>
+   <play hasball="WASH" down="2" togo="10" spot="LS46" context="H,2,10,V46" playid="9,14,83" type="R" text="Polk, Jordan rush for loss of 3 yards to the LS49 (Perry Riley)." newcontext="H,3,13,V49">
+    <p_ru vh="H" name="Polk, Jordan" gain="-3"></p_ru>
+    <p_tk vh="V" name="Perry Riley" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="13" spot="LS49" context="H,3,13,V49" playid="9,15,84" type="P" text="Locker, Jake pass complete to Goodwin, D. for 9 yards to the LS40 (Pa. Peterson)." newcontext="H,4,4,V40">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Goodwin, D." gain="9"></p_pa>
+    <p_tk vh="V" name="Pa. Peterson"></p_tk>
+   </play>
+   <play hasball="WASH" down="4" togo="4" spot="LS40" context="H,4,4,V40" playid="9,16,85" type="U" text="Mahan, Will punt 40 yards to the LS0, touchback, PENALTY WASH illegal formation 5 yards to the LS25, 1st and 10, LS ball on LS25." newcontext="V,1,10,V25">
+    <p_pu vh="H" name="Mahan, Will" gain="40" tb="Y"></p_pu>
+    <p_pn vh="H" code="FO" type="illegal formation" result="ACCEPT" at="V20" yards="5"></p_pn>
+   </play>
+   <drivesum plays="12" yards="42" top="7:33" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V25,11:22" vh="V" spot="V25" clock="11:22" driveindex="10,85"></drivestart>
+   <play hasball="LS" down="1" togo="10" spot="LS25" context="V,1,10,V25" playid="10,1,86" clock="03:49" text="LSU drive start at 03:49." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS25" context="V,1,10,V25" playid="10,2,87" type="R" text="Ke. Williams rush for 2 yards to the LS27 (Savannah, E.J.)." newcontext="V,2,8,V27">
+    <p_ru vh="V" name="Ke. Williams" gain="2"></p_ru>
+    <p_tk vh="H" name="Savannah, E.J."></p_tk>
+   </play>
+   <play hasball="LS" down="2" togo="8" spot="LS27" context="V,2,8,V27" playid="10,3,88" type="R" text="Jo. Jefferson rush for 7 yards to the LS34, out-of-bounds (Trufant, D.)." ob="Y" newcontext="V,3,1,V34">
+    <p_ru vh="V" name="Jo. Jefferson" gain="7"></p_ru>
+    <p_tk vh="H" name="Trufant, D."></p_tk>
+   </play>
+   <play hasball="LS" down="3" togo="1" spot="LS34" context="V,3,1,V34" playid="10,4,89" type="R" first="R" text="Charles Scott rush for 4 yards to the LS38, 1ST DOWN LS (Savannah, E.J.)." newcontext="V,1,10,V38">
+    <p_ru vh="V" name="Charles Scott" gain="4"></p_ru>
+    <p_tk vh="H" name="Savannah, E.J."></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS38" context="V,1,10,V38" playid="10,5,90" type="R" text="Ke. Williams rush for 9 yards to the LS47 (Foster, Mason)." newcontext="V,2,1,V47">
+    <p_ru vh="V" name="Ke. Williams" gain="9"></p_ru>
+    <p_tk vh="H" name="Foster, Mason"></p_tk>
+   </play>
+   <play hasball="LS" down="2" togo="1" spot="LS47" context="V,2,1,V47" playid="10,6,91" type="P" first="P" text="Jo. Jefferson pass complete to Ke. Williams for 8 yards to the WASH45, 1ST DOWN LS (Foster, Mason)." newcontext="V,1,10,H45">
+    <p_pa vh="V" qb="Jo. Jefferson" result="COMP" rcv="Ke. Williams" gain="8"></p_pa>
+    <p_tk vh="H" name="Foster, Mason"></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="WASH45" context="V,1,10,H45" playid="10,7,92" type="P" text="Jo. Jefferson pass incomplete to Richard Dickson." newcontext="V,2,10,H45">
+    <p_pa vh="V" qb="Jo. Jefferson" result="INC" rcv="Richard Dickson"></p_pa>
+   </play>
+   <play hasball="LS" down="2" togo="10" spot="WASH45" context="V,2,10,H45" playid="10,8,93" type="P" first="P" score="Y" clock="01:15" text="Jo. Jefferson pass complete to T. Toliver for 45 yards to the WASH0, 1ST DOWN LS, TOUCHDOWN, clock 01:15." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Jo. Jefferson" result="COMP" rcv="T. Toliver" gain="45"></p_pa>
+   </play>
+   <play hasball="LS" down="1" togo="0" spot="WASH03" context="V,1,0,H03" playid="10,9,94" type="X" score="Y" text="Josh Jasper kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Josh Jasper" qb="Josh Jasper" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="17" H="10"></score>
+   <drivesum plays="7" yards="75" top="2:34" driveindex="10" complete="Y"></drivesum>
+   <play hasball="LS" down="1" togo="0" spot="LS30" context="V,1,0,V30" playid="10,10,95" type="K" text="Josh Jasper kickoff 68 yards to the WASH2, Richardson, Q. return 14 yards to the WASH16, out-of-bounds (Josh Jasper), PENALTY WASH holding (Aiyewa, Victor) 8 yards to the WASH8, 1st and 10, WASH ball on WASH8." ob="Y" newcontext="H,1,10,H08">
+    <p_ko vh="V" name="Josh Jasper" gain="68"></p_ko>
+    <p_kr vh="H" name="Richardson, Q." gain="14"></p_kr>
+    <p_tk vh="V" name="Josh Jasper"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="Aiyewa, Victor" result="ACCEPT" at="H16" yards="8"></p_pn>
+   </play>
+   <drivestart poss="H,H08,01:15" vh="H" spot="H08" clock="01:15" driveindex="11,95"></drivestart>
+   <play hasball="WASH" down="1" togo="10" spot="WASH08" context="H,1,10,H08" playid="11,1,96" clock="01:07" text="WASHINGTON drive start at 01:07." newcontext="H,1,10,H08">
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH08" context="H,1,10,H08" playid="11,2,97" type="R" first="R" text="Polk, Chris rush for 12 yards to the WASH20, 1ST DOWN WASH (Kelvin Sheppard;Danny McCray)." newcontext="H,1,10,H20">
+    <p_ru vh="H" name="Polk, Chris" gain="12"></p_ru>
+    <p_tk vh="V" name="Kelvin Sheppard" assist="Y"></p_tk>
+    <p_tk vh="V" name="Danny McCray" assist="Y"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH20" context="H,1,10,H20" playid="11,3,98" type="R" text="Locker, Jake rush for 6 yards to the WASH26 (Al Woods)." newcontext="H,2,4,H26">
+    <p_ru vh="H" name="Locker, Jake" gain="6"></p_ru>
+    <p_tk vh="V" name="Al Woods"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="4" spot="WASH26" context="H,2,4,H26" playid="11,4,99" type="#" clock="00:44" text="Timeout LSU, clock 00:44." newcontext="H,2,4,H26">
+    <p_to vh="V" team="LSU"></p_to>
+   </play>
+   <play hasball="WASH" down="2" togo="4" spot="WASH26" context="H,2,4,H26" playid="11,5,100" type="R" text="Fogerson, Johri rush for 3 yards to the WASH29 (Rahim Alem)." newcontext="H,3,1,H29">
+    <p_ru vh="H" name="Fogerson, Johri" gain="3"></p_ru>
+    <p_tk vh="V" name="Rahim Alem"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="1" spot="WASH29" context="H,3,1,H29" playid="11,6,101" type="#" clock="00:40" text="Timeout LSU, clock 00:40." newcontext="H,3,1,H29">
+    <p_to vh="V" team="LSU"></p_to>
+   </play>
+   <play hasball="WASH" down="3" togo="1" spot="WASH29" context="H,3,1,H29" playid="11,7,102" type="R" first="R" text="Fogerson, Johri rush for 5 yards to the WASH34, 1ST DOWN WASH (Laz. Levingston)." newcontext="H,1,10,H34">
+    <p_ru vh="H" name="Fogerson, Johri" gain="5"></p_ru>
+    <p_tk vh="V" name="Laz. Levingston"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH34" context="H,1,10,H34" playid="11,8,103" type="P" first="P" text="Locker, Jake pass complete to Aguilar, Devin for 46 yards to the LS20, 1ST DOWN WASH, out-of-bounds (Chad Jones)." ob="Y" newcontext="H,1,10,V20">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Aguilar, Devin" gain="46"></p_pa>
+    <p_tk vh="V" name="Chad Jones"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS20" context="H,1,10,V20" playid="11,9,104" type="#" clock="00:16" text="Timeout Washington, clock 00:16." newcontext="H,1,10,V20">
+    <p_to vh="H" team="Washington"></p_to>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS20" context="H,1,10,V20" playid="11,10,105" type="P" text="Locker, Jake pass incomplete to Johnson, James." newcontext="H,2,10,V20">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Johnson, James"></p_pa>
+   </play>
+   <play hasball="WASH" down="2" togo="10" spot="LS20" context="H,2,10,V20" playid="11,11,106" type="P" text="Locker, Jake pass incomplete to Johnson, James." newcontext="H,3,10,V20">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Johnson, James"></p_pa>
+   </play>
+   <play hasball="WASH" down="3" togo="10" spot="LS20" context="H,3,10,V20" playid="11,12,107" type="F" score="Y" clock="00:00" text="Folk, Erik field goal attempt from 37 GOOD, clock 00:00." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Folk, Erik" distance="37" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="17" H="13"></score>
+   <play hasball="WASH" down="1" togo="0" spot="WASH30" context="H,1,0,H30" playid="11,13,108" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,1,0,H30">
+   </play>
+   <drivesum plays="8" yards="72" top="1:07" driveindex="11" complete="Y"></drivesum>
+   <score qtr="2" V="17" H="13"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="LS">
+    <firstdowns no="6" rush="2" pass="2" penalty="2"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="05:25"></misc>
+    <rush att="7" yds="38" gain="38" loss="0" td="0" long="0"></rush>
+    <pass comp="2" att="5" int="0" yds="53" td="1" long="33" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="53" td="1" long="33"></rcv>
+    <punt no="1" yds="36" long="36" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="36.0"></punt>
+    <ko no="1" yds="68" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="17" tacka="4" tot_tack="21" tflua="2" tfla="0" tflyds="7" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="6" td="0" long="0"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WASH">
+    <firstdowns no="6" rush="2" pass="4" penalty="0"></firstdowns>
+    <penalties no="5" yds="48"></penalties>
+    <conversions thirdconv="4" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:35"></misc>
+    <rush att="11" yds="40" gain="47" loss="7" td="0" long="0"></rush>
+    <pass comp="6" att="11" int="0" yds="87" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="87" td="0" long="0"></rcv>
+    <punt no="1" yds="40" long="40" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="40.0"></punt>
+    <ko no="1" yds="40" ob="0" tb="0"></ko>
+    <fg made="2" att="2" long="37" blkd="0"></fg>
+    <defense tackua="8" tacka="2" tot_tack="10" sacks="0" sackyds="0" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="14" td="0" long="0"></kr>
+    <pr no="1" yds="18" td="0" long="18"></pr>
+    <scoring fg="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="WASH" down="1" togo="0" spot="WASH30" context="H,1,0,H30" playid="11,14,109" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, WASH ball on WASH30." newcontext="H,1,0,H30">
+   </play>
+   <play hasball="WASH" down="1" togo="0" spot="WASH30" context="H,1,0,H30" playid="11,15,110" type="K" text="Folk, Erik kickoff 36 yards to the LS34, Chad Jones return 5 yards to the LS39 (Foster, Mason;Gage, Joshua)." newcontext="V,1,10,V39">
+    <p_ko vh="H" name="Folk, Erik" gain="36"></p_ko>
+    <p_kr vh="V" name="Chad Jones" gain="5"></p_kr>
+    <p_tk vh="H" name="Foster, Mason" assist="Y"></p_tk>
+    <p_tk vh="H" name="Gage, Joshua" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V39,15:00" vh="V" spot="V39" clock="15:00" driveindex="12,110"></drivestart>
+   <play hasball="LS" down="1" togo="10" spot="LS39" context="V,1,10,V39" playid="12,1,111" clock="14:52" text="LSU drive start at 14:52." newcontext="V,1,10,V39">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS39" context="V,1,10,V39" playid="12,2,112" type="P" text="Jo. Jefferson pass complete to Richard Dickson for 9 yards to the LS48 (Savannah, E.J.)." newcontext="V,2,1,V48">
+    <p_pa vh="V" qb="Jo. Jefferson" result="COMP" rcv="Richard Dickson" gain="9"></p_pa>
+    <p_tk vh="H" name="Savannah, E.J."></p_tk>
+   </play>
+   <play hasball="LS" down="2" togo="1" spot="LS48" context="V,2,1,V48" playid="12,3,113" type="P" text="Jo. Jefferson sacked for loss of 8 yards to the LS40 (Ta'amu, Alameda)." newcontext="V,3,9,V40">
+    <p_pa vh="V" qb="Jo. Jefferson" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="H" name="Ta'amu, Alameda" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="LS" down="3" togo="9" spot="LS40" context="V,3,9,V40" playid="12,4,114" type="P" text="Jo. Jefferson pass incomplete." newcontext="V,4,9,V40">
+    <p_pa vh="V" qb="Jo. Jefferson" result="INC"></p_pa>
+   </play>
+   <play hasball="LS" down="4" togo="9" spot="LS40" context="V,4,9,V40" playid="12,5,115" type="U" text="Derek Helton punt 23 yards to the WASH37, downed." newcontext="H,1,10,H37">
+    <p_pu vh="V" name="Derek Helton" gain="23"></p_pu>
+   </play>
+   <drivesum plays="3" yards="1" top="1:40" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H37,14:52" vh="H" spot="H37" clock="14:52" driveindex="13,115"></drivestart>
+   <play hasball="WASH" down="1" togo="10" spot="WASH37" context="H,1,10,H37" playid="13,1,116" clock="13:12" text="WASHINGTON drive start at 13:12." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH37" context="H,1,10,H37" playid="13,2,117" type="R" text="Polk, Chris rush for no gain to the WASH37 (Ch. Alexander)." newcontext="H,2,10,H37">
+    <p_ru vh="H" name="Polk, Chris" gain="0"></p_ru>
+    <p_tk vh="V" name="Ch. Alexander"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="10" spot="WASH37" context="H,2,10,H37" playid="13,3,118" type="R" text="Polk, Chris rush for no gain to the WASH37 (Rahim Alem)." newcontext="H,3,10,H37">
+    <p_ru vh="H" name="Polk, Chris" gain="0"></p_ru>
+    <p_tk vh="V" name="Rahim Alem"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="10" spot="WASH37" context="H,3,10,H37" playid="13,4,119" type="P" first="P" text="Locker, Jake pass complete to Polk, Jordan for 12 yards to the WASH49, 1ST DOWN WASH (Brandon Taylor)." newcontext="H,1,10,H49">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Polk, Jordan" gain="12"></p_pa>
+    <p_tk vh="V" name="Brandon Taylor"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH49" context="H,1,10,H49" playid="13,5,120" type="E" text="PENALTY WASH substitution infraction 5 yards to the WASH44." newcontext="H,1,15,H44">
+    <p_pn vh="H" code="SU" type="substitution infraction" result="ACCEPT" at="H49" yards="5"></p_pn>
+   </play>
+   <play hasball="WASH" down="1" togo="15" spot="WASH44" context="H,1,15,H44" playid="13,6,121" type="P" text="Locker, Jake pass incomplete to Polk, Jordan (Harry Coleman)." newcontext="H,2,15,H44">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Polk, Jordan"></p_pa>
+    <p_bu vh="V" name="Harry Coleman"></p_bu>
+   </play>
+   <play hasball="WASH" down="2" togo="15" spot="WASH44" context="H,2,15,H44" playid="13,7,122" type="P" text="Locker, Jake pass complete to Aguilar, Devin for 8 yards to the LS48 (Harry Coleman)." newcontext="H,3,7,V48">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Aguilar, Devin" gain="8"></p_pa>
+    <p_tk vh="V" name="Harry Coleman"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="7" spot="LS48" context="H,3,7,V48" playid="13,8,123" type="P" text="Locker, Jake pass incomplete to Goodwin, D.." newcontext="H,4,7,V48">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Goodwin, D."></p_pa>
+   </play>
+   <play hasball="WASH" down="4" togo="7" spot="LS48" context="H,4,7,V48" playid="13,9,124" type="U" text="Mahan, Will punt 34 yards to the LS14, fair catch by Chad Jones." newcontext="V,1,10,V14">
+    <p_pu vh="H" name="Mahan, Will" gain="34" in20="Y" fc="Chad Jones"></p_pu>
+   </play>
+   <drivesum plays="6" yards="15" top="2:51" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="V,V14,13:12" vh="V" spot="V14" clock="13:12" driveindex="14,124"></drivestart>
+   <play hasball="LS" down="1" togo="10" spot="LS14" context="V,1,10,V14" playid="14,1,125" clock="10:21" text="LSU drive start at 10:21." newcontext="V,1,10,V14">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS14" context="V,1,10,V14" playid="14,2,126" type="R" text="Charles Scott rush for 3 yards to the LS17 (Savannah, E.J.), PENALTY WASH personal foul off-setting, PENALTY LS personal foul off-setting." newcontext="V,2,7,V17">
+    <p_ru vh="V" name="Charles Scott" gain="3"></p_ru>
+    <p_tk vh="H" name="Savannah, E.J."></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" result="OFFSET"></p_pn>
+    <p_pn vh="V" code="PF" type="personal foul" result="OFFSET"></p_pn>
+   </play>
+   <play hasball="LS" down="2" togo="7" spot="LS17" context="V,2,7,V17" playid="14,3,127" type="P" first="P" text="Jo. Jefferson pass complete to Brandon LaFell for 12 yards to the LS29, 1ST DOWN LS, out-of-bounds (Williams, Nate)." ob="Y" newcontext="V,1,10,V29">
+    <p_pa vh="V" qb="Jo. Jefferson" result="COMP" rcv="Brandon LaFell" gain="12"></p_pa>
+    <p_tk vh="H" name="Williams, Nate"></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS29" context="V,1,10,V29" playid="14,4,128" type="R" text="Ke. Williams rush for 1 yard to the LS30 (Foster, Mason)." newcontext="V,2,9,V30">
+    <p_ru vh="V" name="Ke. Williams" gain="1"></p_ru>
+    <p_tk vh="H" name="Foster, Mason"></p_tk>
+   </play>
+   <play hasball="LS" down="2" togo="9" spot="LS30" context="V,2,9,V30" playid="14,5,129" type="P" text="Jo. Jefferson pass complete to T. Toliver for 8 yards to the LS38 (McDowell, V.)." newcontext="V,3,1,V38">
+    <p_pa vh="V" qb="Jo. Jefferson" result="COMP" rcv="T. Toliver" gain="8"></p_pa>
+    <p_tk vh="H" name="McDowell, V."></p_tk>
+   </play>
+   <play hasball="LS" down="3" togo="1" spot="LS38" context="V,3,1,V38" playid="14,6,130" type="R" first="R" text="Charles Scott rush for 8 yards to the LS46, 1ST DOWN LS (Williams, Nate)." newcontext="V,1,10,V46">
+    <p_ru vh="V" name="Charles Scott" gain="8"></p_ru>
+    <p_tk vh="H" name="Williams, Nate"></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS46" context="V,1,10,V46" playid="14,7,131" type="R" text="Jo. Jefferson rush for 8 yards to the WASH46 (Savannah, E.J.)." newcontext="V,2,2,H46">
+    <p_ru vh="V" name="Jo. Jefferson" gain="8"></p_ru>
+    <p_tk vh="H" name="Savannah, E.J."></p_tk>
+   </play>
+   <play hasball="LS" down="2" togo="2" spot="WASH46" context="V,2,2,H46" playid="14,8,132" type="R" text="Tr. Holliday rush for 1 yard to the WASH45 (Foster, Mason)." newcontext="V,3,1,H45">
+    <p_ru vh="V" name="Tr. Holliday" gain="1"></p_ru>
+    <p_tk vh="H" name="Foster, Mason"></p_tk>
+   </play>
+   <play hasball="LS" down="3" togo="1" spot="WASH45" context="V,3,1,H45" playid="14,9,133" type="#" clock="06:31" text="Timeout LSU, clock 06:31." newcontext="V,3,1,H45">
+    <p_to vh="V" team="LSU"></p_to>
+   </play>
+   <play hasball="LS" down="3" togo="1" spot="WASH45" context="V,3,1,H45" playid="14,10,134" type="R" first="R" text="Jo. Jefferson rush for 1 yard to the WASH44, 1ST DOWN LS, out-of-bounds (Savannah, E.J.)." ob="Y" newcontext="V,1,10,H44">
+    <p_ru vh="V" name="Jo. Jefferson" gain="1"></p_ru>
+    <p_tk vh="H" name="Savannah, E.J."></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="WASH44" context="V,1,10,H44" playid="14,11,135" type="E" text="PENALTY WASH offside defense (Matthews, D.) 5 yards to the WASH39." newcontext="V,1,5,H39">
+    <p_pn vh="H" code="OD" type="offside defense" name="Matthews, D." result="ACCEPT" at="H44" yards="5"></p_pn>
+   </play>
+   <play hasball="LS" down="1" togo="5" spot="WASH39" context="V,1,5,H39" playid="14,12,136" type="P" first="P" score="Y" clock="05:50" text="Jo. Jefferson pass complete to T. Toliver for 39 yards to the WASH0, 1ST DOWN LS, TOUCHDOWN, clock 05:50." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Jo. Jefferson" result="COMP" rcv="T. Toliver" gain="39"></p_pa>
+   </play>
+   <play hasball="LS" down="1" togo="0" spot="WASH03" context="V,1,0,H03" playid="14,13,137" type="X" score="Y" text="Josh Jasper kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Josh Jasper" qb="Josh Jasper" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="24" H="13"></score>
+   <drivesum plays="9" yards="86" top="4:31" driveindex="14" complete="Y"></drivesum>
+   <play hasball="LS" down="1" togo="0" spot="LS30" context="V,1,0,V30" playid="14,14,138" type="K" text="Josh Jasper kickoff 61 yards to the WASH9, Polk, Jordan return 13 yards to the WASH22 (Stevan Ridley)." newcontext="H,1,10,H22">
+    <p_ko vh="V" name="Josh Jasper" gain="61"></p_ko>
+    <p_kr vh="H" name="Polk, Jordan" gain="13"></p_kr>
+    <p_tk vh="V" name="Stevan Ridley"></p_tk>
+   </play>
+   <drivestart poss="H,H22,05:50" vh="H" spot="H22" clock="05:50" driveindex="15,138"></drivestart>
+   <play hasball="WASH" down="1" togo="10" spot="WASH22" context="H,1,10,H22" playid="15,1,139" clock="05:43" text="WASHINGTON drive start at 05:43." newcontext="H,1,10,H22">
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH22" context="H,1,10,H22" playid="15,2,140" type="P" text="Locker, Jake pass incomplete to Fogerson, Johri." newcontext="H,2,10,H22">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Fogerson, Johri"></p_pa>
+   </play>
+   <play hasball="WASH" down="2" togo="10" spot="WASH22" context="H,2,10,H22" playid="15,3,141" type="P" text="Locker, Jake pass complete to Kearse, J. for 8 yards to the WASH30 (Chris Hawkins)." newcontext="H,3,2,H30">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Kearse, J." gain="8"></p_pa>
+    <p_tk vh="V" name="Chris Hawkins"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="2" spot="WASH30" context="H,3,2,H30" playid="15,4,142" type="R" first="R" text="Locker, Jake rush for 3 yards to the WASH33, 1ST DOWN WASH (Chris Hawkins)." newcontext="H,1,10,H33">
+    <p_ru vh="H" name="Locker, Jake" gain="3"></p_ru>
+    <p_tk vh="V" name="Chris Hawkins"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH33" context="H,1,10,H33" playid="15,5,143" type="R" text="Polk, Chris rush for 4 yards to the WASH37 (Drake Nevis)." newcontext="H,2,6,H37">
+    <p_ru vh="H" name="Polk, Chris" gain="4"></p_ru>
+    <p_tk vh="V" name="Drake Nevis"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="6" spot="WASH37" context="H,2,6,H37" playid="15,6,144" type="R" text="Polk, Chris rush for loss of 4 yards to the WASH33 (Jacob Cutrera)." newcontext="H,3,10,H33">
+    <p_ru vh="H" name="Polk, Chris" gain="-4"></p_ru>
+    <p_tk vh="V" name="Jacob Cutrera" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="10" spot="WASH33" context="H,3,10,H33" playid="15,7,145" type="R" text="Locker, Jake rush for 6 yards to the WASH39 (Pa. Peterson)." newcontext="H,4,4,H39">
+    <p_ru vh="H" name="Locker, Jake" gain="6"></p_ru>
+    <p_tk vh="V" name="Pa. Peterson"></p_tk>
+   </play>
+   <play hasball="WASH" down="4" togo="4" spot="WASH39" context="H,4,4,H39" playid="15,8,146" type="U" text="Mahan, Will punt 53 yards to the LS8, Tr. Holliday return 9 yards to the LS17 (Williams, Nate;Walker, Greg)." newcontext="V,1,10,V17">
+    <p_pu vh="H" name="Mahan, Will" gain="53" in20="Y"></p_pu>
+    <p_pr vh="V" name="Tr. Holliday" gain="9"></p_pr>
+    <p_tk vh="H" name="Williams, Nate" assist="Y"></p_tk>
+    <p_tk vh="H" name="Walker, Greg" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="6" yards="17" top="3:40" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="V,V17,05:43" vh="V" spot="V17" clock="05:43" driveindex="16,146"></drivestart>
+   <play hasball="LS" down="1" togo="10" spot="LS17" context="V,1,10,V17" playid="16,1,147" clock="02:03" text="LSU drive start at 02:03." newcontext="V,1,10,V17">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS17" context="V,1,10,V17" playid="16,2,148" type="P" text="Jo. Jefferson pass complete to Mitch Joseph for 4 yards to the LS21 (Richardson, Q.)." newcontext="V,2,6,V21">
+    <p_pa vh="V" qb="Jo. Jefferson" result="COMP" rcv="Mitch Joseph" gain="4"></p_pa>
+    <p_tk vh="H" name="Richardson, Q."></p_tk>
+   </play>
+   <play hasball="LS" down="2" togo="6" spot="LS21" context="V,2,6,V21" playid="16,3,149" type="R" text="Jo. Jefferson rush for 3 yards to the LS24 (Savannah, E.J.)." newcontext="V,3,3,V24">
+    <p_ru vh="V" name="Jo. Jefferson" gain="3"></p_ru>
+    <p_tk vh="H" name="Savannah, E.J."></p_tk>
+   </play>
+   <play hasball="LS" down="3" togo="3" spot="LS24" context="V,3,3,V24" playid="16,4,150" type="R" text="Jo. Jefferson rush for 2 yards to the LS26 (Savannah, E.J.)." newcontext="V,4,1,V26">
+    <p_ru vh="V" name="Jo. Jefferson" gain="2"></p_ru>
+    <p_tk vh="H" name="Savannah, E.J."></p_tk>
+   </play>
+   <play hasball="LS" down="4" togo="1" spot="LS26" context="V,4,1,V26" playid="16,5,151" type="U" text="Derek Helton punt 38 yards to the WASH36, fair catch by Bruns, Cody." newcontext="H,1,10,H36">
+    <p_pu vh="V" name="Derek Helton" gain="38" fc="Bruns, Cody"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="2:00" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,H36,02:03" vh="H" spot="H36" clock="02:03" driveindex="17,151"></drivestart>
+   <play hasball="WASH" down="1" togo="10" spot="WASH36" context="H,1,10,H36" playid="17,1,152" clock="00:03" text="WASHINGTON drive start at 00:03." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH36" context="H,1,10,H36" playid="17,2,153" type="P" text="Locker, Jake pass complete to Fogerson, Johri for 7 yards to the WASH43." newcontext="H,2,3,H43">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Fogerson, Johri" gain="7"></p_pa>
+   </play>
+   <score qtr="3" V="24" H="13"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="LS">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:19"></misc>
+    <rush att="9" yds="19" gain="27" loss="8" td="0" long="0"></rush>
+    <pass comp="5" att="6" int="0" yds="72" td="1" long="0" sacks="1" sackyds="8"></pass>
+    <rcv no="5" yds="72" td="1" long="0"></rcv>
+    <punt no="2" yds="61" long="2" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="30.5"></punt>
+    <ko no="1" yds="61" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="0" tot_tack="10" tflua="1" tfla="0" tflyds="4" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="5" td="0" long="0"></kr>
+    <pr no="1" yds="9" td="0" long="9"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WASH">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:41"></misc>
+    <rush att="6" yds="9" gain="13" loss="4" td="0" long="0"></rush>
+    <pass comp="4" att="7" int="0" yds="35" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="35" td="0" long="0"></rcv>
+    <punt no="2" yds="87" long="13" blkd="0" tb="0" fc="1" plus50="1" inside20="2" avg="43.5"></punt>
+    <ko no="1" yds="36" ob="0" tb="0"></ko>
+    <defense tackua="13" tacka="4" tot_tack="17" tflua="1" tfla="0" tflyds="8" sacks="1" sackyds="8"></defense>
+    <kr no="1" yds="13" td="0" long="0"></kr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="WASH" down="2" togo="3" spot="WASH43" context="H,2,3,H43" playid="17,3,154" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,2,3,H43">
+   </play>
+   <play hasball="WASH" down="2" togo="3" spot="WASH43" context="H,2,3,H43" playid="17,4,155" type="R" first="R" text="Polk, Chris rush for 5 yards to the WASH48, 1ST DOWN WASH (Harry Coleman)." newcontext="H,1,10,H48">
+    <p_ru vh="H" name="Polk, Chris" gain="5"></p_ru>
+    <p_tk vh="V" name="Harry Coleman"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH48" context="H,1,10,H48" playid="17,5,156" type="R" text="Polk, Chris rush for 3 yards to the LS49 (Brandon Taylor)." newcontext="H,2,7,V49">
+    <p_ru vh="H" name="Polk, Chris" gain="3"></p_ru>
+    <p_tk vh="V" name="Brandon Taylor"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="7" spot="LS49" context="H,2,7,V49" playid="17,6,157" type="R" text="Locker, Jake rush for 3 yards to the LS46 (Kelvin Sheppard)." newcontext="H,3,4,V46">
+    <p_ru vh="H" name="Locker, Jake" gain="3"></p_ru>
+    <p_tk vh="V" name="Kelvin Sheppard"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="4" spot="LS46" context="H,3,4,V46" playid="17,7,158" type="R" first="R" text="Locker, Jake rush for 5 yards to the LS41, 1ST DOWN WASH, out-of-bounds (Pa. Peterson)." ob="Y" newcontext="H,1,10,V41">
+    <p_ru vh="H" name="Locker, Jake" gain="5"></p_ru>
+    <p_tk vh="V" name="Pa. Peterson"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS41" context="H,1,10,V41" playid="17,8,159" type="R" text="Polk, Chris rush for loss of 3 yards to the LS44 (Josh Downs)." newcontext="H,2,13,V44">
+    <p_ru vh="H" name="Polk, Chris" gain="-3"></p_ru>
+    <p_tk vh="V" name="Josh Downs" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="13" spot="LS44" context="H,2,13,V44" playid="17,9,160" type="E" first="E" text="PENALTY LS pass interference (Brandon Taylor) 15 yards to the LS29, 1ST DOWN WASH." newcontext="H,1,10,V29">
+    <p_pn vh="V" code="PI" type="pass interference" name="Brandon Taylor" result="ACCEPT" at="V44" yards="15"></p_pn>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS29" context="H,1,10,V29" playid="17,10,161" type="P" text="Locker, Jake pass incomplete to Aguilar, Devin." newcontext="H,2,10,V29">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Aguilar, Devin"></p_pa>
+   </play>
+   <play hasball="WASH" down="2" togo="10" spot="LS29" context="H,2,10,V29" playid="17,11,162" type="P" text="Locker, Jake pass complete to Aguilar, Devin for 5 yards to the LS24 (Jacob Cutrera)." newcontext="H,3,5,V24">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Aguilar, Devin" gain="5"></p_pa>
+    <p_tk vh="V" name="Jacob Cutrera"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="5" spot="LS24" context="H,3,5,V24" playid="17,12,163" type="P" text="Locker, Jake pass incomplete to Polk, Jordan." newcontext="H,4,5,V24">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Polk, Jordan"></p_pa>
+   </play>
+   <play hasball="WASH" down="4" togo="5" spot="LS24" context="H,4,5,V24" playid="17,13,164" type="F" clock="10:50" text="Folk, Erik field goal attempt from 42 MISSED - wide left, spot at LS24, clock 10:50." newcontext="V,1,10,V24">
+    <p_fg vh="H" name="Folk, Erik" distance="42" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="10" yards="40" top="4:13" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V24,10:50" vh="V" spot="V24" clock="10:50" driveindex="18,164"></drivestart>
+   <play hasball="LS" down="1" togo="10" spot="LS24" context="V,1,10,V24" playid="18,1,165" clock="10:50" text="LSU drive start at 10:50." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS24" context="V,1,10,V24" playid="18,2,166" type="P" text="Jo. Jefferson pass incomplete to Chris Mitchell (Aiyewa, Victor)." newcontext="V,2,10,V24">
+    <p_pa vh="V" qb="Jo. Jefferson" result="INC" rcv="Chris Mitchell"></p_pa>
+    <p_bu vh="H" name="Aiyewa, Victor"></p_bu>
+   </play>
+   <play hasball="LS" down="2" togo="10" spot="LS24" context="V,2,10,V24" playid="18,3,167" type="R" text="Richard Murphy rush for 3 yards to the LS27 (Butler, Donald)." newcontext="V,3,7,V27">
+    <p_ru vh="V" name="Richard Murphy" gain="3"></p_ru>
+    <p_tk vh="H" name="Butler, Donald"></p_tk>
+   </play>
+   <play hasball="LS" down="3" togo="7" spot="LS27" context="V,3,7,V27" playid="18,4,168" type="P" text="Jo. Jefferson pass incomplete." newcontext="V,4,7,V27">
+    <p_pa vh="V" qb="Jo. Jefferson" result="INC"></p_pa>
+   </play>
+   <play hasball="LS" down="4" togo="7" spot="LS27" context="V,4,7,V27" playid="18,5,169" type="U" text="Derek Helton punt 31 yards to the WASH42, fair catch by Fogerson, Johri." newcontext="H,1,10,H42">
+    <p_pu vh="V" name="Derek Helton" gain="31" fc="Fogerson, Johri"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="1:06" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,H42,10:50" vh="H" spot="H42" clock="10:50" driveindex="19,169"></drivestart>
+   <play hasball="WASH" down="1" togo="10" spot="WASH42" context="H,1,10,H42" playid="19,1,170" clock="09:44" text="WASHINGTON drive start at 09:44." newcontext="H,1,10,H42">
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH42" context="H,1,10,H42" playid="19,2,171" type="P" text="Locker, Jake pass incomplete to Polk, Chris (Drake Nevis)." newcontext="H,2,10,H42">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Polk, Chris"></p_pa>
+    <p_bu vh="V" name="Drake Nevis"></p_bu>
+   </play>
+   <play hasball="WASH" down="2" togo="10" spot="WASH42" context="H,2,10,H42" playid="19,3,172" type="R" text="Polk, Chris rush for loss of 1 yard to the WASH41 (Ch. Alexander)." newcontext="H,3,11,H41">
+    <p_ru vh="H" name="Polk, Chris" gain="-1"></p_ru>
+    <p_tk vh="V" name="Ch. Alexander" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="11" spot="WASH41" context="H,3,11,H41" playid="19,4,173" type="P" text="Locker, Jake pass complete to Goodwin, D. for 10 yards to the LS49 (Jacob Cutrera)." newcontext="H,4,1,V49">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Goodwin, D." gain="10"></p_pa>
+    <p_tk vh="V" name="Jacob Cutrera"></p_tk>
+   </play>
+   <play hasball="WASH" down="4" togo="1" spot="LS49" context="H,4,1,V49" playid="19,5,174" type="R" first="R" text="Locker, Jake rush for 5 yards to the LS44, 1ST DOWN WASH, out-of-bounds (Chad Jones)." ob="Y" newcontext="H,1,10,V44">
+    <p_ru vh="H" name="Locker, Jake" gain="5"></p_ru>
+    <p_tk vh="V" name="Chad Jones"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS44" context="H,1,10,V44" playid="19,6,175" type="R" text="Polk, Chris rush for 4 yards to the LS40 (Perry Riley)." newcontext="H,2,6,V40">
+    <p_ru vh="H" name="Polk, Chris" gain="4"></p_ru>
+    <p_tk vh="V" name="Perry Riley"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="6" spot="LS40" context="H,2,6,V40" playid="19,7,176" type="P" text="Locker, Jake pass incomplete to Polk, Jordan (Pa. Peterson)." newcontext="H,3,6,V40">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Polk, Jordan"></p_pa>
+    <p_bu vh="V" name="Pa. Peterson"></p_bu>
+   </play>
+   <play hasball="WASH" down="3" togo="6" spot="LS40" context="H,3,6,V40" playid="19,8,177" type="R" first="R" text="Locker, Jake rush for 24 yards to the LS16, 1ST DOWN WASH, out-of-bounds (Chad Jones)." ob="Y" newcontext="H,1,10,V16">
+    <p_ru vh="H" name="Locker, Jake" gain="24"></p_ru>
+    <p_tk vh="V" name="Chad Jones"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS16" context="H,1,10,V16" playid="19,9,178" type="P" text="Locker, Jake pass complete to Homer, Paul for 2 yards to the LS14, out-of-bounds (Pa. Peterson)." ob="Y" newcontext="H,2,8,V14">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Homer, Paul" gain="2"></p_pa>
+    <p_tk vh="V" name="Pa. Peterson"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="8" spot="LS14" context="H,2,8,V14" playid="19,10,179" type="P" text="Locker, Jake pass incomplete to Fogerson, Johri." newcontext="H,3,8,V14">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Fogerson, Johri"></p_pa>
+   </play>
+   <play hasball="WASH" down="3" togo="8" spot="LS14" context="H,3,8,V14" playid="19,11,180" type="P" text="Locker, Jake pass incomplete to Goodwin, D.." newcontext="H,4,8,V14">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Goodwin, D."></p_pa>
+   </play>
+   <play hasball="WASH" down="4" togo="8" spot="LS14" context="H,4,8,V14" playid="19,12,181" type="F" score="Y" clock="05:24" text="Folk, Erik field goal attempt from 32 GOOD, clock 05:24." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Folk, Erik" distance="32" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="24" H="16"></score>
+   <drivesum plays="11" yards="44" top="4:20" driveindex="19" complete="Y"></drivesum>
+   <play hasball="WASH" down="1" togo="0" spot="WASH30" context="H,1,0,H30" playid="19,13,182" type="K" text="Folk, Erik kickoff 42 yards to the LS28, Tr. Holliday return 5 yards to the LS33 (Aiyewa, Victor)." newcontext="V,1,10,V33">
+    <p_ko vh="H" name="Folk, Erik" gain="42"></p_ko>
+    <p_kr vh="V" name="Tr. Holliday" gain="5"></p_kr>
+    <p_tk vh="H" name="Aiyewa, Victor"></p_tk>
+   </play>
+   <drivestart poss="V,V33,05:24" vh="V" spot="V33" clock="05:24" driveindex="20,182"></drivestart>
+   <play hasball="LS" down="1" togo="10" spot="LS33" context="V,1,10,V33" playid="20,1,183" clock="05:18" text="LSU drive start at 05:18." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS33" context="V,1,10,V33" playid="20,2,184" type="R" text="Ke. Williams rush for 9 yards to the LS42 (Butler, Donald)." newcontext="V,2,1,V42">
+    <p_ru vh="V" name="Ke. Williams" gain="9"></p_ru>
+    <p_tk vh="H" name="Butler, Donald"></p_tk>
+   </play>
+   <play hasball="LS" down="2" togo="1" spot="LS42" context="V,2,1,V42" playid="20,3,185" type="P" first="P" text="Jo. Jefferson pass complete to Brandon LaFell for 4 yards to the LS46, 1ST DOWN LS, out-of-bounds (Richardson, Q.)." ob="Y" newcontext="V,1,10,V46">
+    <p_pa vh="V" qb="Jo. Jefferson" result="COMP" rcv="Brandon LaFell" gain="4"></p_pa>
+    <p_tk vh="H" name="Richardson, Q."></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="LS46" context="V,1,10,V46" playid="20,4,186" type="R" text="Ke. Williams rush for 7 yards to the WASH47 (Aiyewa, Victor)." newcontext="V,2,3,H47">
+    <p_ru vh="V" name="Ke. Williams" gain="7"></p_ru>
+    <p_tk vh="H" name="Aiyewa, Victor"></p_tk>
+   </play>
+   <play hasball="LS" down="2" togo="3" spot="WASH47" context="V,2,3,H47" playid="20,5,187" type="P" first="P" text="Jo. Jefferson pass complete to T. Toliver for 25 yards to the WASH22, 1ST DOWN LS, out-of-bounds (Foster, Mason)." ob="Y" newcontext="V,1,10,H22">
+    <p_pa vh="V" qb="Jo. Jefferson" result="COMP" rcv="T. Toliver" gain="25"></p_pa>
+    <p_tk vh="H" name="Foster, Mason"></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="10" spot="WASH22" context="V,1,10,H22" playid="20,6,188" type="R" first="R" text="Ke. Williams rush for 16 yards to the WASH6, 1ST DOWN LS (McDowell, V.;Aiyewa, Victor)." newcontext="V,1,0,H06">
+    <p_ru vh="V" name="Ke. Williams" gain="16"></p_ru>
+    <p_tk vh="H" name="McDowell, V." assist="Y"></p_tk>
+    <p_tk vh="H" name="Aiyewa, Victor" assist="Y"></p_tk>
+   </play>
+   <play hasball="LS" down="1" togo="0" spot="WASH06" context="V,1,0,H06" playid="20,7,189" type="P" score="Y" clock="01:54" text="Jo. Jefferson pass complete to Brandon LaFell for 6 yards to the WASH0, TOUCHDOWN, clock 01:54." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Jo. Jefferson" result="COMP" rcv="Brandon LaFell" gain="6"></p_pa>
+   </play>
+   <play hasball="LS" down="1" togo="0" spot="WASH03" context="V,1,0,H03" playid="20,8,190" type="X" score="Y" text="Josh Jasper kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Josh Jasper" qb="Josh Jasper" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="31" H="16"></score>
+   <drivesum plays="6" yards="67" top="3:24" driveindex="20" complete="Y"></drivesum>
+   <play hasball="LS" down="1" togo="0" spot="LS30" context="V,1,0,V30" playid="20,9,191" type="K" text="Josh Jasper kickoff 69 yards to the WASH1, Richardson, Q. return 18 yards to the WASH19 (Richard Murphy)." newcontext="H,1,10,H19">
+    <p_ko vh="V" name="Josh Jasper" gain="69"></p_ko>
+    <p_kr vh="H" name="Richardson, Q." gain="18"></p_kr>
+    <p_tk vh="V" name="Richard Murphy"></p_tk>
+   </play>
+   <drivestart poss="H,H19,01:54" vh="H" spot="H19" clock="01:54" driveindex="21,191"></drivestart>
+   <play hasball="WASH" down="1" togo="10" spot="WASH19" context="H,1,10,H19" playid="21,1,192" clock="01:48" text="WASHINGTON drive start at 01:48." newcontext="H,1,10,H19">
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH19" context="H,1,10,H19" playid="21,2,193" type="P" text="Locker, Jake pass incomplete to Johnson, James." newcontext="H,2,10,H19">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Johnson, James"></p_pa>
+   </play>
+   <play hasball="WASH" down="2" togo="10" spot="WASH19" context="H,2,10,H19" playid="21,3,194" type="P" first="P" text="Locker, Jake pass complete to Johnson, James for 13 yards to the WASH32, 1ST DOWN WASH (Chris Hawkins)." newcontext="H,1,10,H32">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Johnson, James" gain="13"></p_pa>
+    <p_tk vh="V" name="Chris Hawkins"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="WASH32" context="H,1,10,H32" playid="21,4,195" type="P" text="Locker, Jake sacked for loss of 10 yards to the WASH22 (Drake Nevis), PENALTY WASH intentional grounding (Locker, Jake) 0 yards to the WASH22." newcontext="H,1,20,H22">
+    <p_pa vh="H" qb="Locker, Jake" result="SACK" gain="-10"></p_pa>
+    <p_tk vh="V" name="Drake Nevis" sack="Y" tfl="Y"></p_tk>
+    <p_pn vh="H" code="IG" type="intentional grounding" name="Locker, Jake" result="ACCEPT"></p_pn>
+   </play>
+   <play hasball="WASH" down="1" togo="20" spot="WASH22" context="H,1,20,H22" playid="21,5,196" text="2nd and 20." newcontext="H,2,20,H22">
+   </play>
+   <play hasball="WASH" down="2" togo="20" spot="WASH22" context="H,2,20,H22" playid="21,6,197" type="P" text="Locker, Jake pass complete to Middleton, K. for 8 yards to the WASH30, fumble forced by Perry Riley, fumble by Middleton, K. recovered by WASH TEAM at WASH30, out-of-bounds." ob="Y" newcontext="H,3,12,H30">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Middleton, K." gain="8"></p_pa>
+    <p_fumb vh="H" name="Middleton, K." at="H30" frvh="H" frname="TEAM"></p_fumb>
+    <p_tk vh="V" name="Perry Riley" ff="Y"></p_tk>
+   </play>
+   <play hasball="WASH" down="3" togo="12" spot="WASH30" context="H,3,12,H30" playid="21,7,198" type="P" first="E" text="Locker, Jake pass complete to Middleton, K. for 10 yards to the WASH40 (Kelvin Sheppard;Harry Coleman), PENALTY LS roughing passer 15 yards to the LS45, 1ST DOWN WASH." newcontext="H,1,10,V45">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Middleton, K." gain="10"></p_pa>
+    <p_tk vh="V" name="Kelvin Sheppard" assist="Y"></p_tk>
+    <p_tk vh="V" name="Harry Coleman" assist="Y"></p_tk>
+    <p_pn vh="V" code="RP" type="roughing passer" result="ACCEPT" at="H40" yards="15"></p_pn>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS45" context="H,1,10,V45" playid="21,8,199" text="1st and 10." newcontext="H,1,10,V45">
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS45" context="H,1,10,V45" playid="21,9,200" type="E" text="Locker, Jake pass incomplete to Kearse, J., PENALTY WASH holding 10 yards to the WASH45, NO PLAY." newcontext="H,1,20,H45">
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="V45" yards="10"></p_pn>
+   </play>
+   <play hasball="WASH" down="1" togo="20" spot="WASH45" context="H,1,20,H45" playid="21,10,201" type="P" text="Locker, Jake pass complete to Johnson, James for 12 yards to the LS43 (Pa. Peterson)." newcontext="H,2,8,V43">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Johnson, James" gain="12"></p_pa>
+    <p_tk vh="V" name="Pa. Peterson"></p_tk>
+   </play>
+   <play hasball="WASH" down="2" togo="8" spot="LS43" context="H,2,8,V43" playid="21,11,202" type="#" clock="00:30" text="Timeout Washington, clock 00:30." newcontext="H,2,8,V43">
+    <p_to vh="H" team="Washington"></p_to>
+   </play>
+   <play hasball="WASH" down="2" togo="8" spot="LS43" context="H,2,8,V43" playid="21,12,203" type="P" first="P" text="Locker, Jake pass complete to Polk, Chris for 17 yards to the LS26, 1ST DOWN WASH (Harry Coleman)." newcontext="H,1,10,V26">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Polk, Chris" gain="17"></p_pa>
+    <p_tk vh="V" name="Harry Coleman"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="10" spot="LS26" context="H,1,10,V26" playid="21,13,204" type="P" first="P" text="Locker, Jake pass complete to Polk, Chris for 17 yards to the LS9, 1ST DOWN WASH, out-of-bounds (Chris Hawkins)." ob="Y" newcontext="H,1,0,V09">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Polk, Chris" gain="17"></p_pa>
+    <p_tk vh="V" name="Chris Hawkins"></p_tk>
+   </play>
+   <play hasball="WASH" down="1" togo="0" spot="LS09" context="H,1,0,V09" playid="21,14,205" type="P" text="Locker, Jake pass incomplete to Johnson, James (Chris Hawkins)." newcontext="H,2,0,V09">
+    <p_pa vh="H" qb="Locker, Jake" result="INC" rcv="Johnson, James"></p_pa>
+    <p_bu vh="V" name="Chris Hawkins"></p_bu>
+   </play>
+   <play hasball="WASH" down="2" togo="0" spot="LS09" context="H,2,0,V09" playid="21,15,206" type="P" score="Y" clock="00:00" text="Locker, Jake pass complete to Middleton, K. for 9 yards to the LS0, TOUCHDOWN, clock 00:00." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Locker, Jake" result="COMP" rcv="Middleton, K." gain="9"></p_pa>
+   </play>
+   <play hasball="WASH" down="1" togo="0" spot="LS03" context="H,1,0,V03" playid="21,16,207" type="X" score="Y" text="Folk, Erik kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Folk, Erik" qb="Folk, Erik" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="31" H="23"></score>
+   <play hasball="WASH" down="1" togo="0" spot="WASH30" context="H,1,0,H30" playid="21,17,208" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,1,0,H30">
+   </play>
+   <drivesum plays="10" yards="81" top="1:48" driveindex="21" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Louisiana State defeats Washington by a score of 31 to 23."></play>
+   <score final="Y" V="31" H="23"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="LS">
+    <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="30"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:36"></misc>
+    <rush att="4" yds="35" gain="35" loss="0" td="0" long="0"></rush>
+    <pass comp="3" att="5" int="0" yds="35" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="35" td="1" long="0"></rcv>
+    <punt no="1" yds="31" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="31.0"></punt>
+    <ko no="1" yds="69" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="19" tacka="2" tot_tack="21" tflua="3" tfla="0" tflyds="14" sacks="1" sackyds="10" brup="3" ff="1"></defense>
+    <kr no="1" yds="5" td="0" long="0"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WASH">
+    <firstdowns no="9" rush="4" pass="3" penalty="2"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="2" thirdatt="6" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="10:24"></misc>
+    <rush att="10" yds="35" gain="49" loss="14" td="0" long="0"></rush>
+    <pass comp="10" att="18" int="0" yds="103" td="1" long="0" sacks="1" sackyds="10"></pass>
+    <rcv no="10" yds="103" td="1" long="0"></rcv>
+    <ko no="1" yds="42" ob="0" tb="0"></ko>
+    <fg made="1" att="2" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="6" tacka="2" tot_tack="8" sacks="1" sackyds="8" brup="1"></defense>
+    <kr no="1" yds="18" td="0" long="0"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="WASH" down="1" togo="0" spot="WASH30" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="2" htor="2" dtgtext="Game Over" ldtext="Drive started: 01:48, 4th Qtr"></downtogo>
+ </plays>

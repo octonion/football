@@ -1,0 +1,1001 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="PC" down="1" togo="10" spot="PC30" context="V,1,10,V30" playid="0,1,0" text="PC wins coin toss and defers.  Furman elects to receive." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC30" context="V,1,10,V30" playid="0,2,1" text="PC ball on PC30." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC30" context="V,1,10,V30" playid="0,3,2" type="K" text="A. Mayes kickoff 62 yards to the FUR8, Adam Mims return 24 yards to the FUR32 (M. Ruff)." newcontext="H,1,10,H32">
+    <p_ko vh="V" name="A. Mayes" gain="62"></p_ko>
+    <p_kr vh="H" name="Adam Mims" gain="24"></p_kr>
+    <p_tk vh="V" name="M. Ruff"></p_tk>
+   </play>
+   <drivestart poss="H,H32,15:00" vh="H" spot="H32" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="FUR" down="1" togo="10" spot="FUR32" context="H,1,10,H32" playid="1,1,3" type="P" first="P" text="Jordan Sorrells pass complete to Adam Mims for 18 yards to the 50 yardline, 1ST DOWN FUR (B. Wilson)." newcontext="H,1,10,H50">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Adam Mims" gain="18"></p_pa>
+    <p_tk vh="V" name="B. Wilson"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR50" context="H,1,10,H50" playid="1,2,4" type="R" text="Tersoo Uhaa rush for 4 yards to the PC46 (S. Thomas)." newcontext="H,2,6,V46">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="4"></p_ru>
+    <p_tk vh="V" name="S. Thomas"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="6" spot="PC46" context="H,2,6,V46" playid="1,3,5" type="P" first="P" text="Jordan Sorrells pass complete to Adam Mims for 15 yards to the PC31, 1ST DOWN FUR (T. Funderburk)." newcontext="H,1,10,V31">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Adam Mims" gain="15"></p_pa>
+    <p_tk vh="V" name="T. Funderburk"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC31" context="H,1,10,V31" playid="1,4,6" type="#" clock="13:31" text="Timeout Furman, clock 13:31." newcontext="H,1,10,V31">
+    <p_to vh="H" team="Furman"></p_to>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC31" context="H,1,10,V31" playid="1,5,7" type="E" first="E" text="PENALTY PC face mask (D. Evans) 15 yards to the PC16, 1ST DOWN FUR." newcontext="H,1,10,V16">
+    <p_pn vh="V" code="FM" type="face mask" name="D. Evans" result="ACCEPT" at="V31" yards="15"></p_pn>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC16" context="H,1,10,V16" playid="1,6,8" type="R" text="Tersoo Uhaa rush for 9 yards to the PC7 (D. Lawrence;B. Tribble)." newcontext="H,2,1,V07">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="9"></p_ru>
+    <p_tk vh="V" name="D. Lawrence" assist="Y"></p_tk>
+    <p_tk vh="V" name="B. Tribble" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="1" spot="PC07" context="H,2,1,V07" playid="1,7,9" type="R" first="R" text="Tersoo Uhaa rush for 6 yards to the PC1, 1ST DOWN FUR (B. Tribble)." newcontext="H,1,0,V01">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="6"></p_ru>
+    <p_tk vh="V" name="B. Tribble"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="0" spot="PC01" context="H,1,0,V01" playid="1,8,10" type="R" score="Y" clock="12:24" text="Tersoo Uhaa rush for 1 yard to the PC0, TOUCHDOWN, clock 12:24." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="1"></p_ru>
+   </play>
+   <play hasball="FUR" down="1" togo="0" spot="PC03" context="H,1,0,V03" playid="1,9,11" type="X" score="Y" text="Matthew Cesari kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Matthew Cesari" qb="Matthew Cesari" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="6" yards="68" top="2:36" driveindex="1" complete="Y"></drivesum>
+   <play hasball="FUR" down="1" togo="0" spot="FUR30" context="H,1,0,H30" playid="1,10,12" type="K" text="Chas Short kickoff 65 yards to the PC5, T. Robbins return 16 yards to the PC21 (Nathan Wade)." newcontext="V,1,10,V21">
+    <p_ko vh="H" name="Chas Short" gain="65"></p_ko>
+    <p_kr vh="V" name="T. Robbins" gain="16"></p_kr>
+    <p_tk vh="H" name="Nathan Wade"></p_tk>
+   </play>
+   <drivestart poss="V,V21,12:24" vh="V" spot="V21" clock="12:24" driveindex="2,12"></drivestart>
+   <play hasball="PC" down="1" togo="10" spot="PC21" context="V,1,10,V21" playid="2,1,13" clock="12:20" text="PRESBYTERIAN drive start at 12:20." newcontext="V,1,10,V21">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC21" context="V,1,10,V21" playid="2,2,14" type="P" text="B. Miley pass incomplete to P. Mckoy (K. Anderson)." newcontext="V,2,10,V21">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="P. Mckoy"></p_pa>
+    <p_bu vh="H" name="K. Anderson"></p_bu>
+   </play>
+   <play hasball="PC" down="2" togo="10" spot="PC21" context="V,2,10,V21" playid="2,3,15" type="R" text="T. Dendy rush for 3 yards to the PC24 (K. Anderson;Chris Wiley)." newcontext="V,3,7,V24">
+    <p_ru vh="V" name="T. Dendy" gain="3"></p_ru>
+    <p_tk vh="H" name="K. Anderson" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chris Wiley" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="3" togo="7" spot="PC24" context="V,3,7,V24" playid="2,4,16" type="P" first="P" text="B. Miley pass complete to P. Mckoy for 8 yards to the PC32, 1ST DOWN PC (K. Anderson;Nathan Wade)." newcontext="V,1,10,V32">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="P. Mckoy" gain="8"></p_pa>
+    <p_tk vh="H" name="K. Anderson" assist="Y"></p_tk>
+    <p_tk vh="H" name="Nathan Wade" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC32" context="V,1,10,V32" playid="2,5,17" type="P" text="B. Miley pass complete to P. Mckoy for 5 yards to the PC37 (Chris Wiley;Jordan Griffin)." newcontext="V,2,5,V37">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="P. Mckoy" gain="5"></p_pa>
+    <p_tk vh="H" name="Chris Wiley" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Griffin" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="5" spot="PC37" context="V,2,5,V37" playid="2,6,18" type="R" text="T. Dendy rush for loss of 2 yards to the PC35 (Max Lerner;Jordan Griffin)." newcontext="V,3,7,V35">
+    <p_ru vh="V" name="T. Dendy" gain="-2"></p_ru>
+    <p_tk vh="H" name="Max Lerner" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Griffin" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="3" togo="7" spot="PC35" context="V,3,7,V35" playid="2,7,19" type="P" turnover="F" text="B. Miley sacked for loss of 8 yards to the PC27 (Chris Wiley), fumble by B. Miley recovered by FUR K. Anderson at PC27." newcontext="H,1,10,V27">
+    <p_pa vh="V" qb="B. Miley" result="FUMB" gain="-8"></p_pa>
+    <p_fumb vh="V" name="B. Miley" at="V27" frvh="H" frname="K. Anderson"></p_fumb>
+    <p_tk vh="H" name="Chris Wiley" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <drivesum plays="6" yards="6" top="2:41" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,V27,12:20" vh="H" spot="V27" clock="12:20" driveindex="3,19"></drivestart>
+   <play hasball="FUR" down="1" togo="10" spot="PC27" context="H,1,10,V27" playid="3,1,20" clock="09:39" text="FURMAN drive start at 09:39." newcontext="H,1,10,V27">
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC27" context="H,1,10,V27" playid="3,2,21" type="P" text="Jordan Sorrells pass incomplete to R.J. Webb (J. Bethel)." newcontext="H,2,10,V27">
+    <p_pa vh="H" qb="Jordan Sorrells" result="INC" rcv="R.J. Webb"></p_pa>
+    <p_bu vh="V" name="J. Bethel"></p_bu>
+   </play>
+   <play hasball="FUR" down="2" togo="10" spot="PC27" context="H,2,10,V27" playid="3,3,22" type="P" text="Jordan Sorrells pass complete to Adam Mims for 8 yards to the PC19 (B. Tribble;B. Wilson)." newcontext="H,3,2,V19">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Adam Mims" gain="8"></p_pa>
+    <p_tk vh="V" name="B. Tribble" assist="Y"></p_tk>
+    <p_tk vh="V" name="B. Wilson" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="3" togo="2" spot="PC19" context="H,3,2,V19" playid="3,4,23" type="R" text="Tersoo Uhaa rush for loss of 1 yard to the PC20 (D. Brown)." newcontext="H,4,3,V20">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="-1"></p_ru>
+    <p_tk vh="V" name="D. Brown" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="4" togo="3" spot="PC20" context="H,4,3,V20" playid="3,5,24" type="F" score="Y" clock="08:10" text="Matthew Cesari field goal attempt from 37 GOOD, clock 08:10." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Matthew Cesari" distance="37" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="10"></score>
+   <drivesum plays="4" yards="7" top="1:29" driveindex="3" complete="Y"></drivesum>
+   <play hasball="FUR" down="1" togo="0" spot="FUR30" context="H,1,0,H30" playid="3,6,25" type="K" text="Chas Short kickoff 66 yards to the PC4, T. Robbins return 17 yards to the PC21 (S. Johnson;Matthew Gordon)." newcontext="V,1,10,V21">
+    <p_ko vh="H" name="Chas Short" gain="66"></p_ko>
+    <p_kr vh="V" name="T. Robbins" gain="17"></p_kr>
+    <p_tk vh="H" name="S. Johnson" assist="Y"></p_tk>
+    <p_tk vh="H" name="Matthew Gordon" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V21,08:10" vh="V" spot="V21" clock="08:10" driveindex="4,25"></drivestart>
+   <play hasball="PC" down="1" togo="10" spot="PC21" context="V,1,10,V21" playid="4,1,26" clock="08:05" text="PRESBYTERIAN drive start at 08:05." newcontext="V,1,10,V21">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC21" context="V,1,10,V21" playid="4,2,27" type="R" text="T. Dendy rush for loss of 5 yards to the PC16 (Ryan Steed)." newcontext="V,2,15,V16">
+    <p_ru vh="V" name="T. Dendy" gain="-5"></p_ru>
+    <p_tk vh="H" name="Ryan Steed" tfl="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="15" spot="PC16" context="V,2,15,V16" playid="4,3,28" type="P" text="B. Miley pass incomplete to P. Mckoy." newcontext="V,3,15,V16">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="P. Mckoy"></p_pa>
+   </play>
+   <play hasball="PC" down="3" togo="15" spot="PC16" context="V,3,15,V16" playid="4,4,29" type="P" text="B. Miley pass incomplete to D. Frost (Ryan Steed)." newcontext="V,4,15,V16">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="D. Frost"></p_pa>
+    <p_bu vh="H" name="Ryan Steed"></p_bu>
+   </play>
+   <play hasball="PC" down="4" togo="15" spot="PC16" context="V,4,15,V16" playid="4,5,30" type="U" turnover="F" text="P. Morgano punt 43 yards to the FUR41, TEAM return 0 yards to the FUR41, fumble by TEAM recovered by PC C. Norman at FUR41." newcontext="V,1,10,H41">
+    <p_pu vh="V" name="P. Morgano" gain="43"></p_pu>
+    <p_pr vh="H" name="TEAM" gain="0"></p_pr>
+    <p_fumb vh="H" name="TEAM" at="H41" frvh="V" frname="C. Norman"></p_fumb>
+   </play>
+   <drivesum plays="3" yards="-5" top="1:04" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="V,H41,08:05" vh="V" spot="H41" clock="08:05" driveindex="6,30"></drivestart>
+   <play hasball="PC" down="1" togo="10" spot="FUR41" context="V,1,10,H41" playid="6,1,31" clock="07:01" text="PRESBYTERIAN drive start at 07:01." newcontext="V,1,10,H41">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR41" context="V,1,10,H41" playid="6,2,32" type="P" text="B. Miley pass complete to P. Mckoy for 5 yards to the FUR36, out-of-bounds (Max Lerner;Jordan Griffin)." ob="Y" newcontext="V,2,5,H36">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="P. Mckoy" gain="5"></p_pa>
+    <p_tk vh="H" name="Max Lerner" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jordan Griffin" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="5" spot="FUR36" context="V,2,5,H36" playid="6,3,33" type="R" text="T. Dendy rush for 2 yards to the FUR34 (Justin Brown;Chris Wiley)." newcontext="V,3,3,H34">
+    <p_ru vh="V" name="T. Dendy" gain="2"></p_ru>
+    <p_tk vh="H" name="Justin Brown" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chris Wiley" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="3" togo="3" spot="FUR34" context="V,3,3,H34" playid="6,4,34" type="R" first="R" text="T. Dendy rush for 4 yards to the FUR30, 1ST DOWN PC (Justin Brown;K. Anderson)." newcontext="V,1,10,H30">
+    <p_ru vh="V" name="T. Dendy" gain="4"></p_ru>
+    <p_tk vh="H" name="Justin Brown" assist="Y"></p_tk>
+    <p_tk vh="H" name="K. Anderson" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR30" context="V,1,10,H30" playid="6,5,35" type="P" text="B. Miley pass incomplete to P. Mckoy." newcontext="V,2,10,H30">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="P. Mckoy"></p_pa>
+   </play>
+   <play hasball="PC" down="2" togo="10" spot="FUR30" context="V,2,10,H30" playid="6,6,36" type="R" text="T. Dendy rush for 6 yards to the FUR24 (K. Anderson;S. Van Rensburg)." newcontext="V,3,4,H24">
+    <p_ru vh="V" name="T. Dendy" gain="6"></p_ru>
+    <p_tk vh="H" name="K. Anderson" assist="Y"></p_tk>
+    <p_tk vh="H" name="S. Van Rensburg" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="3" togo="4" spot="FUR24" context="V,3,4,H24" playid="6,7,37" type="P" text="B. Miley pass incomplete to R. Bumgarner (Nathan Wade)." newcontext="V,4,4,H24">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="R. Bumgarner"></p_pa>
+    <p_bu vh="H" name="Nathan Wade"></p_bu>
+   </play>
+   <play hasball="PC" down="4" togo="4" spot="FUR24" context="V,4,4,H24" playid="6,8,38" type="P" text="B. Miley pass incomplete to T. Robbins." newcontext="H,1,10,H24">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="T. Robbins"></p_pa>
+   </play>
+   <drivesum plays="7" yards="17" top="2:43" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H24,07:01" vh="H" spot="H24" clock="07:01" driveindex="7,38"></drivestart>
+   <play hasball="FUR" down="1" togo="10" spot="FUR24" context="H,1,10,H24" playid="7,1,39" clock="04:18" text="FURMAN drive start at 04:18." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR24" context="H,1,10,H24" playid="7,2,40" type="R" text="Tersoo Uhaa rush for 2 yards to the FUR26 (M. Freeman)." newcontext="H,2,8,H26">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="2"></p_ru>
+    <p_tk vh="V" name="M. Freeman"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="8" spot="FUR26" context="H,2,8,H26" playid="7,3,41" type="P" first="P" text="Jordan Sorrells pass complete to Adam Mims for 13 yards to the FUR39, 1ST DOWN FUR (B. Tribble;J. Wideman)." newcontext="H,1,10,H39">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Adam Mims" gain="13"></p_pa>
+    <p_tk vh="V" name="B. Tribble" assist="Y"></p_tk>
+    <p_tk vh="V" name="J. Wideman" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR39" context="H,1,10,H39" playid="7,4,42" type="P" text="Jordan Sorrells pass complete to S. Cunningham for 3 yards to the FUR42 (B. Wilson)." newcontext="H,2,7,H42">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="S. Cunningham" gain="3"></p_pa>
+    <p_tk vh="V" name="B. Wilson"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="7" spot="FUR42" context="H,2,7,H42" playid="7,5,43" type="P" text="Jordan Sorrells pass complete to David Hendrix for 6 yards to the FUR48 (J. Bethel)." newcontext="H,3,1,H48">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="David Hendrix" gain="6"></p_pa>
+    <p_tk vh="V" name="J. Bethel"></p_tk>
+   </play>
+   <play hasball="FUR" down="3" togo="1" spot="FUR48" context="H,3,1,H48" playid="7,6,44" type="R" first="R" text="Tersoo Uhaa rush for 2 yards to the 50 yardline, 1ST DOWN FUR (J. Wideman)." newcontext="H,1,10,H50">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="2"></p_ru>
+    <p_tk vh="V" name="J. Wideman"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR50" context="H,1,10,H50" playid="7,7,45" type="R" text="Tersoo Uhaa rush for 4 yards to the PC46 (D. Evans;Jr Thomason)." newcontext="H,2,6,V46">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="4"></p_ru>
+    <p_tk vh="V" name="D. Evans" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jr Thomason" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="6" spot="PC46" context="H,2,6,V46" playid="7,8,46" type="R" first="R" text="Jordan Sorrells rush for 8 yards to the PC38, 1ST DOWN FUR (T. Funderburk)." newcontext="H,1,10,V38">
+    <p_ru vh="H" name="Jordan Sorrells" gain="8"></p_ru>
+    <p_tk vh="V" name="T. Funderburk"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC38" context="H,1,10,V38" playid="7,9,47" type="R" text="Tersoo Uhaa rush for 1 yard to the PC37 (D. Evans;D. Brown)." newcontext="H,2,9,V37">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="1"></p_ru>
+    <p_tk vh="V" name="D. Evans" assist="Y"></p_tk>
+    <p_tk vh="V" name="D. Brown" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="9" spot="PC37" context="H,2,9,V37" playid="7,10,48" type="P" first="P" text="Jordan Sorrells pass complete to R.J. Webb for 12 yards to the PC25, 1ST DOWN FUR (B. Tribble)." newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="R.J. Webb" gain="12"></p_pa>
+    <p_tk vh="V" name="B. Tribble"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="PC">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="06:37"></misc>
+    <rush att="7" yds="0" gain="15" loss="15" td="0" long="6"></rush>
+    <pass comp="3" att="9" int="0" yds="18" td="0" long="8" sacks="1" sackyds="8"></pass>
+    <rcv no="3" yds="18" td="0" long="8"></rcv>
+    <punt no="1" yds="43" long="43" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="43.0"></punt>
+    <ko no="1" yds="62" ob="0" tb="0"></ko>
+    <defense tackua="12" tacka="10" tot_tack="22" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1" fr="1" fryds="0"></defense>
+    <kr no="2" yds="33" td="0" long="17"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="FUR">
+    <firstdowns no="8" rush="3" pass="4" penalty="1"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="08:23"></misc>
+    <rush att="10" yds="36" gain="37" loss="1" td="1" long="9"></rush>
+    <pass comp="7" att="8" int="0" yds="75" td="0" long="18" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="75" td="0" long="18"></rcv>
+    <ko no="2" yds="131" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="37" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="3" tacka="18" tot_tack="21" tflua="4" tfla="0" tflyds="17" sacks="1" sackyds="8" brup="3" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="24" td="0" long="24"></kr>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="FUR" down="1" togo="10" spot="PC25" context="H,1,10,V25" playid="7,11,49" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,1,10,V25">
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC25" context="H,1,10,V25" playid="7,12,50" type="E" text="PENALTY FUR holding (Ryan Lee) 10 yards to the PC35." newcontext="H,1,20,V35">
+    <p_pn vh="H" code="HO" type="holding" name="Ryan Lee" result="ACCEPT" at="V25" yards="10"></p_pn>
+   </play>
+   <play hasball="FUR" down="1" togo="20" spot="PC35" context="H,1,20,V35" playid="7,13,51" type="E" text="PENALTY FUR false start (Ryan Lee) 5 yards to the PC40." newcontext="H,1,25,V40">
+    <p_pn vh="H" code="FS" type="false start" name="Ryan Lee" result="ACCEPT" at="V35" yards="5"></p_pn>
+   </play>
+   <play hasball="FUR" down="1" togo="25" spot="PC40" context="H,1,25,V40" playid="7,14,52" type="P" text="Jordan Sorrells pass complete to Jerry Williams for 13 yards to the PC27 (J. Wideman;D. Evans)." newcontext="H,2,12,V27">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Jerry Williams" gain="13"></p_pa>
+    <p_tk vh="V" name="J. Wideman" assist="Y"></p_tk>
+    <p_tk vh="V" name="D. Evans" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="12" spot="PC27" context="H,2,12,V27" playid="7,15,53" type="E" first="E" text="PENALTY PC holding 10 yards to the PC17, 1ST DOWN FUR." newcontext="H,1,10,V17">
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="V27" yards="10"></p_pn>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC17" context="H,1,10,V17" playid="7,16,54" type="R" text="Tersoo Uhaa rush for 2 yards to the PC15 (J. Wideman)." newcontext="H,2,8,V15">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="2"></p_ru>
+    <p_tk vh="V" name="J. Wideman"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="8" spot="PC15" context="H,2,8,V15" playid="7,17,55" type="P" first="P" score="Y" clock="13:09" text="Jordan Sorrells pass complete to R.J. Webb for 15 yards to the PC0, 1ST DOWN FUR, TOUCHDOWN, clock 13:09." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="R.J. Webb" gain="15"></p_pa>
+   </play>
+   <play hasball="FUR" down="1" togo="0" spot="PC03" context="H,1,0,V03" playid="7,18,56" type="X" score="Y" text="Matthew Cesari kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Matthew Cesari" qb="Matthew Cesari" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="17"></score>
+   <drivesum plays="12" yards="76" top="6:09" driveindex="7" complete="Y"></drivesum>
+   <play hasball="FUR" down="1" togo="0" spot="FUR30" context="H,1,0,H30" playid="7,19,57" type="K" text="Chas Short kickoff 60 yards to the PC10, T. Robbins return 16 yards to the PC26 (Matt Solomon;Rick Furman)." newcontext="V,1,10,V26">
+    <p_ko vh="H" name="Chas Short" gain="60"></p_ko>
+    <p_kr vh="V" name="T. Robbins" gain="16"></p_kr>
+    <p_tk vh="H" name="Matt Solomon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Rick Furman" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V26,13:09" vh="V" spot="V26" clock="13:09" driveindex="8,57"></drivestart>
+   <play hasball="PC" down="1" togo="10" spot="PC26" context="V,1,10,V26" playid="8,1,58" clock="13:02" text="PRESBYTERIAN drive start at 13:02." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC26" context="V,1,10,V26" playid="8,2,59" type="R" text="L. Byrd rush for 4 yards to the PC30 (Max Lerner)." newcontext="V,2,6,V30">
+    <p_ru vh="V" name="L. Byrd" gain="4"></p_ru>
+    <p_tk vh="H" name="Max Lerner"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="6" spot="PC30" context="V,2,6,V30" playid="8,3,60" type="R" text="L. Byrd rush for 4 yards to the PC34 (Neal Rodgers;Julian Hicks)." newcontext="V,3,2,V34">
+    <p_ru vh="V" name="L. Byrd" gain="4"></p_ru>
+    <p_tk vh="H" name="Neal Rodgers" assist="Y"></p_tk>
+    <p_tk vh="H" name="Julian Hicks" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="3" togo="2" spot="PC34" context="V,3,2,V34" playid="8,4,61" type="P" first="P" text="B. Miley pass complete to B. Smith for 6 yards to the PC40, 1ST DOWN PC (Chris Wiley;Max Lerner)." newcontext="V,1,10,V40">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="B. Smith" gain="6"></p_pa>
+    <p_tk vh="H" name="Chris Wiley" assist="Y"></p_tk>
+    <p_tk vh="H" name="Max Lerner" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC40" context="V,1,10,V40" playid="8,5,62" type="P" text="B. Miley pass incomplete to S. Adegbola." newcontext="V,2,10,V40">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="S. Adegbola"></p_pa>
+   </play>
+   <play hasball="PC" down="2" togo="10" spot="PC40" context="V,2,10,V40" playid="8,6,63" type="P" text="B. Miley pass incomplete (Jordan Griffin)." newcontext="V,3,10,V40">
+    <p_pa vh="V" qb="B. Miley" result="INC"></p_pa>
+    <p_bu vh="H" name="Jordan Griffin"></p_bu>
+   </play>
+   <play hasball="PC" down="3" togo="10" spot="PC40" context="V,3,10,V40" playid="8,7,64" type="P" first="P" text="B. Miley pass complete to B. Smith for 10 yards to the 50 yardline, 1ST DOWN PC (Josh Lynn;S. Van Rensburg)." newcontext="V,1,10,V50">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="B. Smith" gain="10"></p_pa>
+    <p_tk vh="H" name="Josh Lynn" assist="Y"></p_tk>
+    <p_tk vh="H" name="S. Van Rensburg" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC50" context="V,1,10,V50" playid="8,8,65" type="R" text="B. Miley rush for 4 yards to the FUR46 (Josh Lynn)." newcontext="V,2,6,H46">
+    <p_ru vh="V" name="B. Miley" gain="4"></p_ru>
+    <p_tk vh="H" name="Josh Lynn"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="6" spot="FUR46" context="V,2,6,H46" playid="8,9,66" type="P" first="P" text="B. Miley pass complete to B. Smith for 8 yards to the FUR38, 1ST DOWN PC (Ryan Steed;Nathan Wade)." newcontext="V,1,10,H38">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="B. Smith" gain="8"></p_pa>
+    <p_tk vh="H" name="Ryan Steed" assist="Y"></p_tk>
+    <p_tk vh="H" name="Nathan Wade" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR38" context="V,1,10,H38" playid="8,10,67" type="R" first="R" text="T. Dendy rush for 16 yards to the FUR22, 1ST DOWN PC, out-of-bounds (Nathan Wade)." ob="Y" newcontext="V,1,10,H22">
+    <p_ru vh="V" name="T. Dendy" gain="16"></p_ru>
+    <p_tk vh="H" name="Nathan Wade"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR22" context="V,1,10,H22" playid="8,11,68" type="P" first="P" score="Y" clock="09:49" text="B. Miley pass complete to P. Mckoy for 22 yards to the FUR0, 1ST DOWN PC, TOUCHDOWN, clock 09:49." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="P. Mckoy" gain="22"></p_pa>
+   </play>
+   <play hasball="PC" down="1" togo="0" spot="FUR03" context="V,1,0,H03" playid="8,12,69" type="X" score="Y" text="C. Miller kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="C. Miller" qb="C. Miller" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="17"></score>
+   <drivesum plays="10" yards="74" top="3:13" driveindex="8" complete="Y"></drivesum>
+   <play hasball="PC" down="1" togo="0" spot="PC30" context="V,1,0,V30" playid="8,13,70" type="K" text="A. Mayes kickoff 43 yards to the FUR27, C. Coleman return 11 yards to the FUR38 (A. Terrell)." newcontext="H,1,10,H38">
+    <p_ko vh="V" name="A. Mayes" gain="43"></p_ko>
+    <p_kr vh="H" name="C. Coleman" gain="11"></p_kr>
+    <p_tk vh="V" name="A. Terrell"></p_tk>
+   </play>
+   <drivestart poss="H,H38,09:49" vh="H" spot="H38" clock="09:49" driveindex="9,70"></drivestart>
+   <play hasball="FUR" down="1" togo="10" spot="FUR38" context="H,1,10,H38" playid="9,1,71" clock="09:44" text="FURMAN drive start at 09:44." newcontext="H,1,10,H38">
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR38" context="H,1,10,H38" playid="9,2,72" type="P" text="Jordan Sorrells sacked for loss of 12 yards to the FUR26 (D. Evans)." newcontext="H,2,22,H26">
+    <p_pa vh="H" qb="Jordan Sorrells" result="SACK" gain="-12"></p_pa>
+    <p_tk vh="V" name="D. Evans" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="22" spot="FUR26" context="H,2,22,H26" playid="9,3,73" type="#" clock="09:02" text="Timeout Furman, clock 09:02." newcontext="H,2,22,H26">
+    <p_to vh="H" team="Furman"></p_to>
+   </play>
+   <play hasball="FUR" down="2" togo="22" spot="FUR26" context="H,2,22,H26" playid="9,4,74" type="P" text="Jordan Sorrells pass complete to Adam Mims for 12 yards to the FUR38 (J. Bethel)." newcontext="H,3,10,H38">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Adam Mims" gain="12"></p_pa>
+    <p_tk vh="V" name="J. Bethel"></p_tk>
+   </play>
+   <play hasball="FUR" down="3" togo="10" spot="FUR38" context="H,3,10,H38" playid="9,5,75" type="P" text="Jordan Sorrells pass incomplete to Adam Mims." newcontext="H,4,10,H38">
+    <p_pa vh="H" qb="Jordan Sorrells" result="INC" rcv="Adam Mims"></p_pa>
+   </play>
+   <play hasball="FUR" down="4" togo="10" spot="FUR38" context="H,4,10,H38" playid="9,6,76" type="U" text="Trent Hawk punt 40 yards to the PC22, B. Smith return 1 yards to the PC23 (Ryan Steed)." newcontext="V,1,10,V23">
+    <p_pu vh="H" name="Trent Hawk" gain="40"></p_pu>
+    <p_pr vh="V" name="B. Smith" gain="1"></p_pr>
+    <p_tk vh="H" name="Ryan Steed"></p_tk>
+   </play>
+   <drivesum plays="3" yards="0" top="1:40" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V23,09:02" vh="V" spot="V23" clock="09:02" driveindex="10,76"></drivestart>
+   <play hasball="PC" down="1" togo="10" spot="PC23" context="V,1,10,V23" playid="10,1,77" clock="08:04" text="PRESBYTERIAN drive start at 08:04." newcontext="V,1,10,V23">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC23" context="V,1,10,V23" playid="10,2,78" type="P" first="P" text="B. Miley pass complete to M. Quinn for 20 yards to the PC43, 1ST DOWN PC (Jordan Griffin)." newcontext="V,1,10,V43">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="M. Quinn" gain="20"></p_pa>
+    <p_tk vh="H" name="Jordan Griffin"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC43" context="V,1,10,V43" playid="10,3,79" type="R" text="T. Dendy rush for 6 yards to the PC49 (Chris Wiley;S. Van Rensburg)." newcontext="V,2,4,V49">
+    <p_ru vh="V" name="T. Dendy" gain="6"></p_ru>
+    <p_tk vh="H" name="Chris Wiley" assist="Y"></p_tk>
+    <p_tk vh="H" name="S. Van Rensburg" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="4" spot="PC49" context="V,2,4,V49" playid="10,4,80" type="R" first="R" text="T. Dendy rush for 7 yards to the FUR44, 1ST DOWN PC (Max Lerner)." newcontext="V,1,10,H44">
+    <p_ru vh="V" name="T. Dendy" gain="7"></p_ru>
+    <p_tk vh="H" name="Max Lerner"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR44" context="V,1,10,H44" playid="10,5,81" type="P" first="P" text="B. Miley pass complete to P. Mckoy for 15 yards to the FUR29, 1ST DOWN PC (Julian Hicks)." newcontext="V,1,10,H29">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="P. Mckoy" gain="15"></p_pa>
+    <p_tk vh="H" name="Julian Hicks"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR29" context="V,1,10,H29" playid="10,6,82" type="R" text="B. Miley rush for 2 yards to the FUR27 (Ryan Steed)." newcontext="V,2,8,H27">
+    <p_ru vh="V" name="B. Miley" gain="2"></p_ru>
+    <p_tk vh="H" name="Ryan Steed"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="8" spot="FUR27" context="V,2,8,H27" playid="10,7,83" type="P" text="B. Miley pass incomplete to P. Mckoy." newcontext="V,3,8,H27">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="P. Mckoy"></p_pa>
+   </play>
+   <play hasball="PC" down="3" togo="8" spot="FUR27" context="V,3,8,H27" playid="10,8,84" type="P" first="P" text="B. Miley pass complete to T. Dendy for 12 yards to the FUR15, 1ST DOWN PC (Jordan Griffin), PENALTY FUR roughing passer (S. Van Rensburg) 8 yards to the FUR7, 1ST DOWN PC." newcontext="V,1,0,H07">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="T. Dendy" gain="12"></p_pa>
+    <p_tk vh="H" name="Jordan Griffin"></p_tk>
+    <p_pn vh="H" code="RP" type="roughing passer" name="S. Van Rensburg" result="ACCEPT" at="H15" yards="8"></p_pn>
+   </play>
+   <play hasball="PC" down="1" togo="0" spot="FUR07" context="V,1,0,H07" playid="10,9,85" text="1st and 7." newcontext="V,1,0,H07">
+   </play>
+   <play hasball="PC" down="1" togo="0" spot="FUR07" context="V,1,0,H07" playid="10,10,86" type="P" text="B. Miley pass incomplete to S. Adegbola (Jordan Griffin)." newcontext="V,2,0,H07">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="S. Adegbola"></p_pa>
+    <p_bu vh="H" name="Jordan Griffin"></p_bu>
+   </play>
+   <play hasball="PC" down="2" togo="0" spot="FUR07" context="V,2,0,H07" playid="10,11,87" type="R" text="T. Dendy rush for 6 yards to the FUR1 (K. Anderson)." newcontext="V,3,0,H01">
+    <p_ru vh="V" name="T. Dendy" gain="6"></p_ru>
+    <p_tk vh="H" name="K. Anderson"></p_tk>
+   </play>
+   <play hasball="PC" down="3" togo="0" spot="FUR01" context="V,3,0,H01" playid="10,12,88" type="R" text="T. Dendy rush for no gain to the FUR1 (Chris Wiley)." newcontext="V,4,0,H01">
+    <p_ru vh="V" name="T. Dendy" gain="0"></p_ru>
+    <p_tk vh="H" name="Chris Wiley"></p_tk>
+   </play>
+   <play hasball="PC" down="4" togo="0" spot="FUR01" context="V,4,0,H01" playid="10,13,89" type="R" text="B. Miley rush for no gain to the FUR1 (Max Lerner)." newcontext="H,1,10,H01">
+    <p_ru vh="V" name="B. Miley" gain="0"></p_ru>
+    <p_tk vh="H" name="Max Lerner"></p_tk>
+   </play>
+   <drivesum plays="11" yards="76" top="3:22" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H01,08:04" vh="H" spot="H01" clock="08:04" driveindex="11,89"></drivestart>
+   <play hasball="FUR" down="1" togo="10" spot="FUR01" context="H,1,10,H01" playid="11,1,90" clock="04:42" text="FURMAN drive start at 04:42." newcontext="H,1,10,H01">
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR01" context="H,1,10,H01" playid="11,2,91" type="R" text="Tersoo Uhaa rush for 2 yards to the FUR3 (C. Hackney)." newcontext="H,2,8,H03">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="2"></p_ru>
+    <p_tk vh="V" name="C. Hackney"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="8" spot="FUR03" context="H,2,8,H03" playid="11,3,92" type="R" text="Tersoo Uhaa rush for 6 yards to the FUR9 (C. Hackney;T. Funderburk)." newcontext="H,3,2,H09">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="6"></p_ru>
+    <p_tk vh="V" name="C. Hackney" assist="Y"></p_tk>
+    <p_tk vh="V" name="T. Funderburk" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="3" togo="2" spot="FUR09" context="H,3,2,H09" playid="11,4,93" type="P" first="P" text="Jordan Sorrells pass complete to Adam Mims for 11 yards to the FUR20, 1ST DOWN FUR (D. Lawrence;J. Wideman)." newcontext="H,1,10,H20">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Adam Mims" gain="11"></p_pa>
+    <p_tk vh="V" name="D. Lawrence" assist="Y"></p_tk>
+    <p_tk vh="V" name="J. Wideman" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR20" context="H,1,10,H20" playid="11,5,94" type="R" text="Tersoo Uhaa rush for 2 yards to the FUR22, fumble forced by C. Hackney, fumble by Tersoo Uhaa recovered by FUR TEAM at FUR22." newcontext="H,2,8,H22">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="2"></p_ru>
+    <p_fumb vh="H" name="Tersoo Uhaa" at="H22" frvh="H" frname="TEAM"></p_fumb>
+    <p_tk vh="V" name="C. Hackney" ff="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="8" spot="FUR22" context="H,2,8,H22" playid="11,6,95" type="P" first="P" text="Jordan Sorrells pass complete to R.J. Webb for 9 yards to the FUR31, 1ST DOWN FUR (M. Williams)." newcontext="H,1,10,H31">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="R.J. Webb" gain="9"></p_pa>
+    <p_tk vh="V" name="M. Williams"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR31" context="H,1,10,H31" playid="11,7,96" type="P" text="Jordan Sorrells pass incomplete to R.J. Webb." newcontext="H,2,10,H31">
+    <p_pa vh="H" qb="Jordan Sorrells" result="INC" rcv="R.J. Webb"></p_pa>
+   </play>
+   <play hasball="FUR" down="2" togo="10" spot="FUR31" context="H,2,10,H31" playid="11,8,97" type="P" text="Jordan Sorrells pass complete to Adam Mims for 7 yards to the FUR38 (D. Lawrence)." newcontext="H,3,3,H38">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Adam Mims" gain="7"></p_pa>
+    <p_tk vh="V" name="D. Lawrence"></p_tk>
+   </play>
+   <play hasball="FUR" down="3" togo="3" spot="FUR38" context="H,3,3,H38" playid="11,9,98" type="P" first="P" text="Jordan Sorrells pass complete to Tyler Maples for 6 yards to the FUR44, 1ST DOWN FUR, out-of-bounds (T. Funderburk)." ob="Y" newcontext="H,1,10,H44">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Tyler Maples" gain="6"></p_pa>
+    <p_tk vh="V" name="T. Funderburk"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR44" context="H,1,10,H44" playid="11,10,99" type="P" first="P" text="Jordan Sorrells pass complete to David Hendrix for 31 yards to the PC25, 1ST DOWN FUR, out-of-bounds (J. Bethel)." ob="Y" newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="David Hendrix" gain="31"></p_pa>
+    <p_tk vh="V" name="J. Bethel"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC25" context="H,1,10,V25" playid="11,11,100" type="P" text="Jordan Sorrells pass incomplete to David Hendrix." newcontext="H,2,10,V25">
+    <p_pa vh="H" qb="Jordan Sorrells" result="INC" rcv="David Hendrix"></p_pa>
+   </play>
+   <play hasball="FUR" down="2" togo="10" spot="PC25" context="H,2,10,V25" playid="11,12,101" type="E" first="E" text="PENALTY PC personal foul (B. Tribble) 13 yards to the PC12, 1ST DOWN FUR." newcontext="H,1,10,V12">
+    <p_pn vh="V" code="PF" type="personal foul" name="B. Tribble" result="ACCEPT" at="V25" yards="13"></p_pn>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC12" context="H,1,10,V12" playid="11,13,102" type="#" clock="01:17" text="Timeout Furman, clock 01:17." newcontext="H,1,10,V12">
+    <p_to vh="H" team="Furman"></p_to>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC12" context="H,1,10,V12" playid="11,14,103" type="P" text="Jordan Sorrells pass incomplete to Daniel McFadden." newcontext="H,2,10,V12">
+    <p_pa vh="H" qb="Jordan Sorrells" result="INC" rcv="Daniel McFadden"></p_pa>
+   </play>
+   <play hasball="FUR" down="2" togo="10" spot="PC12" context="H,2,10,V12" playid="11,15,104" type="P" text="Jordan Sorrells pass complete to Tersoo Uhaa for no gain to the PC12 (Jr Thomason)." newcontext="H,3,10,V12">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Tersoo Uhaa" gain="0"></p_pa>
+    <p_tk vh="V" name="Jr Thomason"></p_tk>
+   </play>
+   <play hasball="FUR" down="3" togo="10" spot="PC12" context="H,3,10,V12" playid="11,16,105" type="P" first="P" score="Y" clock="00:28" text="Jordan Sorrells pass complete to Adam Mims for 12 yards to the PC0, 1ST DOWN FUR, TOUCHDOWN, clock 00:28." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Adam Mims" gain="12"></p_pa>
+   </play>
+   <play hasball="FUR" down="1" togo="0" spot="PC03" context="H,1,0,V03" playid="11,17,106" type="X" score="Y" text="Matthew Cesari kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Matthew Cesari" qb="Matthew Cesari" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="24"></score>
+   <drivesum plays="13" yards="99" top="4:14" driveindex="11" complete="Y"></drivesum>
+   <play hasball="FUR" down="1" togo="0" spot="FUR30" context="H,1,0,H30" playid="11,18,107" type="K" text="Chas Short kickoff 46 yards to the PC24, B. Smith return 0 yards to the PC24 (Matt Solomon)." newcontext="V,1,10,V24">
+    <p_ko vh="H" name="Chas Short" gain="46"></p_ko>
+    <p_kr vh="V" name="B. Smith" gain="0"></p_kr>
+    <p_tk vh="H" name="Matt Solomon"></p_tk>
+   </play>
+   <drivestart poss="V,V24,00:28" vh="V" spot="V24" clock="00:28" driveindex="12,107"></drivestart>
+   <play hasball="PC" down="1" togo="10" spot="PC24" context="V,1,10,V24" playid="12,1,108" clock="00:23" text="PRESBYTERIAN drive start at 00:23." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC24" context="V,1,10,V24" playid="12,2,109" type="R" text="T. Dendy rush for no gain to the PC24 (Justin Brown)." newcontext="V,2,10,V24">
+    <p_ru vh="V" name="T. Dendy" gain="0"></p_ru>
+    <p_tk vh="H" name="Justin Brown"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="10" spot="PC24" context="V,2,10,V24" playid="12,3,110" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,2,10,V24">
+   </play>
+   <drivesum plays="1" yards="0" top="0:23" driveindex="12" complete="Y"></drivesum>
+   <score qtr="2" V="7" H="24"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="PC">
+    <firstdowns no="10" rush="2" pass="7" penalty="1"></firstdowns>
+    <penalties no="2" yds="23"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:10"></misc>
+    <rush att="11" yds="49" gain="49" loss="0" td="0" long="10"></rush>
+    <pass comp="7" att="11" int="0" yds="93" td="1" long="14" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="93" td="1" long="14"></rcv>
+    <ko no="1" yds="43" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="6" tot_tack="17" tflua="1" tfla="0" tflyds="12" sacks="1" sackyds="12" ff="1"></defense>
+    <kr no="2" yds="16" td="0" long="0"></kr>
+    <pr no="1" yds="1" td="0" long="1"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="FUR">
+    <firstdowns no="8" rush="0" pass="6" penalty="2"></firstdowns>
+    <penalties no="3" yds="23"></penalties>
+    <conversions thirdconv="4" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="07:50"></misc>
+    <rush att="5" yds="0" gain="12" loss="12" td="0" long="0"></rush>
+    <pass comp="10" att="14" int="0" yds="116" td="2" long="13" sacks="1" sackyds="12"></pass>
+    <rcv no="10" yds="116" td="2" long="13"></rcv>
+    <punt no="1" yds="40" long="40" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="40.0"></punt>
+    <ko no="2" yds="106" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="14" tacka="12" tot_tack="26" sacks="1" sackyds="8" brup="2"></defense>
+    <kr no="1" yds="11" td="0" long="0"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="PC" down="2" togo="10" spot="PC24" context="V,2,10,V24" playid="12,4,111" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, FUR ball on FUR30." newcontext="H,2,10,H30">
+   </play>
+   <play hasball="FUR" down="2" togo="10" spot="FUR30" context="H,2,10,H30" playid="12,5,112" type="K" text="Chas Short kickoff 61 yards to the PC9, T. Robbins return 29 yards to the PC38 (Matthew Gordon)." newcontext="V,1,10,V38">
+    <p_ko vh="H" name="Chas Short" gain="61"></p_ko>
+    <p_kr vh="V" name="T. Robbins" gain="29"></p_kr>
+    <p_tk vh="H" name="Matthew Gordon"></p_tk>
+   </play>
+   <drivestart poss="V,V38,15:00" vh="V" spot="V38" clock="15:00" driveindex="13,112"></drivestart>
+   <play hasball="PC" down="1" togo="10" spot="PC38" context="V,1,10,V38" playid="13,1,113" clock="14:51" text="PRESBYTERIAN drive start at 14:51." newcontext="V,1,10,V38">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC38" context="V,1,10,V38" playid="13,2,114" type="R" text="T. Dendy rush for 5 yards to the PC43 (Max Lerner;Chris Wiley)." newcontext="V,2,5,V43">
+    <p_ru vh="V" name="T. Dendy" gain="5"></p_ru>
+    <p_tk vh="H" name="Max Lerner" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chris Wiley" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="5" spot="PC43" context="V,2,5,V43" playid="13,3,115" type="R" text="T. Dendy rush for 4 yards to the PC47 (Josh Lynn;Julian Hicks)." newcontext="V,3,1,V47">
+    <p_ru vh="V" name="T. Dendy" gain="4"></p_ru>
+    <p_tk vh="H" name="Josh Lynn" assist="Y"></p_tk>
+    <p_tk vh="H" name="Julian Hicks" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="3" togo="1" spot="PC47" context="V,3,1,V47" playid="13,4,116" type="R" first="R" text="T. Dendy rush for 3 yards to the 50 yardline, 1ST DOWN PC (Chris Wiley)." newcontext="V,1,10,V50">
+    <p_ru vh="V" name="T. Dendy" gain="3"></p_ru>
+    <p_tk vh="H" name="Chris Wiley"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC50" context="V,1,10,V50" playid="13,5,117" type="P" first="P" score="Y" clock="12:52" text="B. Miley pass complete to M. Quinn for 50 yards to the FUR0, 1ST DOWN PC, TOUCHDOWN, clock 12:52." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="M. Quinn" gain="50"></p_pa>
+   </play>
+   <play hasball="PC" down="1" togo="0" spot="FUR03" context="V,1,0,H03" playid="13,6,118" type="X" score="Y" text="C. Miller kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="C. Miller" qb="C. Miller" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="24"></score>
+   <drivesum plays="4" yards="62" top="1:59" driveindex="13" complete="Y"></drivesum>
+   <play hasball="PC" down="1" togo="0" spot="PC30" context="V,1,0,V30" playid="13,7,119" type="K" text="A. Mayes kickoff 65 yards to the FUR5, Adam Mims return 27 yards to the FUR32 (M. Ruff), PENALTY FUR illegal block 10 yards to the FUR22, 1st and 10, FUR ball on FUR22." newcontext="H,1,10,H22">
+    <p_ko vh="V" name="A. Mayes" gain="65"></p_ko>
+    <p_kr vh="H" name="Adam Mims" gain="27"></p_kr>
+    <p_tk vh="V" name="M. Ruff"></p_tk>
+    <p_pn vh="H" code="BL" type="illegal block" result="ACCEPT" at="H32" yards="10"></p_pn>
+   </play>
+   <drivestart poss="H,H22,12:52" vh="H" spot="H22" clock="12:52" driveindex="14,119"></drivestart>
+   <play hasball="FUR" down="1" togo="10" spot="FUR22" context="H,1,10,H22" playid="14,1,120" clock="12:43" text="FURMAN drive start at 12:43." newcontext="H,1,10,H22">
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR22" context="H,1,10,H22" playid="14,2,121" type="R" first="R" text="Jerry Williams rush for 28 yards to the 50 yardline, 1ST DOWN FUR (J. Bethel)." newcontext="H,1,10,H50">
+    <p_ru vh="H" name="Jerry Williams" gain="28"></p_ru>
+    <p_tk vh="V" name="J. Bethel"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR50" context="H,1,10,H50" playid="14,3,122" type="R" text="Tersoo Uhaa rush for 4 yards to the PC46 (B. Leonardi)." newcontext="H,2,6,V46">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="4"></p_ru>
+    <p_tk vh="V" name="B. Leonardi"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="6" spot="PC46" context="H,2,6,V46" playid="14,4,123" type="R" text="Jerry Williams rush for 3 yards to the PC43 (B. Leonardi)." newcontext="H,3,3,V43">
+    <p_ru vh="H" name="Jerry Williams" gain="3"></p_ru>
+    <p_tk vh="V" name="B. Leonardi"></p_tk>
+   </play>
+   <play hasball="FUR" down="3" togo="3" spot="PC43" context="H,3,3,V43" playid="14,5,124" type="R" first="R" text="Jerry Williams rush for 12 yards to the PC31, 1ST DOWN FUR (J. Bethel;S. Thomas)." newcontext="H,1,10,V31">
+    <p_ru vh="H" name="Jerry Williams" gain="12"></p_ru>
+    <p_tk vh="V" name="J. Bethel" assist="Y"></p_tk>
+    <p_tk vh="V" name="S. Thomas" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC31" context="H,1,10,V31" playid="14,6,125" type="R" text="S. Cunningham rush for loss of 4 yards to the PC35 (S. Thomas;B. Leonardi)." newcontext="H,2,14,V35">
+    <p_ru vh="H" name="S. Cunningham" gain="-4"></p_ru>
+    <p_tk vh="V" name="S. Thomas" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="B. Leonardi" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="14" spot="PC35" context="H,2,14,V35" playid="14,7,126" type="P" turnover="I" text="Jordan Sorrells pass intercepted by T. Funderburk at the PC10, T. Funderburk return 14 yards to the PC24 (Jerry Williams), PENALTY PC illegal block 10 yards to the PC14, 1st and 10, PC ball on PC14." newcontext="V,1,10,V14">
+    <p_pa vh="H" qb="Jordan Sorrells" result="INT"></p_pa>
+    <p_ir vh="V" name="T. Funderburk" at="V10" gain="14"></p_ir>
+    <p_tk vh="H" name="Jerry Williams"></p_tk>
+    <p_pn vh="V" code="BL" type="illegal block" result="ACCEPT" at="V24" yards="10"></p_pn>
+   </play>
+   <drivesum plays="6" yards="43" top="3:01" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,V14,12:43" vh="V" spot="V14" clock="12:43" driveindex="15,126"></drivestart>
+   <play hasball="PC" down="1" togo="10" spot="PC14" context="V,1,10,V14" playid="15,1,127" clock="09:42" text="PRESBYTERIAN drive start at 09:42." newcontext="V,1,10,V14">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC14" context="V,1,10,V14" playid="15,2,128" type="R" text="L. Byrd rush for no gain to the PC14 (Max Lerner)." newcontext="V,2,10,V14">
+    <p_ru vh="V" name="L. Byrd" gain="0"></p_ru>
+    <p_tk vh="H" name="Max Lerner"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="10" spot="PC14" context="V,2,10,V14" playid="15,3,129" type="R" first="R" text="L. Byrd rush for 21 yards to the PC35, 1ST DOWN PC (Jordan Griffin)." newcontext="V,1,10,V35">
+    <p_ru vh="V" name="L. Byrd" gain="21"></p_ru>
+    <p_tk vh="H" name="Jordan Griffin"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC35" context="V,1,10,V35" playid="15,4,130" type="R" text="T. Dendy rush for 9 yards to the PC44 (Ryan Steed;Nathan Wade)." newcontext="V,2,1,V44">
+    <p_ru vh="V" name="T. Dendy" gain="9"></p_ru>
+    <p_tk vh="H" name="Ryan Steed" assist="Y"></p_tk>
+    <p_tk vh="H" name="Nathan Wade" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="1" spot="PC44" context="V,2,1,V44" playid="15,5,131" type="P" first="P" text="B. Miley pass complete to D. Frost for 6 yards to the 50 yardline, 1ST DOWN PC (Julian Hicks)." newcontext="V,1,10,V50">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="D. Frost" gain="6"></p_pa>
+    <p_tk vh="H" name="Julian Hicks"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC50" context="V,1,10,V50" playid="15,6,132" type="P" text="B. Miley pass incomplete to B. Smith." newcontext="V,2,10,V50">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="B. Smith"></p_pa>
+   </play>
+   <play hasball="PC" down="2" togo="10" spot="PC50" context="V,2,10,V50" playid="15,7,133" type="R" text="L. Byrd rush for 6 yards to the FUR44 (Julian Hicks;Bryan Poole)." newcontext="V,3,4,H44">
+    <p_ru vh="V" name="L. Byrd" gain="6"></p_ru>
+    <p_tk vh="H" name="Julian Hicks" assist="Y"></p_tk>
+    <p_tk vh="H" name="Bryan Poole" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="3" togo="4" spot="FUR44" context="V,3,4,H44" playid="15,8,134" type="P" text="B. Miley pass incomplete to D. Frost (Chris Wiley)." newcontext="V,4,4,H44">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="D. Frost"></p_pa>
+    <p_bu vh="H" name="Chris Wiley"></p_bu>
+   </play>
+   <play hasball="PC" down="4" togo="4" spot="FUR44" context="V,4,4,H44" playid="15,9,135" type="U" text="P. Morgano punt 44 yards to the FUR0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="P. Morgano" gain="44" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="42" top="2:53" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H20,09:42" vh="H" spot="H20" clock="09:42" driveindex="16,135"></drivestart>
+   <play hasball="FUR" down="1" togo="10" spot="FUR20" context="H,1,10,H20" playid="16,1,136" clock="06:49" text="FURMAN drive start at 06:49." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR20" context="H,1,10,H20" playid="16,2,137" type="P" first="P" text="Jordan Sorrells pass complete to David Hendrix for 43 yards to the PC37, 1ST DOWN FUR (D. Lawrence)." newcontext="H,1,10,V37">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="David Hendrix" gain="43"></p_pa>
+    <p_tk vh="V" name="D. Lawrence"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC37" context="H,1,10,V37" playid="16,3,138" type="R" first="R" text="Tersoo Uhaa rush for 24 yards to the PC13, 1ST DOWN FUR, out-of-bounds (B. Tribble)." ob="Y" newcontext="H,1,10,V13">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="24"></p_ru>
+    <p_tk vh="V" name="B. Tribble"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC13" context="H,1,10,V13" playid="16,4,139" type="R" first="R" text="Tersoo Uhaa rush for 11 yards to the PC2, 1ST DOWN FUR (S. Thomas)." newcontext="H,1,0,V02">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="11"></p_ru>
+    <p_tk vh="V" name="S. Thomas"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="0" spot="PC02" context="H,1,0,V02" playid="16,5,140" type="R" score="Y" clock="05:25" text="Tersoo Uhaa rush for 2 yards to the PC0, TOUCHDOWN, clock 05:25." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="2"></p_ru>
+   </play>
+   <play hasball="FUR" down="1" togo="0" spot="PC03" context="H,1,0,V03" playid="16,6,141" type="X" score="Y" text="Matthew Cesari kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Matthew Cesari" qb="Matthew Cesari" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="31"></score>
+   <drivesum plays="4" yards="80" top="1:24" driveindex="16" complete="Y"></drivesum>
+   <play hasball="FUR" down="1" togo="0" spot="FUR30" context="H,1,0,H30" playid="16,7,142" type="K" text="Chas Short kickoff 35 yards to the PC35, B. Smiley return 3 yards to the PC38 (E.J. Vinsang)." newcontext="V,1,10,V38">
+    <p_ko vh="H" name="Chas Short" gain="35"></p_ko>
+    <p_kr vh="V" name="B. Smiley" gain="3"></p_kr>
+    <p_tk vh="H" name="E.J. Vinsang"></p_tk>
+   </play>
+   <drivestart poss="V,V38,05:25" vh="V" spot="V38" clock="05:25" driveindex="17,142"></drivestart>
+   <play hasball="PC" down="1" togo="10" spot="PC38" context="V,1,10,V38" playid="17,1,143" clock="05:21" text="PRESBYTERIAN drive start at 05:21." newcontext="V,1,10,V38">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC38" context="V,1,10,V38" playid="17,2,144" type="P" first="P" text="B. Miley pass complete to T. Dendy for 18 yards to the FUR44, 1ST DOWN PC (Jordan Griffin)." newcontext="V,1,10,H44">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="T. Dendy" gain="18"></p_pa>
+    <p_tk vh="H" name="Jordan Griffin"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR44" context="V,1,10,H44" playid="17,3,145" type="R" text="M. Ruff rush for 4 yards to the FUR40 (K. Anderson)." newcontext="V,2,6,H40">
+    <p_ru vh="V" name="M. Ruff" gain="4"></p_ru>
+    <p_tk vh="H" name="K. Anderson"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="6" spot="FUR40" context="V,2,6,H40" playid="17,4,146" type="R" text="T. Dendy rush for 4 yards to the FUR36 (K. Anderson;Ricky Lang)." newcontext="V,3,2,H36">
+    <p_ru vh="V" name="T. Dendy" gain="4"></p_ru>
+    <p_tk vh="H" name="K. Anderson" assist="Y"></p_tk>
+    <p_tk vh="H" name="Ricky Lang" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="3" togo="2" spot="FUR36" context="V,3,2,H36" playid="17,5,147" type="R" first="R" text="T. Dendy rush for 3 yards to the FUR33, 1ST DOWN PC (Julian Hicks;Justin Brown)." newcontext="V,1,10,H33">
+    <p_ru vh="V" name="T. Dendy" gain="3"></p_ru>
+    <p_tk vh="H" name="Julian Hicks" assist="Y"></p_tk>
+    <p_tk vh="H" name="Justin Brown" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR33" context="V,1,10,H33" playid="17,6,148" type="R" text="L. Byrd rush for no gain to the FUR33 (Colton Keig;K. Anderson)." newcontext="V,2,10,H33">
+    <p_ru vh="V" name="L. Byrd" gain="0"></p_ru>
+    <p_tk vh="H" name="Colton Keig" assist="Y"></p_tk>
+    <p_tk vh="H" name="K. Anderson" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="10" spot="FUR33" context="V,2,10,H33" playid="17,7,149" type="P" text="B. Miley pass incomplete to T. Robbins (Chris Wiley)." newcontext="V,3,10,H33">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="T. Robbins"></p_pa>
+    <p_bu vh="H" name="Chris Wiley"></p_bu>
+   </play>
+   <play hasball="PC" down="3" togo="10" spot="FUR33" context="V,3,10,H33" playid="17,8,150" type="E" text="PENALTY PC false start (M. Travis) 5 yards to the FUR38." newcontext="V,3,15,H38">
+    <p_pn vh="V" code="FS" type="false start" name="M. Travis" result="ACCEPT" at="H33" yards="5"></p_pn>
+   </play>
+   <play hasball="PC" down="3" togo="15" spot="FUR38" context="V,3,15,H38" playid="17,9,151" type="P" text="B. Miley pass complete to S. Adegbola for 3 yards to the FUR35 (Ryan Steed)." newcontext="V,4,12,H35">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="S. Adegbola" gain="3"></p_pa>
+    <p_tk vh="H" name="Ryan Steed"></p_tk>
+   </play>
+   <play hasball="PC" down="4" togo="12" spot="FUR35" context="V,4,12,H35" playid="17,10,152" type="P" text="B. Miley pass incomplete to S. Adegbola (S. Johnson)." newcontext="H,1,10,H35">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="S. Adegbola"></p_pa>
+    <p_bu vh="H" name="S. Johnson"></p_bu>
+   </play>
+   <drivesum plays="8" yards="27" top="3:56" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H35,05:21" vh="H" spot="H35" clock="05:21" driveindex="18,152"></drivestart>
+   <play hasball="FUR" down="1" togo="10" spot="FUR35" context="H,1,10,H35" playid="18,1,153" clock="01:25" text="FURMAN drive start at 01:25." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR35" context="H,1,10,H35" playid="18,2,154" type="R" first="R" text="Jordan Sorrells rush for 46 yards to the PC19, 1ST DOWN FUR, out-of-bounds (C. Norman)." ob="Y" newcontext="H,1,10,V19">
+    <p_ru vh="H" name="Jordan Sorrells" gain="46"></p_ru>
+    <p_tk vh="V" name="C. Norman"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC19" context="H,1,10,V19" playid="18,3,155" type="R" text="Tersoo Uhaa rush for 6 yards to the PC13 (C. Norman;Jr Thomason)." newcontext="H,2,4,V13">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="6"></p_ru>
+    <p_tk vh="V" name="C. Norman" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jr Thomason" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="4" spot="PC13" context="H,2,4,V13" playid="18,4,156" type="R" first="R" text="Tersoo Uhaa rush for 5 yards to the PC8, 1ST DOWN FUR (C. Hackney)." newcontext="H,1,0,V08">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="5"></p_ru>
+    <p_tk vh="V" name="C. Hackney"></p_tk>
+   </play>
+   <score qtr="3" V="14" H="31"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="PC">
+    <firstdowns no="6" rush="3" pass="3" penalty="0"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:01"></misc>
+    <rush att="11" yds="59" gain="59" loss="0" td="0" long="5"></rush>
+    <pass comp="4" att="8" int="0" yds="77" td="1" long="28" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="77" td="1" long="28"></rcv>
+    <punt no="1" yds="44" long="1" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="44.0"></punt>
+    <ko no="1" yds="65" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="6" tot_tack="15" tflua="2" tfla="0" tflyds="8" sacks="1" sackyds="12" int="1" intyds="14"></defense>
+    <kr no="2" yds="32" td="0" long="12"></kr>
+    <ir no="1" yds="14" td="0" long="14"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="FUR">
+    <firstdowns no="7" rush="6" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:59"></misc>
+    <rush att="11" yds="137" gain="141" loss="4" td="1" long="37"></rush>
+    <pass comp="1" att="2" int="1" yds="43" td="0" long="12" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="43" td="0" long="12"></rcv>
+    <ko no="2" yds="96" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="14" tot_tack="24" sacks="1" sackyds="8" brup="3"></defense>
+    <kr no="1" yds="27" td="0" long="3"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="FUR" down="1" togo="0" spot="PC08" context="H,1,0,V08" playid="18,5,157" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,1,0,V08">
+   </play>
+   <play hasball="FUR" down="1" togo="0" spot="PC08" context="H,1,0,V08" playid="18,6,158" type="R" text="Tersoo Uhaa rush for 3 yards to the PC5 (M. Freeman)." newcontext="H,2,0,V05">
+    <p_ru vh="H" name="Tersoo Uhaa" gain="3"></p_ru>
+    <p_tk vh="V" name="M. Freeman"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="0" spot="PC05" context="H,2,0,V05" playid="18,7,159" type="P" score="Y" clock="14:18" text="Jordan Sorrells pass complete to Tyler Maples for 5 yards to the PC0, TOUCHDOWN, clock 14:18." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Tyler Maples" gain="5"></p_pa>
+   </play>
+   <play hasball="FUR" down="1" togo="0" spot="PC03" context="H,1,0,V03" playid="18,8,160" type="X" score="Y" text="Matthew Cesari kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Matthew Cesari" qb="Matthew Cesari" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="38"></score>
+   <drivesum plays="5" yards="65" top="2:07" driveindex="18" complete="Y"></drivesum>
+   <play hasball="FUR" down="1" togo="0" spot="FUR30" context="H,1,0,H30" playid="18,9,161" type="K" text="Chas Short kickoff 67 yards to the PC3, T. Robbins return 23 yards to the PC26 (Matt Solomon)." newcontext="V,1,10,V26">
+    <p_ko vh="H" name="Chas Short" gain="67"></p_ko>
+    <p_kr vh="V" name="T. Robbins" gain="23"></p_kr>
+    <p_tk vh="H" name="Matt Solomon"></p_tk>
+   </play>
+   <drivestart poss="V,V26,14:18" vh="V" spot="V26" clock="14:18" driveindex="19,161"></drivestart>
+   <play hasball="PC" down="1" togo="10" spot="PC26" context="V,1,10,V26" playid="19,1,162" clock="14:10" text="PRESBYTERIAN drive start at 14:10." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC26" context="V,1,10,V26" playid="19,2,163" type="P" text="B. Miley pass complete to S. Wilson for 4 yards to the PC30 (Julian Hicks)." newcontext="V,2,6,V30">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="S. Wilson" gain="4"></p_pa>
+    <p_tk vh="H" name="Julian Hicks"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="6" spot="PC30" context="V,2,6,V30" playid="19,3,164" type="P" first="P" text="B. Miley pass complete to P. Mckoy for 30 yards to the FUR40, 1ST DOWN PC (Nathan Wade)." newcontext="V,1,10,H40">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="P. Mckoy" gain="30"></p_pa>
+    <p_tk vh="H" name="Nathan Wade"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR40" context="V,1,10,H40" playid="19,4,165" type="P" text="B. Miley pass complete to B. Smith for 9 yards to the FUR31 (Chris Wiley)." newcontext="V,2,1,H31">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="B. Smith" gain="9"></p_pa>
+    <p_tk vh="H" name="Chris Wiley"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="1" spot="FUR31" context="V,2,1,H31" playid="19,5,166" type="P" text="B. Miley pass incomplete to B. Smith." newcontext="V,3,1,H31">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="B. Smith"></p_pa>
+   </play>
+   <play hasball="PC" down="3" togo="1" spot="FUR31" context="V,3,1,H31" playid="19,6,167" type="R" first="R" text="T. Dendy rush for 13 yards to the FUR18, 1ST DOWN PC (Nathan Wade)." newcontext="V,1,10,H18">
+    <p_ru vh="V" name="T. Dendy" gain="13"></p_ru>
+    <p_tk vh="H" name="Nathan Wade"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR18" context="V,1,10,H18" playid="19,7,168" type="P" text="B. Miley pass complete to P. Mckoy for 6 yards to the FUR12 (K. Anderson)." newcontext="V,2,4,H12">
+    <p_pa vh="V" qb="B. Miley" result="COMP" rcv="P. Mckoy" gain="6"></p_pa>
+    <p_tk vh="H" name="K. Anderson"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="4" spot="FUR12" context="V,2,4,H12" playid="19,8,169" type="R" first="R" text="B. Miley rush for 6 yards to the FUR6, 1ST DOWN PC (K. Anderson;Chris Wiley)." newcontext="V,1,0,H06">
+    <p_ru vh="V" name="B. Miley" gain="6"></p_ru>
+    <p_tk vh="H" name="K. Anderson" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chris Wiley" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="0" spot="FUR06" context="V,1,0,H06" playid="19,9,170" type="P" text="B. Miley pass incomplete to S. Adegbola." newcontext="V,2,0,H06">
+    <p_pa vh="V" qb="B. Miley" result="INC" rcv="S. Adegbola"></p_pa>
+   </play>
+   <play hasball="PC" down="2" togo="0" spot="FUR06" context="V,2,0,H06" playid="19,10,171" type="R" text="B. Miley rush for loss of 1 yard to the FUR7 (Chris Wiley)." newcontext="V,3,0,H07">
+    <p_ru vh="V" name="B. Miley" gain="-1"></p_ru>
+    <p_tk vh="H" name="Chris Wiley" tfl="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="3" togo="0" spot="FUR07" context="V,3,0,H07" playid="19,11,172" type="P" text="B. Miley sacked for loss of 6 yards to the FUR13 (Neal Rodgers;Bryan Poole)." newcontext="V,4,0,H13">
+    <p_pa vh="V" qb="B. Miley" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="H" name="Neal Rodgers" sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Bryan Poole" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="4" togo="0" spot="FUR13" context="V,4,0,H13" playid="19,12,173" type="#" clock="10:04" text="Timeout Presbyterian, clock 10:04." newcontext="V,4,0,H13">
+    <p_to vh="V" team="Presbyterian"></p_to>
+   </play>
+   <play hasball="PC" down="4" togo="0" spot="FUR13" context="V,4,0,H13" playid="19,13,174" type="F" clock="09:59" text="C. Miller field goal attempt from 29 MISSED - wide right, spot at FUR20, clock 09:59." newcontext="H,1,10,H20">
+    <p_fg vh="V" name="C. Miller" distance="29" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="11" yards="61" top="4:11" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,H20,09:59" vh="H" spot="H20" clock="09:59" driveindex="20,174"></drivestart>
+   <play hasball="FUR" down="1" togo="10" spot="FUR20" context="H,1,10,H20" playid="20,1,175" clock="09:59" text="FURMAN drive start at 09:59." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR20" context="H,1,10,H20" playid="20,2,176" type="R" text="Walt Lenard rush for 5 yards to the FUR25 (D. Brown)." newcontext="H,2,5,H25">
+    <p_ru vh="H" name="Walt Lenard" gain="5"></p_ru>
+    <p_tk vh="V" name="D. Brown"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="5" spot="FUR25" context="H,2,5,H25" playid="20,3,177" type="P" first="P" text="Jordan Sorrells pass complete to David Hendrix for 11 yards to the FUR36, 1ST DOWN FUR (M. Williams;S. Thomas)." newcontext="H,1,10,H36">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="David Hendrix" gain="11"></p_pa>
+    <p_tk vh="V" name="M. Williams" assist="Y"></p_tk>
+    <p_tk vh="V" name="S. Thomas" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR36" context="H,1,10,H36" playid="20,4,178" type="R" text="Walt Lenard rush for 8 yards to the FUR44 (B. Wilson)." newcontext="H,2,2,H44">
+    <p_ru vh="H" name="Walt Lenard" gain="8"></p_ru>
+    <p_tk vh="V" name="B. Wilson"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="2" spot="FUR44" context="H,2,2,H44" playid="20,5,179" type="P" first="P" text="Jordan Sorrells pass complete to David Hendrix for 8 yards to the PC48, 1ST DOWN FUR (M. Williams)." newcontext="H,1,10,V48">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="David Hendrix" gain="8"></p_pa>
+    <p_tk vh="V" name="M. Williams"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC48" context="H,1,10,V48" playid="20,6,180" type="R" text="Walt Lenard rush for 5 yards to the PC43 (T. Funderburk)." newcontext="H,2,5,V43">
+    <p_ru vh="H" name="Walt Lenard" gain="5"></p_ru>
+    <p_tk vh="V" name="T. Funderburk"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="5" spot="PC43" context="H,2,5,V43" playid="20,7,181" type="R" text="Walt Lenard rush for 3 yards to the PC40 (M. Williams)." newcontext="H,3,2,V40">
+    <p_ru vh="H" name="Walt Lenard" gain="3"></p_ru>
+    <p_tk vh="V" name="M. Williams"></p_tk>
+   </play>
+   <play hasball="FUR" down="3" togo="2" spot="PC40" context="H,3,2,V40" playid="20,8,182" type="P" first="P" text="Jordan Sorrells pass complete to Will King for 11 yards to the PC29, 1ST DOWN FUR, out-of-bounds (T. Funderburk)." ob="Y" newcontext="H,1,10,V29">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Will King" gain="11"></p_pa>
+    <p_tk vh="V" name="T. Funderburk"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC29" context="H,1,10,V29" playid="20,9,183" type="R" text="C. Coleman rush for 3 yards to the PC26 (B. Davis)." newcontext="H,2,7,V26">
+    <p_ru vh="H" name="C. Coleman" gain="3"></p_ru>
+    <p_tk vh="V" name="B. Davis"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="7" spot="PC26" context="H,2,7,V26" playid="20,10,184" type="P" first="P" text="Jordan Sorrells pass complete to Will King for 12 yards to the PC14, 1ST DOWN FUR (D. Lawrence)." newcontext="H,1,10,V14">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Will King" gain="12"></p_pa>
+    <p_tk vh="V" name="D. Lawrence"></p_tk>
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="PC14" context="H,1,10,V14" playid="20,11,185" type="R" text="Walt Lenard rush for 1 yard to the PC13 (T. Funderburk)." newcontext="H,2,9,V13">
+    <p_ru vh="H" name="Walt Lenard" gain="1"></p_ru>
+    <p_tk vh="V" name="T. Funderburk"></p_tk>
+   </play>
+   <play hasball="FUR" down="2" togo="9" spot="PC13" context="H,2,9,V13" playid="20,12,186" type="P" text="Jordan Sorrells pass complete to Tyler Maples for 4 yards to the PC9 (T. Funderburk;B. Leonardi)." newcontext="H,3,5,V09">
+    <p_pa vh="H" qb="Jordan Sorrells" result="COMP" rcv="Tyler Maples" gain="4"></p_pa>
+    <p_tk vh="V" name="T. Funderburk" assist="Y"></p_tk>
+    <p_tk vh="V" name="B. Leonardi" assist="Y"></p_tk>
+   </play>
+   <play hasball="FUR" down="3" togo="5" spot="PC09" context="H,3,5,V09" playid="20,13,187" type="R" first="R" score="Y" clock="03:29" text="Jordan Sorrells rush for 9 yards to the PC0, 1ST DOWN FUR, TOUCHDOWN, clock 03:29." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Jordan Sorrells" gain="9"></p_ru>
+   </play>
+   <play hasball="FUR" down="1" togo="0" spot="PC03" context="H,1,0,V03" playid="20,14,188" type="X" score="Y" text="Matthew Cesari kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Matthew Cesari" qb="Matthew Cesari" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="45"></score>
+   <drivesum plays="12" yards="80" top="6:30" driveindex="20" complete="Y"></drivesum>
+   <play hasball="FUR" down="1" togo="0" spot="FUR30" context="H,1,0,H30" playid="20,15,189" type="K" text="Chas Short kickoff 63 yards to the PC7, B. Smith return 18 yards to the PC25 (Tyler Maples)." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Chas Short" gain="63"></p_ko>
+    <p_kr vh="V" name="B. Smith" gain="18"></p_kr>
+    <p_tk vh="H" name="Tyler Maples"></p_tk>
+   </play>
+   <drivestart poss="V,V25,03:29" vh="V" spot="V25" clock="03:29" driveindex="21,189"></drivestart>
+   <play hasball="PC" down="1" togo="10" spot="PC25" context="V,1,10,V25" playid="21,1,190" clock="03:19" text="PRESBYTERIAN drive start at 03:19." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC25" context="V,1,10,V25" playid="21,2,191" type="P" text="T. Webb pass complete to L. Byrd for 7 yards to the PC32 (Brandon Boykin)." newcontext="V,2,3,V32">
+    <p_pa vh="V" qb="T. Webb" result="COMP" rcv="L. Byrd" gain="7"></p_pa>
+    <p_tk vh="H" name="Brandon Boykin"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="3" spot="PC32" context="V,2,3,V32" playid="21,3,192" type="R" first="R" text="L. Byrd rush for 13 yards to the PC45, 1ST DOWN PC (Matt Solomon)." newcontext="V,1,10,V45">
+    <p_ru vh="V" name="L. Byrd" gain="13"></p_ru>
+    <p_tk vh="H" name="Matt Solomon"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="PC45" context="V,1,10,V45" playid="21,4,193" type="P" text="T. Webb pass incomplete to P. Mckoy (Mitch McGrath)." newcontext="V,2,10,V45">
+    <p_pa vh="V" qb="T. Webb" result="INC" rcv="P. Mckoy"></p_pa>
+    <p_bu vh="H" name="Mitch McGrath"></p_bu>
+   </play>
+   <play hasball="PC" down="2" togo="10" spot="PC45" context="V,2,10,V45" playid="21,5,194" type="P" text="T. Webb pass complete to D. Frost for 9 yards to the FUR46 (Dustin Gourdin;Brandon Boykin)." newcontext="V,3,1,H46">
+    <p_pa vh="V" qb="T. Webb" result="COMP" rcv="D. Frost" gain="9"></p_pa>
+    <p_tk vh="H" name="Dustin Gourdin" assist="Y"></p_tk>
+    <p_tk vh="H" name="Brandon Boykin" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="3" togo="1" spot="FUR46" context="V,3,1,H46" playid="21,6,195" type="R" first="R" text="L. Byrd rush for 6 yards to the FUR40, 1ST DOWN PC (Mitch McGrath;R. Phillips)." newcontext="V,1,10,H40">
+    <p_ru vh="V" name="L. Byrd" gain="6"></p_ru>
+    <p_tk vh="H" name="Mitch McGrath" assist="Y"></p_tk>
+    <p_tk vh="H" name="R. Phillips" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR40" context="V,1,10,H40" playid="21,7,196" type="P" first="P" text="T. Webb pass complete to P. Mckoy for 12 yards to the FUR28, 1ST DOWN PC (S. Johnson)." newcontext="V,1,10,H28">
+    <p_pa vh="V" qb="T. Webb" result="COMP" rcv="P. Mckoy" gain="12"></p_pa>
+    <p_tk vh="H" name="S. Johnson"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR28" context="V,1,10,H28" playid="21,8,197" type="P" text="T. Webb pass incomplete to J. Cole." newcontext="V,2,10,H28">
+    <p_pa vh="V" qb="T. Webb" result="INC" rcv="J. Cole"></p_pa>
+   </play>
+   <play hasball="PC" down="2" togo="10" spot="FUR28" context="V,2,10,H28" playid="21,9,198" type="P" first="P" text="T. Webb pass complete to S. Adegbola for 15 yards to the FUR13, 1ST DOWN PC (Leander Jones)." newcontext="V,1,10,H13">
+    <p_pa vh="V" qb="T. Webb" result="COMP" rcv="S. Adegbola" gain="15"></p_pa>
+    <p_tk vh="H" name="Leander Jones"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="10" spot="FUR13" context="V,1,10,H13" playid="21,10,199" type="P" text="T. Webb pass complete to D. Frost for 5 yards to the FUR8, out-of-bounds (Matt Solomon)." ob="Y" newcontext="V,2,5,H08">
+    <p_pa vh="V" qb="T. Webb" result="COMP" rcv="D. Frost" gain="5"></p_pa>
+    <p_tk vh="H" name="Matt Solomon"></p_tk>
+   </play>
+   <play hasball="PC" down="2" togo="5" spot="FUR08" context="V,2,5,H08" playid="21,11,200" type="P" text="T. Webb pass complete to M. Ruff for 4 yards to the FUR4 (S. Johnson)." newcontext="V,3,1,H04">
+    <p_pa vh="V" qb="T. Webb" result="COMP" rcv="M. Ruff" gain="4"></p_pa>
+    <p_tk vh="H" name="S. Johnson"></p_tk>
+   </play>
+   <play hasball="PC" down="3" togo="1" spot="FUR04" context="V,3,1,H04" playid="21,12,201" type="#" clock="00:29" text="Timeout Presbyterian, clock 00:29." newcontext="V,3,1,H04">
+    <p_to vh="V" team="Presbyterian"></p_to>
+   </play>
+   <play hasball="PC" down="3" togo="1" spot="FUR04" context="V,3,1,H04" playid="21,13,202" type="#" clock="00:29" text="Timeout Furman, clock 00:29." newcontext="V,3,1,H04">
+    <p_to vh="H" team="Furman"></p_to>
+   </play>
+   <play hasball="PC" down="3" togo="1" spot="FUR04" context="V,3,1,H04" playid="21,14,203" type="R" first="R" text="T. Dendy rush for 1 yard to the FUR3, 1ST DOWN PC (Matt Solomon;Neal Rodgers)." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="T. Dendy" gain="1"></p_ru>
+    <p_tk vh="H" name="Matt Solomon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Neal Rodgers" assist="Y"></p_tk>
+   </play>
+   <play hasball="PC" down="1" togo="0" spot="FUR03" context="V,1,0,H03" playid="21,15,204" type="P" text="T. Webb pass incomplete to R. Bumgarner." newcontext="V,2,0,H03">
+    <p_pa vh="V" qb="T. Webb" result="INC" rcv="R. Bumgarner"></p_pa>
+   </play>
+   <play hasball="PC" down="2" togo="0" spot="FUR03" context="V,2,0,H03" playid="21,16,205" type="P" text="T. Webb pass incomplete to P. Mckoy (Dustin Gourdin)." newcontext="V,3,0,H03">
+    <p_pa vh="V" qb="T. Webb" result="INC" rcv="P. Mckoy"></p_pa>
+    <p_bu vh="H" name="Dustin Gourdin"></p_bu>
+   </play>
+   <play hasball="PC" down="3" togo="0" spot="FUR03" context="V,3,0,H03" playid="21,17,206" type="P" score="Y" clock="00:04" text="T. Webb pass complete to S. Adegbola for 3 yards to the FUR0, TOUCHDOWN, clock 00:04." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="T. Webb" result="COMP" rcv="S. Adegbola" gain="3"></p_pa>
+   </play>
+   <play hasball="PC" down="1" togo="0" spot="FUR03" context="V,1,0,H03" playid="21,18,207" type="X" score="Y" text="C. Miller kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="C. Miller" qb="C. Miller" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="45"></score>
+   <drivesum plays="14" yards="75" top="3:15" driveindex="21" complete="Y"></drivesum>
+   <play hasball="PC" down="1" togo="0" spot="PC30" context="V,1,0,V30" playid="21,19,208" type="K" text="A. Mayes kickoff 59 yards to the FUR11, Jerry Williams return 0 yards to the FUR11." newcontext="H,1,10,H11">
+    <p_ko vh="V" name="A. Mayes" gain="59"></p_ko>
+    <p_kr vh="H" name="Jerry Williams" gain="0"></p_kr>
+   </play>
+   <drivestart poss="H,H11,00:04" vh="H" spot="H11" clock="00:04" driveindex="22,208"></drivestart>
+   <play hasball="FUR" down="1" togo="10" spot="FUR11" context="H,1,10,H11" playid="22,1,209" clock="00:00" text="FURMAN drive start at 00:00." newcontext="H,1,10,H11">
+   </play>
+   <play hasball="FUR" down="1" togo="10" spot="FUR11" context="H,1,10,H11" playid="22,2,210" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,1,10,H11">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="22" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Furman defeats Presbyterian by a score of 45 to 21."></play>
+   <score final="Y" V="21" H="45"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="PC">
+    <firstdowns no="8" rush="5" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="4" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:44"></misc>
+    <rush att="7" yds="32" gain="39" loss="7" td="0" long="0"></rush>
+    <pass comp="11" att="17" int="0" yds="104" td="1" long="0" sacks="1" sackyds="6"></pass>
+    <rcv no="11" yds="104" td="1" long="0"></rcv>
+    <ko no="1" yds="59" ob="0" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="4" tot_tack="14" sacks="1" sackyds="12"></defense>
+    <kr no="2" yds="41" td="0" long="0"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="FUR">
+    <firstdowns no="5" rush="1" pass="4" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:16"></misc>
+    <rush att="8" yds="37" gain="37" loss="0" td="1" long="0"></rush>
+    <pass comp="6" att="6" int="0" yds="51" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="51" td="1" long="0"></rcv>
+    <ko no="2" yds="130" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="14" tacka="10" tot_tack="24" tflua="3" tfla="0" tflyds="13" sacks="2" sackyds="14" brup="2"></defense>
+    <kr no="1" yds="0" td="0" long="0"></kr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="FUR" down="1" togo="10" spot="FUR11" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="1" htor="2" dtgtext="Game Over" ldtext="Drive started: 03:19, 4th Qtr"></downtogo>
+ </plays>

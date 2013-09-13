@@ -1,0 +1,913 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON30" context="V,1,10,V30" playid="0,1,0" text="CoinToss:Akron won toss, defers, Penn State will defend South goal." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON30" context="V,1,10,V30" playid="0,2,1" type="#" clock="15:00" text="Clock 15:00." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON30" context="V,1,10,V30" playid="0,3,2" text="AKRON ball on AKRON30." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON30" context="V,1,10,V30" playid="0,4,3" type="K" text="ROGOVIC, Branko kickoff 64 yards to the PSU6, Smith, Devon return 20 yards to the PSU26 (THOMAS, Mike), PENALTY PSU holding 10 yards to the PSU16, 1st and 10, PSU ball on PSU16." newcontext="H,1,10,H16">
+    <p_ko vh="V" name="ROGOVIC, Branko" gain="64"></p_ko>
+    <p_kr vh="H" name="Smith, Devon" gain="20"></p_kr>
+    <p_tk vh="V" name="THOMAS, Mike"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="H26" yards="10"></p_pn>
+   </play>
+   <drivestart poss="H,H16,15:00" vh="H" spot="H16" clock="15:00" driveindex="1,3"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU16" context="H,1,10,H16" playid="1,1,4" type="P" first="P" text="Clark, Daryll pass complete to Suhey, Joe for 19 yards to the PSU35, 1ST DOWN PSU (JONES, Andre)." newcontext="H,1,10,H35">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Suhey, Joe" gain="19"></p_pa>
+    <p_tk vh="V" name="JONES, Andre"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU35" context="H,1,10,H35" playid="1,2,5" type="R" text="Royster, Evan rush for 2 yards to the PSU37 (FOBBS, Sean)." newcontext="H,2,8,H37">
+    <p_ru vh="H" name="Royster, Evan" gain="2"></p_ru>
+    <p_tk vh="V" name="FOBBS, Sean"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="8" spot="PSU37" context="H,2,8,H37" playid="1,3,6" type="R" text="Royster, Evan rush for 3 yards to the PSU40 (WAGNER, Brian)." newcontext="H,3,5,H40">
+    <p_ru vh="H" name="Royster, Evan" gain="3"></p_ru>
+    <p_tk vh="V" name="WAGNER, Brian"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="5" spot="PSU40" context="H,3,5,H40" playid="1,4,7" type="P" first="P" text="Clark, Daryll pass complete to Moye, Derek for 36 yards to the AKRON24, 1ST DOWN PSU (JONES, Andre)." newcontext="H,1,10,V24">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Moye, Derek" gain="36"></p_pa>
+    <p_tk vh="V" name="JONES, Andre"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON24" context="H,1,10,V24" playid="1,5,8" type="P" first="P" text="Clark, Daryll pass complete to Quarless, A. for 12 yards to the AKRON12, 1ST DOWN PSU (WAGNER, Brian)." newcontext="H,1,10,V12">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Quarless, A." gain="12"></p_pa>
+    <p_tk vh="V" name="WAGNER, Brian"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON12" context="H,1,10,V12" playid="1,6,9" type="R" text="Smith, Devon rush for 7 yards to the AKRON5 (WALLER, Manley)." newcontext="H,2,3,V05">
+    <p_ru vh="H" name="Smith, Devon" gain="7"></p_ru>
+    <p_tk vh="V" name="WALLER, Manley"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="3" spot="AKRON05" context="H,2,3,V05" playid="1,7,10" type="R" first="R" score="Y" clock="11:18" text="Royster, Evan rush for 5 yards to the AKRON0, 1ST DOWN PSU, TOUCHDOWN, clock 11:18." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Royster, Evan" gain="5"></p_ru>
+   </play>
+   <play hasball="PSU" down="1" togo="0" spot="AKRON03" context="H,1,0,V03" playid="1,8,11" type="X" score="Y" text="Wagner, Collin kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Wagner, Collin" qb="Wagner, Collin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="7" yards="84" top="3:42" driveindex="1" complete="Y"></drivesum>
+   <play hasball="PSU" down="1" togo="0" spot="PSU30" context="H,1,0,H30" playid="1,9,12" type="K" text="Wagner, Collin kickoff 70 yards to the AKRON0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Wagner, Collin" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,11:18" vh="V" spot="V20" clock="11:18" driveindex="2,12"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON20" context="V,1,10,V20" playid="2,1,13" clock="11:18" text="AKRON drive start at 11:18." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON20" context="V,1,10,V20" playid="2,2,14" type="R" text="SHUFORD, Norman rush for loss of 3 yards to the AKRON17 (Ogbu, Ollie)." newcontext="V,2,13,V17">
+    <p_ru vh="V" name="SHUFORD, Norman" gain="-3"></p_ru>
+    <p_tk vh="H" name="Ogbu, Ollie" tfl="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="13" spot="AKRON17" context="V,2,13,V17" playid="2,3,15" type="R" text="ALLEN, Alex rush for loss of 4 yards to the AKRON13 (Crawford, Jack)." newcontext="V,3,17,V13">
+    <p_ru vh="V" name="ALLEN, Alex" gain="-4"></p_ru>
+    <p_tk vh="H" name="Crawford, Jack" tfl="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="3" togo="17" spot="AKRON13" context="V,3,17,V13" playid="2,4,16" type="P" text="JACQUEMAIN, C. pass incomplete to SHUFORD, Norman." newcontext="V,4,17,V13">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="INC" rcv="SHUFORD, Norman"></p_pa>
+   </play>
+   <play hasball="AKRON" down="4" togo="17" spot="AKRON13" context="V,4,17,V13" playid="2,5,17" type="U" text="STEC, Jon punt 44 yards to the PSU43, fair catch by Royster, Evan." newcontext="H,1,10,H43">
+    <p_pu vh="V" name="STEC, Jon" gain="44" fc="Royster, Evan"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-7" top="1:36" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H43,11:18" vh="H" spot="H43" clock="11:18" driveindex="3,17"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU43" context="H,1,10,H43" playid="3,1,18" clock="09:42" text="PENN STATE drive start at 09:42." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU43" context="H,1,10,H43" playid="3,2,19" type="P" text="Clark, Daryll pass complete to Powell, Chaz for 8 yards to the AKRON49, out-of-bounds (WAGNER, Brian)." ob="Y" newcontext="H,2,2,V49">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Powell, Chaz" gain="8"></p_pa>
+    <p_tk vh="V" name="WAGNER, Brian"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="2" spot="AKRON49" context="H,2,2,V49" playid="3,3,20" type="R" first="R" text="Suhey, Joe rush for 4 yards to the AKRON45, 1ST DOWN PSU (THOMAS, Mike)." newcontext="H,1,10,V45">
+    <p_ru vh="H" name="Suhey, Joe" gain="4"></p_ru>
+    <p_tk vh="V" name="THOMAS, Mike"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON45" context="H,1,10,V45" playid="3,4,21" type="P" text="Clark, Daryll pass incomplete to Quarless, A. (THOMAS, Mike)." newcontext="H,2,10,V45">
+    <p_pa vh="H" qb="Clark, Daryll" result="INC" rcv="Quarless, A."></p_pa>
+    <p_bu vh="V" name="THOMAS, Mike"></p_bu>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="AKRON45" context="H,2,10,V45" playid="3,5,22" type="R" text="Royster, Evan rush for 4 yards to the AKRON41 (COBHAM, Wayne;JONES, Andre)." newcontext="H,3,6,V41">
+    <p_ru vh="H" name="Royster, Evan" gain="4"></p_ru>
+    <p_tk vh="V" name="COBHAM, Wayne" assist="Y"></p_tk>
+    <p_tk vh="V" name="JONES, Andre" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="6" spot="AKRON41" context="H,3,6,V41" playid="3,6,23" type="P" text="Clark, Daryll pass incomplete to Shuler, Mickey (WAGNER, Brian)." newcontext="H,4,6,V41">
+    <p_pa vh="H" qb="Clark, Daryll" result="INC" rcv="Shuler, Mickey"></p_pa>
+    <p_bu vh="V" name="WAGNER, Brian"></p_bu>
+   </play>
+   <play hasball="PSU" down="4" togo="6" spot="AKRON41" context="H,4,6,V41" playid="3,7,24" type="U" text="Boone, Jeremy punt 39 yards to the AKRON2, downed." newcontext="V,1,10,V02">
+    <p_pu vh="H" name="Boone, Jeremy" gain="39" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="16" top="1:49" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,V02,09:42" vh="V" spot="V02" clock="09:42" driveindex="4,24"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON02" context="V,1,10,V02" playid="4,1,25" clock="07:53" text="AKRON drive start at 07:53." newcontext="V,1,10,V02">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON02" context="V,1,10,V02" playid="4,2,26" type="R" text="SHUFORD, Norman rush for loss of 1 yard to the AKRON1 (Lee, Sean)." newcontext="V,2,11,V01">
+    <p_ru vh="V" name="SHUFORD, Norman" gain="-1"></p_ru>
+    <p_tk vh="H" name="Lee, Sean" tfl="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="11" spot="AKRON01" context="V,2,11,V01" playid="4,3,27" type="P" text="JACQUEMAIN, C. pass incomplete to BOWSER, Deryn (Lynn, D'Anton)." newcontext="V,3,11,V01">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="INC" rcv="BOWSER, Deryn"></p_pa>
+    <p_bu vh="H" name="Lynn, D'Anton"></p_bu>
+   </play>
+   <play hasball="AKRON" down="3" togo="11" spot="AKRON01" context="V,3,11,V01" playid="4,4,28" type="R" text="SHUFORD, Norman rush for 2 yards to the AKRON3 (Lee, Sean)." newcontext="V,4,9,V03">
+    <p_ru vh="V" name="SHUFORD, Norman" gain="2"></p_ru>
+    <p_tk vh="H" name="Lee, Sean"></p_tk>
+   </play>
+   <play hasball="AKRON" down="4" togo="9" spot="AKRON03" context="V,4,9,V03" playid="4,5,29" type="U" text="STEC, Jon punt 40 yards to the AKRON43, Royster, Evan return 2 yards to the AKRON41 (TUZZE, Joe;COBHAM, Wayne), PENALTY AKRON personal foul 15 yards to the AKRON26, 1st and 10, PSU ball on AKRON26." newcontext="H,1,10,V26">
+    <p_pu vh="V" name="STEC, Jon" gain="40"></p_pu>
+    <p_pr vh="H" name="Royster, Evan" gain="2"></p_pr>
+    <p_tk vh="V" name="TUZZE, Joe" assist="Y"></p_tk>
+    <p_tk vh="V" name="COBHAM, Wayne" assist="Y"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" result="ACCEPT" at="V41" yards="15"></p_pn>
+   </play>
+   <drivesum plays="3" yards="1" top="1:40" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="H,V26,07:53" vh="H" spot="V26" clock="07:53" driveindex="5,29"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON26" context="H,1,10,V26" playid="5,1,30" clock="06:13" text="PENN STATE drive start at 06:13." newcontext="H,1,10,V26">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON26" context="H,1,10,V26" playid="5,2,31" type="P" text="Clark, Daryll pass complete to Green, Stephfon for 9 yards to the AKRON17 (THOMAS, Mike;HAZIME, Hasan)." newcontext="H,2,1,V17">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Green, Stephfon" gain="9"></p_pa>
+    <p_tk vh="V" name="THOMAS, Mike" assist="Y"></p_tk>
+    <p_tk vh="V" name="HAZIME, Hasan" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="1" spot="AKRON17" context="H,2,1,V17" playid="5,3,32" type="R" first="R" text="Green, Stephfon rush for 9 yards to the AKRON8, 1ST DOWN PSU (CAMPBELL, Tyler)." newcontext="H,1,0,V08">
+    <p_ru vh="H" name="Green, Stephfon" gain="9"></p_ru>
+    <p_tk vh="V" name="CAMPBELL, Tyler"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="0" spot="AKRON08" context="H,1,0,V08" playid="5,4,33" type="R" text="Green, Stephfon rush for 3 yards to the AKRON5 (HAZIME, Hasan;ODOFIN, Deni)." newcontext="H,2,0,V05">
+    <p_ru vh="H" name="Green, Stephfon" gain="3"></p_ru>
+    <p_tk vh="V" name="HAZIME, Hasan" assist="Y"></p_tk>
+    <p_tk vh="V" name="ODOFIN, Deni" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="0" spot="AKRON05" context="H,2,0,V05" playid="5,5,34" type="R" text="Green, Stephfon rush for loss of 3 yards to the AKRON8 (HAZIME, Hasan;WAGNER, Brian)." newcontext="H,3,0,V08">
+    <p_ru vh="H" name="Green, Stephfon" gain="-3"></p_ru>
+    <p_tk vh="V" name="HAZIME, Hasan" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="WAGNER, Brian" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="0" spot="AKRON08" context="H,3,0,V08" playid="5,6,35" type="P" score="Y" clock="03:43" text="Clark, Daryll pass complete to Powell, Chaz for 8 yards to the AKRON0, TOUCHDOWN, clock 03:43." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Powell, Chaz" gain="8"></p_pa>
+   </play>
+   <play hasball="PSU" down="1" togo="0" spot="AKRON03" context="H,1,0,V03" playid="5,7,36" type="X" score="Y" text="Wagner, Collin kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Wagner, Collin" qb="Wagner, Collin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="14"></score>
+   <drivesum plays="5" yards="26" top="2:30" driveindex="5" complete="Y"></drivesum>
+   <play hasball="PSU" down="1" togo="0" spot="PSU30" context="H,1,0,H30" playid="5,8,37" type="K" text="Wagner, Collin kickoff 67 yards to the AKRON3, MILLER, Dashan return 23 yards to the AKRON26 (Jeffries, C.)." newcontext="V,1,10,V26">
+    <p_ko vh="H" name="Wagner, Collin" gain="67"></p_ko>
+    <p_kr vh="V" name="MILLER, Dashan" gain="23"></p_kr>
+    <p_tk vh="H" name="Jeffries, C."></p_tk>
+   </play>
+   <drivestart poss="V,V26,03:43" vh="V" spot="V26" clock="03:43" driveindex="6,37"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON26" context="V,1,10,V26" playid="6,1,38" clock="03:36" text="AKRON drive start at 03:36." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON26" context="V,1,10,V26" playid="6,2,39" type="P" text="JACQUEMAIN, C. pass complete to ALLEN, Alex for 4 yards to the AKRON30, out-of-bounds (Timmons, K.)." ob="Y" newcontext="V,2,6,V30">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="ALLEN, Alex" gain="4"></p_pa>
+    <p_tk vh="H" name="Timmons, K."></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="6" spot="AKRON30" context="V,2,6,V30" playid="6,3,40" type="E" text="PENALTY AKRON false start 5 yards to the AKRON25." newcontext="V,2,11,V25">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V30" yards="5"></p_pn>
+   </play>
+   <play hasball="AKRON" down="2" togo="11" spot="AKRON25" context="V,2,11,V25" playid="6,4,41" type="P" text="JACQUEMAIN, C. sacked for loss of 4 yards to the AKRON21 (Crawford, Jack)." newcontext="V,3,15,V21">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="SACK" gain="-4"></p_pa>
+    <p_tk vh="H" name="Crawford, Jack" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="3" togo="15" spot="AKRON21" context="V,3,15,V21" playid="6,5,42" type="P" turnover="I" text="JACQUEMAIN, C. pass intercepted by Dailey, Andrew at the AKRON38, Dailey, Andrew return 12 yards to the AKRON26 (LaFRANCE, J.)." newcontext="H,1,10,V26">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="INT"></p_pa>
+    <p_ir vh="H" name="Dailey, Andrew" at="V38" gain="12"></p_ir>
+    <p_tk vh="V" name="LaFRANCE, J."></p_tk>
+   </play>
+   <drivesum plays="3" yards="-5" top="1:35" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,V26,03:36" vh="H" spot="V26" clock="03:36" driveindex="7,42"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON26" context="H,1,10,V26" playid="7,1,43" clock="02:01" text="PENN STATE drive start at 02:01." newcontext="H,1,10,V26">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON26" context="H,1,10,V26" playid="7,2,44" type="P" first="P" text="Clark, Daryll pass complete to Smith, Devon for 18 yards to the AKRON8, 1ST DOWN PSU, out-of-bounds (WALLER, Manley)." ob="Y" newcontext="H,1,0,V08">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Smith, Devon" gain="18"></p_pa>
+    <p_tk vh="V" name="WALLER, Manley"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="0" spot="AKRON08" context="H,1,0,V08" playid="7,3,45" type="P" turnover="I" text="Clark, Daryll pass intercepted by THOMAS, Mike at the AKRON4, THOMAS, Mike return 0 yards to the AKRON4." newcontext="V,1,10,V04">
+    <p_pa vh="H" qb="Clark, Daryll" result="INT"></p_pa>
+    <p_ir vh="V" name="THOMAS, Mike" at="V04" gain="0"></p_ir>
+   </play>
+   <drivesum plays="2" yards="18" top="0:39" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="V,V04,02:01" vh="V" spot="V04" clock="02:01" driveindex="8,45"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON04" context="V,1,10,V04" playid="8,1,46" clock="01:22" text="AKRON drive start at 01:22." newcontext="V,1,10,V04">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON04" context="V,1,10,V04" playid="8,2,47" type="P" text="JACQUEMAIN, C. pass complete to MILLER, Dashan for 8 yards to the AKRON12 (Smith, Devon)." newcontext="V,2,2,V12">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="MILLER, Dashan" gain="8"></p_pa>
+    <p_tk vh="H" name="Smith, Devon"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="2" spot="AKRON12" context="V,2,2,V12" playid="8,3,48" type="R" text="SHUFORD, Norman rush for loss of 5 yards to the AKRON7 (Hayes, Jerome)." newcontext="V,3,7,V07">
+    <p_ru vh="V" name="SHUFORD, Norman" gain="-5"></p_ru>
+    <p_tk vh="H" name="Hayes, Jerome" tfl="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="3" togo="7" spot="AKRON07" context="V,3,7,V07" playid="8,4,49" type="P" text="JACQUEMAIN, C. pass incomplete to BOWSER, Deryn (Wallace, A.J.)." newcontext="V,4,7,V07">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="INC" rcv="BOWSER, Deryn"></p_pa>
+    <p_bu vh="H" name="Wallace, A.J."></p_bu>
+   </play>
+   <play hasball="AKRON" down="4" togo="7" spot="AKRON07" context="V,4,7,V07" playid="8,5,50" type="U" text="STEC, Jon punt 32 yards to the AKRON39, fair catch by Zug, Graham." newcontext="H,1,10,V39">
+    <p_pu vh="V" name="STEC, Jon" gain="32" fc="Zug, Graham"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="1:11" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,V39,01:22" vh="H" spot="V39" clock="01:22" driveindex="9,50"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON39" context="H,1,10,V39" playid="9,1,51" clock="00:11" text="PENN STATE drive start at 00:11." newcontext="H,1,10,V39">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON39" context="H,1,10,V39" playid="9,2,52" type="P" first="P" text="Clark, Daryll pass complete to Powell, Chaz for 14 yards to the AKRON25, 1ST DOWN PSU (WALLER, Manley)." newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Powell, Chaz" gain="14"></p_pa>
+    <p_tk vh="V" name="WALLER, Manley"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="AKRON">
+    <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+    <penalties no="2" yds="20"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:09"></misc>
+    <rush att="6" yds="-15" gain="2" loss="17" td="0" long="2"></rush>
+    <pass comp="2" att="6" int="1" yds="12" td="0" long="8" sacks="1" sackyds="4"></pass>
+    <rcv no="2" yds="12" td="0" long="8"></rcv>
+    <punt no="3" yds="116" long="44" blkd="0" tb="0" fc="2" plus50="0" inside20="0" avg="38.7"></punt>
+    <ko no="1" yds="64" ob="0" tb="0"></ko>
+    <defense tackua="13" tacka="10" tot_tack="23" tflua="2" tfla="0" tflyds="6" sacks="0" sackyds="0" brup="2" int="1" intyds="0"></defense>
+    <kr no="1" yds="23" td="0" long="23"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+   </qtrsummary>
+   <qtrsummary vh="H" id="PSU">
+    <firstdowns no="8" rush="3" pass="5" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:51"></misc>
+    <rush att="9" yds="34" gain="37" loss="3" td="1" long="9"></rush>
+    <pass comp="8" att="11" int="1" yds="124" td="1" long="36" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="124" td="1" long="36"></rcv>
+    <punt no="1" yds="39" long="39" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="39.0"></punt>
+    <ko no="2" yds="137" ob="0" tb="1"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="9" tacka="0" tot_tack="9" tflua="5" tfla="0" tflyds="17" sacks="1" sackyds="4" brup="2" int="1" intyds="12"></defense>
+    <kr no="1" yds="20" td="0" long="20"></kr>
+    <pr no="1" yds="2" td="0" long="2"></pr>
+    <ir no="1" yds="12" td="0" long="12"></ir>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="PSU" down="1" togo="10" spot="AKRON25" context="H,1,10,V25" playid="9,3,53" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,1,10,V25">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON25" context="H,1,10,V25" playid="9,4,54" type="R" first="R" text="Royster, Evan rush for 10 yards to the AKRON15, 1ST DOWN PSU (;JONES, Andre)." newcontext="H,1,10,V15">
+    <p_ru vh="H" name="Royster, Evan" gain="10"></p_ru>
+    <p_tk vh="V" name="JONES, Andre" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON15" context="H,1,10,V15" playid="9,5,55" type="R" text="Royster, Evan rush for 5 yards to the AKRON10 (WAGNER, Brian)." newcontext="H,2,5,V10">
+    <p_ru vh="H" name="Royster, Evan" gain="5"></p_ru>
+    <p_tk vh="V" name="WAGNER, Brian"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="5" spot="AKRON10" context="H,2,5,V10" playid="9,6,56" type="R" text="Suhey, Joe rush for no gain to the AKRON10 (WILLIAMS, Aaron;HARVEY, James)." newcontext="H,3,5,V10">
+    <p_ru vh="H" name="Suhey, Joe" gain="0"></p_ru>
+    <p_tk vh="V" name="WILLIAMS, Aaron" assist="Y"></p_tk>
+    <p_tk vh="V" name="HARVEY, James" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="5" spot="AKRON10" context="H,3,5,V10" playid="9,7,57" type="P" text="Clark, Daryll pass incomplete to Moye, Derek." newcontext="H,4,5,V10">
+    <p_pa vh="H" qb="Clark, Daryll" result="INC" rcv="Moye, Derek"></p_pa>
+   </play>
+   <play hasball="PSU" down="4" togo="5" spot="AKRON10" context="H,4,5,V10" playid="9,8,58" type="F" clock="13:01" text="Wagner, Collin field goal attempt from 28 MISSED - wide right, spot at AKRON20, clock 13:01." newcontext="V,1,10,V20">
+    <p_fg vh="H" name="Wagner, Collin" distance="28" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="6" yards="29" top="2:10" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V20,13:01" vh="V" spot="V20" clock="13:01" driveindex="10,58"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON20" context="V,1,10,V20" playid="10,1,59" clock="13:01" text="AKRON drive start at 13:01." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON20" context="V,1,10,V20" playid="10,2,60" type="R" text="ALLEN, Alex rush for loss of 3 yards to the AKRON17 (Odrick, Jared)." newcontext="V,2,13,V17">
+    <p_ru vh="V" name="ALLEN, Alex" gain="-3"></p_ru>
+    <p_tk vh="H" name="Odrick, Jared" tfl="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="13" spot="AKRON17" context="V,2,13,V17" playid="10,3,61" type="E" text="PENALTY AKRON holding 9 yards to the AKRON8." newcontext="V,2,22,V08">
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="V17" yards="9"></p_pn>
+   </play>
+   <play hasball="AKRON" down="2" togo="22" spot="AKRON08" context="V,2,22,V08" playid="10,4,62" type="R" text="ALLEN, Alex rush for 12 yards to the AKRON20, out-of-bounds (Wallace, A.J.)." ob="Y" newcontext="V,3,10,V20">
+    <p_ru vh="V" name="ALLEN, Alex" gain="12"></p_ru>
+    <p_tk vh="H" name="Wallace, A.J."></p_tk>
+   </play>
+   <play hasball="AKRON" down="3" togo="10" spot="AKRON20" context="V,3,10,V20" playid="10,5,63" type="P" text="RODGERS, Matt sacked for loss of 4 yards to the AKRON16 (Odrick, Jared;Latham, Kevion)." newcontext="V,4,14,V16">
+    <p_pa vh="V" qb="RODGERS, Matt" result="SACK" gain="-4"></p_pa>
+    <p_tk vh="H" name="Odrick, Jared" sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Latham, Kevion" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="4" togo="14" spot="AKRON16" context="V,4,14,V16" playid="10,6,64" type="U" text="STEC, Jon punt 40 yards to the PSU44, fair catch by Royster, Evan." newcontext="H,1,10,H44">
+    <p_pu vh="V" name="STEC, Jon" gain="40" fc="Royster, Evan"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-4" top="2:16" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H44,13:01" vh="H" spot="H44" clock="13:01" driveindex="11,64"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU44" context="H,1,10,H44" playid="11,1,65" clock="10:45" text="PENN STATE drive start at 10:45." newcontext="H,1,10,H44">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU44" context="H,1,10,H44" playid="11,2,66" type="R" text="Royster, Evan rush for 1 yard to the PSU45 (CAMPBELL, Tyler;HARVEY, James)." newcontext="H,2,9,H45">
+    <p_ru vh="H" name="Royster, Evan" gain="1"></p_ru>
+    <p_tk vh="V" name="CAMPBELL, Tyler" assist="Y"></p_tk>
+    <p_tk vh="V" name="HARVEY, James" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="9" spot="PSU45" context="H,2,9,H45" playid="11,3,67" type="P" text="Clark, Daryll pass complete to Royster, Evan for 2 yards to the PSU47 (FOBBS, Sean)." newcontext="H,3,7,H47">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Royster, Evan" gain="2"></p_pa>
+    <p_tk vh="V" name="FOBBS, Sean"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="7" spot="PSU47" context="H,3,7,H47" playid="11,4,68" type="P" text="Clark, Daryll sacked for loss of 5 yards to the PSU42 (MARCOUX, Dan)." newcontext="H,4,12,H42">
+    <p_pa vh="H" qb="Clark, Daryll" result="SACK" gain="-5"></p_pa>
+    <p_tk vh="V" name="MARCOUX, Dan" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="4" togo="12" spot="PSU42" context="H,4,12,H42" playid="11,5,69" type="R" first="R" text="Dailey, Andrew rush for 37 yards to the AKRON21, 1ST DOWN PSU (GRAHAM, Miguel;WEAVER, Diamond)." newcontext="H,1,10,V21">
+    <p_ru vh="H" name="Dailey, Andrew" gain="37"></p_ru>
+    <p_tk vh="V" name="GRAHAM, Miguel" assist="Y"></p_tk>
+    <p_tk vh="V" name="WEAVER, Diamond" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON21" context="H,1,10,V21" playid="11,6,70" type="E" text="PENALTY PSU OF 5 yards to the AKRON26." newcontext="H,1,15,V26">
+    <p_pn vh="H" code="OF" type="OF" result="ACCEPT" at="V21" yards="5"></p_pn>
+   </play>
+   <play hasball="PSU" down="1" togo="15" spot="AKRON26" context="H,1,15,V26" playid="11,7,71" type="P" text="Clark, Daryll pass incomplete to Zug, Graham." newcontext="H,2,15,V26">
+    <p_pa vh="H" qb="Clark, Daryll" result="INC" rcv="Zug, Graham"></p_pa>
+   </play>
+   <play hasball="PSU" down="2" togo="15" spot="AKRON26" context="H,2,15,V26" playid="11,8,72" type="R" text="Royster, Evan rush for 7 yards to the AKRON19 (GRAHAM, Miguel)." newcontext="H,3,8,V19">
+    <p_ru vh="H" name="Royster, Evan" gain="7"></p_ru>
+    <p_tk vh="V" name="GRAHAM, Miguel"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="8" spot="AKRON19" context="H,3,8,V19" playid="11,9,73" type="P" text="Clark, Daryll pass complete to Zug, Graham for 6 yards to the AKRON13 (WALLER, Manley)." newcontext="H,4,2,V13">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Zug, Graham" gain="6"></p_pa>
+    <p_tk vh="V" name="WALLER, Manley"></p_tk>
+   </play>
+   <play hasball="PSU" down="4" togo="2" spot="AKRON13" context="H,4,2,V13" playid="11,10,74" type="F" score="Y" clock="06:15" text="Wagner, Collin field goal attempt from 29 GOOD, clock 06:15." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Wagner, Collin" distance="29" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="17"></score>
+   <drivesum plays="8" yards="43" top="4:30" driveindex="11" complete="Y"></drivesum>
+   <play hasball="PSU" down="1" togo="0" spot="PSU30" context="H,1,0,H30" playid="11,11,75" type="K" text="Wagner, Collin kickoff 65 yards to the AKRON5, MILLER, Dashan return 21 yards to the AKRON26 (Stupar, Nathan;Golarz, Tom)." newcontext="V,1,10,V26">
+    <p_ko vh="H" name="Wagner, Collin" gain="65"></p_ko>
+    <p_kr vh="V" name="MILLER, Dashan" gain="21"></p_kr>
+    <p_tk vh="H" name="Stupar, Nathan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Golarz, Tom" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V26,06:15" vh="V" spot="V26" clock="06:15" driveindex="12,75"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON26" context="V,1,10,V26" playid="12,1,76" clock="06:09" text="AKRON drive start at 06:09." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON26" context="V,1,10,V26" playid="12,2,77" type="P" text="JACQUEMAIN, C. pass incomplete to BOWSER, Deryn." newcontext="V,2,10,V26">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="INC" rcv="BOWSER, Deryn"></p_pa>
+   </play>
+   <play hasball="AKRON" down="2" togo="10" spot="AKRON26" context="V,2,10,V26" playid="12,3,78" type="P" text="JACQUEMAIN, C. pass complete to BRUCE, Jeremy for 5 yards to the AKRON31, out-of-bounds (Astorino, Drew)." ob="Y" newcontext="V,3,5,V31">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="BRUCE, Jeremy" gain="5"></p_pa>
+    <p_tk vh="H" name="Astorino, Drew"></p_tk>
+   </play>
+   <play hasball="AKRON" down="3" togo="5" spot="AKRON31" context="V,3,5,V31" playid="12,4,79" type="P" text="JACQUEMAIN, C. sacked for loss of 6 yards to the AKRON25 (Latimore, Eric)." newcontext="V,4,11,V25">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="SACK" gain="-6"></p_pa>
+    <p_tk vh="H" name="Latimore, Eric" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="4" togo="11" spot="AKRON25" context="V,4,11,V25" playid="12,5,80" type="U" text="STEC, Jon punt 32 yards to the PSU43, fair catch by Zug, Graham." newcontext="H,1,10,H43">
+    <p_pu vh="V" name="STEC, Jon" gain="32" fc="Zug, Graham"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-1" top="1:23" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H43,06:09" vh="H" spot="H43" clock="06:09" driveindex="13,80"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU43" context="H,1,10,H43" playid="13,1,81" clock="04:46" text="PENN STATE drive start at 04:46." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU43" context="H,1,10,H43" playid="13,2,82" type="P" first="P" text="Clark, Daryll pass complete to Moye, Derek for 13 yards to the AKRON44, 1ST DOWN PSU (GRAHAM, Miguel)." newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Moye, Derek" gain="13"></p_pa>
+    <p_tk vh="V" name="GRAHAM, Miguel"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON44" context="H,1,10,V44" playid="13,3,83" type="P" text="Clark, Daryll pass incomplete to Moye, Derek (GRAHAM, Miguel)." newcontext="H,2,10,V44">
+    <p_pa vh="H" qb="Clark, Daryll" result="INC" rcv="Moye, Derek"></p_pa>
+    <p_bu vh="V" name="GRAHAM, Miguel"></p_bu>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="AKRON44" context="H,2,10,V44" playid="13,4,84" type="P" first="P" text="Clark, Daryll pass complete to Powell, Chaz for 12 yards to the AKRON32, 1ST DOWN PSU (THOMAS, Mike)." newcontext="H,1,10,V32">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Powell, Chaz" gain="12"></p_pa>
+    <p_tk vh="V" name="THOMAS, Mike"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON32" context="H,1,10,V32" playid="13,5,85" type="R" text="Green, Stephfon rush for 3 yards to the AKRON29 (JONES, Andre)." newcontext="H,2,7,V29">
+    <p_ru vh="H" name="Green, Stephfon" gain="3"></p_ru>
+    <p_tk vh="V" name="JONES, Andre"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="7" spot="AKRON29" context="H,2,7,V29" playid="13,6,86" type="P" text="Clark, Daryll pass incomplete to Powell, Chaz." newcontext="H,3,7,V29">
+    <p_pa vh="H" qb="Clark, Daryll" result="INC" rcv="Powell, Chaz"></p_pa>
+   </play>
+   <play hasball="PSU" down="3" togo="7" spot="AKRON29" context="H,3,7,V29" playid="13,7,87" type="P" first="P" text="Clark, Daryll pass complete to Powell, Chaz for 9 yards to the AKRON20, 1ST DOWN PSU." newcontext="H,1,10,V20">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Powell, Chaz" gain="9"></p_pa>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON20" context="H,1,10,V20" playid="13,8,88" type="R" text="Green, Stephfon rush for loss of 2 yards to the AKRON22 (THOMAS, Mike;WILLIAMS, Aaron)." newcontext="H,2,12,V22">
+    <p_ru vh="H" name="Green, Stephfon" gain="-2"></p_ru>
+    <p_tk vh="V" name="THOMAS, Mike" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="WILLIAMS, Aaron" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="12" spot="AKRON22" context="H,2,12,V22" playid="13,9,89" type="P" text="Clark, Daryll pass incomplete to Smith, Devon." newcontext="H,3,12,V22">
+    <p_pa vh="H" qb="Clark, Daryll" result="INC" rcv="Smith, Devon"></p_pa>
+   </play>
+   <play hasball="PSU" down="3" togo="12" spot="AKRON22" context="H,3,12,V22" playid="13,10,90" type="P" first="P" score="Y" clock="01:33" text="Clark, Daryll pass complete to Moye, Derek for 22 yards to the AKRON0, 1ST DOWN PSU, TOUCHDOWN, clock 01:33." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Moye, Derek" gain="22"></p_pa>
+   </play>
+   <play hasball="PSU" down="1" togo="0" spot="AKRON03" context="H,1,0,V03" playid="13,11,91" type="X" score="Y" text="Wagner, Collin kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Wagner, Collin" qb="Wagner, Collin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="24"></score>
+   <drivesum plays="9" yards="57" top="3:13" driveindex="13" complete="Y"></drivesum>
+   <play hasball="PSU" down="1" togo="0" spot="PSU30" context="H,1,0,H30" playid="13,12,92" type="K" text="Wagner, Collin kickoff 70 yards to the AKRON0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Wagner, Collin" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,01:33" vh="V" spot="V20" clock="01:33" driveindex="14,92"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON20" context="V,1,10,V20" playid="14,1,93" clock="01:33" text="AKRON drive start at 01:33." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON20" context="V,1,10,V20" playid="14,2,94" type="R" text="SHUFORD, Norman rush for loss of 3 yards to the AKRON17 (Odrick, Jared;Hayes, Jerome)." newcontext="V,2,13,V17">
+    <p_ru vh="V" name="SHUFORD, Norman" gain="-3"></p_ru>
+    <p_tk vh="H" name="Odrick, Jared" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hayes, Jerome" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="13" spot="AKRON17" context="V,2,13,V17" playid="14,3,95" type="#" clock="01:28" text="Timeout Penn State, clock 01:28." newcontext="V,2,13,V17">
+    <p_to vh="H" team="Penn State"></p_to>
+   </play>
+   <play hasball="AKRON" down="2" togo="13" spot="AKRON17" context="V,2,13,V17" playid="14,4,96" type="R" text="ALLEN, Alex rush for 4 yards to the AKRON21, out-of-bounds (Stupar, Nathan)." ob="Y" newcontext="V,3,9,V21">
+    <p_ru vh="V" name="ALLEN, Alex" gain="4"></p_ru>
+    <p_tk vh="H" name="Stupar, Nathan"></p_tk>
+   </play>
+   <play hasball="AKRON" down="3" togo="9" spot="AKRON21" context="V,3,9,V21" playid="14,5,97" type="P" text="JACQUEMAIN, C. pass complete to BRUCE, Jeremy for 8 yards to the AKRON29 (Lee, Sean)." newcontext="V,4,1,V29">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="BRUCE, Jeremy" gain="8"></p_pa>
+    <p_tk vh="H" name="Lee, Sean"></p_tk>
+   </play>
+   <play hasball="AKRON" down="4" togo="1" spot="AKRON29" context="V,4,1,V29" playid="14,6,98" type="#" clock="01:13" text="Timeout Penn State, clock 01:13." newcontext="V,4,1,V29">
+    <p_to vh="H" team="Penn State"></p_to>
+   </play>
+   <play hasball="AKRON" down="4" togo="1" spot="AKRON29" context="V,4,1,V29" playid="14,7,99" type="U" text="STEC, Jon punt 37 yards to the PSU34, fair catch by Astorino, Drew." newcontext="H,1,10,H34">
+    <p_pu vh="V" name="STEC, Jon" gain="37" fc="Astorino, Drew"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="0:26" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,H34,01:13" vh="H" spot="H34" clock="01:13" driveindex="15,99"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU34" context="H,1,10,H34" playid="15,1,100" clock="01:07" text="PENN STATE drive start at 01:07." newcontext="H,1,10,H34">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU34" context="H,1,10,H34" playid="15,2,101" type="P" first="P" text="Clark, Daryll pass complete to Moye, Derek for 42 yards to the AKRON24, 1ST DOWN PSU (CAMPBELL, Tyler)." newcontext="H,1,10,V24">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Moye, Derek" gain="42"></p_pa>
+    <p_tk vh="V" name="CAMPBELL, Tyler"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON24" context="H,1,10,V24" playid="15,3,102" type="P" text="Clark, Daryll pass complete to Moye, Derek for 5 yards to the AKRON19 (WALLER, Manley)." newcontext="H,2,5,V19">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Moye, Derek" gain="5"></p_pa>
+    <p_tk vh="V" name="WALLER, Manley"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="5" spot="AKRON19" context="H,2,5,V19" playid="15,4,103" type="#" clock="00:36" text="Timeout Penn State, clock 00:36." newcontext="H,2,5,V19">
+    <p_to vh="H" team="Penn State"></p_to>
+   </play>
+   <play hasball="PSU" down="2" togo="5" spot="AKRON19" context="H,2,5,V19" playid="15,5,104" type="P" first="P" score="Y" clock="00:30" text="Clark, Daryll pass complete to Zug, Graham for 19 yards to the AKRON0, 1ST DOWN PSU, TOUCHDOWN, clock 00:30." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Zug, Graham" gain="19"></p_pa>
+   </play>
+   <play hasball="PSU" down="1" togo="0" spot="AKRON03" context="H,1,0,V03" playid="15,6,105" type="X" score="Y" text="Wagner, Collin kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Wagner, Collin" qb="Wagner, Collin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="31"></score>
+   <drivesum plays="3" yards="66" top="0:37" driveindex="15" complete="Y"></drivesum>
+   <play hasball="PSU" down="1" togo="0" spot="PSU30" context="H,1,0,H30" playid="15,7,106" type="K" text="Wagner, Collin kickoff 66 yards to the AKRON4, MILLER, Dashan return 8 yards to the AKRON12 (Stupar, Nathan)." newcontext="V,1,10,V12">
+    <p_ko vh="H" name="Wagner, Collin" gain="66"></p_ko>
+    <p_kr vh="V" name="MILLER, Dashan" gain="8"></p_kr>
+    <p_tk vh="H" name="Stupar, Nathan"></p_tk>
+   </play>
+   <drivestart poss="V,V12,00:30" vh="V" spot="V12" clock="00:30" driveindex="16,106"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON12" context="V,1,10,V12" playid="16,1,107" clock="00:25" text="AKRON drive start at 00:25." newcontext="V,1,10,V12">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON12" context="V,1,10,V12" playid="16,2,108" type="R" text="TEAM rush for loss of 2 yards to the AKRON10." newcontext="V,2,12,V10">
+    <p_ru vh="V" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="AKRON" down="2" togo="12" spot="AKRON10" context="V,2,12,V10" playid="16,3,109" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,2,12,V10">
+   </play>
+   <drivesum plays="1" yards="-2" top="0:25" driveindex="16" complete="Y"></drivesum>
+   <score qtr="2" V="0" H="31"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="AKRON">
+    <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="9"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:41"></misc>
+    <rush att="7" yds="-2" gain="16" loss="18" td="0" long="10"></rush>
+    <pass comp="2" att="3" int="0" yds="13" td="0" long="0" sacks="2" sackyds="10"></pass>
+    <rcv no="2" yds="13" td="0" long="0"></rcv>
+    <punt no="3" yds="109" long="0" blkd="0" tb="0" fc="3" plus50="0" inside20="0" avg="36.3"></punt>
+    <defense tackua="10" tacka="9" tot_tack="19" tflua="3" tfla="0" tflyds="9" sacks="1" sackyds="5" brup="1"></defense>
+    <kr no="2" yds="29" td="0" long="0"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="PSU">
+    <firstdowns no="8" rush="2" pass="6" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:19"></misc>
+    <rush att="9" yds="56" gain="63" loss="7" td="0" long="28"></rush>
+    <pass comp="9" att="14" int="0" yds="130" td="2" long="6" sacks="1" sackyds="5"></pass>
+    <rcv no="9" yds="130" td="2" long="6"></rcv>
+    <ko no="3" yds="201" ob="0" tb="1"></ko>
+    <fg made="1" att="2" long="29" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="7" tacka="6" tot_tack="13" tflua="6" tfla="0" tflyds="23" sacks="3" sackyds="14"></defense>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="AKRON" down="2" togo="12" spot="AKRON10" context="V,2,12,V10" playid="16,4,110" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, PSU ball on PSU30." newcontext="H,2,12,H30">
+   </play>
+   <play hasball="PSU" down="2" togo="12" spot="PSU30" context="H,2,12,H30" playid="16,5,111" type="K" text="Wagner, Collin kickoff 69 yards to the AKRON1, CARTER, Jalil return 42 yards to the AKRON43 (Stankiewitch, M)." newcontext="V,1,10,V43">
+    <p_ko vh="H" name="Wagner, Collin" gain="69"></p_ko>
+    <p_kr vh="V" name="CARTER, Jalil" gain="42"></p_kr>
+    <p_tk vh="H" name="Stankiewitch, M"></p_tk>
+   </play>
+   <drivestart poss="V,V43,15:00" vh="V" spot="V43" clock="15:00" driveindex="17,111"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON43" context="V,1,10,V43" playid="17,1,112" clock="14:51" text="AKRON drive start at 14:51." newcontext="V,1,10,V43">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON43" context="V,1,10,V43" playid="17,2,113" type="R" text="ALLEN, Alex rush for loss of 2 yards to the AKRON41 (Ogbu, Ollie;Hull, Josh)." newcontext="V,2,12,V41">
+    <p_ru vh="V" name="ALLEN, Alex" gain="-2"></p_ru>
+    <p_tk vh="H" name="Ogbu, Ollie" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hull, Josh" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="12" spot="AKRON41" context="V,2,12,V41" playid="17,3,114" type="P" first="P" text="JACQUEMAIN, C. pass complete to BRUCE, Jeremy for 17 yards to the PSU42, 1ST DOWN AKRON (Stupar, Nathan;TEAM)." newcontext="V,1,10,H42">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="BRUCE, Jeremy" gain="17"></p_pa>
+    <p_tk vh="H" name="Stupar, Nathan" assist="Y"></p_tk>
+    <p_tk vh="H" name="TEAM" assist="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="PSU42" context="V,1,10,H42" playid="17,4,115" type="R" text="ALLEN, Alex rush for loss of 3 yards to the PSU45 (Lee, Sean)." newcontext="V,2,13,H45">
+    <p_ru vh="V" name="ALLEN, Alex" gain="-3"></p_ru>
+    <p_tk vh="H" name="Lee, Sean" tfl="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="13" spot="PSU45" context="V,2,13,H45" playid="17,5,116" type="P" first="P" text="JACQUEMAIN, C. pass complete to LaFRANCE, J. for 19 yards to the PSU26, 1ST DOWN AKRON (Timmons, K.)." newcontext="V,1,10,H26">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="LaFRANCE, J." gain="19"></p_pa>
+    <p_tk vh="H" name="Timmons, K."></p_tk>
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="PSU26" context="V,1,10,H26" playid="17,6,117" type="R" text="SHUFORD, Norman rush for 6 yards to the PSU20 (Hull, Josh)." newcontext="V,2,4,H20">
+    <p_ru vh="V" name="SHUFORD, Norman" gain="6"></p_ru>
+    <p_tk vh="H" name="Hull, Josh"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="4" spot="PSU20" context="V,2,4,H20" playid="17,7,118" type="R" text="ALLEN, Alex rush for 1 yard to the PSU19 (Lee, Sean;Ogbu, Ollie)." newcontext="V,3,3,H19">
+    <p_ru vh="V" name="ALLEN, Alex" gain="1"></p_ru>
+    <p_tk vh="H" name="Lee, Sean" assist="Y"></p_tk>
+    <p_tk vh="H" name="Ogbu, Ollie" assist="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="3" togo="3" spot="PSU19" context="V,3,3,H19" playid="17,8,119" type="P" first="P" text="JACQUEMAIN, C. pass complete to BOWSER, Deryn for 9 yards to the PSU10, 1ST DOWN AKRON (Timmons, K.)." newcontext="V,1,0,H10">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="BOWSER, Deryn" gain="9"></p_pa>
+    <p_tk vh="H" name="Timmons, K."></p_tk>
+   </play>
+   <play hasball="AKRON" down="1" togo="0" spot="PSU10" context="V,1,0,H10" playid="17,9,120" type="R" text="ALLEN, Alex rush for no gain to the PSU10 (Stupar, Nathan)." newcontext="V,2,0,H10">
+    <p_ru vh="V" name="ALLEN, Alex" gain="0"></p_ru>
+    <p_tk vh="H" name="Stupar, Nathan"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="0" spot="PSU10" context="V,2,0,H10" playid="17,10,121" type="P" text="JACQUEMAIN, C. pass incomplete to BRUCE, Jeremy (Hull, Josh)." newcontext="V,3,0,H10">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="INC" rcv="BRUCE, Jeremy"></p_pa>
+    <p_bu vh="H" name="Hull, Josh"></p_bu>
+   </play>
+   <play hasball="AKRON" down="3" togo="0" spot="PSU10" context="V,3,0,H10" playid="17,11,122" type="#" clock="10:31" text="Timeout Akron, clock 10:31." newcontext="V,3,0,H10">
+    <p_to vh="V" team="Akron"></p_to>
+   </play>
+   <play hasball="AKRON" down="3" togo="0" spot="PSU10" context="V,3,0,H10" playid="17,12,123" type="P" text="JACQUEMAIN, C. pass complete to LaFRANCE, J. for 8 yards to the PSU2." newcontext="V,4,0,H02">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="LaFRANCE, J." gain="8"></p_pa>
+   </play>
+   <play hasball="AKRON" down="4" togo="0" spot="PSU02" context="V,4,0,H02" playid="17,13,124" type="R" text="JACQUEMAIN, C. rush for 1 yard to the PSU1 (Stupar, Nathan)." newcontext="H,1,10,H01">
+    <p_ru vh="V" name="JACQUEMAIN, C." gain="1"></p_ru>
+    <p_tk vh="H" name="Stupar, Nathan"></p_tk>
+   </play>
+   <drivesum plays="11" yards="56" top="4:55" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H01,10:31" vh="H" spot="H01" clock="10:31" driveindex="18,124"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU01" context="H,1,10,H01" playid="18,1,125" clock="09:56" text="PENN STATE drive start at 09:56." newcontext="H,1,10,H01">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU01" context="H,1,10,H01" playid="18,2,126" type="R" text="Royster, Evan rush for 4 yards to the PSU5 (JONES, Andre;WAGNER, Brian)." newcontext="H,2,6,H05">
+    <p_ru vh="H" name="Royster, Evan" gain="4"></p_ru>
+    <p_tk vh="V" name="JONES, Andre" assist="Y"></p_tk>
+    <p_tk vh="V" name="WAGNER, Brian" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="6" spot="PSU05" context="H,2,6,H05" playid="18,3,127" type="R" first="R" text="Royster, Evan rush for 12 yards to the PSU17, 1ST DOWN PSU (FOBBS, Sean)." newcontext="H,1,10,H17">
+    <p_ru vh="H" name="Royster, Evan" gain="12"></p_ru>
+    <p_tk vh="V" name="FOBBS, Sean"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU17" context="H,1,10,H17" playid="18,4,128" type="P" text="Clark, Daryll pass complete to Smith, Devon for 7 yards to the PSU24 (WILLIAMS, Aaron)." newcontext="H,2,3,H24">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Smith, Devon" gain="7"></p_pa>
+    <p_tk vh="V" name="WILLIAMS, Aaron"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="3" spot="PSU24" context="H,2,3,H24" playid="18,5,129" type="R" text="Royster, Evan rush for 2 yards to the PSU26 (MARCOUX, Dan;WILLIAMS, Aaron)." newcontext="H,3,1,H26">
+    <p_ru vh="H" name="Royster, Evan" gain="2"></p_ru>
+    <p_tk vh="V" name="MARCOUX, Dan" assist="Y"></p_tk>
+    <p_tk vh="V" name="WILLIAMS, Aaron" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="1" spot="PSU26" context="H,3,1,H26" playid="18,6,130" type="P" first="P" text="Clark, Daryll pass complete to Suhey, Joe for 14 yards to the PSU40, 1ST DOWN PSU (WAGNER, Brian)." newcontext="H,1,10,H40">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Suhey, Joe" gain="14"></p_pa>
+    <p_tk vh="V" name="WAGNER, Brian"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU40" context="H,1,10,H40" playid="18,7,131" type="R" text="Clark, Daryll rush for 7 yards to the PSU47, out-of-bounds (WILLIAMS, Aaron)." ob="Y" newcontext="H,2,3,H47">
+    <p_ru vh="H" name="Clark, Daryll" gain="7"></p_ru>
+    <p_tk vh="V" name="WILLIAMS, Aaron"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="3" spot="PSU47" context="H,2,3,H47" playid="18,8,132" type="P" turnover="F" text="Clark, Daryll pass complete to Brackett, Brett for 3 yards to the 50 yardline, fumble forced by WALLER, Manley, fumble by Brackett, Brett recovered by AKRON THOMAS, Mike at PSU40." newcontext="V,1,10,H40">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Brackett, Brett" gain="3"></p_pa>
+    <p_fumb vh="H" name="Brackett, Brett" at="H40" frvh="V" frname="THOMAS, Mike"></p_fumb>
+    <p_tk vh="V" name="WALLER, Manley" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="7" yards="39" top="3:42" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="V,H40,09:56" vh="V" spot="H40" clock="09:56" driveindex="19,132"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="PSU40" context="V,1,10,H40" playid="19,1,133" clock="06:14" text="AKRON drive start at 06:14." newcontext="V,1,10,H40">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="PSU40" context="V,1,10,H40" playid="19,2,134" type="P" first="P" score="Y" clock="06:07" text="JACQUEMAIN, C. pass complete to BOWSER, Deryn for 40 yards to the PSU0, 1ST DOWN AKRON, TOUCHDOWN, clock 06:07." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="BOWSER, Deryn" gain="40"></p_pa>
+   </play>
+   <play hasball="AKRON" down="1" togo="0" spot="PSU03" context="V,1,0,H03" playid="19,3,135" type="X" score="Y" text="ROGOVIC, Branko kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="ROGOVIC, Branko" qb="ROGOVIC, Branko" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="31"></score>
+   <drivesum plays="1" yards="40" top="0:07" driveindex="19" complete="Y"></drivesum>
+   <play hasball="AKRON" down="1" togo="0" spot="AKRON30" context="V,1,0,V30" playid="19,4,136" type="K" text="ROGOVIC, Branko kickoff 67 yards to the PSU3, Smith, Devon return 23 yards to the PSU26 (WAGNER, Brian)." newcontext="H,1,10,H26">
+    <p_ko vh="V" name="ROGOVIC, Branko" gain="67"></p_ko>
+    <p_kr vh="H" name="Smith, Devon" gain="23"></p_kr>
+    <p_tk vh="V" name="WAGNER, Brian"></p_tk>
+   </play>
+   <drivestart poss="H,H26,06:07" vh="H" spot="H26" clock="06:07" driveindex="20,136"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU26" context="H,1,10,H26" playid="20,1,137" clock="06:01" text="PENN STATE drive start at 06:01." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU26" context="H,1,10,H26" playid="20,2,138" type="R" text="Royster, Evan rush for 2 yards to the PSU28 (GRAHAM, Miguel)." newcontext="H,2,8,H28">
+    <p_ru vh="H" name="Royster, Evan" gain="2"></p_ru>
+    <p_tk vh="V" name="GRAHAM, Miguel"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="8" spot="PSU28" context="H,2,8,H28" playid="20,3,139" type="P" first="P" text="Clark, Daryll pass complete to Powell, Chaz for 8 yards to the PSU36, 1ST DOWN PSU (CAMPBELL, Tyler)." newcontext="H,1,10,H36">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Powell, Chaz" gain="8"></p_pa>
+    <p_tk vh="V" name="CAMPBELL, Tyler"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU36" context="H,1,10,H36" playid="20,4,140" type="P" first="P" text="Clark, Daryll pass complete to Moye, Derek for 20 yards to the AKRON44, 1ST DOWN PSU (WAGNER, Brian)." newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Moye, Derek" gain="20"></p_pa>
+    <p_tk vh="V" name="WAGNER, Brian"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON44" context="H,1,10,V44" playid="20,5,141" type="R" text="Royster, Evan rush for 2 yards to the AKRON42 (FOBBS, Sean;WILLIAMS, Aaron)." newcontext="H,2,8,V42">
+    <p_ru vh="H" name="Royster, Evan" gain="2"></p_ru>
+    <p_tk vh="V" name="FOBBS, Sean" assist="Y"></p_tk>
+    <p_tk vh="V" name="WILLIAMS, Aaron" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="8" spot="AKRON42" context="H,2,8,V42" playid="20,6,142" type="R" text="Clark, Daryll rush for 3 yards to the AKRON39 (FOBBS, Sean)." newcontext="H,3,5,V39">
+    <p_ru vh="H" name="Clark, Daryll" gain="3"></p_ru>
+    <p_tk vh="V" name="FOBBS, Sean"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="5" spot="AKRON39" context="H,3,5,V39" playid="20,7,143" type="P" text="Clark, Daryll pass complete to Royster, Evan for 4 yards to the AKRON35 (CARTER, Jalil)." newcontext="H,4,1,V35">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Royster, Evan" gain="4"></p_pa>
+    <p_tk vh="V" name="CARTER, Jalil"></p_tk>
+   </play>
+   <play hasball="PSU" down="4" togo="1" spot="AKRON35" context="H,4,1,V35" playid="20,8,144" type="U" text="Wagner, Collin punt 35 yards to the AKRON0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Wagner, Collin" gain="35" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="39" top="3:30" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,V20,06:01" vh="V" spot="V20" clock="06:01" driveindex="21,144"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON20" context="V,1,10,V20" playid="21,1,145" clock="02:31" text="AKRON drive start at 02:31." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON20" context="V,1,10,V20" playid="21,2,146" type="R" text="ALLEN, Alex rush for 1 yard to the AKRON21 (Lee, Sean;Stanley, Sean)." newcontext="V,2,9,V21">
+    <p_ru vh="V" name="ALLEN, Alex" gain="1"></p_ru>
+    <p_tk vh="H" name="Lee, Sean" assist="Y"></p_tk>
+    <p_tk vh="H" name="Stanley, Sean" assist="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="9" spot="AKRON21" context="V,2,9,V21" playid="21,3,147" type="P" text="JACQUEMAIN, C. pass incomplete to LaFRANCE, J.." newcontext="V,3,9,V21">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="INC" rcv="LaFRANCE, J."></p_pa>
+   </play>
+   <play hasball="AKRON" down="3" togo="9" spot="AKRON21" context="V,3,9,V21" playid="21,4,148" type="P" first="P" text="JACQUEMAIN, C. pass complete to BOWSER, Deryn for 14 yards to the AKRON35, 1ST DOWN AKRON (Hull, Josh)." newcontext="V,1,10,V35">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="BOWSER, Deryn" gain="14"></p_pa>
+    <p_tk vh="H" name="Hull, Josh"></p_tk>
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON35" context="V,1,10,V35" playid="21,5,149" type="P" text="JACQUEMAIN, C. pass complete to LaFRANCE, J. for 9 yards to the AKRON44 (Stupar, Nathan)." newcontext="V,2,1,V44">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="LaFRANCE, J." gain="9"></p_pa>
+    <p_tk vh="H" name="Stupar, Nathan"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="1" spot="AKRON44" context="V,2,1,V44" playid="21,6,150" type="R" text="SHUFORD, Norman rush for no gain to the AKRON44 (Ogbu, Ollie;Hull, Josh)." newcontext="V,3,1,V44">
+    <p_ru vh="V" name="SHUFORD, Norman" gain="0"></p_ru>
+    <p_tk vh="H" name="Ogbu, Ollie" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hull, Josh" assist="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="3" togo="1" spot="AKRON44" context="V,3,1,V44" playid="21,7,151" type="R" first="R" text="JACQUEMAIN, C. rush for 2 yards to the AKRON46, 1ST DOWN AKRON (Ogbu, Ollie;Odrick, Jared)." newcontext="V,1,10,V46">
+    <p_ru vh="V" name="JACQUEMAIN, C." gain="2"></p_ru>
+    <p_tk vh="H" name="Ogbu, Ollie" assist="Y"></p_tk>
+    <p_tk vh="H" name="Odrick, Jared" assist="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON46" context="V,1,10,V46" playid="21,8,152" type="E" text="PENALTY AKRON illegal procedure 5 yards to the AKRON41." newcontext="V,1,15,V41">
+    <p_pn vh="V" code="PR" type="illegal procedure" result="ACCEPT" at="V46" yards="5"></p_pn>
+   </play>
+   <score qtr="3" V="7" H="31"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="AKRON">
+    <firstdowns no="6" rush="1" pass="5" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:42"></misc>
+    <rush att="9" yds="6" gain="11" loss="5" td="0" long="0"></rush>
+    <pass comp="7" att="9" int="0" yds="116" td="1" long="32" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="116" td="1" long="32"></rcv>
+    <ko no="1" yds="67" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="6" tot_tack="17" sacks="1" sackyds="5" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="42" td="0" long="19"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="PSU">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="07:18"></misc>
+    <rush att="7" yds="32" gain="32" loss="0" td="0" long="0"></rush>
+    <pass comp="6" att="6" int="0" yds="46" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="46" td="0" long="0"></rcv>
+    <punt no="1" yds="35" long="0" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="35.0"></punt>
+    <ko no="1" yds="69" ob="0" tb="0"></ko>
+    <defense tackua="9" tacka="12" tot_tack="21" tflua="3" tfla="0" tflyds="7" sacks="3" sackyds="14" brup="1"></defense>
+    <kr no="1" yds="23" td="0" long="3"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="AKRON" down="1" togo="15" spot="AKRON41" context="V,1,15,V41" playid="21,9,153" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,1,15,V41">
+   </play>
+   <play hasball="AKRON" down="1" togo="15" spot="AKRON41" context="V,1,15,V41" playid="21,10,154" type="P" text="JACQUEMAIN, C. pass complete to LaFRANCE, J. for 8 yards to the AKRON49 (Astorino, Drew)." newcontext="V,2,7,V49">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="LaFRANCE, J." gain="8"></p_pa>
+    <p_tk vh="H" name="Astorino, Drew"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="7" spot="AKRON49" context="V,2,7,V49" playid="21,11,155" type="P" text="JACQUEMAIN, C. pass incomplete to BOWSER, Deryn." newcontext="V,3,7,V49">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="INC" rcv="BOWSER, Deryn"></p_pa>
+   </play>
+   <play hasball="AKRON" down="3" togo="7" spot="AKRON49" context="V,3,7,V49" playid="21,12,156" type="R" text="JACQUEMAIN, C. rush for 4 yards to the PSU47." newcontext="V,4,3,H47">
+    <p_ru vh="V" name="JACQUEMAIN, C." gain="4"></p_ru>
+   </play>
+   <play hasball="AKRON" down="4" togo="3" spot="PSU47" context="V,4,3,H47" playid="21,13,157" type="P" text="JACQUEMAIN, C. pass incomplete to BOWSER, Deryn (Wallace, A.J.)." newcontext="H,1,10,H47">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="INC" rcv="BOWSER, Deryn"></p_pa>
+    <p_bu vh="H" name="Wallace, A.J."></p_bu>
+   </play>
+   <drivesum plays="10" yards="33" top="3:58" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,H47,15:00" vh="H" spot="H47" clock="15:00" driveindex="22,157"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU47" context="H,1,10,H47" playid="22,1,158" clock="13:33" text="PENN STATE drive start at 13:33." newcontext="H,1,10,H47">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU47" context="H,1,10,H47" playid="22,2,159" type="E" text="PENALTY PSU illegal procedure 5 yards to the PSU42." newcontext="H,1,15,H42">
+    <p_pn vh="H" code="PR" type="illegal procedure" result="ACCEPT" at="H47" yards="5"></p_pn>
+   </play>
+   <play hasball="PSU" down="1" togo="15" spot="PSU42" context="H,1,15,H42" playid="22,3,160" type="R" text="Royster, Evan rush for 2 yards to the PSU44 (HAZIME, Hasan;THOMAS, Mike)." newcontext="H,2,13,H44">
+    <p_ru vh="H" name="Royster, Evan" gain="2"></p_ru>
+    <p_tk vh="V" name="HAZIME, Hasan" assist="Y"></p_tk>
+    <p_tk vh="V" name="THOMAS, Mike" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="13" spot="PSU44" context="H,2,13,H44" playid="22,4,161" type="P" text="Clark, Daryll pass complete to Zug, Graham for 5 yards to the PSU49 (RODGERS, Matt;WILLIAMS, Aaron)." newcontext="H,3,8,H49">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Zug, Graham" gain="5"></p_pa>
+    <p_tk vh="V" name="RODGERS, Matt" assist="Y"></p_tk>
+    <p_tk vh="V" name="WILLIAMS, Aaron" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="8" spot="PSU49" context="H,3,8,H49" playid="22,5,162" type="P" first="P" text="Clark, Daryll pass complete to Zug, Graham for 11 yards to the AKRON40, 1ST DOWN PSU (JONES, Andre)." newcontext="H,1,10,V40">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Zug, Graham" gain="11"></p_pa>
+    <p_tk vh="V" name="JONES, Andre"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON40" context="H,1,10,V40" playid="22,6,163" type="P" text="Clark, Daryll pass complete to Powell, Chaz for 6 yards to the AKRON34 (ODOFIN, Deni;HAZIME, Hasan)." newcontext="H,2,4,V34">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Powell, Chaz" gain="6"></p_pa>
+    <p_tk vh="V" name="ODOFIN, Deni" assist="Y"></p_tk>
+    <p_tk vh="V" name="HAZIME, Hasan" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="4" spot="AKRON34" context="H,2,4,V34" playid="22,7,164" type="P" text="Clark, Daryll pass incomplete to Moye, Derek (GRAHAM, Miguel)." newcontext="H,3,4,V34">
+    <p_pa vh="H" qb="Clark, Daryll" result="INC" rcv="Moye, Derek"></p_pa>
+    <p_bu vh="V" name="GRAHAM, Miguel"></p_bu>
+   </play>
+   <play hasball="PSU" down="3" togo="4" spot="AKRON34" context="H,3,4,V34" playid="22,8,165" type="R" text="Green, Stephfon rush for 2 yards to the AKRON32 (FOBBS, Sean;HARVEY, James)." newcontext="H,4,2,V32">
+    <p_ru vh="H" name="Green, Stephfon" gain="2"></p_ru>
+    <p_tk vh="V" name="FOBBS, Sean" assist="Y"></p_tk>
+    <p_tk vh="V" name="HARVEY, James" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="4" togo="2" spot="AKRON32" context="H,4,2,V32" playid="22,9,166" type="F" clock="10:12" text="Wagner, Collin field goal attempt from 49 MISSED - wide left, spot at AKRON20, clock 10:12." newcontext="V,1,10,V20">
+    <p_fg vh="H" name="Wagner, Collin" distance="49" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="7" yards="21" top="3:21" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V20,10:12" vh="V" spot="V20" clock="10:12" driveindex="23,166"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON20" context="V,1,10,V20" playid="23,1,167" clock="10:12" text="AKRON drive start at 10:12." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON20" context="V,1,10,V20" playid="23,2,168" text="AKRON ball on AKRON32." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON32" context="V,1,10,V32" playid="23,3,169" type="R" text="BRUCE, Jeremy rush for loss of 2 yards to the AKRON30 (Ogbu, Ollie)." newcontext="V,2,12,V30">
+    <p_ru vh="V" name="BRUCE, Jeremy" gain="-2"></p_ru>
+    <p_tk vh="H" name="Ogbu, Ollie" tfl="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="12" spot="AKRON30" context="V,2,12,V30" playid="23,4,170" type="P" text="JACQUEMAIN, C. sacked for loss of 1 yard to the AKRON29 (Stupar, Nathan)." newcontext="V,3,13,V29">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="SACK" gain="-1"></p_pa>
+    <p_tk vh="H" name="Stupar, Nathan" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="3" togo="13" spot="AKRON29" context="V,3,13,V29" playid="23,5,171" type="E" text="PENALTY AKRON illegal procedure 5 yards to the AKRON24." newcontext="V,3,18,V24">
+    <p_pn vh="V" code="PR" type="illegal procedure" result="ACCEPT" at="V29" yards="5"></p_pn>
+   </play>
+   <play hasball="AKRON" down="3" togo="18" spot="AKRON24" context="V,3,18,V24" playid="23,6,172" type="P" text="JACQUEMAIN, C. pass complete to LaFRANCE, J. for 9 yards to the AKRON33 (Lee, Sean)." newcontext="V,4,9,V33">
+    <p_pa vh="V" qb="JACQUEMAIN, C." result="COMP" rcv="LaFRANCE, J." gain="9"></p_pa>
+    <p_tk vh="H" name="Lee, Sean"></p_tk>
+   </play>
+   <play hasball="AKRON" down="4" togo="9" spot="AKRON33" context="V,4,9,V33" playid="23,7,173" type="E" text="PENALTY AKRON delay of game 5 yards to the AKRON28." newcontext="V,4,14,V28">
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="V33" yards="5"></p_pn>
+   </play>
+   <play hasball="AKRON" down="4" togo="14" spot="AKRON28" context="V,4,14,V28" playid="23,8,174" type="U" text="STEC, Jon punt 48 yards to the PSU24, downed." newcontext="H,1,10,H24">
+    <p_pu vh="V" name="STEC, Jon" gain="48"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-4" top="2:53" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,H24,10:12" vh="H" spot="H24" clock="10:12" driveindex="24,174"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU24" context="H,1,10,H24" playid="24,1,175" clock="07:19" text="PENN STATE drive start at 07:19." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU24" context="H,1,10,H24" playid="24,2,176" type="P" text="Clark, Daryll pass complete to Suhey, Joe for 2 yards to the PSU26 (WILLIAMS, Aaron)." newcontext="H,2,8,H26">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Suhey, Joe" gain="2"></p_pa>
+    <p_tk vh="V" name="WILLIAMS, Aaron"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="8" spot="PSU26" context="H,2,8,H26" playid="24,3,177" type="P" text="Clark, Daryll pass incomplete to Smith, Devon." newcontext="H,3,8,H26">
+    <p_pa vh="H" qb="Clark, Daryll" result="INC" rcv="Smith, Devon"></p_pa>
+   </play>
+   <play hasball="PSU" down="3" togo="8" spot="PSU26" context="H,3,8,H26" playid="24,4,178" type="P" first="P" text="Clark, Daryll pass complete to Zug, Graham for 21 yards to the PSU47, 1ST DOWN PSU." newcontext="H,1,10,H47">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Zug, Graham" gain="21"></p_pa>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU47" context="H,1,10,H47" playid="24,5,179" type="P" text="Clark, Daryll pass incomplete to Shuler, Mickey." newcontext="H,2,10,H47">
+    <p_pa vh="H" qb="Clark, Daryll" result="INC" rcv="Shuler, Mickey"></p_pa>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="PSU47" context="H,2,10,H47" playid="24,6,180" type="P" text="Clark, Daryll pass complete to Shuler, Mickey for 8 yards to the AKRON45 (CARTER, Jalil)." newcontext="H,3,2,V45">
+    <p_pa vh="H" qb="Clark, Daryll" result="COMP" rcv="Shuler, Mickey" gain="8"></p_pa>
+    <p_tk vh="V" name="CARTER, Jalil"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="2" spot="AKRON45" context="H,3,2,V45" playid="24,7,181" type="R" text="Green, Stephfon rush for loss of 2 yards to the AKRON47 (WILLIAMS, Aaron)." newcontext="H,4,4,V47">
+    <p_ru vh="H" name="Green, Stephfon" gain="-2"></p_ru>
+    <p_tk vh="V" name="WILLIAMS, Aaron" tfl="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="4" togo="4" spot="AKRON47" context="H,4,4,V47" playid="24,8,182" type="U" text="Boone, Jeremy punt 47 yards to the AKRON0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Boone, Jeremy" gain="47" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="29" top="2:34" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="V,V20,07:19" vh="V" spot="V20" clock="07:19" driveindex="25,182"></drivestart>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON20" context="V,1,10,V20" playid="25,1,183" clock="04:45" text="AKRON drive start at 04:45." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON20" context="V,1,10,V20" playid="25,2,184" type="R" text="SHUFORD, Norman rush for 8 yards to the AKRON28 (Stupar, Nathan)." newcontext="V,2,2,V28">
+    <p_ru vh="V" name="SHUFORD, Norman" gain="8"></p_ru>
+    <p_tk vh="H" name="Stupar, Nathan"></p_tk>
+   </play>
+   <play hasball="AKRON" down="2" togo="2" spot="AKRON28" context="V,2,2,V28" playid="25,3,185" type="R" first="R" text="TUZZE, Joe rush for 16 yards to the AKRON44, 1ST DOWN AKRON (Stupar, Nathan;Zordich, M.)." newcontext="V,1,10,V44">
+    <p_ru vh="V" name="TUZZE, Joe" gain="16"></p_ru>
+    <p_tk vh="H" name="Stupar, Nathan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Zordich, M." assist="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="AKRON44" context="V,1,10,V44" playid="25,4,186" type="R" first="R" text="RODGERS, Matt rush for 11 yards to the PSU45, 1ST DOWN AKRON (Stupar, Nathan)." newcontext="V,1,10,H45">
+    <p_ru vh="V" name="RODGERS, Matt" gain="11"></p_ru>
+    <p_tk vh="H" name="Stupar, Nathan"></p_tk>
+   </play>
+   <play hasball="AKRON" down="1" togo="10" spot="PSU45" context="V,1,10,H45" playid="25,5,187" type="P" text="RODGERS, Matt pass incomplete to BROWN, Nadir." newcontext="V,2,10,H45">
+    <p_pa vh="V" qb="RODGERS, Matt" result="INC" rcv="BROWN, Nadir"></p_pa>
+   </play>
+   <play hasball="AKRON" down="2" togo="10" spot="PSU45" context="V,2,10,H45" playid="25,6,188" type="R" text="TUZZE, Joe rush for 3 yards to the PSU42 (Stupar, Nathan;Astorino, Drew)." newcontext="V,3,7,H42">
+    <p_ru vh="V" name="TUZZE, Joe" gain="3"></p_ru>
+    <p_tk vh="H" name="Stupar, Nathan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Astorino, Drew" assist="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="3" togo="7" spot="PSU42" context="V,3,7,H42" playid="25,7,189" type="R" text="RODGERS, Matt rush for no gain to the PSU42 (Okoli, Chima;Stanley, Sean)." newcontext="V,4,7,H42">
+    <p_ru vh="V" name="RODGERS, Matt" gain="0"></p_ru>
+    <p_tk vh="H" name="Okoli, Chima" assist="Y"></p_tk>
+    <p_tk vh="H" name="Stanley, Sean" assist="Y"></p_tk>
+   </play>
+   <play hasball="AKRON" down="4" togo="7" spot="PSU42" context="V,4,7,H42" playid="25,8,190" type="P" text="RODGERS, Matt pass incomplete to MERIWETHER, A.." newcontext="H,1,10,H42">
+    <p_pa vh="V" qb="RODGERS, Matt" result="INC" rcv="MERIWETHER, A."></p_pa>
+   </play>
+   <drivesum plays="7" yards="38" top="2:27" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="H,H42,04:45" vh="H" spot="H42" clock="04:45" driveindex="26,190"></drivestart>
+   <play hasball="PSU" down="1" togo="10" spot="PSU42" context="H,1,10,H42" playid="26,1,191" clock="02:18" text="PENN STATE drive start at 02:18." newcontext="H,1,10,H42">
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="PSU42" context="H,1,10,H42" playid="26,2,192" type="R" text="Newsome, Kevin rush for loss of 2 yards to the PSU40 (HAZIME, Hasan)." newcontext="H,2,12,H40">
+    <p_ru vh="H" name="Newsome, Kevin" gain="-2"></p_ru>
+    <p_tk vh="V" name="HAZIME, Hasan" tfl="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="12" spot="PSU40" context="H,2,12,H40" playid="26,3,193" type="P" text="Newsome, Kevin pass complete to Suhey, Joe for 5 yards to the PSU45 (KABIR, Amin)." newcontext="H,3,7,H45">
+    <p_pa vh="H" qb="Newsome, Kevin" result="COMP" rcv="Suhey, Joe" gain="5"></p_pa>
+    <p_tk vh="V" name="KABIR, Amin"></p_tk>
+   </play>
+   <play hasball="PSU" down="3" togo="7" spot="PSU45" context="H,3,7,H45" playid="26,4,194" type="P" first="P" text="Newsome, Kevin pass complete to Beachum, B. for 14 yards to the AKRON41, 1ST DOWN PSU, out-of-bounds (BOWSER, Deryn)." ob="Y" newcontext="H,1,10,V41">
+    <p_pa vh="H" qb="Newsome, Kevin" result="COMP" rcv="Beachum, B." gain="14"></p_pa>
+    <p_tk vh="V" name="BOWSER, Deryn"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON41" context="H,1,10,V41" playid="26,5,195" type="E" first="E" text="PENALTY AKRON personal foul 15 yards to the AKRON26, 1ST DOWN PSU." newcontext="H,1,10,V26">
+    <p_pn vh="V" code="PF" type="personal foul" result="ACCEPT" at="V41" yards="15"></p_pn>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON26" context="H,1,10,V26" playid="26,6,196" type="P" text="Newsome, Kevin pass incomplete to Jeffries, C.." newcontext="H,2,10,V26">
+    <p_pa vh="H" qb="Newsome, Kevin" result="INC" rcv="Jeffries, C."></p_pa>
+   </play>
+   <play hasball="PSU" down="2" togo="10" spot="AKRON26" context="H,2,10,V26" playid="26,7,197" type="R" first="R" text="Newsome, Kevin rush for 14 yards to the AKRON12, 1ST DOWN PSU (TUZZE, Joe;RICHARDSON, D.)." newcontext="H,1,10,V12">
+    <p_ru vh="H" name="Newsome, Kevin" gain="14"></p_ru>
+    <p_tk vh="V" name="TUZZE, Joe" assist="Y"></p_tk>
+    <p_tk vh="V" name="RICHARDSON, D." assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="1" togo="10" spot="AKRON12" context="H,1,10,V12" playid="26,8,198" type="P" text="Newsome, Kevin pass complete to Drake, Curtis for 7 yards to the AKRON5 (COLOSIMO, A.;RICHMOND, Josh)." newcontext="H,2,3,V05">
+    <p_pa vh="H" qb="Newsome, Kevin" result="COMP" rcv="Drake, Curtis" gain="7"></p_pa>
+    <p_tk vh="V" name="COLOSIMO, A." assist="Y"></p_tk>
+    <p_tk vh="V" name="RICHMOND, Josh" assist="Y"></p_tk>
+   </play>
+   <play hasball="PSU" down="2" togo="3" spot="AKRON05" context="H,2,3,V05" playid="26,9,199" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,2,3,V05">
+   </play>
+   <drivesum plays="6" yards="53" top="2:18" driveindex="26" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Penn State defeats Akron by a score of 31 to 7."></play>
+   <score final="Y" V="7" H="31"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="AKRON">
+    <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+    <penalties no="3" yds="25"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="2"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:47"></misc>
+    <rush att="8" yds="39" gain="42" loss="3" td="0" long="4"></rush>
+    <pass comp="2" att="6" int="0" yds="17" td="0" long="0" sacks="1" sackyds="1"></pass>
+    <rcv no="2" yds="17" td="0" long="0"></rcv>
+    <punt no="1" yds="48" long="4" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="48.0"></punt>
+    <defense tackua="7" tacka="12" tot_tack="19" tflua="2" tfla="0" tflyds="4" sacks="1" sackyds="5" brup="1"></defense>
+   </qtrsummary>
+   <qtrsummary vh="H" id="PSU">
+    <firstdowns no="5" rush="1" pass="3" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:13"></misc>
+    <rush att="5" yds="14" gain="18" loss="4" td="0" long="0"></rush>
+    <pass comp="9" att="13" int="0" yds="79" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="9" yds="79" td="0" long="0"></rcv>
+    <punt no="1" yds="47" long="8" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="47.0"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="6" tacka="6" tot_tack="12" tflua="2" tfla="0" tflyds="3" sacks="4" sackyds="15" brup="1"></defense>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="PSU" down="2" togo="3" spot="AKRON05" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="2" htor="3" dtgtext="Game Over" ldtext="Drive started: 02:18, 4th Qtr"></downtogo>
+ </plays>

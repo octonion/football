@@ -1,0 +1,928 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY30" context="V,1,10,V30" playid="0,1,0" text="WVU won the coin toss and chose to receive." newcontext="V,1,10,V30">
+   </play>
+   <comment text="Liberty chose to defend the south goal."></comment>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY30" context="V,1,10,V30" playid="0,2,2" text="LIBERTY ball on LIBERTY30." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY30" context="V,1,10,V30" playid="0,3,3" type="K" text="BEVINS, M. kickoff 66 yards to the WVU4, RODGERS, Mark return 36 yards to the WVU40 (HEWLETT, A.)." newcontext="H,1,10,H40">
+    <p_ko vh="V" name="BEVINS, M." gain="66"></p_ko>
+    <p_kr vh="H" name="RODGERS, Mark" gain="36"></p_kr>
+    <p_tk vh="V" name="HEWLETT, A."></p_tk>
+   </play>
+   <drivestart poss="H,H40,15:00" vh="H" spot="H40" clock="15:00" driveindex="1,3"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU40" context="H,1,10,H40" playid="1,1,4" type="#" clock="14:53" text="Clock 14:53." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU40" context="H,1,10,H40" playid="1,2,5" type="P" first="P" text="BROWN, Jarrett pass complete to LYONS, Wes for 15 yards to the LIBERTY45, 1ST DOWN WVU." newcontext="H,1,10,V45">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="LYONS, Wes" gain="15"></p_pa>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY45" context="H,1,10,V45" playid="1,3,6" type="R" text="BROWN, Jarrett rush for 4 yards to the LIBERTY41, out-of-bounds (CHEEK, W.)." ob="Y" newcontext="H,2,6,V41">
+    <p_ru vh="H" name="BROWN, Jarrett" gain="4"></p_ru>
+    <p_tk vh="V" name="CHEEK, W."></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="6" spot="LIBERTY41" context="H,2,6,V41" playid="1,4,7" type="R" first="R" text="DEVINE, Noel rush for 18 yards to the LIBERTY23, 1ST DOWN WVU (MANNS, D.)." newcontext="H,1,10,V23">
+    <p_ru vh="H" name="DEVINE, Noel" gain="18"></p_ru>
+    <p_tk vh="V" name="MANNS, D."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY23" context="H,1,10,V23" playid="1,5,8" type="P" text="BROWN, Jarrett pass complete to DEVINE, Noel for 6 yards to the LIBERTY17 (CHILDRESS, I.;BOLT, D.)." newcontext="H,2,4,V17">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="DEVINE, Noel" gain="6"></p_pa>
+    <p_tk vh="V" name="CHILDRESS, I." assist="Y"></p_tk>
+    <p_tk vh="V" name="BOLT, D." assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="4" spot="LIBERTY17" context="H,2,4,V17" playid="1,6,9" type="R" text="DEVINE, Noel rush for loss of 6 yards to the LIBERTY23, fumble by DEVINE, Noel recovered by WVU DEVINE, Noel at LIBERTY23." newcontext="H,3,10,V23">
+    <p_ru vh="H" name="DEVINE, Noel" gain="-6"></p_ru>
+    <p_fumb vh="H" name="DEVINE, Noel" at="V23" frvh="H" frname="DEVINE, Noel"></p_fumb>
+   </play>
+   <play hasball="WVU" down="3" togo="10" spot="LIBERTY23" context="H,3,10,V23" playid="1,7,10" type="P" text="BROWN, Jarrett pass complete to DEVINE, Noel for 2 yards to the LIBERTY21 (TORRENCE, T.)." newcontext="H,4,8,V21">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="DEVINE, Noel" gain="2"></p_pa>
+    <p_tk vh="V" name="TORRENCE, T."></p_tk>
+   </play>
+   <play hasball="WVU" down="4" togo="8" spot="LIBERTY21" context="H,4,8,V21" playid="1,8,11" type="F" score="Y" clock="11:53" text="BITANCURT, T. field goal attempt from 38 GOOD, clock 11:53." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="BITANCURT, T." distance="38" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="3"></score>
+   <drivesum plays="7" yards="39" top="3:07" driveindex="1" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU30" context="H,1,0,H30" playid="1,9,12" type="K" text="LIDER, Josh kickoff 64 yards to the LIBERTY6, BROWN, M. return 45 yards to the WVU49 (WOOD, Anthony)." newcontext="V,1,10,H49">
+    <p_ko vh="H" name="LIDER, Josh" gain="64"></p_ko>
+    <p_kr vh="V" name="BROWN, M." gain="45"></p_kr>
+    <p_tk vh="H" name="WOOD, Anthony"></p_tk>
+   </play>
+   <drivestart poss="V,H49,11:53" vh="V" spot="H49" clock="11:53" driveindex="2,12"></drivestart>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU49" context="V,1,10,H49" playid="2,1,13" clock="11:42" text="LIBERTY drive start at 11:42." newcontext="V,1,10,H49">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU49" context="V,1,10,H49" playid="2,2,14" type="R" text="HAYES, B.J. rush for 3 yards to the WVU46 (THOMAS, J.T.;BERRY, Scooter)." newcontext="V,2,7,H46">
+    <p_ru vh="V" name="HAYES, B.J." gain="3"></p_ru>
+    <p_tk vh="H" name="THOMAS, J.T." assist="Y"></p_tk>
+    <p_tk vh="H" name="BERRY, Scooter" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="7" spot="WVU46" context="V,2,7,H46" playid="2,3,15" type="P" text="BEECHER, T. pass incomplete to SUMMERS, C.." newcontext="V,3,7,H46">
+    <p_pa vh="V" qb="BEECHER, T." result="INC" rcv="SUMMERS, C."></p_pa>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="7" spot="WVU46" context="V,3,7,H46" playid="2,4,16" type="R" first="R" text="BEECHER, T. rush for 16 yards to the WVU30, 1ST DOWN LIBERTY, PENALTY WVU personal foul (SANDS, Robert) 15 yards to the WVU15, 1ST DOWN LIBERTY." newcontext="V,1,10,H15">
+    <p_ru vh="V" name="BEECHER, T." gain="16"></p_ru>
+    <p_pn vh="H" code="PF" type="personal foul" name="SANDS, Robert" result="ACCEPT" at="H30" yards="15"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU15" context="V,1,10,H15" playid="2,5,17" text="1st and 10." newcontext="V,1,10,H15">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU15" context="V,1,10,H15" playid="2,6,18" type="E" text="PENALTY LIBERTY holding (BISHOP, D.) 10 yards to the WVU25." newcontext="V,1,20,H25">
+    <p_pn vh="V" code="HO" type="holding" name="BISHOP, D." result="ACCEPT" at="H15" yards="10"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="20" spot="WVU25" context="V,1,20,H25" playid="2,7,19" type="R" text="HAYES, B.J. rush for 6 yards to the WVU19 (WILLIAMS, Reed;MILLER, Julian)." newcontext="V,2,14,H19">
+    <p_ru vh="V" name="HAYES, B.J." gain="6"></p_ru>
+    <p_tk vh="H" name="WILLIAMS, Reed" assist="Y"></p_tk>
+    <p_tk vh="H" name="MILLER, Julian" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="14" spot="WVU19" context="V,2,14,H19" playid="2,8,20" type="R" text="BEECHER, T. rush for 7 yards to the WVU12 (WILLIAMS, Reed)." newcontext="V,3,7,H12">
+    <p_ru vh="V" name="BEECHER, T." gain="7"></p_ru>
+    <p_tk vh="H" name="WILLIAMS, Reed"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="7" spot="WVU12" context="V,3,7,H12" playid="2,9,21" type="E" text="PENALTY LIBERTY false start (VARGAS, J.) 5 yards to the WVU17." newcontext="V,3,12,H17">
+    <p_pn vh="V" code="FS" type="false start" name="VARGAS, J." result="ACCEPT" at="H12" yards="5"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="12" spot="WVU17" context="V,3,12,H17" playid="2,10,22" type="P" text="BEECHER, T. pass complete to BROWN, M. for 2 yards to the WVU15 (SMITH, Eain;MILLER, Julian)." newcontext="V,4,10,H15">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, M." gain="2"></p_pa>
+    <p_tk vh="H" name="SMITH, Eain" assist="Y"></p_tk>
+    <p_tk vh="H" name="MILLER, Julian" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="4" togo="10" spot="WVU15" context="V,4,10,H15" playid="2,11,23" type="F" score="Y" clock="08:00" text="BEVINS, M. field goal attempt from 32 GOOD, clock 08:00." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="BEVINS, M." distance="32" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="3"></score>
+   <drivesum plays="7" yards="34" top="3:42" driveindex="2" complete="Y"></drivesum>
+   <play hasball="LIBERTY" down="1" togo="0" spot="LIBERTY30" context="V,1,0,V30" playid="2,12,24" type="K" text="BEVINS, M. kickoff 60 yards to the WVU10, AUSTIN, Tavon return 14 yards to the WVU24 (LEE, K.;ADAMS, T.)." newcontext="H,1,10,H24">
+    <p_ko vh="V" name="BEVINS, M." gain="60"></p_ko>
+    <p_kr vh="H" name="AUSTIN, Tavon" gain="14"></p_kr>
+    <p_tk vh="V" name="LEE, K." assist="Y"></p_tk>
+    <p_tk vh="V" name="ADAMS, T." assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H24,08:00" vh="H" spot="H24" clock="08:00" driveindex="3,24"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU24" context="H,1,10,H24" playid="3,1,25" clock="07:54" text="WVU drive start at 07:54." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU24" context="H,1,10,H24" playid="3,2,26" type="R" first="R" text="DEVINE, Noel rush for 19 yards to the WVU43, 1ST DOWN WVU, out-of-bounds (ROCCO, C.)." ob="Y" newcontext="H,1,10,H43">
+    <p_ru vh="H" name="DEVINE, Noel" gain="19"></p_ru>
+    <p_tk vh="V" name="ROCCO, C."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU43" context="H,1,10,H43" playid="3,3,27" type="P" text="BROWN, Jarrett pass complete to SANDERS, Jock for 4 yards to the WVU47 (BOLT, D.)." newcontext="H,2,6,H47">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="SANDERS, Jock" gain="4"></p_pa>
+    <p_tk vh="V" name="BOLT, D."></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="6" spot="WVU47" context="H,2,6,H47" playid="3,4,28" type="R" text="AUSTIN, Tavon rush for 4 yards to the LIBERTY49 (ADAMS, T.)." newcontext="H,3,2,V49">
+    <p_ru vh="H" name="AUSTIN, Tavon" gain="4"></p_ru>
+    <p_tk vh="V" name="ADAMS, T."></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="2" spot="LIBERTY49" context="H,3,2,V49" playid="3,5,29" type="R" first="R" text="DEVINE, Noel rush for 3 yards to the LIBERTY46, 1ST DOWN WVU (TORRENCE, T.)." newcontext="H,1,10,V46">
+    <p_ru vh="H" name="DEVINE, Noel" gain="3"></p_ru>
+    <p_tk vh="V" name="TORRENCE, T."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY46" context="H,1,10,V46" playid="3,6,30" type="P" first="P" text="BROWN, Jarrett pass complete to LYONS, Wes for 16 yards to the LIBERTY30, 1ST DOWN WVU, out-of-bounds (ROCCO, C.)." ob="Y" newcontext="H,1,10,V30">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="LYONS, Wes" gain="16"></p_pa>
+    <p_tk vh="V" name="ROCCO, C."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY30" context="H,1,10,V30" playid="3,7,31" type="R" text="DEVINE, Noel rush for 5 yards to the LIBERTY25 (CHILDRESS, I.)." newcontext="H,2,5,V25">
+    <p_ru vh="H" name="DEVINE, Noel" gain="5"></p_ru>
+    <p_tk vh="V" name="CHILDRESS, I."></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="5" spot="LIBERTY25" context="H,2,5,V25" playid="3,8,32" type="P" first="P" text="BROWN, Jarrett pass complete to SANDERS, Jock for 7 yards to the LIBERTY18, 1ST DOWN WVU (BROWN, C.)." newcontext="H,1,10,V18">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="SANDERS, Jock" gain="7"></p_pa>
+    <p_tk vh="V" name="BROWN, C."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY18" context="H,1,10,V18" playid="3,9,33" type="R" text="BROWN, Jarrett rush for 4 yards to the LIBERTY14, out-of-bounds (TORRENCE, T.)." ob="Y" newcontext="H,2,6,V14">
+    <p_ru vh="H" name="BROWN, Jarrett" gain="4"></p_ru>
+    <p_tk vh="V" name="TORRENCE, T."></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="6" spot="LIBERTY14" context="H,2,6,V14" playid="3,10,34" type="R" first="R" text="BROWN, Jarrett rush for 12 yards to the LIBERTY2, 1ST DOWN WVU, out-of-bounds (CLAIBORNE, L.;BROWN, C.)." ob="Y" newcontext="H,1,0,V02">
+    <p_ru vh="H" name="BROWN, Jarrett" gain="12"></p_ru>
+    <p_tk vh="V" name="CLAIBORNE, L." assist="Y"></p_tk>
+    <p_tk vh="V" name="BROWN, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="0" spot="LIBERTY02" context="H,1,0,V02" playid="3,11,35" type="R" score="Y" clock="02:53" text="CLARKE, Ryan rush for 2 yards to the LIBERTY0, TOUCHDOWN, clock 02:53." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="CLARKE, Ryan" gain="2"></p_ru>
+   </play>
+   <play hasball="WVU" down="1" togo="0" spot="LIBERTY03" context="H,1,0,V03" playid="3,12,36" type="X" score="Y" text="BITANCURT, T. kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="BITANCURT, T." qb="BITANCURT, T." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="3" H="10"></score>
+   <drivesum plays="10" yards="76" top="5:01" driveindex="3" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU30" context="H,1,0,H30" playid="3,13,37" type="K" text="LIDER, Josh kickoff 47 yards to the LIBERTY23, QUARLES, W. return 3 yards to the LIBERTY26 (WOOD, Anthony)." newcontext="V,1,10,V26">
+    <p_ko vh="H" name="LIDER, Josh" gain="47"></p_ko>
+    <p_kr vh="V" name="QUARLES, W." gain="3"></p_kr>
+    <p_tk vh="H" name="WOOD, Anthony"></p_tk>
+   </play>
+   <drivestart poss="V,V26,02:53" vh="V" spot="V26" clock="02:53" driveindex="4,37"></drivestart>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY26" context="V,1,10,V26" playid="4,1,38" clock="02:49" text="LIBERTY drive start at 02:49." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY26" context="V,1,10,V26" playid="4,2,39" type="P" text="BEECHER, T. pass complete to BROWN, M. for 6 yards to the LIBERTY32 (NEILD, Chris;WILLIAMS, Reed)." newcontext="V,2,4,V32">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, M." gain="6"></p_pa>
+    <p_tk vh="H" name="NEILD, Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="WILLIAMS, Reed" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="4" spot="LIBERTY32" context="V,2,4,V32" playid="4,3,40" type="E" text="PENALTY LIBERTY illegal motion (SUMMERS, C.) 5 yards to the LIBERTY27." newcontext="V,2,9,V27">
+    <p_pn vh="V" code="MO" type="illegal motion" name="SUMMERS, C." result="ACCEPT" at="V32" yards="5"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="9" spot="LIBERTY27" context="V,2,9,V27" playid="4,4,41" type="P" first="P" text="BEECHER, T. pass complete to BROWN, M. for 33 yards to the WVU40, 1ST DOWN LIBERTY, out-of-bounds (THOMAS, J.T.)." ob="Y" newcontext="V,1,10,H40">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, M." gain="33"></p_pa>
+    <p_tk vh="H" name="THOMAS, J.T."></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU40" context="V,1,10,H40" playid="4,5,42" type="R" text="HAYES, B.J. rush for 1 yard to the WVU39 (WILLIAMS, Reed;ALLEN, Franchot)." newcontext="V,2,9,H39">
+    <p_ru vh="V" name="HAYES, B.J." gain="1"></p_ru>
+    <p_tk vh="H" name="WILLIAMS, Reed" assist="Y"></p_tk>
+    <p_tk vh="H" name="ALLEN, Franchot" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="9" spot="WVU39" context="V,2,9,H39" playid="4,6,43" type="P" text="BEECHER, T. pass complete to BROWN, M. for 8 yards to the WVU31 (ALLEN, Franchot)." newcontext="V,3,1,H31">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, M." gain="8"></p_pa>
+    <p_tk vh="H" name="ALLEN, Franchot"></p_tk>
+   </play>
+   <score qtr="1" V="3" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="LIBERTY">
+    <firstdowns no="3" rush="1" pass="1" penalty="1"></firstdowns>
+    <penalties no="3" yds="20"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:46"></misc>
+    <rush att="5" yds="33" gain="33" loss="0" td="0" long="16"></rush>
+    <pass comp="4" att="5" int="0" yds="49" td="0" long="33" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="49" td="0" long="33"></rcv>
+    <ko no="2" yds="126" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="32" blkd="0"></fg>
+    <defense tackua="12" tacka="6" tot_tack="18" sacks="0" sackyds="0"></defense>
+    <kr no="2" yds="48" td="0" long="45"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WVU">
+    <firstdowns no="7" rush="4" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="08:14"></misc>
+    <rush att="10" yds="65" gain="71" loss="6" td="1" long="19"></rush>
+    <pass comp="6" att="6" int="0" yds="50" td="0" long="16" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="50" td="0" long="16"></rcv>
+    <ko no="2" yds="111" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="38" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="5" tacka="10" tot_tack="15" sacks="0" sackyds="0"></defense>
+    <kr no="2" yds="50" td="0" long="36"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="LIBERTY" down="3" togo="1" spot="WVU31" context="V,3,1,H31" playid="4,7,44" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,3,1,H31">
+   </play>
+   <play hasball="LIBERTY" down="3" togo="1" spot="WVU31" context="V,3,1,H31" playid="4,8,45" type="R" first="R" text="ALLEN, A. rush for 3 yards to the WVU28, 1ST DOWN LIBERTY (MILLER, Julian)." newcontext="V,1,10,H28">
+    <p_ru vh="V" name="ALLEN, A." gain="3"></p_ru>
+    <p_tk vh="H" name="MILLER, Julian"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU28" context="V,1,10,H28" playid="4,9,46" type="R" text="ALLEN, A. rush for 2 yards to the WVU26 (LAZEAR, Pat)." newcontext="V,2,8,H26">
+    <p_ru vh="V" name="ALLEN, A." gain="2"></p_ru>
+    <p_tk vh="H" name="LAZEAR, Pat"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="8" spot="WVU26" context="V,2,8,H26" playid="4,10,47" type="P" text="BEECHER, T. pass incomplete to BROWN, F.." newcontext="V,3,8,H26">
+    <p_pa vh="V" qb="BEECHER, T." result="INC" rcv="BROWN, F."></p_pa>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="8" spot="WVU26" context="V,3,8,H26" playid="4,11,48" type="P" text="BEECHER, T. pass complete to BROWN, M. for 6 yards to the WVU20 (WILLIAMS, Reed)." newcontext="V,4,2,H20">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, M." gain="6"></p_pa>
+    <p_tk vh="H" name="WILLIAMS, Reed"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="4" togo="2" spot="WVU20" context="V,4,2,H20" playid="4,12,49" type="P" first="P" score="Y" clock="12:52" text="BEECHER, T. pass complete to BROWN, M. for 20 yards to the WVU0, 1ST DOWN LIBERTY, TOUCHDOWN, clock 12:52." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, M." gain="20"></p_pa>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="0" spot="WVU03" context="V,1,0,H03" playid="4,13,50" type="X" score="Y" text="BEVINS, M. kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="BEVINS, M." qb="BEVINS, M." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="10"></score>
+   <drivesum plays="9" yards="74" top="4:57" driveindex="4" complete="Y"></drivesum>
+   <play hasball="LIBERTY" down="1" togo="0" spot="LIBERTY30" context="V,1,0,V30" playid="4,14,51" type="K" text="BEVINS, M. kickoff 47 yards to the WVU23, RODGERS, Mark return 12 yards to the WVU35 (ADAMS, T.)." newcontext="H,1,10,H35">
+    <p_ko vh="V" name="BEVINS, M." gain="47"></p_ko>
+    <p_kr vh="H" name="RODGERS, Mark" gain="12"></p_kr>
+    <p_tk vh="V" name="ADAMS, T."></p_tk>
+   </play>
+   <drivestart poss="H,H35,12:52" vh="H" spot="H35" clock="12:52" driveindex="5,51"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU35" context="H,1,10,H35" playid="5,1,52" clock="12:48" text="WVU drive start at 12:48." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU35" context="H,1,10,H35" playid="5,2,53" type="R" text="BROWN, Jarrett rush for 5 yards to the WVU40, out-of-bounds." ob="Y" newcontext="H,2,5,H40">
+    <p_ru vh="H" name="BROWN, Jarrett" gain="5"></p_ru>
+   </play>
+   <play hasball="WVU" down="2" togo="5" spot="WVU40" context="H,2,5,H40" playid="5,3,54" type="P" first="P" text="BROWN, Jarrett pass complete to SANDERS, Jock for 28 yards to the LIBERTY32, 1ST DOWN WVU." newcontext="H,1,10,V32">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="SANDERS, Jock" gain="28"></p_pa>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY32" context="H,1,10,V32" playid="5,4,55" type="R" text="DEVINE, Noel rush for loss of 2 yards to the LIBERTY34 (TORRENCE, T.;LEE, K.)." newcontext="H,2,12,V34">
+    <p_ru vh="H" name="DEVINE, Noel" gain="-2"></p_ru>
+    <p_tk vh="V" name="TORRENCE, T." tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="LEE, K." tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="12" spot="LIBERTY34" context="H,2,12,V34" playid="5,5,56" type="R" text="BROWN, Jarrett rush for loss of 6 yards to the LIBERTY40." newcontext="H,3,18,V40">
+    <p_ru vh="H" name="BROWN, Jarrett" gain="-6"></p_ru>
+   </play>
+   <play hasball="WVU" down="3" togo="18" spot="LIBERTY40" context="H,3,18,V40" playid="5,6,57" type="P" first="P" text="BROWN, Jarrett pass complete to STARKS, Brad for 21 yards to the LIBERTY19, 1ST DOWN WVU (MANNS, D.;TORRENCE, T.)." newcontext="H,1,10,V19">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="STARKS, Brad" gain="21"></p_pa>
+    <p_tk vh="V" name="MANNS, D." assist="Y"></p_tk>
+    <p_tk vh="V" name="TORRENCE, T." assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY19" context="H,1,10,V19" playid="5,7,58" type="R" text="SANDERS, Jock rush for 7 yards to the LIBERTY12 (MANNS, D.)." newcontext="H,2,3,V12">
+    <p_ru vh="H" name="SANDERS, Jock" gain="7"></p_ru>
+    <p_tk vh="V" name="MANNS, D."></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="3" spot="LIBERTY12" context="H,2,3,V12" playid="5,8,59" type="E" text="PENALTY WVU holding (MADSEN, Joe) 10 yards to the LIBERTY22." newcontext="H,2,13,V22">
+    <p_pn vh="H" code="HO" type="holding" name="MADSEN, Joe" result="ACCEPT" at="V12" yards="10"></p_pn>
+   </play>
+   <play hasball="WVU" down="2" togo="13" spot="LIBERTY22" context="H,2,13,V22" playid="5,9,60" type="P" text="BROWN, Jarrett pass incomplete to URBAN, Tyler (JACOBS, T.)." newcontext="H,3,13,V22">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="INC" rcv="URBAN, Tyler"></p_pa>
+    <p_bu vh="V" name="JACOBS, T."></p_bu>
+   </play>
+   <play hasball="WVU" down="3" togo="13" spot="LIBERTY22" context="H,3,13,V22" playid="5,10,61" type="R" first="R" score="Y" clock="08:44" text="BROWN, Jarrett rush for 22 yards to the LIBERTY0, 1ST DOWN WVU, TOUCHDOWN, clock 08:44." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="BROWN, Jarrett" gain="22"></p_ru>
+   </play>
+   <play hasball="WVU" down="1" togo="0" spot="LIBERTY03" context="H,1,0,V03" playid="5,11,62" type="X" score="Y" text="BITANCURT, T. kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="BITANCURT, T." qb="BITANCURT, T." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="17"></score>
+   <drivesum plays="8" yards="65" top="4:04" driveindex="5" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU30" context="H,1,0,H30" playid="5,12,63" type="K" text="LIDER, Josh kickoff 62 yards to the LIBERTY8, ALLEN, A. return 30 yards to the LIBERTY38 (RODGERS, Mark)." newcontext="V,1,10,V38">
+    <p_ko vh="H" name="LIDER, Josh" gain="62"></p_ko>
+    <p_kr vh="V" name="ALLEN, A." gain="30"></p_kr>
+    <p_tk vh="H" name="RODGERS, Mark"></p_tk>
+   </play>
+   <drivestart poss="V,V38,08:44" vh="V" spot="V38" clock="08:44" driveindex="6,63"></drivestart>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY38" context="V,1,10,V38" playid="6,1,64" clock="08:36" text="LIBERTY drive start at 08:36." newcontext="V,1,10,V38">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY38" context="V,1,10,V38" playid="6,2,65" type="P" text="BEECHER, T. pass complete to ALLEN, A. for 5 yards to the LIBERTY43 (SOWERS, Nate)." newcontext="V,2,5,V43">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="ALLEN, A." gain="5"></p_pa>
+    <p_tk vh="H" name="SOWERS, Nate"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="5" spot="LIBERTY43" context="V,2,5,V43" playid="6,3,66" type="R" text="ALLEN, A. rush for loss of 3 yards to the LIBERTY40 (THOMAS, J.T.)." newcontext="V,3,8,V40">
+    <p_ru vh="V" name="ALLEN, A." gain="-3"></p_ru>
+    <p_tk vh="H" name="THOMAS, J.T." tfl="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="8" spot="LIBERTY40" context="V,3,8,V40" playid="6,4,67" type="P" first="P" text="BEECHER, T. pass complete to BROWN, F. for 14 yards to the WVU46, 1ST DOWN LIBERTY (RICHARSON, Kent)." newcontext="V,1,10,H46">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, F." gain="14"></p_pa>
+    <p_tk vh="H" name="RICHARSON, Kent"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU46" context="V,1,10,H46" playid="6,5,68" type="P" text="BEECHER, T. pass complete to ALLEN, A. for loss of 1 yard to the WVU47 (THOMAS, J.T.)." newcontext="V,2,11,H47">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="ALLEN, A." gain="-1"></p_pa>
+    <p_tk vh="H" name="THOMAS, J.T." tfl="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="11" spot="WVU47" context="V,2,11,H47" playid="6,6,69" type="P" text="BEECHER, T. pass incomplete to SUMMERS, C.." newcontext="V,3,11,H47">
+    <p_pa vh="V" qb="BEECHER, T." result="INC" rcv="SUMMERS, C."></p_pa>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="11" spot="WVU47" context="V,3,11,H47" playid="6,7,70" type="P" text="BEECHER, T. pass incomplete to BROWN, M., PENALTY LIBERTY holding declined." newcontext="V,4,11,H47">
+    <p_pa vh="V" qb="BEECHER, T." result="INC" rcv="BROWN, M."></p_pa>
+    <p_pn vh="V" code="HO" type="holding" name="BROWN, M." result="DECLINE"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="4" togo="11" spot="WVU47" context="V,4,11,H47" playid="6,8,71" type="U" text="LARSSON, M. punt 31 yards to the WVU16, downed." newcontext="H,1,10,H16">
+    <p_pu vh="V" name="LARSSON, M." gain="31" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="15" top="2:34" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H16,08:36" vh="H" spot="H16" clock="08:36" driveindex="7,71"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU16" context="H,1,10,H16" playid="7,1,72" clock="06:02" text="WVU drive start at 06:02." newcontext="H,1,10,H16">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU16" context="H,1,10,H16" playid="7,2,73" type="P" first="P" text="BROWN, Jarrett pass complete to ARNETT, Alric for 22 yards to the WVU38, 1ST DOWN WVU, out-of-bounds (CLAIBORNE, L.)." ob="Y" newcontext="H,1,10,H38">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="ARNETT, Alric" gain="22"></p_pa>
+    <p_tk vh="V" name="CLAIBORNE, L."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU38" context="H,1,10,H38" playid="7,3,74" type="P" first="P" text="BROWN, Jarrett pass complete to URBAN, Tyler for 16 yards to the LIBERTY46, 1ST DOWN WVU (BROWN, C.)." newcontext="H,1,10,V46">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="URBAN, Tyler" gain="16"></p_pa>
+    <p_tk vh="V" name="BROWN, C."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY46" context="H,1,10,V46" playid="7,4,75" type="P" text="BROWN, Jarrett pass complete to AUSTIN, Tavon for 3 yards to the LIBERTY43 (CHILDRESS, I.;ADAMS, T.)." newcontext="H,2,7,V43">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="AUSTIN, Tavon" gain="3"></p_pa>
+    <p_tk vh="V" name="CHILDRESS, I." assist="Y"></p_tk>
+    <p_tk vh="V" name="ADAMS, T." assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="7" spot="LIBERTY43" context="H,2,7,V43" playid="7,5,76" type="R" first="R" text="DEVINE, Noel rush for 12 yards to the LIBERTY31, 1ST DOWN WVU (TINSLEY, P.)." newcontext="H,1,10,V31">
+    <p_ru vh="H" name="DEVINE, Noel" gain="12"></p_ru>
+    <p_tk vh="V" name="TINSLEY, P."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY31" context="H,1,10,V31" playid="7,6,77" type="R" text="DEVINE, Noel rush for 5 yards to the LIBERTY26 (LEE, K.;CHEEK, W.)." newcontext="H,2,5,V26">
+    <p_ru vh="H" name="DEVINE, Noel" gain="5"></p_ru>
+    <p_tk vh="V" name="LEE, K." assist="Y"></p_tk>
+    <p_tk vh="V" name="CHEEK, W." assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="5" spot="LIBERTY26" context="H,2,5,V26" playid="7,7,78" type="E" text="PENALTY WVU personal foul (STARKS, Brad) 15 yards to the LIBERTY41." newcontext="H,2,20,V41">
+    <p_pn vh="H" code="PF" type="personal foul" name="STARKS, Brad" result="ACCEPT" at="V26" yards="15"></p_pn>
+   </play>
+   <play hasball="WVU" down="2" togo="20" spot="LIBERTY41" context="H,2,20,V41" playid="7,8,79" type="E" first="E" text="PENALTY LIBERTY pass interference (CLAIBORNE, L.) 15 yards to the LIBERTY26, 1ST DOWN WVU." newcontext="H,1,10,V26">
+    <p_pn vh="V" code="PI" type="pass interference" name="CLAIBORNE, L." result="ACCEPT" at="V41" yards="15"></p_pn>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY26" context="H,1,10,V26" playid="7,9,80" type="E" text="PENALTY WVU false start (BARCLAY, Don) 5 yards to the LIBERTY31." newcontext="H,1,15,V31">
+    <p_pn vh="H" code="FS" type="false start" name="BARCLAY, Don" result="ACCEPT" at="V26" yards="5"></p_pn>
+   </play>
+   <play hasball="WVU" down="1" togo="15" spot="LIBERTY31" context="H,1,15,V31" playid="7,10,81" type="P" text="BROWN, Jarrett pass incomplete to URBAN, Tyler." newcontext="H,2,15,V31">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="INC" rcv="URBAN, Tyler"></p_pa>
+   </play>
+   <play hasball="WVU" down="2" togo="15" spot="LIBERTY31" context="H,2,15,V31" playid="7,11,82" type="R" text="DEVINE, Noel rush for 2 yards to the LIBERTY29 (CHEEK, W.)." newcontext="H,3,13,V29">
+    <p_ru vh="H" name="DEVINE, Noel" gain="2"></p_ru>
+    <p_tk vh="V" name="CHEEK, W."></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="13" spot="LIBERTY29" context="H,3,13,V29" playid="7,12,83" type="#" clock="02:23" text="Timeout WVU, clock 02:23." newcontext="H,3,13,V29">
+    <p_to vh="H" team="WVU"></p_to>
+   </play>
+   <play hasball="WVU" down="3" togo="13" spot="LIBERTY29" context="H,3,13,V29" playid="7,13,84" type="P" text="BROWN, Jarrett pass complete to SANDERS, Jock for 11 yards to the LIBERTY18, out-of-bounds (TORRENCE, T.)." ob="Y" newcontext="H,4,2,V18">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="SANDERS, Jock" gain="11"></p_pa>
+    <p_tk vh="V" name="TORRENCE, T."></p_tk>
+   </play>
+   <play hasball="WVU" down="4" togo="2" spot="LIBERTY18" context="H,4,2,V18" playid="7,14,85" type="#" clock="02:04" text="Timeout WVU, clock 02:04." newcontext="H,4,2,V18">
+    <p_to vh="H" team="WVU"></p_to>
+   </play>
+   <play hasball="WVU" down="4" togo="2" spot="LIBERTY18" context="H,4,2,V18" playid="7,15,86" type="F" score="Y" clock="01:58" text="BITANCURT, T. field goal attempt from 35 GOOD, clock 01:58." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="BITANCURT, T." distance="35" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="10" H="20"></score>
+   <drivesum plays="9" yards="66" top="4:04" driveindex="7" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU30" context="H,1,0,H30" playid="7,16,87" type="K" text="LIDER, Josh kickoff 51 yards to the LIBERTY19, BROWN, M. return 39 yards to the WVU42 (LIDER, Josh;GOULBOURNE, O.)." newcontext="V,1,10,H42">
+    <p_ko vh="H" name="LIDER, Josh" gain="51"></p_ko>
+    <p_kr vh="V" name="BROWN, M." gain="39"></p_kr>
+    <p_tk vh="H" name="LIDER, Josh" assist="Y"></p_tk>
+    <p_tk vh="H" name="GOULBOURNE, O." assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,H42,01:58" vh="V" spot="H42" clock="01:58" driveindex="8,87"></drivestart>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU42" context="V,1,10,H42" playid="8,1,88" clock="01:51" text="LIBERTY drive start at 01:51." newcontext="V,1,10,H42">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU42" context="V,1,10,H42" playid="8,2,89" type="#" clock="01:51" text="Timeout LIBERTY, clock 01:51." newcontext="V,1,10,H42">
+    <p_to vh="V" team="LIBERTY"></p_to>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU42" context="V,1,10,H42" playid="8,3,90" type="E" text="PENALTY LIBERTY holding 10 yards to the LIBERTY48." newcontext="V,1,20,V48">
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="H42" yards="10"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="20" spot="LIBERTY48" context="V,1,20,V48" playid="8,4,91" type="P" text="BEECHER, T. pass complete to HAYES, B.J. for loss of 1 yard to the LIBERTY47, out-of-bounds (HOGAN, Brandon)." ob="Y" newcontext="V,2,21,V47">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="HAYES, B.J." gain="-1"></p_pa>
+    <p_tk vh="H" name="HOGAN, Brandon" tfl="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="21" spot="LIBERTY47" context="V,2,21,V47" playid="8,5,92" type="P" text="BEECHER, T. pass complete to SUMMERS, C. for 6 yards to the WVU47 (HOGAN, Brandon)." newcontext="V,3,15,H47">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="SUMMERS, C." gain="6"></p_pa>
+    <p_tk vh="H" name="HOGAN, Brandon"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="15" spot="WVU47" context="V,3,15,H47" playid="8,6,93" type="P" text="BEECHER, T. pass complete to HAYES, B.J. for 6 yards to the WVU41, out-of-bounds (ALLEN, Franchot)." ob="Y" newcontext="V,4,9,H41">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="HAYES, B.J." gain="6"></p_pa>
+    <p_tk vh="H" name="ALLEN, Franchot"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="4" togo="9" spot="WVU41" context="V,4,9,H41" playid="8,7,94" type="U" text="LARSSON, M. punt 41 yards to the WVU0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="LARSSON, M." gain="41" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="1" top="0:48" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H20,01:51" vh="H" spot="H20" clock="01:51" driveindex="9,94"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU20" context="H,1,10,H20" playid="9,1,95" clock="01:03" text="WVU drive start at 01:03." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU20" context="H,1,10,H20" playid="9,2,96" type="P" text="BROWN, Jarrett pass complete to DEVINE, Noel for 1 yard to the WVU21 (CHEEK, W.;LEE, K.)." newcontext="H,2,9,H21">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="DEVINE, Noel" gain="1"></p_pa>
+    <p_tk vh="V" name="CHEEK, W." assist="Y"></p_tk>
+    <p_tk vh="V" name="LEE, K." assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="9" spot="WVU21" context="H,2,9,H21" playid="9,3,97" type="E" first="E" text="PENALTY LIBERTY personal foul (ROCCO, C.) 15 yards to the WVU36, 1ST DOWN WVU." newcontext="H,1,10,H36">
+    <p_pn vh="V" code="PF" type="personal foul" name="ROCCO, C." result="ACCEPT" at="H21" yards="15"></p_pn>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU36" context="H,1,10,H36" playid="9,4,98" type="P" first="P" text="BROWN, Jarrett pass complete to URBAN, Tyler for 33 yards to the LIBERTY31, 1ST DOWN WVU (LEE, K.)." newcontext="H,1,10,V31">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="URBAN, Tyler" gain="33"></p_pa>
+    <p_tk vh="V" name="LEE, K."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY31" context="H,1,10,V31" playid="9,5,99" type="P" text="BROWN, Jarrett pass incomplete to URBAN, Tyler." newcontext="H,2,10,V31">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="INC" rcv="URBAN, Tyler"></p_pa>
+   </play>
+   <play hasball="WVU" down="2" togo="10" spot="LIBERTY31" context="H,2,10,V31" playid="9,6,100" type="P" text="BROWN, Jarrett pass complete to SANDERS, Jock for 3 yards to the LIBERTY28 (O'DONNELL, K.)." newcontext="H,3,7,V28">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="SANDERS, Jock" gain="3"></p_pa>
+    <p_tk vh="V" name="O'DONNELL, K."></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="7" spot="LIBERTY28" context="H,3,7,V28" playid="9,7,101" type="#" clock="00:30" text="Timeout WVU, clock 00:30." newcontext="H,3,7,V28">
+    <p_to vh="H" team="WVU"></p_to>
+   </play>
+   <play hasball="WVU" down="3" togo="7" spot="LIBERTY28" context="H,3,7,V28" playid="9,8,102" type="P" text="BROWN, Jarrett pass incomplete to STARKS, Brad." newcontext="H,4,7,V28">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="INC" rcv="STARKS, Brad"></p_pa>
+   </play>
+   <play hasball="WVU" down="4" togo="7" spot="LIBERTY28" context="H,4,7,V28" playid="9,9,103" type="F" score="Y" clock="00:20" text="BITANCURT, T. field goal attempt from 45 GOOD, clock 00:20." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="BITANCURT, T." distance="45" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="10" H="23"></score>
+   <drivesum plays="6" yards="52" top="0:43" driveindex="9" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU30" context="H,1,0,H30" playid="9,10,104" type="K" text="LIDER, Josh kickoff 61 yards to the LIBERTY9, out-of-bounds, LIBERTY ball on LIBERTY40." ob="Y" newcontext="V,1,10,V40">
+    <p_ko vh="H" name="LIDER, Josh" gain="61" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V40,00:20" vh="V" spot="V40" clock="00:20" driveindex="10,104"></drivestart>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY40" context="V,1,10,V40" playid="10,1,105" clock="00:20" text="LIBERTY drive start at 00:20." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY40" context="V,1,10,V40" playid="10,2,106" type="R" text="BEECHER, T. rush for 5 yards to the LIBERTY45 (LAZEAR, Pat;GOULBOURNE, O.)." newcontext="V,2,5,V45">
+    <p_ru vh="V" name="BEECHER, T." gain="5"></p_ru>
+    <p_tk vh="H" name="LAZEAR, Pat" assist="Y"></p_tk>
+    <p_tk vh="H" name="GOULBOURNE, O." assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="5" spot="LIBERTY45" context="V,2,5,V45" playid="10,3,107" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,2,5,V45">
+   </play>
+   <drivesum plays="1" yards="5" top="0:20" driveindex="10" complete="Y"></drivesum>
+   <score qtr="2" V="10" H="23"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="LIBERTY">
+    <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+    <penalties no="3" yds="40"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:05"></misc>
+    <rush att="4" yds="7" gain="10" loss="3" td="0" long="0"></rush>
+    <pass comp="8" att="11" int="0" yds="55" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="55" td="1" long="0"></rcv>
+    <punt no="2" yds="72" long="41" blkd="0" tb="1" fc="0" plus50="0" inside20="1" avg="36.0"></punt>
+    <ko no="1" yds="47" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="10" tot_tack="19" tflua="2" tfla="0" tflyds="4" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="2" yds="69" td="0" long="0"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WVU">
+    <firstdowns no="9" rush="2" pass="5" penalty="2"></firstdowns>
+    <penalties no="3" yds="30"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:55"></misc>
+    <rush att="8" yds="45" gain="53" loss="8" td="1" long="3"></rush>
+    <pass comp="9" att="13" int="0" yds="138" td="0" long="17" sacks="0" sackyds="0"></pass>
+    <rcv no="9" yds="138" td="0" long="17"></rcv>
+    <ko no="3" yds="174" ob="1" tb="0"></ko>
+    <fg made="2" att="2" long="7" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="4" tot_tack="15" tflua="3" tfla="0" tflyds="5" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="12" td="0" long="0"></kr>
+    <scoring td="1" fg="2" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="LIBERTY" down="2" togo="5" spot="LIBERTY45" context="V,2,5,V45" playid="10,4,108" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, WVU ball on WVU30." newcontext="H,2,5,H30">
+   </play>
+   <play hasball="WVU" down="2" togo="5" spot="WVU30" context="H,2,5,H30" playid="10,5,109" type="K" text="LIDER, Josh kickoff 60 yards to the LIBERTY10, BROWN, M. return 23 yards to the LIBERTY33 (WOOD, Anthony;SMITH, Lawrence)." newcontext="V,1,10,V33">
+    <p_ko vh="H" name="LIDER, Josh" gain="60"></p_ko>
+    <p_kr vh="V" name="BROWN, M." gain="23"></p_kr>
+    <p_tk vh="H" name="WOOD, Anthony" assist="Y"></p_tk>
+    <p_tk vh="H" name="SMITH, Lawrence" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V33,15:00" vh="V" spot="V33" clock="15:00" driveindex="11,109"></drivestart>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY33" context="V,1,10,V33" playid="11,1,110" clock="14:50" text="LIBERTY drive start at 14:50." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY33" context="V,1,10,V33" playid="11,2,111" type="P" text="BEECHER, T. pass incomplete to QUARLES, W. (SMITH, Eain)." newcontext="V,2,10,V33">
+    <p_pa vh="V" qb="BEECHER, T." result="INC" rcv="QUARLES, W."></p_pa>
+    <p_bu vh="H" name="SMITH, Eain"></p_bu>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="10" spot="LIBERTY33" context="V,2,10,V33" playid="11,3,112" type="R" text="HAYES, B.J. rush for 4 yards to the LIBERTY37 (SMITH, Eain)." newcontext="V,3,6,V37">
+    <p_ru vh="V" name="HAYES, B.J." gain="4"></p_ru>
+    <p_tk vh="H" name="SMITH, Eain"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="6" spot="LIBERTY37" context="V,3,6,V37" playid="11,4,113" type="P" text="BEECHER, T. sacked for loss of 8 yards to the LIBERTY29 (MILLER, Julian)." newcontext="V,4,14,V29">
+    <p_pa vh="V" qb="BEECHER, T." result="SACK" gain="-8"></p_pa>
+    <p_tk vh="H" name="MILLER, Julian" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="4" togo="14" spot="LIBERTY29" context="V,4,14,V29" playid="11,5,114" type="U" text="LARSSON, M. punt 42 yards to the WVU29, SANDERS, Jock return 1 yards to the WVU30 (CHILDRESS, I.)." newcontext="H,1,10,H30">
+    <p_pu vh="V" name="LARSSON, M." gain="42"></p_pu>
+    <p_pr vh="H" name="SANDERS, Jock" gain="1"></p_pr>
+    <p_tk vh="V" name="CHILDRESS, I."></p_tk>
+   </play>
+   <drivesum plays="3" yards="-4" top="1:35" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,H30,14:50" vh="H" spot="H30" clock="14:50" driveindex="12,114"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU30" context="H,1,10,H30" playid="12,1,115" clock="13:15" text="WVU drive start at 13:15." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU30" context="H,1,10,H30" playid="12,2,116" type="R" text="DEVINE, Noel rush for 3 yards to the WVU33 (BOLT, D.)." newcontext="H,2,7,H33">
+    <p_ru vh="H" name="DEVINE, Noel" gain="3"></p_ru>
+    <p_tk vh="V" name="BOLT, D."></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="7" spot="WVU33" context="H,2,7,H33" playid="12,3,117" type="P" text="BROWN, Jarrett pass complete to SANDERS, Jock for 2 yards to the WVU35 (TINSLEY, P.)." newcontext="H,3,5,H35">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="SANDERS, Jock" gain="2"></p_pa>
+    <p_tk vh="V" name="TINSLEY, P."></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="5" spot="WVU35" context="H,3,5,H35" playid="12,4,118" type="R" first="R" text="BROWN, Jarrett rush for 16 yards to the LIBERTY49, 1ST DOWN WVU (ROCCO, C.)." newcontext="H,1,10,V49">
+    <p_ru vh="H" name="BROWN, Jarrett" gain="16"></p_ru>
+    <p_tk vh="V" name="ROCCO, C."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY49" context="H,1,10,V49" playid="12,5,119" type="R" text="DEVINE, Noel rush for 6 yards to the LIBERTY43 (ADAMS, T.)." newcontext="H,2,4,V43">
+    <p_ru vh="H" name="DEVINE, Noel" gain="6"></p_ru>
+    <p_tk vh="V" name="ADAMS, T."></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="4" spot="LIBERTY43" context="H,2,4,V43" playid="12,6,120" type="R" text="DEVINE, Noel rush for 1 yard to the LIBERTY42 (CHILDRESS, I.)." newcontext="H,3,3,V42">
+    <p_ru vh="H" name="DEVINE, Noel" gain="1"></p_ru>
+    <p_tk vh="V" name="CHILDRESS, I."></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="3" spot="LIBERTY42" context="H,3,3,V42" playid="12,7,121" type="P" text="BROWN, Jarrett pass complete to SANDERS, Jock for 2 yards to the LIBERTY40 (ROCCO, C.)." newcontext="H,4,1,V40">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="SANDERS, Jock" gain="2"></p_pa>
+    <p_tk vh="V" name="ROCCO, C."></p_tk>
+   </play>
+   <play hasball="WVU" down="4" togo="1" spot="LIBERTY40" context="H,4,1,V40" playid="12,8,122" type="U" text="KOZLOWSKI, S. punt 40 yards to the LIBERTY0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="KOZLOWSKI, S." gain="40" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="30" top="4:15" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="V,V20,13:15" vh="V" spot="V20" clock="13:15" driveindex="13,122"></drivestart>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY20" context="V,1,10,V20" playid="13,1,123" clock="09:00" text="LIBERTY drive start at 09:00." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY20" context="V,1,10,V20" playid="13,2,124" type="P" text="BEECHER, T. pass complete to QUARLES, W. for 5 yards to the LIBERTY25 (HOGAN, Brandon)." newcontext="V,2,5,V25">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="QUARLES, W." gain="5"></p_pa>
+    <p_tk vh="H" name="HOGAN, Brandon"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="5" spot="LIBERTY25" context="V,2,5,V25" playid="13,3,125" type="R" first="R" text="ALLEN, A. rush for 17 yards to the LIBERTY42, 1ST DOWN LIBERTY (THOMAS, J.T.;SMITH, Eain)." newcontext="V,1,10,V42">
+    <p_ru vh="V" name="ALLEN, A." gain="17"></p_ru>
+    <p_tk vh="H" name="THOMAS, J.T." assist="Y"></p_tk>
+    <p_tk vh="H" name="SMITH, Eain" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY42" context="V,1,10,V42" playid="13,4,126" type="R" text="ALLEN, A. rush for 3 yards to the LIBERTY45 (WILLIAMS, Reed;SMITH, Eain)." newcontext="V,2,7,V45">
+    <p_ru vh="V" name="ALLEN, A." gain="3"></p_ru>
+    <p_tk vh="H" name="WILLIAMS, Reed" assist="Y"></p_tk>
+    <p_tk vh="H" name="SMITH, Eain" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="7" spot="LIBERTY45" context="V,2,7,V45" playid="13,5,127" type="P" first="P" text="BEECHER, T. pass complete to BROWN, M. for 17 yards to the WVU38, 1ST DOWN LIBERTY, out-of-bounds (SMITH, Eain)." ob="Y" newcontext="V,1,10,H38">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, M." gain="17"></p_pa>
+    <p_tk vh="H" name="SMITH, Eain"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU38" context="V,1,10,H38" playid="13,6,128" type="R" text="ALLEN, A. rush for no gain to the WVU38 (BERRY, Scooter)." newcontext="V,2,10,H38">
+    <p_ru vh="V" name="ALLEN, A." gain="0"></p_ru>
+    <p_tk vh="H" name="BERRY, Scooter"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="10" spot="WVU38" context="V,2,10,H38" playid="13,7,129" type="P" text="BEECHER, T. pass complete to EDEN, J. for 7 yards to the WVU31, out-of-bounds (HOGAN, Brandon;SANDS, Robert)." ob="Y" newcontext="V,3,3,H31">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="EDEN, J." gain="7"></p_pa>
+    <p_tk vh="H" name="HOGAN, Brandon" assist="Y"></p_tk>
+    <p_tk vh="H" name="SANDS, Robert" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="3" spot="WVU31" context="V,3,3,H31" playid="13,8,130" type="P" text="BEECHER, T. pass incomplete to EDEN, J.." newcontext="V,4,3,H31">
+    <p_pa vh="V" qb="BEECHER, T." result="INC" rcv="EDEN, J."></p_pa>
+   </play>
+   <play hasball="LIBERTY" down="4" togo="3" spot="WVU31" context="V,4,3,H31" playid="13,9,131" type="F" score="Y" clock="05:21" text="BEVINS, M. field goal attempt from 49 GOOD, clock 05:21." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="BEVINS, M." distance="49" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="13" H="23"></score>
+   <drivesum plays="8" yards="49" top="3:39" driveindex="13" complete="Y"></drivesum>
+   <play hasball="LIBERTY" down="1" togo="0" spot="LIBERTY30" context="V,1,0,V30" playid="13,10,132" type="K" text="BEVINS, M. kickoff 64 yards to the WVU6, RODGERS, Mark return 31 yards to the WVU37 (TINSLEY, P.)." newcontext="H,1,10,H37">
+    <p_ko vh="V" name="BEVINS, M." gain="64"></p_ko>
+    <p_kr vh="H" name="RODGERS, Mark" gain="31"></p_kr>
+    <p_tk vh="V" name="TINSLEY, P."></p_tk>
+   </play>
+   <drivestart poss="H,H37,05:21" vh="H" spot="H37" clock="05:21" driveindex="14,132"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU37" context="H,1,10,H37" playid="14,1,133" clock="05:14" text="WVU drive start at 05:14." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU37" context="H,1,10,H37" playid="14,2,134" type="P" first="P" text="BROWN, Jarrett pass complete to STARKS, Brad for 13 yards to the 50 yardline, 1ST DOWN WVU (MANNS, D.)." newcontext="H,1,10,H50">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="STARKS, Brad" gain="13"></p_pa>
+    <p_tk vh="V" name="MANNS, D."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU50" context="H,1,10,H50" playid="14,3,135" type="#" clock="04:53" text="Timeout LIBERTY, clock 04:53." newcontext="H,1,10,H50">
+    <p_to vh="V" team="LIBERTY"></p_to>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU50" context="H,1,10,H50" playid="14,4,136" type="R" text="BROWN, Jarrett rush for 4 yards to the LIBERTY46, out-of-bounds (ADAMS, T.)." ob="Y" newcontext="H,2,6,V46">
+    <p_ru vh="H" name="BROWN, Jarrett" gain="4"></p_ru>
+    <p_tk vh="V" name="ADAMS, T."></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="6" spot="LIBERTY46" context="H,2,6,V46" playid="14,5,137" type="R" text="DEVINE, Noel rush for 5 yards to the LIBERTY41 (CHEEK, W.;ROBERTSON, D.)." newcontext="H,3,1,V41">
+    <p_ru vh="H" name="DEVINE, Noel" gain="5"></p_ru>
+    <p_tk vh="V" name="CHEEK, W." assist="Y"></p_tk>
+    <p_tk vh="V" name="ROBERTSON, D." assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="1" spot="LIBERTY41" context="H,3,1,V41" playid="14,6,138" type="R" first="R" text="CLARKE, Ryan rush for 3 yards to the LIBERTY38, 1ST DOWN WVU (CHEEK, W.)." newcontext="H,1,10,V38">
+    <p_ru vh="H" name="CLARKE, Ryan" gain="3"></p_ru>
+    <p_tk vh="V" name="CHEEK, W."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY38" context="H,1,10,V38" playid="14,7,139" type="R" text="SANDERS, Jock rush for 6 yards to the LIBERTY32 (CLAIBORNE, L.)." newcontext="H,2,4,V32">
+    <p_ru vh="H" name="SANDERS, Jock" gain="6"></p_ru>
+    <p_tk vh="V" name="CLAIBORNE, L."></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="4" spot="LIBERTY32" context="H,2,4,V32" playid="14,8,140" type="P" text="BROWN, Jarrett pass incomplete to DEVINE, Noel." newcontext="H,3,4,V32">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="INC" rcv="DEVINE, Noel"></p_pa>
+   </play>
+   <play hasball="WVU" down="3" togo="4" spot="LIBERTY32" context="H,3,4,V32" playid="14,9,141" type="R" first="R" text="BROWN, Jarrett rush for 8 yards to the LIBERTY24, 1ST DOWN WVU, out-of-bounds (CLAIBORNE, L.)." ob="Y" newcontext="H,1,10,V24">
+    <p_ru vh="H" name="BROWN, Jarrett" gain="8"></p_ru>
+    <p_tk vh="V" name="CLAIBORNE, L."></p_tk>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY24" context="H,1,10,V24" playid="14,10,142" type="R" text="DEVINE, Noel rush for 8 yards to the LIBERTY16 (ADAMS, T.;ROCCO, C.)." newcontext="H,2,2,V16">
+    <p_ru vh="H" name="DEVINE, Noel" gain="8"></p_ru>
+    <p_tk vh="V" name="ADAMS, T." assist="Y"></p_tk>
+    <p_tk vh="V" name="ROCCO, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="2" spot="LIBERTY16" context="H,2,2,V16" playid="14,11,143" type="R" text="RODGERS, Mark rush for loss of 3 yards to the LIBERTY19 (JACOBS, T.;CHAPMAN, A.)." newcontext="H,3,5,V19">
+    <p_ru vh="H" name="RODGERS, Mark" gain="-3"></p_ru>
+    <p_tk vh="V" name="JACOBS, T." tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="CHAPMAN, A." tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="5" spot="LIBERTY19" context="H,3,5,V19" playid="14,12,144" type="P" text="BROWN, Jarrett pass incomplete to SANDERS, Jock." newcontext="H,4,5,V19">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="INC" rcv="SANDERS, Jock"></p_pa>
+   </play>
+   <play hasball="WVU" down="4" togo="5" spot="LIBERTY19" context="H,4,5,V19" playid="14,13,145" type="F" score="Y" clock="00:15" text="BITANCURT, T. field goal attempt from 36 GOOD, clock 00:15." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="BITANCURT, T." distance="36" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="13" H="26"></score>
+   <drivesum plays="11" yards="44" top="4:59" driveindex="14" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU30" context="H,1,0,H30" playid="14,14,146" type="K" text="LIDER, Josh kickoff 52 yards to the LIBERTY18, ALLEN, A. return 16 yards to the LIBERTY34 (SMITH, Lawrence;GOULBOURNE, O.)." newcontext="V,1,10,V34">
+    <p_ko vh="H" name="LIDER, Josh" gain="52"></p_ko>
+    <p_kr vh="V" name="ALLEN, A." gain="16"></p_kr>
+    <p_tk vh="H" name="SMITH, Lawrence" assist="Y"></p_tk>
+    <p_tk vh="H" name="GOULBOURNE, O." assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V34,00:15" vh="V" spot="V34" clock="00:15" driveindex="15,146"></drivestart>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY34" context="V,1,10,V34" playid="15,1,147" clock="00:10" text="LIBERTY drive start at 00:10." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY34" context="V,1,10,V34" playid="15,2,148" type="R" text="HAYES, B.J. rush for 2 yards to the LIBERTY36 (LAZEAR, Pat)." newcontext="V,2,8,V36">
+    <p_ru vh="V" name="HAYES, B.J." gain="2"></p_ru>
+    <p_tk vh="H" name="LAZEAR, Pat"></p_tk>
+   </play>
+   <score qtr="3" V="13" H="26"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="LIBERTY">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:39"></misc>
+    <rush att="6" yds="18" gain="26" loss="8" td="0" long="1"></rush>
+    <pass comp="3" att="5" int="0" yds="29" td="0" long="0" sacks="1" sackyds="8"></pass>
+    <rcv no="3" yds="29" td="0" long="0"></rcv>
+    <punt no="1" yds="42" long="1" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="42.0"></punt>
+    <ko no="1" yds="64" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="17" blkd="0"></fg>
+    <defense tackua="13" tacka="6" tot_tack="19" tflua="2" tfla="0" tflyds="6" sacks="0" sackyds="0"></defense>
+    <kr no="2" yds="39" td="0" long="0"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WVU">
+    <firstdowns no="4" rush="3" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:21"></misc>
+    <rush att="11" yds="57" gain="60" loss="3" td="0" long="0"></rush>
+    <pass comp="3" att="5" int="0" yds="17" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="17" td="0" long="0"></rcv>
+    <punt no="1" yds="40" long="40" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="40.0"></punt>
+    <ko no="2" yds="112" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <defense tackua="6" tacka="10" tot_tack="16" tflua="1" tfla="0" tflyds="8" sacks="1" sackyds="8" brup="1"></defense>
+    <kr no="1" yds="31" td="0" long="0"></kr>
+    <pr no="1" yds="1" td="0" long="1"></pr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="LIBERTY" down="2" togo="8" spot="LIBERTY36" context="V,2,8,V36" playid="15,3,149" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,2,8,V36">
+   </play>
+   <play hasball="LIBERTY" down="2" togo="8" spot="LIBERTY36" context="V,2,8,V36" playid="15,4,150" type="P" text="BEECHER, T. pass complete to JONES, D. for 2 yards to the LIBERTY38 (ALLEN, Franchot;GOODE, Najee)." newcontext="V,3,6,V38">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="JONES, D." gain="2"></p_pa>
+    <p_tk vh="H" name="ALLEN, Franchot" assist="Y"></p_tk>
+    <p_tk vh="H" name="GOODE, Najee" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="6" spot="LIBERTY38" context="V,3,6,V38" playid="15,5,151" type="E" first="E" text="PENALTY WVU pass interference (HOGAN, Brandon) 4 yards to the LIBERTY42, 1ST DOWN LIBERTY." newcontext="V,1,10,V42">
+    <p_pn vh="H" code="PI" type="pass interference" name="HOGAN, Brandon" result="ACCEPT" at="V38" yards="4"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY42" context="V,1,10,V42" playid="15,6,152" type="P" text="BEECHER, T. pass complete to BROWN, M. for 4 yards to the LIBERTY46 (HOGAN, Brandon;SANDS, Robert)." newcontext="V,2,6,V46">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, M." gain="4"></p_pa>
+    <p_tk vh="H" name="HOGAN, Brandon" assist="Y"></p_tk>
+    <p_tk vh="H" name="SANDS, Robert" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="6" spot="LIBERTY46" context="V,2,6,V46" playid="15,7,153" type="E" text="PENALTY LIBERTY false start (VARGAS, J.) 5 yards to the LIBERTY41." newcontext="V,2,11,V41">
+    <p_pn vh="V" code="FS" type="false start" name="VARGAS, J." result="ACCEPT" at="V46" yards="5"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="11" spot="LIBERTY41" context="V,2,11,V41" playid="15,8,154" type="P" text="BEECHER, T. pass incomplete to BROWN, M.." newcontext="V,3,11,V41">
+    <p_pa vh="V" qb="BEECHER, T." result="INC" rcv="BROWN, M."></p_pa>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="11" spot="LIBERTY41" context="V,3,11,V41" playid="15,9,155" type="P" text="BEECHER, T. sacked for loss of 1 yard to the LIBERTY40 (THOMAS, J.T.;MILLER, Julian)." newcontext="V,4,12,V40">
+    <p_pa vh="V" qb="BEECHER, T." result="SACK" gain="-1"></p_pa>
+    <p_tk vh="H" name="THOMAS, J.T." sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="MILLER, Julian" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="4" togo="12" spot="LIBERTY40" context="V,4,12,V40" playid="15,10,156" type="U" text="LARSSON, M. punt 35 yards to the WVU25, HOGAN, Brandon return 10 yards to the WVU35 (VINSON, B.)." newcontext="H,1,10,H35">
+    <p_pu vh="V" name="LARSSON, M." gain="35"></p_pu>
+    <p_pr vh="H" name="HOGAN, Brandon" gain="10"></p_pr>
+    <p_tk vh="V" name="VINSON, B."></p_tk>
+   </play>
+   <drivesum plays="5" yards="6" top="3:02" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H35,15:00" vh="H" spot="H35" clock="15:00" driveindex="16,156"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU35" context="H,1,10,H35" playid="16,1,157" clock="12:08" text="WVU drive start at 12:08." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU35" context="H,1,10,H35" playid="16,2,158" type="R" text="DEVINE, Noel rush for 7 yards to the WVU42 (LEE, K.;SUMMERS, C.)." newcontext="H,2,3,H42">
+    <p_ru vh="H" name="DEVINE, Noel" gain="7"></p_ru>
+    <p_tk vh="V" name="LEE, K." assist="Y"></p_tk>
+    <p_tk vh="V" name="SUMMERS, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="WVU" down="2" togo="3" spot="WVU42" context="H,2,3,H42" playid="16,3,159" type="R" text="DEVINE, Noel rush for 2 yards to the WVU44 (CHEEK, W.)." newcontext="H,3,1,H44">
+    <p_ru vh="H" name="DEVINE, Noel" gain="2"></p_ru>
+    <p_tk vh="V" name="CHEEK, W."></p_tk>
+   </play>
+   <play hasball="WVU" down="3" togo="1" spot="WVU44" context="H,3,1,H44" playid="16,4,160" type="P" text="BROWN, Jarrett pass incomplete to CLARKE, Ryan." newcontext="H,4,1,H44">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="INC" rcv="CLARKE, Ryan"></p_pa>
+   </play>
+   <play hasball="WVU" down="4" togo="1" spot="WVU44" context="H,4,1,H44" playid="16,5,161" type="U" text="KOZLOWSKI, S. punt 55 yards to the LIBERTY1, downed." newcontext="V,1,10,V01">
+    <p_pu vh="H" name="KOZLOWSKI, S." gain="55" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="1:30" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,V01,12:08" vh="V" spot="V01" clock="12:08" driveindex="17,161"></drivestart>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY01" context="V,1,10,V01" playid="17,1,162" clock="10:38" text="LIBERTY drive start at 10:38." newcontext="V,1,10,V01">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY01" context="V,1,10,V01" playid="17,2,163" type="R" text="BEECHER, T. rush for 1 yard to the LIBERTY2 (NEILD, Chris;SANDS, Robert)." newcontext="V,2,9,V02">
+    <p_ru vh="V" name="BEECHER, T." gain="1"></p_ru>
+    <p_tk vh="H" name="NEILD, Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="SANDS, Robert" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="9" spot="LIBERTY02" context="V,2,9,V02" playid="17,3,164" type="R" first="R" text="ALLEN, A. rush for 14 yards to the LIBERTY16, 1ST DOWN LIBERTY (TANDY, Keith)." newcontext="V,1,10,V16">
+    <p_ru vh="V" name="ALLEN, A." gain="14"></p_ru>
+    <p_tk vh="H" name="TANDY, Keith"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY16" context="V,1,10,V16" playid="17,4,165" type="R" text="BROWN, M. rush for loss of 2 yards to the LIBERTY14 (LAZEAR, Pat;MILLER, Julian)." newcontext="V,2,12,V14">
+    <p_ru vh="V" name="BROWN, M." gain="-2"></p_ru>
+    <p_tk vh="H" name="LAZEAR, Pat" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="MILLER, Julian" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="12" spot="LIBERTY14" context="V,2,12,V14" playid="17,5,166" type="P" text="BEECHER, T. pass incomplete to BROWN, M. (THOMAS, J.T.)." newcontext="V,3,12,V14">
+    <p_pa vh="V" qb="BEECHER, T." result="INC" rcv="BROWN, M."></p_pa>
+    <p_bu vh="H" name="THOMAS, J.T."></p_bu>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="12" spot="LIBERTY14" context="V,3,12,V14" playid="17,6,167" type="R" first="E" text="BEECHER, T. rush for 5 yards to the LIBERTY19 (THOMAS, J.T.), PENALTY WVU personal foul (THOMAS, J.T.) 15 yards to the LIBERTY34, 1ST DOWN LIBERTY." newcontext="V,1,10,V34">
+    <p_ru vh="V" name="BEECHER, T." gain="5"></p_ru>
+    <p_tk vh="H" name="THOMAS, J.T."></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" name="THOMAS, J.T." result="ACCEPT" at="V19" yards="15"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY34" context="V,1,10,V34" playid="17,7,168" text="1st and 10." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY34" context="V,1,10,V34" playid="17,8,169" type="P" text="BEECHER, T. pass incomplete to BROWN, F. (HOGAN, Brandon)." newcontext="V,2,10,V34">
+    <p_pa vh="V" qb="BEECHER, T." result="INC" rcv="BROWN, F."></p_pa>
+    <p_bu vh="H" name="HOGAN, Brandon"></p_bu>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="10" spot="LIBERTY34" context="V,2,10,V34" playid="17,9,170" type="P" text="BEECHER, T. pass complete to BROWN, F. for 5 yards to the LIBERTY39 (HOGAN, Brandon)." newcontext="V,3,5,V39">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, F." gain="5"></p_pa>
+    <p_tk vh="H" name="HOGAN, Brandon"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="5" spot="LIBERTY39" context="V,3,5,V39" playid="17,10,171" type="P" turnover="I" text="BEECHER, T. pass intercepted by SANDS, Robert at the WVU38, SANDS, Robert return 0 yards to the WVU38." newcontext="H,1,10,H38">
+    <p_pa vh="V" qb="BEECHER, T." result="INT"></p_pa>
+    <p_ir vh="H" name="SANDS, Robert" at="H38" gain="0"></p_ir>
+   </play>
+   <drivesum plays="8" yards="38" top="3:11" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H38,10:38" vh="H" spot="H38" clock="10:38" driveindex="18,171"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="WVU38" context="H,1,10,H38" playid="18,1,172" clock="07:27" text="WVU drive start at 07:27." newcontext="H,1,10,H38">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="WVU38" context="H,1,10,H38" playid="18,2,173" type="P" first="P" text="BROWN, Jarrett pass complete to SANDERS, Jock for 38 yards to the LIBERTY24, 1ST DOWN WVU." newcontext="H,1,10,V24">
+    <p_pa vh="H" qb="BROWN, Jarrett" result="COMP" rcv="SANDERS, Jock" gain="38"></p_pa>
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY24" context="H,1,10,V24" playid="18,3,174" type="R" first="R" score="Y" clock="06:57" text="DEVINE, Noel rush for 24 yards to the LIBERTY0, 1ST DOWN WVU, TOUCHDOWN, clock 06:57." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="DEVINE, Noel" gain="24"></p_ru>
+   </play>
+   <play hasball="WVU" down="1" togo="0" spot="LIBERTY03" context="H,1,0,V03" playid="18,4,175" type="X" score="Y" text="BITANCURT, T. kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="BITANCURT, T." qb="BITANCURT, T." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="13" H="33"></score>
+   <drivesum plays="2" yards="62" top="0:30" driveindex="18" complete="Y"></drivesum>
+   <play hasball="WVU" down="1" togo="0" spot="WVU30" context="H,1,0,H30" playid="18,5,176" type="K" text="LIDER, Josh kickoff 45 yards to the LIBERTY25, HEWLETT, A. return 5 yards to the LIBERTY30 (SMITH, Lawrence)." newcontext="V,1,10,V30">
+    <p_ko vh="H" name="LIDER, Josh" gain="45"></p_ko>
+    <p_kr vh="V" name="HEWLETT, A." gain="5"></p_kr>
+    <p_tk vh="H" name="SMITH, Lawrence"></p_tk>
+   </play>
+   <drivestart poss="V,V30,06:57" vh="V" spot="V30" clock="06:57" driveindex="19,176"></drivestart>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY30" context="V,1,10,V30" playid="19,1,177" clock="06:52" text="LIBERTY drive start at 06:52." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY30" context="V,1,10,V30" playid="19,2,178" type="R" text="ALLEN, A. rush for loss of 3 yards to the LIBERTY27 (LAZEAR, Pat)." newcontext="V,2,13,V27">
+    <p_ru vh="V" name="ALLEN, A." gain="-3"></p_ru>
+    <p_tk vh="H" name="LAZEAR, Pat" tfl="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="13" spot="LIBERTY27" context="V,2,13,V27" playid="19,3,179" type="P" first="P" text="BEECHER, T. pass complete to BROWN, M. for 21 yards to the LIBERTY48, 1ST DOWN LIBERTY, out-of-bounds (GARVIN, Terence)." ob="Y" newcontext="V,1,10,V48">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, M." gain="21"></p_pa>
+    <p_tk vh="H" name="GARVIN, Terence"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="LIBERTY48" context="V,1,10,V48" playid="19,4,180" type="R" text="BEECHER, T. rush for loss of 1 yard to the LIBERTY47 (MILLER, Julian)." newcontext="V,2,11,V47">
+    <p_ru vh="V" name="BEECHER, T." gain="-1"></p_ru>
+    <p_tk vh="H" name="MILLER, Julian" tfl="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="11" spot="LIBERTY47" context="V,2,11,V47" playid="19,5,181" type="P" first="P" text="BEECHER, T. pass complete to BROWN, M. for 13 yards to the WVU40, 1ST DOWN LIBERTY, out-of-bounds." ob="Y" newcontext="V,1,10,H40">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, M." gain="13"></p_pa>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU40" context="V,1,10,H40" playid="19,6,182" type="R" text="ALLEN, A. rush for 3 yards to the WVU37 (GOODE, Najee;GOULBOURNE, O.)." newcontext="V,2,7,H37">
+    <p_ru vh="V" name="ALLEN, A." gain="3"></p_ru>
+    <p_tk vh="H" name="GOODE, Najee" assist="Y"></p_tk>
+    <p_tk vh="H" name="GOULBOURNE, O." assist="Y"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="7" spot="WVU37" context="V,2,7,H37" playid="19,7,183" type="E" first="E" text="PENALTY WVU pass interference (RICHARSON, Kent) 5 yards to the WVU32, 1ST DOWN LIBERTY." newcontext="V,1,10,H32">
+    <p_pn vh="H" code="PI" type="pass interference" name="RICHARSON, Kent" result="ACCEPT" at="H37" yards="5"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="10" spot="WVU32" context="V,1,10,H32" playid="19,8,184" type="P" text="BEECHER, T. pass incomplete to SUMMERS, C.." newcontext="V,2,10,H32">
+    <p_pa vh="V" qb="BEECHER, T." result="INC" rcv="SUMMERS, C."></p_pa>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="10" spot="WVU32" context="V,2,10,H32" playid="19,9,185" type="R" text="ALLEN, A. rush for no gain to the WVU32 (TAYLOR, Josh)." newcontext="V,3,10,H32">
+    <p_ru vh="V" name="ALLEN, A." gain="0"></p_ru>
+    <p_tk vh="H" name="TAYLOR, Josh"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="10" spot="WVU32" context="V,3,10,H32" playid="19,10,186" type="#" clock="03:09" text="Timeout LIBERTY, clock 03:09." newcontext="V,3,10,H32">
+    <p_to vh="V" team="LIBERTY"></p_to>
+   </play>
+   <play hasball="LIBERTY" down="3" togo="10" spot="WVU32" context="V,3,10,H32" playid="19,11,187" type="R" text="BEECHER, T. rush for 6 yards to the WVU26." newcontext="V,4,4,H26">
+    <p_ru vh="V" name="BEECHER, T." gain="6"></p_ru>
+   </play>
+   <play hasball="LIBERTY" down="4" togo="4" spot="WVU26" context="V,4,4,H26" playid="19,12,188" type="E" text="PENALTY LIBERTY false start (WEAVER, J.) 5 yards to the WVU31." newcontext="V,4,9,H31">
+    <p_pn vh="V" code="FS" type="false start" name="WEAVER, J." result="ACCEPT" at="H26" yards="5"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="4" togo="9" spot="WVU31" context="V,4,9,H31" playid="19,13,189" type="P" first="P" text="BEECHER, T. pass complete to BROWN, M. for 27 yards to the WVU4, 1ST DOWN LIBERTY (RICHARSON, Kent;SANDS, Robert), PENALTY WVU holding declined." newcontext="V,1,0,H04">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="BROWN, M." gain="27"></p_pa>
+    <p_tk vh="H" name="RICHARSON, Kent" assist="Y"></p_tk>
+    <p_tk vh="H" name="SANDS, Robert" assist="Y"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="SANDS, Robert" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="0" spot="WVU04" context="V,1,0,H04" playid="19,14,190" type="#" clock="01:27" text="Timeout LIBERTY, clock 01:27." newcontext="V,1,0,H04">
+    <p_to vh="V" team="LIBERTY"></p_to>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="0" spot="WVU04" context="V,1,0,H04" playid="19,15,191" type="E" text="PENALTY LIBERTY holding (COSBY, M.) 10 yards to the WVU14." newcontext="V,1,0,H14">
+    <p_pn vh="V" code="HO" type="holding" name="COSBY, M." result="ACCEPT" at="H04" yards="10"></p_pn>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="0" spot="WVU14" context="V,1,0,H14" playid="19,16,192" type="P" text="BEECHER, T. pass complete to ALLEN, A. for 5 yards to the WVU9, out-of-bounds (RICHARSON, Kent)." ob="Y" newcontext="V,2,0,H09">
+    <p_pa vh="V" qb="BEECHER, T." result="COMP" rcv="ALLEN, A." gain="5"></p_pa>
+    <p_tk vh="H" name="RICHARSON, Kent"></p_tk>
+   </play>
+   <play hasball="LIBERTY" down="2" togo="0" spot="WVU09" context="V,2,0,H09" playid="19,17,193" type="R" score="Y" clock="00:52" text="BROWN, M. rush for 9 yards to the WVU0, TOUCHDOWN, clock 00:52." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="BROWN, M." gain="9"></p_ru>
+   </play>
+   <play hasball="LIBERTY" down="1" togo="0" spot="WVU03" context="V,1,0,H03" playid="19,18,194" type="X" score="Y" text="BEVINS, M. kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="BEVINS, M." qb="BEVINS, M." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="20" H="33"></score>
+   <play hasball="LIBERTY" down="1" togo="0" spot="LIBERTY30" context="V,1,0,V30" playid="19,19,195" type="#" clock="00:52" text="Timeout WVU, clock 00:52." newcontext="V,1,0,V30">
+    <p_to vh="H" team="WVU"></p_to>
+   </play>
+   <drivesum plays="11" yards="70" top="6:00" driveindex="19" complete="Y"></drivesum>
+   <play hasball="LIBERTY" down="1" togo="0" spot="LIBERTY30" context="V,1,0,V30" playid="19,20,196" type="K" text="SHIPPS, B. kickoff 18 yards to the LIBERTY48, HOGAN, Brandon return 0 yards to the LIBERTY48 (CHEEK, W.)." newcontext="H,1,10,V48">
+    <p_ko vh="V" name="SHIPPS, B." gain="18"></p_ko>
+    <p_kr vh="H" name="HOGAN, Brandon" gain="0"></p_kr>
+    <p_tk vh="V" name="CHEEK, W."></p_tk>
+   </play>
+   <drivestart poss="H,V48,00:52" vh="H" spot="V48" clock="00:52" driveindex="20,196"></drivestart>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY48" context="H,1,10,V48" playid="20,1,197" clock="00:50" text="WVU drive start at 00:50." newcontext="H,1,10,V48">
+   </play>
+   <play hasball="WVU" down="1" togo="10" spot="LIBERTY48" context="H,1,10,V48" playid="20,2,198" type="R" text="TEAM rush for loss of 3 yards to the WVU49." newcontext="H,2,13,H49">
+    <p_ru vh="H" name="TEAM" gain="-3"></p_ru>
+   </play>
+   <play hasball="WVU" down="2" togo="13" spot="WVU49" context="H,2,13,H49" playid="20,3,199" type="R" text="TEAM rush for loss of 2 yards to the WVU47." newcontext="H,3,15,H47">
+    <p_ru vh="H" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="WVU" down="3" togo="15" spot="WVU47" context="H,3,15,H47" playid="20,4,200" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,3,15,H47">
+   </play>
+   <drivesum plays="2" yards="-5" top="0:50" driveindex="20" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="West Virginia defeats Liberty by a score of 33 to 20."></play>
+   <score final="Y" V="20" H="33"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="LIBERTY">
+    <firstdowns no="7" rush="1" pass="3" penalty="3"></firstdowns>
+    <penalties no="3" yds="20"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="12:08"></misc>
+    <rush att="11" yds="31" gain="38" loss="7" td="1" long="0"></rush>
+    <pass comp="7" att="12" int="1" yds="77" td="0" long="0" sacks="1" sackyds="1"></pass>
+    <rcv no="7" yds="77" td="0" long="0"></rcv>
+    <punt no="1" yds="35" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="35.0"></punt>
+    <ko no="1" yds="18" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="3" tacka="2" tot_tack="5" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="5" td="0" long="0"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="WVU">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="3" yds="24"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="02:52"></misc>
+    <rush att="5" yds="28" gain="33" loss="5" td="1" long="2"></rush>
+    <pass comp="1" att="2" int="0" yds="38" td="0" long="5" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="38" td="0" long="5"></rcv>
+    <punt no="1" yds="55" long="15" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="55.0"></punt>
+    <ko no="1" yds="45" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="14" tot_tack="23" tflua="6" tfla="0" tflyds="10" sacks="2" sackyds="9" brup="2" int="1" intyds="0"></defense>
+    <kr no="1" yds="0" td="0" long="0"></kr>
+    <pr no="1" yds="10" td="0" long="9"></pr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="WVU" down="3" togo="15" spot="WVU47" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="0" htor="2" dtgtext="Game Over" ldtext="Drive started: 00:50, 4th Qtr"></downtogo>
+ </plays>

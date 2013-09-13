@@ -1,0 +1,965 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="UGA" down="1" togo="10" spot="UGA30" context="V,1,10,V30" playid="0,1,0" text="OSU won the toss, deferred. UGA will receive and defend the west goal." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA30" context="V,1,10,V30" playid="0,2,1" text="OSU ball on OSU30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU30" context="H,1,10,H30" playid="0,3,2" type="K" text="Sharp,Quinn kickoff 70 yards to the UGA0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Sharp,Quinn" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,15:00" vh="V" spot="V20" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA20" context="V,1,10,V20" playid="1,1,3" type="R" text="Samuel,Richard rush for 3 yards to the UGA23 (Anderson,T.)." newcontext="V,2,7,V23">
+    <p_ru vh="V" name="Samuel,Richard" gain="3"></p_ru>
+    <p_tk vh="H" name="Anderson,T."></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="7" spot="UGA23" context="V,2,7,V23" playid="1,2,4" type="R" text="Samuel,Richard rush for 3 yards to the UGA26 (Miller,Swanson)." newcontext="V,3,4,V26">
+    <p_ru vh="V" name="Samuel,Richard" gain="3"></p_ru>
+    <p_tk vh="H" name="Miller,Swanson"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="4" spot="UGA26" context="V,3,4,V26" playid="1,3,5" type="P" first="P" text="Cox,Joe pass complete to Green,A.J. for 29 yards to the OSU45, 1ST DOWN UGA (Antoine,Lucien;Anderson,T.)." newcontext="V,1,10,H45">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Green,A.J." gain="29"></p_pa>
+    <p_tk vh="H" name="Antoine,Lucien" assist="Y"></p_tk>
+    <p_tk vh="H" name="Anderson,T." assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="OSU45" context="V,1,10,H45" playid="1,4,6" type="R" text="Smith,Branden rush for 4 yards to the OSU41 (Sexton,Andre)." newcontext="V,2,6,H41">
+    <p_ru vh="V" name="Smith,Branden" gain="4"></p_ru>
+    <p_tk vh="H" name="Sexton,Andre"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="6" spot="OSU41" context="V,2,6,H41" playid="1,5,7" type="R" first="R" text="Samuel,Richard rush for 19 yards to the OSU22, 1ST DOWN UGA (Anderson,T.)." newcontext="V,1,10,H22">
+    <p_ru vh="V" name="Samuel,Richard" gain="19"></p_ru>
+    <p_tk vh="H" name="Anderson,T."></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="OSU22" context="V,1,10,H22" playid="1,6,8" type="R" text="Samuel,Richard rush for 6 yards to the OSU16 (Johnson,Victor)." newcontext="V,2,4,H16">
+    <p_ru vh="V" name="Samuel,Richard" gain="6"></p_ru>
+    <p_tk vh="H" name="Johnson,Victor"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="4" spot="OSU16" context="V,2,4,H16" playid="1,7,9" type="R" text="Gray,Logan rush for 2 yards to the OSU14 (Booker,Donald)." newcontext="V,3,2,H14">
+    <p_ru vh="V" name="Gray,Logan" gain="2"></p_ru>
+    <p_tk vh="H" name="Booker,Donald"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="2" spot="OSU14" context="V,3,2,H14" playid="1,8,10" type="E" first="E" text="Samuel,Richard rush for 3 yards to the OSU11 (Lavine,Patrick), PENALTY OSU offside defense 5 yards to the OSU9, 1ST DOWN UGA, NO PLAY." newcontext="V,1,0,H09">
+    <p_pn vh="H" code="OD" type="offside defense" result="ACCEPT" at="H14" yards="5"></p_pn>
+   </play>
+   <play hasball="UGA" down="1" togo="0" spot="OSU09" context="V,1,0,H09" playid="1,9,11" type="R" text="Smith,Branden rush for 5 yards to the OSU4 (Cox,Perrish)." newcontext="V,2,0,H04">
+    <p_ru vh="V" name="Smith,Branden" gain="5"></p_ru>
+    <p_tk vh="H" name="Cox,Perrish"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="0" spot="OSU04" context="V,2,0,H04" playid="1,10,12" type="P" text="Cox,Joe pass incomplete to Green,A.J. (Cox,Perrish)." newcontext="V,3,0,H04">
+    <p_pa vh="V" qb="Cox,Joe" result="INC" rcv="Green,A.J."></p_pa>
+    <p_bu vh="H" name="Cox,Perrish"></p_bu>
+   </play>
+   <play hasball="UGA" down="3" togo="0" spot="OSU04" context="V,3,0,H04" playid="1,11,13" type="P" score="Y" clock="09:42" text="Cox,Joe pass complete to Moore,Michael for 4 yards to the OSU0, TOUCHDOWN, clock 09:42." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Moore,Michael" gain="4"></p_pa>
+   </play>
+   <play hasball="UGA" down="1" togo="0" spot="OSU03" context="V,1,0,H03" playid="1,12,14" type="X" score="Y" text="Walsh,Blair kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Walsh,Blair" qb="Walsh,Blair" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="0"></score>
+   <drivesum plays="10" yards="80" top="5:18" driveindex="1" complete="Y"></drivesum>
+   <play hasball="UGA" down="1" togo="0" spot="UGA30" context="V,1,0,V30" playid="1,13,15" type="K" text="Walsh,Blair kickoff 62 yards to the OSU8, Cox,Perrish return 7 yards to the OSU15 (Curran,Rennie), PENALTY OSU clipping (Conner,DeMarcus) 7 yards to the OSU8, 1st and 10, OSU ball on OSU8." newcontext="H,1,10,H08">
+    <p_ko vh="V" name="Walsh,Blair" gain="62"></p_ko>
+    <p_kr vh="H" name="Cox,Perrish" gain="7"></p_kr>
+    <p_tk vh="V" name="Curran,Rennie"></p_tk>
+    <p_pn vh="H" code="CL" type="clipping" name="Conner,DeMarcus" result="ACCEPT" at="H15" yards="7"></p_pn>
+   </play>
+   <drivestart poss="H,H08,09:42" vh="H" spot="H08" clock="09:42" driveindex="2,15"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU08" context="H,1,10,H08" playid="2,1,16" clock="09:42" text="OKLAHOMA STATE drive start at 09:42." newcontext="H,1,10,H08">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU08" context="H,1,10,H08" playid="2,2,17" type="R" text="Hunter,Kendall rush for 1 yard to the OSU9 (Atkins,Geno)." newcontext="H,2,9,H09">
+    <p_ru vh="H" name="Hunter,Kendall" gain="1"></p_ru>
+    <p_tk vh="V" name="Atkins,Geno"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="9" spot="OSU09" context="H,2,9,H09" playid="2,3,18" type="R" text="Hunter,Kendall rush for 2 yards to the OSU11 (Curran,Rennie)." newcontext="H,3,7,H11">
+    <p_ru vh="H" name="Hunter,Kendall" gain="2"></p_ru>
+    <p_tk vh="V" name="Curran,Rennie"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="7" spot="OSU11" context="H,3,7,H11" playid="2,4,19" type="R" first="R" text="Robinson,Zac rush for 14 yards to the OSU25, 1ST DOWN OSU (Jones,Reshad)." newcontext="H,1,10,H25">
+    <p_ru vh="H" name="Robinson,Zac" gain="14"></p_ru>
+    <p_tk vh="V" name="Jones,Reshad"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU25" context="H,1,10,H25" playid="2,5,20" type="R" text="Hunter,Kendall rush for loss of 1 yard to the OSU24 (Weston,Kade)." newcontext="H,2,11,H24">
+    <p_ru vh="H" name="Hunter,Kendall" gain="-1"></p_ru>
+    <p_tk vh="V" name="Weston,Kade" tfl="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="11" spot="OSU24" context="H,2,11,H24" playid="2,6,21" type="P" text="Robinson,Zac pass incomplete to Anyiam,Hubert." newcontext="H,3,11,H24">
+    <p_pa vh="H" qb="Robinson,Zac" result="INC" rcv="Anyiam,Hubert"></p_pa>
+   </play>
+   <play hasball="OSU" down="3" togo="11" spot="OSU24" context="H,3,11,H24" playid="2,7,22" type="E" text="PENALTY OSU false start 5 yards to the OSU19." newcontext="H,3,16,H19">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="H24" yards="5"></p_pn>
+   </play>
+   <play hasball="OSU" down="3" togo="16" spot="OSU19" context="H,3,16,H19" playid="2,8,23" type="P" text="Robinson,Zac pass complete to Hunter,Kendall for 8 yards to the OSU27 (Curran,Rennie)." newcontext="H,4,8,H27">
+    <p_pa vh="H" qb="Robinson,Zac" result="COMP" rcv="Hunter,Kendall" gain="8"></p_pa>
+    <p_tk vh="V" name="Curran,Rennie"></p_tk>
+   </play>
+   <play hasball="OSU" down="4" togo="8" spot="OSU27" context="H,4,8,H27" playid="2,9,24" type="U" text="Sharp,Quinn punt 61 yards to the UGA12, Miller,Prince return 4 yards to the UGA16 (Antoine,Lucien)." newcontext="V,1,10,V16">
+    <p_pu vh="H" name="Sharp,Quinn" gain="61" in20="Y"></p_pu>
+    <p_pr vh="V" name="Miller,Prince" gain="4"></p_pr>
+    <p_tk vh="H" name="Antoine,Lucien"></p_tk>
+   </play>
+   <drivesum plays="6" yards="19" top="3:41" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,V16,09:42" vh="V" spot="V16" clock="09:42" driveindex="3,24"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA16" context="V,1,10,V16" playid="3,1,25" clock="06:01" text="GEORGIA drive start at 06:01." newcontext="V,1,10,V16">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA16" context="V,1,10,V16" playid="3,2,26" type="R" text="Samuel,Richard rush for 3 yards to the UGA19 (Chinasa,Ugo)." newcontext="V,2,7,V19">
+    <p_ru vh="V" name="Samuel,Richard" gain="3"></p_ru>
+    <p_tk vh="H" name="Chinasa,Ugo"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="7" spot="UGA19" context="V,2,7,V19" playid="3,3,27" type="E" text="PENALTY OSU offside defense (Miller,Swanson) 5 yards to the UGA24." newcontext="V,2,2,V24">
+    <p_pn vh="H" code="OD" type="offside defense" name="Miller,Swanson" result="ACCEPT" at="V19" yards="5"></p_pn>
+   </play>
+   <play hasball="UGA" down="2" togo="2" spot="UGA24" context="V,2,2,V24" playid="3,4,28" type="R" first="R" text="Samuel,Richard rush for 3 yards to the UGA27, 1ST DOWN UGA (Booker,Donald)." newcontext="V,1,10,V27">
+    <p_ru vh="V" name="Samuel,Richard" gain="3"></p_ru>
+    <p_tk vh="H" name="Booker,Donald"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA27" context="V,1,10,V27" playid="3,5,29" type="P" text="Cox,Joe pass complete to Green,A.J. for 3 yards to the UGA30 (Cox,Perrish)." newcontext="V,2,7,V30">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Green,A.J." gain="3"></p_pa>
+    <p_tk vh="H" name="Cox,Perrish"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="7" spot="UGA30" context="V,2,7,V30" playid="3,6,30" type="P" text="Cox,Joe pass incomplete to Green,A.J. (Cox,Perrish)." newcontext="V,3,7,V30">
+    <p_pa vh="V" qb="Cox,Joe" result="INC" rcv="Green,A.J."></p_pa>
+    <p_bu vh="H" name="Cox,Perrish"></p_bu>
+   </play>
+   <play hasball="UGA" down="3" togo="7" spot="UGA30" context="V,3,7,V30" playid="3,7,31" type="P" text="Cox,Joe pass incomplete to Moore,Michael (Cox,Perrish)." newcontext="V,4,7,V30">
+    <p_pa vh="V" qb="Cox,Joe" result="INC" rcv="Moore,Michael"></p_pa>
+    <p_bu vh="H" name="Cox,Perrish"></p_bu>
+   </play>
+   <play hasball="UGA" down="4" togo="7" spot="UGA30" context="V,4,7,V30" playid="3,8,32" type="U" text="Butler,Drew punt 68 yards to the OSU2, downed." newcontext="H,1,10,H02">
+    <p_pu vh="V" name="Butler,Drew" gain="68" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="14" top="2:25" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,H02,06:01" vh="H" spot="H02" clock="06:01" driveindex="4,32"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU02" context="H,1,10,H02" playid="4,1,33" clock="03:36" text="OKLAHOMA STATE drive start at 03:36." newcontext="H,1,10,H02">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU02" context="H,1,10,H02" playid="4,2,34" type="R" text="Toston,Keith rush for 4 yards to the OSU6 (Gamble,Darryl)." newcontext="H,2,6,H06">
+    <p_ru vh="H" name="Toston,Keith" gain="4"></p_ru>
+    <p_tk vh="V" name="Gamble,Darryl"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="6" spot="OSU06" context="H,2,6,H06" playid="4,3,35" type="R" text="Toston,Keith rush for 5 yards to the OSU11 (Gamble,Darryl)." newcontext="H,3,1,H11">
+    <p_ru vh="H" name="Toston,Keith" gain="5"></p_ru>
+    <p_tk vh="V" name="Gamble,Darryl"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="1" spot="OSU11" context="H,3,1,H11" playid="4,4,36" type="R" first="R" text="Robinson,Zac rush for 2 yards to the OSU13, 1ST DOWN OSU (Owens,Jeff)." newcontext="H,1,10,H13">
+    <p_ru vh="H" name="Robinson,Zac" gain="2"></p_ru>
+    <p_tk vh="V" name="Owens,Jeff"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU13" context="H,1,10,H13" playid="4,5,37" type="R" text="Hunter,Kendall rush for 9 yards to the OSU22 (Cuff,Vance;Curran,Rennie)." newcontext="H,2,1,H22">
+    <p_ru vh="H" name="Hunter,Kendall" gain="9"></p_ru>
+    <p_tk vh="V" name="Cuff,Vance" assist="Y"></p_tk>
+    <p_tk vh="V" name="Curran,Rennie" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="1" spot="OSU22" context="H,2,1,H22" playid="4,6,38" type="R" first="R" text="Hunter,Kendall rush for 1 yard to the OSU23, 1ST DOWN OSU (Dobbs,Demarcus)." newcontext="H,1,10,H23">
+    <p_ru vh="H" name="Hunter,Kendall" gain="1"></p_ru>
+    <p_tk vh="V" name="Dobbs,Demarcus"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU23" context="H,1,10,H23" playid="4,7,39" type="P" text="Robinson,Zac pass incomplete to Bryant,Dez (Evans,Bryan)." newcontext="H,2,10,H23">
+    <p_pa vh="H" qb="Robinson,Zac" result="INC" rcv="Bryant,Dez"></p_pa>
+    <p_bu vh="V" name="Evans,Bryan"></p_bu>
+   </play>
+   <play hasball="OSU" down="2" togo="10" spot="OSU23" context="H,2,10,H23" playid="4,8,40" type="P" text="Robinson,Zac pass incomplete to Horton,Justin (Gamble,Darryl)." newcontext="H,3,10,H23">
+    <p_pa vh="H" qb="Robinson,Zac" result="INC" rcv="Horton,Justin"></p_pa>
+    <p_bu vh="V" name="Gamble,Darryl"></p_bu>
+   </play>
+   <play hasball="OSU" down="3" togo="10" spot="OSU23" context="H,3,10,H23" playid="4,9,41" type="P" text="Robinson,Zac pass incomplete, QB hurry by Cuff,Vance." newcontext="H,4,10,H23">
+    <p_pa vh="H" qb="Robinson,Zac" result="INC"></p_pa>
+    <p_qbh vh="V" name="Cuff,Vance"></p_qbh>
+   </play>
+   <play hasball="OSU" down="4" togo="10" spot="OSU23" context="H,4,10,H23" playid="4,10,42" type="U" text="Sharp,Quinn punt 43 yards to the UGA34, out-of-bounds." ob="Y" newcontext="V,1,10,V34">
+    <p_pu vh="H" name="Sharp,Quinn" gain="43" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="8" yards="21" top="2:45" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="V,V34,03:36" vh="V" spot="V34" clock="03:36" driveindex="5,42"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA34" context="V,1,10,V34" playid="5,1,43" clock="00:51" text="GEORGIA drive start at 00:51." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA34" context="V,1,10,V34" playid="5,2,44" type="R" text="Samuel,Richard rush for 3 yards to the UGA37 (Booker,Donald)." newcontext="V,2,7,V37">
+    <p_ru vh="V" name="Samuel,Richard" gain="3"></p_ru>
+    <p_tk vh="H" name="Booker,Donald"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="7" spot="UGA37" context="V,2,7,V37" playid="5,3,45" type="P" text="Cox,Joe pass complete to Moore,Michael for 2 yards to the UGA39, out-of-bounds, PENALTY UGA holding (Green,A.J.) 10 yards to the UGA29." ob="Y" newcontext="V,2,15,V29">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Moore,Michael" gain="2"></p_pa>
+    <p_pn vh="V" code="HO" type="holding" name="Green,A.J." result="ACCEPT" at="V39" yards="10"></p_pn>
+   </play>
+   <play hasball="UGA" down="2" togo="15" spot="UGA29" context="V,2,15,V29" playid="5,4,46" text="2nd and 15." newcontext="V,2,15,V29">
+   </play>
+   <score qtr="1" V="7" H="0"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UGA">
+    <firstdowns no="4" rush="2" pass="1" penalty="1"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:34"></misc>
+    <rush att="10" yds="51" gain="51" loss="0" td="0" long="19"></rush>
+    <pass comp="4" att="7" int="0" yds="38" td="1" long="29" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="38" td="1" long="29"></rcv>
+    <punt no="1" yds="68" long="68" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="68.0"></punt>
+    <ko no="1" yds="62" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="2" tot_tack="12" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="2" qbh="1"></defense>
+    <pr no="1" yds="4" td="0" long="4"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="OSU">
+    <firstdowns no="3" rush="3" pass="0" penalty="0"></firstdowns>
+    <penalties no="4" yds="22"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:26"></misc>
+    <rush att="9" yds="37" gain="38" loss="1" td="0" long="14"></rush>
+    <pass comp="1" att="5" int="0" yds="8" td="0" long="8" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="8" td="0" long="8"></rcv>
+    <punt no="2" yds="104" long="61" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="52.0"></punt>
+    <ko no="1" yds="70" ob="0" tb="1"></ko>
+    <defense tackua="12" tacka="2" tot_tack="14" sacks="0" sackyds="0" brup="3"></defense>
+    <kr no="1" yds="7" td="0" long="7"></kr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="UGA" down="2" togo="15" spot="UGA29" context="V,2,15,V29" playid="5,5,47" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,2,15,V29">
+   </play>
+   <play hasball="UGA" down="2" togo="15" spot="UGA29" context="V,2,15,V29" playid="5,6,48" type="P" text="Cox,Joe pass complete to Smith,Branden for 3 yards to the UGA32 (Hart,Darius)." newcontext="V,3,12,V32">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Smith,Branden" gain="3"></p_pa>
+    <p_tk vh="H" name="Hart,Darius"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="12" spot="UGA32" context="V,3,12,V32" playid="5,7,49" type="P" text="Cox,Joe pass incomplete to Moore,Michael (Lavine,Patrick)." newcontext="V,4,12,V32">
+    <p_pa vh="V" qb="Cox,Joe" result="INC" rcv="Moore,Michael"></p_pa>
+    <p_bu vh="H" name="Lavine,Patrick"></p_bu>
+   </play>
+   <play hasball="UGA" down="4" togo="12" spot="UGA32" context="V,4,12,V32" playid="5,8,50" type="U" text="Butler,Drew punt 54 yards to the OSU14, Bryant,Dez return 17 yards to the OSU31." newcontext="H,1,10,H31">
+    <p_pu vh="V" name="Butler,Drew" gain="54"></p_pu>
+    <p_pr vh="H" name="Bryant,Dez" gain="17"></p_pr>
+   </play>
+   <drivesum plays="4" yards="-2" top="1:54" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,H31,15:00" vh="H" spot="H31" clock="15:00" driveindex="6,50"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU31" context="H,1,10,H31" playid="6,1,51" clock="13:57" text="OKLAHOMA STATE drive start at 13:57." newcontext="H,1,10,H31">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU31" context="H,1,10,H31" playid="6,2,52" type="E" text="PENALTY OSU false start (Morgan,Anthony) 5 yards to the OSU26." newcontext="H,1,15,H26">
+    <p_pn vh="H" code="FS" type="false start" name="Morgan,Anthony" result="ACCEPT" at="H31" yards="5"></p_pn>
+   </play>
+   <play hasball="OSU" down="1" togo="15" spot="OSU26" context="H,1,15,H26" playid="6,3,53" type="R" text="Hunter,Kendall rush for 5 yards to the OSU31 (Battle,Roderick)." newcontext="H,2,10,H31">
+    <p_ru vh="H" name="Hunter,Kendall" gain="5"></p_ru>
+    <p_tk vh="V" name="Battle,Roderick"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="10" spot="OSU31" context="H,2,10,H31" playid="6,4,54" type="P" first="P" text="Robinson,Zac pass complete to Youman,Wilson for 23 yards to the UGA46, 1ST DOWN OSU (Evans,Bryan;Cuff,Vance)." newcontext="H,1,10,V46">
+    <p_pa vh="H" qb="Robinson,Zac" result="COMP" rcv="Youman,Wilson" gain="23"></p_pa>
+    <p_tk vh="V" name="Evans,Bryan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Cuff,Vance" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="UGA46" context="H,1,10,V46" playid="6,5,55" type="R" text="Hunter,Kendall rush for 2 yards to the UGA44 (Curran,Rennie)." newcontext="H,2,8,V44">
+    <p_ru vh="H" name="Hunter,Kendall" gain="2"></p_ru>
+    <p_tk vh="V" name="Curran,Rennie"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="8" spot="UGA44" context="H,2,8,V44" playid="6,6,56" type="E" text="Robinson,Zac rush for 2 yards to the UGA42 (Washington,M.), PENALTY OSU holding (Bond,Brady) 10 yards to the OSU46, NO PLAY." newcontext="H,2,18,H46">
+    <p_pn vh="H" code="HO" type="holding" name="Bond,Brady" result="ACCEPT" at="V44" yards="10"></p_pn>
+   </play>
+   <play hasball="OSU" down="2" togo="18" spot="OSU46" context="H,2,18,H46" playid="6,7,57" type="R" text="Toston,Keith rush for 4 yards to the 50 yardline (Curran,Rennie)." newcontext="H,3,14,H50">
+    <p_ru vh="H" name="Toston,Keith" gain="4"></p_ru>
+    <p_tk vh="V" name="Curran,Rennie"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="14" spot="OSU50" context="H,3,14,H50" playid="6,8,58" type="P" text="Robinson,Zac pass incomplete to Bryant,Dez, QB hurry by Curran,Rennie." newcontext="H,4,14,H50">
+    <p_pa vh="H" qb="Robinson,Zac" result="INC" rcv="Bryant,Dez"></p_pa>
+    <p_qbh vh="V" name="Curran,Rennie"></p_qbh>
+   </play>
+   <play hasball="OSU" down="4" togo="14" spot="OSU50" context="H,4,14,H50" playid="6,9,59" type="U" text="Sharp,Quinn punt 50 yards to the UGA0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Sharp,Quinn" gain="50" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="19" top="2:48" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="V,V20,13:57" vh="V" spot="V20" clock="13:57" driveindex="7,59"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA20" context="V,1,10,V20" playid="7,1,60" clock="11:09" text="GEORGIA drive start at 11:09." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA20" context="V,1,10,V20" playid="7,2,61" type="E" first="E" text="Cox,Joe pass incomplete, PENALTY OSU pass interference (Gent,Justin) 4 yards to the UGA24, 1ST DOWN UGA, NO PLAY." newcontext="V,1,10,V24">
+    <p_pn vh="H" code="PI" type="pass interference" name="Gent,Justin" result="ACCEPT" at="V20" yards="4"></p_pn>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA24" context="V,1,10,V24" playid="7,3,62" type="P" text="Cox,Joe pass incomplete to White,Aron." newcontext="V,2,10,V24">
+    <p_pa vh="V" qb="Cox,Joe" result="INC" rcv="White,Aron"></p_pa>
+   </play>
+   <play hasball="UGA" down="2" togo="10" spot="UGA24" context="V,2,10,V24" playid="7,4,63" type="P" text="Cox,Joe pass complete to Thomas,Carlton for 1 yard to the UGA25 (Lavine,Patrick;Anderson,T.)." newcontext="V,3,9,V25">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Thomas,Carlton" gain="1"></p_pa>
+    <p_tk vh="H" name="Lavine,Patrick" assist="Y"></p_tk>
+    <p_tk vh="H" name="Anderson,T." assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="9" spot="UGA25" context="V,3,9,V25" playid="7,5,64" type="#" clock="10:30" text="Timeout Georgia, clock 10:30." newcontext="V,3,9,V25">
+    <p_to vh="V" team="Georgia"></p_to>
+   </play>
+   <play hasball="UGA" down="3" togo="9" spot="UGA25" context="V,3,9,V25" playid="7,6,65" type="P" first="P" text="Cox,Joe pass complete to Thomas,Carlton for 17 yards to the UGA42, 1ST DOWN UGA (Johnson,Victor)." newcontext="V,1,10,V42">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Thomas,Carlton" gain="17"></p_pa>
+    <p_tk vh="H" name="Johnson,Victor"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA42" context="V,1,10,V42" playid="7,7,66" type="R" text="Samuel,Richard rush for 6 yards to the UGA48 (Anderson,T.)." newcontext="V,2,4,V48">
+    <p_ru vh="V" name="Samuel,Richard" gain="6"></p_ru>
+    <p_tk vh="H" name="Anderson,T."></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="4" spot="UGA48" context="V,2,4,V48" playid="7,8,67" type="R" text="Samuel,Richard rush for 3 yards to the OSU49 (Lavine,Patrick)." newcontext="V,3,1,H49">
+    <p_ru vh="V" name="Samuel,Richard" gain="3"></p_ru>
+    <p_tk vh="H" name="Lavine,Patrick"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="1" spot="OSU49" context="V,3,1,H49" playid="7,9,68" type="R" text="Samuel,Richard rush for loss of 1 yard to the 50 yardline (Antoine,Lucien)." newcontext="V,4,2,V50">
+    <p_ru vh="V" name="Samuel,Richard" gain="-1"></p_ru>
+    <p_tk vh="H" name="Antoine,Lucien" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="4" togo="2" spot="UGA50" context="V,4,2,V50" playid="7,10,69" type="U" text="Butler,Drew punt 50 yards to the OSU0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Butler,Drew" gain="50" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="30" top="3:14" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,H20,10:30" vh="H" spot="H20" clock="10:30" driveindex="8,69"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU20" context="H,1,10,H20" playid="8,1,70" clock="07:55" text="OKLAHOMA STATE drive start at 07:55." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU20" context="H,1,10,H20" playid="8,2,71" type="R" text="Hunter,Kendall rush for 1 yard to the OSU21 (Weston,Kade)." newcontext="H,2,9,H21">
+    <p_ru vh="H" name="Hunter,Kendall" gain="1"></p_ru>
+    <p_tk vh="V" name="Weston,Kade"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="9" spot="OSU21" context="H,2,9,H21" playid="8,3,72" type="R" text="Hunter,Kendall rush for 6 yards to the OSU27 (Gamble,Darryl)." newcontext="H,3,3,H27">
+    <p_ru vh="H" name="Hunter,Kendall" gain="6"></p_ru>
+    <p_tk vh="V" name="Gamble,Darryl"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="3" spot="OSU27" context="H,3,3,H27" playid="8,4,73" type="R" first="R" text="Hunter,Kendall rush for 3 yards to the OSU30, 1ST DOWN OSU (Gamble,Darryl)." newcontext="H,1,10,H30">
+    <p_ru vh="H" name="Hunter,Kendall" gain="3"></p_ru>
+    <p_tk vh="V" name="Gamble,Darryl"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU30" context="H,1,10,H30" playid="8,5,74" type="P" text="Robinson,Zac pass incomplete to Cooper,Josh (Jones,Reshad)." newcontext="H,2,10,H30">
+    <p_pa vh="H" qb="Robinson,Zac" result="INC" rcv="Cooper,Josh"></p_pa>
+    <p_bu vh="V" name="Jones,Reshad"></p_bu>
+   </play>
+   <play hasball="OSU" down="2" togo="10" spot="OSU30" context="H,2,10,H30" playid="8,6,75" type="E" text="PENALTY OSU false start (Bond,Brady) 5 yards to the OSU25." newcontext="H,2,15,H25">
+    <p_pn vh="H" code="FS" type="false start" name="Bond,Brady" result="ACCEPT" at="H30" yards="5"></p_pn>
+   </play>
+   <play hasball="OSU" down="2" togo="15" spot="OSU25" context="H,2,15,H25" playid="8,7,76" type="P" text="Robinson,Zac pass incomplete to Blackmon,Justin (Cuff,Vance)." newcontext="H,3,15,H25">
+    <p_pa vh="H" qb="Robinson,Zac" result="INC" rcv="Blackmon,Justin"></p_pa>
+    <p_bu vh="V" name="Cuff,Vance"></p_bu>
+   </play>
+   <play hasball="OSU" down="3" togo="15" spot="OSU25" context="H,3,15,H25" playid="8,8,77" type="E" text="PENALTY OSU false start (Horton,Justin) 5 yards to the OSU20." newcontext="H,3,20,H20">
+    <p_pn vh="H" code="FS" type="false start" name="Horton,Justin" result="ACCEPT" at="H25" yards="5"></p_pn>
+   </play>
+   <play hasball="OSU" down="3" togo="20" spot="OSU20" context="H,3,20,H20" playid="8,9,78" type="R" text="Toston,Keith rush for 14 yards to the OSU34 (Dowtin,Marcus)." newcontext="H,4,6,H34">
+    <p_ru vh="H" name="Toston,Keith" gain="14"></p_ru>
+    <p_tk vh="V" name="Dowtin,Marcus"></p_tk>
+   </play>
+   <play hasball="OSU" down="4" togo="6" spot="OSU34" context="H,4,6,H34" playid="8,10,79" type="U" text="Sharp,Quinn punt 48 yards to the UGA18, Thomas,Carlton return -1 yards to the UGA17 (Ward,Bryant), PENALTY UGA illegal block 8 yards to the UGA9, 1st and 10, UGA ball on UGA9." newcontext="V,1,10,V09">
+    <p_pu vh="H" name="Sharp,Quinn" gain="48" in20="Y"></p_pu>
+    <p_pr vh="V" name="Thomas,Carlton" gain="-1"></p_pr>
+    <p_tk vh="H" name="Ward,Bryant"></p_tk>
+    <p_pn vh="V" code="BL" type="illegal block" result="ACCEPT" at="V17" yards="8"></p_pn>
+   </play>
+   <drivesum plays="6" yards="14" top="2:39" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,V09,07:55" vh="V" spot="V09" clock="07:55" driveindex="9,79"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA09" context="V,1,10,V09" playid="9,1,80" clock="05:16" text="GEORGIA drive start at 05:16." newcontext="V,1,10,V09">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA09" context="V,1,10,V09" playid="9,2,81" type="P" first="P" text="Cox,Joe pass complete to Charles,Orson for 25 yards to the UGA34, 1ST DOWN UGA (Cox,Perrish)." newcontext="V,1,10,V34">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Charles,Orson" gain="25"></p_pa>
+    <p_tk vh="H" name="Cox,Perrish"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA34" context="V,1,10,V34" playid="9,3,82" type="R" text="Smith,Branden rush for 2 yards to the UGA36 (Booker,Donald)." newcontext="V,2,8,V36">
+    <p_ru vh="V" name="Smith,Branden" gain="2"></p_ru>
+    <p_tk vh="H" name="Booker,Donald"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="8" spot="UGA36" context="V,2,8,V36" playid="9,4,83" type="#" clock="03:59" text="Timeout Georgia, clock 03:59." newcontext="V,2,8,V36">
+    <p_to vh="V" team="Georgia"></p_to>
+   </play>
+   <play hasball="UGA" down="2" togo="8" spot="UGA36" context="V,2,8,V36" playid="9,5,84" type="P" text="Cox,Joe pass incomplete to Chapas,Shaun." newcontext="V,3,8,V36">
+    <p_pa vh="V" qb="Cox,Joe" result="INC" rcv="Chapas,Shaun"></p_pa>
+   </play>
+   <play hasball="UGA" down="3" togo="8" spot="UGA36" context="V,3,8,V36" playid="9,6,85" type="R" text="Samuel,Richard rush for loss of 1 yard to the UGA35." newcontext="V,4,9,V35">
+    <p_ru vh="V" name="Samuel,Richard" gain="-1"></p_ru>
+   </play>
+   <play hasball="UGA" down="4" togo="9" spot="UGA35" context="V,4,9,V35" playid="9,7,86" type="U" text="Butler,Drew punt 45 yards to the OSU20, Bryant,Dez return 12 yards to the OSU32 (Chapas,Shaun)." newcontext="H,1,10,H32">
+    <p_pu vh="V" name="Butler,Drew" gain="45"></p_pu>
+    <p_pr vh="H" name="Bryant,Dez" gain="12"></p_pr>
+    <p_tk vh="V" name="Chapas,Shaun"></p_tk>
+   </play>
+   <drivesum plays="4" yards="26" top="2:12" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,H32,03:59" vh="H" spot="H32" clock="03:59" driveindex="10,86"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU32" context="H,1,10,H32" playid="10,1,87" clock="03:04" text="OKLAHOMA STATE drive start at 03:04." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU32" context="H,1,10,H32" playid="10,2,88" type="P" first="P" text="Robinson,Zac pass complete to Bryant,Dez for 19 yards to the UGA49, 1ST DOWN OSU (Rambo,Bacarri)." newcontext="H,1,10,V49">
+    <p_pa vh="H" qb="Robinson,Zac" result="COMP" rcv="Bryant,Dez" gain="19"></p_pa>
+    <p_tk vh="V" name="Rambo,Bacarri"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="UGA49" context="H,1,10,V49" playid="10,3,89" type="P" text="Robinson,Zac pass complete to Hunter,Kendall for 3 yards to the UGA46 (Gamble,Darryl)." newcontext="H,2,7,V46">
+    <p_pa vh="H" qb="Robinson,Zac" result="COMP" rcv="Hunter,Kendall" gain="3"></p_pa>
+    <p_tk vh="V" name="Gamble,Darryl"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="7" spot="UGA46" context="H,2,7,V46" playid="10,4,90" type="#" clock="02:32" text="Timeout Georgia, clock 02:32." newcontext="H,2,7,V46">
+    <p_to vh="V" team="Georgia"></p_to>
+   </play>
+   <play hasball="OSU" down="2" togo="7" spot="UGA46" context="H,2,7,V46" playid="10,5,91" type="#" clock="02:32" text="Timeout Oklahoma State, clock 02:32." newcontext="H,2,7,V46">
+    <p_to vh="H" team="Oklahoma State"></p_to>
+   </play>
+   <play hasball="OSU" down="2" togo="7" spot="UGA46" context="H,2,7,V46" playid="10,6,92" type="P" first="P" score="Y" clock="02:24" text="Robinson,Zac pass complete to Bryant,Dez for 46 yards to the UGA0, 1ST DOWN OSU, TOUCHDOWN, clock 02:24." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Robinson,Zac" result="COMP" rcv="Bryant,Dez" gain="46"></p_pa>
+   </play>
+   <play hasball="OSU" down="1" togo="0" spot="UGA03" context="H,1,0,V03" playid="10,7,93" type="X" score="Y" text="Bailey,Dan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Bailey,Dan" qb="Bailey,Dan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="7"></score>
+   <drivesum plays="3" yards="68" top="0:40" driveindex="10" complete="Y"></drivesum>
+   <play hasball="OSU" down="1" togo="0" spot="OSU30" context="H,1,0,H30" playid="10,8,94" type="K" text="Sharp,Quinn kickoff 70 yards to the UGA0, Boykin,Brandon return 23 yards to the UGA23 (Gent,Justin)." newcontext="V,1,10,V23">
+    <p_ko vh="H" name="Sharp,Quinn" gain="70"></p_ko>
+    <p_kr vh="V" name="Boykin,Brandon" gain="23"></p_kr>
+    <p_tk vh="H" name="Gent,Justin"></p_tk>
+   </play>
+   <drivestart poss="V,V23,02:24" vh="V" spot="V23" clock="02:24" driveindex="11,94"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA23" context="V,1,10,V23" playid="11,1,95" clock="02:24" text="GEORGIA drive start at 02:24." newcontext="V,1,10,V23">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA23" context="V,1,10,V23" playid="11,2,96" type="P" text="Cox,Joe pass incomplete (Price,Jermiah), QB hurry by Thomas,James." newcontext="V,2,10,V23">
+    <p_pa vh="V" qb="Cox,Joe" result="INC"></p_pa>
+    <p_bu vh="H" name="Price,Jermiah"></p_bu>
+    <p_qbh vh="H" name="Thomas,James"></p_qbh>
+   </play>
+   <play hasball="UGA" down="2" togo="10" spot="UGA23" context="V,2,10,V23" playid="11,3,97" type="E" text="PENALTY UGA false start 5 yards to the UGA18." newcontext="V,2,15,V18">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V23" yards="5"></p_pn>
+   </play>
+   <play hasball="UGA" down="2" togo="15" spot="UGA18" context="V,2,15,V18" playid="11,4,98" type="#" clock="02:14" text="Timeout Oklahoma State, clock 02:14." newcontext="V,2,15,V18">
+    <p_to vh="H" team="Oklahoma State"></p_to>
+   </play>
+   <play hasball="UGA" down="2" togo="15" spot="UGA18" context="V,2,15,V18" playid="11,5,99" type="R" turnover="F" text="Thomas,Carlton rush for 3 yards to the UGA21, fumble forced by Antoine,Lucien, fumble by Thomas,Carlton recovered by OSU Anderson,T. at UGA11, PENALTY UGA personal foul 5 yards to the UGA6, 1st and 10, OSU ball on UGA6." newcontext="H,1,0,V06">
+    <p_ru vh="V" name="Thomas,Carlton" gain="3"></p_ru>
+    <p_fumb vh="V" name="Thomas,Carlton" at="V11" frvh="H" frname="Anderson,T."></p_fumb>
+    <p_tk vh="H" name="Antoine,Lucien" ff="Y"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" result="ACCEPT" at="V11" yards="5"></p_pn>
+   </play>
+   <drivesum plays="2" yards="-12" top="0:19" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,V06,02:14" vh="H" spot="V06" clock="02:14" driveindex="12,99"></drivestart>
+   <play hasball="OSU" down="1" togo="0" spot="UGA06" context="H,1,0,V06" playid="12,1,100" clock="02:05" text="OKLAHOMA STATE drive start at 02:05." newcontext="H,1,0,V06">
+   </play>
+   <play hasball="OSU" down="1" togo="0" spot="UGA06" context="H,1,0,V06" playid="12,2,101" type="R" text="Hunter,Kendall rush for 3 yards to the UGA3 (Battle,Roderick)." newcontext="H,2,0,V03">
+    <p_ru vh="H" name="Hunter,Kendall" gain="3"></p_ru>
+    <p_tk vh="V" name="Battle,Roderick"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="0" spot="UGA03" context="H,2,0,V03" playid="12,3,102" type="R" text="Toston,Keith rush for no gain to the UGA3 (Cuff,Vance)." newcontext="H,3,0,V03">
+    <p_ru vh="H" name="Toston,Keith" gain="0"></p_ru>
+    <p_tk vh="V" name="Cuff,Vance"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="0" spot="UGA03" context="H,3,0,V03" playid="12,4,103" type="R" text="Toston,Keith rush for 2 yards to the UGA1 (Cuff,Vance)." newcontext="H,4,0,V01">
+    <p_ru vh="H" name="Toston,Keith" gain="2"></p_ru>
+    <p_tk vh="V" name="Cuff,Vance"></p_tk>
+   </play>
+   <play hasball="OSU" down="4" togo="0" spot="UGA01" context="H,4,0,V01" playid="12,5,104" type="#" clock="00:14" text="Timeout Oklahoma State, clock 00:14." newcontext="H,4,0,V01">
+    <p_to vh="H" team="Oklahoma State"></p_to>
+   </play>
+   <play hasball="OSU" down="4" togo="0" spot="UGA01" context="H,4,0,V01" playid="12,6,105" type="E" text="PENALTY OSU holding 10 yards to the UGA11." newcontext="H,4,0,V11">
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="V01" yards="10"></p_pn>
+   </play>
+   <play hasball="OSU" down="4" togo="0" spot="UGA11" context="H,4,0,V11" playid="12,7,106" type="F" score="Y" clock="00:05" text="Bailey,Dan field goal attempt from 28 GOOD, clock 00:05." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Bailey,Dan" distance="28" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="7" H="10"></score>
+   <drivesum plays="4" yards="-5" top="2:00" driveindex="12" complete="Y"></drivesum>
+   <play hasball="OSU" down="1" togo="0" spot="OSU30" context="H,1,0,H30" playid="12,8,107" type="K" text="Sharp,Quinn kickoff 49 yards to the UGA21, Munzenmaier,F. return 14 yards to the UGA35 (Lowe,Daytawion)." newcontext="V,1,10,V35">
+    <p_ko vh="H" name="Sharp,Quinn" gain="49"></p_ko>
+    <p_kr vh="V" name="Munzenmaier,F." gain="14"></p_kr>
+    <p_tk vh="H" name="Lowe,Daytawion"></p_tk>
+   </play>
+   <drivestart poss="V,V35,00:05" vh="V" spot="V35" clock="00:05" driveindex="13,107"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA35" context="V,1,10,V35" playid="13,1,108" clock="00:00" text="GEORGIA drive start at 00:00." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA35" context="V,1,10,V35" playid="13,2,109" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,1,10,V35">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="13" complete="Y"></drivesum>
+   <score qtr="2" V="7" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UGA">
+    <firstdowns no="3" rush="0" pass="2" penalty="1"></firstdowns>
+    <penalties no="3" yds="18"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="06:53"></misc>
+    <rush att="6" yds="2" gain="11" loss="9" td="0" long="0"></rush>
+    <pass comp="4" att="8" int="0" yds="46" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="46" td="0" long="0"></rcv>
+    <punt no="3" yds="149" long="0" blkd="0" tb="1" fc="0" plus50="2" inside20="0" avg="49.7"></punt>
+    <defense tackua="13" tacka="2" tot_tack="15" sacks="0" sackyds="0" brup="2" qbh="1"></defense>
+    <kr no="2" yds="37" td="0" long="23"></kr>
+    <pr no="1" yds="-1" td="0" long="0"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="OSU">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="6" yds="39"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:07"></misc>
+    <rush att="10" yds="40" gain="40" loss="0" td="0" long="0"></rush>
+    <pass comp="4" att="7" int="0" yds="91" td="1" long="38" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="91" td="1" long="38"></rcv>
+    <punt no="2" yds="98" long="0" blkd="0" tb="1" fc="0" plus50="1" inside20="1" avg="49.0"></punt>
+    <ko no="2" yds="119" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="28" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="2" tot_tack="13" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="2" qbh="1" ff="1" fr="1" fryds="0"></defense>
+    <pr no="2" yds="29" td="0" long="17"></pr>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <comment text="OSU will receive and defend the west goal to start the second half."></comment>
+   <play hasball="UGA" down="1" togo="10" spot="UGA35" context="V,1,10,V35" playid="13,3,110" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, UGA ball on UGA30." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA30" context="V,1,10,V30" playid="13,4,112" type="K" text="Walsh,Blair kickoff 68 yards to the OSU2, Cox,Perrish return 74 yards to the UGA24 (Dowtin,Marcus)." newcontext="H,1,10,V24">
+    <p_ko vh="V" name="Walsh,Blair" gain="68"></p_ko>
+    <p_kr vh="H" name="Cox,Perrish" gain="74"></p_kr>
+    <p_tk vh="V" name="Dowtin,Marcus"></p_tk>
+   </play>
+   <drivestart poss="H,V24,15:00" vh="H" spot="V24" clock="15:00" driveindex="14,112"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="UGA24" context="H,1,10,V24" playid="14,1,113" clock="15:00" text="OKLAHOMA STATE drive start at 15:00." newcontext="H,1,10,V24">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="UGA24" context="H,1,10,V24" playid="14,2,114" type="R" text="Hunter,Kendall rush for 9 yards to the UGA15 (Commings,S.)." newcontext="H,2,1,V15">
+    <p_ru vh="H" name="Hunter,Kendall" gain="9"></p_ru>
+    <p_tk vh="V" name="Commings,S."></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="1" spot="UGA15" context="H,2,1,V15" playid="14,3,115" type="R" first="R" text="Hunter,Kendall rush for 3 yards to the UGA12, 1ST DOWN OSU (Owens,Jeff)." newcontext="H,1,10,V12">
+    <p_ru vh="H" name="Hunter,Kendall" gain="3"></p_ru>
+    <p_tk vh="V" name="Owens,Jeff"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="UGA12" context="H,1,10,V12" playid="14,4,116" type="P" text="Robinson,Zac pass incomplete to Bryant,Dez (Boykin,Brandon)." newcontext="H,2,10,V12">
+    <p_pa vh="H" qb="Robinson,Zac" result="INC" rcv="Bryant,Dez"></p_pa>
+    <p_bu vh="V" name="Boykin,Brandon"></p_bu>
+   </play>
+   <play hasball="OSU" down="2" togo="10" spot="UGA12" context="H,2,10,V12" playid="14,5,117" type="R" text="Robinson,Zac rush for 1 yard to the UGA11 (Battle,Roderick)." newcontext="H,3,9,V11">
+    <p_ru vh="H" name="Robinson,Zac" gain="1"></p_ru>
+    <p_tk vh="V" name="Battle,Roderick"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="9" spot="UGA11" context="H,3,9,V11" playid="14,6,118" type="P" text="Robinson,Zac pass complete to Horton,Justin for 8 yards to the UGA3 (Dewberry,Darius)." newcontext="H,4,1,V03">
+    <p_pa vh="H" qb="Robinson,Zac" result="COMP" rcv="Horton,Justin" gain="8"></p_pa>
+    <p_tk vh="V" name="Dewberry,Darius"></p_tk>
+   </play>
+   <play hasball="OSU" down="4" togo="1" spot="UGA03" context="H,4,1,V03" playid="14,7,119" type="#" clock="12:10" text="Timeout Oklahoma State, clock 12:10." newcontext="H,4,1,V03">
+    <p_to vh="H" team="Oklahoma State"></p_to>
+   </play>
+   <play hasball="OSU" down="4" togo="1" spot="UGA03" context="H,4,1,V03" playid="14,8,120" type="R" first="R" text="Hunter,Kendall rush for 1 yard to the UGA2, 1ST DOWN OSU (Dowtin,Marcus)." newcontext="H,1,0,V02">
+    <p_ru vh="H" name="Hunter,Kendall" gain="1"></p_ru>
+    <p_tk vh="V" name="Dowtin,Marcus"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="0" spot="UGA02" context="H,1,0,V02" playid="14,9,121" type="R" text="Hunter,Kendall rush for 1 yard to the UGA1 (Weston,Kade), PENALTY OSU personal foul off-setting, PENALTY UGA personal foul off-setting." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Hunter,Kendall" gain="1"></p_ru>
+    <p_tk vh="V" name="Weston,Kade"></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" result="OFFSET"></p_pn>
+    <p_pn vh="V" code="PF" type="personal foul" result="OFFSET"></p_pn>
+   </play>
+   <play hasball="OSU" down="2" togo="0" spot="UGA01" context="H,2,0,V01" playid="14,10,122" type="R" score="Y" clock="11:26" text="Robinson,Zac rush for 1 yard to the UGA0, TOUCHDOWN, clock 11:26." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Robinson,Zac" gain="1"></p_ru>
+   </play>
+   <play hasball="OSU" down="1" togo="0" spot="UGA03" context="H,1,0,V03" playid="14,11,123" type="X" score="Y" text="Bailey,Dan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Bailey,Dan" qb="Bailey,Dan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="17"></score>
+   <drivesum plays="8" yards="24" top="3:34" driveindex="14" complete="Y"></drivesum>
+   <play hasball="OSU" down="1" togo="0" spot="OSU30" context="H,1,0,H30" playid="14,12,124" type="K" text="Sharp,Quinn kickoff 70 yards to the UGA0, Smith,Branden return 8 yards to the UGA8 (Lowe,Daytawion;McGee,Andrew)." newcontext="V,1,10,V08">
+    <p_ko vh="H" name="Sharp,Quinn" gain="70"></p_ko>
+    <p_kr vh="V" name="Smith,Branden" gain="8"></p_kr>
+    <p_tk vh="H" name="Lowe,Daytawion" assist="Y"></p_tk>
+    <p_tk vh="H" name="McGee,Andrew" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V08,11:26" vh="V" spot="V08" clock="11:26" driveindex="15,124"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA08" context="V,1,10,V08" playid="15,1,125" clock="11:26" text="GEORGIA drive start at 11:26." newcontext="V,1,10,V08">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA08" context="V,1,10,V08" playid="15,2,126" type="P" text="Cox,Joe pass incomplete to White,Aron, QB hurry by Burton,Derek." newcontext="V,2,10,V08">
+    <p_pa vh="V" qb="Cox,Joe" result="INC" rcv="White,Aron"></p_pa>
+    <p_qbh vh="H" name="Burton,Derek"></p_qbh>
+   </play>
+   <play hasball="UGA" down="2" togo="10" spot="UGA08" context="V,2,10,V08" playid="15,3,127" type="R" text="Samuel,Richard rush for 5 yards to the UGA13 (Antoine,Lucien)." newcontext="V,3,5,V13">
+    <p_ru vh="V" name="Samuel,Richard" gain="5"></p_ru>
+    <p_tk vh="H" name="Antoine,Lucien"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="5" spot="UGA13" context="V,3,5,V13" playid="15,4,128" type="P" first="P" text="Cox,Joe pass complete to White,Aron for 12 yards to the UGA25, 1ST DOWN UGA (Thomas,James)." newcontext="V,1,10,V25">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="White,Aron" gain="12"></p_pa>
+    <p_tk vh="H" name="Thomas,James"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA25" context="V,1,10,V25" playid="15,5,129" type="R" text="Samuel,Richard rush for 5 yards to the UGA30 (Sexton,Andre;Thomas,Johnny)." newcontext="V,2,5,V30">
+    <p_ru vh="V" name="Samuel,Richard" gain="5"></p_ru>
+    <p_tk vh="H" name="Sexton,Andre" assist="Y"></p_tk>
+    <p_tk vh="H" name="Thomas,Johnny" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="5" spot="UGA30" context="V,2,5,V30" playid="15,6,130" type="R" first="R" text="Samuel,Richard rush for 6 yards to the UGA36, 1ST DOWN UGA (Booker,Donald)." newcontext="V,1,10,V36">
+    <p_ru vh="V" name="Samuel,Richard" gain="6"></p_ru>
+    <p_tk vh="H" name="Booker,Donald"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA36" context="V,1,10,V36" playid="15,7,131" type="P" text="Cox,Joe pass incomplete to Green,A.J. (Cox,Perrish)." newcontext="V,2,10,V36">
+    <p_pa vh="V" qb="Cox,Joe" result="INC" rcv="Green,A.J."></p_pa>
+    <p_bu vh="H" name="Cox,Perrish"></p_bu>
+   </play>
+   <play hasball="UGA" down="2" togo="10" spot="UGA36" context="V,2,10,V36" playid="15,8,132" type="P" first="P" text="Cox,Joe pass complete to Samuel,Richard for 11 yards to the UGA47, 1ST DOWN UGA (McGee,Andrew)." newcontext="V,1,10,V47">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Samuel,Richard" gain="11"></p_pa>
+    <p_tk vh="H" name="McGee,Andrew"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA47" context="V,1,10,V47" playid="15,9,133" type="R" text="Samuel,Richard rush for 4 yards to the OSU49 (McGee,Andrew)." newcontext="V,2,6,H49">
+    <p_ru vh="V" name="Samuel,Richard" gain="4"></p_ru>
+    <p_tk vh="H" name="McGee,Andrew"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="6" spot="OSU49" context="V,2,6,H49" playid="15,10,134" type="P" first="P" text="Cox,Joe pass complete to Chapas,Shaun for 10 yards to the OSU39, 1ST DOWN UGA (Gent,Justin)." newcontext="V,1,10,H39">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Chapas,Shaun" gain="10"></p_pa>
+    <p_tk vh="H" name="Gent,Justin"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="OSU39" context="V,1,10,H39" playid="15,11,135" type="R" text="Thomas,Carlton rush for loss of 2 yards to the OSU41 (Price,Jermiah)." newcontext="V,2,12,H41">
+    <p_ru vh="V" name="Thomas,Carlton" gain="-2"></p_ru>
+    <p_tk vh="H" name="Price,Jermiah" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="12" spot="OSU41" context="V,2,12,H41" playid="15,12,136" type="P" text="Cox,Joe sacked for loss of 5 yards to the OSU46 (Nicholas,Nigel;Jarka,Shane)." newcontext="V,3,17,H46">
+    <p_pa vh="V" qb="Cox,Joe" result="SACK" gain="-5"></p_pa>
+    <p_tk vh="H" name="Nicholas,Nigel" sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jarka,Shane" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="17" spot="OSU46" context="V,3,17,H46" playid="15,13,137" type="#" clock="07:11" text="Timeout Georgia, clock 07:11." newcontext="V,3,17,H46">
+    <p_to vh="V" team="Georgia"></p_to>
+   </play>
+   <play hasball="UGA" down="3" togo="17" spot="OSU46" context="V,3,17,H46" playid="15,14,138" type="R" text="Thomas,Carlton rush for 10 yards to the OSU36 (Thomas,James)." newcontext="V,4,7,H36">
+    <p_ru vh="V" name="Thomas,Carlton" gain="10"></p_ru>
+    <p_tk vh="H" name="Thomas,James"></p_tk>
+   </play>
+   <play hasball="UGA" down="4" togo="7" spot="OSU36" context="V,4,7,H36" playid="15,15,139" type="F" score="Y" clock="06:49" text="Walsh,Blair field goal attempt from 53 GOOD, clock 06:49." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Walsh,Blair" distance="53" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="10" H="17"></score>
+   <drivesum plays="13" yards="56" top="4:37" driveindex="15" complete="Y"></drivesum>
+   <play hasball="UGA" down="1" togo="0" spot="UGA30" context="V,1,0,V30" playid="15,16,140" type="K" text="Walsh,Blair kickoff 66 yards to the OSU4, Johnson,Victor return 20 yards to the OSU24 (Rambo,Bacarri)." newcontext="H,1,10,H24">
+    <p_ko vh="V" name="Walsh,Blair" gain="66"></p_ko>
+    <p_kr vh="H" name="Johnson,Victor" gain="20"></p_kr>
+    <p_tk vh="V" name="Rambo,Bacarri"></p_tk>
+   </play>
+   <drivestart poss="H,H24,06:49" vh="H" spot="H24" clock="06:49" driveindex="16,140"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU24" context="H,1,10,H24" playid="16,1,141" clock="06:49" text="OKLAHOMA STATE drive start at 06:49." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU24" context="H,1,10,H24" playid="16,2,142" type="R" text="Hunter,Kendall rush for no gain to the OSU24 (Dobbs,Demarcus)." newcontext="H,2,10,H24">
+    <p_ru vh="H" name="Hunter,Kendall" gain="0"></p_ru>
+    <p_tk vh="V" name="Dobbs,Demarcus"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="10" spot="OSU24" context="H,2,10,H24" playid="16,3,143" type="P" first="P" text="Robinson,Zac pass complete to Hunter,Kendall for 11 yards to the OSU35, 1ST DOWN OSU (Gamble,Darryl)." newcontext="H,1,10,H35">
+    <p_pa vh="H" qb="Robinson,Zac" result="COMP" rcv="Hunter,Kendall" gain="11"></p_pa>
+    <p_tk vh="V" name="Gamble,Darryl"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU35" context="H,1,10,H35" playid="16,4,144" type="R" text="Robinson,Zac rush for 9 yards to the OSU44 (Dewberry,Darius)." newcontext="H,2,1,H44">
+    <p_ru vh="H" name="Robinson,Zac" gain="9"></p_ru>
+    <p_tk vh="V" name="Dewberry,Darius"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="1" spot="OSU44" context="H,2,1,H44" playid="16,5,145" type="R" first="R" text="Johnson,Beau rush for 7 yards to the UGA49, 1ST DOWN OSU (Evans,Bryan)." newcontext="H,1,10,V49">
+    <p_ru vh="H" name="Johnson,Beau" gain="7"></p_ru>
+    <p_tk vh="V" name="Evans,Bryan"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="UGA49" context="H,1,10,V49" playid="16,6,146" type="P" text="Robinson,Zac pass complete to Youman,Wilson for 2 yards to the UGA47 (Miller,Prince)." newcontext="H,2,8,V47">
+    <p_pa vh="H" qb="Robinson,Zac" result="COMP" rcv="Youman,Wilson" gain="2"></p_pa>
+    <p_tk vh="V" name="Miller,Prince"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="8" spot="UGA47" context="H,2,8,V47" playid="16,7,147" type="R" text="Hunter,Kendall rush for 7 yards to the UGA40 (Curran,Rennie)." newcontext="H,3,1,V40">
+    <p_ru vh="H" name="Hunter,Kendall" gain="7"></p_ru>
+    <p_tk vh="V" name="Curran,Rennie"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="1" spot="UGA40" context="H,3,1,V40" playid="16,8,148" type="R" first="R" text="Robinson,Zac rush for 3 yards to the UGA37, 1ST DOWN OSU." newcontext="H,1,10,V37">
+    <p_ru vh="H" name="Robinson,Zac" gain="3"></p_ru>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="UGA37" context="H,1,10,V37" playid="16,9,149" type="P" text="Robinson,Zac pass complete to Hunter,Kendall for 1 yard to the UGA36." newcontext="H,2,9,V36">
+    <p_pa vh="H" qb="Robinson,Zac" result="COMP" rcv="Hunter,Kendall" gain="1"></p_pa>
+   </play>
+   <play hasball="OSU" down="2" togo="9" spot="UGA36" context="H,2,9,V36" playid="16,10,150" type="P" text="Robinson,Zac pass incomplete to Bryant,Dez." newcontext="H,3,9,V36">
+    <p_pa vh="H" qb="Robinson,Zac" result="INC" rcv="Bryant,Dez"></p_pa>
+   </play>
+   <play hasball="OSU" down="3" togo="9" spot="UGA36" context="H,3,9,V36" playid="16,11,151" type="E" text="Robinson,Zac pass complete to Horton,Justin for 6 yards to the UGA30 (Miller,Prince), PENALTY OSU pass interference (Bryant,Dez) 15 yards to the OSU49, NO PLAY." newcontext="H,3,24,H49">
+    <p_pn vh="H" code="PI" type="pass interference" name="Bryant,Dez" result="ACCEPT" at="V36" yards="15"></p_pn>
+   </play>
+   <play hasball="OSU" down="3" togo="24" spot="OSU49" context="H,3,24,H49" playid="16,12,152" type="P" text="Robinson,Zac pass incomplete to Conner,DeMarcus (Curran,Rennie)." newcontext="H,4,24,H49">
+    <p_pa vh="H" qb="Robinson,Zac" result="INC" rcv="Conner,DeMarcus"></p_pa>
+    <p_bu vh="V" name="Curran,Rennie"></p_bu>
+   </play>
+   <play hasball="OSU" down="4" togo="24" spot="OSU49" context="H,4,24,H49" playid="16,13,153" type="U" text="Sharp,Quinn punt 47 yards to the UGA4, downed." newcontext="V,1,10,V04">
+    <p_pu vh="H" name="Sharp,Quinn" gain="47" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="10" yards="25" top="4:27" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,V04,06:49" vh="V" spot="V04" clock="06:49" driveindex="17,153"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA04" context="V,1,10,V04" playid="17,1,154" clock="02:22" text="GEORGIA drive start at 02:22." newcontext="V,1,10,V04">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA04" context="V,1,10,V04" playid="17,2,155" type="R" text="Samuel,Richard rush for 7 yards to the UGA11 (McGee,Andrew)." newcontext="V,2,3,V11">
+    <p_ru vh="V" name="Samuel,Richard" gain="7"></p_ru>
+    <p_tk vh="H" name="McGee,Andrew"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="3" spot="UGA11" context="V,2,3,V11" playid="17,3,156" type="R" first="R" text="Samuel,Richard rush for 3 yards to the UGA14, 1ST DOWN UGA (Blatnick,Jamie)." newcontext="V,1,10,V14">
+    <p_ru vh="V" name="Samuel,Richard" gain="3"></p_ru>
+    <p_tk vh="H" name="Blatnick,Jamie"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA14" context="V,1,10,V14" playid="17,4,157" type="R" text="Samuel,Richard rush for 3 yards to the UGA17 (Antoine,Lucien)." newcontext="V,2,7,V17">
+    <p_ru vh="V" name="Samuel,Richard" gain="3"></p_ru>
+    <p_tk vh="H" name="Antoine,Lucien"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="7" spot="UGA17" context="V,2,7,V17" playid="17,5,158" type="R" text="Samuel,Richard rush for 2 yards to the UGA19 (Antoine,Lucien)." newcontext="V,3,5,V19">
+    <p_ru vh="V" name="Samuel,Richard" gain="2"></p_ru>
+    <p_tk vh="H" name="Antoine,Lucien"></p_tk>
+   </play>
+   <play hasball="UGA" down="3" togo="5" spot="UGA19" context="V,3,5,V19" playid="17,6,159" type="P" text="Cox,Joe pass incomplete to Charles,Orson." newcontext="V,4,5,V19">
+    <p_pa vh="V" qb="Cox,Joe" result="INC" rcv="Charles,Orson"></p_pa>
+   </play>
+   <play hasball="UGA" down="4" togo="5" spot="UGA19" context="V,4,5,V19" playid="17,7,160" type="U" text="Butler,Drew punt 75 yards to the OSU6, downed." newcontext="H,1,10,H06">
+    <p_pu vh="V" name="Butler,Drew" gain="75" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="15" top="2:22" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H06,02:22" vh="H" spot="H06" clock="02:22" driveindex="18,160"></drivestart>
+   <score qtr="3" V="10" H="17"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UGA">
+    <firstdowns no="5" rush="2" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:59"></misc>
+    <rush att="11" yds="38" gain="45" loss="7" td="0" long="0"></rush>
+    <pass comp="3" att="6" int="0" yds="33" td="0" long="0" sacks="1" sackyds="5"></pass>
+    <rcv no="3" yds="33" td="0" long="0"></rcv>
+    <punt no="1" yds="75" long="7" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="75.0"></punt>
+    <ko no="2" yds="134" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="53" blkd="0"></fg>
+    <defense tackua="14" tacka="0" tot_tack="14" sacks="0" sackyds="0" brup="2"></defense>
+    <kr no="1" yds="8" td="0" long="0"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="OSU">
+    <firstdowns no="5" rush="4" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:01"></misc>
+    <rush att="11" yds="42" gain="42" loss="0" td="1" long="0"></rush>
+    <pass comp="4" att="7" int="0" yds="22" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="22" td="0" long="0"></rcv>
+    <punt no="1" yds="47" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="47.0"></punt>
+    <ko no="1" yds="70" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="12" tacka="6" tot_tack="18" tflua="3" tfla="0" tflyds="12" sacks="1" sackyds="5" brup="1" qbh="1"></defense>
+    <kr no="2" yds="94" td="0" long="67"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="OSU" down="1" togo="10" spot="OSU06" context="H,1,10,H06" playid="18,1,161" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,1,10,H06">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU06" context="H,1,10,H06" playid="18,2,162" type="R" text="Hunter,Kendall rush for 5 yards to the OSU11 (Dewberry,Darius)." newcontext="H,2,5,H11">
+    <p_ru vh="H" name="Hunter,Kendall" gain="5"></p_ru>
+    <p_tk vh="V" name="Dewberry,Darius"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="5" spot="OSU11" context="H,2,5,H11" playid="18,3,163" type="R" first="R" text="Hunter,Kendall rush for 5 yards to the OSU16, 1ST DOWN OSU (Boykin,Brandon)." newcontext="H,1,10,H16">
+    <p_ru vh="H" name="Hunter,Kendall" gain="5"></p_ru>
+    <p_tk vh="V" name="Boykin,Brandon"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU16" context="H,1,10,H16" playid="18,4,164" type="R" text="Hunter,Kendall rush for 4 yards to the OSU20 (Curran,Rennie)." newcontext="H,2,6,H20">
+    <p_ru vh="H" name="Hunter,Kendall" gain="4"></p_ru>
+    <p_tk vh="V" name="Curran,Rennie"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="6" spot="OSU20" context="H,2,6,H20" playid="18,5,165" type="R" text="Robinson,Zac rush for no gain to the OSU20 (Dobbs,Demarcus)." newcontext="H,3,6,H20">
+    <p_ru vh="H" name="Robinson,Zac" gain="0"></p_ru>
+    <p_tk vh="V" name="Dobbs,Demarcus"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="6" spot="OSU20" context="H,3,6,H20" playid="18,6,166" type="P" text="Robinson,Zac pass complete to Toston,Keith for 2 yards to the OSU22 (Cuff,Vance)." newcontext="H,4,4,H22">
+    <p_pa vh="H" qb="Robinson,Zac" result="COMP" rcv="Toston,Keith" gain="2"></p_pa>
+    <p_tk vh="V" name="Cuff,Vance"></p_tk>
+   </play>
+   <play hasball="OSU" down="4" togo="4" spot="OSU22" context="H,4,4,H22" playid="18,7,167" type="E" text="PENALTY OSU substitution infraction 5 yards to the OSU17." newcontext="H,4,9,H17">
+    <p_pn vh="H" code="SU" type="substitution infraction" result="ACCEPT" at="H22" yards="5"></p_pn>
+   </play>
+   <play hasball="OSU" down="4" togo="9" spot="OSU17" context="H,4,9,H17" playid="18,8,168" type="U" text="Sharp,Quinn punt 49 yards to the UGA34, Miller,Prince return 0 yards to the UGA34 (Sharp,Quinn), PENALTY UGA illegal block (Boykin,Brandon) 10 yards to the UGA24, 1st and 10, UGA ball on UGA24." newcontext="V,1,10,V24">
+    <p_pu vh="H" name="Sharp,Quinn" gain="49"></p_pu>
+    <p_pr vh="V" name="Miller,Prince" gain="0"></p_pr>
+    <p_tk vh="H" name="Sharp,Quinn"></p_tk>
+    <p_pn vh="V" code="BL" type="illegal block" name="Boykin,Brandon" result="ACCEPT" at="V34" yards="10"></p_pn>
+   </play>
+   <drivesum plays="5" yards="11" top="3:40" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="V,V24,15:00" vh="V" spot="V24" clock="15:00" driveindex="19,168"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA24" context="V,1,10,V24" playid="19,1,169" clock="11:20" text="GEORGIA drive start at 11:20." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA24" context="V,1,10,V24" playid="19,2,170" type="P" text="Cox,Joe pass complete to Green,A.J. for 9 yards to the UGA33 (Gray,Maurice)." newcontext="V,2,1,V33">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Green,A.J." gain="9"></p_pa>
+    <p_tk vh="H" name="Gray,Maurice"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="1" spot="UGA33" context="V,2,1,V33" playid="19,3,171" type="R" first="R" text="Chapas,Shaun rush for 3 yards to the UGA36, 1ST DOWN UGA (Jarka,Shane;Lavine,Patrick)." newcontext="V,1,10,V36">
+    <p_ru vh="V" name="Chapas,Shaun" gain="3"></p_ru>
+    <p_tk vh="H" name="Jarka,Shane" assist="Y"></p_tk>
+    <p_tk vh="H" name="Lavine,Patrick" assist="Y"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA36" context="V,1,10,V36" playid="19,4,172" type="P" turnover="F" text="Cox,Joe sacked for loss of 4 yards to the UGA32 (Jarka,Shane), fumble by Cox,Joe recovered by OSU Nicholas,Nigel at UGA32." newcontext="H,1,10,V32">
+    <p_pa vh="V" qb="Cox,Joe" result="FUMB" gain="-4"></p_pa>
+    <p_fumb vh="V" name="Cox,Joe" at="V32" frvh="H" frname="Nicholas,Nigel"></p_fumb>
+    <p_tk vh="H" name="Jarka,Shane" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="8" top="0:54" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,V32,11:20" vh="H" spot="V32" clock="11:20" driveindex="20,172"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="UGA32" context="H,1,10,V32" playid="20,1,173" clock="10:26" text="OKLAHOMA STATE drive start at 10:26." newcontext="H,1,10,V32">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="UGA32" context="H,1,10,V32" playid="20,2,174" type="R" text="Robinson,Zac rush for 4 yards to the UGA28 (Dowtin,Marcus)." newcontext="H,2,6,V28">
+    <p_ru vh="H" name="Robinson,Zac" gain="4"></p_ru>
+    <p_tk vh="V" name="Dowtin,Marcus"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="6" spot="UGA28" context="H,2,6,V28" playid="20,3,175" type="E" text="PENALTY OSU false start (Youman,Wilson) 5 yards to the UGA33." newcontext="H,2,11,V33">
+    <p_pn vh="H" code="FS" type="false start" name="Youman,Wilson" result="ACCEPT" at="V28" yards="5"></p_pn>
+   </play>
+   <play hasball="OSU" down="2" togo="11" spot="UGA33" context="H,2,11,V33" playid="20,4,176" type="E" first="E" text="Robinson,Zac pass incomplete to Blackmon,Justin (Jones,Reshad), PENALTY UGA personal foul (Jones,Reshad) 15 yards to the UGA18, 1ST DOWN OSU, NO PLAY." newcontext="H,1,10,V18">
+    <p_pn vh="V" code="PF" type="personal foul" name="Jones,Reshad" result="ACCEPT" at="V33" yards="15"></p_pn>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="UGA18" context="H,1,10,V18" playid="20,5,177" type="R" text="Toston,Keith rush for 1 yard to the UGA17 (Dowtin,Marcus)." newcontext="H,2,9,V17">
+    <p_ru vh="H" name="Toston,Keith" gain="1"></p_ru>
+    <p_tk vh="V" name="Dowtin,Marcus"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="9" spot="UGA17" context="H,2,9,V17" playid="20,6,178" type="R" text="Hunter,Kendall rush for 5 yards to the UGA12 (Dowtin,Marcus)." newcontext="H,3,4,V12">
+    <p_ru vh="H" name="Hunter,Kendall" gain="5"></p_ru>
+    <p_tk vh="V" name="Dowtin,Marcus"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="4" spot="UGA12" context="H,3,4,V12" playid="20,7,179" type="P" first="P" score="Y" clock="07:59" text="Robinson,Zac pass complete to Bryant,Dez for 12 yards to the UGA0, 1ST DOWN OSU, TOUCHDOWN, clock 07:59." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Robinson,Zac" result="COMP" rcv="Bryant,Dez" gain="12"></p_pa>
+   </play>
+   <play hasball="OSU" down="1" togo="0" spot="UGA03" context="H,1,0,V03" playid="20,8,180" type="X" score="Y" text="Bailey,Dan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Bailey,Dan" qb="Bailey,Dan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="24"></score>
+   <drivesum plays="4" yards="32" top="2:27" driveindex="20" complete="Y"></drivesum>
+   <play hasball="OSU" down="1" togo="0" spot="OSU30" context="H,1,0,H30" playid="20,9,181" type="K" text="Sharp,Quinn kickoff 70 yards to the UGA0, Smith,Branden return 20 yards to the UGA20 (Ward,Bryant;Sokolosky,T.)." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Sharp,Quinn" gain="70"></p_ko>
+    <p_kr vh="V" name="Smith,Branden" gain="20"></p_kr>
+    <p_tk vh="H" name="Ward,Bryant" assist="Y"></p_tk>
+    <p_tk vh="H" name="Sokolosky,T." assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V20,07:59" vh="V" spot="V20" clock="07:59" driveindex="21,181"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA20" context="V,1,10,V20" playid="21,1,182" clock="07:59" text="GEORGIA drive start at 07:59." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA20" context="V,1,10,V20" playid="21,2,183" type="P" first="P" text="Cox,Joe pass complete to Green,A.J. for 11 yards to the UGA31, 1ST DOWN UGA (Cox,Perrish)." newcontext="V,1,10,V31">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Green,A.J." gain="11"></p_pa>
+    <p_tk vh="H" name="Cox,Perrish"></p_tk>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA31" context="V,1,10,V31" playid="21,3,184" type="E" text="PENALTY UGA false start 5 yards to the UGA26." newcontext="V,1,15,V26">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V31" yards="5"></p_pn>
+   </play>
+   <play hasball="UGA" down="1" togo="15" spot="UGA26" context="V,1,15,V26" playid="21,4,185" type="P" text="Cox,Joe pass complete to King,Tavarres for 4 yards to the UGA30 (Sexton,Andre)." newcontext="V,2,11,V30">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="King,Tavarres" gain="4"></p_pa>
+    <p_tk vh="H" name="Sexton,Andre"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="11" spot="UGA30" context="V,2,11,V30" playid="21,5,186" type="P" text="Cox,Joe pass incomplete to White,Aron." newcontext="V,3,11,V30">
+    <p_pa vh="V" qb="Cox,Joe" result="INC" rcv="White,Aron"></p_pa>
+   </play>
+   <play hasball="UGA" down="3" togo="11" spot="UGA30" context="V,3,11,V30" playid="21,6,187" type="P" text="Cox,Joe pass incomplete to Moore,Michael." newcontext="V,4,11,V30">
+    <p_pa vh="V" qb="Cox,Joe" result="INC" rcv="Moore,Michael"></p_pa>
+   </play>
+   <play hasball="UGA" down="4" togo="11" spot="UGA30" context="V,4,11,V30" playid="21,7,188" type="U" text="Butler,Drew punt 50 yards to the OSU20, Cox,Perrish return 16 yards to the OSU36 (Fields,Justin)." newcontext="H,1,10,H36">
+    <p_pu vh="V" name="Butler,Drew" gain="50"></p_pu>
+    <p_pr vh="H" name="Cox,Perrish" gain="16"></p_pr>
+    <p_tk vh="V" name="Fields,Justin"></p_tk>
+   </play>
+   <drivesum plays="4" yards="10" top="1:53" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,H36,07:59" vh="H" spot="H36" clock="07:59" driveindex="22,188"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU36" context="H,1,10,H36" playid="22,1,189" clock="06:06" text="OKLAHOMA STATE drive start at 06:06." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU36" context="H,1,10,H36" playid="22,2,190" type="R" text="Hunter,Kendall rush for loss of 2 yards to the OSU34 (Dobbs,Demarcus;Boykin,Brandon)." newcontext="H,2,12,H34">
+    <p_ru vh="H" name="Hunter,Kendall" gain="-2"></p_ru>
+    <p_tk vh="V" name="Dobbs,Demarcus" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Boykin,Brandon" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="12" spot="OSU34" context="H,2,12,H34" playid="22,3,191" type="R" text="Hunter,Kendall rush for 5 yards to the OSU39 (Jones,Abry)." newcontext="H,3,7,H39">
+    <p_ru vh="H" name="Hunter,Kendall" gain="5"></p_ru>
+    <p_tk vh="V" name="Jones,Abry"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="7" spot="OSU39" context="H,3,7,H39" playid="22,4,192" type="P" text="Robinson,Zac pass incomplete to Blackmon,Justin, PENALTY OSU pass interference declined." newcontext="H,4,7,H39">
+    <p_pa vh="H" qb="Robinson,Zac" result="INC" rcv="Blackmon,Justin"></p_pa>
+    <p_pn vh="H" code="PI" type="pass interference" name="Blackmon,Justin" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="OSU" down="4" togo="7" spot="OSU39" context="H,4,7,H39" playid="22,5,193" type="U" text="Sharp,Quinn punt 52 yards to the UGA9, downed." newcontext="V,1,10,V09">
+    <p_pu vh="H" name="Sharp,Quinn" gain="52" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="1:39" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V09,06:06" vh="V" spot="V09" clock="06:06" driveindex="23,193"></drivestart>
+   <play hasball="UGA" down="1" togo="10" spot="UGA09" context="V,1,10,V09" playid="23,1,194" clock="04:27" text="GEORGIA drive start at 04:27." newcontext="V,1,10,V09">
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA09" context="V,1,10,V09" playid="23,2,195" type="P" first="P" text="Cox,Joe pass complete to Charles,Orson for 21 yards to the UGA30, 1ST DOWN UGA (Thomas,Johnny), PENALTY OSU personal foul (Thomas,Johnny) 15 yards to the UGA45, 1ST DOWN UGA." newcontext="V,1,10,V45">
+    <p_pa vh="V" qb="Cox,Joe" result="COMP" rcv="Charles,Orson" gain="21"></p_pa>
+    <p_tk vh="H" name="Thomas,Johnny"></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" name="Thomas,Johnny" result="ACCEPT" at="V30" yards="15"></p_pn>
+   </play>
+   <play hasball="UGA" down="1" togo="10" spot="UGA45" context="V,1,10,V45" playid="23,3,196" type="R" text="1st and 10, Samuel,Richard rush for 5 yards to the 50 yardline (Thomas,James)." newcontext="V,2,5,V50">
+    <p_ru vh="V" name="Samuel,Richard" gain="5"></p_ru>
+    <p_tk vh="H" name="Thomas,James"></p_tk>
+   </play>
+   <play hasball="UGA" down="2" togo="5" spot="UGA50" context="V,2,5,V50" playid="23,4,197" type="P" text="Cox,Joe pass incomplete (Booker,Donald), QB hurry by Booker,Donald." newcontext="V,3,5,V50">
+    <p_pa vh="V" qb="Cox,Joe" result="INC"></p_pa>
+    <p_bu vh="H" name="Booker,Donald"></p_bu>
+    <p_qbh vh="H" name="Booker,Donald"></p_qbh>
+   </play>
+   <play hasball="UGA" down="3" togo="5" spot="UGA50" context="V,3,5,V50" playid="23,5,198" type="P" text="Cox,Joe pass incomplete (Lavine,Patrick)." newcontext="V,4,5,V50">
+    <p_pa vh="V" qb="Cox,Joe" result="INC"></p_pa>
+    <p_bu vh="H" name="Lavine,Patrick"></p_bu>
+   </play>
+   <play hasball="UGA" down="4" togo="5" spot="UGA50" context="V,4,5,V50" playid="23,6,199" type="P" turnover="I" text="Cox,Joe pass intercepted by Lavine,Patrick at the OSU37, Lavine,Patrick return 4 yards to the OSU41 (King,Tavarres)." newcontext="H,1,10,H41">
+    <p_pa vh="V" qb="Cox,Joe" result="INT"></p_pa>
+    <p_ir vh="H" name="Lavine,Patrick" at="H37" gain="4"></p_ir>
+    <p_tk vh="V" name="King,Tavarres"></p_tk>
+   </play>
+   <drivesum plays="5" yards="41" top="1:04" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,H41,04:27" vh="H" spot="H41" clock="04:27" driveindex="24,199"></drivestart>
+   <play hasball="OSU" down="1" togo="10" spot="OSU41" context="H,1,10,H41" playid="24,1,200" clock="03:23" text="OKLAHOMA STATE drive start at 03:23." newcontext="H,1,10,H41">
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="OSU41" context="H,1,10,H41" playid="24,2,201" type="R" text="Toston,Keith rush for 4 yards to the OSU45 (Dowtin,Marcus)." newcontext="H,2,6,H45">
+    <p_ru vh="H" name="Toston,Keith" gain="4"></p_ru>
+    <p_tk vh="V" name="Dowtin,Marcus"></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="6" spot="OSU45" context="H,2,6,H45" playid="24,3,202" type="R" first="R" text="Toston,Keith rush for 8 yards to the UGA47, 1ST DOWN OSU (Dent,Akeem;Dowtin,Marcus)." newcontext="H,1,10,V47">
+    <p_ru vh="H" name="Toston,Keith" gain="8"></p_ru>
+    <p_tk vh="V" name="Dent,Akeem" assist="Y"></p_tk>
+    <p_tk vh="V" name="Dowtin,Marcus" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="UGA47" context="H,1,10,V47" playid="24,4,203" type="R" text="Toston,Keith rush for 2 yards to the UGA45 (Wheeling,B.)." newcontext="H,2,8,V45">
+    <p_ru vh="H" name="Toston,Keith" gain="2"></p_ru>
+    <p_tk vh="V" name="Wheeling,B."></p_tk>
+   </play>
+   <play hasball="OSU" down="2" togo="8" spot="UGA45" context="H,2,8,V45" playid="24,5,204" type="#" clock="02:06" text="Timeout Georgia, clock 02:06." newcontext="H,2,8,V45">
+    <p_to vh="V" team="Georgia"></p_to>
+   </play>
+   <play hasball="OSU" down="2" togo="8" spot="UGA45" context="H,2,8,V45" playid="24,6,205" type="R" text="Robinson,Zac rush for 5 yards to the UGA40 (Boykin,Brandon)." newcontext="H,3,3,V40">
+    <p_ru vh="H" name="Robinson,Zac" gain="5"></p_ru>
+    <p_tk vh="V" name="Boykin,Brandon"></p_tk>
+   </play>
+   <play hasball="OSU" down="3" togo="3" spot="UGA40" context="H,3,3,V40" playid="24,7,206" type="#" clock="01:57" text="Timeout Georgia, clock 01:57." newcontext="H,3,3,V40">
+    <p_to vh="V" team="Georgia"></p_to>
+   </play>
+   <play hasball="OSU" down="3" togo="3" spot="UGA40" context="H,3,3,V40" playid="24,8,207" type="R" first="R" text="Toston,Keith rush for 11 yards to the UGA29, 1ST DOWN OSU (Jones,Reshad;Dewberry,Darius)." newcontext="H,1,10,V29">
+    <p_ru vh="H" name="Toston,Keith" gain="11"></p_ru>
+    <p_tk vh="V" name="Jones,Reshad" assist="Y"></p_tk>
+    <p_tk vh="V" name="Dewberry,Darius" assist="Y"></p_tk>
+   </play>
+   <play hasball="OSU" down="1" togo="10" spot="UGA29" context="H,1,10,V29" playid="24,9,208" type="R" text="TEAM rush for loss of 2 yards to the UGA31." newcontext="H,2,12,V31">
+    <p_ru vh="H" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="OSU" down="2" togo="12" spot="UGA31" context="H,2,12,V31" playid="24,10,209" type="R" text="TEAM rush for loss of 2 yards to the UGA33." newcontext="H,3,14,V33">
+    <p_ru vh="H" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="OSU" down="3" togo="14" spot="UGA33" context="H,3,14,V33" playid="24,11,210" type="E" text="PENALTY OSU delay of game 5 yards to the UGA38." newcontext="H,3,19,V38">
+    <p_pn vh="H" code="DG" type="delay of game" result="ACCEPT" at="V33" yards="5"></p_pn>
+   </play>
+   <play hasball="OSU" down="3" togo="19" spot="UGA38" context="H,3,19,V38" playid="24,12,211" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,3,19,V38">
+   </play>
+   <drivesum plays="7" yards="21" top="3:23" driveindex="24" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Oklahoma State defeats Georgia by a score of 24 to 10."></play>
+   <score final="Y" V="10" H="24"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UGA">
+    <firstdowns no="4" rush="1" pass="2" penalty="1"></firstdowns>
+    <penalties no="3" yds="30"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="03:51"></misc>
+    <rush att="3" yds="4" gain="8" loss="4" td="0" long="0"></rush>
+    <pass comp="4" att="9" int="1" yds="45" td="0" long="0" sacks="1" sackyds="4"></pass>
+    <rcv no="4" yds="45" td="0" long="0"></rcv>
+    <punt no="1" yds="50" long="0" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="50.0"></punt>
+    <defense tackua="14" tacka="6" tot_tack="20" tflua="2" tfla="0" tflyds="4" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="20" td="0" long="0"></kr>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="OSU">
+    <firstdowns no="5" rush="3" pass="1" penalty="1"></firstdowns>
+    <penalties no="4" yds="30"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="11:09"></misc>
+    <rush att="16" yds="53" gain="59" loss="6" td="0" long="0"></rush>
+    <pass comp="2" att="3" int="0" yds="14" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="14" td="1" long="0"></rcv>
+    <punt no="2" yds="101" long="0" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="50.5"></punt>
+    <ko no="1" yds="70" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="7" tacka="4" tot_tack="11" tflua="1" tfla="0" tflyds="4" sacks="2" sackyds="9" brup="2" qbh="1" ff="1" fr="1" fryds="0" int="1" intyds="4"></defense>
+    <pr no="1" yds="16" td="0" long="0"></pr>
+    <ir no="1" yds="4" td="0" long="4"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="OSU" down="3" togo="19" spot="UGA38" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="0" htor="2" dtgtext="Game Over" ldtext="Drive started: 03:23, 4th Qtr"></downtogo>
+ </plays>

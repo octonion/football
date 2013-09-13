@@ -1,0 +1,919 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="UND" down="1" togo="10" spot="UND30" context="V,1,10,V30" playid="0,1,0" text="Texas Tech wins toss and will receive. North Dakota will defend N. Goa" newcontext="V,1,10,V30">
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND30" context="V,1,10,V30" playid="0,2,1" type="K" text="UND ball on UND30, Hellevang, B. kickoff 58 yards to the TTU12, Britton, Edward return 24 yards to the TTU36 (Belotti, J.)." newcontext="H,1,10,H36">
+    <p_ko vh="V" name="Hellevang, B." gain="58"></p_ko>
+    <p_kr vh="H" name="Britton, Edward" gain="24"></p_kr>
+    <p_tk vh="V" name="Belotti, J."></p_tk>
+   </play>
+   <drivestart poss="H,H36,15:00" vh="H" spot="H36" clock="15:00" driveindex="1,1"></drivestart>
+   <play hasball="TTU" down="1" togo="10" spot="TTU36" context="H,1,10,H36" playid="1,1,2" type="R" pcode="DR" text="Batch, Baron rush draw play for 4 yards to the TTU40 (Miller, A.)." newcontext="H,2,6,H40">
+    <p_ru vh="H" name="Batch, Baron" gain="4"></p_ru>
+    <p_tk vh="V" name="Miller, A."></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="6" spot="TTU40" context="H,2,6,H40" playid="1,2,3" type="E" pcode="DO" text="Potts, Taylor deep out pass incomplete to Britton, Edward, PENALTY UND offside 5 yards to the TTU45, NO PLAY." newcontext="H,2,1,H45">
+    <p_pn vh="V" code="OS" type="offside" result="ACCEPT" at="H40" yards="5"></p_pn>
+   </play>
+   <play hasball="TTU" down="2" togo="1" spot="TTU45" context="H,2,1,H45" playid="1,3,4" type="P" pcode="SL" first="P" text="Potts, Taylor slant pass complete to Lewis, Detron for 15 yards to the UND40, 1ST DOWN TTU (Mersereau, E.)." newcontext="H,1,10,V40">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Lewis, Detron" gain="15"></p_pa>
+    <p_tk vh="V" name="Mersereau, E."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND40" context="H,1,10,V40" playid="1,4,5" type="P" pcode="MI" text="Potts, Taylor middle pass complete to Leong, Lyle for 9 yards to the UND31 (Pollow, R.)." newcontext="H,2,1,V31">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Leong, Lyle" gain="9"></p_pa>
+    <p_tk vh="V" name="Pollow, R."></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="1" spot="UND31" context="H,2,1,V31" playid="1,5,6" type="R" pcode="DR" first="R" text="Batch, Baron rush draw play for 3 yards to the UND28, 1ST DOWN TTU (Miller, A.)." newcontext="H,1,10,V28">
+    <p_ru vh="H" name="Batch, Baron" gain="3"></p_ru>
+    <p_tk vh="V" name="Miller, A."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND28" context="H,1,10,V28" playid="1,6,7" type="P" pcode="DI" first="P" text="Potts, Taylor deep in pass complete to Zouzalik, A. for 16 yards to the UND12, 1ST DOWN TTU (Miller, A.)." newcontext="H,1,10,V12">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Zouzalik, A." gain="16"></p_pa>
+    <p_tk vh="V" name="Miller, A."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND12" context="H,1,10,V12" playid="1,7,8" type="P" text="Potts, Taylor pass complete to James, Adam for 6 yards to the UND6 (Schwenzfeier, J)." newcontext="H,2,4,V06">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="James, Adam" gain="6"></p_pa>
+    <p_tk vh="V" name="Schwenzfeier, J"></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="4" spot="UND06" context="H,2,4,V06" playid="1,8,9" type="E" text="PENALTY UND offside (Brenneman, R.) 3 yards to the UND3." newcontext="H,2,1,V03">
+    <p_pn vh="V" code="OS" type="offside" name="Brenneman, R." result="ACCEPT" at="V06" yards="3"></p_pn>
+   </play>
+   <play hasball="TTU" down="2" togo="1" spot="UND03" context="H,2,1,V03" playid="1,9,10" type="R" first="R" score="Y" clock="11:42" text="Batch, Baron rush for 3 yards to the UND0, 1ST DOWN TTU, TOUCHDOWN, clock 11:42." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Batch, Baron" gain="3"></p_ru>
+   </play>
+   <play hasball="TTU" down="1" togo="0" spot="UND03" context="H,1,0,V03" playid="1,10,11" type="X" score="Y" text="Williams, Matt kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Williams, Matt" qb="Williams, Matt" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="7" yards="64" top="3:18" driveindex="1" complete="Y"></drivesum>
+   <play hasball="TTU" down="1" togo="0" spot="TTU30" context="H,1,0,H30" playid="1,11,12" type="K" text="Carona, Donnie kickoff 70 yards to the UND0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Carona, Donnie" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,11:42" vh="V" spot="V20" clock="11:42" driveindex="2,12"></drivestart>
+   <play hasball="UND" down="1" togo="10" spot="UND20" context="V,1,10,V20" playid="2,1,13" clock="11:42" text="NORTH DAKOTA drive start at 11:42." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND20" context="V,1,10,V20" playid="2,2,14" type="R" pcode="RT" text="Solum, C. rush over right tackle for 3 yards to the UND23 (Duncan, Brian)." newcontext="V,2,7,V23">
+    <p_ru vh="V" name="Solum, C." gain="3"></p_ru>
+    <p_tk vh="H" name="Duncan, Brian"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="7" spot="UND23" context="V,2,7,V23" playid="2,3,15" type="P" text="Landry, J. pass complete to Solum, C. for 2 yards to the UND25 (Wall, Jamar)." newcontext="V,3,5,V25">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Solum, C." gain="2"></p_pa>
+    <p_tk vh="H" name="Wall, Jamar"></p_tk>
+   </play>
+   <play hasball="UND" down="3" togo="5" spot="UND25" context="V,3,5,V25" playid="2,4,16" type="R" pcode="QS" text="Landry, J. rush quarterback sneak for 1 yard to the UND26 (Henley, Rajon)." newcontext="V,4,4,V26">
+    <p_ru vh="V" name="Landry, J." gain="1"></p_ru>
+    <p_tk vh="H" name="Henley, Rajon"></p_tk>
+   </play>
+   <play hasball="UND" down="4" togo="4" spot="UND26" context="V,4,4,V26" playid="2,5,17" type="U" text="Hellevang, B. punt 28 yards to the TTU46 (blocked by Britton, Edward)." newcontext="H,1,10,H46">
+    <p_pu vh="V" name="Hellevang, B." gain="28" blkd="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="6" top="2:13" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H46,11:42" vh="H" spot="H46" clock="11:42" driveindex="3,17"></drivestart>
+   <play hasball="TTU" down="1" togo="10" spot="TTU46" context="H,1,10,H46" playid="3,1,18" clock="09:29" text="TEXAS TECH drive start at 09:29." newcontext="H,1,10,H46">
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="TTU46" context="H,1,10,H46" playid="3,2,19" type="R" pcode="RR" text="Douglas, C. rush right for 2 yards to the TTU48 (Ankenbauer, K.)." newcontext="H,2,8,H48">
+    <p_ru vh="H" name="Douglas, C." gain="2"></p_ru>
+    <p_tk vh="V" name="Ankenbauer, K."></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="8" spot="TTU48" context="H,2,8,H48" playid="3,3,20" type="P" pcode="SI" first="P" text="Potts, Taylor sideline pass complete to Franks, Jacoby for 14 yards to the UND38, 1ST DOWN TTU (Mersereau, E.)." newcontext="H,1,10,V38">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Franks, Jacoby" gain="14"></p_pa>
+    <p_tk vh="V" name="Mersereau, E."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND38" context="H,1,10,V38" playid="3,4,21" type="P" pcode="MI" text="Potts, Taylor middle pass incomplete to Lewis, Detron." newcontext="H,2,10,V38">
+    <p_pa vh="H" qb="Potts, Taylor" result="INC" rcv="Lewis, Detron"></p_pa>
+   </play>
+   <play hasball="TTU" down="2" togo="10" spot="UND38" context="H,2,10,V38" playid="3,5,22" type="R" pcode="LL" first="E" text="Britton, Edward rush left for loss of 1 yard to the UND39 (Ankenbauer, K.), PENALTY UND face mask (Ankenbauer, K.) 15 yards to the UND24, 1ST DOWN TTU." newcontext="H,1,10,V24">
+    <p_ru vh="H" name="Britton, Edward" gain="-1"></p_ru>
+    <p_tk vh="V" name="Ankenbauer, K." tfl="Y"></p_tk>
+    <p_pn vh="V" code="FM" type="face mask" name="Ankenbauer, K." result="ACCEPT" at="V39" yards="15"></p_pn>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND24" context="H,1,10,V24" playid="3,6,23" text="1st and 10." newcontext="H,1,10,V24">
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND24" context="H,1,10,V24" playid="3,7,24" type="P" pcode="DI" text="Potts, Taylor deep in pass incomplete to James, Adam, QB hurry by Kasowski, R.." newcontext="H,2,10,V24">
+    <p_pa vh="H" qb="Potts, Taylor" result="INC" rcv="James, Adam"></p_pa>
+    <p_qbh vh="V" name="Kasowski, R."></p_qbh>
+   </play>
+   <play hasball="TTU" down="2" togo="10" spot="UND24" context="H,2,10,V24" playid="3,8,25" type="P" first="P" text="Potts, Taylor pass complete to Torres, Alex for 14 yards to the UND10, 1ST DOWN TTU (Dublanko, C.)." newcontext="H,1,0,V10">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Torres, Alex" gain="14"></p_pa>
+    <p_tk vh="V" name="Dublanko, C."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="0" spot="UND10" context="H,1,0,V10" playid="3,9,26" type="P" pcode="CR" text="Potts, Taylor crossing pass complete to Lewis, Detron for 6 yards to the UND4 (German, P.)." newcontext="H,2,0,V04">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Lewis, Detron" gain="6"></p_pa>
+    <p_tk vh="V" name="German, P."></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="0" spot="UND04" context="H,2,0,V04" playid="3,10,27" type="P" text="Potts, Taylor pass incomplete to Lewis, Detron (Dublanko, C.)." newcontext="H,3,0,V04">
+    <p_pa vh="H" qb="Potts, Taylor" result="INC" rcv="Lewis, Detron"></p_pa>
+    <p_bu vh="V" name="Dublanko, C."></p_bu>
+   </play>
+   <play hasball="TTU" down="3" togo="0" spot="UND04" context="H,3,0,V04" playid="3,11,28" type="P" pcode="SL" text="Potts, Taylor slant pass complete to Britton, Edward for 3 yards to the UND1 (Hawkins, D.)." newcontext="H,4,0,V01">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Britton, Edward" gain="3"></p_pa>
+    <p_tk vh="V" name="Hawkins, D."></p_tk>
+   </play>
+   <play hasball="TTU" down="4" togo="0" spot="UND01" context="H,4,0,V01" playid="3,12,29" type="R" score="Y" clock="06:06" text="Potts, Taylor rush for 1 yard to the UND0, TOUCHDOWN, clock 06:06." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Potts, Taylor" gain="1"></p_ru>
+   </play>
+   <play hasball="TTU" down="1" togo="0" spot="UND03" context="H,1,0,V03" playid="3,13,30" type="X" score="Y" text="Williams, Matt kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Williams, Matt" qb="Williams, Matt" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="14"></score>
+   <drivesum plays="10" yards="54" top="3:23" driveindex="3" complete="Y"></drivesum>
+   <play hasball="TTU" down="1" togo="0" spot="TTU30" context="H,1,0,H30" playid="3,14,31" type="K" text="Carona, Donnie kickoff 70 yards to the UND0, Hawkins, D. return 18 yards to the UND18 (Stone, Nathan), PENALTY UND illegal block (Battle, S.) 9 yards to the UND9, 1st and 10, UND ball on UND9." newcontext="V,1,10,V09">
+    <p_ko vh="H" name="Carona, Donnie" gain="70"></p_ko>
+    <p_kr vh="V" name="Hawkins, D." gain="18"></p_kr>
+    <p_tk vh="H" name="Stone, Nathan"></p_tk>
+    <p_pn vh="V" code="BL" type="illegal block" name="Battle, S." result="ACCEPT" at="V18" yards="9"></p_pn>
+   </play>
+   <drivestart poss="V,V09,06:06" vh="V" spot="V09" clock="06:06" driveindex="4,31"></drivestart>
+   <play hasball="UND" down="1" togo="10" spot="UND09" context="V,1,10,V09" playid="4,1,32" clock="06:06" text="NORTH DAKOTA drive start at 06:06." newcontext="V,1,10,V09">
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND09" context="V,1,10,V09" playid="4,2,33" type="P" pcode="SI" text="Landry, J. sideline pass complete to Anderson, C. for 8 yards to the UND17 (Wall, Jamar;Mitchem, F.)." newcontext="V,2,2,V17">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Anderson, C." gain="8"></p_pa>
+    <p_tk vh="H" name="Wall, Jamar" assist="Y"></p_tk>
+    <p_tk vh="H" name="Mitchem, F." assist="Y"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="2" spot="UND17" context="V,2,2,V17" playid="4,3,34" type="E" first="E" text="PENALTY TTU personal foul 15 yards to the UND32, 1ST DOWN UND." newcontext="V,1,10,V32">
+    <p_pn vh="H" code="PF" type="personal foul" result="ACCEPT" at="V17" yards="15"></p_pn>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND32" context="V,1,10,V32" playid="4,4,35" type="R" text="Solum, C. rush for loss of 2 yards to the UND30 (Whitlock, Colby)." newcontext="V,2,12,V30">
+    <p_ru vh="V" name="Solum, C." gain="-2"></p_ru>
+    <p_tk vh="H" name="Whitlock, Colby" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="12" spot="UND30" context="V,2,12,V30" playid="4,5,36" type="R" first="R" text="Landry, J. rush for 12 yards to the UND42, 1ST DOWN UND (Williams, M.)." newcontext="V,1,10,V42">
+    <p_ru vh="V" name="Landry, J." gain="12"></p_ru>
+    <p_tk vh="H" name="Williams, M."></p_tk>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND42" context="V,1,10,V42" playid="4,6,37" type="E" first="E" text="PENALTY TTU personal foul (Williams, M.) 15 yards to the TTU43, 1ST DOWN UND." newcontext="V,1,10,H43">
+    <p_pn vh="H" code="PF" type="personal foul" name="Williams, M." result="ACCEPT" at="V42" yards="15"></p_pn>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="TTU43" context="V,1,10,H43" playid="4,7,38" type="R" text="Solum, C. rush for 2 yards to the TTU41 (Howard, Daniel)." newcontext="V,2,8,H41">
+    <p_ru vh="V" name="Solum, C." gain="2"></p_ru>
+    <p_tk vh="H" name="Howard, Daniel"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="8" spot="TTU41" context="V,2,8,H41" playid="4,8,39" type="E" pcode="SL" text="Landry, J. slant pass complete to Cole, M. for 9 yards to the TTU32 (Duncan, Brian), PENALTY UND illegal shift 5 yards to the TTU46, NO PLAY." newcontext="V,2,13,H46">
+    <p_pn vh="V" code="SH" type="illegal shift" result="ACCEPT" at="H41" yards="5"></p_pn>
+   </play>
+   <play hasball="UND" down="2" togo="13" spot="TTU46" context="V,2,13,H46" playid="4,9,40" type="R" pcode="DR" text="Sutton, M. rush draw play for 4 yards to the TTU42 (Ford, Will)." newcontext="V,3,9,H42">
+    <p_ru vh="V" name="Sutton, M." gain="4"></p_ru>
+    <p_tk vh="H" name="Ford, Will"></p_tk>
+   </play>
+   <play hasball="UND" down="3" togo="9" spot="TTU42" context="V,3,9,H42" playid="4,10,41" type="P" pcode="MI" first="P" text="Landry, J. middle pass complete to Dombrovski, N. for 13 yards to the TTU29, 1ST DOWN UND (Howard, Julius;Williams, M.)." newcontext="V,1,10,H29">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Dombrovski, N." gain="13"></p_pa>
+    <p_tk vh="H" name="Howard, Julius" assist="Y"></p_tk>
+    <p_tk vh="H" name="Williams, M." assist="Y"></p_tk>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="TTU29" context="V,1,10,H29" playid="4,11,42" type="R" text="Sutton, M. rush for 4 yards to the TTU25 (Davis, Cody)." newcontext="V,2,6,H25">
+    <p_ru vh="V" name="Sutton, M." gain="4"></p_ru>
+    <p_tk vh="H" name="Davis, Cody"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="6" spot="TTU25" context="V,2,6,H25" playid="4,12,43" type="P" text="Landry, J. sacked for loss of 3 yards to the TTU28 (Henley, Rajon)." newcontext="V,3,9,H28">
+    <p_pa vh="V" qb="Landry, J." result="SACK" gain="-3"></p_pa>
+    <p_tk vh="H" name="Henley, Rajon" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UND" down="3" togo="9" spot="TTU28" context="V,3,9,H28" playid="4,13,44" type="P" pcode="SI" text="Landry, J. sideline pass complete to Sutton, M. for 6 yards to the TTU22 (Williams, M.)." newcontext="V,4,3,H22">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Sutton, M." gain="6"></p_pa>
+    <p_tk vh="H" name="Williams, M."></p_tk>
+   </play>
+   <play hasball="UND" down="4" togo="3" spot="TTU22" context="V,4,3,H22" playid="4,14,45" type="F" score="Y" clock="00:06" text="Hellevang, B. field goal attempt from 39 GOOD, clock 00:06." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Hellevang, B." distance="39" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="14"></score>
+   <drivesum plays="10" yards="69" top="6:00" driveindex="4" complete="Y"></drivesum>
+   <play hasball="UND" down="1" togo="0" spot="UND30" context="V,1,0,V30" playid="4,15,46" type="K" text="Hellevang, B. kickoff 56 yards to the TTU14, Britton, Edward return 20 yards to the TTU34 (Dublanko, C.), PENALTY UND personal foul (Cochran, R.) 15 yards to the TTU49, 1st and 10, TTU ball on TTU49." newcontext="H,1,10,H49">
+    <p_ko vh="V" name="Hellevang, B." gain="56"></p_ko>
+    <p_kr vh="H" name="Britton, Edward" gain="20"></p_kr>
+    <p_tk vh="V" name="Dublanko, C."></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" name="Cochran, R." result="ACCEPT" at="H34" yards="15"></p_pn>
+   </play>
+   <drivestart poss="H,H49,00:06" vh="H" spot="H49" clock="00:06" driveindex="5,46"></drivestart>
+   <play hasball="TTU" down="1" togo="10" spot="TTU49" context="H,1,10,H49" playid="5,1,47" clock="00:06" text="TEXAS TECH drive start at 00:06." newcontext="H,1,10,H49">
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="TTU49" context="H,1,10,H49" playid="5,2,48" type="P" first="P" text="Potts, Taylor pass complete to Jeffers, H. for 15 yards to the UND36, 1ST DOWN TTU (Mersereau, E.)." newcontext="H,1,10,V36">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Jeffers, H." gain="15"></p_pa>
+    <p_tk vh="V" name="Mersereau, E."></p_tk>
+   </play>
+   <score qtr="1" V="3" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UND">
+    <firstdowns no="4" rush="1" pass="1" penalty="2"></firstdowns>
+    <penalties no="6" yds="52"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:13"></misc>
+    <rush att="8" yds="21" gain="26" loss="5" td="0" long="12"></rush>
+    <pass comp="4" att="4" int="0" yds="29" td="0" long="13" sacks="1" sackyds="3"></pass>
+    <rcv no="4" yds="29" td="0" long="13"></rcv>
+    <punt no="1" yds="28" long="28" blkd="1" tb="0" fc="0" plus50="0" inside20="0" avg="28.0"></punt>
+    <ko no="2" yds="114" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="39" blkd="0"></fg>
+    <defense tackua="15" tacka="0" tot_tack="15" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1" qbh="1"></defense>
+    <kr no="1" yds="18" td="0" long="18"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="TTU">
+    <firstdowns no="8" rush="2" pass="5" penalty="1"></firstdowns>
+    <penalties no="2" yds="30"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:47"></misc>
+    <rush att="6" yds="12" gain="13" loss="1" td="2" long="4"></rush>
+    <pass comp="9" att="12" int="0" yds="98" td="0" long="16" sacks="0" sackyds="0"></pass>
+    <rcv no="9" yds="98" td="0" long="16"></rcv>
+    <ko no="2" yds="140" ob="0" tb="1"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="11" tacka="4" tot_tack="15" tflua="2" tfla="0" tflyds="5" sacks="1" sackyds="3" blkd="1"></defense>
+    <kr no="2" yds="44" td="0" long="24"></kr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="TTU" down="1" togo="10" spot="UND36" context="H,1,10,V36" playid="5,3,49" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,1,10,V36">
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND36" context="H,1,10,V36" playid="5,4,50" type="P" pcode="MI" text="Potts, Taylor middle pass incomplete to Franks, Jacoby." newcontext="H,2,10,V36">
+    <p_pa vh="H" qb="Potts, Taylor" result="INC" rcv="Franks, Jacoby"></p_pa>
+   </play>
+   <play hasball="TTU" down="2" togo="10" spot="UND36" context="H,2,10,V36" playid="5,5,51" type="E" text="PENALTY TTU false start 5 yards to the UND41." newcontext="H,2,15,V41">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="V36" yards="5"></p_pn>
+   </play>
+   <play hasball="TTU" down="2" togo="15" spot="UND41" context="H,2,15,V41" playid="5,6,52" type="R" pcode="DR" text="Batch, Baron rush draw play for 3 yards to the UND38 (Bellmore, B.;Leith, C.)." newcontext="H,3,12,V38">
+    <p_ru vh="H" name="Batch, Baron" gain="3"></p_ru>
+    <p_tk vh="V" name="Bellmore, B." assist="Y"></p_tk>
+    <p_tk vh="V" name="Leith, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="TTU" down="3" togo="12" spot="UND38" context="H,3,12,V38" playid="5,7,53" type="P" pcode="MI" first="P" text="Potts, Taylor middle pass complete to Lewis, Detron for 21 yards to the UND17, 1ST DOWN TTU (Schwenzfeier, J)." newcontext="H,1,10,V17">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Lewis, Detron" gain="21"></p_pa>
+    <p_tk vh="V" name="Schwenzfeier, J"></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND17" context="H,1,10,V17" playid="5,8,54" type="P" text="Potts, Taylor pass complete to Jeffers, H. for loss of 3 yards to the UND20 (Boyle, T.)." newcontext="H,2,13,V20">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Jeffers, H." gain="-3"></p_pa>
+    <p_tk vh="V" name="Boyle, T." tfl="Y"></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="13" spot="UND20" context="H,2,13,V20" playid="5,9,55" type="P" turnover="I" text="Potts, Taylor pass intercepted by Schwenzfeier, J at the UND9, Schwenzfeier, J return 32 yards to the UND41 (Douglas, C.)." newcontext="V,1,10,V41">
+    <p_pa vh="H" qb="Potts, Taylor" result="INT"></p_pa>
+    <p_ir vh="V" name="Schwenzfeier, J" at="V09" gain="32"></p_ir>
+    <p_tk vh="H" name="Douglas, C."></p_tk>
+   </play>
+   <drivesum plays="6" yards="31" top="2:08" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,V41,15:00" vh="V" spot="V41" clock="15:00" driveindex="6,55"></drivestart>
+   <play hasball="UND" down="1" togo="10" spot="UND41" context="V,1,10,V41" playid="6,1,56" clock="12:58" text="NORTH DAKOTA drive start at 12:58." newcontext="V,1,10,V41">
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND41" context="V,1,10,V41" playid="6,2,57" type="R" pcode="DR" text="Sutton, M. rush draw play for 1 yard to the UND42 (Henley, Rajon)." newcontext="V,2,9,V42">
+    <p_ru vh="V" name="Sutton, M." gain="1"></p_ru>
+    <p_tk vh="H" name="Henley, Rajon"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="9" spot="UND42" context="V,2,9,V42" playid="6,3,58" type="P" pcode="MI" text="Landry, J. middle pass incomplete to Bamba, I. (Ford, Will)." newcontext="V,3,9,V42">
+    <p_pa vh="V" qb="Landry, J." result="INC" rcv="Bamba, I."></p_pa>
+    <p_bu vh="H" name="Ford, Will"></p_bu>
+   </play>
+   <play hasball="UND" down="3" togo="9" spot="UND42" context="V,3,9,V42" playid="6,4,59" type="P" pcode="SI" text="Landry, J. sideline pass complete to Sutton, M. for 3 yards to the UND45 (Wall, Jamar;Williams, M.), PENALTY UND illegal formation declined." newcontext="V,4,6,V45">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Sutton, M." gain="3"></p_pa>
+    <p_tk vh="H" name="Wall, Jamar" assist="Y"></p_tk>
+    <p_tk vh="H" name="Williams, M." assist="Y"></p_tk>
+    <p_pn vh="V" code="FO" type="illegal formation" name="Tibesar, M." result="DECLINE"></p_pn>
+   </play>
+   <play hasball="UND" down="4" togo="6" spot="UND45" context="V,4,6,V45" playid="6,5,60" type="U" text="Hellevang, B. punt 46 yards to the TTU9, Wall, Jamar return 17 yards to the TTU26 (Cochran, R.)." newcontext="H,1,10,H26">
+    <p_pu vh="V" name="Hellevang, B." gain="46"></p_pu>
+    <p_pr vh="H" name="Wall, Jamar" gain="17"></p_pr>
+    <p_tk vh="V" name="Cochran, R."></p_tk>
+   </play>
+   <drivesum plays="3" yards="4" top="1:19" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H26,12:58" vh="H" spot="H26" clock="12:58" driveindex="7,60"></drivestart>
+   <play hasball="TTU" down="1" togo="10" spot="TTU26" context="H,1,10,H26" playid="7,1,61" clock="11:39" text="TEXAS TECH drive start at 11:39." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="TTU26" context="H,1,10,H26" playid="7,2,62" type="R" text="Batch, Baron rush for loss of 2 yards to the TTU24 (Gottbeheat, L.)." newcontext="H,2,12,H24">
+    <p_ru vh="H" name="Batch, Baron" gain="-2"></p_ru>
+    <p_tk vh="V" name="Gottbeheat, L." tfl="Y"></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="12" spot="TTU24" context="H,2,12,H24" playid="7,3,63" type="P" pcode="SI" text="Potts, Taylor sideline pass complete to Torres, Alex for 7 yards to the TTU31 (Heiser, T.)." newcontext="H,3,5,H31">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Torres, Alex" gain="7"></p_pa>
+    <p_tk vh="V" name="Heiser, T."></p_tk>
+   </play>
+   <play hasball="TTU" down="3" togo="5" spot="TTU31" context="H,3,5,H31" playid="7,4,64" type="P" first="P" text="Potts, Taylor pass complete to Britton, Edward for 18 yards to the TTU49, 1ST DOWN TTU." newcontext="H,1,10,H49">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Britton, Edward" gain="18"></p_pa>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="TTU49" context="H,1,10,H49" playid="7,5,65" type="P" text="Potts, Taylor pass incomplete to Franks, Jacoby." newcontext="H,2,10,H49">
+    <p_pa vh="H" qb="Potts, Taylor" result="INC" rcv="Franks, Jacoby"></p_pa>
+   </play>
+   <play hasball="TTU" down="2" togo="10" spot="TTU49" context="H,2,10,H49" playid="7,6,66" type="P" pcode="CR" text="Potts, Taylor crossing pass complete to Douglas, C. for 7 yards to the UND44 (Dublanko, C.)." newcontext="H,3,3,V44">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Douglas, C." gain="7"></p_pa>
+    <p_tk vh="V" name="Dublanko, C."></p_tk>
+   </play>
+   <play hasball="TTU" down="3" togo="3" spot="UND44" context="H,3,3,V44" playid="7,7,67" type="E" pcode="SC" text="Potts, Taylor screen pass complete to Lewis, Detron for 9 yards to the UND35 (Miller, A.), PENALTY TTU illegal formation 5 yards to the UND49, NO PLAY." newcontext="H,3,8,V49">
+    <p_pn vh="H" code="FO" type="illegal formation" result="ACCEPT" at="V44" yards="5"></p_pn>
+   </play>
+   <play hasball="TTU" down="3" togo="8" spot="UND49" context="H,3,8,V49" playid="7,8,68" type="P" pcode="CR" first="P" score="Y" clock="08:41" text="Potts, Taylor crossing pass complete to Lewis, Detron for 49 yards to the UND0, 1ST DOWN TTU, TOUCHDOWN, clock 08:41." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Lewis, Detron" gain="49"></p_pa>
+   </play>
+   <play hasball="TTU" down="1" togo="0" spot="UND03" context="H,1,0,V03" playid="7,9,69" type="X" score="Y" text="Williams, Matt kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Williams, Matt" qb="Williams, Matt" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="3" H="21"></score>
+   <drivesum plays="6" yards="74" top="2:58" driveindex="7" complete="Y"></drivesum>
+   <play hasball="TTU" down="1" togo="0" spot="TTU30" context="H,1,0,H30" playid="7,10,70" type="K" text="Carona, Donnie kickoff 70 yards to the UND0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Carona, Donnie" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,08:41" vh="V" spot="V20" clock="08:41" driveindex="8,70"></drivestart>
+   <play hasball="UND" down="1" togo="10" spot="UND20" context="V,1,10,V20" playid="8,1,71" clock="08:41" text="NORTH DAKOTA drive start at 08:41." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND20" context="V,1,10,V20" playid="8,2,72" type="R" text="Landry, J. rush for 5 yards to the UND25 (Henley, Rajon)." newcontext="V,2,5,V25">
+    <p_ru vh="V" name="Landry, J." gain="5"></p_ru>
+    <p_tk vh="H" name="Henley, Rajon"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="5" spot="UND25" context="V,2,5,V25" playid="8,3,73" type="R" pcode="DR" text="Solum, C. rush draw play for no gain to the UND25 (Bird, Bront)." newcontext="V,3,5,V25">
+    <p_ru vh="V" name="Solum, C." gain="0"></p_ru>
+    <p_tk vh="H" name="Bird, Bront"></p_tk>
+   </play>
+   <play hasball="UND" down="3" togo="5" spot="UND25" context="V,3,5,V25" playid="8,4,74" type="E" pcode="MI" first="E" text="Landry, J. middle pass incomplete to Dombrovski, N., PENALTY TTU pass interference (Howard, Julius) 9 yards to the UND34, 1ST DOWN UND, NO PLAY." newcontext="V,1,10,V34">
+    <p_pn vh="H" code="PI" type="pass interference" name="Howard, Julius" result="ACCEPT" at="V25" yards="9"></p_pn>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND34" context="V,1,10,V34" playid="8,5,75" type="R" pcode="LT" text="Solum, C. rush over left tackle for 2 yards to the UND36 (Henley, Rajon)." newcontext="V,2,8,V36">
+    <p_ru vh="V" name="Solum, C." gain="2"></p_ru>
+    <p_tk vh="H" name="Henley, Rajon"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="8" spot="UND36" context="V,2,8,V36" playid="8,6,76" type="#" clock="06:21" text="Timeout North Dakota, clock 06:21." newcontext="V,2,8,V36">
+    <p_to vh="V" team="North Dakota"></p_to>
+   </play>
+   <play hasball="UND" down="2" togo="8" spot="UND36" context="V,2,8,V36" playid="8,7,77" type="P" text="Landry, J. pass incomplete to Dressler, R., QB hurry by Howard, Daniel." newcontext="V,3,8,V36">
+    <p_pa vh="V" qb="Landry, J." result="INC" rcv="Dressler, R."></p_pa>
+    <p_qbh vh="H" name="Howard, Daniel"></p_qbh>
+   </play>
+   <play hasball="UND" down="3" togo="8" spot="UND36" context="V,3,8,V36" playid="8,8,78" type="E" text="PENALTY UND delay of game 5 yards to the UND31." newcontext="V,3,13,V31">
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="V36" yards="5"></p_pn>
+   </play>
+   <play hasball="UND" down="3" togo="13" spot="UND31" context="V,3,13,V31" playid="8,9,79" type="P" pcode="DO" first="P" text="Landry, J. deep out pass complete to Konrath, R. for 18 yards to the UND49, 1ST DOWN UND." newcontext="V,1,10,V49">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Konrath, R." gain="18"></p_pa>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND49" context="V,1,10,V49" playid="8,10,80" type="#" clock="05:48" text="Timeout Texas Tech, clock 05:48." newcontext="V,1,10,V49">
+    <p_to vh="H" team="Texas Tech"></p_to>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND49" context="V,1,10,V49" playid="8,11,81" type="R" pcode="LT" text="Sutton, M. rush over left tackle for 3 yards to the TTU48 (Howard, Daniel)." newcontext="V,2,7,H48">
+    <p_ru vh="V" name="Sutton, M." gain="3"></p_ru>
+    <p_tk vh="H" name="Howard, Daniel"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="7" spot="TTU48" context="V,2,7,H48" playid="8,12,82" type="P" text="Landry, J. pass complete to Sutton, M. for loss of 1 yard to the TTU49 (Williams, M.)." newcontext="V,3,8,H49">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Sutton, M." gain="-1"></p_pa>
+    <p_tk vh="H" name="Williams, M." tfl="Y"></p_tk>
+   </play>
+   <play hasball="UND" down="3" togo="8" spot="TTU49" context="V,3,8,H49" playid="8,13,83" type="P" first="P" text="Landry, J. pass complete to Konrath, R. for 10 yards to the TTU39, 1ST DOWN UND (Williams, M.)." newcontext="V,1,10,H39">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Konrath, R." gain="10"></p_pa>
+    <p_tk vh="H" name="Williams, M."></p_tk>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="TTU39" context="V,1,10,H39" playid="8,14,84" type="R" pcode="LG" text="Sutton, M. rush over left guard for loss of 1 yard to the TTU40 (Jones, Richard)." newcontext="V,2,11,H40">
+    <p_ru vh="V" name="Sutton, M." gain="-1"></p_ru>
+    <p_tk vh="H" name="Jones, Richard" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="11" spot="TTU40" context="V,2,11,H40" playid="8,15,85" type="E" text="PENALTY UND illegal procedure 5 yards to the TTU45." newcontext="V,2,16,H45">
+    <p_pn vh="V" code="PR" type="illegal procedure" result="ACCEPT" at="H40" yards="5"></p_pn>
+   </play>
+   <play hasball="UND" down="2" togo="16" spot="TTU45" context="V,2,16,H45" playid="8,16,86" type="P" text="Landry, J. pass complete to Anderson, C. for 10 yards to the TTU35 (Moore, LaRon)." newcontext="V,3,6,H35">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Anderson, C." gain="10"></p_pa>
+    <p_tk vh="H" name="Moore, LaRon"></p_tk>
+   </play>
+   <play hasball="UND" down="3" togo="6" spot="TTU35" context="V,3,6,H35" playid="8,17,87" type="P" text="Landry, J. pass complete to Konrath, R. for no gain to the TTU35 (Bird, Bront)." newcontext="V,4,6,H35">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Konrath, R." gain="0"></p_pa>
+    <p_tk vh="H" name="Bird, Bront"></p_tk>
+   </play>
+   <play hasball="UND" down="4" togo="6" spot="TTU35" context="V,4,6,H35" playid="8,18,88" type="#" clock="01:33" text="Timeout North Dakota, clock 01:33." newcontext="V,4,6,H35">
+    <p_to vh="V" team="North Dakota"></p_to>
+   </play>
+   <play hasball="UND" down="4" togo="6" spot="TTU35" context="V,4,6,H35" playid="8,19,89" type="F" score="Y" clock="01:28" text="Hellevang, B. field goal attempt from 52 GOOD, clock 01:28." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Hellevang, B." distance="52" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="6" H="21"></score>
+   <drivesum plays="12" yards="45" top="7:13" driveindex="8" complete="Y"></drivesum>
+   <play hasball="UND" down="1" togo="0" spot="UND30" context="V,1,0,V30" playid="8,20,90" type="K" text="Hellevang, B. kickoff 66 yards to the TTU4, Britton, Edward return 47 yards to the UND49 (Hellevang, B.), PENALTY UND offside 5 yards to the UND44, 1st and 10, TTU ball on UND44." newcontext="H,1,10,V44">
+    <p_ko vh="V" name="Hellevang, B." gain="66"></p_ko>
+    <p_kr vh="H" name="Britton, Edward" gain="47"></p_kr>
+    <p_tk vh="V" name="Hellevang, B."></p_tk>
+    <p_pn vh="V" code="OS" type="offside" result="ACCEPT" at="V49" yards="5"></p_pn>
+   </play>
+   <drivestart poss="H,V44,01:28" vh="H" spot="V44" clock="01:28" driveindex="9,90"></drivestart>
+   <play hasball="TTU" down="1" togo="10" spot="UND44" context="H,1,10,V44" playid="9,1,91" clock="01:28" text="TEXAS TECH drive start at 01:28." newcontext="H,1,10,V44">
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND44" context="H,1,10,V44" playid="9,2,92" type="P" text="Potts, Taylor pass complete to Torres, Alex for 9 yards to the UND35 (Schwenzfeier, J)." newcontext="H,2,1,V35">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Torres, Alex" gain="9"></p_pa>
+    <p_tk vh="V" name="Schwenzfeier, J"></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="1" spot="UND35" context="H,2,1,V35" playid="9,3,93" type="P" first="P" text="Potts, Taylor pass complete to Lewis, Detron for 14 yards to the UND21, 1ST DOWN TTU (Saporu, D.)." newcontext="H,1,10,V21">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Lewis, Detron" gain="14"></p_pa>
+    <p_tk vh="V" name="Saporu, D."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND21" context="H,1,10,V21" playid="9,4,94" type="P" text="Potts, Taylor sacked for loss of 9 yards to the UND30 (Saporu, D.), fumble by Potts, Taylor recovered by TTU Winn, Marlon at UND30." newcontext="H,2,19,V30">
+    <p_pa vh="H" qb="Potts, Taylor" result="FUMB" gain="-9"></p_pa>
+    <p_fumb vh="H" name="Potts, Taylor" at="V30" frvh="H" frname="Winn, Marlon"></p_fumb>
+    <p_tk vh="V" name="Saporu, D." sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="19" spot="UND30" context="H,2,19,V30" playid="9,5,95" type="P" text="Potts, Taylor pass complete to Douglas, C. for 4 yards to the UND26 (Ankenbauer, K.)." newcontext="H,3,15,V26">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Douglas, C." gain="4"></p_pa>
+    <p_tk vh="V" name="Ankenbauer, K."></p_tk>
+   </play>
+   <play hasball="TTU" down="3" togo="15" spot="UND26" context="H,3,15,V26" playid="9,6,96" type="#" clock="00:19" text="Timeout Texas Tech, clock 00:19." newcontext="H,3,15,V26">
+    <p_to vh="H" team="Texas Tech"></p_to>
+   </play>
+   <play hasball="TTU" down="3" togo="15" spot="UND26" context="H,3,15,V26" playid="9,7,97" type="P" turnover="I" text="Potts, Taylor pass intercepted by Schwenzfeier, J at the UND15, Schwenzfeier, J return 0 yards to the UND15, out-of-bounds." ob="Y" newcontext="V,1,10,V15">
+    <p_pa vh="H" qb="Potts, Taylor" result="INT"></p_pa>
+    <p_ir vh="V" name="Schwenzfeier, J" at="V15" gain="0"></p_ir>
+   </play>
+   <drivesum plays="5" yards="18" top="1:16" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V15,00:19" vh="V" spot="V15" clock="00:19" driveindex="10,97"></drivestart>
+   <play hasball="UND" down="1" togo="10" spot="UND15" context="V,1,10,V15" playid="10,1,98" clock="00:12" text="NORTH DAKOTA drive start at 00:12." newcontext="V,1,10,V15">
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND15" context="V,1,10,V15" playid="10,2,99" type="R" text="TEAM rush for loss of 1 yard to the UND14." newcontext="V,2,11,V14">
+    <p_ru vh="V" name="TEAM" gain="-1"></p_ru>
+   </play>
+   <play hasball="UND" down="2" togo="11" spot="UND14" context="V,2,11,V14" playid="10,3,100" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,2,11,V14">
+   </play>
+   <drivesum plays="1" yards="-1" top="0:12" driveindex="10" complete="Y"></drivesum>
+   <score qtr="2" V="6" H="21"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UND">
+    <firstdowns no="3" rush="0" pass="2" penalty="1"></firstdowns>
+    <penalties no="3" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:44"></misc>
+    <rush att="7" yds="9" gain="11" loss="2" td="0" long="0"></rush>
+    <pass comp="6" att="8" int="0" yds="40" td="0" long="5" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="40" td="0" long="5"></rcv>
+    <punt no="1" yds="46" long="18" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="46.0"></punt>
+    <ko no="1" yds="66" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="13" blkd="0"></fg>
+    <defense tackua="11" tacka="2" tot_tack="13" tflua="3" tfla="0" tflyds="14" sacks="1" sackyds="9" ff="1" int="2" intyds="32"></defense>
+    <ir no="2" yds="32" td="0" long="32"></ir>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="TTU">
+    <firstdowns no="4" rush="0" pass="4" penalty="0"></firstdowns>
+    <penalties no="3" yds="19"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:16"></misc>
+    <rush att="3" yds="-8" gain="3" loss="11" td="0" long="0"></rush>
+    <pass comp="9" att="13" int="2" yds="126" td="1" long="33" sacks="1" sackyds="9"></pass>
+    <rcv no="9" yds="126" td="1" long="33"></rcv>
+    <ko no="1" yds="70" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="2" tot_tack="13" tflua="2" tfla="0" tflyds="2" sacks="1" sackyds="3" brup="1" qbh="1"></defense>
+    <kr no="1" yds="47" td="0" long="23"></kr>
+    <pr no="1" yds="17" td="0" long="17"></pr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="UND" down="2" togo="11" spot="UND14" context="V,2,11,V14" playid="10,4,101" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, TTU ball on TTU30." newcontext="H,2,11,H30">
+   </play>
+   <play hasball="TTU" down="2" togo="11" spot="TTU30" context="H,2,11,H30" playid="10,5,102" type="K" text="Carona, Donnie kickoff 70 yards to the UND0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Carona, Donnie" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,15:00" vh="V" spot="V20" clock="15:00" driveindex="11,102"></drivestart>
+   <play hasball="UND" down="1" togo="10" spot="UND20" context="V,1,10,V20" playid="11,1,103" clock="15:00" text="NORTH DAKOTA drive start at 15:00." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND20" context="V,1,10,V20" playid="11,2,104" type="P" text="Landry, J. pass complete to Dressler, R. for 4 yards to the UND24 (Moore, LaRon)." newcontext="V,2,6,V24">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Dressler, R." gain="4"></p_pa>
+    <p_tk vh="H" name="Moore, LaRon"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="6" spot="UND24" context="V,2,6,V24" playid="11,3,105" type="R" pcode="LT" text="Solum, C. rush over left tackle for no gain to the UND24 (Duncan, Brian)." newcontext="V,3,6,V24">
+    <p_ru vh="V" name="Solum, C." gain="0"></p_ru>
+    <p_tk vh="H" name="Duncan, Brian"></p_tk>
+   </play>
+   <play hasball="UND" down="3" togo="6" spot="UND24" context="V,3,6,V24" playid="11,4,106" type="P" pcode="SI" text="Landry, J. sideline pass complete to Konrath, R. for 4 yards to the UND28 (Williams, M.)." newcontext="V,4,2,V28">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Konrath, R." gain="4"></p_pa>
+    <p_tk vh="H" name="Williams, M."></p_tk>
+   </play>
+   <play hasball="UND" down="4" togo="2" spot="UND28" context="V,4,2,V28" playid="11,5,107" type="U" text="Hellevang, B. punt 37 yards to the TTU35, Zouzalik, A. return 0 yards to the TTU35 (Ankenbauer, K.)." newcontext="H,1,10,H35">
+    <p_pu vh="V" name="Hellevang, B." gain="37"></p_pu>
+    <p_pr vh="H" name="Zouzalik, A." gain="0"></p_pr>
+    <p_tk vh="V" name="Ankenbauer, K."></p_tk>
+   </play>
+   <drivesum plays="3" yards="8" top="1:46" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,H35,15:00" vh="H" spot="H35" clock="15:00" driveindex="12,107"></drivestart>
+   <play hasball="TTU" down="1" togo="10" spot="TTU35" context="H,1,10,H35" playid="12,1,108" clock="13:14" text="TEXAS TECH drive start at 13:14." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="TTU35" context="H,1,10,H35" playid="12,2,109" type="E" text="PENALTY TTU false start (Goetz, Matt) 5 yards to the TTU30." newcontext="H,1,15,H30">
+    <p_pn vh="H" code="FS" type="false start" name="Goetz, Matt" result="ACCEPT" at="H35" yards="5"></p_pn>
+   </play>
+   <play hasball="TTU" down="1" togo="15" spot="TTU30" context="H,1,15,H30" playid="12,3,110" type="R" pcode="RT" text="Stephens, Eric rush over right tackle for no gain to the TTU30 (Kasowski, R.)." newcontext="H,2,15,H30">
+    <p_ru vh="H" name="Stephens, Eric" gain="0"></p_ru>
+    <p_tk vh="V" name="Kasowski, R."></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="15" spot="TTU30" context="H,2,15,H30" playid="12,4,111" type="P" pcode="DO" text="Potts, Taylor deep out pass complete to Lewis, Detron for 11 yards to the TTU41 (Hawkins, D.)." newcontext="H,3,4,H41">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Lewis, Detron" gain="11"></p_pa>
+    <p_tk vh="V" name="Hawkins, D."></p_tk>
+   </play>
+   <play hasball="TTU" down="3" togo="4" spot="TTU41" context="H,3,4,H41" playid="12,5,112" type="E" pcode="SL" text="Potts, Taylor slant pass complete to Franks, Jacoby for 9 yards to the 50 yardline (Mersereau, E.), PENALTY TTU illegal formation 5 yards to the TTU36, NO PLAY." newcontext="H,3,9,H36">
+    <p_pn vh="H" code="FO" type="illegal formation" result="ACCEPT" at="H41" yards="5"></p_pn>
+   </play>
+   <play hasball="TTU" down="3" togo="9" spot="TTU36" context="H,3,9,H36" playid="12,6,113" type="P" pcode="MI" text="Potts, Taylor middle pass incomplete to Leong, Lyle." newcontext="H,4,9,H36">
+    <p_pa vh="H" qb="Potts, Taylor" result="INC" rcv="Leong, Lyle"></p_pa>
+   </play>
+   <play hasball="TTU" down="4" togo="9" spot="TTU36" context="H,4,9,H36" playid="12,7,114" type="U" turnover="F" text="Carona, Donnie punt 40 yards to the UND24, Dressler, R. return 2 yards to the UND26, fumble by Dressler, R. recovered by TTU Stone, Nathan at UND26." newcontext="H,1,10,V26">
+    <p_pu vh="H" name="Carona, Donnie" gain="40"></p_pu>
+    <p_pr vh="V" name="Dressler, R." gain="2"></p_pr>
+    <p_fumb vh="V" name="Dressler, R." at="V26" frvh="H" frname="Stone, Nathan"></p_fumb>
+   </play>
+   <drivesum plays="3" yards="1" top="1:47" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,V26,13:14" vh="H" spot="V26" clock="13:14" driveindex="14,114"></drivestart>
+   <play hasball="TTU" down="1" togo="10" spot="UND26" context="H,1,10,V26" playid="14,1,115" clock="11:27" text="TEXAS TECH drive start at 11:27." newcontext="H,1,10,V26">
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND26" context="H,1,10,V26" playid="14,2,116" type="P" first="P" text="Potts, Taylor pass complete to Britton, Edward for 15 yards to the UND11, 1ST DOWN TTU (Saporu, D.)." newcontext="H,1,10,V11">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Britton, Edward" gain="15"></p_pa>
+    <p_tk vh="V" name="Saporu, D."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND11" context="H,1,10,V11" playid="14,3,117" type="E" pcode="CR" text="Potts, Taylor crossing pass incomplete to Britton, Edward, PENALTY TTU holding (McDaniel, T.) 10 yards to the UND21, NO PLAY." newcontext="H,1,20,V21">
+    <p_pn vh="H" code="HO" type="holding" name="McDaniel, T." result="ACCEPT" at="V11" yards="10"></p_pn>
+   </play>
+   <play hasball="TTU" down="1" togo="20" spot="UND21" context="H,1,20,V21" playid="14,4,118" type="R" pcode="DR" text="Jeffers, H. rush draw play for 2 yards to the UND19 (Cochran, R.;Leith, C.)." newcontext="H,2,18,V19">
+    <p_ru vh="H" name="Jeffers, H." gain="2"></p_ru>
+    <p_tk vh="V" name="Cochran, R." assist="Y"></p_tk>
+    <p_tk vh="V" name="Leith, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="18" spot="UND19" context="H,2,18,V19" playid="14,5,119" type="P" pcode="SI" text="Potts, Taylor sideline pass complete to Leong, Lyle for 10 yards to the UND9 (Saporu, D.)." newcontext="H,3,8,V09">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Leong, Lyle" gain="10"></p_pa>
+    <p_tk vh="V" name="Saporu, D."></p_tk>
+   </play>
+   <play hasball="TTU" down="3" togo="8" spot="UND09" context="H,3,8,V09" playid="14,6,120" type="P" pcode="SL" text="Potts, Taylor slant pass complete to Britton, Edward for 6 yards to the UND3 (Mersereau, E.)." newcontext="H,4,2,V03">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Britton, Edward" gain="6"></p_pa>
+    <p_tk vh="V" name="Mersereau, E."></p_tk>
+   </play>
+   <play hasball="TTU" down="4" togo="2" spot="UND03" context="H,4,2,V03" playid="14,7,121" type="#" clock="09:20" text="Timeout Texas Tech, clock 09:20." newcontext="H,4,2,V03">
+    <p_to vh="H" team="Texas Tech"></p_to>
+   </play>
+   <play hasball="TTU" down="4" togo="2" spot="UND03" context="H,4,2,V03" playid="14,8,122" type="P" pcode="FD" text="Potts, Taylor FD pass incomplete to Lewis, Detron (Ankenbauer, K.)." newcontext="V,1,10,V03">
+    <p_pa vh="H" qb="Potts, Taylor" result="INC" rcv="Lewis, Detron"></p_pa>
+    <p_bu vh="V" name="Ankenbauer, K."></p_bu>
+   </play>
+   <drivesum plays="5" yards="23" top="2:14" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,V03,09:20" vh="V" spot="V03" clock="09:20" driveindex="15,122"></drivestart>
+   <play hasball="UND" down="1" togo="10" spot="UND03" context="V,1,10,V03" playid="15,1,123" clock="09:13" text="NORTH DAKOTA drive start at 09:13." newcontext="V,1,10,V03">
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND03" context="V,1,10,V03" playid="15,2,124" type="R" text="Magstadt, E. rush for 2 yards to the UND5 (Jones, Richard;Sonier, Tyrone)." newcontext="V,2,8,V05">
+    <p_ru vh="V" name="Magstadt, E." gain="2"></p_ru>
+    <p_tk vh="H" name="Jones, Richard" assist="Y"></p_tk>
+    <p_tk vh="H" name="Sonier, Tyrone" assist="Y"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="8" spot="UND05" context="V,2,8,V05" playid="15,3,125" type="P" pcode="MI" text="Landry, J. middle pass complete to Bamba, I. for 7 yards to the UND12 (Davis, Cody)." newcontext="V,3,1,V12">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Bamba, I." gain="7"></p_pa>
+    <p_tk vh="H" name="Davis, Cody"></p_tk>
+   </play>
+   <play hasball="UND" down="3" togo="1" spot="UND12" context="V,3,1,V12" playid="15,4,126" type="P" text="Landry, J. pass incomplete." newcontext="V,4,1,V12">
+    <p_pa vh="V" qb="Landry, J." result="INC"></p_pa>
+   </play>
+   <play hasball="UND" down="4" togo="1" spot="UND12" context="V,4,1,V12" playid="15,5,127" text="QB hurry by Howard, Daniel." newcontext="V,4,1,V12">
+    <p_qbh vh="H" name="Howard, Daniel"></p_qbh>
+   </play>
+   <play hasball="UND" down="4" togo="1" spot="UND12" context="V,4,1,V12" playid="15,6,128" type="U" text="Hellevang, B. punt 30 yards to the UND42, downed." newcontext="H,1,10,V42">
+    <p_pu vh="V" name="Hellevang, B." gain="30"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="1:36" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,V42,09:13" vh="H" spot="V42" clock="09:13" driveindex="16,128"></drivestart>
+   <play hasball="TTU" down="1" togo="10" spot="UND42" context="H,1,10,V42" playid="16,1,129" clock="07:37" text="TEXAS TECH drive start at 07:37." newcontext="H,1,10,V42">
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND42" context="H,1,10,V42" playid="16,2,130" type="P" pcode="CR" text="Potts, Taylor crossing pass complete to Franks, Jacoby for 4 yards to the UND38 (Ankenbauer, K.)." newcontext="H,2,6,V38">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Franks, Jacoby" gain="4"></p_pa>
+    <p_tk vh="V" name="Ankenbauer, K."></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="6" spot="UND38" context="H,2,6,V38" playid="16,3,131" type="P" pcode="SC" first="P" text="Potts, Taylor screen pass complete to Jeffers, H. for 24 yards to the UND14, 1ST DOWN TTU (Schwenzfeier, J)." newcontext="H,1,10,V14">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Jeffers, H." gain="24"></p_pa>
+    <p_tk vh="V" name="Schwenzfeier, J"></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND14" context="H,1,10,V14" playid="16,4,132" type="P" text="Potts, Taylor pass incomplete." newcontext="H,2,10,V14">
+    <p_pa vh="H" qb="Potts, Taylor" result="INC"></p_pa>
+   </play>
+   <play hasball="TTU" down="2" togo="10" spot="UND14" context="H,2,10,V14" playid="16,5,133" type="P" pcode="SC" text="Potts, Taylor screen pass complete to Jeffers, H. for 5 yards to the UND9 (Schwenzfeier, J)." newcontext="H,3,5,V09">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Jeffers, H." gain="5"></p_pa>
+    <p_tk vh="V" name="Schwenzfeier, J"></p_tk>
+   </play>
+   <play hasball="TTU" down="3" togo="5" spot="UND09" context="H,3,5,V09" playid="16,6,134" type="P" first="P" text="Potts, Taylor pass complete to Leong, Lyle for 8 yards to the UND1, 1ST DOWN TTU (Watkins, K.)." newcontext="H,1,0,V01">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Leong, Lyle" gain="8"></p_pa>
+    <p_tk vh="V" name="Watkins, K."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="0" spot="UND01" context="H,1,0,V01" playid="16,7,135" type="R" pcode="QS" text="Potts, Taylor rush quarterback sneak for no gain to the UND1 (Schwenzfeier, J)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Potts, Taylor" gain="0"></p_ru>
+    <p_tk vh="V" name="Schwenzfeier, J"></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="0" spot="UND01" context="H,2,0,V01" playid="16,8,136" type="R" pcode="QS" text="Potts, Taylor rush quarterback sneak for no gain to the UND1 (German, P.)." newcontext="H,3,0,V01">
+    <p_ru vh="H" name="Potts, Taylor" gain="0"></p_ru>
+    <p_tk vh="V" name="German, P."></p_tk>
+   </play>
+   <play hasball="TTU" down="3" togo="0" spot="UND01" context="H,3,0,V01" playid="16,9,137" type="R" text="Batch, Baron rush for no gain to the UND1 (Pollow, R.)." newcontext="H,4,0,V01">
+    <p_ru vh="H" name="Batch, Baron" gain="0"></p_ru>
+    <p_tk vh="V" name="Pollow, R."></p_tk>
+   </play>
+   <play hasball="TTU" down="4" togo="0" spot="UND01" context="H,4,0,V01" playid="16,10,138" type="R" pcode="QS" score="Y" clock="03:12" text="Potts, Taylor rush quarterback sneak for 1 yard to the UND0, TOUCHDOWN, clock 03:12." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Potts, Taylor" gain="1"></p_ru>
+   </play>
+   <play hasball="TTU" down="1" togo="0" spot="UND03" context="H,1,0,V03" playid="16,11,139" type="#" clock="03:12" text="Timeout North Dakota, clock 03:12." newcontext="H,1,0,V03">
+    <p_to vh="V" team="North Dakota"></p_to>
+   </play>
+   <play hasball="TTU" down="1" togo="0" spot="UND03" context="H,1,0,V03" playid="16,12,140" type="X" score="Y" text="Williams, Matt kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Williams, Matt" qb="Williams, Matt" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="6" H="28"></score>
+   <drivesum plays="9" yards="42" top="4:25" driveindex="16" complete="Y"></drivesum>
+   <play hasball="TTU" down="1" togo="0" spot="TTU30" context="H,1,0,H30" playid="16,13,141" type="K" text="Carona, Donnie kickoff 70 yards to the UND0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Carona, Donnie" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,03:12" vh="V" spot="V20" clock="03:12" driveindex="17,141"></drivestart>
+   <play hasball="UND" down="1" togo="10" spot="UND20" context="V,1,10,V20" playid="17,1,142" clock="03:12" text="NORTH DAKOTA drive start at 03:12." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND20" context="V,1,10,V20" playid="17,2,143" type="R" pcode="QC" text="Landry, J. rush QC for 5 yards to the UND25 (Bird, Bront)." newcontext="V,2,5,V25">
+    <p_ru vh="V" name="Landry, J." gain="5"></p_ru>
+    <p_tk vh="H" name="Bird, Bront"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="5" spot="UND25" context="V,2,5,V25" playid="17,3,144" type="P" pcode="CR" text="Landry, J. crossing pass complete to Bamba, I. for 3 yards to the UND28 (Duncan, Brian)." newcontext="V,3,2,V28">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Bamba, I." gain="3"></p_pa>
+    <p_tk vh="H" name="Duncan, Brian"></p_tk>
+   </play>
+   <play hasball="UND" down="3" togo="2" spot="UND28" context="V,3,2,V28" playid="17,4,145" type="P" pcode="SI" first="P" text="Landry, J. sideline pass complete to Solum, C. for 8 yards to the UND36, 1ST DOWN UND (Wall, Jamar)." newcontext="V,1,10,V36">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Solum, C." gain="8"></p_pa>
+    <p_tk vh="H" name="Wall, Jamar"></p_tk>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND36" context="V,1,10,V36" playid="17,5,146" type="R" pcode="LG" text="Sutton, M. rush over left guard for loss of 2 yards to the UND34 (Williams, M.)." newcontext="V,2,12,V34">
+    <p_ru vh="V" name="Sutton, M." gain="-2"></p_ru>
+    <p_tk vh="H" name="Williams, M." tfl="Y"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="12" spot="UND34" context="V,2,12,V34" playid="17,6,147" type="P" pcode="MI" first="P" text="Landry, J. middle pass complete to Bamba, I. for 13 yards to the UND47, 1ST DOWN UND (Riley, Sandy;Moore, LaRon)." newcontext="V,1,10,V47">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Bamba, I." gain="13"></p_pa>
+    <p_tk vh="H" name="Riley, Sandy" assist="Y"></p_tk>
+    <p_tk vh="H" name="Moore, LaRon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND47" context="V,1,10,V47" playid="17,7,148" type="R" pcode="LT" text="Sutton, M. rush over left tackle for 6 yards to the TTU47 (Williams, M.)." newcontext="V,2,4,H47">
+    <p_ru vh="V" name="Sutton, M." gain="6"></p_ru>
+    <p_tk vh="H" name="Williams, M."></p_tk>
+   </play>
+   <score qtr="3" V="6" H="28"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UND">
+    <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="06:34"></misc>
+    <rush att="5" yds="11" gain="13" loss="2" td="0" long="0"></rush>
+    <pass comp="6" att="7" int="0" yds="39" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="39" td="0" long="0"></rcv>
+    <punt no="2" yds="67" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="33.5"></punt>
+    <defense tackua="13" tacka="2" tot_tack="15" sacks="1" sackyds="9" brup="1"></defense>
+    <pr no="1" yds="2" td="0" long="2"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="TTU">
+    <firstdowns no="3" rush="0" pass="3" penalty="0"></firstdowns>
+    <penalties no="3" yds="20"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="1" fourthatt="2"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:26"></misc>
+    <rush att="6" yds="3" gain="3" loss="0" td="1" long="0"></rush>
+    <pass comp="8" att="11" int="0" yds="83" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="83" td="0" long="0"></rcv>
+    <punt no="1" yds="40" long="40" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="40.0"></punt>
+    <ko no="2" yds="140" ob="0" tb="2"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="4" tot_tack="13" tflua="1" tfla="0" tflyds="2" sacks="1" sackyds="3" qbh="1" fr="1" fryds="0"></defense>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="UND" down="2" togo="4" spot="TTU47" context="V,2,4,H47" playid="17,8,149" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,2,4,H47">
+   </play>
+   <play hasball="UND" down="2" togo="4" spot="TTU47" context="V,2,4,H47" playid="17,9,150" type="R" first="R" text="Landry, J. rush for 5 yards to the TTU42, 1ST DOWN UND (Bird, Bront)." newcontext="V,1,10,H42">
+    <p_ru vh="V" name="Landry, J." gain="5"></p_ru>
+    <p_tk vh="H" name="Bird, Bront"></p_tk>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="TTU42" context="V,1,10,H42" playid="17,10,151" type="P" pcode="SC" first="P" text="Landry, J. screen pass complete to Sutton, M. for 12 yards to the TTU30, 1ST DOWN UND (Duncan, Brian;Moore, LaRon)." newcontext="V,1,10,H30">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Sutton, M." gain="12"></p_pa>
+    <p_tk vh="H" name="Duncan, Brian" assist="Y"></p_tk>
+    <p_tk vh="H" name="Moore, LaRon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="TTU30" context="V,1,10,H30" playid="17,11,152" type="R" pcode="LG" text="Sutton, M. rush over left guard for 1 yard to the TTU29 (Fehoko, Sam)." newcontext="V,2,9,H29">
+    <p_ru vh="V" name="Sutton, M." gain="1"></p_ru>
+    <p_tk vh="H" name="Fehoko, Sam"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="9" spot="TTU29" context="V,2,9,H29" playid="17,12,153" type="P" pcode="SI" text="Landry, J. sideline pass complete to Sutton, M. for 5 yards to the TTU24 (Davis, Cody;Williams, M.)." newcontext="V,3,4,H24">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Sutton, M." gain="5"></p_pa>
+    <p_tk vh="H" name="Davis, Cody" assist="Y"></p_tk>
+    <p_tk vh="H" name="Williams, M." assist="Y"></p_tk>
+   </play>
+   <play hasball="UND" down="3" togo="4" spot="TTU24" context="V,3,4,H24" playid="17,13,154" type="P" pcode="SI" text="Landry, J. sideline pass incomplete to Anderson, C.." newcontext="V,4,4,H24">
+    <p_pa vh="V" qb="Landry, J." result="INC" rcv="Anderson, C."></p_pa>
+   </play>
+   <play hasball="UND" down="4" togo="4" spot="TTU24" context="V,4,4,H24" playid="17,14,155" type="R" first="R" text="Hendrickson, M. rush for 6 yards to the TTU18, 1ST DOWN UND." newcontext="V,1,10,H18">
+    <p_ru vh="V" name="Hendrickson, M." gain="6"></p_ru>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="TTU18" context="V,1,10,H18" playid="17,15,156" type="E" first="E" text="Landry, J. pass incomplete, PENALTY TTU roughing passer 9 yards to the TTU9, 1ST DOWN UND, NO PLAY." newcontext="V,1,0,H09">
+    <p_pn vh="H" code="RP" type="roughing passer" result="ACCEPT" at="H18" yards="9"></p_pn>
+   </play>
+   <play hasball="UND" down="1" togo="0" spot="TTU09" context="V,1,0,H09" playid="17,16,157" type="R" score="Y" clock="11:51" text="Sutton, M. rush for 9 yards to the TTU0, TOUCHDOWN, clock 11:51." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Sutton, M." gain="9"></p_ru>
+   </play>
+   <play hasball="UND" down="1" togo="0" spot="TTU03" context="V,1,0,H03" playid="17,17,158" type="X" score="Y" text="Hellevang, B. kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Hellevang, B." qb="Hellevang, B." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="13" H="28"></score>
+   <drivesum plays="13" yards="80" top="6:21" driveindex="17" complete="Y"></drivesum>
+   <play hasball="UND" down="1" togo="0" spot="UND30" context="V,1,0,V30" playid="17,18,159" type="K" text="Hellevang, B. kickoff 69 yards to the TTU1, Britton, Edward return 24 yards to the TTU25 (Leith, C.)." newcontext="H,1,10,H25">
+    <p_ko vh="V" name="Hellevang, B." gain="69"></p_ko>
+    <p_kr vh="H" name="Britton, Edward" gain="24"></p_kr>
+    <p_tk vh="V" name="Leith, C."></p_tk>
+   </play>
+   <drivestart poss="H,H25,11:51" vh="H" spot="H25" clock="11:51" driveindex="18,159"></drivestart>
+   <play hasball="TTU" down="1" togo="10" spot="TTU25" context="H,1,10,H25" playid="18,1,160" clock="11:51" text="TEXAS TECH drive start at 11:51." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="TTU25" context="H,1,10,H25" playid="18,2,161" type="P" pcode="MI" first="P" text="Potts, Taylor middle pass complete to Lewis, Detron for 19 yards to the TTU44, 1ST DOWN TTU (Kasowski, R.)." newcontext="H,1,10,H44">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Lewis, Detron" gain="19"></p_pa>
+    <p_tk vh="V" name="Kasowski, R."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="TTU44" context="H,1,10,H44" playid="18,3,162" type="P" text="Potts, Taylor pass incomplete to Britton, Edward." newcontext="H,2,10,H44">
+    <p_pa vh="H" qb="Potts, Taylor" result="INC" rcv="Britton, Edward"></p_pa>
+   </play>
+   <play hasball="TTU" down="2" togo="10" spot="TTU44" context="H,2,10,H44" playid="18,4,163" type="P" turnover="I" text="Potts, Taylor pass intercepted by Schwenzfeier, J at the UND40, Schwenzfeier, J return 0 yards to the UND40 (James, Adam)." newcontext="V,1,10,V40">
+    <p_pa vh="H" qb="Potts, Taylor" result="INT"></p_pa>
+    <p_ir vh="V" name="Schwenzfeier, J" at="V40" gain="0"></p_ir>
+    <p_tk vh="H" name="James, Adam"></p_tk>
+   </play>
+   <drivesum plays="3" yards="19" top="0:45" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="V,V40,11:51" vh="V" spot="V40" clock="11:51" driveindex="19,163"></drivestart>
+   <play hasball="UND" down="1" togo="10" spot="UND40" context="V,1,10,V40" playid="19,1,164" clock="11:06" text="NORTH DAKOTA drive start at 11:06." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND40" context="V,1,10,V40" playid="19,2,165" type="R" pcode="LL" text="Sutton, M. rush left for 4 yards to the UND44 (Perry, Chris)." newcontext="V,2,6,V44">
+    <p_ru vh="V" name="Sutton, M." gain="4"></p_ru>
+    <p_tk vh="H" name="Perry, Chris"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="6" spot="UND44" context="V,2,6,V44" playid="19,3,166" type="P" pcode="CR" first="P" text="Landry, J. crossing pass complete to Dressler, R. for 13 yards to the TTU43, 1ST DOWN UND (Davis, Cody)." newcontext="V,1,10,H43">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Dressler, R." gain="13"></p_pa>
+    <p_tk vh="H" name="Davis, Cody"></p_tk>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="TTU43" context="V,1,10,H43" playid="19,4,167" type="P" text="Landry, J. pass incomplete to Bamba, I.." newcontext="V,2,10,H43">
+    <p_pa vh="V" qb="Landry, J." result="INC" rcv="Bamba, I."></p_pa>
+   </play>
+   <play hasball="UND" down="2" togo="10" spot="TTU43" context="V,2,10,H43" playid="19,5,168" type="P" text="Landry, J. pass incomplete to Cole, M.." newcontext="V,3,10,H43">
+    <p_pa vh="V" qb="Landry, J." result="INC" rcv="Cole, M."></p_pa>
+   </play>
+   <play hasball="UND" down="3" togo="10" spot="TTU43" context="V,3,10,H43" playid="19,6,169" type="P" pcode="SI" text="Landry, J. sideline pass complete to Anderson, C. for loss of 4 yards to the TTU47." newcontext="V,4,14,H47">
+    <p_pa vh="V" qb="Landry, J." result="COMP" rcv="Anderson, C." gain="-4"></p_pa>
+   </play>
+   <play hasball="UND" down="4" togo="14" spot="TTU47" context="V,4,14,H47" playid="19,7,170" type="U" text="Hellevang, B. punt 35 yards to the TTU12, Zouzalik, A. return 18 yards to the TTU30 (Ankenbauer, K.)." newcontext="H,1,10,H30">
+    <p_pu vh="V" name="Hellevang, B." gain="35"></p_pu>
+    <p_pr vh="H" name="Zouzalik, A." gain="18"></p_pr>
+    <p_tk vh="V" name="Ankenbauer, K."></p_tk>
+   </play>
+   <drivesum plays="5" yards="13" top="2:14" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,H30,11:06" vh="H" spot="H30" clock="11:06" driveindex="20,170"></drivestart>
+   <play hasball="TTU" down="1" togo="10" spot="TTU30" context="H,1,10,H30" playid="20,1,171" clock="08:52" text="TEXAS TECH drive start at 08:52." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="TTU30" context="H,1,10,H30" playid="20,2,172" type="P" pcode="CR" text="Potts, Taylor crossing pass complete to Lewis, Detron for 11 yards to the TTU41 (Watkins, K.), PENALTY TTU holding 10 yards to the TTU31." newcontext="H,1,9,H31">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Lewis, Detron" gain="11"></p_pa>
+    <p_tk vh="V" name="Watkins, K."></p_tk>
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="H41" yards="10"></p_pn>
+   </play>
+   <play hasball="TTU" down="1" togo="9" spot="TTU31" context="H,1,9,H31" playid="20,3,173" text="1st and 9." newcontext="H,1,9,H31">
+   </play>
+   <play hasball="TTU" down="1" togo="9" spot="TTU31" context="H,1,9,H31" playid="20,4,174" type="R" first="R" text="Batch, Baron rush for 13 yards to the TTU44, 1ST DOWN TTU (Belotti, J.)." newcontext="H,1,10,H44">
+    <p_ru vh="H" name="Batch, Baron" gain="13"></p_ru>
+    <p_tk vh="V" name="Belotti, J."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="TTU44" context="H,1,10,H44" playid="20,5,175" type="P" pcode="SC" text="Potts, Taylor screen pass complete to Batch, Baron for 3 yards to the TTU47 (Hendrickson, D.)." newcontext="H,2,7,H47">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Batch, Baron" gain="3"></p_pa>
+    <p_tk vh="V" name="Hendrickson, D."></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="7" spot="TTU47" context="H,2,7,H47" playid="20,6,176" type="R" pcode="DR" text="Batch, Baron rush draw play for 3 yards to the 50 yardline (Kasowski, R.)." newcontext="H,3,4,H50">
+    <p_ru vh="H" name="Batch, Baron" gain="3"></p_ru>
+    <p_tk vh="V" name="Kasowski, R."></p_tk>
+   </play>
+   <play hasball="TTU" down="3" togo="4" spot="TTU50" context="H,3,4,H50" playid="20,7,177" type="P" pcode="CR" first="P" text="Potts, Taylor crossing pass complete to Torres, Alex for 9 yards to the UND41, 1ST DOWN TTU (Watkins, K.)." newcontext="H,1,10,V41">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Torres, Alex" gain="9"></p_pa>
+    <p_tk vh="V" name="Watkins, K."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND41" context="H,1,10,V41" playid="20,8,178" type="P" first="P" text="Potts, Taylor pass complete to Leong, Lyle for 28 yards to the UND13, 1ST DOWN TTU (Mersereau, E.)." newcontext="H,1,10,V13">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Leong, Lyle" gain="28"></p_pa>
+    <p_tk vh="V" name="Mersereau, E."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND13" context="H,1,10,V13" playid="20,9,179" type="P" text="Potts, Taylor pass incomplete to Franks, Jacoby." newcontext="H,2,10,V13">
+    <p_pa vh="H" qb="Potts, Taylor" result="INC" rcv="Franks, Jacoby"></p_pa>
+   </play>
+   <play hasball="TTU" down="2" togo="10" spot="UND13" context="H,2,10,V13" playid="20,10,180" type="E" text="PENALTY TTU false start 5 yards to the UND18." newcontext="H,2,15,V18">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="V13" yards="5"></p_pn>
+   </play>
+   <play hasball="TTU" down="2" togo="15" spot="UND18" context="H,2,15,V18" playid="20,11,181" type="R" pcode="DR" text="Batch, Baron rush draw play for 3 yards to the UND15 (Brenneman, R.)." newcontext="H,3,12,V15">
+    <p_ru vh="H" name="Batch, Baron" gain="3"></p_ru>
+    <p_tk vh="V" name="Brenneman, R."></p_tk>
+   </play>
+   <play hasball="TTU" down="3" togo="12" spot="UND15" context="H,3,12,V15" playid="20,12,182" type="P" text="Potts, Taylor pass incomplete to James, Adam." newcontext="H,4,12,V15">
+    <p_pa vh="H" qb="Potts, Taylor" result="INC" rcv="James, Adam"></p_pa>
+   </play>
+   <play hasball="TTU" down="4" togo="12" spot="UND15" context="H,4,12,V15" playid="20,13,183" type="F" score="Y" clock="04:49" text="Williams, Matt field goal attempt from 32 GOOD, clock 04:49." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Williams, Matt" distance="32" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="13" H="31"></score>
+   <drivesum plays="10" yards="55" top="4:03" driveindex="20" complete="Y"></drivesum>
+   <play hasball="TTU" down="1" togo="0" spot="TTU30" context="H,1,0,H30" playid="20,14,184" type="K" text="Carona, Donnie kickoff 70 yards to the UND0, Hawkins, D. return 19 yards to the UND19 (Mitchem, F.)." newcontext="V,1,10,V19">
+    <p_ko vh="H" name="Carona, Donnie" gain="70"></p_ko>
+    <p_kr vh="V" name="Hawkins, D." gain="19"></p_kr>
+    <p_tk vh="H" name="Mitchem, F."></p_tk>
+   </play>
+   <drivestart poss="V,V19,04:49" vh="V" spot="V19" clock="04:49" driveindex="21,184"></drivestart>
+   <play hasball="UND" down="1" togo="10" spot="UND19" context="V,1,10,V19" playid="21,1,185" clock="04:49" text="NORTH DAKOTA drive start at 04:49." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND19" context="V,1,10,V19" playid="21,2,186" type="P" text="Landry, J. pass incomplete to Bamba, I.." newcontext="V,2,10,V19">
+    <p_pa vh="V" qb="Landry, J." result="INC" rcv="Bamba, I."></p_pa>
+   </play>
+   <play hasball="UND" down="2" togo="10" spot="UND19" context="V,2,10,V19" playid="21,3,187" type="P" text="Landry, J. sacked for loss of 7 yards to the UND12 (Howard, Daniel)." newcontext="V,3,17,V12">
+    <p_pa vh="V" qb="Landry, J." result="SACK" gain="-7"></p_pa>
+    <p_tk vh="H" name="Howard, Daniel" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UND" down="3" togo="17" spot="UND12" context="V,3,17,V12" playid="21,4,188" type="P" text="Landry, J. pass incomplete." newcontext="V,4,17,V12">
+    <p_pa vh="V" qb="Landry, J." result="INC"></p_pa>
+   </play>
+   <play hasball="UND" down="4" togo="17" spot="UND12" context="V,4,17,V12" playid="21,5,189" type="U" text="Hellevang, B. punt 45 yards to the TTU43, Zouzalik, A. return 15 yards to the UND42 (Ankenbauer, K.)." newcontext="H,1,10,V42">
+    <p_pu vh="V" name="Hellevang, B." gain="45"></p_pu>
+    <p_pr vh="H" name="Zouzalik, A." gain="15"></p_pr>
+    <p_tk vh="V" name="Ankenbauer, K."></p_tk>
+   </play>
+   <drivesum plays="3" yards="-7" top="1:18" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,V42,04:49" vh="H" spot="V42" clock="04:49" driveindex="22,189"></drivestart>
+   <play hasball="TTU" down="1" togo="10" spot="UND42" context="H,1,10,V42" playid="22,1,190" clock="03:31" text="TEXAS TECH drive start at 03:31." newcontext="H,1,10,V42">
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND42" context="H,1,10,V42" playid="22,2,191" type="P" pcode="SC" first="P" text="Potts, Taylor screen pass complete to Torres, Alex for 12 yards to the UND30, 1ST DOWN TTU (Schwenzfeier, J)." newcontext="H,1,10,V30">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Torres, Alex" gain="12"></p_pa>
+    <p_tk vh="V" name="Schwenzfeier, J"></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND30" context="H,1,10,V30" playid="22,3,192" type="R" pcode="RT" first="R" text="Jeffers, H. rush over right tackle for 14 yards to the UND16, 1ST DOWN TTU (Kudrna, M.)." newcontext="H,1,10,V16">
+    <p_ru vh="H" name="Jeffers, H." gain="14"></p_ru>
+    <p_tk vh="V" name="Kudrna, M."></p_tk>
+   </play>
+   <play hasball="TTU" down="1" togo="10" spot="UND16" context="H,1,10,V16" playid="22,4,193" type="P" pcode="SC" text="Potts, Taylor screen pass complete to Jeffers, H. for loss of 2 yards to the UND18 (Hendrickson, D.)." newcontext="H,2,12,V18">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="Jeffers, H." gain="-2"></p_pa>
+    <p_tk vh="V" name="Hendrickson, D." tfl="Y"></p_tk>
+   </play>
+   <play hasball="TTU" down="2" togo="12" spot="UND18" context="H,2,12,V18" playid="22,5,194" type="P" pcode="DO" first="P" score="Y" clock="02:05" text="Potts, Taylor deep out pass complete to James, Adam for 18 yards to the UND0, 1ST DOWN TTU, TOUCHDOWN, clock 02:05." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Potts, Taylor" result="COMP" rcv="James, Adam" gain="18"></p_pa>
+   </play>
+   <play hasball="TTU" down="1" togo="0" spot="UND03" context="H,1,0,V03" playid="22,6,195" type="X" score="Y" text="Williams, Matt kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Williams, Matt" qb="Williams, Matt" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="13" H="38"></score>
+   <drivesum plays="4" yards="42" top="1:26" driveindex="22" complete="Y"></drivesum>
+   <play hasball="TTU" down="1" togo="0" spot="TTU30" context="H,1,0,H30" playid="22,7,196" type="K" text="Carona, Donnie kickoff 65 yards to the UND5, Hawkins, D. return 13 yards to the UND18 (Stone, Nathan)." newcontext="V,1,10,V18">
+    <p_ko vh="H" name="Carona, Donnie" gain="65"></p_ko>
+    <p_kr vh="V" name="Hawkins, D." gain="13"></p_kr>
+    <p_tk vh="H" name="Stone, Nathan"></p_tk>
+   </play>
+   <drivestart poss="V,V18,02:05" vh="V" spot="V18" clock="02:05" driveindex="23,196"></drivestart>
+   <play hasball="UND" down="1" togo="10" spot="UND18" context="V,1,10,V18" playid="23,1,197" clock="02:05" text="NORTH DAKOTA drive start at 02:05." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND18" context="V,1,10,V18" playid="23,2,198" type="R" pcode="RG" text="Solum, C. rush over right guard for 7 yards to the UND25 (Collier, Blake)." newcontext="V,2,3,V25">
+    <p_ru vh="V" name="Solum, C." gain="7"></p_ru>
+    <p_tk vh="H" name="Collier, Blake"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="3" spot="UND25" context="V,2,3,V25" playid="23,3,199" type="R" pcode="RG" first="R" text="Solum, C. rush over right guard for 4 yards to the UND29, 1ST DOWN UND (Fehoko, Sam)." newcontext="V,1,10,V29">
+    <p_ru vh="V" name="Solum, C." gain="4"></p_ru>
+    <p_tk vh="H" name="Fehoko, Sam"></p_tk>
+   </play>
+   <play hasball="UND" down="1" togo="10" spot="UND29" context="V,1,10,V29" playid="23,4,200" type="R" pcode="DR" text="Sutton, M. rush draw play for 3 yards to the UND32 (Fehoko, Sam)." newcontext="V,2,7,V32">
+    <p_ru vh="V" name="Sutton, M." gain="3"></p_ru>
+    <p_tk vh="H" name="Fehoko, Sam"></p_tk>
+   </play>
+   <play hasball="UND" down="2" togo="7" spot="UND32" context="V,2,7,V32" playid="23,5,201" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="V,2,7,V32">
+   </play>
+   <drivesum plays="3" yards="14" top="2:05" driveindex="23" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Texas Tech defeats North Dakota by a score of 38 to 13."></play>
+   <score final="Y" V="13" H="38"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UND">
+    <firstdowns no="6" rush="3" pass="2" penalty="1"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:46"></misc>
+    <rush att="9" yds="32" gain="39" loss="7" td="1" long="0"></rush>
+    <pass comp="4" att="9" int="0" yds="26" td="0" long="0" sacks="1" sackyds="7"></pass>
+    <rcv no="4" yds="26" td="0" long="0"></rcv>
+    <punt no="2" yds="80" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="40.0"></punt>
+    <ko no="1" yds="69" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="14" tacka="0" tot_tack="14" tflua="1" tfla="0" tflyds="2" sacks="1" sackyds="9" int="1" intyds="0"></defense>
+    <kr no="2" yds="32" td="0" long="1"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="TTU">
+    <firstdowns no="7" rush="2" pass="5" penalty="0"></firstdowns>
+    <penalties no="3" yds="24"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:14"></misc>
+    <rush att="4" yds="33" gain="33" loss="0" td="0" long="10"></rush>
+    <pass comp="8" att="12" int="1" yds="98" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="98" td="1" long="0"></rcv>
+    <ko no="2" yds="135" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="32" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="4" tot_tack="15" tflua="1" tfla="0" tflyds="7" sacks="2" sackyds="10"></defense>
+    <kr no="1" yds="24" td="0" long="0"></kr>
+    <pr no="2" yds="33" td="0" long="1"></pr>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="UND" down="2" togo="7" spot="UND32" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="2" htor="2" dtgtext="Game Over" ldtext="Drive started: 02:05, 4th Qtr"></downtogo>
+ </plays>

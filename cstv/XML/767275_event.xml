@@ -1,0 +1,1069 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="MT" down="1" togo="10" spot="MT30" context="V,1,10,V30" playid="0,1,0" text="Clemson won the coin toss and has elected to receive the ball." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT30" context="V,1,10,V30" playid="0,2,1" text="MT ball on MT30." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT30" context="V,1,10,V30" playid="0,3,2" type="K" score="Y" clock="14:46" text="Gendreau, Alan kickoff 66 yards to the CU4, Spiller, C return 96 yards to the MT0, TOUCHDOWN, clock 14:46." newcontext="H,1,0,V03">
+    <p_ko vh="V" name="Gendreau, Alan" gain="66"></p_ko>
+    <p_kr vh="H" name="Spiller, C" gain="96"></p_kr>
+   </play>
+   <drivestart poss="H,V03,14:46" vh="H" spot="V03" clock="14:46" driveindex="1,2"></drivestart>
+   <play hasball="CU" down="1" togo="0" spot="MT03" context="H,1,0,V03" playid="1,1,3" type="X" score="Y" text="Jackson, R kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Jackson, R" qb="Jackson, R" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="0" yards="0" top="0:14" driveindex="1" complete="Y"></drivesum>
+   <play hasball="CU" down="1" togo="0" spot="CU30" context="H,1,0,H30" playid="1,2,4" type="K" text="Benton, S kickoff 68 yards to the MT2, Gee, Desmond return 17 yards to the MT19 (McDaniel, D)." newcontext="V,1,10,V19">
+    <p_ko vh="H" name="Benton, S" gain="68"></p_ko>
+    <p_kr vh="V" name="Gee, Desmond" gain="17"></p_kr>
+    <p_tk vh="H" name="McDaniel, D"></p_tk>
+   </play>
+   <drivestart poss="V,V19,14:46" vh="V" spot="V19" clock="14:46" driveindex="2,4"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT19" context="V,1,10,V19" playid="2,1,5" clock="14:42" text="MIDDLE TENNESSEE drive start at 14:42." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT19" context="V,1,10,V19" playid="2,2,6" type="P" first="P" text="Dasher, Dwight pass complete to Tanner, Phillip for 28 yards to the MT47, 1ST DOWN MT (Butler, C)." newcontext="V,1,10,V47">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Tanner, Phillip" gain="28"></p_pa>
+    <p_tk vh="H" name="Butler, C"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT47" context="V,1,10,V47" playid="2,3,7" type="P" first="P" text="Dasher, Dwight pass complete to Blissard, Shane for 12 yards to the CU41, 1ST DOWN MT." newcontext="V,1,10,H41">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Blissard, Shane" gain="12"></p_pa>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="CU41" context="V,1,10,H41" playid="2,4,8" type="P" turnover="I" text="Dasher, Dwight pass intercepted by McDaniel, D at the CU42, McDaniel, D return 0 yards to the CU42 (Tanner, Phillip), QB hurry by Sapp, R." newcontext="H,1,10,H42">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INT"></p_pa>
+    <p_ir vh="H" name="McDaniel, D" at="H42" gain="0"></p_ir>
+    <p_tk vh="V" name="Tanner, Phillip"></p_tk>
+    <p_qbh vh="H" name="Sapp, R"></p_qbh>
+   </play>
+   <drivesum plays="3" yards="40" top="0:51" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H42,14:42" vh="H" spot="H42" clock="14:42" driveindex="3,8"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="CU42" context="H,1,10,H42" playid="3,1,9" clock="13:51" text="CLEMSON drive start at 13:51." newcontext="H,1,10,H42">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU42" context="H,1,10,H42" playid="3,2,10" type="E" text="PENALTY CU false start 5 yards to the CU37." newcontext="H,1,15,H37">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="H42" yards="5"></p_pn>
+   </play>
+   <play hasball="CU" down="1" togo="15" spot="CU37" context="H,1,15,H37" playid="3,3,11" type="R" text="Harper, J rush for no gain to the CU37 (Issac, Rod;Robinson, Cam)." newcontext="H,2,15,H37">
+    <p_ru vh="H" name="Harper, J" gain="0"></p_ru>
+    <p_tk vh="V" name="Issac, Rod" assist="Y"></p_tk>
+    <p_tk vh="V" name="Robinson, Cam" assist="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="15" spot="CU37" context="H,2,15,H37" playid="3,4,12" type="P" text="Parker, K pass incomplete to Ashe, T." newcontext="H,3,15,H37">
+    <p_pa vh="H" qb="Parker, K" result="INC" rcv="Ashe, T"></p_pa>
+   </play>
+   <play hasball="CU" down="3" togo="15" spot="CU37" context="H,3,15,H37" playid="3,5,13" type="P" text="Parker, K pass incomplete to Dye, X, dropped pass." newcontext="H,4,15,H37">
+    <p_pa vh="H" qb="Parker, K" result="DROP" rcv="Dye, X"></p_pa>
+   </play>
+   <play hasball="CU" down="4" togo="15" spot="CU37" context="H,4,15,H37" playid="3,6,14" type="U" text="Zimmerman, D punt 51 yards to the MT12, fair catch by Honeycutt, P.." newcontext="V,1,10,V12">
+    <p_pu vh="H" name="Zimmerman, D" gain="51" in20="Y" fc="Honeycutt, P."></p_pu>
+   </play>
+   <drivesum plays="3" yards="-5" top="0:52" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,V12,13:51" vh="V" spot="V12" clock="13:51" driveindex="4,14"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT12" context="V,1,10,V12" playid="4,1,15" clock="12:59" text="MIDDLE TENNESSEE drive start at 12:59." newcontext="V,1,10,V12">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT12" context="V,1,10,V12" playid="4,2,16" type="R" text="Dasher, Dwight rush for 5 yards to the MT17 (Hall, R)." newcontext="V,2,5,V17">
+    <p_ru vh="V" name="Dasher, Dwight" gain="5"></p_ru>
+    <p_tk vh="H" name="Hall, R"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="5" spot="MT17" context="V,2,5,V17" playid="4,3,17" type="P" text="Dasher, Dwight pass incomplete to McClover, Chris." newcontext="V,3,5,V17">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="McClover, Chris"></p_pa>
+   </play>
+   <play hasball="MT" down="3" togo="5" spot="MT17" context="V,3,5,V17" playid="4,4,18" type="P" text="Dasher, Dwight pass incomplete to Tanner, Phillip (Chambers, S)." newcontext="V,4,5,V17">
+    <p_pa vh="V" qb="Dasher, Dwight" result="BRUP" rcv="Tanner, Phillip"></p_pa>
+    <p_bu vh="H" name="Chambers, S"></p_bu>
+   </play>
+   <play hasball="MT" down="4" togo="5" spot="MT17" context="V,4,5,V17" playid="4,5,19" type="U" text="DeFatta, David punt 28 yards to the MT45, out-of-bounds." ob="Y" newcontext="H,1,10,V45">
+    <p_pu vh="V" name="DeFatta, David" gain="28" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="5" top="0:48" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="H,V45,12:59" vh="H" spot="V45" clock="12:59" driveindex="5,19"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="MT45" context="H,1,10,V45" playid="5,1,20" clock="12:11" text="CLEMSON drive start at 12:11." newcontext="H,1,10,V45">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT45" context="H,1,10,V45" playid="5,2,21" type="R" text="Spiller, C rush for 1 yard to the MT44 (McCoy, Chris)." newcontext="H,2,9,V44">
+    <p_ru vh="H" name="Spiller, C" gain="1"></p_ru>
+    <p_tk vh="V" name="McCoy, Chris"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="9" spot="MT44" context="H,2,9,V44" playid="5,3,22" type="R" text="Spiller, C rush for 5 yards to the MT39 (Davis, Antwan)." newcontext="H,3,4,V39">
+    <p_ru vh="H" name="Spiller, C" gain="5"></p_ru>
+    <p_tk vh="V" name="Davis, Antwan"></p_tk>
+   </play>
+   <play hasball="CU" down="3" togo="4" spot="MT39" context="H,3,4,V39" playid="5,4,23" type="R" text="Spiller, C rush for 3 yards to the MT36 (Brown, Kevin;Robinson, Cam)." newcontext="H,4,1,V36">
+    <p_ru vh="H" name="Spiller, C" gain="3"></p_ru>
+    <p_tk vh="V" name="Brown, Kevin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Robinson, Cam" assist="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="4" togo="1" spot="MT36" context="H,4,1,V36" playid="5,5,24" type="R" first="R" text="Harper, J rush for 3 yards to the MT33, 1ST DOWN CU (Brown, Kevin;Carter, SaCoby)." newcontext="H,1,10,V33">
+    <p_ru vh="H" name="Harper, J" gain="3"></p_ru>
+    <p_tk vh="V" name="Brown, Kevin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Carter, SaCoby" assist="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT33" context="H,1,10,V33" playid="5,6,25" type="R" text="Harper, J rush for 5 yards to the MT28 (Brown, Kevin;Davis, Antwan)." newcontext="H,2,5,V28">
+    <p_ru vh="H" name="Harper, J" gain="5"></p_ru>
+    <p_tk vh="V" name="Brown, Kevin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Davis, Antwan" assist="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="5" spot="MT28" context="H,2,5,V28" playid="5,7,26" type="R" text="Harper, J rush for no gain to the MT28 (Davis, Antwan;Suber, Alex)." newcontext="H,3,5,V28">
+    <p_ru vh="H" name="Harper, J" gain="0"></p_ru>
+    <p_tk vh="V" name="Davis, Antwan" assist="Y"></p_tk>
+    <p_tk vh="V" name="Suber, Alex" assist="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="3" togo="5" spot="MT28" context="H,3,5,V28" playid="5,8,27" type="P" text="Parker, K pass incomplete to Ford, J, dropped pass." newcontext="H,4,5,V28">
+    <p_pa vh="H" qb="Parker, K" result="DROP" rcv="Ford, J"></p_pa>
+   </play>
+   <play hasball="CU" down="4" togo="5" spot="MT28" context="H,4,5,V28" playid="5,9,28" type="F" clock="09:25" text="Jackson, R field goal attempt from 45 MISSED - wide left, spot at MT29, clock 09:25." newcontext="V,1,10,V29">
+    <p_fg vh="H" name="Jackson, R" distance="45" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="8" yards="17" top="2:46" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,V29,09:25" vh="V" spot="V29" clock="09:25" driveindex="6,28"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT29" context="V,1,10,V29" playid="6,1,29" clock="09:25" text="MIDDLE TENNESSEE drive start at 09:25." newcontext="V,1,10,V29">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT29" context="V,1,10,V29" playid="6,2,30" type="P" turnover="I" text="Dasher, Dwight pass intercepted by Maye, B at the MT36, Maye, B return 2 yards to the MT34 (Tanner, Phillip)." newcontext="H,1,10,V34">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INT"></p_pa>
+    <p_ir vh="H" name="Maye, B" at="V36" gain="2"></p_ir>
+    <p_tk vh="V" name="Tanner, Phillip"></p_tk>
+   </play>
+   <drivesum plays="1" yards="0" top="0:07" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,V34,09:25" vh="H" spot="V34" clock="09:25" driveindex="7,30"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="MT34" context="H,1,10,V34" playid="7,1,31" clock="09:18" text="CLEMSON drive start at 09:18." newcontext="H,1,10,V34">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT34" context="H,1,10,V34" playid="7,2,32" type="P" text="Parker, K sacked for loss of 11 yards to the MT45 (Robinson, Cam)." newcontext="H,2,21,V45">
+    <p_pa vh="H" qb="Parker, K" result="SACK" gain="-11"></p_pa>
+    <p_tk vh="V" name="Robinson, Cam" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="21" spot="MT45" context="H,2,21,V45" playid="7,3,33" type="P" text="Parker, K pass complete to Ford, J for 6 yards to the MT39 (Rosenvall, Ryan)." newcontext="H,3,15,V39">
+    <p_pa vh="H" qb="Parker, K" result="COMP" rcv="Ford, J" gain="6"></p_pa>
+    <p_tk vh="V" name="Rosenvall, Ryan"></p_tk>
+   </play>
+   <play hasball="CU" down="3" togo="15" spot="MT39" context="H,3,15,V39" playid="7,4,34" type="R" first="R" text="Parker, K rush for 16 yards to the MT23, 1ST DOWN CU (Brown, Kevin)." newcontext="H,1,10,V23">
+    <p_ru vh="H" name="Parker, K" gain="16"></p_ru>
+    <p_tk vh="V" name="Brown, Kevin"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT23" context="H,1,10,V23" playid="7,5,35" type="R" text="Ellington, A rush for 3 yards to the MT20 (Davis, Antwan)." newcontext="H,2,7,V20">
+    <p_ru vh="H" name="Ellington, A" gain="3"></p_ru>
+    <p_tk vh="V" name="Davis, Antwan"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="7" spot="MT20" context="H,2,7,V20" playid="7,6,36" type="R" text="Harper, J rush for 4 yards to the MT16 (Lattimore, J.)." newcontext="H,3,3,V16">
+    <p_ru vh="H" name="Harper, J" gain="4"></p_ru>
+    <p_tk vh="V" name="Lattimore, J."></p_tk>
+   </play>
+   <play hasball="CU" down="3" togo="3" spot="MT16" context="H,3,3,V16" playid="7,7,37" type="E" first="E" text="Parker, K pass incomplete to Dye, X, PENALTY MT roughing passer 8 yards to the MT8, 1ST DOWN CU, NO PLAY." newcontext="H,1,0,V08">
+    <p_pn vh="V" code="RP" type="roughing passer" result="ACCEPT" at="V16" yards="8"></p_pn>
+   </play>
+   <play hasball="CU" down="1" togo="0" spot="MT08" context="H,1,0,V08" playid="7,8,38" type="P" text="Parker, K pass complete to Taylor, R for 3 yards to the MT5 (Suber, Alex)." newcontext="H,2,0,V05">
+    <p_pa vh="H" qb="Parker, K" result="COMP" rcv="Taylor, R" gain="3"></p_pa>
+    <p_tk vh="V" name="Suber, Alex"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="0" spot="MT05" context="H,2,0,V05" playid="7,9,39" type="#" clock="05:32" text="Timeout Clemson, clock 05:32." newcontext="H,2,0,V05">
+    <p_to vh="H" team="Clemson"></p_to>
+   </play>
+   <play hasball="CU" down="2" togo="0" spot="MT05" context="H,2,0,V05" playid="7,10,40" type="P" text="Parker, K pass incomplete to Ellington, A." newcontext="H,3,0,V05">
+    <p_pa vh="H" qb="Parker, K" result="INC" rcv="Ellington, A"></p_pa>
+   </play>
+   <play hasball="CU" down="3" togo="0" spot="MT05" context="H,3,0,V05" playid="7,11,41" text="QB hurry by Lattimore, J.." newcontext="H,3,0,V05">
+    <p_qbh vh="V" name="Lattimore, J."></p_qbh>
+   </play>
+   <play hasball="CU" down="3" togo="0" spot="MT05" context="H,3,0,V05" playid="7,12,42" type="P" text="Parker, K pass incomplete to Ford, J (Crumpton, D.)." newcontext="H,4,0,V05">
+    <p_pa vh="H" qb="Parker, K" result="BRUP" rcv="Ford, J"></p_pa>
+    <p_bu vh="V" name="Crumpton, D."></p_bu>
+   </play>
+   <play hasball="CU" down="4" togo="0" spot="MT05" context="H,4,0,V05" playid="7,13,43" type="F" score="Y" clock="05:16" text="Jackson, R field goal attempt from 22 GOOD, clock 05:16." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Jackson, R" distance="22" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="10"></score>
+   <drivesum plays="9" yards="29" top="4:02" driveindex="7" complete="Y"></drivesum>
+   <play hasball="CU" down="1" togo="0" spot="CU30" context="H,1,0,H30" playid="7,14,44" type="K" text="Benton, S kickoff 65 yards to the MT5, Gee, Desmond return 29 yards to the MT34 (Conner, K)." newcontext="V,1,10,V34">
+    <p_ko vh="H" name="Benton, S" gain="65"></p_ko>
+    <p_kr vh="V" name="Gee, Desmond" gain="29"></p_kr>
+    <p_tk vh="H" name="Conner, K"></p_tk>
+   </play>
+   <drivestart poss="V,V34,05:16" vh="V" spot="V34" clock="05:16" driveindex="8,44"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT34" context="V,1,10,V34" playid="8,1,45" clock="05:10" text="MIDDLE TENNESSEE drive start at 05:10." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT34" context="V,1,10,V34" playid="8,2,46" type="R" text="Dasher, Dwight rush for 2 yards to the MT36 (Moore, R;Maye, B)." newcontext="V,2,8,V36">
+    <p_ru vh="V" name="Dasher, Dwight" gain="2"></p_ru>
+    <p_tk vh="H" name="Moore, R" assist="Y"></p_tk>
+    <p_tk vh="H" name="Maye, B" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="8" spot="MT36" context="V,2,8,V36" playid="8,3,47" type="P" text="Dasher, Dwight sacked for loss of 7 yards to the MT29 (Alexander, K)." newcontext="V,3,15,V29">
+    <p_pa vh="V" qb="Dasher, Dwight" result="SACK" gain="-7"></p_pa>
+    <p_tk vh="H" name="Alexander, K" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="15" spot="MT29" context="V,3,15,V29" playid="8,4,48" type="R" text="Tanner, Phillip rush for 3 yards to the MT32 (McDaniel, D)." newcontext="V,4,12,V32">
+    <p_ru vh="V" name="Tanner, Phillip" gain="3"></p_ru>
+    <p_tk vh="H" name="McDaniel, D"></p_tk>
+   </play>
+   <play hasball="MT" down="4" togo="12" spot="MT32" context="V,4,12,V32" playid="8,5,49" type="U" text="DeFatta, David punt 41 yards to the CU27, Ford, J return 0 yards to the CU27 (Carson, Jawan)." newcontext="H,1,10,H27">
+    <p_pu vh="V" name="DeFatta, David" gain="41"></p_pu>
+    <p_pr vh="H" name="Ford, J" gain="0"></p_pr>
+    <p_tk vh="V" name="Carson, Jawan"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-2" top="1:20" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H27,05:10" vh="H" spot="H27" clock="05:10" driveindex="9,49"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="CU27" context="H,1,10,H27" playid="9,1,50" clock="03:50" text="CLEMSON drive start at 03:50." newcontext="H,1,10,H27">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU27" context="H,1,10,H27" playid="9,2,51" type="R" text="Spiller, C rush for 3 yards to the CU30 (McCoy, Chris;Tucker, Gary)." newcontext="H,2,7,H30">
+    <p_ru vh="H" name="Spiller, C" gain="3"></p_ru>
+    <p_tk vh="V" name="McCoy, Chris" assist="Y"></p_tk>
+    <p_tk vh="V" name="Tucker, Gary" assist="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="7" spot="CU30" context="H,2,7,H30" playid="9,3,52" type="R" text="Parker, K rush for 2 yards to the CU32 (Carmichael, D.)." newcontext="H,3,5,H32">
+    <p_ru vh="H" name="Parker, K" gain="2"></p_ru>
+    <p_tk vh="V" name="Carmichael, D."></p_tk>
+   </play>
+   <play hasball="CU" down="3" togo="5" spot="CU32" context="H,3,5,H32" playid="9,4,53" type="P" text="Parker, K pass incomplete to Ford, J, dropped pass." newcontext="H,4,5,H32">
+    <p_pa vh="H" qb="Parker, K" result="DROP" rcv="Ford, J"></p_pa>
+   </play>
+   <play hasball="CU" down="4" togo="5" spot="CU32" context="H,4,5,H32" playid="9,5,54" type="U" text="Zimmerman, D punt 34 yards to the MT34, fair catch by Honeycutt, P.." newcontext="V,1,10,V34">
+    <p_pu vh="H" name="Zimmerman, D" gain="34" fc="Honeycutt, P."></p_pu>
+   </play>
+   <drivesum plays="3" yards="5" top="1:29" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V34,03:50" vh="V" spot="V34" clock="03:50" driveindex="10,54"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT34" context="V,1,10,V34" playid="10,1,55" clock="02:21" text="MIDDLE TENNESSEE drive start at 02:21." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT34" context="V,1,10,V34" playid="10,2,56" type="R" text="Dasher, Dwight rush for 5 yards to the MT39 (Jenkins, J;Maye, B)." newcontext="V,2,5,V39">
+    <p_ru vh="V" name="Dasher, Dwight" gain="5"></p_ru>
+    <p_tk vh="H" name="Jenkins, J" assist="Y"></p_tk>
+    <p_tk vh="H" name="Maye, B" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="5" spot="MT39" context="V,2,5,V39" playid="10,3,57" type="P" first="P" text="Dasher, Dwight pass complete to Gee, Desmond for 9 yards to the MT48, 1ST DOWN MT (Gilchrist, M)." newcontext="V,1,10,V48">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Gee, Desmond" gain="9"></p_pa>
+    <p_tk vh="H" name="Gilchrist, M"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT48" context="V,1,10,V48" playid="10,4,58" type="R" text="Fumble by TEAM, TEAM rush for loss of 14 yards to the MT34 (Maye, B)." newcontext="V,2,24,V34">
+    <p_ru vh="V" name="TEAM" gain="-14"></p_ru>
+    <p_tk vh="H" name="Maye, B" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="24" spot="MT34" context="V,2,24,V34" playid="10,5,59" type="P" text="Dasher, Dwight pass complete to Honeycutt, P. for no gain to the MT34 (Maye, B)." newcontext="V,3,24,V34">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Honeycutt, P." gain="0"></p_pa>
+    <p_tk vh="H" name="Maye, B"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="24" spot="MT34" context="V,3,24,V34" playid="10,6,60" type="R" text="Dasher, Dwight rush for loss of 4 yards to the MT30 (Sapp, R)." newcontext="V,4,28,V30">
+    <p_ru vh="V" name="Dasher, Dwight" gain="-4"></p_ru>
+    <p_tk vh="H" name="Sapp, R" tfl="Y"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MT">
+    <firstdowns no="3" rush="0" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="8"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="05:37"></misc>
+    <rush att="7" yds="-10" gain="15" loss="25" td="0" long="5"></rush>
+    <pass comp="4" att="8" int="2" yds="49" td="0" long="28" sacks="1" sackyds="7"></pass>
+    <rcv no="4" yds="49" td="0" long="28"></rcv>
+    <punt no="2" yds="69" long="41" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="34.5"></punt>
+    <ko no="1" yds="66" ob="0" tb="0"></ko>
+    <defense tackua="12" tacka="12" tot_tack="24" tflua="1" tfla="0" tflyds="11" sacks="1" sackyds="11" brup="1" qbh="1"></defense>
+    <kr no="2" yds="46" td="0" long="29"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="CU">
+    <firstdowns no="3" rush="2" pass="0" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="6" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:23"></misc>
+    <rush att="13" yds="34" gain="45" loss="11" td="0" long="16"></rush>
+    <pass comp="2" att="8" int="0" yds="9" td="0" long="6" sacks="1" sackyds="11"></pass>
+    <rcv no="2" yds="9" td="0" long="6"></rcv>
+    <punt no="2" yds="85" long="51" blkd="0" tb="0" fc="2" plus50="1" inside20="1" avg="42.5"></punt>
+    <ko no="2" yds="133" ob="0" tb="0"></ko>
+    <fg made="1" att="2" long="22" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="4" tot_tack="14" tflua="3" tfla="0" tflyds="25" sacks="1" sackyds="7" brup="1" qbh="1" int="2" intyds="2"></defense>
+    <kr no="1" yds="96" td="1" long="96"></kr>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+    <ir no="2" yds="2" td="0" long="2"></ir>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="MT" down="4" togo="28" spot="MT30" context="V,4,28,V30" playid="10,7,61" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,4,28,V30">
+   </play>
+   <play hasball="MT" down="4" togo="28" spot="MT30" context="V,4,28,V30" playid="10,8,62" type="U" text="DeFatta, David punt 52 yards to the CU18, Spiller, C return 50 yards to the MT32 (Lattimore, J.)." newcontext="H,1,10,V32">
+    <p_pu vh="V" name="DeFatta, David" gain="52"></p_pu>
+    <p_pr vh="H" name="Spiller, C" gain="50"></p_pr>
+    <p_tk vh="V" name="Lattimore, J."></p_tk>
+   </play>
+   <drivesum plays="5" yards="-4" top="2:37" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,V32,15:00" vh="H" spot="V32" clock="15:00" driveindex="11,62"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="MT32" context="H,1,10,V32" playid="11,1,63" clock="14:44" text="CLEMSON drive start at 14:44." newcontext="H,1,10,V32">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT32" context="H,1,10,V32" playid="11,2,64" type="R" first="R" text="Harper, J rush for 10 yards to the MT22, 1ST DOWN CU (Suber, Alex)." newcontext="H,1,10,V22">
+    <p_ru vh="H" name="Harper, J" gain="10"></p_ru>
+    <p_tk vh="V" name="Suber, Alex"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT22" context="H,1,10,V22" playid="11,3,65" type="R" score="Y" turnover="F" clock="14:07" text="Korn, W rush for loss of 10 yards to the MT32, fumble by Korn, W recovered by MT McCoy, Chris at MT32, McCoy, Chris for 68 yards to the CU0, TOUCHDOWN, clock 14:07." newcontext="V,1,0,H03">
+    <p_ru vh="H" name="Korn, W" gain="-10"></p_ru>
+    <p_fr vh="V" name="McCoy, Chris" gain="68"></p_fr>
+    <p_fumb vh="H" name="Korn, W" at="V32" frvh="V" frname="McCoy, Chris"></p_fumb>
+   </play>
+   <drivesum plays="2" yards="0" top="0:37" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,H03,14:07" vh="V" spot="H03" clock="14:07" driveindex="12,65"></drivestart>
+   <play hasball="MT" down="1" togo="0" spot="CU03" context="V,1,0,H03" playid="12,1,66" type="X" score="Y" text="Gendreau, Alan kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Gendreau, Alan" qb="Gendreau, Alan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="10"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="12" complete="Y"></drivesum>
+   <play hasball="MT" down="1" togo="0" spot="MT30" context="V,1,0,V30" playid="12,2,67" type="K" text="Gendreau, Alan kickoff 38 yards to the CU32, Diehl, C return 9 yards to the CU41 (Guerra, Denzell)." newcontext="H,1,10,H41">
+    <p_ko vh="V" name="Gendreau, Alan" gain="38"></p_ko>
+    <p_kr vh="H" name="Diehl, C" gain="9"></p_kr>
+    <p_tk vh="V" name="Guerra, Denzell"></p_tk>
+   </play>
+   <drivestart poss="H,H41,14:07" vh="H" spot="H41" clock="14:07" driveindex="13,67"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="CU41" context="H,1,10,H41" playid="13,1,68" clock="14:01" text="CLEMSON drive start at 14:01." newcontext="H,1,10,H41">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU41" context="H,1,10,H41" playid="13,2,69" type="R" text="Harper, J rush for 9 yards to the 50 yardline (Kellem, Jeremy;Davis, Darin)." newcontext="H,2,1,H50">
+    <p_ru vh="H" name="Harper, J" gain="9"></p_ru>
+    <p_tk vh="V" name="Kellem, Jeremy" assist="Y"></p_tk>
+    <p_tk vh="V" name="Davis, Darin" assist="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="1" spot="CU50" context="H,2,1,H50" playid="13,3,70" type="R" first="R" text="Harper, J rush for 9 yards to the MT41, 1ST DOWN CU (Crumpton, D.)." newcontext="H,1,10,V41">
+    <p_ru vh="H" name="Harper, J" gain="9"></p_ru>
+    <p_tk vh="V" name="Crumpton, D."></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT41" context="H,1,10,V41" playid="13,4,71" type="R" text="Harper, J rush for 5 yards to the MT36 (Kellem, Jeremy;Washington, N.)." newcontext="H,2,5,V36">
+    <p_ru vh="H" name="Harper, J" gain="5"></p_ru>
+    <p_tk vh="V" name="Kellem, Jeremy" assist="Y"></p_tk>
+    <p_tk vh="V" name="Washington, N." assist="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="5" spot="MT36" context="H,2,5,V36" playid="13,5,72" type="R" first="R" text="Ellington, A rush for 6 yards to the MT30, 1ST DOWN CU (Kellem, Jeremy)." newcontext="H,1,10,V30">
+    <p_ru vh="H" name="Ellington, A" gain="6"></p_ru>
+    <p_tk vh="V" name="Kellem, Jeremy"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT30" context="H,1,10,V30" playid="13,6,73" type="R" text="Ellington, A rush for 1 yard to the MT29 (Washington, N.;Davis, Antwan)." newcontext="H,2,9,V29">
+    <p_ru vh="H" name="Ellington, A" gain="1"></p_ru>
+    <p_tk vh="V" name="Washington, N." assist="Y"></p_tk>
+    <p_tk vh="V" name="Davis, Antwan" assist="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="9" spot="MT29" context="H,2,9,V29" playid="13,7,74" type="P" text="Parker, K pass incomplete to Ford, J, dropped pass." newcontext="H,3,9,V29">
+    <p_pa vh="H" qb="Parker, K" result="DROP" rcv="Ford, J"></p_pa>
+   </play>
+   <play hasball="CU" down="3" togo="9" spot="MT29" context="H,3,9,V29" playid="13,8,75" type="R" first="R" text="Parker, K rush for 18 yards to the MT11, 1ST DOWN CU (Issac, Rod)." newcontext="H,1,10,V11">
+    <p_ru vh="H" name="Parker, K" gain="18"></p_ru>
+    <p_tk vh="V" name="Issac, Rod"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT11" context="H,1,10,V11" playid="13,9,76" type="R" text="Ford, J rush for 9 yards to the MT2 (Brown, Kevin)." newcontext="H,2,1,V02">
+    <p_ru vh="H" name="Ford, J" gain="9"></p_ru>
+    <p_tk vh="V" name="Brown, Kevin"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="1" spot="MT02" context="H,2,1,V02" playid="13,10,77" type="R" text="Taylor, R rush for no gain to the MT2 (Kellem, Jeremy)." newcontext="H,3,1,V02">
+    <p_ru vh="H" name="Taylor, R" gain="0"></p_ru>
+    <p_tk vh="V" name="Kellem, Jeremy"></p_tk>
+   </play>
+   <play hasball="CU" down="3" togo="1" spot="MT02" context="H,3,1,V02" playid="13,11,78" type="R" text="Taylor, R rush for no gain to the MT2 (Carmichael, D.)." newcontext="H,4,1,V02">
+    <p_ru vh="H" name="Taylor, R" gain="0"></p_ru>
+    <p_tk vh="V" name="Carmichael, D."></p_tk>
+   </play>
+   <play hasball="CU" down="4" togo="1" spot="MT02" context="H,4,1,V02" playid="13,12,79" type="F" score="Y" clock="08:16" text="Jackson, R field goal attempt from 19 GOOD, clock 08:16." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Jackson, R" distance="19" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="7" H="13"></score>
+   <drivesum plays="11" yards="57" top="5:45" driveindex="13" complete="Y"></drivesum>
+   <play hasball="CU" down="1" togo="0" spot="CU30" context="H,1,0,H30" playid="13,13,80" type="K" text="Benton, S kickoff 57 yards to the MT13, Tanner, Phillip return 17 yards to the MT30 (Butler, C)." newcontext="V,1,10,V30">
+    <p_ko vh="H" name="Benton, S" gain="57"></p_ko>
+    <p_kr vh="V" name="Tanner, Phillip" gain="17"></p_kr>
+    <p_tk vh="H" name="Butler, C"></p_tk>
+   </play>
+   <drivestart poss="V,V30,08:16" vh="V" spot="V30" clock="08:16" driveindex="14,80"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT30" context="V,1,10,V30" playid="14,1,81" clock="08:09" text="MIDDLE TENNESSEE drive start at 08:09." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT30" context="V,1,10,V30" playid="14,2,82" type="P" text="Dasher, Dwight sacked for loss of 3 yards to the MT27 (Campbell, J)." newcontext="V,2,13,V27">
+    <p_pa vh="V" qb="Dasher, Dwight" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="H" name="Campbell, J" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="13" spot="MT27" context="V,2,13,V27" playid="14,3,83" type="E" text="PENALTY MT false start 5 yards to the MT22." newcontext="V,2,18,V22">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V27" yards="5"></p_pn>
+   </play>
+   <play hasball="MT" down="2" togo="18" spot="MT22" context="V,2,18,V22" playid="14,4,84" type="P" text="Dasher, Dwight pass incomplete to McClover, Chris, PENALTY MT pass interference declined." newcontext="V,3,18,V22">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="McClover, Chris"></p_pa>
+    <p_pn vh="V" code="PI" type="pass interference" name="McClover, Chris" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="MT" down="3" togo="18" spot="MT22" context="V,3,18,V22" playid="14,5,85" type="R" text="Dasher, Dwight rush for 1 yard to the MT23 (McDaniel, D)." newcontext="V,4,17,V23">
+    <p_ru vh="V" name="Dasher, Dwight" gain="1"></p_ru>
+    <p_tk vh="H" name="McDaniel, D"></p_tk>
+   </play>
+   <play hasball="MT" down="4" togo="17" spot="MT23" context="V,4,17,V23" playid="14,6,86" type="U" score="Y" clock="06:02" text="DeFatta, David punt 38 yards to the CU39, Ford, J return 61 yards to the MT0, TOUCHDOWN, clock 06:02." newcontext="H,1,0,V03">
+    <p_pu vh="V" name="DeFatta, David" gain="38"></p_pu>
+    <p_pr vh="H" name="Ford, J" gain="61"></p_pr>
+   </play>
+   <drivesum plays="3" yards="-7" top="2:07" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,V03,06:02" vh="H" spot="V03" clock="06:02" driveindex="15,86"></drivestart>
+   <play hasball="CU" down="1" togo="0" spot="MT03" context="H,1,0,V03" playid="15,1,87" type="X" score="Y" text="Jackson, R kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Jackson, R" qb="Jackson, R" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="20"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="15" complete="Y"></drivesum>
+   <play hasball="CU" down="1" togo="0" spot="CU30" context="H,1,0,H30" playid="15,2,88" type="K" text="Benton, S kickoff 70 yards to the MT0, Suber, Alex return 10 yards to the MT10, fumble forced by Maxwell, B, fumble by Suber, Alex recovered by MT TEAM at MT10." newcontext="V,1,10,V10">
+    <p_ko vh="H" name="Benton, S" gain="70"></p_ko>
+    <p_kr vh="V" name="Suber, Alex" gain="10"></p_kr>
+    <p_fumb vh="V" name="Suber, Alex" at="V10" frvh="V" frname="TEAM"></p_fumb>
+    <p_tk vh="H" name="Maxwell, B" ff="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V10,06:02" vh="V" spot="V10" clock="06:02" driveindex="16,88"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT10" context="V,1,10,V10" playid="16,1,89" clock="05:53" text="MIDDLE TENNESSEE drive start at 05:53." newcontext="V,1,10,V10">
+   </play>
+   <comment text="The play was reviewed but upheld."></comment>
+   <play hasball="MT" down="1" togo="10" spot="MT10" context="V,1,10,V10" playid="16,2,91" type="R" text="Kyles, D.D. rush for loss of 2 yards to the MT8." newcontext="V,2,12,V08">
+    <p_ru vh="V" name="Kyles, D.D." gain="-2"></p_ru>
+   </play>
+   <play hasball="MT" down="2" togo="12" spot="MT08" context="V,2,12,V08" playid="16,3,92" type="P" text="Dasher, Dwight pass incomplete to Honeycutt, P., QB hurry by Thompson, B." newcontext="V,3,12,V08">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="Honeycutt, P."></p_pa>
+    <p_qbh vh="H" name="Thompson, B"></p_qbh>
+   </play>
+   <play hasball="MT" down="3" togo="12" spot="MT08" context="V,3,12,V08" playid="16,4,93" type="P" first="P" text="Dasher, Dwight pass complete to McDonald, S. for 19 yards to the MT27, 1ST DOWN MT (Hall, R)." newcontext="V,1,10,V27">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="McDonald, S." gain="19"></p_pa>
+    <p_tk vh="H" name="Hall, R"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT27" context="V,1,10,V27" playid="16,5,94" type="E" text="PENALTY MT false start 5 yards to the MT22." newcontext="V,1,15,V22">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V27" yards="5"></p_pn>
+   </play>
+   <play hasball="MT" down="1" togo="15" spot="MT22" context="V,1,15,V22" playid="16,6,95" type="P" text="Dasher, Dwight pass incomplete to Blissard, Shane, dropped pass." newcontext="V,2,15,V22">
+    <p_pa vh="V" qb="Dasher, Dwight" result="DROP" rcv="Blissard, Shane"></p_pa>
+   </play>
+   <play hasball="MT" down="2" togo="15" spot="MT22" context="V,2,15,V22" playid="16,7,96" type="P" text="Dasher, Dwight sacked for loss of 8 yards to the MT14 (Cumbie, J)." newcontext="V,3,23,V14">
+    <p_pa vh="V" qb="Dasher, Dwight" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="H" name="Cumbie, J" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="23" spot="MT14" context="V,3,23,V14" playid="16,8,97" type="R" text="Tanner, Phillip rush for 4 yards to the MT18 (Hall, R)." newcontext="V,4,19,V18">
+    <p_ru vh="V" name="Tanner, Phillip" gain="4"></p_ru>
+    <p_tk vh="H" name="Hall, R"></p_tk>
+   </play>
+   <play hasball="MT" down="4" togo="19" spot="MT18" context="V,4,19,V18" playid="16,9,98" type="U" text="DeFatta, David punt 38 yards to the CU44, Spiller, C return 13 yards to the MT43 (Robinson, Cam)." newcontext="H,1,10,V43">
+    <p_pu vh="V" name="DeFatta, David" gain="38"></p_pu>
+    <p_pr vh="H" name="Spiller, C" gain="13"></p_pr>
+    <p_tk vh="V" name="Robinson, Cam"></p_tk>
+   </play>
+   <drivesum plays="6" yards="8" top="2:49" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,V43,05:53" vh="H" spot="V43" clock="05:53" driveindex="17,98"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="MT43" context="H,1,10,V43" playid="17,1,99" clock="03:04" text="CLEMSON drive start at 03:04." newcontext="H,1,10,V43">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT43" context="H,1,10,V43" playid="17,2,100" type="P" first="P" score="Y" clock="02:55" text="Parker, K pass complete to Ford, J for 43 yards to the MT0, 1ST DOWN CU, TOUCHDOWN, clock 02:55." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Parker, K" result="COMP" rcv="Ford, J" gain="43"></p_pa>
+   </play>
+   <play hasball="CU" down="1" togo="0" spot="MT03" context="H,1,0,V03" playid="17,3,101" type="X" score="Y" text="Jackson, R kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Jackson, R" qb="Jackson, R" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="27"></score>
+   <drivesum plays="1" yards="43" top="0:09" driveindex="17" complete="Y"></drivesum>
+   <play hasball="CU" down="1" togo="0" spot="CU30" context="H,1,0,H30" playid="17,4,102" type="K" text="Benton, S kickoff 67 yards to the MT3, Gee, Desmond return 15 yards to the MT18 (Wade, M;McDaniel, D)." newcontext="V,1,10,V18">
+    <p_ko vh="H" name="Benton, S" gain="67"></p_ko>
+    <p_kr vh="V" name="Gee, Desmond" gain="15"></p_kr>
+    <p_tk vh="H" name="Wade, M" assist="Y"></p_tk>
+    <p_tk vh="H" name="McDaniel, D" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V18,02:55" vh="V" spot="V18" clock="02:55" driveindex="18,102"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT18" context="V,1,10,V18" playid="18,1,103" clock="02:50" text="MIDDLE TENNESSEE drive start at 02:50." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT18" context="V,1,10,V18" playid="18,2,104" type="P" text="Dasher, Dwight pass incomplete to Andrews, G. (Chancellor, C)." newcontext="V,2,10,V18">
+    <p_pa vh="V" qb="Dasher, Dwight" result="BRUP" rcv="Andrews, G."></p_pa>
+    <p_bu vh="H" name="Chancellor, C"></p_bu>
+   </play>
+   <play hasball="MT" down="2" togo="10" spot="MT18" context="V,2,10,V18" playid="18,3,105" type="P" text="Dasher, Dwight pass complete to Kyles, D.D. for no gain to the MT18 (Chambers, S)." newcontext="V,3,10,V18">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Kyles, D.D." gain="0"></p_pa>
+    <p_tk vh="H" name="Chambers, S"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="10" spot="MT18" context="V,3,10,V18" playid="18,4,106" type="#" clock="02:34" text="Timeout Clemson, clock 02:34." newcontext="V,3,10,V18">
+    <p_to vh="H" team="Clemson"></p_to>
+   </play>
+   <play hasball="MT" down="3" togo="10" spot="MT18" context="V,3,10,V18" playid="18,5,107" type="P" text="Dasher, Dwight pass complete to Gee, Desmond for 3 yards to the MT21 (Gilchrist, M)." newcontext="V,4,7,V21">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Gee, Desmond" gain="3"></p_pa>
+    <p_tk vh="H" name="Gilchrist, M"></p_tk>
+   </play>
+   <play hasball="MT" down="4" togo="7" spot="MT21" context="V,4,7,V21" playid="18,6,108" type="#" clock="02:22" text="Timeout Clemson, clock 02:22." newcontext="V,4,7,V21">
+    <p_to vh="H" team="Clemson"></p_to>
+   </play>
+   <play hasball="MT" down="4" togo="7" spot="MT21" context="V,4,7,V21" playid="18,7,109" type="U" text="DeFatta, David punt 40 yards to the CU39, Ford, J return 11 yards to the 50 yardline (Carson, Jawan)." newcontext="H,1,10,H50">
+    <p_pu vh="V" name="DeFatta, David" gain="40"></p_pu>
+    <p_pr vh="H" name="Ford, J" gain="11"></p_pr>
+    <p_tk vh="V" name="Carson, Jawan"></p_tk>
+   </play>
+   <drivesum plays="3" yards="3" top="0:39" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,H50,02:22" vh="H" spot="H50" clock="02:22" driveindex="19,109"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="CU50" context="H,1,10,H50" playid="19,1,110" clock="02:11" text="CLEMSON drive start at 02:11." newcontext="H,1,10,H50">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU50" context="H,1,10,H50" playid="19,2,111" type="P" first="P" text="Parker, K pass complete to Ford, J for 21 yards to the MT29, 1ST DOWN CU (Brown, Kevin)." newcontext="H,1,10,V29">
+    <p_pa vh="H" qb="Parker, K" result="COMP" rcv="Ford, J" gain="21"></p_pa>
+    <p_tk vh="V" name="Brown, Kevin"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT29" context="H,1,10,V29" playid="19,3,112" type="P" text="Parker, K pass complete to Harper, J for loss of 2 yards to the MT31 (Issac, Rod)." newcontext="H,2,12,V31">
+    <p_pa vh="H" qb="Parker, K" result="COMP" rcv="Harper, J" gain="-2"></p_pa>
+    <p_tk vh="V" name="Issac, Rod" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="12" spot="MT31" context="H,2,12,V31" playid="19,4,113" type="#" clock="01:31" text="Timeout Middle Tennessee, clock 01:31." newcontext="H,2,12,V31">
+    <p_to vh="V" team="Middle Tennessee"></p_to>
+   </play>
+   <play hasball="CU" down="2" togo="12" spot="MT31" context="H,2,12,V31" playid="19,5,114" type="P" text="Parker, K pass incomplete to Palmer, M." newcontext="H,3,12,V31">
+    <p_pa vh="H" qb="Parker, K" result="INC" rcv="Palmer, M"></p_pa>
+   </play>
+   <play hasball="CU" down="3" togo="12" spot="MT31" context="H,3,12,V31" playid="19,6,115" type="P" text="Parker, K pass complete to Dye, X for 4 yards to the MT27 (Issac, Rod)." newcontext="H,4,8,V27">
+    <p_pa vh="H" qb="Parker, K" result="COMP" rcv="Dye, X" gain="4"></p_pa>
+    <p_tk vh="V" name="Issac, Rod"></p_tk>
+   </play>
+   <play hasball="CU" down="4" togo="8" spot="MT27" context="H,4,8,V27" playid="19,7,116" type="F" score="Y" clock="01:15" text="Jackson, R field goal attempt from 44 GOOD, clock 01:15." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Jackson, R" distance="44" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="7" H="30"></score>
+   <drivesum plays="5" yards="23" top="0:56" driveindex="19" complete="Y"></drivesum>
+   <play hasball="CU" down="1" togo="0" spot="CU30" context="H,1,0,H30" playid="19,8,117" type="K" text="Benton, S kickoff 62 yards to the MT8, Gee, Desmond return 13 yards to the MT21." newcontext="V,1,10,V21">
+    <p_ko vh="H" name="Benton, S" gain="62"></p_ko>
+    <p_kr vh="V" name="Gee, Desmond" gain="13"></p_kr>
+   </play>
+   <drivestart poss="V,V21,01:15" vh="V" spot="V21" clock="01:15" driveindex="20,117"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT21" context="V,1,10,V21" playid="20,1,118" clock="01:10" text="MIDDLE TENNESSEE drive start at 01:10." newcontext="V,1,10,V21">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT21" context="V,1,10,V21" playid="20,2,119" type="R" text="Tanner, Phillip rush for 3 yards to the MT24 (Thompson, B;Sapp, R)." newcontext="V,2,7,V24">
+    <p_ru vh="V" name="Tanner, Phillip" gain="3"></p_ru>
+    <p_tk vh="H" name="Thompson, B" assist="Y"></p_tk>
+    <p_tk vh="H" name="Sapp, R" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="7" spot="MT24" context="V,2,7,V24" playid="20,3,120" type="R" text="Tanner, Phillip rush for 6 yards to the MT30 (McDaniel, D)." newcontext="V,3,1,V30">
+    <p_ru vh="V" name="Tanner, Phillip" gain="6"></p_ru>
+    <p_tk vh="H" name="McDaniel, D"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="1" spot="MT30" context="V,3,1,V30" playid="20,4,121" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,3,1,V30">
+   </play>
+   <drivesum plays="2" yards="9" top="1:10" driveindex="20" complete="Y"></drivesum>
+   <score qtr="2" V="7" H="30"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MT">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="07:27"></misc>
+    <rush att="7" yds="1" gain="14" loss="13" td="0" long="1"></rush>
+    <pass comp="3" att="7" int="0" yds="22" td="0" long="0" sacks="2" sackyds="11"></pass>
+    <rcv no="3" yds="22" td="0" long="0"></rcv>
+    <punt no="4" yds="168" long="11" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="42.0"></punt>
+    <ko no="1" yds="38" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="14" tacka="6" tot_tack="20" tflua="1" tfla="0" tflyds="2" sacks="1" sackyds="11" fr="1" fryds="68"></defense>
+    <kr no="4" yds="55" td="0" long="0"></kr>
+    <fr no="1" yds="68" td="1" long="68"></fr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="CU">
+    <firstdowns no="6" rush="4" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="07:33"></misc>
+    <rush att="11" yds="57" gain="67" loss="10" td="0" long="2"></rush>
+    <pass comp="4" att="6" int="0" yds="66" td="1" long="37" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="66" td="1" long="37"></rcv>
+    <ko no="4" yds="256" ob="0" tb="0"></ko>
+    <fg made="2" att="2" long="22" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="10" tacka="4" tot_tack="14" tflua="2" tfla="0" tflyds="11" sacks="3" sackyds="18" brup="1" qbh="1" ff="1"></defense>
+    <kr no="1" yds="9" td="0" long="0"></kr>
+    <pr no="4" yds="135" td="1" long="61"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="2" fg="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="MT" down="3" togo="1" spot="MT30" context="V,3,1,V30" playid="20,5,122" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, CU ball on CU30." newcontext="H,3,1,H30">
+   </play>
+   <play hasball="CU" down="3" togo="1" spot="CU30" context="H,3,1,H30" playid="20,6,123" type="K" text="Benton, S kickoff 70 yards to the MT0, Gee, Desmond return 15 yards to the MT15 (Maxwell, B)." newcontext="V,1,10,V15">
+    <p_ko vh="H" name="Benton, S" gain="70"></p_ko>
+    <p_kr vh="V" name="Gee, Desmond" gain="15"></p_kr>
+    <p_tk vh="H" name="Maxwell, B"></p_tk>
+   </play>
+   <drivestart poss="V,V15,15:00" vh="V" spot="V15" clock="15:00" driveindex="21,123"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT15" context="V,1,10,V15" playid="21,1,124" clock="14:54" text="MIDDLE TENNESSEE drive start at 14:54." newcontext="V,1,10,V15">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT15" context="V,1,10,V15" playid="21,2,125" type="P" text="Dasher, Dwight pass complete to Blissard, Shane for 5 yards to the MT20 (Maye, B)." newcontext="V,2,5,V20">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Blissard, Shane" gain="5"></p_pa>
+    <p_tk vh="H" name="Maye, B"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="5" spot="MT20" context="V,2,5,V20" playid="21,3,126" type="R" text="Tanner, Phillip rush for 1 yard to the MT21 (Sapp, R;Chambers, S)." newcontext="V,3,4,V21">
+    <p_ru vh="V" name="Tanner, Phillip" gain="1"></p_ru>
+    <p_tk vh="H" name="Sapp, R" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chambers, S" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="4" spot="MT21" context="V,3,4,V21" playid="21,4,127" type="P" first="P" text="Dasher, Dwight pass complete to Blissard, Shane for 43 yards to the CU36, 1ST DOWN MT (Chambers, S;McDaniel, D)." newcontext="V,1,10,H36">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Blissard, Shane" gain="43"></p_pa>
+    <p_tk vh="H" name="Chambers, S" assist="Y"></p_tk>
+    <p_tk vh="H" name="McDaniel, D" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="CU36" context="V,1,10,H36" playid="21,5,128" type="R" text="Tanner, Phillip rush for no gain to the CU36 (Jenkins, J)." newcontext="V,2,10,H36">
+    <p_ru vh="V" name="Tanner, Phillip" gain="0"></p_ru>
+    <p_tk vh="H" name="Jenkins, J"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="10" spot="CU36" context="V,2,10,H36" playid="21,6,129" type="P" text="Dasher, Dwight pass complete to Honeycutt, P. for 7 yards to the CU29 (Maye, B;Hall, R)." newcontext="V,3,3,H29">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Honeycutt, P." gain="7"></p_pa>
+    <p_tk vh="H" name="Maye, B" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hall, R" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="3" spot="CU29" context="V,3,3,H29" playid="21,7,130" type="R" first="R" text="Dasher, Dwight rush for 11 yards to the CU18, 1ST DOWN MT (Branch, A;Hall, R)." newcontext="V,1,10,H18">
+    <p_ru vh="V" name="Dasher, Dwight" gain="11"></p_ru>
+    <p_tk vh="H" name="Branch, A" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hall, R" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="CU18" context="V,1,10,H18" playid="21,8,131" type="P" first="P" score="Y" clock="12:29" text="Dasher, Dwight pass complete to McClover, Chris for 18 yards to the CU0, 1ST DOWN MT, TOUCHDOWN, clock 12:29." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="McClover, Chris" gain="18"></p_pa>
+   </play>
+   <play hasball="MT" down="1" togo="0" spot="CU03" context="V,1,0,H03" playid="21,9,132" type="X" score="Y" text="Gendreau, Alan kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Gendreau, Alan" qb="Gendreau, Alan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="30"></score>
+   <drivesum plays="7" yards="85" top="2:25" driveindex="21" complete="Y"></drivesum>
+   <play hasball="MT" down="1" togo="0" spot="MT30" context="V,1,0,V30" playid="21,10,133" type="K" text="Gendreau, Alan kickoff 48 yards to the CU22, Ford, J return 39 yards to the MT39 (Davis, Antwan)." newcontext="H,1,10,V39">
+    <p_ko vh="V" name="Gendreau, Alan" gain="48"></p_ko>
+    <p_kr vh="H" name="Ford, J" gain="39"></p_kr>
+    <p_tk vh="V" name="Davis, Antwan"></p_tk>
+   </play>
+   <drivestart poss="H,V39,12:29" vh="H" spot="V39" clock="12:29" driveindex="22,133"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="MT39" context="H,1,10,V39" playid="22,1,134" clock="12:17" text="CLEMSON drive start at 12:17." newcontext="H,1,10,V39">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT39" context="H,1,10,V39" playid="22,2,135" type="R" text="Harper, J rush for 2 yards to the MT37 (Udell, Marcus)." newcontext="H,2,8,V37">
+    <p_ru vh="H" name="Harper, J" gain="2"></p_ru>
+    <p_tk vh="V" name="Udell, Marcus"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="8" spot="MT37" context="H,2,8,V37" playid="22,3,136" type="P" turnover="I" text="Korn, W pass intercepted by Udell, Marcus at the MT43, Udell, Marcus return 0 yards to the MT43." newcontext="V,1,10,V43">
+    <p_pa vh="H" qb="Korn, W" result="INT"></p_pa>
+    <p_ir vh="V" name="Udell, Marcus" at="V43" gain="0"></p_ir>
+   </play>
+   <drivesum plays="2" yards="2" top="0:10" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V43,12:17" vh="V" spot="V43" clock="12:17" driveindex="23,136"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT43" context="V,1,10,V43" playid="23,1,137" clock="12:07" text="MIDDLE TENNESSEE drive start at 12:07." newcontext="V,1,10,V43">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT43" context="V,1,10,V43" playid="23,2,138" type="R" text="Tanner, Phillip rush for 1 yard to the MT44 (Bowers, D;Maye, B)." newcontext="V,2,9,V44">
+    <p_ru vh="V" name="Tanner, Phillip" gain="1"></p_ru>
+    <p_tk vh="H" name="Bowers, D" assist="Y"></p_tk>
+    <p_tk vh="H" name="Maye, B" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="9" spot="MT44" context="V,2,9,V44" playid="23,3,139" type="R" first="R" text="Dasher, Dwight rush for 11 yards to the CU45, 1ST DOWN MT (Gilchrist, M)." newcontext="V,1,10,H45">
+    <p_ru vh="V" name="Dasher, Dwight" gain="11"></p_ru>
+    <p_tk vh="H" name="Gilchrist, M"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="CU45" context="V,1,10,H45" playid="23,4,140" type="P" text="Dasher, Dwight pass incomplete to Andrews, G., QB hurry by Bowers, D." newcontext="V,2,10,H45">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="Andrews, G."></p_pa>
+    <p_qbh vh="H" name="Bowers, D"></p_qbh>
+   </play>
+   <play hasball="MT" down="2" togo="10" spot="CU45" context="V,2,10,H45" playid="23,5,141" type="P" text="Dasher, Dwight pass complete to Andrews, G. for 7 yards to the CU38 (Chancellor, C)." newcontext="V,3,3,H38">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Andrews, G." gain="7"></p_pa>
+    <p_tk vh="H" name="Chancellor, C"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="3" spot="CU38" context="V,3,3,H38" playid="23,6,142" type="R" first="R" text="Dasher, Dwight rush for 4 yards to the CU34, 1ST DOWN MT (Hall, R)." newcontext="V,1,10,H34">
+    <p_ru vh="V" name="Dasher, Dwight" gain="4"></p_ru>
+    <p_tk vh="H" name="Hall, R"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="CU34" context="V,1,10,H34" playid="23,7,143" type="P" turnover="I" text="Dasher, Dwight pass intercepted by Chancellor, C at the CU31, Chancellor, C return 37 yards to the MT32 (Dasher, Dwight)." newcontext="H,1,10,V32">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INT"></p_pa>
+    <p_ir vh="H" name="Chancellor, C" at="H31" gain="37"></p_ir>
+    <p_tk vh="V" name="Dasher, Dwight"></p_tk>
+   </play>
+   <drivesum plays="6" yards="23" top="1:50" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,V32,12:07" vh="H" spot="V32" clock="12:07" driveindex="24,143"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="MT32" context="H,1,10,V32" playid="24,1,144" clock="10:17" text="CLEMSON drive start at 10:17." newcontext="H,1,10,V32">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT32" context="H,1,10,V32" playid="24,2,145" type="R" text="Parker, K rush for loss of 2 yards to the MT34 (Robinson, Cam)." newcontext="H,2,12,V34">
+    <p_ru vh="H" name="Parker, K" gain="-2"></p_ru>
+    <p_tk vh="V" name="Robinson, Cam" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="12" spot="MT34" context="H,2,12,V34" playid="24,3,146" type="R" text="Ellington, A rush for 1 yard to the MT33 (Lattimore, J.)." newcontext="H,3,11,V33">
+    <p_ru vh="H" name="Ellington, A" gain="1"></p_ru>
+    <p_tk vh="V" name="Lattimore, J."></p_tk>
+   </play>
+   <play hasball="CU" down="3" togo="11" spot="MT33" context="H,3,11,V33" playid="24,4,147" type="P" first="P" score="Y" clock="09:04" text="Parker, K pass complete to Jones, M for 33 yards to the MT0, 1ST DOWN CU, TOUCHDOWN, clock 09:04." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Parker, K" result="COMP" rcv="Jones, M" gain="33"></p_pa>
+   </play>
+   <play hasball="CU" down="1" togo="0" spot="MT03" context="H,1,0,V03" playid="24,5,148" type="X" score="Y" text="Jackson, R kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Jackson, R" qb="Jackson, R" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="37"></score>
+   <drivesum plays="3" yards="32" top="1:13" driveindex="24" complete="Y"></drivesum>
+   <play hasball="CU" down="1" togo="0" spot="CU30" context="H,1,0,H30" playid="24,6,149" type="K" text="Benton, S kickoff 67 yards to the MT3, Gee, Desmond return 28 yards to the MT31 (Hall, R;Maxwell, B)." newcontext="V,1,10,V31">
+    <p_ko vh="H" name="Benton, S" gain="67"></p_ko>
+    <p_kr vh="V" name="Gee, Desmond" gain="28"></p_kr>
+    <p_tk vh="H" name="Hall, R" assist="Y"></p_tk>
+    <p_tk vh="H" name="Maxwell, B" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V31,09:04" vh="V" spot="V31" clock="09:04" driveindex="25,149"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT31" context="V,1,10,V31" playid="25,1,150" clock="08:55" text="MIDDLE TENNESSEE drive start at 08:55." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT31" context="V,1,10,V31" playid="25,2,151" type="P" text="Dasher, Dwight pass incomplete to Honeycutt, P., dropped pass." newcontext="V,2,10,V31">
+    <p_pa vh="V" qb="Dasher, Dwight" result="DROP" rcv="Honeycutt, P."></p_pa>
+   </play>
+   <play hasball="MT" down="2" togo="10" spot="MT31" context="V,2,10,V31" playid="25,3,152" type="R" first="R" text="Tanner, Phillip rush for 16 yards to the MT47, 1ST DOWN MT (Hall, R;Maye, B)." newcontext="V,1,10,V47">
+    <p_ru vh="V" name="Tanner, Phillip" gain="16"></p_ru>
+    <p_tk vh="H" name="Hall, R" assist="Y"></p_tk>
+    <p_tk vh="H" name="Maye, B" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT47" context="V,1,10,V47" playid="25,4,153" type="P" text="Dasher, Dwight pass incomplete to Honeycutt, P., QB hurry by Sapp, R." newcontext="V,2,10,V47">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="Honeycutt, P."></p_pa>
+    <p_qbh vh="H" name="Sapp, R"></p_qbh>
+   </play>
+   <play hasball="MT" down="2" togo="10" spot="MT47" context="V,2,10,V47" playid="25,5,154" type="P" text="Dasher, Dwight pass complete to Andrews, G. for 6 yards to the CU47 (Chancellor, C;McDaniel, D)." newcontext="V,3,4,H47">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Andrews, G." gain="6"></p_pa>
+    <p_tk vh="H" name="Chancellor, C" assist="Y"></p_tk>
+    <p_tk vh="H" name="McDaniel, D" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="4" spot="CU47" context="V,3,4,H47" playid="25,6,155" type="R" first="R" text="Dasher, Dwight rush for 11 yards to the CU36, 1ST DOWN MT (McDaniel, D;Chancellor, C)." newcontext="V,1,10,H36">
+    <p_ru vh="V" name="Dasher, Dwight" gain="11"></p_ru>
+    <p_tk vh="H" name="McDaniel, D" assist="Y"></p_tk>
+    <p_tk vh="H" name="Chancellor, C" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="CU36" context="V,1,10,H36" playid="25,7,156" type="P" text="Dasher, Dwight pass incomplete to Kyles, D.D. (Branch, A)." newcontext="V,2,10,H36">
+    <p_pa vh="V" qb="Dasher, Dwight" result="BRUP" rcv="Kyles, D.D."></p_pa>
+    <p_bu vh="H" name="Branch, A"></p_bu>
+   </play>
+   <play hasball="MT" down="2" togo="10" spot="CU36" context="V,2,10,H36" playid="25,8,157" type="R" text="Gee, Desmond rush for loss of 2 yards to the CU38 (Branch, A)." newcontext="V,3,12,H38">
+    <p_ru vh="V" name="Gee, Desmond" gain="-2"></p_ru>
+    <p_tk vh="H" name="Branch, A" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="12" spot="CU38" context="V,3,12,H38" playid="25,9,158" type="P" text="Dasher, Dwight pass incomplete to McDonald, S.." newcontext="V,4,12,H38">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="McDonald, S."></p_pa>
+   </play>
+   <play hasball="MT" down="4" togo="12" spot="CU38" context="V,4,12,H38" playid="25,10,159" type="P" text="Dasher, Dwight pass incomplete to McClover, Chris." newcontext="H,1,10,H38">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="McClover, Chris"></p_pa>
+   </play>
+   <drivesum plays="9" yards="31" top="2:29" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="H,H38,08:55" vh="H" spot="H38" clock="08:55" driveindex="26,159"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="CU38" context="H,1,10,H38" playid="26,1,160" clock="06:26" text="CLEMSON drive start at 06:26." newcontext="H,1,10,H38">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU38" context="H,1,10,H38" playid="26,2,161" text="CU ball on CU39." newcontext="H,1,10,H39">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU39" context="H,1,10,H39" playid="26,3,162" type="R" text="Taylor, R rush for 6 yards to the CU45 (McCoy, Chris;Robinson, Cam)." newcontext="H,2,4,H45">
+    <p_ru vh="H" name="Taylor, R" gain="6"></p_ru>
+    <p_tk vh="V" name="McCoy, Chris" assist="Y"></p_tk>
+    <p_tk vh="V" name="Robinson, Cam" assist="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="4" spot="CU45" context="H,2,4,H45" playid="26,4,163" type="R" first="R" text="Taylor, R rush for 4 yards to the CU49, 1ST DOWN CU (Robinson, Cam)." newcontext="H,1,10,H49">
+    <p_ru vh="H" name="Taylor, R" gain="4"></p_ru>
+    <p_tk vh="V" name="Robinson, Cam"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU49" context="H,1,10,H49" playid="26,5,164" type="R" text="Taylor, R rush for 3 yards to the MT48 (Perez, Emmanuel;Carmichael, D.)." newcontext="H,2,7,V48">
+    <p_ru vh="H" name="Taylor, R" gain="3"></p_ru>
+    <p_tk vh="V" name="Perez, Emmanuel" assist="Y"></p_tk>
+    <p_tk vh="V" name="Carmichael, D." assist="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="7" spot="MT48" context="H,2,7,V48" playid="26,6,165" type="P" first="P" text="Parker, K pass complete to Diehl, C for 13 yards to the MT35, 1ST DOWN CU (Crumpton, D.)." newcontext="H,1,10,V35">
+    <p_pa vh="H" qb="Parker, K" result="COMP" rcv="Diehl, C" gain="13"></p_pa>
+    <p_tk vh="V" name="Crumpton, D."></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT35" context="H,1,10,V35" playid="26,7,166" type="R" text="Taylor, R rush for 7 yards to the MT28 (Crumpton, D.)." newcontext="H,2,3,V28">
+    <p_ru vh="H" name="Taylor, R" gain="7"></p_ru>
+    <p_tk vh="V" name="Crumpton, D."></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="3" spot="MT28" context="H,2,3,V28" playid="26,8,167" type="R" text="Taylor, R rush for 2 yards to the MT26 (Smith, Dwight)." newcontext="H,3,1,V26">
+    <p_ru vh="H" name="Taylor, R" gain="2"></p_ru>
+    <p_tk vh="V" name="Smith, Dwight"></p_tk>
+   </play>
+   <play hasball="CU" down="3" togo="1" spot="MT26" context="H,3,1,V26" playid="26,9,168" type="R" text="Taylor, R rush for no gain to the MT26, fumble by Taylor, R recovered by CU McClain, A at MT26." newcontext="H,4,1,V26">
+    <p_ru vh="H" name="Taylor, R" gain="0"></p_ru>
+    <p_fumb vh="H" name="Taylor, R" at="V26" frvh="H" frname="McClain, A"></p_fumb>
+   </play>
+   <play hasball="CU" down="4" togo="1" spot="MT26" context="H,4,1,V26" playid="26,10,169" type="R" text="Taylor, R rush for no gain to the MT26 (McCoy, Chris;Davis, Darin)." newcontext="V,1,10,V26">
+    <p_ru vh="H" name="Taylor, R" gain="0"></p_ru>
+    <p_tk vh="V" name="McCoy, Chris" assist="Y"></p_tk>
+    <p_tk vh="V" name="Davis, Darin" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="8" yards="35" top="3:35" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="V,V26,06:26" vh="V" spot="V26" clock="06:26" driveindex="27,169"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT26" context="V,1,10,V26" playid="27,1,170" clock="02:51" text="MIDDLE TENNESSEE drive start at 02:51." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT26" context="V,1,10,V26" playid="27,2,171" text="MT ball on MT25." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT25" context="V,1,10,V25" playid="27,3,172" type="R" text="Tanner, Phillip rush for no gain to the MT25, fumble forced by Maye, B, fumble by Tanner, Phillip recovered by MT Fisher, Mark at MT25." newcontext="V,2,10,V25">
+    <p_ru vh="V" name="Tanner, Phillip" gain="0"></p_ru>
+    <p_fumb vh="V" name="Tanner, Phillip" at="V25" frvh="V" frname="Fisher, Mark"></p_fumb>
+    <p_tk vh="H" name="Maye, B" ff="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="10" spot="MT25" context="V,2,10,V25" playid="27,4,173" type="P" text="Dasher, Dwight pass complete to Honeycutt, P. for 7 yards to the MT32 (Hall, R)." newcontext="V,3,3,V32">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Honeycutt, P." gain="7"></p_pa>
+    <p_tk vh="H" name="Hall, R"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="3" spot="MT32" context="V,3,3,V32" playid="27,5,174" type="P" text="Fumble by TEAM, Dasher, Dwight pass incomplete to Honeycutt, P.." newcontext="V,4,3,V32">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="Honeycutt, P."></p_pa>
+   </play>
+   <play hasball="MT" down="4" togo="3" spot="MT32" context="V,4,3,V32" playid="27,6,175" type="U" text="DeFatta, David punt 32 yards to the CU36, out-of-bounds." ob="Y" newcontext="H,1,10,H36">
+    <p_pu vh="V" name="DeFatta, David" gain="32" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="1:24" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="H,H36,02:51" vh="H" spot="H36" clock="02:51" driveindex="28,175"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="CU36" context="H,1,10,H36" playid="28,1,176" clock="01:27" text="CLEMSON drive start at 01:27." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU36" context="H,1,10,H36" playid="28,2,177" type="R" text="Parker, K rush for loss of 6 yards to the CU30." newcontext="H,2,16,H30">
+    <p_ru vh="H" name="Parker, K" gain="-6"></p_ru>
+   </play>
+   <play hasball="CU" down="2" togo="16" spot="CU30" context="H,2,16,H30" playid="28,3,178" type="P" text="Parker, K pass incomplete to Allen, D." newcontext="H,3,16,H30">
+    <p_pa vh="H" qb="Parker, K" result="INC" rcv="Allen, D"></p_pa>
+   </play>
+   <play hasball="CU" down="3" togo="16" spot="CU30" context="H,3,16,H30" playid="28,4,179" type="R" text="Fumble by Parker, K, Parker, K rush for 8 yards to the CU38 (Crumpton, D.)." newcontext="H,4,8,H38">
+    <p_ru vh="H" name="Parker, K" gain="8"></p_ru>
+    <p_tk vh="V" name="Crumpton, D."></p_tk>
+   </play>
+   <score qtr="3" V="14" H="37"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MT">
+    <firstdowns no="7" rush="5" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="4" thirdatt="6" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="2" lost="0"></fumbles>
+    <misc yds="0" top="08:23"></misc>
+    <rush att="10" yds="53" gain="55" loss="2" td="0" long="10"></rush>
+    <pass comp="7" att="15" int="1" yds="93" td="1" long="15" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="93" td="1" long="15"></rcv>
+    <punt no="1" yds="32" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="32.0"></punt>
+    <ko no="1" yds="48" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="6" tot_tack="16" tflua="1" tfla="0" tflyds="2" sacks="1" sackyds="11" int="1" intyds="0"></defense>
+    <kr no="2" yds="43" td="0" long="0"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <fumbles no="2" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="CU">
+    <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="2" lost="0"></fumbles>
+    <misc yds="0" top="06:37"></misc>
+    <rush att="12" yds="25" gain="33" loss="8" td="0" long="0"></rush>
+    <pass comp="2" att="4" int="1" yds="46" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="46" td="1" long="0"></rcv>
+    <ko no="2" yds="137" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="18" tot_tack="27" tflua="1" tfla="0" tflyds="2" sacks="3" sackyds="18" brup="1" qbh="2" ff="1" int="1" intyds="37"></defense>
+    <kr no="1" yds="39" td="0" long="0"></kr>
+    <ir no="1" yds="37" td="0" long="35"></ir>
+    <fumbles no="2" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="CU" down="4" togo="8" spot="CU38" context="H,4,8,H38" playid="28,5,180" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,4,8,H38">
+   </play>
+   <play hasball="CU" down="4" togo="8" spot="CU38" context="H,4,8,H38" playid="28,6,181" type="U" text="Zimmerman, D punt 44 yards to the MT18, fair catch by Honeycutt, P., PENALTY CU kick catching interference (Maxwell, B) 15 yards to the MT33, 1st and 10, MT ball on MT33." newcontext="V,1,10,V33">
+    <p_pu vh="H" name="Zimmerman, D" gain="44" in20="Y" fc="Honeycutt, P."></p_pu>
+    <p_pn vh="H" code="KI" type="kick catching interference" name="Maxwell, B" result="ACCEPT" at="V18" yards="15"></p_pn>
+   </play>
+   <drivesum plays="3" yards="2" top="1:38" driveindex="28" complete="Y"></drivesum>
+   <drivestart poss="V,V33,15:00" vh="V" spot="V33" clock="15:00" driveindex="29,181"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT33" context="V,1,10,V33" playid="29,1,182" clock="14:49" text="MIDDLE TENNESSEE drive start at 14:49." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT33" context="V,1,10,V33" playid="29,2,183" type="R" text="Tanner, Phillip rush for 2 yards to the MT35 (McDaniel, D)." newcontext="V,2,8,V35">
+    <p_ru vh="V" name="Tanner, Phillip" gain="2"></p_ru>
+    <p_tk vh="H" name="McDaniel, D"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="8" spot="MT35" context="V,2,8,V35" playid="29,3,184" type="R" first="R" text="Dasher, Dwight rush for 9 yards to the MT44, 1ST DOWN MT (Branch, A)." newcontext="V,1,10,V44">
+    <p_ru vh="V" name="Dasher, Dwight" gain="9"></p_ru>
+    <p_tk vh="H" name="Branch, A"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT44" context="V,1,10,V44" playid="29,4,185" type="R" text="Banks, Andrew rush for 2 yards to the MT46 (Gilchrist, M)." newcontext="V,2,8,V46">
+    <p_ru vh="V" name="Banks, Andrew" gain="2"></p_ru>
+    <p_tk vh="H" name="Gilchrist, M"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="8" spot="MT46" context="V,2,8,V46" playid="29,5,186" type="P" text="Banks, Andrew pass complete to Delle Donne, G. for 3 yards to the MT49 (McDaniel, D)." newcontext="V,3,5,V49">
+    <p_pa vh="V" qb="Banks, Andrew" result="COMP" rcv="Delle Donne, G." gain="3"></p_pa>
+    <p_tk vh="H" name="McDaniel, D"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="5" spot="MT49" context="V,3,5,V49" playid="29,6,187" type="P" first="P" text="Dasher, Dwight pass complete to Delle Donne, G. for 11 yards to the CU40, 1ST DOWN MT (Brewer, X)." newcontext="V,1,10,H40">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Delle Donne, G." gain="11"></p_pa>
+    <p_tk vh="H" name="Brewer, X"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="CU40" context="V,1,10,H40" playid="29,7,188" type="P" text="Dasher, Dwight pass incomplete to Honeycutt, P.." newcontext="V,2,10,H40">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="Honeycutt, P."></p_pa>
+   </play>
+   <play hasball="MT" down="2" togo="10" spot="CU40" context="V,2,10,H40" playid="29,8,189" type="P" text="Dasher, Dwight pass complete to Honeycutt, P. for 3 yards to the CU37 (Sensabaugh, C)." newcontext="V,3,7,H37">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Honeycutt, P." gain="3"></p_pa>
+    <p_tk vh="H" name="Sensabaugh, C"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="7" spot="CU37" context="V,3,7,H37" playid="29,9,190" type="R" text="Dasher, Dwight rush for 4 yards to the CU33 (Moore, R)." newcontext="V,4,3,H33">
+    <p_ru vh="V" name="Dasher, Dwight" gain="4"></p_ru>
+    <p_tk vh="H" name="Moore, R"></p_tk>
+   </play>
+   <play hasball="MT" down="4" togo="3" spot="CU33" context="V,4,3,H33" playid="29,10,191" type="R" first="R" text="Dasher, Dwight rush for 6 yards to the CU27, 1ST DOWN MT (Branch, A;Maye, B)." newcontext="V,1,10,H27">
+    <p_ru vh="V" name="Dasher, Dwight" gain="6"></p_ru>
+    <p_tk vh="H" name="Branch, A" assist="Y"></p_tk>
+    <p_tk vh="H" name="Maye, B" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="CU27" context="V,1,10,H27" playid="29,11,192" type="P" text="Dasher, Dwight pass complete to Blissard, Shane for 8 yards to the CU19 (Brewer, X)." newcontext="V,2,2,H19">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Blissard, Shane" gain="8"></p_pa>
+    <p_tk vh="H" name="Brewer, X"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="2" spot="CU19" context="V,2,2,H19" playid="29,12,193" type="P" text="Fumble by TEAM, Dasher, Dwight pass incomplete to Andrews, G., QB hurry by Thompson, B." newcontext="V,3,2,H19">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="Andrews, G."></p_pa>
+    <p_qbh vh="H" name="Thompson, B"></p_qbh>
+   </play>
+   <play hasball="MT" down="3" togo="2" spot="CU19" context="V,3,2,H19" playid="29,13,194" type="R" first="R" text="Dasher, Dwight rush for 9 yards to the CU10, 1ST DOWN MT (Chambers, S)." newcontext="V,1,0,H10">
+    <p_ru vh="V" name="Dasher, Dwight" gain="9"></p_ru>
+    <p_tk vh="H" name="Chambers, S"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="0" spot="CU10" context="V,1,0,H10" playid="29,14,195" type="R" text="Banks, Andrew rush for 7 yards to the CU3 (Hall, R)." newcontext="V,2,0,H03">
+    <p_ru vh="V" name="Banks, Andrew" gain="7"></p_ru>
+    <p_tk vh="H" name="Hall, R"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="0" spot="CU03" context="V,2,0,H03" playid="29,15,196" type="R" text="Banks, Andrew rush for loss of 2 yards to the CU5." newcontext="V,3,0,H05">
+    <p_ru vh="V" name="Banks, Andrew" gain="-2"></p_ru>
+   </play>
+   <play hasball="MT" down="3" togo="0" spot="CU05" context="V,3,0,H05" playid="29,16,197" type="P" text="Banks, Andrew pass incomplete to Blissard, Shane (Chambers, S)." newcontext="V,4,0,H05">
+    <p_pa vh="V" qb="Banks, Andrew" result="BRUP" rcv="Blissard, Shane"></p_pa>
+    <p_bu vh="H" name="Chambers, S"></p_bu>
+   </play>
+   <play hasball="MT" down="4" togo="0" spot="CU05" context="V,4,0,H05" playid="29,17,198" type="P" text="Dasher, Dwight pass incomplete to Andrews, G.." newcontext="H,1,10,H05">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="Andrews, G."></p_pa>
+   </play>
+   <drivesum plays="16" yards="62" top="5:22" driveindex="29" complete="Y"></drivesum>
+   <drivestart poss="H,H05,14:49" vh="H" spot="H05" clock="14:49" driveindex="30,198"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="CU05" context="H,1,10,H05" playid="30,1,199" clock="09:27" text="CLEMSON drive start at 09:27." newcontext="H,1,10,H05">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU05" context="H,1,10,H05" playid="30,2,200" text="CU ball on CU6." newcontext="H,1,10,H06">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU06" context="H,1,10,H06" playid="30,3,201" type="R" first="R" text="Harper, J rush for 12 yards to the CU18, 1ST DOWN CU (Carson, Jawan)." newcontext="H,1,10,H18">
+    <p_ru vh="H" name="Harper, J" gain="12"></p_ru>
+    <p_tk vh="V" name="Carson, Jawan"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU18" context="H,1,10,H18" playid="30,4,202" type="E" text="PENALTY CU false start 5 yards to the CU13." newcontext="H,1,15,H13">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="H18" yards="5"></p_pn>
+   </play>
+   <play hasball="CU" down="1" togo="15" spot="CU13" context="H,1,15,H13" playid="30,5,203" type="R" text="Harper, J rush for loss of 1 yard to the CU12 (Tucker, Gary)." newcontext="H,2,16,H12">
+    <p_ru vh="H" name="Harper, J" gain="-1"></p_ru>
+    <p_tk vh="V" name="Tucker, Gary" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="16" spot="CU12" context="H,2,16,H12" playid="30,6,204" type="P" first="P" text="Parker, K pass complete to Jones, M for 38 yards to the 50 yardline, 1ST DOWN CU (Udell, Marcus)." newcontext="H,1,10,H50">
+    <p_pa vh="H" qb="Parker, K" result="COMP" rcv="Jones, M" gain="38"></p_pa>
+    <p_tk vh="V" name="Udell, Marcus"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU50" context="H,1,10,H50" playid="30,7,205" type="R" text="Harper, J rush for 9 yards to the MT41 (Kellem, Jeremy)." newcontext="H,2,1,V41">
+    <p_ru vh="H" name="Harper, J" gain="9"></p_ru>
+    <p_tk vh="V" name="Kellem, Jeremy"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="1" spot="MT41" context="H,2,1,V41" playid="30,8,206" type="R" text="Harper, J rush for no gain to the MT41 (Washington, N.)." newcontext="H,3,1,V41">
+    <p_ru vh="H" name="Harper, J" gain="0"></p_ru>
+    <p_tk vh="V" name="Washington, N."></p_tk>
+   </play>
+   <play hasball="CU" down="3" togo="1" spot="MT41" context="H,3,1,V41" playid="30,9,207" type="R" first="R" text="Harper, J rush for 8 yards to the MT33, 1ST DOWN CU (Loreus, Gorby)." newcontext="H,1,10,V33">
+    <p_ru vh="H" name="Harper, J" gain="8"></p_ru>
+    <p_tk vh="V" name="Loreus, Gorby"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT33" context="H,1,10,V33" playid="30,10,208" type="R" text="Ellington, A rush for 2 yards to the MT31 (Kellem, Jeremy;Loreus, Gorby)." newcontext="H,2,8,V31">
+    <p_ru vh="H" name="Ellington, A" gain="2"></p_ru>
+    <p_tk vh="V" name="Kellem, Jeremy" assist="Y"></p_tk>
+    <p_tk vh="V" name="Loreus, Gorby" assist="Y"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="8" spot="MT31" context="H,2,8,V31" playid="30,11,209" type="P" text="Parker, K pass incomplete to Clear, Br, QB hurry by McCoy, Chris." newcontext="H,3,8,V31">
+    <p_pa vh="H" qb="Parker, K" result="INC" rcv="Clear, Br"></p_pa>
+    <p_qbh vh="V" name="McCoy, Chris"></p_qbh>
+   </play>
+   <play hasball="CU" down="3" togo="8" spot="MT31" context="H,3,8,V31" playid="30,12,210" type="P" text="Parker, K pass incomplete to Brown, J (Brown, Kevin)." newcontext="H,4,8,V31">
+    <p_pa vh="H" qb="Parker, K" result="BRUP" rcv="Brown, J"></p_pa>
+    <p_bu vh="V" name="Brown, Kevin"></p_bu>
+   </play>
+   <play hasball="CU" down="4" togo="8" spot="MT31" context="H,4,8,V31" playid="30,13,211" type="F" clock="05:43" text="Jackson, R field goal attempt from 48 MISSED - wide right, spot at MT32, clock 05:43." newcontext="V,1,10,V32">
+    <p_fg vh="H" name="Jackson, R" distance="48" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="10" yards="63" top="3:44" driveindex="30" complete="Y"></drivesum>
+   <drivestart poss="V,V32,05:43" vh="V" spot="V32" clock="05:43" driveindex="31,211"></drivestart>
+   <play hasball="MT" down="1" togo="10" spot="MT32" context="V,1,10,V32" playid="31,1,212" clock="05:43" text="MIDDLE TENNESSEE drive start at 05:43." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT32" context="V,1,10,V32" playid="31,2,213" type="R" text="Kyles, D.D. rush for 2 yards to the MT34 (Thompson, B;Branch, A)." newcontext="V,2,8,V34">
+    <p_ru vh="V" name="Kyles, D.D." gain="2"></p_ru>
+    <p_tk vh="H" name="Thompson, B" assist="Y"></p_tk>
+    <p_tk vh="H" name="Branch, A" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="8" spot="MT34" context="V,2,8,V34" playid="31,3,214" type="P" text="Dasher, Dwight pass incomplete to Honeycutt, P.." newcontext="V,3,8,V34">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="Honeycutt, P."></p_pa>
+   </play>
+   <comment text="The previous play was reviewed and upheld."></comment>
+   <play hasball="MT" down="3" togo="8" spot="MT34" context="V,3,8,V34" playid="31,4,216" type="P" first="P" text="Dasher, Dwight pass complete to Andrews, G. for 9 yards to the MT43, 1ST DOWN MT (Chancellor, C)." newcontext="V,1,10,V43">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Andrews, G." gain="9"></p_pa>
+    <p_tk vh="H" name="Chancellor, C"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="MT43" context="V,1,10,V43" playid="31,5,217" type="P" text="Dasher, Dwight pass complete to Caldwell, Wes for 8 yards to the CU49 (McDaniel, D;Maye, B)." newcontext="V,2,2,H49">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Caldwell, Wes" gain="8"></p_pa>
+    <p_tk vh="H" name="McDaniel, D" assist="Y"></p_tk>
+    <p_tk vh="H" name="Maye, B" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="2" spot="CU49" context="V,2,2,H49" playid="31,6,218" type="P" text="Dasher, Dwight pass complete to Caldwell, Wes for 1 yard to the CU48 (McDaniel, D;Maye, B)." newcontext="V,3,1,H48">
+    <p_pa vh="V" qb="Dasher, Dwight" result="COMP" rcv="Caldwell, Wes" gain="1"></p_pa>
+    <p_tk vh="H" name="McDaniel, D" assist="Y"></p_tk>
+    <p_tk vh="H" name="Maye, B" assist="Y"></p_tk>
+   </play>
+   <play hasball="MT" down="3" togo="1" spot="CU48" context="V,3,1,H48" playid="31,7,219" type="R" first="R" text="Dasher, Dwight rush for 3 yards to the CU45, 1ST DOWN MT (Maye, B)." newcontext="V,1,10,H45">
+    <p_ru vh="V" name="Dasher, Dwight" gain="3"></p_ru>
+    <p_tk vh="H" name="Maye, B"></p_tk>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="CU45" context="V,1,10,H45" playid="31,8,220" type="R" text="Kyles, D.D. rush for 4 yards to the CU41 (Chavis, M)." newcontext="V,2,6,H41">
+    <p_ru vh="V" name="Kyles, D.D." gain="4"></p_ru>
+    <p_tk vh="H" name="Chavis, M"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="6" spot="CU41" context="V,2,6,H41" playid="31,9,221" type="E" first="E" text="Dasher, Dwight pass incomplete to Honeycutt, P., PENALTY CU roughing passer (Chavis, M) 15 yards to the CU26, 1ST DOWN MT, NO PLAY." newcontext="V,1,10,H26">
+    <p_pn vh="H" code="RP" type="roughing passer" name="Chavis, M" result="ACCEPT" at="H41" yards="15"></p_pn>
+   </play>
+   <play hasball="MT" down="1" togo="10" spot="CU26" context="V,1,10,H26" playid="31,10,222" type="R" text="Dasher, Dwight rush for 7 yards to the CU19 (Goodman, M)." newcontext="V,2,3,H19">
+    <p_ru vh="V" name="Dasher, Dwight" gain="7"></p_ru>
+    <p_tk vh="H" name="Goodman, M"></p_tk>
+   </play>
+   <play hasball="MT" down="2" togo="3" spot="CU19" context="V,2,3,H19" playid="31,11,223" type="P" text="Dasher, Dwight pass incomplete to Kyles, D.D.." newcontext="V,3,3,H19">
+    <p_pa vh="V" qb="Dasher, Dwight" result="INC" rcv="Kyles, D.D."></p_pa>
+   </play>
+   <play hasball="MT" down="3" togo="3" spot="CU19" context="V,3,3,H19" playid="31,12,224" type="R" text="Dasher, Dwight rush for loss of 5 yards to the CU24, fumble by Dasher, Dwight recovered by MT TEAM at CU24." newcontext="V,4,8,H24">
+    <p_ru vh="V" name="Dasher, Dwight" gain="-5"></p_ru>
+    <p_fumb vh="V" name="Dasher, Dwight" at="H24" frvh="V" frname="TEAM"></p_fumb>
+   </play>
+   <play hasball="MT" down="4" togo="8" spot="CU24" context="V,4,8,H24" playid="31,13,225" type="P" text="Dasher, Dwight pass incomplete to McClover, Chris (Brewer, X)." newcontext="H,1,10,H24">
+    <p_pa vh="V" qb="Dasher, Dwight" result="BRUP" rcv="McClover, Chris"></p_pa>
+    <p_bu vh="H" name="Brewer, X"></p_bu>
+   </play>
+   <drivesum plays="11" yards="44" top="3:33" driveindex="31" complete="Y"></drivesum>
+   <drivestart poss="H,H24,05:43" vh="H" spot="H24" clock="05:43" driveindex="32,225"></drivestart>
+   <play hasball="CU" down="1" togo="10" spot="CU24" context="H,1,10,H24" playid="32,1,226" clock="02:10" text="CLEMSON drive start at 02:10." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="CU24" context="H,1,10,H24" playid="32,2,227" type="R" first="R" text="Ellington, A rush for 36 yards to the MT40, 1ST DOWN CU (Udell, Marcus)." newcontext="H,1,10,V40">
+    <p_ru vh="H" name="Ellington, A" gain="36"></p_ru>
+    <p_tk vh="V" name="Udell, Marcus"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT40" context="H,1,10,V40" playid="32,3,228" type="R" first="R" text="Ellington, A rush for 12 yards to the MT28, 1ST DOWN CU (Davis, Antwan)." newcontext="H,1,10,V28">
+    <p_ru vh="H" name="Ellington, A" gain="12"></p_ru>
+    <p_tk vh="V" name="Davis, Antwan"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT28" context="H,1,10,V28" playid="32,4,229" type="R" text="Ellington, A rush for 6 yards to the MT22 (Davis, Darin)." newcontext="H,2,4,V22">
+    <p_ru vh="H" name="Ellington, A" gain="6"></p_ru>
+    <p_tk vh="V" name="Davis, Darin"></p_tk>
+   </play>
+   <play hasball="CU" down="2" togo="4" spot="MT22" context="H,2,4,V22" playid="32,5,230" type="R" first="R" text="Ellington, A rush for 5 yards to the MT17, 1ST DOWN CU (Loreus, Gorby)." newcontext="H,1,10,V17">
+    <p_ru vh="H" name="Ellington, A" gain="5"></p_ru>
+    <p_tk vh="V" name="Loreus, Gorby"></p_tk>
+   </play>
+   <play hasball="CU" down="1" togo="10" spot="MT17" context="H,1,10,V17" playid="32,6,231" type="R" text="TEAM rush for loss of 3 yards to the MT20." newcontext="H,2,13,V20">
+    <p_ru vh="H" name="TEAM" gain="-3"></p_ru>
+   </play>
+   <play hasball="CU" down="2" togo="13" spot="MT20" context="H,2,13,V20" playid="32,7,232" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,2,13,V20">
+   </play>
+   <drivesum plays="5" yards="56" top="2:10" driveindex="32" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Clemson defeats Middle Tennessee by a score of 37 to 14."></play>
+   <score final="Y" V="14" H="37"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MT">
+    <firstdowns no="7" rush="4" pass="2" penalty="1"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="4" thirdatt="7" fourthconv="1" fourthatt="3"></conversions>
+    <fumbles no="2" lost="0"></fumbles>
+    <misc yds="0" top="08:55"></misc>
+    <rush att="13" yds="48" gain="55" loss="7" td="0" long="0"></rush>
+    <pass comp="7" att="14" int="0" yds="43" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="43" td="0" long="0"></rcv>
+    <defense tackua="10" tacka="2" tot_tack="12" tflua="1" tfla="0" tflyds="1" sacks="1" sackyds="11" brup="1" qbh="1"></defense>
+    <fumbles no="2" lost="0"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="CU">
+    <firstdowns no="6" rush="5" pass="1" penalty="0"></firstdowns>
+    <penalties no="3" yds="35"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:05"></misc>
+    <rush att="11" yds="86" gain="90" loss="4" td="0" long="18"></rush>
+    <pass comp="1" att="3" int="0" yds="38" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="38" td="0" long="0"></rcv>
+    <punt no="1" yds="44" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="44.0"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="14" tacka="8" tot_tack="22" sacks="3" sackyds="18" brup="2" qbh="1"></defense>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="CU" down="2" togo="13" spot="MT20" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="3" htor="3" dtgtext="Game Over" ldtext="Drive started: 02:10, 4th Qtr"></downtogo>
+ </plays>

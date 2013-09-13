@@ -1,0 +1,704 @@
+<plays format="summary">
+    <qtr number="1" text="1st">
+      <play hasball="Neb" down="1" togo="10" spot="Neb30" context="H,1,10,H30" playid="0,1,0" text="Neb ball on Neb30." newcontext="H,1,10,H30">
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb30" context="H,1,10,H30" playid="0,2,1" type="K" text="Neb kickoff to the FlaAtl0, touchback." newcontext="V,1,10,V20">
+      </play>
+      <drivestart poss="V,V20,15:00" vh="V" spot="V20" clock="15:00" driveindex="1,1"></drivestart>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl20" context="V,1,10,V20" playid="1,1,2" type="P" clock="15:00" text="Rusty Smith pass complete to Cortez Gent for 5 yards to the FlaAtl25, clock 15:00." newcontext="V,2,5,V25">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Cortez Gent" gain="5"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="5" spot="FlaAtl25" context="V,2,5,V25" playid="1,2,3" type="R" clock="15:00" text="Alfred Morris rush for no gain to the FlaAtl25, clock 15:00." newcontext="V,3,5,V25">
+        <p_ru vh="V" name="Alfred Morris" gain="0"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="5" spot="FlaAtl25" context="V,3,5,V25" playid="1,3,4" type="P" clock="15:00" text="Rusty Smith pass incomplete, clock 15:00." newcontext="V,4,5,V25">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="4" togo="5" spot="FlaAtl25" context="V,4,5,V25" playid="1,4,5" type="U" text="Keegan Peterson punt 30 yards to the Neb45." newcontext="H,1,10,H45">
+        <p_pu vh="V" name="Keegan Peterson" gain="30"></p_pu>
+      </play>
+      <drivesum plays="3" yards="5" top="0:00" driveindex="1" complete="Y"></drivesum>
+      <drivestart poss="H,H45,15:00" vh="H" spot="H45" clock="15:00" driveindex="2,5"></drivestart>
+      <play hasball="Neb" down="1" togo="10" spot="Neb45" context="H,1,10,H45" playid="2,1,6" clock="15:00" text="NEBRASKA drive start at 15:00." newcontext="H,1,10,H45">
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb45" context="H,1,10,H45" playid="2,2,7" type="R" clock="15:00" text="Roy Helu rush for 2 yards to the Neb47, clock 15:00." newcontext="H,2,8,H47">
+        <p_ru vh="H" name="Roy Helu" gain="2"></p_ru>
+      </play>
+      <play hasball="Neb" down="2" togo="8" spot="Neb47" context="H,2,8,H47" playid="2,3,8" type="R" clock="15:00" text="TEAM rush for 2 yards to the Neb49, fumble by Roy Helu recovered by Neb Roy Helu at Neb45, clock 15:00." newcontext="H,1,10,H00">
+        <p_ru vh="H" name="TEAM" gain="2"></p_ru>
+        <p_fumb vh="H" name="Roy Helu" at="H47" frvh="H" frname="Roy Helu"></p_fumb>
+      </play>
+      <play hasball="Neb" down="2" togo="8" spot="Neb47" context="H,2,8,H47" playid="2,4,9" type="E" clock="15:00" text="PENALTY Neb 5 yards to the Neb42, clock 15:00." newcontext="H,2,13,H42">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="H47" yards="5"></p_pn>
+      </play>
+      <play hasball="Neb" down="3" togo="15" spot="Neb40" context="H,3,15,H40" playid="2,5,10" type="P" clock="15:00" text="Zac Lee pass complete to Roy Helu for 3 yards to the Neb43, clock 15:00." newcontext="H,4,12,H43">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Roy Helu" gain="3"></p_pa>
+      </play>
+      <play hasball="Neb" down="4" togo="12" spot="Neb43" context="H,4,12,H43" playid="2,6,11" type="U" text="Alex Henery punt 43 yards to the FlaAtl14, Tavious Polo return 0 yards to the FlaAtl14." newcontext="V,1,10,V14">
+        <p_pu vh="H" name="Alex Henery" gain="43" in20="Y"></p_pu>
+        <p_pr vh="V" name="Tavious Polo" gain="0"></p_pr>
+      </play>
+      <drivesum plays="4" yards="47" top="0:00" driveindex="2" complete="Y"></drivesum>
+      <drivestart poss="V,V14,15:00" vh="V" spot="V14" clock="15:00" driveindex="3,11"></drivestart>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl14" context="V,1,10,V14" playid="3,1,12" clock="15:00" text="FLA ATLANTIC drive start at 15:00." newcontext="V,1,10,V14">
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl14" context="V,1,10,V14" playid="3,2,13" type="P" clock="15:00" text="Rusty Smith pass incomplete, clock 15:00." newcontext="V,2,10,V14">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="10" spot="FlaAtl14" context="V,2,10,V14" playid="3,3,14" type="R" clock="15:00" text="Willie Rose rush for 2 yards to the FlaAtl16, clock 15:00." newcontext="V,3,8,V16">
+        <p_ru vh="V" name="Willie Rose" gain="2"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="8" spot="FlaAtl16" context="V,3,8,V16" playid="3,4,15" type="P" clock="15:00" text="Rusty Smith pass incomplete, clock 15:00." newcontext="V,4,8,V16">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="4" togo="8" spot="FlaAtl16" context="V,4,8,V16" playid="3,5,16" type="U" text="Keegan Peterson punt 28 yards to the FlaAtl44." newcontext="H,1,10,V44">
+        <p_pu vh="V" name="Keegan Peterson" gain="28"></p_pu>
+      </play>
+      <drivesum plays="3" yards="2" top="0:00" driveindex="3" complete="Y"></drivesum>
+      <drivestart poss="H,V44,15:00" vh="H" spot="V44" clock="15:00" driveindex="4,16"></drivestart>
+      <play hasball="Neb" down="1" togo="10" spot="FlaAtl44" context="H,1,10,V44" playid="4,1,17" clock="15:00" text="NEBRASKA drive start at 15:00." newcontext="H,1,10,V44">
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="FlaAtl44" context="H,1,10,V44" playid="4,2,18" type="R" clock="15:00" text="Roy Helu rush for 3 yards to the FlaAtl41, clock 15:00." newcontext="H,2,7,V41">
+        <p_ru vh="H" name="Roy Helu" gain="3"></p_ru>
+      </play>
+      <play hasball="Neb" down="2" togo="7" spot="FlaAtl41" context="H,2,7,V41" playid="4,3,19" type="R" first="R" clock="11:12" text="Roy Helu rush for 8 yards to the FlaAtl33, 1ST DOWN Neb, clock 11:12." newcontext="H,1,10,V33">
+        <p_ru vh="H" name="Roy Helu" gain="8"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="FlaAtl33" context="H,1,10,V33" playid="4,4,20" type="P" clock="11:12" text="Zac Lee pass complete to Mike McNeill for 2 yards to the FlaAtl31, clock 11:12." newcontext="H,2,8,V31">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Mike McNeill" gain="2"></p_pa>
+      </play>
+      <play hasball="Neb" down="2" togo="8" spot="FlaAtl31" context="H,2,8,V31" playid="4,5,21" type="R" clock="11:12" text="Roy Helu rush for 3 yards to the FlaAtl28, clock 11:12." newcontext="H,3,5,V28">
+        <p_ru vh="H" name="Roy Helu" gain="3"></p_ru>
+      </play>
+      <play hasball="Neb" down="3" togo="5" spot="FlaAtl28" context="H,3,5,V28" playid="4,6,22" type="P" score="Y" clock="07:21" text="Zac Lee pass complete to Menelik Holt for 28 yards to the FlaAtl0, TOUCHDOWN, clock 07:21." newcontext="H,1,0,V03">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Menelik Holt" gain="28"></p_pa>
+      </play>
+      <play hasball="Neb" down="1" togo="0" spot="FlaAtl03" context="H,1,0,V03" playid="4,7,23" type="X" score="Y" text="Alex Henery kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Alex Henery" qb="Alex Henery" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="5" yards="44" top="7:39" driveindex="4" complete="Y"></drivesum>
+      <score V="0" H="7"></score>
+      <play hasball="Neb" down="1" togo="0" spot="Neb30" context="H,1,0,H30" playid="4,8,24" type="K" text="Neb kickoff to the FlaAtl0, touchback." newcontext="V,1,10,V20">
+      </play>
+      <drivestart poss="V,V20,07:21" vh="V" spot="V20" clock="07:21" driveindex="5,24"></drivestart>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl20" context="V,1,10,V20" playid="5,1,25" clock="07:21" text="FLA ATLANTIC drive start at 07:21." newcontext="V,1,10,V20">
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl20" context="V,1,10,V20" playid="5,2,26" type="R" first="R" clock="07:21" text="Alfred Morris rush for 13 yards to the FlaAtl33, 1ST DOWN FlaAtl, clock 07:21." newcontext="V,1,10,V33">
+        <p_ru vh="V" name="Alfred Morris" gain="13"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl33" context="V,1,10,V33" playid="5,3,27" type="P" clock="07:21" text="Rusty Smith pass incomplete, clock 07:21." newcontext="V,2,10,V33">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="10" spot="FlaAtl33" context="V,2,10,V33" playid="5,4,28" type="R" clock="07:21" text="Willie Rose rush for 4 yards to the FlaAtl37, clock 07:21." newcontext="V,3,6,V37">
+        <p_ru vh="V" name="Willie Rose" gain="4"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="6" spot="FlaAtl37" context="V,3,6,V37" playid="5,5,29" type="E" clock="07:21" text="PENALTY FlaAtl 5 yards to the FlaAtl32, clock 07:21." newcontext="V,3,11,V32">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V37" yards="5"></p_pn>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="11" spot="FlaAtl32" context="V,3,11,V32" playid="5,6,30" type="P" clock="07:21" text="Rusty Smith pass complete to Willie Rose for 10 yards to the FlaAtl42, clock 07:21." newcontext="V,4,1,V42">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Willie Rose" gain="10"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="4" togo="1" spot="FlaAtl42" context="V,4,1,V42" playid="5,7,31" type="U" text="Keegan Peterson punt 28 yards to the Neb30." newcontext="H,1,10,H30">
+        <p_pu vh="V" name="Keegan Peterson" gain="28"></p_pu>
+      </play>
+      <drivesum plays="4" yards="22" top="0:00" driveindex="5" complete="Y"></drivesum>
+      <drivestart poss="V,V32,04:25" vh="V" spot="V32" clock="04:25" driveindex="7,31"></drivestart>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl32" context="V,1,10,V32" playid="7,1,32" clock="04:25" text="FLA ATLANTIC drive start at 04:25." newcontext="V,1,10,V32">
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl30" context="V,1,10,V30" playid="7,2,33" type="R" clock="04:25" text="Alfred Morris rush for 2 yards to the FlaAtl32, clock 04:25." newcontext="V,2,8,V32">
+        <p_ru vh="V" name="Alfred Morris" gain="2"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="8" spot="FlaAtl32" context="V,2,8,V32" playid="7,3,34" type="P" clock="04:25" text="Rusty Smith pass incomplete, clock 04:25." newcontext="V,3,8,V32">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="8" spot="FlaAtl32" context="V,3,8,V32" playid="7,4,35" type="P" first="P" clock="04:25" text="Rusty Smith pass complete to Jason Harmon for 13 yards to the FlaAtl45, 1ST DOWN FlaAtl, clock 04:25." newcontext="V,1,10,V45">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Jason Harmon" gain="13"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl45" context="V,1,10,V45" playid="7,5,36" type="P" clock="04:25" text="Rusty Smith pass complete to Cortez Gent for 1 yard to the FlaAtl46, clock 04:25." newcontext="V,2,9,V46">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Cortez Gent" gain="1"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="9" spot="FlaAtl46" context="V,2,9,V46" playid="7,6,37" type="P" first="P" clock="04:25" text="Rusty Smith pass complete to Chris Bonner for 16 yards to the Neb38, 1ST DOWN FlaAtl, clock 04:25." newcontext="V,1,10,H38">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Chris Bonner" gain="16"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="Neb38" context="V,1,10,H38" playid="7,7,38" type="R" clock="04:25" text="Alfred Morris rush for no gain to the Neb38, clock 04:25." newcontext="V,2,10,H38">
+        <p_ru vh="V" name="Alfred Morris" gain="0"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="10" spot="Neb38" context="V,2,10,H38" playid="7,8,39" type="P" clock="04:25" text="Rusty Smith pass incomplete, clock 04:25." newcontext="V,3,10,H38">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="10" spot="Neb38" context="V,3,10,H38" playid="7,9,40" type="P" clock="04:25" text="Rusty Smith pass incomplete, clock 04:25." newcontext="V,4,10,H38">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="4" togo="10" spot="Neb38" context="V,4,10,H38" playid="7,10,41" type="#" clock="00:39" text="Timeout FLA ATLANTIC, clock 00:39." newcontext="V,4,10,H38">
+        <p_to vh="V" team="FLA ATLANTIC"></p_to>
+      </play>
+      <play hasball="FlaAtl" down="4" togo="10" spot="Neb38" context="V,4,10,H38" playid="7,11,42" type="F" clock="00:39" text="Ross Gornall field goal attempt from 46 MISSED, clock 00:39." newcontext="H,1,10,H36">
+        <p_fg vh="V" name="Ross Gornall" distance="46" result="MISSED"></p_fg>
+      </play>
+      <drivesum plays="9" yards="32" top="3:46" driveindex="7" complete="Y"></drivesum>
+      <score V="0" H="7"></score>
+      <drivestart poss="H,H32,00:32" vh="H" spot="H32" clock="00:32" driveindex="8,42"></drivestart>
+      <play hasball="Neb" down="1" togo="10" spot="Neb32" context="H,1,10,H32" playid="8,1,43" clock="00:32" text="NEBRASKA drive start at 00:32." newcontext="H,1,10,H32">
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb28" context="H,1,10,H28" playid="8,2,44" type="R" clock="00:32" text="Roy Helu rush for 4 yards to the Neb32, clock 00:32." newcontext="H,2,6,H32">
+        <p_ru vh="H" name="Roy Helu" gain="4"></p_ru>
+      </play>
+      <score qtr="1" V="0" H="7"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="FlaAtl">
+        <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+        <penalties no="1" yds="5"></penalties>
+        <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="03:46"></misc>
+        <rush att="6" yds="21" gain="21" loss="0" td="0" long="13"></rush>
+        <pass comp="5" att="12" int="0" yds="45" td="0" long="16" sacks="0" sackyds="0"></pass>
+        <rcv no="5" yds="45" td="0" long="16"></rcv>
+        <punt no="3" yds="86" long="30" blkd="0" tb="0" fc="" plus50="0" inside20="0" avg="28.7"></punt>
+        <fg made="0" att="1" long="0" blkd="0"></fg>
+        <pr no="1" yds="0" td="0" long="0"></pr>
+      </qtrsummary>
+      <qtrsummary vh="H" id="Neb">
+        <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+        <penalties no="1" yds="5"></penalties>
+        <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="1" lost="0"></fumbles>
+        <misc yds="" top="08:11"></misc>
+        <rush att="6" yds="22" gain="22" loss="0" td="0" long="8"></rush>
+        <pass comp="3" att="3" int="0" yds="33" td="1" long="28" sacks="0" sackyds="0"></pass>
+        <rcv no="3" yds="33" td="1" long="28"></rcv>
+        <punt no="1" yds="43" long="43" blkd="0" tb="0" fc="" plus50="0" inside20="1" avg="43.0"></punt>
+        <ko no="2" yds="" ob="" tb=""></ko>
+        <pat kickatt="1" kickmade="1"></pat>
+        <scoring td="1" patkick="1"></scoring>
+      </qtrsummary>
+    </qtr>
+    <qtr number="2" text="2nd">
+      <play hasball="Neb" down="2" togo="6" spot="Neb32" context="H,2,6,H32" playid="8,3,45" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,2,6,H32">
+      </play>
+      <play hasball="Neb" down="2" togo="6" spot="Neb32" context="H,2,6,H32" playid="8,4,46" type="P" clock="15:00" text="Zac Lee pass complete to Matt Holt for 5 yards to the Neb37, clock 15:00." newcontext="H,3,1,H37">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Matt Holt" gain="5"></p_pa>
+      </play>
+      <play hasball="Neb" down="3" togo="1" spot="Neb37" context="H,3,1,H37" playid="8,5,47" type="R" first="R" clock="15:00" text="Roy Helu rush for 12 yards to the Neb49, 1ST DOWN Neb, clock 15:00." newcontext="H,1,10,H49">
+        <p_ru vh="H" name="Roy Helu" gain="12"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb49" context="H,1,10,H49" playid="8,6,48" type="P" score="Y" clock="13:43" text="Zac Lee pass complete to Curenski Gilleylen for 51 yards to the FlaAtl0, TOUCHDOWN, clock 13:43." newcontext="H,1,0,V03">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Curenski Gilleylen" gain="51"></p_pa>
+      </play>
+      <play hasball="Neb" down="1" togo="0" spot="FlaAtl03" context="H,1,0,V03" playid="8,7,49" type="X" score="Y" text="Alex Henery kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Alex Henery" qb="Alex Henery" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="4" yards="72" top="1:49" driveindex="8" complete="Y"></drivesum>
+      <score V="0" H="14"></score>
+      <play hasball="Neb" down="1" togo="0" spot="Neb30" context="H,1,0,H30" playid="8,8,50" type="K" text="Neb kickoff to the FlaAtl8, Erick McIntosh return 17 yards to the FlaAtl25, fumble by Erick McIntosh recovered by FlaAtl Jamari Grant at FlaAtl25, PENALTY FlaAtl 5 yards to the FlaAtl20." newcontext="V,2,15,V20">
+        <p_kr vh="V" name="Erick McIntosh" gain="17"></p_kr>
+        <p_fumb vh="V" name="Erick McIntosh" at="H00" frvh="V" frname="Jamari Grant"></p_fumb>
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V25" yards="5"></p_pn>
+      </play>
+      <drivestart poss="V,V25,13:43" vh="V" spot="V25" clock="13:43" driveindex="9,50"></drivestart>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl25" context="V,1,10,V25" playid="9,1,51" clock="13:43" text="FLA ATLANTIC drive start at 13:43." newcontext="V,1,10,V25">
+      </play>
+      <play hasball="FlaAtl" down="1" togo="15" spot="FlaAtl20" context="V,1,15,V20" playid="9,2,52" type="R" clock="09:02" text="Willie Rose rush for 4 yards to the FlaAtl24, clock 09:02." newcontext="V,2,11,V24">
+        <p_ru vh="V" name="Willie Rose" gain="4"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="11" spot="FlaAtl24" context="V,2,11,V24" playid="9,3,53" type="R" clock="09:02" text="Willie Rose rush for 4 yards to the FlaAtl28, clock 09:02." newcontext="V,3,7,V28">
+        <p_ru vh="V" name="Willie Rose" gain="4"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="7" spot="FlaAtl28" context="V,3,7,V28" playid="9,4,54" type="E" first="E" clock="09:02" text="PENALTY Neb 15 yards to the FlaAtl43, 1ST DOWN FlaAtl, clock 09:02." newcontext="V,1,10,V43">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V28" yards="15"></p_pn>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl43" context="V,1,10,V43" playid="9,5,55" type="P" clock="09:02" text="Jeff Van Camp pass complete to Willie Rose for 6 yards to the FlaAtl49, clock 09:02." newcontext="V,2,4,V49">
+        <p_pa vh="V" qb="Jeff Van Camp" result="COMP" rcv="Willie Rose" gain="6"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="4" spot="FlaAtl49" context="V,2,4,V49" playid="9,6,56" type="R" first="R" clock="09:02" text="Jeff Van Camp rush for 5 yards to the Neb46, 1ST DOWN FlaAtl, clock 09:02." newcontext="V,1,10,H46">
+        <p_ru vh="V" name="Jeff Van Camp" gain="5"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="Neb46" context="V,1,10,H46" playid="9,7,57" type="R" clock="09:02" text="Alfred Morris rush for 7 yards to the Neb39, clock 09:02." newcontext="V,2,3,H39">
+        <p_ru vh="V" name="Alfred Morris" gain="7"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="3" spot="Neb39" context="V,2,3,H39" playid="9,8,58" type="R" first="R" clock="09:02" text="Alfred Morris rush for 3 yards to the Neb36, 1ST DOWN FlaAtl, clock 09:02." newcontext="V,1,10,H36">
+        <p_ru vh="V" name="Alfred Morris" gain="3"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="Neb36" context="V,1,10,H36" playid="9,9,59" type="E" clock="09:02" text="PENALTY FlaAtl 5 yards to the Neb41, clock 09:02." newcontext="V,1,15,H41">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H36" yards="5"></p_pn>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="15" spot="Neb41" context="V,1,15,H41" playid="9,10,60" type="P" first="P" clock="09:02" text="Jeff Van Camp pass complete to Willie Rose for 38 yards to the Neb3, 1ST DOWN FlaAtl, clock 09:02." newcontext="V,1,0,H03">
+        <p_pa vh="V" qb="Jeff Van Camp" result="COMP" rcv="Willie Rose" gain="38"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="0" spot="Neb03" context="V,1,0,H03" playid="9,11,61" type="P" clock="09:02" text="Jeff Van Camp pass incomplete, clock 09:02." newcontext="V,2,0,H03">
+        <p_pa vh="V" qb="Jeff Van Camp" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="0" spot="Neb03" context="V,2,0,H03" playid="9,12,62" type="#" clock="09:00" text="Timeout FLA ATLANTIC, clock 09:00." newcontext="V,2,0,H03">
+        <p_to vh="V" team="FLA ATLANTIC"></p_to>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="0" spot="Neb03" context="V,2,0,H03" playid="9,13,63" type="R" clock="09:00" text="Alfred Morris rush for loss of 1 yard to the Neb4, clock 09:00." newcontext="V,3,0,H04">
+        <p_ru vh="V" name="Alfred Morris" gain="-1"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="0" spot="Neb04" context="V,3,0,H04" playid="9,14,64" type="P" clock="09:00" text="Jeff Van Camp pass incomplete, clock 09:00." newcontext="V,4,0,H04">
+        <p_pa vh="V" qb="Jeff Van Camp" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="4" togo="0" spot="Neb04" context="V,4,0,H04" playid="9,15,65" type="F" score="Y" clock="08:13" text="Ross Gornall field goal attempt from 21 GOOD, clock 08:13." newcontext="V,1,0,V30">
+        <p_fg vh="V" name="Ross Gornall" distance="21" result="GOOD" score="Y"></p_fg>
+      </play>
+      <drivesum plays="12" yards="71" top="5:30" driveindex="9" complete="Y"></drivesum>
+      <score V="3" H="14"></score>
+      <play hasball="FlaAtl" down="1" togo="0" spot="FlaAtl30" context="V,1,0,V30" playid="9,16,66" type="K" text="FlaAtl kickoff to the Neb1, Niles Paul return 16 yards to the Neb17." newcontext="H,1,10,H17">
+        <p_kr vh="H" name="Niles Paul" gain="16"></p_kr>
+      </play>
+      <drivestart poss="H,H17,08:13" vh="H" spot="H17" clock="08:13" driveindex="10,66"></drivestart>
+      <play hasball="Neb" down="1" togo="10" spot="Neb17" context="H,1,10,H17" playid="10,1,67" clock="08:13" text="NEBRASKA drive start at 08:13." newcontext="H,1,10,H17">
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb17" context="H,1,10,H17" playid="10,2,68" type="R" clock="08:13" text="Rex Burkhead rush for 5 yards to the Neb22, clock 08:13." newcontext="H,2,5,H22">
+        <p_ru vh="H" name="Rex Burkhead" gain="5"></p_ru>
+      </play>
+      <play hasball="Neb" down="2" togo="5" spot="Neb22" context="H,2,5,H22" playid="10,3,69" type="E" clock="08:13" text="PENALTY Neb 10 yards to the Neb12, clock 08:13." newcontext="H,2,15,H12">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="H22" yards="10"></p_pn>
+      </play>
+      <play hasball="Neb" down="2" togo="15" spot="Neb12" context="H,2,15,H12" playid="10,4,70" type="P" clock="08:13" text="Zac Lee pass complete to Micah Kreikemeier for 10 yards to the Neb22, clock 08:13." newcontext="H,3,5,H22">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Micah Kreikemeier" gain="10"></p_pa>
+      </play>
+      <play hasball="Neb" down="3" togo="5" spot="Neb22" context="H,3,5,H22" playid="10,5,71" type="P" first="P" clock="08:13" text="Zac Lee pass complete to Curenski Gilleylen for 10 yards to the Neb32, 1ST DOWN Neb, clock 08:13." newcontext="H,1,10,H32">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Curenski Gilleylen" gain="10"></p_pa>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb32" context="H,1,10,H32" playid="10,6,72" type="#" clock="05:44" text="Timeout NEBRASKA, clock 05:44." newcontext="H,1,10,H32">
+        <p_to vh="H" team="NEBRASKA"></p_to>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb32" context="H,1,10,H32" playid="10,7,73" type="P" clock="05:44" text="Zac Lee pass incomplete, clock 05:44." newcontext="H,2,10,H32">
+        <p_pa vh="H" qb="Zac Lee" result="INC"></p_pa>
+      </play>
+      <play hasball="Neb" down="2" togo="10" spot="Neb32" context="H,2,10,H32" playid="10,8,74" type="P" clock="05:44" text="Zac Lee pass complete to Rex Burkhead for 9 yards to the Neb41, clock 05:44." newcontext="H,3,1,H41">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Rex Burkhead" gain="9"></p_pa>
+      </play>
+      <play hasball="Neb" down="3" togo="1" spot="Neb41" context="H,3,1,H41" playid="10,9,75" type="R" first="R" clock="05:44" text="Rex Burkhead rush for 4 yards to the Neb45, 1ST DOWN Neb, clock 05:44." newcontext="H,1,10,H45">
+        <p_ru vh="H" name="Rex Burkhead" gain="4"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb45" context="H,1,10,H45" playid="10,10,76" type="P" clock="05:44" text="Zac Lee pass incomplete, clock 05:44." newcontext="H,2,10,H45">
+        <p_pa vh="H" qb="Zac Lee" result="INC"></p_pa>
+      </play>
+      <play hasball="Neb" down="2" togo="10" spot="Neb45" context="H,2,10,H45" playid="10,11,77" type="R" first="R" clock="05:44" text="Roy Helu rush for 11 yards to the FlaAtl44, 1ST DOWN Neb, clock 05:44." newcontext="H,1,10,V44">
+        <p_ru vh="H" name="Roy Helu" gain="11"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="FlaAtl44" context="H,1,10,V44" playid="10,12,78" type="P" first="P" clock="05:44" text="Zac Lee pass complete to Micah Kreikemeier for 29 yards to the FlaAtl15, 1ST DOWN Neb, clock 05:44." newcontext="H,1,10,V15">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Micah Kreikemeier" gain="29"></p_pa>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="FlaAtl15" context="H,1,10,V15" playid="10,13,79" type="P" clock="05:44" text="Zac Lee pass incomplete, clock 05:44." newcontext="H,2,10,V15">
+        <p_pa vh="H" qb="Zac Lee" result="INC"></p_pa>
+      </play>
+      <play hasball="Neb" down="2" togo="10" spot="FlaAtl15" context="H,2,10,V15" playid="10,14,80" type="R" first="R" clock="05:44" text="Roy Helu rush for 12 yards to the FlaAtl3, 1ST DOWN Neb, clock 05:44." newcontext="H,1,0,V03">
+        <p_ru vh="H" name="Roy Helu" gain="12"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="0" spot="FlaAtl03" context="H,1,0,V03" playid="10,15,81" type="R" clock="05:44" text="Roy Helu rush for 1 yard to the FlaAtl2, clock 05:44." newcontext="H,2,0,V02">
+        <p_ru vh="H" name="Roy Helu" gain="1"></p_ru>
+      </play>
+      <play hasball="Neb" down="2" togo="0" spot="FlaAtl02" context="H,2,0,V02" playid="10,16,82" type="R" clock="05:44" text="Zac Lee rush for 1 yard to the FlaAtl1, clock 05:44." newcontext="H,3,0,V01">
+        <p_ru vh="H" name="Zac Lee" gain="1"></p_ru>
+      </play>
+      <play hasball="Neb" down="3" togo="0" spot="FlaAtl01" context="H,3,0,V01" playid="10,17,83" type="#" clock="01:27" text="Timeout NEBRASKA, clock 01:27." newcontext="H,3,0,V01">
+        <p_to vh="H" team="NEBRASKA"></p_to>
+      </play>
+      <play hasball="Neb" down="3" togo="0" spot="FlaAtl01" context="H,3,0,V01" playid="10,18,84" type="R" clock="01:27" text="Roy Helu rush for no gain to the FlaAtl1, clock 01:27." newcontext="H,4,0,V01">
+        <p_ru vh="H" name="Roy Helu" gain="0"></p_ru>
+      </play>
+      <play hasball="Neb" down="4" togo="0" spot="FlaAtl01" context="H,4,0,V01" playid="10,19,85" type="R" score="Y" clock="00:51" text="Roy Helu rush for 1 yard to the FlaAtl0, TOUCHDOWN, clock 00:51." newcontext="H,1,0,V03">
+        <p_ru vh="H" name="Roy Helu" gain="1"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="0" spot="FlaAtl03" context="H,1,0,V03" playid="10,20,86" type="X" score="Y" text="Alex Henery kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Alex Henery" qb="Alex Henery" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="15" yards="83" top="7:22" driveindex="10" complete="Y"></drivesum>
+      <score V="3" H="21"></score>
+      <play hasball="Neb" down="1" togo="0" spot="Neb30" context="H,1,0,H30" playid="10,21,87" type="K" text="Neb kickoff to the FlaAtl7, Erick McIntosh return 8 yards to the FlaAtl15." newcontext="V,1,10,V15">
+        <p_kr vh="V" name="Erick McIntosh" gain="8"></p_kr>
+      </play>
+      <drivestart poss="V,V15,00:51" vh="V" spot="V15" clock="00:51" driveindex="11,87"></drivestart>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl15" context="V,1,10,V15" playid="11,1,88" clock="00:51" text="FLA ATLANTIC drive start at 00:51." newcontext="V,1,10,V15">
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl15" context="V,1,10,V15" playid="11,2,89" type="R" first="R" clock="00:51" text="Alfred Morris rush for 13 yards to the FlaAtl28, 1ST DOWN FlaAtl, clock 00:51." newcontext="V,1,10,V28">
+        <p_ru vh="V" name="Alfred Morris" gain="13"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl28" context="V,1,10,V28" playid="11,3,90" type="P" first="P" clock="00:51" text="Rusty Smith pass complete to Jamari Grant for 12 yards to the FlaAtl40, 1ST DOWN FlaAtl, clock 00:51." newcontext="V,1,10,V40">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Jamari Grant" gain="12"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl40" context="V,1,10,V40" playid="11,4,91" type="P" first="P" clock="00:51" text="Rusty Smith pass complete to Cortez Gent for 13 yards to the Neb47, 1ST DOWN FlaAtl, clock 00:51." newcontext="V,1,10,H47">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Cortez Gent" gain="13"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="Neb47" context="V,1,10,H47" playid="11,5,92" type="#" clock="00:07" text="Timeout FLA ATLANTIC, clock 00:07." newcontext="V,1,10,H47">
+        <p_to vh="V" team="FLA ATLANTIC"></p_to>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="Neb47" context="V,1,10,H47" playid="11,6,93" type="P" clock="00:07" text="Rusty Smith pass incomplete, clock 00:07." newcontext="V,2,10,H47">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="10" spot="Neb47" context="V,2,10,H47" playid="11,7,94" type="P" clock="00:07" text="Rusty Smith pass incomplete, clock 00:07." newcontext="V,3,10,H47">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="10" spot="Neb47" context="V,3,10,H47" playid="11,8,95" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,3,10,H47">
+      </play>
+      <drivesum plays="5" yards="38" top="0:51" driveindex="11" complete="Y"></drivesum>
+      <score qtr="2" V="3" H="21"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="FlaAtl">
+        <firstdowns no="7" rush="3" pass="3" penalty="1"></firstdowns>
+        <penalties no="2" yds="10"></penalties>
+        <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="1" lost="0"></fumbles>
+        <misc yds="" top="06:21"></misc>
+        <rush att="7" yds="35" gain="36" loss="1" td="0" long="13"></rush>
+        <pass comp="4" att="8" int="0" yds="69" td="0" long="38" sacks="0" sackyds="0"></pass>
+        <rcv no="4" yds="69" td="0" long="38"></rcv>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <fg made="1" att="1" long="21" blkd="0"></fg>
+        <kr no="2" yds="25" td="0" long="17"></kr>
+        <scoring fg="1"></scoring>
+      </qtrsummary>
+      <qtrsummary vh="H" id="Neb">
+        <firstdowns no="8" rush="5" pass="3" penalty="0"></firstdowns>
+        <penalties no="2" yds="25"></penalties>
+        <conversions thirdconv="3" thirdatt="4" fourthconv="1" fourthatt="1"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="08:39"></misc>
+        <rush att="9" yds="47" gain="47" loss="0" td="1" long="12"></rush>
+        <pass comp="6" att="9" int="0" yds="114" td="1" long="51" sacks="0" sackyds="0"></pass>
+        <rcv no="6" yds="114" td="1" long="51"></rcv>
+        <ko no="2" yds="" ob="" tb=""></ko>
+        <pat kickatt="2" kickmade="2"></pat>
+        <kr no="1" yds="16" td="0" long="16"></kr>
+        <scoring td="2" patkick="2"></scoring>
+      </qtrsummary>
+    </qtr>
+    <qtr number="3" text="3rd">
+      <play hasball="FlaAtl" down="3" togo="10" spot="Neb47" context="V,3,10,H47" playid="11,9,96" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, FlaAtl ball on FlaAtl30." newcontext="V,1,10,V30">
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl30" context="V,1,10,V30" playid="11,10,97" type="K" text="FlaAtl kickoff to the Neb7, Niles Paul return 31 yards to the Neb38." newcontext="H,1,10,H38">
+        <p_kr vh="H" name="Niles Paul" gain="31"></p_kr>
+      </play>
+      <drivestart poss="H,H38,15:00" vh="H" spot="H38" clock="15:00" driveindex="12,97"></drivestart>
+      <play hasball="Neb" down="1" togo="10" spot="Neb38" context="H,1,10,H38" playid="12,1,98" clock="15:00" text="NEBRASKA drive start at 15:00." newcontext="H,1,10,H38">
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb38" context="H,1,10,H38" playid="12,2,99" type="R" clock="15:00" text="Roy Helu rush for loss of 15 yards to the Neb23, clock 15:00." newcontext="H,2,25,H23">
+        <p_ru vh="H" name="Roy Helu" gain="-15"></p_ru>
+      </play>
+      <play hasball="Neb" down="2" togo="25" spot="FlaAtl48" context="H,2,25,V48" playid="12,3,100" type="R" clock="15:00" text="Zac Lee rush for 13 yards to the FlaAtl35, clock 15:00." newcontext="H,3,12,V35">
+        <p_ru vh="H" name="Zac Lee" gain="13"></p_ru>
+      </play>
+      <play hasball="Neb" down="3" togo="12" spot="FlaAtl35" context="H,3,12,V35" playid="12,4,101" type="E" clock="15:00" text="PENALTY Neb 5 yards to the FlaAtl40, clock 15:00." newcontext="H,3,17,V40">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V35" yards="5"></p_pn>
+      </play>
+      <play hasball="Neb" down="3" togo="17" spot="FlaAtl40" context="H,3,17,V40" playid="12,5,102" type="R" first="R" clock="15:00" text="Roy Helu rush for 28 yards to the FlaAtl12, 1ST DOWN Neb, PENALTY FlaAtl 5 yards to the FlaAtl7, clock 15:00." newcontext="H,1,0,V07">
+        <p_ru vh="H" name="Roy Helu" gain="28"></p_ru>
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V12" yards="5"></p_pn>
+      </play>
+      <play hasball="Neb" down="1" togo="5" spot="FlaAtl07" context="H,1,5,V07" playid="12,6,103" type="R" score="Y" clock="12:36" text="Roy Helu rush for 7 yards to the FlaAtl0, TOUCHDOWN, clock 12:36." newcontext="H,1,0,V03">
+        <p_ru vh="H" name="Roy Helu" gain="7"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="0" spot="FlaAtl03" context="H,1,0,V03" playid="12,7,104" type="X" score="Y" text="Alex Henery kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Alex Henery" qb="Alex Henery" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="4" yards="33" top="2:24" driveindex="12" complete="Y"></drivesum>
+      <score V="3" H="28"></score>
+      <play hasball="Neb" down="1" togo="0" spot="Neb30" context="H,1,0,H30" playid="12,8,105" type="K" text="Neb kickoff to the FlaAtl0, Avionne Rolle return 25 yards to the FlaAtl25." newcontext="V,1,10,V25">
+        <p_kr vh="V" name="Avionne Rolle" gain="25"></p_kr>
+      </play>
+      <drivestart poss="V,V25,12:36" vh="V" spot="V25" clock="12:36" driveindex="13,105"></drivestart>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl25" context="V,1,10,V25" playid="13,1,106" clock="12:36" text="FLA ATLANTIC drive start at 12:36." newcontext="V,1,10,V25">
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl25" context="V,1,10,V25" playid="13,2,107" type="R" clock="12:36" text="Alfred Morris rush for 4 yards to the FlaAtl29, clock 12:36." newcontext="V,2,6,V29">
+        <p_ru vh="V" name="Alfred Morris" gain="4"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="6" spot="FlaAtl29" context="V,2,6,V29" playid="13,3,108" type="P" clock="12:36" text="Rusty Smith pass complete to Jamari Grant for 1 yard to the FlaAtl30, clock 12:36." newcontext="V,3,5,V30">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Jamari Grant" gain="1"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="5" spot="FlaAtl30" context="V,3,5,V30" playid="13,4,109" type="P" first="P" clock="12:36" text="Rusty Smith pass complete to Cortez Gent for 8 yards to the FlaAtl38, 1ST DOWN FlaAtl, clock 12:36." newcontext="V,1,10,V38">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Cortez Gent" gain="8"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl38" context="V,1,10,V38" playid="13,5,110" type="R" first="E" clock="12:36" text="Alfred Morris rush for 1 yard to the FlaAtl39, PENALTY Neb 10 yards to the FlaAtl49, 1ST DOWN FlaAtl, clock 12:36." newcontext="V,1,10,V49">
+        <p_ru vh="V" name="Alfred Morris" gain="1"></p_ru>
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V39" yards="10"></p_pn>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl49" context="V,1,10,V49" playid="13,6,111" type="E" clock="12:36" text="PENALTY FlaAtl 5 yards to the FlaAtl44, clock 12:36." newcontext="V,1,15,V44">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V49" yards="5"></p_pn>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="15" spot="FlaAtl44" context="V,1,15,V44" playid="13,7,112" type="R" clock="12:36" text="Willie Rose rush for 2 yards to the FlaAtl46, clock 12:36." newcontext="V,2,13,V46">
+        <p_ru vh="V" name="Willie Rose" gain="2"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="13" spot="FlaAtl46" context="V,2,13,V46" playid="13,8,113" type="P" turnover="I" text="Rusty Smith pass intercepted by Matt O'Hanlon at the FlaAtl46, Matt O'Hanlon return -17 yards to the Neb37." newcontext="H,1,10,H37">
+        <p_pa vh="V" qb="Rusty Smith" result="INT"></p_pa>
+        <p_ir vh="H" name="Matt O'Hanlon" at="V46" gain="-17"></p_ir>
+      </play>
+      <drivesum plays="6" yards="21" top="0:00" driveindex="13" complete="Y"></drivesum>
+      <drivestart poss="H,H31,12:36" vh="H" spot="H31" clock="12:36" driveindex="14,113"></drivestart>
+      <play hasball="Neb" down="1" togo="10" spot="Neb31" context="H,1,10,H31" playid="14,1,114" clock="12:36" text="NEBRASKA drive start at 12:36." newcontext="H,1,10,H31">
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb31" context="H,1,10,H31" playid="14,2,115" type="P" first="P" clock="12:36" text="Zac Lee pass complete to Mike McNeill for 11 yards to the Neb42, 1ST DOWN Neb, clock 12:36." newcontext="H,1,10,H42">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Mike McNeill" gain="11"></p_pa>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb42" context="H,1,10,H42" playid="14,3,116" type="R" clock="12:36" text="Roy Helu rush for 2 yards to the Neb44, clock 12:36." newcontext="H,2,8,H44">
+        <p_ru vh="H" name="Roy Helu" gain="2"></p_ru>
+      </play>
+      <play hasball="Neb" down="2" togo="8" spot="Neb44" context="H,2,8,H44" playid="14,4,117" type="P" first="P" clock="12:36" text="Zac Lee pass complete to Menelik Holt for 12 yards to the FlaAtl44, 1ST DOWN Neb, clock 12:36." newcontext="H,1,10,V44">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Menelik Holt" gain="12"></p_pa>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="FlaAtl44" context="H,1,10,V44" playid="14,5,118" type="R" score="Y" clock="07:36" text="Roy Helu rush for 44 yards to the FlaAtl0, TOUCHDOWN, clock 07:36." newcontext="H,1,0,V03">
+        <p_ru vh="H" name="Roy Helu" gain="44"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="0" spot="FlaAtl03" context="H,1,0,V03" playid="14,6,119" type="X" score="Y" text="Alex Henery kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Alex Henery" qb="Alex Henery" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="4" yards="69" top="5:00" driveindex="14" complete="Y"></drivesum>
+      <score V="3" H="35"></score>
+      <play hasball="Neb" down="1" togo="0" spot="Neb30" context="H,1,0,H30" playid="14,7,120" type="K" text="Neb kickoff to the FlaAtl5." newcontext="V,1,10,V05">
+      </play>
+      <drivestart poss="V,V05,07:36" vh="V" spot="V05" clock="07:36" driveindex="15,120"></drivestart>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl05" context="V,1,10,V05" playid="15,1,121" clock="07:36" text="FLA ATLANTIC drive start at 07:36." newcontext="V,1,10,V05">
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl05" context="V,1,10,V05" playid="15,2,122" type="R" clock="07:36" text="Alfred Morris rush for 1 yard to the FlaAtl6, clock 07:36." newcontext="V,2,9,V06">
+        <p_ru vh="V" name="Alfred Morris" gain="1"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="9" spot="FlaAtl06" context="V,2,9,V06" playid="15,3,123" type="P" first="P" clock="07:36" text="Rusty Smith pass complete to Cortez Gent for 27 yards to the FlaAtl33, 1ST DOWN FlaAtl, clock 07:36." newcontext="V,1,10,V33">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Cortez Gent" gain="27"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl33" context="V,1,10,V33" playid="15,4,124" type="R" clock="07:36" text="Alfred Morris rush for 6 yards to the FlaAtl39, clock 07:36." newcontext="V,2,4,V39">
+        <p_ru vh="V" name="Alfred Morris" gain="6"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="4" spot="FlaAtl39" context="V,2,4,V39" playid="15,5,125" type="R" first="R" clock="07:36" text="Alfred Morris rush for 8 yards to the FlaAtl47, 1ST DOWN FlaAtl, clock 07:36." newcontext="V,1,10,V47">
+        <p_ru vh="V" name="Alfred Morris" gain="8"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl47" context="V,1,10,V47" playid="15,6,126" type="P" clock="07:36" text="Rusty Smith pass incomplete, clock 07:36." newcontext="V,2,10,V47">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="10" spot="FlaAtl47" context="V,2,10,V47" playid="15,7,127" type="R" clock="07:36" text="Alfred Morris rush for 3 yards to the 50 yardline, clock 07:36." newcontext="V,3,7,V50">
+        <p_ru vh="V" name="Alfred Morris" gain="3"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="7" spot="FlaAtl50" context="V,3,7,V50" playid="15,8,128" type="P" first="P" clock="07:36" text="Rusty Smith pass complete to Jamari Grant for 8 yards to the Neb42, 1ST DOWN FlaAtl, clock 07:36." newcontext="V,1,10,H42">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Jamari Grant" gain="8"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="Neb42" context="V,1,10,H42" playid="15,9,129" type="R" clock="07:36" text="Willie Rose rush for 2 yards to the Neb40, clock 07:36." newcontext="V,2,8,H40">
+        <p_ru vh="V" name="Willie Rose" gain="2"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="8" spot="Neb40" context="V,2,8,H40" playid="15,10,130" type="R" turnover="F" clock="07:36" text="Rusty Smith rush for loss of 11 yards to the FlaAtl49, fumble by Rusty Smith recovered by Neb at FlaAtl49, clock 07:36." newcontext="H,1,10,V49">
+        <p_ru vh="V" name="Rusty Smith" gain="-11"></p_ru>
+        <p_fumb vh="V" name="Rusty Smith" at="H40" frvh="H" frname="TEAM"></p_fumb>
+      </play>
+      <drivesum plays="9" yards="44" top="0:00" driveindex="15" complete="Y"></drivesum>
+      <drivestart poss="H,H46,07:36" vh="H" spot="H46" clock="07:36" driveindex="16,130"></drivestart>
+      <play hasball="Neb" down="1" togo="10" spot="Neb46" context="H,1,10,H46" playid="16,1,131" clock="07:36" text="NEBRASKA drive start at 07:36." newcontext="H,1,10,H46">
+      </play>
+      <play hasball="Neb" down="2" togo="8" spot="FlaAtl40" context="H,2,8,V40" playid="16,2,132" type="E" clock="07:36" text="PENALTY Neb 5 yards to the FlaAtl45, clock 07:36." newcontext="H,2,13,V45">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V40" yards="5"></p_pn>
+      </play>
+      <play hasball="Neb" down="1" togo="15" spot="Neb46" context="H,1,15,H46" playid="16,3,133" type="P" clock="07:36" text="Zac Lee pass complete to Curenski Gilleylen for 5 yards to the FlaAtl49, clock 07:36." newcontext="H,2,10,V49">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Curenski Gilleylen" gain="5"></p_pa>
+      </play>
+      <play hasball="Neb" down="2" togo="10" spot="FlaAtl49" context="H,2,10,V49" playid="16,4,134" type="P" clock="07:36" text="Zac Lee pass incomplete, clock 07:36." newcontext="H,3,10,V49">
+        <p_pa vh="H" qb="Zac Lee" result="INC"></p_pa>
+      </play>
+      <play hasball="Neb" down="3" togo="10" spot="FlaAtl49" context="H,3,10,V49" playid="16,5,135" type="P" turnover="I" text="Zac Lee pass intercepted by Tarvoris Hill at the FlaAtl49, Tarvoris Hill return 0 yards to the FlaAtl49." newcontext="V,1,10,V49">
+        <p_pa vh="H" qb="Zac Lee" result="INT"></p_pa>
+        <p_ir vh="V" name="Tarvoris Hill" at="V49" gain="0"></p_ir>
+      </play>
+      <drivesum plays="3" yards="0" top="0:00" driveindex="16" complete="Y"></drivesum>
+      <drivestart poss="V,V36,07:36" vh="V" spot="V36" clock="07:36" driveindex="17,135"></drivestart>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl36" context="V,1,10,V36" playid="17,1,136" clock="07:36" text="FLA ATLANTIC drive start at 07:36." newcontext="V,1,10,V36">
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl36" context="V,1,10,V36" playid="17,2,137" type="P" first="P" clock="02:55" text="Rusty Smith pass complete to Darian Williams for 18 yards to the Neb46, 1ST DOWN FlaAtl, clock 02:55." newcontext="V,1,10,H46">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Darian Williams" gain="18"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="Neb46" context="V,1,10,H46" playid="17,3,138" type="P" clock="02:55" text="Rusty Smith pass complete to Jamari Grant for 6 yards to the Neb40, clock 02:55." newcontext="V,2,4,H40">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Jamari Grant" gain="6"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="4" spot="FlaAtl50" context="V,2,4,V50" playid="17,4,139" type="P" clock="02:55" text="Rusty Smith pass incomplete, clock 02:55." newcontext="V,3,4,V50">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="4" spot="FlaAtl50" context="V,3,4,V50" playid="17,5,140" type="P" turnover="I" text="Rusty Smith pass intercepted by Prince Amukamara at the 50 yardline, Prince Amukamara return 0 yards to the 50 yardline." newcontext="H,1,10,H50">
+        <p_pa vh="V" qb="Rusty Smith" result="INT"></p_pa>
+        <p_ir vh="H" name="Prince Amukamara" at="H50" gain="0"></p_ir>
+      </play>
+      <drivesum plays="4" yards="24" top="4:41" driveindex="17" complete="Y"></drivesum>
+      <drivestart poss="H,H45,02:55" vh="H" spot="H45" clock="02:55" driveindex="18,140"></drivestart>
+      <play hasball="Neb" down="1" togo="10" spot="Neb45" context="H,1,10,H45" playid="18,1,141" clock="02:55" text="NEBRASKA drive start at 02:55." newcontext="H,1,10,H45">
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb45" context="H,1,10,H45" playid="18,2,142" type="P" clock="02:55" text="Zac Lee pass complete to Niles Paul for 7 yards to the FlaAtl48, clock 02:55." newcontext="H,2,3,V48">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Niles Paul" gain="7"></p_pa>
+      </play>
+      <play hasball="Neb" down="2" togo="3" spot="FlaAtl48" context="H,2,3,V48" playid="18,3,143" type="R" first="R" clock="02:55" text="Matt O'Hanlon rush for 9 yards to the FlaAtl39, 1ST DOWN Neb, clock 02:55." newcontext="H,1,10,V39">
+        <p_ru vh="H" name="Matt O'Hanlon" gain="9"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="FlaAtl39" context="H,1,10,V39" playid="18,4,144" type="P" first="P" clock="02:55" text="Zac Lee pass complete to Curenski Gilleylen for 26 yards to the FlaAtl13, 1ST DOWN Neb, clock 02:55." newcontext="H,1,10,V13">
+        <p_pa vh="H" qb="Zac Lee" result="COMP" rcv="Curenski Gilleylen" gain="26"></p_pa>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="FlaAtl13" context="H,1,10,V13" playid="18,5,145" type="E" clock="02:55" text="PENALTY FlaAtl 5 yards to the FlaAtl8, clock 02:55." newcontext="H,1,5,V08">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V13" yards="5"></p_pn>
+      </play>
+      <play hasball="Neb" down="1" togo="5" spot="FlaAtl08" context="H,1,5,V08" playid="18,6,146" type="R" score="Y" clock="00:00" text="Rex Burkhead rush for 8 yards to the FlaAtl0, TOUCHDOWN, clock 00:00." newcontext="H,1,0,V03">
+        <p_ru vh="H" name="Rex Burkhead" gain="8"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="0" spot="FlaAtl03" context="H,1,0,V03" playid="18,7,147" type="X" score="Y" text="Alex Henery kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Alex Henery" qb="Alex Henery" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <score qtr="3" V="3" H="42"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="FlaAtl">
+        <firstdowns no="6" rush="1" pass="4" penalty="1"></firstdowns>
+        <penalties no="3" yds="15"></penalties>
+        <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="1" lost="1"></fumbles>
+        <misc yds="" top="04:41"></misc>
+        <rush att="9" yds="16" gain="27" loss="11" td="0" long="8"></rush>
+        <pass comp="6" att="10" int="2" yds="68" td="0" long="27" sacks="0" sackyds="0"></pass>
+        <rcv no="6" yds="68" td="0" long="27"></rcv>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <defense sacks="0" sackyds="0" int="1" intyds="0"></defense>
+        <kr no="2" yds="25" td="0" long="25"></kr>
+        <ir no="1" yds="0" td="0" long="0"></ir>
+      </qtrsummary>
+      <qtrsummary vh="H" id="Neb">
+        <firstdowns no="8" rush="5" pass="3" penalty="0"></firstdowns>
+        <penalties no="3" yds="20"></penalties>
+        <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="10:19"></misc>
+        <rush att="8" yds="96" gain="111" loss="15" td="3" long="44"></rush>
+        <pass comp="5" att="7" int="1" yds="61" td="0" long="26" sacks="0" sackyds="0"></pass>
+        <rcv no="5" yds="61" td="0" long="26"></rcv>
+        <ko no="2" yds="" ob="" tb=""></ko>
+        <pat kickatt="3" kickmade="3"></pat>
+        <defense sacks="0" sackyds="0" fr="1" fryds="0" int="2" intyds="-17"></defense>
+        <kr no="1" yds="31" td="0" long="31"></kr>
+        <ir no="2" yds="-17" td="0" long="0"></ir>
+        <scoring td="3" patkick="3"></scoring>
+      </qtrsummary>
+    </qtr>
+    <qtr number="4" text="4th">
+      <play hasball="Neb" down="1" togo="0" spot="Neb30" context="H,1,0,H30" playid="18,8,148" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,1,0,H30">
+      </play>
+      <drivesum plays="4" yards="55" top="2:55" driveindex="18" complete="Y"></drivesum>
+      <score V="3" H="42"></score>
+      <play hasball="Neb" down="1" togo="0" spot="Neb30" context="H,1,0,H30" playid="18,9,149" type="K" text="Neb kickoff to the FlaAtl17." newcontext="V,1,10,V17">
+      </play>
+      <drivestart poss="V,V17,15:00" vh="V" spot="V17" clock="15:00" driveindex="19,149"></drivestart>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl17" context="V,1,10,V17" playid="19,1,150" clock="15:00" text="FLA ATLANTIC drive start at 15:00." newcontext="V,1,10,V17">
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl17" context="V,1,10,V17" playid="19,2,151" type="R" clock="15:00" text="Alfred Morris rush for 2 yards to the FlaAtl19, fumble by Alfred Morris recovered by FlaAtl Chris Bonner at FlaAtl15, clock 15:00." newcontext="V,2,11,V15">
+        <p_ru vh="V" name="Alfred Morris" gain="2"></p_ru>
+        <p_fumb vh="V" name="Alfred Morris" at="V17" frvh="V" frname="Chris Bonner"></p_fumb>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="11" spot="FlaAtl15" context="V,2,11,V15" playid="19,3,152" type="P" clock="15:00" text="Rusty Smith pass complete to Chris Bonner for 10 yards to the FlaAtl25, clock 15:00." newcontext="V,3,1,V25">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Chris Bonner" gain="10"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="1" spot="FlaAtl25" context="V,3,1,V25" playid="19,4,153" type="R" first="R" clock="15:00" text="Alfred Morris rush for 23 yards to the FlaAtl48, 1ST DOWN FlaAtl, clock 15:00." newcontext="V,1,10,V48">
+        <p_ru vh="V" name="Alfred Morris" gain="23"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl48" context="V,1,10,V48" playid="19,5,154" type="P" first="P" clock="15:00" text="Rusty Smith pass complete to Jamari Grant for 15 yards to the Neb37, 1ST DOWN FlaAtl, clock 15:00." newcontext="V,1,10,H37">
+        <p_pa vh="V" qb="Rusty Smith" result="COMP" rcv="Jamari Grant" gain="15"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="Neb37" context="V,1,10,H37" playid="19,6,155" type="R" clock="15:00" text="Alfred Morris rush for 5 yards to the Neb32, clock 15:00." newcontext="V,2,5,H32">
+        <p_ru vh="V" name="Alfred Morris" gain="5"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="5" spot="Neb32" context="V,2,5,H32" playid="19,7,156" type="P" clock="15:00" text="Rusty Smith pass incomplete, clock 15:00." newcontext="V,3,5,H32">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="5" spot="Neb32" context="V,3,5,H32" playid="19,8,157" type="P" clock="15:00" text="Rusty Smith pass incomplete, clock 15:00." newcontext="V,4,5,H32">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="4" togo="5" spot="Neb32" context="V,4,5,H32" playid="19,9,158" type="P" clock="15:00" text="Rusty Smith pass incomplete, clock 15:00." newcontext="H,1,10,H32">
+        <p_pa vh="V" qb="Rusty Smith" result="INC"></p_pa>
+      </play>
+      <drivesum plays="9" yards="55" top="0:00" driveindex="19" complete="Y"></drivesum>
+      <drivestart poss="H,H32,15:00" vh="H" spot="H32" clock="15:00" driveindex="20,158"></drivestart>
+      <play hasball="Neb" down="1" togo="10" spot="Neb32" context="H,1,10,H32" playid="20,1,159" clock="15:00" text="NEBRASKA drive start at 15:00." newcontext="H,1,10,H32">
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb32" context="H,1,10,H32" playid="20,2,160" type="R" clock="15:00" text="Rex Burkhead rush for 6 yards to the Neb38, clock 15:00." newcontext="H,2,4,H38">
+        <p_ru vh="H" name="Rex Burkhead" gain="6"></p_ru>
+      </play>
+      <play hasball="Neb" down="2" togo="4" spot="Neb38" context="H,2,4,H38" playid="20,3,161" type="P" clock="15:00" text="Cody Green pass complete to Ben Cotton for 3 yards to the Neb41, clock 15:00." newcontext="H,3,1,H41">
+        <p_pa vh="H" qb="Cody Green" result="COMP" rcv="Ben Cotton" gain="3"></p_pa>
+      </play>
+      <play hasball="Neb" down="3" togo="1" spot="Neb41" context="H,3,1,H41" playid="20,4,162" type="P" clock="15:00" text="Cody Green pass incomplete, clock 15:00." newcontext="H,4,1,H41">
+        <p_pa vh="H" qb="Cody Green" result="INC"></p_pa>
+      </play>
+      <play hasball="Neb" down="4" togo="1" spot="Neb41" context="H,4,1,H41" playid="20,5,163" type="E" clock="15:00" text="PENALTY Neb 5 yards to the Neb36, clock 15:00." newcontext="H,4,6,H36">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="H41" yards="5"></p_pn>
+      </play>
+      <play hasball="Neb" down="4" togo="6" spot="Neb36" context="H,4,6,H36" playid="20,6,164" type="U" text="Alex Henery punt 16 yards to the FlaAtl48, Tavious Polo return 0 yards to the FlaAtl48." newcontext="V,1,10,V48">
+        <p_pu vh="H" name="Alex Henery" gain="16"></p_pu>
+        <p_pr vh="V" name="Tavious Polo" gain="0"></p_pr>
+      </play>
+      <drivesum plays="3" yards="4" top="0:00" driveindex="20" complete="Y"></drivesum>
+      <drivestart poss="V,V48,15:00" vh="V" spot="V48" clock="15:00" driveindex="21,164"></drivestart>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl48" context="V,1,10,V48" playid="21,1,165" clock="15:00" text="FLA ATLANTIC drive start at 15:00." newcontext="V,1,10,V48">
+      </play>
+      <play hasball="FlaAtl" down="1" togo="10" spot="FlaAtl48" context="V,1,10,V48" playid="21,2,166" type="R" clock="15:00" text="Avionne Rolle rush for 3 yards to the Neb49, clock 15:00." newcontext="V,2,7,H49">
+        <p_ru vh="V" name="Avionne Rolle" gain="3"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="2" togo="7" spot="Neb49" context="V,2,7,H49" playid="21,3,167" type="R" clock="15:00" text="Avionne Rolle rush for loss of 1 yard to the 50 yardline, clock 15:00." newcontext="V,3,8,V50">
+        <p_ru vh="V" name="Avionne Rolle" gain="-1"></p_ru>
+      </play>
+      <play hasball="FlaAtl" down="3" togo="8" spot="FlaAtl50" context="V,3,8,V50" playid="21,4,168" type="P" clock="15:00" text="Jeff Van Camp pass incomplete, clock 15:00." newcontext="V,4,8,V50">
+        <p_pa vh="V" qb="Jeff Van Camp" result="INC"></p_pa>
+      </play>
+      <play hasball="FlaAtl" down="4" togo="8" spot="FlaAtl50" context="V,4,8,V50" playid="21,5,169" type="U" text="Mickey Groody punt 50 yards to the Neb0, touchback." newcontext="H,1,10,H20">
+        <p_pu vh="V" name="Mickey Groody" gain="50" tb="Y"></p_pu>
+      </play>
+      <drivesum plays="3" yards="2" top="0:00" driveindex="21" complete="Y"></drivesum>
+      <drivestart poss="H,H20,15:00" vh="H" spot="H20" clock="15:00" driveindex="22,169"></drivestart>
+      <play hasball="Neb" down="1" togo="10" spot="Neb20" context="H,1,10,H20" playid="22,1,170" clock="15:00" text="NEBRASKA drive start at 15:00." newcontext="H,1,10,H20">
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb20" context="H,1,10,H20" playid="22,2,171" type="P" first="P" clock="15:00" text="Cody Green pass complete to Chris Brooks for 15 yards to the Neb35, 1ST DOWN Neb, clock 15:00." newcontext="H,1,10,H35">
+        <p_pa vh="H" qb="Cody Green" result="COMP" rcv="Chris Brooks" gain="15"></p_pa>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="Neb35" context="H,1,10,H35" playid="22,3,172" type="R" first="R" clock="15:00" text="Cody Green rush for 49 yards to the FlaAtl16, 1ST DOWN Neb, clock 15:00." newcontext="H,1,10,V16">
+        <p_ru vh="H" name="Cody Green" gain="49"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="FlaAtl16" context="H,1,10,V16" playid="22,4,173" type="#" clock="08:29" text="Timeout NEBRASKA, clock 08:29." newcontext="H,1,10,V16">
+        <p_to vh="H" team="NEBRASKA"></p_to>
+      </play>
+      <play hasball="Neb" down="1" togo="10" spot="FlaAtl16" context="H,1,10,V16" playid="22,5,174" type="R" clock="08:29" text="Rex Burkhead rush for no gain to the FlaAtl16, PENALTY FlaAtl 8 yards to the FlaAtl8, clock 08:29." newcontext="H,2,2,V08">
+        <p_ru vh="H" name="Rex Burkhead" gain="0"></p_ru>
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V16" yards="8"></p_pn>
+      </play>
+      <play hasball="Neb" down="1" togo="2" spot="FlaAtl08" context="H,1,2,V08" playid="22,6,175" type="R" first="R" clock="08:29" text="Rex Burkhead rush for 5 yards to the FlaAtl3, 1ST DOWN Neb, clock 08:29." newcontext="H,1,0,V03">
+        <p_ru vh="H" name="Rex Burkhead" gain="5"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="0" spot="FlaAtl03" context="H,1,0,V03" playid="22,7,176" type="R" clock="08:29" text="Rex Burkhead rush for 2 yards to the FlaAtl1, clock 08:29." newcontext="H,2,0,V01">
+        <p_ru vh="H" name="Rex Burkhead" gain="2"></p_ru>
+      </play>
+      <play hasball="Neb" down="2" togo="0" spot="FlaAtl01" context="H,2,0,V01" playid="22,8,177" type="R" clock="08:29" text="Rex Burkhead rush for no gain to the FlaAtl1, clock 08:29." newcontext="H,3,0,V01">
+        <p_ru vh="H" name="Rex Burkhead" gain="0"></p_ru>
+      </play>
+      <play hasball="Neb" down="3" togo="0" spot="FlaAtl01" context="H,3,0,V01" playid="22,9,178" type="R" score="Y" clock="06:03" text="Cody Green rush for 1 yard to the FlaAtl0, TOUCHDOWN, clock 06:03." newcontext="H,1,0,V03">
+        <p_ru vh="H" name="Cody Green" gain="1"></p_ru>
+      </play>
+      <play hasball="Neb" down="1" togo="0" spot="FlaAtl03" context="H,1,0,V03" playid="22,10,179" type="X" score="Y" text="Alex Henery kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Alex Henery" qb="Alex Henery" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <score qtr="4" V="3" H="49"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="FlaAtl">
+        <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+        <penalties no="1" yds="8"></penalties>
+        <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+        <fumbles no="1" lost="0"></fumbles>
+        <misc yds="" top="00:00"></misc>
+        <rush att="5" yds="32" gain="33" loss="1" td="0" long="23"></rush>
+        <pass comp="2" att="6" int="0" yds="25" td="0" long="15" sacks="0" sackyds="0"></pass>
+        <rcv no="2" yds="25" td="0" long="15"></rcv>
+        <punt no="1" yds="50" long="50" blkd="0" tb="1" fc="" plus50="1" inside20="0" avg="50.0"></punt>
+        <kr no="1" yds="0" td="0" long="0"></kr>
+        <pr no="1" yds="0" td="0" long="0"></pr>
+      </qtrsummary>
+      <qtrsummary vh="H" id="Neb">
+        <firstdowns no="4" rush="3" pass="1" penalty="0"></firstdowns>
+        <penalties no="1" yds="5"></penalties>
+        <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="08:57"></misc>
+        <rush att="7" yds="63" gain="63" loss="0" td="1" long="49"></rush>
+        <pass comp="2" att="3" int="0" yds="18" td="0" long="15" sacks="0" sackyds="0"></pass>
+        <rcv no="2" yds="18" td="0" long="15"></rcv>
+        <punt no="1" yds="16" long="16" blkd="0" tb="0" fc="" plus50="0" inside20="0" avg="16.0"></punt>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <pat kickatt="1" kickmade="1"></pat>
+        <scoring td="1" patkick="1"></scoring>
+      </qtrsummary>
+    </qtr>
+    <downtogo hasball="H" id="Neb" down="1" togo="0" spot="Neb30" qtr="4" clock="06:03" lastplay="Alex Henery kick attempt good." final="N" halftime="N" vtor="3" htor="2" dtgtext="Neb - 1st and G on Neb 30" ldtext="Drive started: 15:00, 4th Qtr"></downtogo>
+  </plays>

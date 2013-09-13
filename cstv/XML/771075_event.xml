@@ -1,0 +1,861 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="YSU" down="1" togo="10" spot="YSU30" context="V,1,10,V30" playid="0,1,0" text="Pitt wins toss will defer to second half, YSU will receive." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU30" context="V,1,10,V30" playid="0,2,1" text="PITT ball on PITT30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="PITT30" context="H,1,10,H30" playid="0,3,2" type="K" text="BRIGGS,Luke kickoff 70 yards to the YSU0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="BRIGGS,Luke" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,15:00" vh="V" spot="V20" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="YSU" down="1" togo="10" spot="YSU20" context="V,1,10,V20" playid="1,1,3" type="R" text="Smith, Kevin rush for 4 yards to the YSU24 (SHEARD,Jabaal;GUNN,Adam)." newcontext="V,2,6,V24">
+    <p_ru vh="V" name="Smith, Kevin" gain="4"></p_ru>
+    <p_tk vh="H" name="SHEARD,Jabaal" assist="Y"></p_tk>
+    <p_tk vh="H" name="GUNN,Adam" assist="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="6" spot="YSU24" context="V,2,6,V24" playid="1,2,4" type="P" text="Summers, B. pass incomplete." newcontext="V,3,6,V24">
+    <p_pa vh="V" qb="Summers, B." result="INC"></p_pa>
+   </play>
+   <play hasball="YSU" down="3" togo="6" spot="YSU24" context="V,3,6,V24" playid="1,3,5" type="P" text="Summers, B. pass complete to Jones, Donald for 4 yards to the YSU28 (CHAPPEL,Jovani;GRUDER,Max), QB hurry by WILLIAMS,Mick." newcontext="V,4,2,V28">
+    <p_pa vh="V" qb="Summers, B." result="COMP" rcv="Jones, Donald" gain="4"></p_pa>
+    <p_tk vh="H" name="CHAPPEL,Jovani" assist="Y"></p_tk>
+    <p_tk vh="H" name="GRUDER,Max" assist="Y"></p_tk>
+    <p_qbh vh="H" name="WILLIAMS,Mick"></p_qbh>
+   </play>
+   <play hasball="YSU" down="4" togo="2" spot="YSU28" context="V,4,2,V28" playid="1,4,6" type="U" text="Nowicki, Ben punt 49 yards to the PITT23, SMITH,Aaron return 8 yards to the PITT31 (Tate, Deonta), PENALTY YSU illegal formation 5 yards to the PITT36, 1st and 10, PITT ball on PITT36." newcontext="H,1,10,H36">
+    <p_pu vh="V" name="Nowicki, Ben" gain="49"></p_pu>
+    <p_pr vh="H" name="SMITH,Aaron" gain="8"></p_pr>
+    <p_tk vh="V" name="Tate, Deonta"></p_tk>
+    <p_pn vh="V" code="FO" type="illegal formation" result="ACCEPT" at="H31" yards="5"></p_pn>
+   </play>
+   <drivesum plays="3" yards="8" top="1:34" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,H36,15:00" vh="H" spot="H36" clock="15:00" driveindex="2,6"></drivestart>
+   <play hasball="PITT" down="1" togo="10" spot="PITT36" context="H,1,10,H36" playid="2,1,7" clock="13:26" text="PITT drive start at 13:26." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="PITT36" context="H,1,10,H36" playid="2,2,8" type="R" text="LEWIS,DION rush for 4 yards to the PITT40 (Tate, Deonta)." newcontext="H,2,6,H40">
+    <p_ru vh="H" name="LEWIS,DION" gain="4"></p_ru>
+    <p_tk vh="V" name="Tate, Deonta"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="6" spot="PITT40" context="H,2,6,H40" playid="2,3,9" type="P" first="P" text="STULL,Bill pass complete to DICKERSON,Dorin for 6 yards to the PITT46, 1ST DOWN PITT (Hill, Taylor;Meadows, S.)." newcontext="H,1,10,H46">
+    <p_pa vh="H" qb="STULL,Bill" result="COMP" rcv="DICKERSON,Dorin" gain="6"></p_pa>
+    <p_tk vh="V" name="Hill, Taylor" assist="Y"></p_tk>
+    <p_tk vh="V" name="Meadows, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="PITT46" context="H,1,10,H46" playid="2,4,10" type="R" text="LEWIS,DION rush for 2 yards to the PITT48 (Savage, Mychal;Ross, Brandian)." newcontext="H,2,8,H48">
+    <p_ru vh="H" name="LEWIS,DION" gain="2"></p_ru>
+    <p_tk vh="V" name="Savage, Mychal" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ross, Brandian" assist="Y"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="8" spot="PITT48" context="H,2,8,H48" playid="2,5,11" type="P" text="STULL,Bill pass incomplete to BALDWIN,J.." newcontext="H,3,8,H48">
+    <p_pa vh="H" qb="STULL,Bill" result="INC" rcv="BALDWIN,J."></p_pa>
+   </play>
+   <play hasball="PITT" down="3" togo="8" spot="PITT48" context="H,3,8,H48" playid="2,6,12" type="P" text="STULL,Bill pass incomplete to McGEE,Cedric." newcontext="H,4,8,H48">
+    <p_pa vh="H" qb="STULL,Bill" result="INC" rcv="McGEE,Cedric"></p_pa>
+   </play>
+   <play hasball="PITT" down="4" togo="8" spot="PITT48" context="H,4,8,H48" playid="2,7,13" type="U" text="HUTCHINS,Dan punt 42 yards to the YSU10, downed." newcontext="V,1,10,V10">
+    <p_pu vh="H" name="HUTCHINS,Dan" gain="42" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="12" top="2:02" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,V10,13:26" vh="V" spot="V10" clock="13:26" driveindex="3,13"></drivestart>
+   <play hasball="YSU" down="1" togo="10" spot="YSU10" context="V,1,10,V10" playid="3,1,14" clock="11:24" text="YOUNGSTOWN STATE drive start at 11:24." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU10" context="V,1,10,V10" playid="3,2,15" type="R" text="Smith, Kevin rush for no gain to the YSU10 (ROMEUS,Greg)." newcontext="V,2,10,V10">
+    <p_ru vh="V" name="Smith, Kevin" gain="0"></p_ru>
+    <p_tk vh="H" name="ROMEUS,Greg"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="10" spot="YSU10" context="V,2,10,V10" playid="3,3,16" type="R" text="Smith, Kevin rush for loss of 5 yards to the YSU5 (WILLIAMS,Mick)." newcontext="V,3,15,V05">
+    <p_ru vh="V" name="Smith, Kevin" gain="-5"></p_ru>
+    <p_tk vh="H" name="WILLIAMS,Mick" tfl="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="3" togo="15" spot="YSU05" context="V,3,15,V05" playid="3,4,17" type="R" text="Smith, Kevin rush for 1 yard to the YSU6 (SHEARD,Jabaal)." newcontext="V,4,14,V06">
+    <p_ru vh="V" name="Smith, Kevin" gain="1"></p_ru>
+    <p_tk vh="H" name="SHEARD,Jabaal"></p_tk>
+   </play>
+   <play hasball="YSU" down="4" togo="14" spot="YSU06" context="V,4,14,V06" playid="3,5,18" type="U" text="Nowicki, Ben punt 43 yards to the YSU49, SMITH,Aaron return 8 yards to the YSU41 (Ross, Brandian)." newcontext="H,1,10,V41">
+    <p_pu vh="V" name="Nowicki, Ben" gain="43"></p_pu>
+    <p_pr vh="H" name="SMITH,Aaron" gain="8"></p_pr>
+    <p_tk vh="V" name="Ross, Brandian"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-4" top="2:07" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,V41,11:24" vh="H" spot="V41" clock="11:24" driveindex="4,18"></drivestart>
+   <play hasball="PITT" down="1" togo="10" spot="YSU41" context="H,1,10,V41" playid="4,1,19" clock="09:17" text="PITT drive start at 09:17." newcontext="H,1,10,V41">
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU41" context="H,1,10,V41" playid="4,2,20" type="R" first="R" text="LEWIS,DION rush for 10 yards to the YSU31, 1ST DOWN PITT (Hill, Taylor)." newcontext="H,1,10,V31">
+    <p_ru vh="H" name="LEWIS,DION" gain="10"></p_ru>
+    <p_tk vh="V" name="Hill, Taylor"></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU31" context="H,1,10,V31" playid="4,3,21" type="R" text="LEWIS,DION rush for 1 yard to the YSU30 (Fernandez, C.)." newcontext="H,2,9,V30">
+    <p_ru vh="H" name="LEWIS,DION" gain="1"></p_ru>
+    <p_tk vh="V" name="Fernandez, C."></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="9" spot="YSU30" context="H,2,9,V30" playid="4,4,22" type="P" first="P" text="STULL,Bill pass complete to TURNER,Oderick for 14 yards to the YSU16, 1ST DOWN PITT (Louis, Randy)." newcontext="H,1,10,V16">
+    <p_pa vh="H" qb="STULL,Bill" result="COMP" rcv="TURNER,Oderick" gain="14"></p_pa>
+    <p_tk vh="V" name="Louis, Randy"></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU16" context="H,1,10,V16" playid="4,5,23" type="R" first="R" score="Y" clock="07:31" text="LEWIS,DION rush for 16 yards to the YSU0, 1ST DOWN PITT, TOUCHDOWN, clock 07:31." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="LEWIS,DION" gain="16"></p_ru>
+   </play>
+   <play hasball="PITT" down="1" togo="0" spot="YSU03" context="H,1,0,V03" playid="4,6,24" type="X" score="Y" text="HUTCHINS,Dan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="HUTCHINS,Dan" qb="HUTCHINS,Dan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="4" yards="41" top="1:46" driveindex="4" complete="Y"></drivesum>
+   <play hasball="PITT" down="1" togo="0" spot="PITT30" context="H,1,0,H30" playid="4,7,25" type="K" text="BRIGGS,Luke kickoff 70 yards to the YSU0, Barnes, D. return 19 yards to the YSU19 (CAFARO,Dan)." newcontext="V,1,10,V19">
+    <p_ko vh="H" name="BRIGGS,Luke" gain="70"></p_ko>
+    <p_kr vh="V" name="Barnes, D." gain="19"></p_kr>
+    <p_tk vh="H" name="CAFARO,Dan"></p_tk>
+   </play>
+   <drivestart poss="V,V19,07:31" vh="V" spot="V19" clock="07:31" driveindex="5,25"></drivestart>
+   <play hasball="YSU" down="1" togo="10" spot="YSU19" context="V,1,10,V19" playid="5,1,26" clock="07:31" text="YOUNGSTOWN STATE drive start at 07:31." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU19" context="V,1,10,V19" playid="5,2,27" type="P" text="Summers, B. pass complete to Jones, Donald for 9 yards to the YSU28 (BERRY,Aaron)." newcontext="V,2,1,V28">
+    <p_pa vh="V" qb="Summers, B." result="COMP" rcv="Jones, Donald" gain="9"></p_pa>
+    <p_tk vh="H" name="BERRY,Aaron"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="1" spot="YSU28" context="V,2,1,V28" playid="5,3,28" type="P" text="Summers, B. pass incomplete to Jones, Donald." newcontext="V,3,1,V28">
+    <p_pa vh="V" qb="Summers, B." result="INC" rcv="Jones, Donald"></p_pa>
+   </play>
+   <play hasball="YSU" down="3" togo="1" spot="YSU28" context="V,3,1,V28" playid="5,4,29" type="R" first="R" text="Smith, Kevin rush for 7 yards to the YSU35, 1ST DOWN YSU (TAGLIANETTI,A.)." newcontext="V,1,10,V35">
+    <p_ru vh="V" name="Smith, Kevin" gain="7"></p_ru>
+    <p_tk vh="H" name="TAGLIANETTI,A."></p_tk>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU35" context="V,1,10,V35" playid="5,5,30" type="P" text="Summers, B. pass complete to Barnes, D. for 9 yards to the YSU44." newcontext="V,2,1,V44">
+    <p_pa vh="V" qb="Summers, B." result="COMP" rcv="Barnes, D." gain="9"></p_pa>
+   </play>
+   <play hasball="YSU" down="2" togo="1" spot="YSU44" context="V,2,1,V44" playid="5,6,31" type="E" text="PENALTY YSU false start 5 yards to the YSU39." newcontext="V,2,6,V39">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V44" yards="5"></p_pn>
+   </play>
+   <play hasball="YSU" down="2" togo="6" spot="YSU39" context="V,2,6,V39" playid="5,7,32" type="R" text="Smith, Kevin rush for 5 yards to the YSU44 (GUNN,Adam)." newcontext="V,3,1,V44">
+    <p_ru vh="V" name="Smith, Kevin" gain="5"></p_ru>
+    <p_tk vh="H" name="GUNN,Adam"></p_tk>
+   </play>
+   <play hasball="YSU" down="3" togo="1" spot="YSU44" context="V,3,1,V44" playid="5,8,33" type="P" first="P" text="Summers, B. pass complete to Cravens, James for 2 yards to the YSU46, 1ST DOWN YSU, out-of-bounds." ob="Y" newcontext="V,1,10,V46">
+    <p_pa vh="V" qb="Summers, B." result="COMP" rcv="Cravens, James" gain="2"></p_pa>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU46" context="V,1,10,V46" playid="5,9,34" type="P" text="Summers, B. pass complete to Jones, Donald for 9 yards to the PITT45 (BERRY,Aaron)." newcontext="V,2,1,H45">
+    <p_pa vh="V" qb="Summers, B." result="COMP" rcv="Jones, Donald" gain="9"></p_pa>
+    <p_tk vh="H" name="BERRY,Aaron"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="1" spot="PITT45" context="V,2,1,H45" playid="5,10,35" type="R" text="Smith, Kevin rush for no gain to the PITT45 (WILLIAMS,Mick)." newcontext="V,3,1,H45">
+    <p_ru vh="V" name="Smith, Kevin" gain="0"></p_ru>
+    <p_tk vh="H" name="WILLIAMS,Mick"></p_tk>
+   </play>
+   <play hasball="YSU" down="3" togo="1" spot="PITT45" context="V,3,1,H45" playid="5,11,36" type="R" first="R" text="Summers, B. rush for 2 yards to the PITT43, 1ST DOWN YSU (SHEARD,Jabaal;GRUDER,Max)." newcontext="V,1,10,H43">
+    <p_ru vh="V" name="Summers, B." gain="2"></p_ru>
+    <p_tk vh="H" name="SHEARD,Jabaal" assist="Y"></p_tk>
+    <p_tk vh="H" name="GRUDER,Max" assist="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="PITT43" context="V,1,10,H43" playid="5,12,37" type="P" text="Summers, B. pass incomplete to Barnes, D.." newcontext="V,2,10,H43">
+    <p_pa vh="V" qb="Summers, B." result="INC" rcv="Barnes, D."></p_pa>
+   </play>
+   <play hasball="YSU" down="2" togo="10" spot="PITT43" context="V,2,10,H43" playid="5,13,38" type="E" text="Summers, B. pass complete to Barnes, D. for no gain to the PITT43 (;LINDSEY,Brandon), PENALTY YSU holding (Gammon, Chris) 10 yards to the YSU47, NO PLAY." newcontext="V,2,20,V47">
+    <p_pn vh="V" code="HO" type="holding" name="Gammon, Chris" result="ACCEPT" at="H43" yards="10"></p_pn>
+   </play>
+   <play hasball="YSU" down="2" togo="20" spot="YSU47" context="V,2,20,V47" playid="5,14,39" type="R" text="Scott, Jabari rush for 3 yards to the 50 yardline (GUNN,Adam;ROMEUS,Greg)." newcontext="V,3,17,V50">
+    <p_ru vh="V" name="Scott, Jabari" gain="3"></p_ru>
+    <p_tk vh="H" name="GUNN,Adam" assist="Y"></p_tk>
+    <p_tk vh="H" name="ROMEUS,Greg" assist="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="3" togo="17" spot="YSU50" context="V,3,17,V50" playid="5,15,40" type="P" first="P" text="Summers, B. pass complete to Barnes, D. for 18 yards to the PITT32, 1ST DOWN YSU (GRUDER,Max)." newcontext="V,1,10,H32">
+    <p_pa vh="V" qb="Summers, B." result="COMP" rcv="Barnes, D." gain="18"></p_pa>
+    <p_tk vh="H" name="GRUDER,Max"></p_tk>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="PITT32" context="V,1,10,H32" playid="5,16,41" type="R" text="Scott, Jabari rush for 1 yard to the PITT31 (GRUDER,Max;LINDSEY,Brandon)." newcontext="V,2,9,H31">
+    <p_ru vh="V" name="Scott, Jabari" gain="1"></p_ru>
+    <p_tk vh="H" name="GRUDER,Max" assist="Y"></p_tk>
+    <p_tk vh="H" name="LINDSEY,Brandon" assist="Y"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="YSU">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="3" yds="20"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="11:12"></misc>
+    <rush att="10" yds="18" gain="23" loss="5" td="0" long="7"></rush>
+    <pass comp="6" att="9" int="0" yds="51" td="0" long="18" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="51" td="0" long="18"></rcv>
+    <punt no="2" yds="92" long="49" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="46.0"></punt>
+    <defense tackua="6" tacka="4" tot_tack="10" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="19" td="0" long="19"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="PITT">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="03:48"></misc>
+    <rush att="5" yds="33" gain="33" loss="0" td="1" long="16"></rush>
+    <pass comp="2" att="4" int="0" yds="20" td="0" long="14" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="20" td="0" long="14"></rcv>
+    <punt no="1" yds="42" long="42" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="42.0"></punt>
+    <ko no="2" yds="140" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="10" tot_tack="20" tflua="1" tfla="0" tflyds="5" sacks="0" sackyds="0" qbh="1"></defense>
+    <pr no="2" yds="16" td="0" long="8"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="YSU" down="2" togo="9" spot="PITT31" context="V,2,9,H31" playid="5,17,42" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,2,9,H31">
+   </play>
+   <play hasball="YSU" down="2" togo="9" spot="PITT31" context="V,2,9,H31" playid="5,18,43" type="P" text="Summers, B. pass incomplete to Pitts, Aaron." newcontext="V,3,9,H31">
+    <p_pa vh="V" qb="Summers, B." result="INC" rcv="Pitts, Aaron"></p_pa>
+   </play>
+   <play hasball="YSU" down="3" togo="9" spot="PITT31" context="V,3,9,H31" playid="5,19,44" type="P" text="Summers, B. sacked for no gain to the PITT31 (WILLIAMS,Mick)." newcontext="V,4,9,H31">
+    <p_pa vh="V" qb="Summers, B." result="SACK" gain="0"></p_pa>
+    <p_tk vh="H" name="WILLIAMS,Mick" sack="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="4" togo="9" spot="PITT31" context="V,4,9,H31" playid="5,20,45" type="F" score="Y" clock="14:04" text="Blose, Stephen field goal attempt from 48 GOOD, clock 14:04." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Blose, Stephen" distance="48" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="7"></score>
+   <drivesum plays="16" yards="50" top="8:27" driveindex="5" complete="Y"></drivesum>
+   <play hasball="YSU" down="1" togo="0" spot="YSU30" context="V,1,0,V30" playid="5,21,46" type="K" text="Blose, Stephen kickoff 70 yards to the PITT0, SADDLER,Cameron return 37 yards to the PITT37 (Elliott, Andre)." newcontext="H,1,10,H37">
+    <p_ko vh="V" name="Blose, Stephen" gain="70"></p_ko>
+    <p_kr vh="H" name="SADDLER,Cameron" gain="37"></p_kr>
+    <p_tk vh="V" name="Elliott, Andre"></p_tk>
+   </play>
+   <drivestart poss="H,H37,14:04" vh="H" spot="H37" clock="14:04" driveindex="6,46"></drivestart>
+   <play hasball="PITT" down="1" togo="10" spot="PITT37" context="H,1,10,H37" playid="6,1,47" clock="14:04" text="PITT drive start at 14:04." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="PITT37" context="H,1,10,H37" playid="6,2,48" type="R" text="LEWIS,DION rush for 4 yards to the PITT41 (Louis, Randy)." newcontext="H,2,6,H41">
+    <p_ru vh="H" name="LEWIS,DION" gain="4"></p_ru>
+    <p_tk vh="V" name="Louis, Randy"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="6" spot="PITT41" context="H,2,6,H41" playid="6,3,49" type="P" text="STULL,Bill pass complete to DICKERSON,Dorin for 5 yards to the PITT46 (Ross, Brandian), QB hurry by Tate, Deonta." newcontext="H,3,1,H46">
+    <p_pa vh="H" qb="STULL,Bill" result="COMP" rcv="DICKERSON,Dorin" gain="5"></p_pa>
+    <p_tk vh="V" name="Ross, Brandian"></p_tk>
+    <p_qbh vh="V" name="Tate, Deonta"></p_qbh>
+   </play>
+   <play hasball="PITT" down="3" togo="1" spot="PITT46" context="H,3,1,H46" playid="6,4,50" type="R" first="R" text="LEWIS,DION rush for 28 yards to the YSU26, 1ST DOWN PITT, out-of-bounds (Bledsoe, S.)." ob="Y" newcontext="H,1,10,V26">
+    <p_ru vh="H" name="LEWIS,DION" gain="28"></p_ru>
+    <p_tk vh="V" name="Bledsoe, S."></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU26" context="H,1,10,V26" playid="6,5,51" type="R" first="R" text="LEWIS,DION rush for 25 yards to the YSU1, 1ST DOWN PITT, out-of-bounds (Louis, Randy)." ob="Y" newcontext="H,1,0,V01">
+    <p_ru vh="H" name="LEWIS,DION" gain="25"></p_ru>
+    <p_tk vh="V" name="Louis, Randy"></p_tk>
+   </play>
+   <comment text="PLAY UNDER REVIEW, PLAY STANDS AS CALLED, FIRST AND GOAL AT THE ONE."></comment>
+   <play hasball="PITT" down="1" togo="0" spot="YSU01" context="H,1,0,V01" playid="6,6,53" type="R" score="Y" clock="11:23" text="LEWIS,DION rush for 1 yard to the YSU0, TOUCHDOWN, clock 11:23." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="LEWIS,DION" gain="1"></p_ru>
+   </play>
+   <play hasball="PITT" down="1" togo="0" spot="YSU03" context="H,1,0,V03" playid="6,7,54" type="X" score="Y" text="HUTCHINS,Dan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="HUTCHINS,Dan" qb="HUTCHINS,Dan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="3" H="14"></score>
+   <drivesum plays="5" yards="63" top="2:41" driveindex="6" complete="Y"></drivesum>
+   <play hasball="PITT" down="1" togo="0" spot="PITT30" context="H,1,0,H30" playid="6,8,55" type="K" text="BRIGGS,Luke kickoff 68 yards to the YSU2, Lee, Josh return 18 yards to the YSU20 (NIX,Nate;REED,Antwuan)." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="BRIGGS,Luke" gain="68"></p_ko>
+    <p_kr vh="V" name="Lee, Josh" gain="18"></p_kr>
+    <p_tk vh="H" name="NIX,Nate" assist="Y"></p_tk>
+    <p_tk vh="H" name="REED,Antwuan" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V20,11:23" vh="V" spot="V20" clock="11:23" driveindex="7,55"></drivestart>
+   <play hasball="YSU" down="1" togo="10" spot="YSU20" context="V,1,10,V20" playid="7,1,56" clock="11:23" text="YOUNGSTOWN STATE drive start at 11:23." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU20" context="V,1,10,V20" playid="7,2,57" type="R" text="Lee, Josh rush for 9 yards to the YSU29 (TAGLIANETTI,A.)." newcontext="V,2,1,V29">
+    <p_ru vh="V" name="Lee, Josh" gain="9"></p_ru>
+    <p_tk vh="H" name="TAGLIANETTI,A."></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="1" spot="YSU29" context="V,2,1,V29" playid="7,3,58" type="R" first="R" text="Smith, Kevin rush for 4 yards to the YSU33, 1ST DOWN YSU (GUNN,Adam)." newcontext="V,1,10,V33">
+    <p_ru vh="V" name="Smith, Kevin" gain="4"></p_ru>
+    <p_tk vh="H" name="GUNN,Adam"></p_tk>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU33" context="V,1,10,V33" playid="7,4,59" type="R" text="Smith, Kevin rush for no gain to the YSU33 (CARAGEIN,Myles;GRUDER,Max)." newcontext="V,2,10,V33">
+    <p_ru vh="V" name="Smith, Kevin" gain="0"></p_ru>
+    <p_tk vh="H" name="CARAGEIN,Myles" assist="Y"></p_tk>
+    <p_tk vh="H" name="GRUDER,Max" assist="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="10" spot="YSU33" context="V,2,10,V33" playid="7,5,60" type="#" clock="09:24" text="Timeout Youngstown State, clock 09:24." newcontext="V,2,10,V33">
+    <p_to vh="V" team="Youngstown State"></p_to>
+   </play>
+   <play hasball="YSU" down="2" togo="10" spot="YSU33" context="V,2,10,V33" playid="7,6,61" type="P" text="Summers, B. sacked for loss of 6 yards to the YSU27 (GUNN,Adam)." newcontext="V,3,16,V27">
+    <p_pa vh="V" qb="Summers, B." result="SACK" gain="-6"></p_pa>
+    <p_tk vh="H" name="GUNN,Adam" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="3" togo="16" spot="YSU27" context="V,3,16,V27" playid="7,7,62" type="P" text="Summers, B. pass incomplete to Jones, Donald, QB hurry by SHEARD,Jabaal." newcontext="V,4,16,V27">
+    <p_pa vh="V" qb="Summers, B." result="INC" rcv="Jones, Donald"></p_pa>
+    <p_qbh vh="H" name="SHEARD,Jabaal"></p_qbh>
+   </play>
+   <play hasball="YSU" down="4" togo="16" spot="YSU27" context="V,4,16,V27" playid="7,8,63" type="U" text="Nowicki, Ben punt 41 yards to the PITT32, SMITH,Aaron return 8 yards to the PITT40 (Hill, Taylor;Gooden, Nick), PENALTY PITT illegal block (HOLLEY,Jarred) 10 yards to the PITT30, 1st and 10, PITT ball on PITT30." newcontext="H,1,10,H30">
+    <p_pu vh="V" name="Nowicki, Ben" gain="41"></p_pu>
+    <p_pr vh="H" name="SMITH,Aaron" gain="8"></p_pr>
+    <p_tk vh="V" name="Hill, Taylor" assist="Y"></p_tk>
+    <p_tk vh="V" name="Gooden, Nick" assist="Y"></p_tk>
+    <p_pn vh="H" code="BL" type="illegal block" name="HOLLEY,Jarred" result="ACCEPT" at="H40" yards="10"></p_pn>
+   </play>
+   <drivesum plays="5" yards="7" top="3:02" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,H30,09:24" vh="H" spot="H30" clock="09:24" driveindex="8,63"></drivestart>
+   <play hasball="PITT" down="1" togo="10" spot="PITT30" context="H,1,10,H30" playid="8,1,64" clock="08:21" text="PITT drive start at 08:21." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="PITT30" context="H,1,10,H30" playid="8,2,65" type="P" text="STULL,Bill pass incomplete to BALDWIN,J.." newcontext="H,2,10,H30">
+    <p_pa vh="H" qb="STULL,Bill" result="INC" rcv="BALDWIN,J."></p_pa>
+   </play>
+   <play hasball="PITT" down="2" togo="10" spot="PITT30" context="H,2,10,H30" playid="8,3,66" type="R" text="LEWIS,DION rush for 2 yards to the PITT32 (Marshall, Joe;Fernandez, C.)." newcontext="H,3,8,H32">
+    <p_ru vh="H" name="LEWIS,DION" gain="2"></p_ru>
+    <p_tk vh="V" name="Marshall, Joe" assist="Y"></p_tk>
+    <p_tk vh="V" name="Fernandez, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="PITT" down="3" togo="8" spot="PITT32" context="H,3,8,H32" playid="8,4,67" type="P" text="STULL,Bill pass complete to LEWIS,DION for 7 yards to the PITT39 (Outler, Na'eem)." newcontext="H,4,1,H39">
+    <p_pa vh="H" qb="STULL,Bill" result="COMP" rcv="LEWIS,DION" gain="7"></p_pa>
+    <p_tk vh="V" name="Outler, Na'eem"></p_tk>
+   </play>
+   <play hasball="PITT" down="4" togo="1" spot="PITT39" context="H,4,1,H39" playid="8,5,68" type="U" text="HUTCHINS,Dan punt 53 yards to the YSU8, Jones, Donald return 7 yards to the YSU15, out-of-bounds (DeCICCO,Dom)." ob="Y" newcontext="V,1,10,V15">
+    <p_pu vh="H" name="HUTCHINS,Dan" gain="53" in20="Y"></p_pu>
+    <p_pr vh="V" name="Jones, Donald" gain="7"></p_pr>
+    <p_tk vh="H" name="DeCICCO,Dom"></p_tk>
+   </play>
+   <drivesum plays="3" yards="9" top="1:43" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,V15,08:21" vh="V" spot="V15" clock="08:21" driveindex="9,68"></drivestart>
+   <play hasball="YSU" down="1" togo="10" spot="YSU15" context="V,1,10,V15" playid="9,1,69" clock="06:38" text="YOUNGSTOWN STATE drive start at 06:38." newcontext="V,1,10,V15">
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU15" context="V,1,10,V15" playid="9,2,70" type="P" first="P" text="Summers, B. pass complete to Pitts, Aaron for 12 yards to the YSU27, 1ST DOWN YSU (BERRY,Aaron)." newcontext="V,1,10,V27">
+    <p_pa vh="V" qb="Summers, B." result="COMP" rcv="Pitts, Aaron" gain="12"></p_pa>
+    <p_tk vh="H" name="BERRY,Aaron"></p_tk>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU27" context="V,1,10,V27" playid="9,3,71" type="R" text="Summers, B. rush for no gain to the YSU27, fumble by Summers, B. recovered by YSU Scott, Jabari at YSU24." newcontext="V,2,13,V24">
+    <p_ru vh="V" name="Summers, B." gain="0"></p_ru>
+    <p_fumb vh="V" name="Summers, B." at="V24" frvh="V" frname="Scott, Jabari"></p_fumb>
+   </play>
+   <play hasball="YSU" down="2" togo="13" spot="YSU24" context="V,2,13,V24" playid="9,4,72" type="P" text="Summers, B. pass complete to Jones, Donald for 12 yards to the YSU36." newcontext="V,3,1,V36">
+    <p_pa vh="V" qb="Summers, B." result="COMP" rcv="Jones, Donald" gain="12"></p_pa>
+   </play>
+   <play hasball="YSU" down="3" togo="1" spot="YSU36" context="V,3,1,V36" playid="9,5,73" type="R" text="Scott, Jabari rush for no gain to the YSU36 (ROMEUS,Greg)." newcontext="V,4,1,V36">
+    <p_ru vh="V" name="Scott, Jabari" gain="0"></p_ru>
+    <p_tk vh="H" name="ROMEUS,Greg"></p_tk>
+   </play>
+   <play hasball="YSU" down="4" togo="1" spot="YSU36" context="V,4,1,V36" playid="9,6,74" type="U" text="Nowicki, Ben punt 25 yards to the PITT39, out-of-bounds." ob="Y" newcontext="H,1,10,H39">
+    <p_pu vh="V" name="Nowicki, Ben" gain="25" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="4" yards="21" top="2:25" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,H39,06:38" vh="H" spot="H39" clock="06:38" driveindex="10,74"></drivestart>
+   <play hasball="PITT" down="1" togo="10" spot="PITT39" context="H,1,10,H39" playid="10,1,75" clock="04:13" text="PITT drive start at 04:13." newcontext="H,1,10,H39">
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="PITT39" context="H,1,10,H39" playid="10,2,76" type="P" text="STULL,Bill pass complete to TURNER,Oderick for 9 yards to the PITT48." newcontext="H,2,1,H48">
+    <p_pa vh="H" qb="STULL,Bill" result="COMP" rcv="TURNER,Oderick" gain="9"></p_pa>
+   </play>
+   <play hasball="PITT" down="2" togo="1" spot="PITT48" context="H,2,1,H48" playid="10,3,77" type="R" first="R" text="TURNER,Oderick rush for 10 yards to the YSU42, 1ST DOWN PITT, out-of-bounds (Bledsoe, S.)." ob="Y" newcontext="H,1,10,V42">
+    <p_ru vh="H" name="TURNER,Oderick" gain="10"></p_ru>
+    <p_tk vh="V" name="Bledsoe, S."></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU42" context="H,1,10,V42" playid="10,4,78" type="R" text="LEWIS,DION rush for 9 yards to the YSU33 (Elliott, Andre)." newcontext="H,2,1,V33">
+    <p_ru vh="H" name="LEWIS,DION" gain="9"></p_ru>
+    <p_tk vh="V" name="Elliott, Andre"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="1" spot="YSU33" context="H,2,1,V33" playid="10,5,79" type="R" first="R" text="LEWIS,DION rush for 8 yards to the YSU25, 1ST DOWN PITT (Sasson, John)." newcontext="H,1,10,V25">
+    <p_ru vh="H" name="LEWIS,DION" gain="8"></p_ru>
+    <p_tk vh="V" name="Sasson, John"></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU25" context="H,1,10,V25" playid="10,6,80" type="R" text="LEWIS,DION rush for 8 yards to the YSU17 (Gooden, Nick)." newcontext="H,2,2,V17">
+    <p_ru vh="H" name="LEWIS,DION" gain="8"></p_ru>
+    <p_tk vh="V" name="Gooden, Nick"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="2" spot="YSU17" context="H,2,2,V17" playid="10,7,81" type="#" clock="01:55" text="Timeout Youngstown State, clock 01:55." newcontext="H,2,2,V17">
+    <p_to vh="V" team="Youngstown State"></p_to>
+   </play>
+   <play hasball="PITT" down="2" togo="2" spot="YSU17" context="H,2,2,V17" playid="10,8,82" type="R" first="R" text="LEWIS,DION rush for 11 yards to the YSU6, 1ST DOWN PITT (Bledsoe, S.)." newcontext="H,1,0,V06">
+    <p_ru vh="H" name="LEWIS,DION" gain="11"></p_ru>
+    <p_tk vh="V" name="Bledsoe, S."></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="0" spot="YSU06" context="H,1,0,V06" playid="10,9,83" type="R" text="LEWIS,DION rush for 3 yards to the YSU3 (Outler, Na'eem)." newcontext="H,2,0,V03">
+    <p_ru vh="H" name="LEWIS,DION" gain="3"></p_ru>
+    <p_tk vh="V" name="Outler, Na'eem"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="0" spot="YSU03" context="H,2,0,V03" playid="10,10,84" type="P" score="Y" clock="01:05" text="STULL,Bill pass complete to LEWIS,DION for 3 yards to the YSU0, TOUCHDOWN, clock 01:05." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="STULL,Bill" result="COMP" rcv="LEWIS,DION" gain="3"></p_pa>
+   </play>
+   <play hasball="PITT" down="1" togo="0" spot="YSU03" context="H,1,0,V03" playid="10,11,85" type="X" score="Y" text="HUTCHINS,Dan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="HUTCHINS,Dan" qb="HUTCHINS,Dan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="3" H="21"></score>
+   <drivesum plays="8" yards="61" top="3:08" driveindex="10" complete="Y"></drivesum>
+   <play hasball="PITT" down="1" togo="0" spot="PITT30" context="H,1,0,H30" playid="10,12,86" type="K" text="BRIGGS,Luke kickoff 65 yards to the YSU5, Barnes, D. return 17 yards to the YSU22 (NIX,Nate), PENALTY YSU illegal block (Snow, Dionte) 10 yards to the YSU12, 1st and 10, YSU ball on YSU12." newcontext="V,1,10,V12">
+    <p_ko vh="H" name="BRIGGS,Luke" gain="65"></p_ko>
+    <p_kr vh="V" name="Barnes, D." gain="17"></p_kr>
+    <p_tk vh="H" name="NIX,Nate"></p_tk>
+    <p_pn vh="V" code="BL" type="illegal block" name="Snow, Dionte" result="ACCEPT" at="V22" yards="10"></p_pn>
+   </play>
+   <drivestart poss="V,V12,01:05" vh="V" spot="V12" clock="01:05" driveindex="11,86"></drivestart>
+   <play hasball="YSU" down="1" togo="10" spot="YSU12" context="V,1,10,V12" playid="11,1,87" clock="01:05" text="YOUNGSTOWN STATE drive start at 01:05." newcontext="V,1,10,V12">
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU12" context="V,1,10,V12" playid="11,2,88" type="R" text="Smith, Kevin rush for 7 yards to the YSU19 (GUNN,Adam)." newcontext="V,2,3,V19">
+    <p_ru vh="V" name="Smith, Kevin" gain="7"></p_ru>
+    <p_tk vh="H" name="GUNN,Adam"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="3" spot="YSU19" context="V,2,3,V19" playid="11,3,89" type="#" clock="00:53" text="Timeout PITT, clock 00:53." newcontext="V,2,3,V19">
+    <p_to vh="H" team="PITT"></p_to>
+   </play>
+   <play hasball="YSU" down="2" togo="3" spot="YSU19" context="V,2,3,V19" playid="11,4,90" type="R" text="Smith, Kevin rush for 2 yards to the YSU21 (ROMEUS,Greg;SHEARD,Jabaal)." newcontext="V,3,1,V21">
+    <p_ru vh="V" name="Smith, Kevin" gain="2"></p_ru>
+    <p_tk vh="H" name="ROMEUS,Greg" assist="Y"></p_tk>
+    <p_tk vh="H" name="SHEARD,Jabaal" assist="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="3" togo="1" spot="YSU21" context="V,3,1,V21" playid="11,5,91" type="#" clock="00:44" text="Timeout PITT, clock 00:44." newcontext="V,3,1,V21">
+    <p_to vh="H" team="PITT"></p_to>
+   </play>
+   <play hasball="YSU" down="3" togo="1" spot="YSU21" context="V,3,1,V21" playid="11,6,92" type="E" first="E" text="Smith, Kevin rush for loss of 3 yards to the YSU18 (WILLIAMS,Greg;WILLIAMS,Mick), PENALTY PITT offside defense 5 yards to the YSU26, 1ST DOWN YSU, NO PLAY." newcontext="V,1,10,V26">
+    <p_pn vh="H" code="OD" type="offside defense" result="ACCEPT" at="V21" yards="5"></p_pn>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU26" context="V,1,10,V26" playid="11,7,93" type="E" first="E" text="Summers, B. pass incomplete to Jones, Donald (BERRY,Aaron), PENALTY PITT pass interference (BERRY,Aaron) 15 yards to the YSU41, 1ST DOWN YSU, NO PLAY." newcontext="V,1,10,V41">
+    <p_pn vh="H" code="PI" type="pass interference" name="BERRY,Aaron" result="ACCEPT" at="V26" yards="15"></p_pn>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU41" context="V,1,10,V41" playid="11,8,94" type="P" text="Summers, B. sacked for loss of 9 yards to the YSU32 (SHEARD,Jabaal)." newcontext="V,2,19,V32">
+    <p_pa vh="V" qb="Summers, B." result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="SHEARD,Jabaal" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="19" spot="YSU32" context="V,2,19,V32" playid="11,9,95" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,2,19,V32">
+   </play>
+   <drivesum plays="3" yards="20" top="1:05" driveindex="11" complete="Y"></drivesum>
+   <score qtr="2" V="3" H="21"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="YSU">
+    <firstdowns no="4" rush="1" pass="1" penalty="2"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="4" thirdatt="7" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="07:28"></misc>
+    <rush att="10" yds="4" gain="22" loss="18" td="0" long="2"></rush>
+    <pass comp="2" att="4" int="0" yds="24" td="0" long="0" sacks="3" sackyds="15"></pass>
+    <rcv no="2" yds="24" td="0" long="0"></rcv>
+    <punt no="2" yds="66" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="33.0"></punt>
+    <ko no="2" yds="128" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="48" blkd="0"></fg>
+    <defense tackua="13" tacka="4" tot_tack="17" sacks="0" sackyds="0" qbh="1"></defense>
+    <kr no="2" yds="35" td="0" long="0"></kr>
+    <pr no="1" yds="7" td="0" long="7"></pr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="PITT">
+    <firstdowns no="5" rush="5" pass="0" penalty="0"></firstdowns>
+    <penalties no="3" yds="30"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:32"></misc>
+    <rush att="11" yds="109" gain="109" loss="0" td="1" long="12"></rush>
+    <pass comp="4" att="5" int="0" yds="24" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="24" td="1" long="0"></rcv>
+    <punt no="1" yds="53" long="11" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="53.0"></punt>
+    <ko no="2" yds="133" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="10" tacka="6" tot_tack="16" tflua="2" tfla="0" tflyds="15" sacks="3" sackyds="15" qbh="1"></defense>
+    <kr no="2" yds="62" td="0" long="37"></kr>
+    <pr no="1" yds="8" td="0" long="0"></pr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="YSU" down="2" togo="19" spot="YSU32" context="V,2,19,V32" playid="11,10,96" type="K" clock="15:00" text="Start of 3rd quarter, clock 15:00, Blose, Stephen kickoff 58 yards to the PITT10, REED,Antwuan return 25 yards to the PITT35 (Barnes, D.)." newcontext="H,1,10,H35">
+    <p_ko vh="V" name="Blose, Stephen" gain="58"></p_ko>
+    <p_kr vh="H" name="REED,Antwuan" gain="25"></p_kr>
+    <p_tk vh="V" name="Barnes, D."></p_tk>
+   </play>
+   <drivestart poss="H,H35,15:00" vh="H" spot="H35" clock="15:00" driveindex="12,96"></drivestart>
+   <play hasball="PITT" down="1" togo="10" spot="PITT35" context="H,1,10,H35" playid="12,1,97" clock="15:00" text="PITT drive start at 15:00." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="PITT35" context="H,1,10,H35" playid="12,2,98" type="P" first="P" text="STULL,Bill pass complete to BALDWIN,J. for 21 yards to the YSU44, 1ST DOWN PITT (Ross, Brandian)." newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="STULL,Bill" result="COMP" rcv="BALDWIN,J." gain="21"></p_pa>
+    <p_tk vh="V" name="Ross, Brandian"></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU44" context="H,1,10,V44" playid="12,3,99" type="R" text="LEWIS,DION rush for loss of 5 yards to the YSU49 (Savage, Mychal)." newcontext="H,2,15,V49">
+    <p_ru vh="H" name="LEWIS,DION" gain="-5"></p_ru>
+    <p_tk vh="V" name="Savage, Mychal" tfl="Y"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="15" spot="YSU49" context="H,2,15,V49" playid="12,4,100" type="P" text="STULL,Bill pass incomplete to LEWIS,DION." newcontext="H,3,15,V49">
+    <p_pa vh="H" qb="STULL,Bill" result="INC" rcv="LEWIS,DION"></p_pa>
+   </play>
+   <play hasball="PITT" down="3" togo="15" spot="YSU49" context="H,3,15,V49" playid="12,5,101" type="P" turnover="I" text="STULL,Bill pass intercepted by Ross, Brandian at the YSU30, Ross, Brandian return 24 yards to the PITT46, fumble forced by LEWIS,DION, fumble by Ross, Brandian recovered by YSU Elliott, Andre at PITT46, PENALTY YSU illegal block (Bledsoe, S.) 15 yards to the YSU39, 1st and 10, YSU ball on YSU39." newcontext="V,1,10,V39">
+    <p_pa vh="H" qb="STULL,Bill" result="INT"></p_pa>
+    <p_ir vh="V" name="Ross, Brandian" at="V30" gain="24"></p_ir>
+    <p_fumb vh="V" name="Ross, Brandian" at="H46" frvh="V" frname="Elliott, Andre"></p_fumb>
+    <p_tk vh="H" name="LEWIS,DION" ff="Y"></p_tk>
+    <p_pn vh="V" code="BL" type="illegal block" name="Bledsoe, S." result="ACCEPT" at="H46" yards="15"></p_pn>
+   </play>
+   <drivesum plays="4" yards="16" top="1:32" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="V,V39,15:00" vh="V" spot="V39" clock="15:00" driveindex="13,101"></drivestart>
+   <play hasball="YSU" down="1" togo="10" spot="YSU39" context="V,1,10,V39" playid="13,1,102" clock="13:28" text="YOUNGSTOWN STATE drive start at 13:28." newcontext="V,1,10,V39">
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU39" context="V,1,10,V39" playid="13,2,103" type="R" text="Barnes, D. rush for 5 yards to the YSU44 (GUNN,Adam)." newcontext="V,2,5,V44">
+    <p_ru vh="V" name="Barnes, D." gain="5"></p_ru>
+    <p_tk vh="H" name="GUNN,Adam"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="5" spot="YSU44" context="V,2,5,V44" playid="13,3,104" type="R" text="Smith, Kevin rush for no gain to the YSU44 (WILLIAMS,Mick)." newcontext="V,3,5,V44">
+    <p_ru vh="V" name="Smith, Kevin" gain="0"></p_ru>
+    <p_tk vh="H" name="WILLIAMS,Mick"></p_tk>
+   </play>
+   <play hasball="YSU" down="3" togo="5" spot="YSU44" context="V,3,5,V44" playid="13,4,105" type="E" text="Summers, B. pass complete to Barnes, D. for no gain to the YSU44 (DeCICCO,Dom), PENALTY YSU holding (Mellott, Brian) 10 yards to the YSU34, NO PLAY." newcontext="V,3,15,V34">
+    <p_pn vh="V" code="HO" type="holding" name="Mellott, Brian" result="ACCEPT" at="V44" yards="10"></p_pn>
+   </play>
+   <play hasball="YSU" down="3" togo="15" spot="YSU34" context="V,3,15,V34" playid="13,5,106" type="P" text="Summers, B. pass complete to Smith, Kevin for 11 yards to the YSU45 (HOLLEY,Jarred)." newcontext="V,4,4,V45">
+    <p_pa vh="V" qb="Summers, B." result="COMP" rcv="Smith, Kevin" gain="11"></p_pa>
+    <p_tk vh="H" name="HOLLEY,Jarred"></p_tk>
+   </play>
+   <play hasball="YSU" down="4" togo="4" spot="YSU45" context="V,4,4,V45" playid="13,6,107" type="U" text="Nowicki, Ben punt 37 yards to the PITT18, fair catch by SMITH,Aaron." newcontext="H,1,10,H18">
+    <p_pu vh="V" name="Nowicki, Ben" gain="37" in20="Y" fc="SMITH,Aaron"></p_pu>
+   </play>
+   <drivesum plays="3" yards="6" top="2:26" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H18,13:28" vh="H" spot="H18" clock="13:28" driveindex="14,107"></drivestart>
+   <play hasball="PITT" down="1" togo="10" spot="PITT18" context="H,1,10,H18" playid="14,1,108" clock="11:02" text="PITT drive start at 11:02." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="PITT18" context="H,1,10,H18" playid="14,2,109" type="R" text="LEWIS,DION rush for 2 yards to the PITT20 (Bledsoe, S.)." newcontext="H,2,8,H20">
+    <p_ru vh="H" name="LEWIS,DION" gain="2"></p_ru>
+    <p_tk vh="V" name="Bledsoe, S."></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="8" spot="PITT20" context="H,2,8,H20" playid="14,3,110" type="P" text="STULL,Bill pass complete to BALDWIN,J. for 7 yards to the PITT27 (Elliott, Andre), QB hurry by Ross, Brandian." newcontext="H,3,1,H27">
+    <p_pa vh="H" qb="STULL,Bill" result="COMP" rcv="BALDWIN,J." gain="7"></p_pa>
+    <p_tk vh="V" name="Elliott, Andre"></p_tk>
+    <p_qbh vh="V" name="Ross, Brandian"></p_qbh>
+   </play>
+   <play hasball="PITT" down="3" togo="1" spot="PITT27" context="H,3,1,H27" playid="14,4,111" type="R" text="LEWIS,DION rush for loss of 2 yards to the PITT25 (Bledsoe, S.)." newcontext="H,4,3,H25">
+    <p_ru vh="H" name="LEWIS,DION" gain="-2"></p_ru>
+    <p_tk vh="V" name="Bledsoe, S." tfl="Y"></p_tk>
+   </play>
+   <play hasball="PITT" down="4" togo="3" spot="PITT25" context="H,4,3,H25" playid="14,5,112" type="U" text="HUTCHINS,Dan punt 46 yards to the YSU29, Jones, Donald return -4 yards to the YSU25 (REED,Antwuan)." newcontext="V,1,10,V25">
+    <p_pu vh="H" name="HUTCHINS,Dan" gain="46"></p_pu>
+    <p_pr vh="V" name="Jones, Donald" gain="-4"></p_pr>
+    <p_tk vh="H" name="REED,Antwuan"></p_tk>
+   </play>
+   <drivesum plays="3" yards="7" top="2:12" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,V25,11:02" vh="V" spot="V25" clock="11:02" driveindex="15,112"></drivestart>
+   <play hasball="YSU" down="1" togo="10" spot="YSU25" context="V,1,10,V25" playid="15,1,113" clock="08:50" text="YOUNGSTOWN STATE drive start at 08:50." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU25" context="V,1,10,V25" playid="15,2,114" type="P" text="Summers, B. sacked for loss of 8 yards to the YSU17 (GUNN,Adam)." newcontext="V,2,18,V17">
+    <p_pa vh="V" qb="Summers, B." result="SACK" gain="-8"></p_pa>
+    <p_tk vh="H" name="GUNN,Adam" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="18" spot="YSU17" context="V,2,18,V17" playid="15,3,115" type="E" text="PENALTY YSU false start (Gammon, Chris) 5 yards to the YSU12." newcontext="V,2,23,V12">
+    <p_pn vh="V" code="FS" type="false start" name="Gammon, Chris" result="ACCEPT" at="V17" yards="5"></p_pn>
+   </play>
+   <play hasball="YSU" down="2" togo="23" spot="YSU12" context="V,2,23,V12" playid="15,4,116" type="R" text="Cook, Jamaine rush for 2 yards to the YSU14 (GRUDER,Max)." newcontext="V,3,21,V14">
+    <p_ru vh="V" name="Cook, Jamaine" gain="2"></p_ru>
+    <p_tk vh="H" name="GRUDER,Max"></p_tk>
+   </play>
+   <play hasball="YSU" down="3" togo="21" spot="YSU14" context="V,3,21,V14" playid="15,5,117" type="P" text="Summers, B. pass incomplete to Jones, Donald." newcontext="V,4,21,V14">
+    <p_pa vh="V" qb="Summers, B." result="INC" rcv="Jones, Donald"></p_pa>
+   </play>
+   <play hasball="YSU" down="4" togo="21" spot="YSU14" context="V,4,21,V14" playid="15,6,118" type="U" text="Nowicki, Ben punt 36 yards to the 50 yardline, downed." newcontext="H,1,10,H50">
+    <p_pu vh="V" name="Nowicki, Ben" gain="36"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-11" top="2:06" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H50,08:50" vh="H" spot="H50" clock="08:50" driveindex="16,118"></drivestart>
+   <play hasball="PITT" down="1" togo="10" spot="PITT50" context="H,1,10,H50" playid="16,1,119" clock="06:44" text="PITT drive start at 06:44." newcontext="H,1,10,H50">
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="PITT50" context="H,1,10,H50" playid="16,2,120" type="R" text="LEWIS,DION rush for loss of 1 yard to the PITT49 (Meadows, S.;Marshall, Joe)." newcontext="H,2,11,H49">
+    <p_ru vh="H" name="LEWIS,DION" gain="-1"></p_ru>
+    <p_tk vh="V" name="Meadows, S." tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Marshall, Joe" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="11" spot="PITT49" context="H,2,11,H49" playid="16,3,121" type="P" text="SUNSERI,Tino pass incomplete, QB hurry by Myers, Josh." newcontext="H,3,11,H49">
+    <p_pa vh="H" qb="SUNSERI,Tino" result="INC"></p_pa>
+    <p_qbh vh="V" name="Myers, Josh"></p_qbh>
+   </play>
+   <play hasball="PITT" down="3" togo="11" spot="PITT49" context="H,3,11,H49" playid="16,4,122" type="P" first="P" text="SUNSERI,Tino pass complete to BALDWIN,J. for 42 yards to the YSU9, 1ST DOWN PITT (Louis, Randy)." newcontext="H,1,0,V09">
+    <p_pa vh="H" qb="SUNSERI,Tino" result="COMP" rcv="BALDWIN,J." gain="42"></p_pa>
+    <p_tk vh="V" name="Louis, Randy"></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="0" spot="YSU09" context="H,1,0,V09" playid="16,5,123" type="R" text="LEWIS,DION rush for 3 yards to the YSU6 (Bledsoe, S.)." newcontext="H,2,0,V06">
+    <p_ru vh="H" name="LEWIS,DION" gain="3"></p_ru>
+    <p_tk vh="V" name="Bledsoe, S."></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="0" spot="YSU06" context="H,2,0,V06" playid="16,6,124" type="E" text="SUNSERI,Tino pass incomplete to DICKERSON,Dorin (Bledsoe, S.), PENALTY PITT illegal formation 5 yards to the YSU11, NO PLAY." newcontext="H,2,0,V11">
+    <p_pn vh="H" code="FO" type="illegal formation" result="ACCEPT" at="V06" yards="5"></p_pn>
+   </play>
+   <play hasball="PITT" down="2" togo="0" spot="YSU11" context="H,2,0,V11" playid="16,7,125" type="P" text="SUNSERI,Tino pass complete to DICKERSON,Dorin for 2 yards to the YSU9 (Sasson, John;Bledsoe, S.)." newcontext="H,3,0,V09">
+    <p_pa vh="H" qb="SUNSERI,Tino" result="COMP" rcv="DICKERSON,Dorin" gain="2"></p_pa>
+    <p_tk vh="V" name="Sasson, John" assist="Y"></p_tk>
+    <p_tk vh="V" name="Bledsoe, S." assist="Y"></p_tk>
+   </play>
+   <play hasball="PITT" down="3" togo="0" spot="YSU09" context="H,3,0,V09" playid="16,8,126" type="P" text="SUNSERI,Tino pass incomplete to TURNER,Oderick." newcontext="H,4,0,V09">
+    <p_pa vh="H" qb="SUNSERI,Tino" result="INC" rcv="TURNER,Oderick"></p_pa>
+   </play>
+   <play hasball="PITT" down="4" togo="0" spot="YSU09" context="H,4,0,V09" playid="16,9,127" type="F" score="Y" clock="03:42" text="HUTCHINS,Dan field goal attempt from 26 GOOD, clock 03:42." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="HUTCHINS,Dan" distance="26" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="24"></score>
+   <drivesum plays="7" yards="41" top="3:02" driveindex="16" complete="Y"></drivesum>
+   <play hasball="PITT" down="1" togo="0" spot="PITT30" context="H,1,0,H30" playid="16,10,128" type="K" text="HARPER,Kevin kickoff 70 yards to the YSU0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="HARPER,Kevin" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,03:42" vh="V" spot="V20" clock="03:42" driveindex="17,128"></drivestart>
+   <play hasball="YSU" down="1" togo="10" spot="YSU20" context="V,1,10,V20" playid="17,1,129" clock="03:42" text="YOUNGSTOWN STATE drive start at 03:42." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU20" context="V,1,10,V20" playid="17,2,130" type="P" text="Summers, B. pass incomplete to Barnes, D.." newcontext="V,2,10,V20">
+    <p_pa vh="V" qb="Summers, B." result="INC" rcv="Barnes, D."></p_pa>
+   </play>
+   <play hasball="YSU" down="2" togo="10" spot="YSU20" context="V,2,10,V20" playid="17,3,131" type="P" text="Summers, B. pass incomplete, QB hurry by SHEARD,Jabaal." newcontext="V,3,10,V20">
+    <p_pa vh="V" qb="Summers, B." result="INC"></p_pa>
+    <p_qbh vh="H" name="SHEARD,Jabaal"></p_qbh>
+   </play>
+   <play hasball="YSU" down="3" togo="10" spot="YSU20" context="V,3,10,V20" playid="17,4,132" type="P" text="Summers, B. sacked for loss of 4 yards to the YSU16 (CARAGEIN,Myles)." newcontext="V,4,14,V16">
+    <p_pa vh="V" qb="Summers, B." result="SACK" gain="-4"></p_pa>
+    <p_tk vh="H" name="CARAGEIN,Myles" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="4" togo="14" spot="YSU16" context="V,4,14,V16" playid="17,5,133" type="U" text="Nowicki, Ben punt 45 yards to the PITT39, SMITH,Aaron return -2 yards to the PITT37 (Bledsoe, S.)." newcontext="H,1,10,H37">
+    <p_pu vh="V" name="Nowicki, Ben" gain="45"></p_pu>
+    <p_pr vh="H" name="SMITH,Aaron" gain="-2"></p_pr>
+    <p_tk vh="V" name="Bledsoe, S."></p_tk>
+   </play>
+   <drivesum plays="3" yards="-4" top="0:57" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H37,03:42" vh="H" spot="H37" clock="03:42" driveindex="18,133"></drivestart>
+   <play hasball="PITT" down="1" togo="10" spot="PITT37" context="H,1,10,H37" playid="18,1,134" clock="02:45" text="PITT drive start at 02:45." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="PITT37" context="H,1,10,H37" playid="18,2,135" type="R" text="GRAHAM,Ray rush for 7 yards to the PITT44 (Gooden, Nick;Myers, Josh)." newcontext="H,2,3,H44">
+    <p_ru vh="H" name="GRAHAM,Ray" gain="7"></p_ru>
+    <p_tk vh="V" name="Gooden, Nick" assist="Y"></p_tk>
+    <p_tk vh="V" name="Myers, Josh" assist="Y"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="3" spot="PITT44" context="H,2,3,H44" playid="18,3,136" type="P" first="P" text="STULL,Bill pass complete to McGEE,Cedric for 31 yards to the YSU25, 1ST DOWN PITT, out-of-bounds (Gooden, Nick)." ob="Y" newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="STULL,Bill" result="COMP" rcv="McGEE,Cedric" gain="31"></p_pa>
+    <p_tk vh="V" name="Gooden, Nick"></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU25" context="H,1,10,V25" playid="18,4,137" type="R" text="GRAHAM,Ray rush for 5 yards to the YSU20 (Sasson, John)." newcontext="H,2,5,V20">
+    <p_ru vh="H" name="GRAHAM,Ray" gain="5"></p_ru>
+    <p_tk vh="V" name="Sasson, John"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="5" spot="YSU20" context="H,2,5,V20" playid="18,5,138" type="P" first="P" text="STULL,Bill pass complete to TURNER,Oderick for 7 yards to the YSU13, 1ST DOWN PITT (Ross, Brandian)." newcontext="H,1,10,V13">
+    <p_pa vh="H" qb="STULL,Bill" result="COMP" rcv="TURNER,Oderick" gain="7"></p_pa>
+    <p_tk vh="V" name="Ross, Brandian"></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU13" context="H,1,10,V13" playid="18,6,139" type="P" first="P" score="Y" clock="00:24" text="STULL,Bill pass complete to DICKERSON,Dorin for 13 yards to the YSU0, 1ST DOWN PITT, TOUCHDOWN, clock 00:24." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="STULL,Bill" result="COMP" rcv="DICKERSON,Dorin" gain="13"></p_pa>
+   </play>
+   <play hasball="PITT" down="1" togo="0" spot="YSU03" context="H,1,0,V03" playid="18,7,140" type="X" score="Y" text="HUTCHINS,Dan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="HUTCHINS,Dan" qb="HUTCHINS,Dan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="3" H="31"></score>
+   <drivesum plays="5" yards="63" top="2:21" driveindex="18" complete="Y"></drivesum>
+   <play hasball="PITT" down="1" togo="0" spot="PITT30" context="H,1,0,H30" playid="18,8,141" type="K" text="HARPER,Kevin kickoff 68 yards to the YSU2, Cook, Jamaine return 20 yards to the YSU22 (NIX,Nate)." newcontext="V,1,10,V22">
+    <p_ko vh="H" name="HARPER,Kevin" gain="68"></p_ko>
+    <p_kr vh="V" name="Cook, Jamaine" gain="20"></p_kr>
+    <p_tk vh="H" name="NIX,Nate"></p_tk>
+   </play>
+   <drivestart poss="V,V22,00:24" vh="V" spot="V22" clock="00:24" driveindex="19,141"></drivestart>
+   <play hasball="YSU" down="1" togo="10" spot="YSU22" context="V,1,10,V22" playid="19,1,142" clock="00:16" text="YOUNGSTOWN STATE drive start at 00:16." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU22" context="V,1,10,V22" playid="19,2,143" type="P" turnover="I" text="Summers, B. pass intercepted by DeCICCO,Dom at the YSU35, DeCICCO,Dom return 0 yards to the YSU35." newcontext="H,1,10,V35">
+    <p_pa vh="V" qb="Summers, B." result="INT"></p_pa>
+    <p_ir vh="H" name="DeCICCO,Dom" at="V35" gain="0"></p_ir>
+   </play>
+   <drivesum plays="1" yards="0" top="0:07" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,V35,00:16" vh="H" spot="V35" clock="00:16" driveindex="20,143"></drivestart>
+   <play hasball="PITT" down="1" togo="10" spot="YSU35" context="H,1,10,V35" playid="20,1,144" clock="00:09" text="PITT drive start at 00:09." newcontext="H,1,10,V35">
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU35" context="H,1,10,V35" playid="20,2,145" type="R" text="GRAHAM,Ray rush for 2 yards to the YSU33 (Louis, Randy)." newcontext="H,2,8,V33">
+    <p_ru vh="H" name="GRAHAM,Ray" gain="2"></p_ru>
+    <p_tk vh="V" name="Louis, Randy"></p_tk>
+   </play>
+   <score qtr="3" V="3" H="31"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="YSU">
+    <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+    <penalties no="3" yds="30"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="05:44"></misc>
+    <rush att="5" yds="-5" gain="7" loss="12" td="0" long="0"></rush>
+    <pass comp="1" att="5" int="1" yds="11" td="0" long="0" sacks="2" sackyds="12"></pass>
+    <rcv no="1" yds="11" td="0" long="0"></rcv>
+    <punt no="3" yds="118" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="39.3"></punt>
+    <defense tackua="12" tacka="6" tot_tack="18" tflua="4" tfla="0" tflyds="9" sacks="0" sackyds="0" qbh="2" int="1" intyds="24"></defense>
+    <kr no="1" yds="20" td="0" long="1"></kr>
+    <pr no="1" yds="-4" td="0" long="0"></pr>
+    <ir no="1" yds="24" td="0" long="24"></ir>
+    <fumbles no="1" lost="0"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="PITT">
+    <firstdowns no="5" rush="0" pass="5" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:16"></misc>
+    <rush att="8" yds="11" gain="19" loss="8" td="0" long="0"></rush>
+    <pass comp="7" att="11" int="1" yds="123" td="1" long="28" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="123" td="1" long="28"></rcv>
+    <punt no="1" yds="46" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="46.0"></punt>
+    <ko no="2" yds="138" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="26" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="0" tot_tack="9" tflua="2" tfla="0" tflyds="12" sacks="5" sackyds="27" qbh="1" ff="1" int="1" intyds="0"></defense>
+    <pr no="1" yds="-2" td="0" long="0"></pr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="PITT" down="2" togo="8" spot="YSU33" context="H,2,8,V33" playid="20,3,146" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,2,8,V33">
+   </play>
+   <play hasball="PITT" down="2" togo="8" spot="YSU33" context="H,2,8,V33" playid="20,4,147" type="R" text="GRAHAM,Ray rush for 6 yards to the YSU27 (Bledsoe, S.)." newcontext="H,3,2,V27">
+    <p_ru vh="H" name="GRAHAM,Ray" gain="6"></p_ru>
+    <p_tk vh="V" name="Bledsoe, S."></p_tk>
+   </play>
+   <play hasball="PITT" down="3" togo="2" spot="YSU27" context="H,3,2,V27" playid="20,5,148" type="R" first="R" text="GRAHAM,Ray rush for 3 yards to the YSU24, 1ST DOWN PITT (Rach, David)." newcontext="H,1,10,V24">
+    <p_ru vh="H" name="GRAHAM,Ray" gain="3"></p_ru>
+    <p_tk vh="V" name="Rach, David"></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU24" context="H,1,10,V24" playid="20,6,149" type="#" clock="14:00" text="Timeout Youngstown State, clock 14:00." newcontext="H,1,10,V24">
+    <p_to vh="V" team="Youngstown State"></p_to>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU24" context="H,1,10,V24" playid="20,7,150" type="E" text="PENALTY YSU offside defense (Savage, Mychal) 5 yards to the YSU19." newcontext="H,1,5,V19">
+    <p_pn vh="V" code="OD" type="offside defense" name="Savage, Mychal" result="ACCEPT" at="V24" yards="5"></p_pn>
+   </play>
+   <play hasball="PITT" down="1" togo="5" spot="YSU19" context="H,1,5,V19" playid="20,8,151" type="R" first="R" text="WRIGHT,Aundre rush for 8 yards to the YSU11, 1ST DOWN PITT (Younkins, Joel)." newcontext="H,1,10,V11">
+    <p_ru vh="H" name="WRIGHT,Aundre" gain="8"></p_ru>
+    <p_tk vh="V" name="Younkins, Joel"></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU11" context="H,1,10,V11" playid="20,9,152" type="R" text="GRAHAM,Ray rush for loss of 1 yard to the YSU12 (Younkins, Joel;Rach, David)." newcontext="H,2,11,V12">
+    <p_ru vh="H" name="GRAHAM,Ray" gain="-1"></p_ru>
+    <p_tk vh="V" name="Younkins, Joel" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Rach, David" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="11" spot="YSU12" context="H,2,11,V12" playid="20,10,153" type="P" text="SUNSERI,Tino pass complete to WRIGHT,Aundre for 6 yards to the YSU6 (Ross, Brandian)." newcontext="H,3,5,V06">
+    <p_pa vh="H" qb="SUNSERI,Tino" result="COMP" rcv="WRIGHT,Aundre" gain="6"></p_pa>
+    <p_tk vh="V" name="Ross, Brandian"></p_tk>
+   </play>
+   <play hasball="PITT" down="3" togo="5" spot="YSU06" context="H,3,5,V06" playid="20,11,154" type="P" first="P" score="Y" clock="12:05" text="SUNSERI,Tino pass complete to WRIGHT,Aundre for 6 yards to the YSU0, 1ST DOWN PITT, TOUCHDOWN, clock 12:05." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="SUNSERI,Tino" result="COMP" rcv="WRIGHT,Aundre" gain="6"></p_pa>
+   </play>
+   <play hasball="PITT" down="1" togo="0" spot="YSU03" context="H,1,0,V03" playid="20,12,155" type="X" score="Y" text="HUTCHINS,Dan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="HUTCHINS,Dan" qb="HUTCHINS,Dan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="3" H="38"></score>
+   <drivesum plays="7" yards="35" top="3:04" driveindex="20" complete="Y"></drivesum>
+   <play hasball="PITT" down="1" togo="0" spot="PITT30" context="H,1,0,H30" playid="20,13,156" type="K" text="HARPER,Kevin kickoff 70 yards to the YSU0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="HARPER,Kevin" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,12:05" vh="V" spot="V20" clock="12:05" driveindex="21,156"></drivestart>
+   <play hasball="YSU" down="1" togo="10" spot="YSU20" context="V,1,10,V20" playid="21,1,157" clock="12:05" text="YOUNGSTOWN STATE drive start at 12:05." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU20" context="V,1,10,V20" playid="21,2,158" type="R" text="Smith, Kevin rush for 9 yards to the YSU29 (HOLLEY,Jarred)." newcontext="V,2,1,V29">
+    <p_ru vh="V" name="Smith, Kevin" gain="9"></p_ru>
+    <p_tk vh="H" name="HOLLEY,Jarred"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="1" spot="YSU29" context="V,2,1,V29" playid="21,3,159" type="R" first="R" text="Campbell, D. rush for 3 yards to the YSU32, 1ST DOWN YSU (MASON,Dan)." newcontext="V,1,10,V32">
+    <p_ru vh="V" name="Campbell, D." gain="3"></p_ru>
+    <p_tk vh="H" name="MASON,Dan"></p_tk>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU32" context="V,1,10,V32" playid="21,4,160" type="R" text="Smith, Kevin rush for 1 yard to the YSU33 (BOKOR,Craig)." newcontext="V,2,9,V33">
+    <p_ru vh="V" name="Smith, Kevin" gain="1"></p_ru>
+    <p_tk vh="H" name="BOKOR,Craig"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="9" spot="YSU33" context="V,2,9,V33" playid="21,5,161" type="R" text="Smith, Kevin rush for 3 yards to the YSU36 (BOKOR,Craig)." newcontext="V,3,6,V36">
+    <p_ru vh="V" name="Smith, Kevin" gain="3"></p_ru>
+    <p_tk vh="H" name="BOKOR,Craig"></p_tk>
+   </play>
+   <play hasball="YSU" down="3" togo="6" spot="YSU36" context="V,3,6,V36" playid="21,6,162" type="R" first="R" text="Summers, B. rush for 11 yards to the YSU47, 1ST DOWN YSU, out-of-bounds." ob="Y" newcontext="V,1,10,V47">
+    <p_ru vh="V" name="Summers, B." gain="11"></p_ru>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="YSU47" context="V,1,10,V47" playid="21,7,163" type="R" text="Campbell, D. rush for 5 yards to the PITT48 (HALE,Shayne)." newcontext="V,2,5,H48">
+    <p_ru vh="V" name="Campbell, D." gain="5"></p_ru>
+    <p_tk vh="H" name="HALE,Shayne"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="5" spot="PITT48" context="V,2,5,H48" playid="21,8,164" type="R" text="Scott, Jabari rush for loss of 1 yard to the PITT49 (ALECXIH,Chas)." newcontext="V,3,6,H49">
+    <p_ru vh="V" name="Scott, Jabari" gain="-1"></p_ru>
+    <p_tk vh="H" name="ALECXIH,Chas" tfl="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="3" togo="6" spot="PITT49" context="V,3,6,H49" playid="21,9,165" type="E" text="PENALTY YSU false start (Rogers, David) 5 yards to the YSU46." newcontext="V,3,11,V46">
+    <p_pn vh="V" code="FS" type="false start" name="Rogers, David" result="ACCEPT" at="H49" yards="5"></p_pn>
+   </play>
+   <play hasball="YSU" down="3" togo="11" spot="YSU46" context="V,3,11,V46" playid="21,10,166" type="P" first="P" text="Summers, B. pass complete to Rogers, David for 15 yards to the PITT39, 1ST DOWN YSU, QB hurry by ALECXIH,Chas." newcontext="V,1,10,H39">
+    <p_pa vh="V" qb="Summers, B." result="COMP" rcv="Rogers, David" gain="15"></p_pa>
+    <p_qbh vh="H" name="ALECXIH,Chas"></p_qbh>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="PITT39" context="V,1,10,H39" playid="21,11,167" type="P" first="P" text="Summers, B. pass complete to Snow, Dionte for 12 yards to the PITT27, 1ST DOWN YSU, out-of-bounds." ob="Y" newcontext="V,1,10,H27">
+    <p_pa vh="V" qb="Summers, B." result="COMP" rcv="Snow, Dionte" gain="12"></p_pa>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="PITT27" context="V,1,10,H27" playid="21,12,168" type="R" text="Smith, Kevin rush for 2 yards to the PITT25 (ALECXIH,Chas)." newcontext="V,2,8,H25">
+    <p_ru vh="V" name="Smith, Kevin" gain="2"></p_ru>
+    <p_tk vh="H" name="ALECXIH,Chas"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="8" spot="PITT25" context="V,2,8,H25" playid="21,13,169" type="P" text="Summers, B. pass incomplete to Snow, Dionte (GARY,Ricky)." newcontext="V,3,8,H25">
+    <p_pa vh="V" qb="Summers, B." result="INC" rcv="Snow, Dionte"></p_pa>
+    <p_bu vh="H" name="GARY,Ricky"></p_bu>
+   </play>
+   <play hasball="YSU" down="3" togo="8" spot="PITT25" context="V,3,8,H25" playid="21,14,170" type="E" text="Summers, B. sacked for loss of 3 yards to the PITT28 (GARY,Ricky), PENALTY PITT offside defense (WILLIAMS,Manny) 5 yards to the PITT20, NO PLAY." newcontext="V,3,3,H20">
+    <p_pn vh="H" code="OD" type="offside defense" name="WILLIAMS,Manny" result="ACCEPT" at="H25" yards="5"></p_pn>
+   </play>
+   <play hasball="YSU" down="3" togo="3" spot="PITT20" context="V,3,3,H20" playid="21,15,171" type="E" first="E" text="PENALTY PITT offside defense (WILLIAMS,Manny) 5 yards to the PITT15, 1ST DOWN YSU." newcontext="V,1,10,H15">
+    <p_pn vh="H" code="OD" type="offside defense" name="WILLIAMS,Manny" result="ACCEPT" at="H20" yards="5"></p_pn>
+   </play>
+   <play hasball="YSU" down="1" togo="10" spot="PITT15" context="V,1,10,H15" playid="21,16,172" type="P" text="Summers, B. sacked for loss of 11 yards to the PITT26 (NIX,Nate)." newcontext="V,2,21,H26">
+    <p_pa vh="V" qb="Summers, B." result="SACK" gain="-11"></p_pa>
+    <p_tk vh="H" name="NIX,Nate" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="YSU" down="2" togo="21" spot="PITT26" context="V,2,21,H26" playid="21,17,173" type="R" text="Smith, Kevin rush for 7 yards to the PITT19 (FIELDS,Elijah)." newcontext="V,3,14,H19">
+    <p_ru vh="V" name="Smith, Kevin" gain="7"></p_ru>
+    <p_tk vh="H" name="FIELDS,Elijah"></p_tk>
+   </play>
+   <play hasball="YSU" down="3" togo="14" spot="PITT19" context="V,3,14,H19" playid="21,18,174" type="P" turnover="I" text="Summers, B. pass intercepted by GARY,Ricky at the PITT0, GARY,Ricky return 0 yards to the PITT0, touchback, QB hurry by LINDSEY,Brandon." newcontext="H,1,10,H20">
+    <p_pa vh="V" qb="Summers, B." result="INT"></p_pa>
+    <p_ir vh="H" name="GARY,Ricky" at="H00" gain="0"></p_ir>
+    <p_qbh vh="H" name="LINDSEY,Brandon"></p_qbh>
+   </play>
+   <drivesum plays="14" yards="61" top="8:32" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,H20,12:05" vh="H" spot="H20" clock="12:05" driveindex="22,174"></drivestart>
+   <play hasball="PITT" down="1" togo="10" spot="PITT20" context="H,1,10,H20" playid="22,1,175" clock="03:33" text="PITT drive start at 03:33, PITT ball on PITT20." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="PITT20" context="H,1,10,H20" playid="22,2,176" type="R" text="BURNS,Chris rush for 7 yards to the PITT27 (Patella, Vinnie)." newcontext="H,2,3,H27">
+    <p_ru vh="H" name="BURNS,Chris" gain="7"></p_ru>
+    <p_tk vh="V" name="Patella, Vinnie"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="3" spot="PITT27" context="H,2,3,H27" playid="22,3,177" type="R" first="R" text="BURNS,Chris rush for 4 yards to the PITT31, 1ST DOWN PITT (Nicholson, T.)." newcontext="H,1,10,H31">
+    <p_ru vh="H" name="BURNS,Chris" gain="4"></p_ru>
+    <p_tk vh="V" name="Nicholson, T."></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="PITT31" context="H,1,10,H31" playid="22,4,178" type="R" text="BURNS,Chris rush for 5 yards to the PITT36 (Patella, Vinnie)." newcontext="H,2,5,H36">
+    <p_ru vh="H" name="BURNS,Chris" gain="5"></p_ru>
+    <p_tk vh="V" name="Patella, Vinnie"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="5" spot="PITT36" context="H,2,5,H36" playid="22,5,179" type="P" text="SUNSERI,Tino pass incomplete, QB hurry by Myers, Josh." newcontext="H,3,5,H36">
+    <p_pa vh="H" qb="SUNSERI,Tino" result="INC"></p_pa>
+    <p_qbh vh="V" name="Myers, Josh"></p_qbh>
+   </play>
+   <play hasball="PITT" down="3" togo="5" spot="PITT36" context="H,3,5,H36" playid="22,6,180" type="P" first="P" text="SUNSERI,Tino pass complete to SADDLER,Cameron for 24 yards to the YSU40, 1ST DOWN PITT (Marshall, Joe)." newcontext="H,1,10,V40">
+    <p_pa vh="H" qb="SUNSERI,Tino" result="COMP" rcv="SADDLER,Cameron" gain="24"></p_pa>
+    <p_tk vh="V" name="Marshall, Joe"></p_tk>
+   </play>
+   <play hasball="PITT" down="1" togo="10" spot="YSU40" context="H,1,10,V40" playid="22,7,181" type="R" text="BURNS,Chris rush for 1 yard to the YSU39 (Marshall, Joe;Sasson, John)." newcontext="H,2,9,V39">
+    <p_ru vh="H" name="BURNS,Chris" gain="1"></p_ru>
+    <p_tk vh="V" name="Marshall, Joe" assist="Y"></p_tk>
+    <p_tk vh="V" name="Sasson, John" assist="Y"></p_tk>
+   </play>
+   <play hasball="PITT" down="2" togo="9" spot="YSU39" context="H,2,9,V39" playid="22,8,182" type="R" text="BURNS,Chris rush for 1 yard to the YSU38 (Younkins, Joel)." newcontext="H,3,8,V38">
+    <p_ru vh="H" name="BURNS,Chris" gain="1"></p_ru>
+    <p_tk vh="V" name="Younkins, Joel"></p_tk>
+   </play>
+   <play hasball="PITT" down="3" togo="8" spot="YSU38" context="H,3,8,V38" playid="22,9,183" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,3,8,V38">
+   </play>
+   <drivesum plays="7" yards="42" top="3:33" driveindex="22" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Pittsburgh defeats Youngstown State by a score of 38 to 3."></play>
+   <score final="Y" V="3" H="38"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="YSU">
+    <firstdowns no="5" rush="2" pass="2" penalty="1"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:32"></misc>
+    <rush att="10" yds="29" gain="41" loss="12" td="0" long="2"></rush>
+    <pass comp="2" att="4" int="1" yds="27" td="0" long="0" sacks="1" sackyds="11"></pass>
+    <rcv no="2" yds="27" td="0" long="0"></rcv>
+    <defense tackua="9" tacka="4" tot_tack="13" tflua="2" tfla="0" tflyds="2" sacks="0" sackyds="0" qbh="1"></defense>
+   </qtrsummary>
+   <qtrsummary vh="H" id="PITT">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="3" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:28"></misc>
+    <rush att="9" yds="34" gain="35" loss="1" td="0" long="0"></rush>
+    <pass comp="3" att="4" int="0" yds="36" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="36" td="1" long="0"></rcv>
+    <ko no="1" yds="70" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="0" tot_tack="9" tflua="2" tfla="0" tflyds="12" sacks="6" sackyds="38" brup="1" qbh="2" int="1" intyds="0"></defense>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="PITT" down="3" togo="8" spot="YSU38" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="2" htor="3" dtgtext="Game Over" ldtext="Drive started: 03:33, 4th Qtr"></downtogo>
+ </plays>

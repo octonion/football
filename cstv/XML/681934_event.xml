@@ -1,0 +1,1030 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB30" context="V,1,10,V30" playid="0,1,0" text="Chowan wins toss, defers to 2nd half" newcontext="V,1,10,V30">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB30" context="V,1,10,V30" playid="0,2,1" text="CUFB ball on CUFB30." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB30" context="V,1,10,V30" playid="0,3,2" type="K" text="CLINE, C. kickoff 64 yards to the ODU6, Cowart, T.J. return 45 yards to the CUFB49 (STOVALL, J.)." newcontext="H,1,10,V49">
+    <p_ko vh="V" name="CLINE, C." gain="64"></p_ko>
+    <p_kr vh="H" name="Cowart, T.J." gain="45"></p_kr>
+    <p_tk vh="V" name="STOVALL, J."></p_tk>
+   </play>
+   <drivestart poss="H,V49,15:00" vh="H" spot="V49" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB49" context="H,1,10,V49" playid="1,1,3" type="R" text="DeMarco,Thomas rush for no gain to the CUFB49 (SCHOTT, R.)." newcontext="H,2,10,V49">
+    <p_ru vh="H" name="DeMarco,Thomas" gain="0"></p_ru>
+    <p_tk vh="V" name="SCHOTT, R."></p_tk>
+   </play>
+   <play hasball="ODU" down="2" togo="10" spot="CUFB49" context="H,2,10,V49" playid="1,2,4" type="P" first="P" text="DeMarco,Thomas pass complete to Evans, Reid for 25 yards to the CUFB24, 1ST DOWN ODU (GOODMAN, T.)." newcontext="H,1,10,V24">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="COMP" rcv="Evans, Reid" gain="25"></p_pa>
+    <p_tk vh="V" name="GOODMAN, T."></p_tk>
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB24" context="H,1,10,V24" playid="1,3,5" type="R" text="Parham,Jamar rush for 3 yards to the CUFB21 (PALMER, Greg)." newcontext="H,2,7,V21">
+    <p_ru vh="H" name="Parham,Jamar" gain="3"></p_ru>
+    <p_tk vh="V" name="PALMER, Greg"></p_tk>
+   </play>
+   <play hasball="ODU" down="2" togo="7" spot="CUFB21" context="H,2,7,V21" playid="1,4,6" type="P" text="DeMarco,Thomas pass incomplete to Lovitt,Chris (JOHNSON, M.)." newcontext="H,3,7,V21">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="INC" rcv="Lovitt,Chris"></p_pa>
+    <p_bu vh="V" name="JOHNSON, M."></p_bu>
+   </play>
+   <play hasball="ODU" down="3" togo="7" spot="CUFB21" context="H,3,7,V21" playid="1,5,7" type="P" text="DeMarco,Thomas pass complete to Thomas, Marquel for loss of 1 yard to the CUFB22 (CHARLES, P.)." newcontext="H,4,8,V22">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="COMP" rcv="Thomas, Marquel" gain="-1"></p_pa>
+    <p_tk vh="V" name="CHARLES, P." tfl="Y"></p_tk>
+   </play>
+   <play hasball="ODU" down="4" togo="8" spot="CUFB22" context="H,4,8,V22" playid="1,6,8" type="F" score="Y" clock="12:42" text="Hareza,Drew field goal attempt from 39 GOOD, clock 12:42." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Hareza,Drew" distance="39" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="3"></score>
+   <drivesum plays="6" yards="27" top="2:18" driveindex="1" complete="Y"></drivesum>
+   <play hasball="ODU" down="1" togo="0" spot="ODU30" context="H,1,0,H30" playid="1,7,9" type="K" text="Hareza,Drew kickoff 66 yards to the CUFB4, GOODMAN, T. return 17 yards to the CUFB21, fumble by GOODMAN, T. recovered by CUFB GOODMAN, T. at CUFB21." newcontext="V,1,10,V21">
+    <p_ko vh="H" name="Hareza,Drew" gain="66"></p_ko>
+    <p_kr vh="V" name="GOODMAN, T." gain="17"></p_kr>
+    <p_fumb vh="V" name="GOODMAN, T." at="V21" frvh="V" frname="GOODMAN, T."></p_fumb>
+   </play>
+   <drivestart poss="V,V21,12:42" vh="V" spot="V21" clock="12:42" driveindex="2,9"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB21" context="V,1,10,V21" playid="2,1,10" clock="12:42" text="CHOWAN drive start at 12:42." newcontext="V,1,10,V21">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB21" context="V,1,10,V21" playid="2,2,11" type="P" first="P" text="WESTLER, C. pass complete to ROBLEDO, K. for 10 yards to the CUFB31, 1ST DOWN CUFB (Aoelua, A.T.;Smith,Donald)." newcontext="V,1,10,V31">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="ROBLEDO, K." gain="10"></p_pa>
+    <p_tk vh="H" name="Aoelua, A.T." assist="Y"></p_tk>
+    <p_tk vh="H" name="Smith,Donald" assist="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB31" context="V,1,10,V31" playid="2,3,12" type="R" text="SPATES, J. rush for loss of 1 yard to the CUFB30 (Burnette,Chris)." newcontext="V,2,11,V30">
+    <p_ru vh="V" name="SPATES, J." gain="-1"></p_ru>
+    <p_tk vh="H" name="Burnette,Chris" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="11" spot="CUFB30" context="V,2,11,V30" playid="2,4,13" type="P" text="WESTLER, C. pass incomplete to RIVERS, S.." newcontext="V,3,11,V30">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="RIVERS, S."></p_pa>
+   </play>
+   <play hasball="CUFB" down="3" togo="11" spot="CUFB30" context="V,3,11,V30" playid="2,5,14" type="P" text="WESTLER, C. sacked for loss of 10 yards to the CUFB20 (Burnette,Chris;Turner,Andrew)." newcontext="V,4,21,V20">
+    <p_pa vh="V" qb="WESTLER, C." result="SACK" gain="-10"></p_pa>
+    <p_tk vh="H" name="Burnette,Chris" sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Turner,Andrew" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="4" togo="21" spot="CUFB20" context="V,4,21,V20" playid="2,6,15" type="U" text="ROBLEDO, K. punt 30 yards to the 50 yardline, out-of-bounds." ob="Y" newcontext="H,1,10,H50">
+    <p_pu vh="V" name="ROBLEDO, K." gain="30" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="4" yards="-1" top="2:00" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H50,12:42" vh="H" spot="H50" clock="12:42" driveindex="3,15"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="ODU50" context="H,1,10,H50" playid="3,1,16" clock="10:42" text="OLD DOMINION drive start at 10:42." newcontext="H,1,10,H50">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="ODU50" context="H,1,10,H50" playid="3,2,17" type="P" first="P" score="Y" clock="10:34" text="DeMarco,Thomas pass complete to Thomas, Marquel for 50 yards to the CUFB0, 1ST DOWN ODU, TOUCHDOWN, clock 10:34." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="COMP" rcv="Thomas, Marquel" gain="50"></p_pa>
+   </play>
+   <play hasball="ODU" down="1" togo="0" spot="CUFB03" context="H,1,0,V03" playid="3,3,18" type="X" score="Y" text="Hareza,Drew kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Hareza,Drew" qb="Hareza,Drew" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="10"></score>
+   <drivesum plays="1" yards="50" top="0:08" driveindex="3" complete="Y"></drivesum>
+   <play hasball="ODU" down="1" togo="0" spot="ODU30" context="H,1,0,H30" playid="3,4,19" type="K" text="Hareza,Drew kickoff 63 yards to the CUFB7, GOODMAN, T. return 17 yards to the CUFB24 (Wilkins, Craig)." newcontext="V,1,10,V24">
+    <p_ko vh="H" name="Hareza,Drew" gain="63"></p_ko>
+    <p_kr vh="V" name="GOODMAN, T." gain="17"></p_kr>
+    <p_tk vh="H" name="Wilkins, Craig"></p_tk>
+   </play>
+   <drivestart poss="V,V24,10:34" vh="V" spot="V24" clock="10:34" driveindex="4,19"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB24" context="V,1,10,V24" playid="4,1,20" clock="10:34" text="CHOWAN drive start at 10:34." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB24" context="V,1,10,V24" playid="4,2,21" type="R" text="RIVERS, S. rush for 5 yards to the CUFB29, out-of-bounds." ob="Y" newcontext="V,2,5,V29">
+    <p_ru vh="V" name="RIVERS, S." gain="5"></p_ru>
+   </play>
+   <play hasball="CUFB" down="2" togo="5" spot="CUFB29" context="V,2,5,V29" playid="4,3,22" type="R" turnover="F" text="SPATES, J. rush for 2 yards to the CUFB31, fumble by SPATES, J. recovered by ODU Simmons, Devon at CUFB40, out-of-bounds." ob="Y" newcontext="H,1,10,V40">
+    <p_ru vh="V" name="SPATES, J." gain="2"></p_ru>
+    <p_fumb vh="V" name="SPATES, J." at="V40" frvh="H" frname="Simmons, Devon"></p_fumb>
+   </play>
+   <drivesum plays="2" yards="16" top="0:56" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="H,V40,10:34" vh="H" spot="V40" clock="10:34" driveindex="5,22"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB40" context="H,1,10,V40" playid="5,1,23" clock="09:38" text="OLD DOMINION drive start at 09:38." newcontext="H,1,10,V40">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB40" context="H,1,10,V40" playid="5,2,24" type="R" first="R" text="Thomas, Marquel rush for 19 yards to the CUFB21, 1ST DOWN ODU (SCOTT, B.)." newcontext="H,1,10,V21">
+    <p_ru vh="H" name="Thomas, Marquel" gain="19"></p_ru>
+    <p_tk vh="V" name="SCOTT, B."></p_tk>
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB21" context="H,1,10,V21" playid="5,3,25" type="R" text="Cooper, Bobby rush for 5 yards to the CUFB16." newcontext="H,2,5,V16">
+    <p_ru vh="H" name="Cooper, Bobby" gain="5"></p_ru>
+   </play>
+   <play hasball="ODU" down="2" togo="5" spot="CUFB16" context="H,2,5,V16" playid="5,4,26" type="R" text="Cooper, Bobby rush for 4 yards to the CUFB12 (SCHOTT, R.)." newcontext="H,3,1,V12">
+    <p_ru vh="H" name="Cooper, Bobby" gain="4"></p_ru>
+    <p_tk vh="V" name="SCHOTT, R."></p_tk>
+   </play>
+   <play hasball="ODU" down="3" togo="1" spot="CUFB12" context="H,3,1,V12" playid="5,5,27" type="R" text="Cooper, Bobby rush for loss of 1 yard to the CUFB13 (SCHOTT, R.)." newcontext="H,4,2,V13">
+    <p_ru vh="H" name="Cooper, Bobby" gain="-1"></p_ru>
+    <p_tk vh="V" name="SCHOTT, R." tfl="Y"></p_tk>
+   </play>
+   <play hasball="ODU" down="4" togo="2" spot="CUFB13" context="H,4,2,V13" playid="5,6,28" type="P" text="Cooper, Bobby pass incomplete to Thomas, Marquel." newcontext="V,1,10,V13">
+    <p_pa vh="H" qb="Cooper, Bobby" result="INC" rcv="Thomas, Marquel"></p_pa>
+   </play>
+   <drivesum plays="5" yards="27" top="0:00" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,V13,09:38" vh="V" spot="V13" clock="09:38" driveindex="6,28"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB13" context="V,1,10,V13" playid="6,1,29" text="4th and 7." newcontext="V,4,7,V13">
+   </play>
+   <play hasball="CUFB" down="4" togo="7" spot="CUFB13" context="V,4,7,V13" playid="6,2,30" text="Change of possession, ODU ball on CUFB13, 4th and 7." newcontext="H,4,7,V13">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,V13,09:38" vh="H" spot="V13" clock="09:38" driveindex="7,30"></drivestart>
+   <play hasball="ODU" down="4" togo="7" spot="CUFB13" context="H,4,7,V13" playid="7,1,31" clock="09:38" text="OLD DOMINION drive start at 09:38." newcontext="H,4,7,V13">
+   </play>
+   <play hasball="ODU" down="4" togo="7" spot="CUFB13" context="H,4,7,V13" playid="7,2,32" type="F" score="Y" clock="07:55" text="Hareza,Drew field goal attempt from 30 GOOD, clock 07:55." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Hareza,Drew" distance="30" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="13"></score>
+   <drivesum plays="1" yards="0" top="1:43" driveindex="7" complete="Y"></drivesum>
+   <play hasball="ODU" down="1" togo="0" spot="ODU30" context="H,1,0,H30" playid="7,3,33" type="K" text="Hareza,Drew kickoff 65 yards to the CUFB5, GOODMAN, T. return 49 yards to the ODU46 (Bryant, Marvin;Wilkins,Markell)." newcontext="V,1,10,H46">
+    <p_ko vh="H" name="Hareza,Drew" gain="65"></p_ko>
+    <p_kr vh="V" name="GOODMAN, T." gain="49"></p_kr>
+    <p_tk vh="H" name="Bryant, Marvin" assist="Y"></p_tk>
+    <p_tk vh="H" name="Wilkins,Markell" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,H46,07:55" vh="V" spot="H46" clock="07:55" driveindex="8,33"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="ODU46" context="V,1,10,H46" playid="8,1,34" clock="07:55" text="CHOWAN drive start at 07:55." newcontext="V,1,10,H46">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="ODU46" context="V,1,10,H46" playid="8,2,35" type="P" text="WESTLER, C. pass complete to HODRICK, K. for 7 yards to the ODU39 (Porter,Mateus)." newcontext="V,2,3,H39">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="HODRICK, K." gain="7"></p_pa>
+    <p_tk vh="H" name="Porter,Mateus"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="3" spot="ODU39" context="V,2,3,H39" playid="8,3,36" type="R" text="WESTLER, C. rush for 2 yards to the ODU37 (Turner,Andrew)." newcontext="V,3,1,H37">
+    <p_ru vh="V" name="WESTLER, C." gain="2"></p_ru>
+    <p_tk vh="H" name="Turner,Andrew"></p_tk>
+   </play>
+   <play hasball="CUFB" down="3" togo="1" spot="ODU37" context="V,3,1,H37" playid="8,4,37" type="P" first="P" score="Y" clock="06:26" text="WESTLER, C. pass complete to BENTON, E. for 37 yards to the ODU0, 1ST DOWN CUFB, TOUCHDOWN, clock 06:26." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="BENTON, E." gain="37"></p_pa>
+   </play>
+   <play hasball="CUFB" down="1" togo="0" spot="ODU03" context="V,1,0,H03" playid="8,5,38" type="X" text="CLINE, C. kick attempt failed (blocked) (blocked by McClam. Edmon)." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="CLINE, C." qb="CLINE, C." type="K" result="BLOCKED"></p_pat>
+   </play>
+   <score V="6" H="13"></score>
+   <drivesum plays="3" yards="46" top="1:29" driveindex="8" complete="Y"></drivesum>
+   <play hasball="CUFB" down="1" togo="0" spot="CUFB30" context="V,1,0,V30" playid="8,6,39" type="K" text="CLINE, C. kickoff 62 yards to the ODU8, Cowart, T.J. return 21 yards to the ODU29 (BROWN,J.)." newcontext="H,1,10,H29">
+    <p_ko vh="V" name="CLINE, C." gain="62"></p_ko>
+    <p_kr vh="H" name="Cowart, T.J." gain="21"></p_kr>
+    <p_tk vh="V" name="BROWN,J."></p_tk>
+   </play>
+   <drivestart poss="H,H29,06:26" vh="H" spot="H29" clock="06:26" driveindex="9,39"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="ODU29" context="H,1,10,H29" playid="9,1,40" clock="06:26" text="OLD DOMINION drive start at 06:26." newcontext="H,1,10,H29">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="ODU29" context="H,1,10,H29" playid="9,2,41" type="R" text="Crawford, Mario rush for 8 yards to the ODU37 (SCOTT, B.)." newcontext="H,2,2,H37">
+    <p_ru vh="H" name="Crawford, Mario" gain="8"></p_ru>
+    <p_tk vh="V" name="SCOTT, B."></p_tk>
+   </play>
+   <play hasball="ODU" down="2" togo="2" spot="ODU37" context="H,2,2,H37" playid="9,3,42" type="R" text="Crawford, Mario rush for 1 yard to the ODU38 (PALMER, Greg;REEDY, E.)." newcontext="H,3,1,H38">
+    <p_ru vh="H" name="Crawford, Mario" gain="1"></p_ru>
+    <p_tk vh="V" name="PALMER, Greg" assist="Y"></p_tk>
+    <p_tk vh="V" name="REEDY, E." assist="Y"></p_tk>
+   </play>
+   <play hasball="ODU" down="3" togo="1" spot="ODU38" context="H,3,1,H38" playid="9,4,43" type="R" first="R" text="DeMarco,Thomas rush for 12 yards to the 50 yardline, 1ST DOWN ODU (SCOTT, B.)." newcontext="H,1,10,H50">
+    <p_ru vh="H" name="DeMarco,Thomas" gain="12"></p_ru>
+    <p_tk vh="V" name="SCOTT, B."></p_tk>
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="ODU50" context="H,1,10,H50" playid="9,5,44" type="E" text="PENALTY ODU personal foul off-setting, PENALTY CUFB personal foul off-setting." newcontext="H,1,10,H50">
+    <p_pn vh="H" code="PF" type="personal foul" result="OFFSET"></p_pn>
+    <p_pn vh="V" code="PF" type="personal foul" result="OFFSET"></p_pn>
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="ODU50" context="H,1,10,H50" playid="9,6,45" type="P" text="DeMarco,Thomas pass incomplete to Arain, Alex." newcontext="H,2,10,H50">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="INC" rcv="Arain, Alex"></p_pa>
+   </play>
+   <play hasball="ODU" down="2" togo="10" spot="ODU50" context="H,2,10,H50" playid="9,7,46" type="P" text="DeMarco,Thomas pass complete to Smalley,Monty for 3 yards to the CUFB47 (SCOTT, B.)." newcontext="H,3,7,V47">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="COMP" rcv="Smalley,Monty" gain="3"></p_pa>
+    <p_tk vh="V" name="SCOTT, B."></p_tk>
+   </play>
+   <play hasball="ODU" down="3" togo="7" spot="CUFB47" context="H,3,7,V47" playid="9,8,47" type="P" first="P" text="DeMarco,Thomas pass complete to Evans, Reid for 29 yards to the CUFB18, 1ST DOWN ODU, out-of-bounds (SCOTT, B.)." ob="Y" newcontext="H,1,10,V18">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="COMP" rcv="Evans, Reid" gain="29"></p_pa>
+    <p_tk vh="V" name="SCOTT, B."></p_tk>
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB18" context="H,1,10,V18" playid="9,9,48" type="P" text="DeMarco,Thomas pass complete to Evans, Reid for 5 yards to the CUFB13 (MOORE, J.)." newcontext="H,2,5,V13">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="COMP" rcv="Evans, Reid" gain="5"></p_pa>
+    <p_tk vh="V" name="MOORE, J."></p_tk>
+   </play>
+   <play hasball="ODU" down="2" togo="5" spot="CUFB13" context="H,2,5,V13" playid="9,10,49" type="P" text="DeMarco,Thomas pass incomplete to Evans, Reid, dropped pass (MOORE, J.)." newcontext="H,3,5,V13">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="DROP" rcv="Evans, Reid"></p_pa>
+    <p_bu vh="V" name="MOORE, J."></p_bu>
+   </play>
+   <play hasball="ODU" down="3" togo="5" spot="CUFB13" context="H,3,5,V13" playid="9,11,50" type="P" text="DeMarco,Thomas pass complete to Arain, Alex for no gain to the CUFB13 (MOORE, J.)." newcontext="H,4,5,V13">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="COMP" rcv="Arain, Alex" gain="0"></p_pa>
+    <p_tk vh="V" name="MOORE, J."></p_tk>
+   </play>
+   <play hasball="ODU" down="4" togo="5" spot="CUFB13" context="H,4,5,V13" playid="9,12,51" type="F" score="Y" clock="02:53" text="Hareza,Drew field goal attempt from 30 GOOD, clock 02:53." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Hareza,Drew" distance="30" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="6" H="16"></score>
+   <drivesum plays="10" yards="58" top="3:33" driveindex="9" complete="Y"></drivesum>
+   <play hasball="ODU" down="1" togo="0" spot="ODU30" context="H,1,0,H30" playid="9,13,52" type="K" text="Hareza,Drew kickoff 60 yards to the CUFB10, SPATES, J. return 28 yards to the CUFB38 (McJunkins,Mych)." newcontext="V,1,10,V38">
+    <p_ko vh="H" name="Hareza,Drew" gain="60"></p_ko>
+    <p_kr vh="V" name="SPATES, J." gain="28"></p_kr>
+    <p_tk vh="H" name="McJunkins,Mych"></p_tk>
+   </play>
+   <drivestart poss="V,V38,02:53" vh="V" spot="V38" clock="02:53" driveindex="10,52"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB38" context="V,1,10,V38" playid="10,1,53" clock="02:53" text="CHOWAN drive start at 02:53." newcontext="V,1,10,V38">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB38" context="V,1,10,V38" playid="10,2,54" type="R" text="SMALLS, E. rush for loss of 2 yards to the CUFB36 (King,Chad)." newcontext="V,2,12,V36">
+    <p_ru vh="V" name="SMALLS, E." gain="-2"></p_ru>
+    <p_tk vh="H" name="King,Chad" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="12" spot="CUFB36" context="V,2,12,V36" playid="10,3,55" type="P" text="WESTLER, C. pass complete to SMALLS, E. for 11 yards to the CUFB47 (Porter,Mateus;Sweedyk,Jake)." newcontext="V,3,1,V47">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="SMALLS, E." gain="11"></p_pa>
+    <p_tk vh="H" name="Porter,Mateus" assist="Y"></p_tk>
+    <p_tk vh="H" name="Sweedyk,Jake" assist="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="3" togo="1" spot="CUFB47" context="V,3,1,V47" playid="10,4,56" type="P" text="WESTLER, C. pass incomplete to HODRICK, K.." newcontext="V,4,1,V47">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="HODRICK, K."></p_pa>
+   </play>
+   <play hasball="CUFB" down="4" togo="1" spot="CUFB47" context="V,4,1,V47" playid="10,5,57" type="P" first="P" text="ROBLEDO, K. pass complete to CHARLES, P. for 29 yards to the ODU24, 1ST DOWN CUFB, out-of-bounds." ob="Y" newcontext="V,1,10,H24">
+    <p_pa vh="V" qb="ROBLEDO, K." result="COMP" rcv="CHARLES, P." gain="29"></p_pa>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="ODU24" context="V,1,10,H24" playid="10,6,58" type="P" text="WESTLER, C. pass incomplete to HODRICK, K., PENALTY CUFB illegal formation declined." newcontext="V,2,10,H24">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="HODRICK, K."></p_pa>
+    <p_pn vh="V" code="FO" type="illegal formation" name="HODRICK, K." result="DECLINE"></p_pn>
+   </play>
+   <play hasball="CUFB" down="2" togo="10" spot="ODU24" context="V,2,10,H24" playid="10,7,59" type="P" text="WESTLER, C. pass incomplete to SMALLS, E.." newcontext="V,3,10,H24">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="SMALLS, E."></p_pa>
+   </play>
+   <play hasball="CUFB" down="3" togo="10" spot="ODU24" context="V,3,10,H24" playid="10,8,60" type="P" text="WESTLER, C. pass complete to HODRICK, K. for 5 yards to the ODU19 (McJunkins,Mych)." newcontext="V,4,5,H19">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="HODRICK, K." gain="5"></p_pa>
+    <p_tk vh="H" name="McJunkins,Mych"></p_tk>
+   </play>
+   <score qtr="1" V="6" H="16"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CUFB">
+    <firstdowns no="3" rush="0" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="2" lost="1"></fumbles>
+    <misc yds="0" top="09:01"></misc>
+    <rush att="6" yds="5" gain="18" loss="13" td="0" long="5"></rush>
+    <pass comp="6" att="10" int="0" yds="99" td="1" long="37" sacks="1" sackyds="10"></pass>
+    <rcv no="6" yds="99" td="1" long="37"></rcv>
+    <punt no="1" yds="30" long="30" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="30.0"></punt>
+    <ko no="2" yds="126" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="0"></pat>
+    <defense tackua="15" tacka="2" tot_tack="17" tflua="2" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="2"></defense>
+    <kr no="4" yds="111" td="0" long="49"></kr>
+    <fumbles no="2" lost="1"></fumbles>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ODU">
+    <firstdowns no="5" rush="2" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:59"></misc>
+    <rush att="9" yds="51" gain="52" loss="1" td="0" long="19"></rush>
+    <pass comp="7" att="11" int="0" yds="111" td="1" long="50" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="111" td="1" long="50"></rcv>
+    <ko no="4" yds="254" ob="0" tb="0"></ko>
+    <fg made="3" att="3" long="39" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="7" tacka="8" tot_tack="15" tflua="4" tfla="0" tflyds="23" sacks="1" sackyds="10" blkd="1" fr="1" fryds="0"></defense>
+    <kr no="2" yds="66" td="0" long="45"></kr>
+    <scoring td="1" fg="3" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="CUFB" down="4" togo="5" spot="ODU19" context="V,4,5,H19" playid="10,9,61" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,4,5,H19">
+   </play>
+   <play hasball="CUFB" down="4" togo="5" spot="ODU19" context="V,4,5,H19" playid="10,10,62" type="F" score="Y" clock="14:55" text="CLINE, C. field goal attempt from 35 GOOD, clock 14:55." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="CLINE, C." distance="35" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="9" H="16"></score>
+   <drivesum plays="8" yards="43" top="2:58" driveindex="10" complete="Y"></drivesum>
+   <play hasball="CUFB" down="1" togo="0" spot="CUFB30" context="V,1,0,V30" playid="10,11,63" type="K" text="CLINE, C. kickoff 52 yards to the ODU18, Crawford, Mario return 23 yards to the ODU41 (SCHOTT, R.;HOLLMAN, K.)." newcontext="H,1,10,H41">
+    <p_ko vh="V" name="CLINE, C." gain="52"></p_ko>
+    <p_kr vh="H" name="Crawford, Mario" gain="23"></p_kr>
+    <p_tk vh="V" name="SCHOTT, R." assist="Y"></p_tk>
+    <p_tk vh="V" name="HOLLMAN, K." assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H41,14:55" vh="H" spot="H41" clock="14:55" driveindex="11,63"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="ODU41" context="H,1,10,H41" playid="11,1,64" clock="14:55" text="OLD DOMINION drive start at 14:55." newcontext="H,1,10,H41">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="ODU41" context="H,1,10,H41" playid="11,2,65" type="R" first="R" text="Parham,Jamar rush for 19 yards to the CUFB40, 1ST DOWN ODU (HENNEGHAN, M.)." newcontext="H,1,10,V40">
+    <p_ru vh="H" name="Parham,Jamar" gain="19"></p_ru>
+    <p_tk vh="V" name="HENNEGHAN, M."></p_tk>
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB40" context="H,1,10,V40" playid="11,3,66" type="P" text="DeMarco,Thomas pass incomplete to Thomas, Marquel, dropped pass." newcontext="H,2,10,V40">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="DROP" rcv="Thomas, Marquel"></p_pa>
+   </play>
+   <play hasball="ODU" down="2" togo="10" spot="CUFB40" context="H,2,10,V40" playid="11,4,67" type="R" text="DeMarco,Thomas rush for 5 yards to the CUFB35 (DEWEESE, A.;SCOTT, B.)." newcontext="H,3,5,V35">
+    <p_ru vh="H" name="DeMarco,Thomas" gain="5"></p_ru>
+    <p_tk vh="V" name="DEWEESE, A." assist="Y"></p_tk>
+    <p_tk vh="V" name="SCOTT, B." assist="Y"></p_tk>
+   </play>
+   <play hasball="ODU" down="3" togo="5" spot="CUFB35" context="H,3,5,V35" playid="11,5,68" type="P" first="P" text="DeMarco,Thomas pass complete to Evans, Reid for 6 yards to the CUFB29, 1ST DOWN ODU (CHARLES, P.)." newcontext="H,1,10,V29">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="COMP" rcv="Evans, Reid" gain="6"></p_pa>
+    <p_tk vh="V" name="CHARLES, P."></p_tk>
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB29" context="H,1,10,V29" playid="11,6,69" type="R" first="R" text="Parham,Jamar rush for 19 yards to the CUFB10, 1ST DOWN ODU (CHARLES, P.)." newcontext="H,1,0,V10">
+    <p_ru vh="H" name="Parham,Jamar" gain="19"></p_ru>
+    <p_tk vh="V" name="CHARLES, P."></p_tk>
+   </play>
+   <play hasball="ODU" down="1" togo="0" spot="CUFB10" context="H,1,0,V10" playid="11,7,70" type="R" text="DeMarco,Thomas rush for 4 yards to the CUFB6 (SAUNDERS, K.;HENNEGHAN, M.)." newcontext="H,2,0,V06">
+    <p_ru vh="H" name="DeMarco,Thomas" gain="4"></p_ru>
+    <p_tk vh="V" name="SAUNDERS, K." assist="Y"></p_tk>
+    <p_tk vh="V" name="HENNEGHAN, M." assist="Y"></p_tk>
+   </play>
+   <play hasball="ODU" down="2" togo="0" spot="CUFB06" context="H,2,0,V06" playid="11,8,71" type="R" text="DeMarco,Thomas rush for loss of 4 yards to the CUFB10, fumble by DeMarco,Thomas recovered by ODU Crawford, Mario at CUFB11." newcontext="H,3,0,V11">
+    <p_ru vh="H" name="DeMarco,Thomas" gain="-4"></p_ru>
+    <p_fumb vh="H" name="DeMarco,Thomas" at="V11" frvh="H" frname="Crawford, Mario"></p_fumb>
+   </play>
+   <play hasball="ODU" down="3" togo="0" spot="CUFB11" context="H,3,0,V11" playid="11,9,72" type="P" text="DeMarco,Thomas pass complete to Jackson,Dorian for loss of 2 yards to the CUFB13 (BALL-COLLINS,J.;DEWEESE, A.)." newcontext="H,4,0,V13">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="COMP" rcv="Jackson,Dorian" gain="-2"></p_pa>
+    <p_tk vh="V" name="BALL-COLLINS,J." tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="DEWEESE, A." tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="ODU" down="4" togo="0" spot="CUFB13" context="H,4,0,V13" playid="11,10,73" type="F" score="Y" clock="11:39" text="Hareza,Drew field goal attempt from 30 GOOD, clock 11:39." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Hareza,Drew" distance="30" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="9" H="19"></score>
+   <drivesum plays="9" yards="46" top="3:16" driveindex="11" complete="Y"></drivesum>
+   <play hasball="ODU" down="1" togo="0" spot="ODU30" context="H,1,0,H30" playid="11,11,74" type="K" text="Hareza,Drew kickoff 66 yards to the CUFB4, out-of-bounds, CUFB ball on CUFB40." ob="Y" newcontext="V,1,10,V40">
+    <p_ko vh="H" name="Hareza,Drew" gain="66" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V40,11:39" vh="V" spot="V40" clock="11:39" driveindex="12,74"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB40" context="V,1,10,V40" playid="12,1,75" clock="11:39" text="CHOWAN drive start at 11:39." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB40" context="V,1,10,V40" playid="12,2,76" type="P" text="WESTLER, C. pass incomplete to SMALLS, E., dropped pass." newcontext="V,2,10,V40">
+    <p_pa vh="V" qb="WESTLER, C." result="DROP" rcv="SMALLS, E."></p_pa>
+   </play>
+   <play hasball="CUFB" down="2" togo="10" spot="CUFB40" context="V,2,10,V40" playid="12,3,77" type="P" first="P" text="WESTLER, C. pass complete to ROBLEDO, K. for 13 yards to the ODU47, 1ST DOWN CUFB (Simmons, Devon;Smith,Donald)." newcontext="V,1,10,H47">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="ROBLEDO, K." gain="13"></p_pa>
+    <p_tk vh="H" name="Simmons, Devon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Smith,Donald" assist="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="ODU47" context="V,1,10,H47" playid="12,4,78" type="R" text="SPATES, J. rush for 3 yards to the ODU44 (Turner,Andrew)." newcontext="V,2,7,H44">
+    <p_ru vh="V" name="SPATES, J." gain="3"></p_ru>
+    <p_tk vh="H" name="Turner,Andrew"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="7" spot="ODU44" context="V,2,7,H44" playid="12,5,79" type="P" text="WESTLER, C. pass incomplete to RIVERS, S.." newcontext="V,3,7,H44">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="RIVERS, S."></p_pa>
+   </play>
+   <play hasball="CUFB" down="3" togo="7" spot="ODU44" context="V,3,7,H44" playid="12,6,80" type="R" first="R" text="WESTLER, C. rush for 7 yards to the ODU37, 1ST DOWN CUFB (Fuller,Jason;Smith,Donald)." newcontext="V,1,10,H37">
+    <p_ru vh="V" name="WESTLER, C." gain="7"></p_ru>
+    <p_tk vh="H" name="Fuller,Jason" assist="Y"></p_tk>
+    <p_tk vh="H" name="Smith,Donald" assist="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="ODU37" context="V,1,10,H37" playid="12,7,81" type="R" text="WESTLER, C. rush for 5 yards to the ODU32 (Porter,Mateus)." newcontext="V,2,5,H32">
+    <p_ru vh="V" name="WESTLER, C." gain="5"></p_ru>
+    <p_tk vh="H" name="Porter,Mateus"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="5" spot="ODU32" context="V,2,5,H32" playid="12,8,82" type="P" text="WESTLER, C. pass incomplete to HODRICK, K.." newcontext="V,3,5,H32">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="HODRICK, K."></p_pa>
+   </play>
+   <play hasball="CUFB" down="3" togo="5" spot="ODU32" context="V,3,5,H32" playid="12,9,83" type="E" text="PENALTY CUFB false start (SPATES, J.) 5 yards to the ODU37." newcontext="V,3,10,H37">
+    <p_pn vh="V" code="FS" type="false start" name="SPATES, J." result="ACCEPT" at="H32" yards="5"></p_pn>
+   </play>
+   <play hasball="CUFB" down="3" togo="10" spot="ODU37" context="V,3,10,H37" playid="12,10,84" type="P" first="P" text="WESTLER, C. pass complete to ROBLEDO, K. for 10 yards to the ODU27, 1ST DOWN CUFB (Cowart, T.J.)." newcontext="V,1,10,H27">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="ROBLEDO, K." gain="10"></p_pa>
+    <p_tk vh="H" name="Cowart, T.J."></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="ODU27" context="V,1,10,H27" playid="12,11,85" type="#" clock="09:15" text="Timeout Old Dominion, clock 09:15." newcontext="V,1,10,H27">
+    <p_to vh="H" team="Old Dominion"></p_to>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="ODU27" context="V,1,10,H27" playid="12,12,86" type="R" text="SPATES, J. rush for 3 yards to the ODU24 (Porter,Mateus)." newcontext="V,2,7,H24">
+    <p_ru vh="V" name="SPATES, J." gain="3"></p_ru>
+    <p_tk vh="H" name="Porter,Mateus"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="7" spot="ODU24" context="V,2,7,H24" playid="12,13,87" type="R" text="SPATES, J. rush for loss of 2 yards to the ODU26 (Porter,Mateus;Wilkins, Craig)." newcontext="V,3,9,H26">
+    <p_ru vh="V" name="SPATES, J." gain="-2"></p_ru>
+    <p_tk vh="H" name="Porter,Mateus" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Wilkins, Craig" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="3" togo="9" spot="ODU26" context="V,3,9,H26" playid="12,14,88" type="P" first="P" text="WESTLER, C. pass complete to ROBLEDO, K. for 20 yards to the ODU6, 1ST DOWN CUFB (Cowart, T.J.)." newcontext="V,1,0,H06">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="ROBLEDO, K." gain="20"></p_pa>
+    <p_tk vh="H" name="Cowart, T.J."></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="0" spot="ODU06" context="V,1,0,H06" playid="12,15,89" type="R" score="Y" clock="07:06" text="SPATES, J. rush for 6 yards to the ODU0, TOUCHDOWN, clock 07:06." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="SPATES, J." gain="6"></p_ru>
+   </play>
+   <play hasball="CUFB" down="1" togo="0" spot="ODU03" context="V,1,0,H03" playid="12,16,90" type="X" text="CLINE, C. kick attempt failed (blocked) (blocked by McClam. Edmon)." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="CLINE, C." qb="CLINE, C." type="K" result="BLOCKED"></p_pat>
+   </play>
+   <score V="15" H="19"></score>
+   <play hasball="CUFB" down="1" togo="0" spot="CUFB30" context="V,1,0,V30" playid="12,17,91" type="E" text="CLINE, C. kickoff 67 yards to the ODU3, Cowart, T.J. return to the ODU28 (CHARLES, P.), PENALTY ODU holding off-setting, PENALTY CUFB face mask off-setting, NO PLAY." newcontext="V,1,0,V30">
+    <p_pn vh="H" code="HO" type="holding" result="OFFSET"></p_pn>
+    <p_pn vh="V" code="FM" type="face mask" result="OFFSET"></p_pn>
+   </play>
+   <drivesum plays="12" yards="60" top="4:33" driveindex="12" complete="Y"></drivesum>
+   <play hasball="CUFB" down="1" togo="0" spot="CUFB30" context="V,1,0,V30" playid="12,18,92" type="K" text="CLINE, C. kickoff 63 yards to the ODU7, Crawford, Mario return 76 yards to the CUFB17 (CLINE, C.)." newcontext="H,1,10,V17">
+    <p_ko vh="V" name="CLINE, C." gain="63"></p_ko>
+    <p_kr vh="H" name="Crawford, Mario" gain="76"></p_kr>
+    <p_tk vh="V" name="CLINE, C."></p_tk>
+   </play>
+   <drivestart poss="H,V17,07:06" vh="H" spot="V17" clock="07:06" driveindex="13,92"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB17" context="H,1,10,V17" playid="13,1,93" clock="07:06" text="OLD DOMINION drive start at 07:06." newcontext="H,1,10,V17">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB17" context="H,1,10,V17" playid="13,2,94" type="R" text="Parham,Jamar rush for 3 yards to the CUFB14 (PALMER, Greg)." newcontext="H,2,7,V14">
+    <p_ru vh="H" name="Parham,Jamar" gain="3"></p_ru>
+    <p_tk vh="V" name="PALMER, Greg"></p_tk>
+   </play>
+   <play hasball="ODU" down="2" togo="7" spot="CUFB14" context="H,2,7,V14" playid="13,3,95" type="R" first="R" text="Parham,Jamar rush for 8 yards to the CUFB6, 1ST DOWN ODU, out-of-bounds (GOODMAN, T.)." ob="Y" newcontext="H,1,0,V06">
+    <p_ru vh="H" name="Parham,Jamar" gain="8"></p_ru>
+    <p_tk vh="V" name="GOODMAN, T."></p_tk>
+   </play>
+   <play hasball="ODU" down="1" togo="0" spot="CUFB06" context="H,1,0,V06" playid="13,4,96" type="R" text="Parham,Jamar rush for 1 yard to the CUFB5 (SCHOTT, R.)." newcontext="H,2,0,V05">
+    <p_ru vh="H" name="Parham,Jamar" gain="1"></p_ru>
+    <p_tk vh="V" name="SCHOTT, R."></p_tk>
+   </play>
+   <play hasball="ODU" down="2" togo="0" spot="CUFB05" context="H,2,0,V05" playid="13,5,97" type="R" text="Parham,Jamar rush for 4 yards to the CUFB1 (GOODMAN, T.)." newcontext="H,3,0,V01">
+    <p_ru vh="H" name="Parham,Jamar" gain="4"></p_ru>
+    <p_tk vh="V" name="GOODMAN, T."></p_tk>
+   </play>
+   <play hasball="ODU" down="3" togo="0" spot="CUFB01" context="H,3,0,V01" playid="13,6,98" type="R" text="Parham,Jamar rush for no gain to the CUFB1 (SCHOTT, R.;JOHNSON, M.)." newcontext="H,4,0,V01">
+    <p_ru vh="H" name="Parham,Jamar" gain="0"></p_ru>
+    <p_tk vh="V" name="SCHOTT, R." assist="Y"></p_tk>
+    <p_tk vh="V" name="JOHNSON, M." assist="Y"></p_tk>
+   </play>
+   <play hasball="ODU" down="4" togo="0" spot="CUFB01" context="H,4,0,V01" playid="13,7,99" type="R" score="Y" clock="04:47" text="Parham,Jamar rush for 1 yard to the CUFB0, TOUCHDOWN, clock 04:47." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Parham,Jamar" gain="1"></p_ru>
+   </play>
+   <play hasball="ODU" down="1" togo="0" spot="CUFB03" context="H,1,0,V03" playid="13,8,100" type="X" score="Y" text="Hareza,Drew kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Hareza,Drew" qb="Hareza,Drew" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="15" H="26"></score>
+   <drivesum plays="6" yards="17" top="2:19" driveindex="13" complete="Y"></drivesum>
+   <play hasball="ODU" down="1" togo="0" spot="ODU30" context="H,1,0,H30" playid="13,9,101" type="K" text="Hareza,Drew kickoff 66 yards to the CUFB4, GOODMAN, T. return 35 yards to the CUFB39 (Cowart, T.J.)." newcontext="V,1,10,V39">
+    <p_ko vh="H" name="Hareza,Drew" gain="66"></p_ko>
+    <p_kr vh="V" name="GOODMAN, T." gain="35"></p_kr>
+    <p_tk vh="H" name="Cowart, T.J."></p_tk>
+   </play>
+   <drivestart poss="V,V39,04:47" vh="V" spot="V39" clock="04:47" driveindex="14,101"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB39" context="V,1,10,V39" playid="14,1,102" clock="04:47" text="CHOWAN drive start at 04:47." newcontext="V,1,10,V39">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB39" context="V,1,10,V39" playid="14,2,103" type="P" text="WESTLER, C. pass complete to ROBLEDO, K. for 4 yards to the CUFB43 (Aoelua, A.T.)." newcontext="V,2,6,V43">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="ROBLEDO, K." gain="4"></p_pa>
+    <p_tk vh="H" name="Aoelua, A.T."></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="6" spot="CUFB43" context="V,2,6,V43" playid="14,3,104" type="R" text="SPATES, J. rush for 1 yard to the CUFB44 (McJunkins,Mych;Saylor,Erik)." newcontext="V,3,5,V44">
+    <p_ru vh="V" name="SPATES, J." gain="1"></p_ru>
+    <p_tk vh="H" name="McJunkins,Mych" assist="Y"></p_tk>
+    <p_tk vh="H" name="Saylor,Erik" assist="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="3" togo="5" spot="CUFB44" context="V,3,5,V44" playid="14,4,105" type="P" text="WESTLER, C. pass incomplete to RIVERS, S.." newcontext="V,4,5,V44">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="RIVERS, S."></p_pa>
+   </play>
+   <play hasball="CUFB" down="4" togo="5" spot="CUFB44" context="V,4,5,V44" playid="14,5,106" type="U" text="ROBLEDO, K. punt 17 yards to the ODU39, out-of-bounds." ob="Y" newcontext="H,1,10,H39">
+    <p_pu vh="V" name="ROBLEDO, K." gain="17" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="5" top="1:36" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,H39,04:47" vh="H" spot="H39" clock="04:47" driveindex="15,106"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="ODU39" context="H,1,10,H39" playid="15,1,107" clock="03:11" text="OLD DOMINION drive start at 03:11." newcontext="H,1,10,H39">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="ODU39" context="H,1,10,H39" playid="15,2,108" type="P" text="DeMarco,Thomas pass incomplete to Thomas, Marquel (GOODMAN, T.)." newcontext="H,2,10,H39">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="INC" rcv="Thomas, Marquel"></p_pa>
+    <p_bu vh="V" name="GOODMAN, T."></p_bu>
+   </play>
+   <play hasball="ODU" down="2" togo="10" spot="ODU39" context="H,2,10,H39" playid="15,3,109" type="P" text="DeMarco,Thomas pass complete to Evans, Reid for 6 yards to the ODU45 (PALMER, Greg)." newcontext="H,3,4,H45">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="COMP" rcv="Evans, Reid" gain="6"></p_pa>
+    <p_tk vh="V" name="PALMER, Greg"></p_tk>
+   </play>
+   <play hasball="ODU" down="3" togo="4" spot="ODU45" context="H,3,4,H45" playid="15,4,110" type="P" text="DeMarco,Thomas pass incomplete to Evans, Reid." newcontext="H,4,4,H45">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="INC" rcv="Evans, Reid"></p_pa>
+   </play>
+   <play hasball="ODU" down="4" togo="4" spot="ODU45" context="H,4,4,H45" playid="15,5,111" type="U" text="Plisco,Jonathan punt 55 yards to the CUFB0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Plisco,Jonathan" gain="55" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="6" top="0:50" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="V,V20,03:11" vh="V" spot="V20" clock="03:11" driveindex="16,111"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB20" context="V,1,10,V20" playid="16,1,112" clock="02:21" text="CHOWAN drive start at 02:21." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB20" context="V,1,10,V20" playid="16,2,113" type="P" text="WESTLER, C. pass complete to SMALLS, E. for 4 yards to the CUFB24 (McJunkins,Mych)." newcontext="V,2,6,V24">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="SMALLS, E." gain="4"></p_pa>
+    <p_tk vh="H" name="McJunkins,Mych"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="6" spot="CUFB24" context="V,2,6,V24" playid="16,3,114" type="E" first="E" text="WESTLER, C. pass incomplete to ROBLEDO, K. (Smith,Donald), PENALTY ODU pass interference (Smith,Donald) 6 yards to the CUFB30, 1ST DOWN CUFB, NO PLAY." newcontext="V,1,10,V30">
+    <p_pn vh="H" code="PI" type="pass interference" name="Smith,Donald" result="ACCEPT" at="V24" yards="6"></p_pn>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB30" context="V,1,10,V30" playid="16,4,115" type="P" text="WESTLER, C. pass incomplete (Fuller,Jason)." newcontext="V,2,10,V30">
+    <p_pa vh="V" qb="WESTLER, C." result="BRUP"></p_pa>
+    <p_bu vh="H" name="Fuller,Jason"></p_bu>
+   </play>
+   <play hasball="CUFB" down="2" togo="10" spot="CUFB30" context="V,2,10,V30" playid="16,5,116" type="P" turnover="I" text="WESTLER, C. pass intercepted by Porter,Mateus at the CUFB41, Porter,Mateus return 6 yards to the CUFB35 (WESTLER, C.), PENALTY ODU illegal block 10 yards to the CUFB45, 1st and 10, ODU ball on CUFB45." newcontext="H,1,10,V45">
+    <p_pa vh="V" qb="WESTLER, C." result="INT"></p_pa>
+    <p_ir vh="H" name="Porter,Mateus" at="V41" gain="6"></p_ir>
+    <p_tk vh="V" name="WESTLER, C."></p_tk>
+    <p_pn vh="H" code="BL" type="illegal block" result="ACCEPT" at="V35" yards="10"></p_pn>
+   </play>
+   <drivesum plays="3" yards="10" top="0:56" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,V45,02:21" vh="H" spot="V45" clock="02:21" driveindex="17,116"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB45" context="H,1,10,V45" playid="17,1,117" clock="01:25" text="OLD DOMINION drive start at 01:25." newcontext="H,1,10,V45">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB45" context="H,1,10,V45" playid="17,2,118" type="P" text="DeMarco,Thomas pass incomplete to Evans, Reid." newcontext="H,2,10,V45">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="INC" rcv="Evans, Reid"></p_pa>
+   </play>
+   <play hasball="ODU" down="2" togo="10" spot="CUFB45" context="H,2,10,V45" playid="17,3,119" type="P" text="DeMarco,Thomas pass incomplete to Thomas, Marquel." newcontext="H,3,10,V45">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="INC" rcv="Thomas, Marquel"></p_pa>
+   </play>
+   <play hasball="ODU" down="3" togo="10" spot="CUFB45" context="H,3,10,V45" playid="17,4,120" type="#" clock="01:21" text="Timeout Old Dominion, clock 01:21." newcontext="H,3,10,V45">
+    <p_to vh="H" team="Old Dominion"></p_to>
+   </play>
+   <play hasball="ODU" down="3" togo="10" spot="CUFB45" context="H,3,10,V45" playid="17,5,121" type="P" text="DeMarco,Thomas sacked for loss of 6 yards to the ODU49 (CASH, B.), PENALTY ODU illegal block declined." newcontext="H,4,16,H49">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="V" name="CASH, B." sack="Y" tfl="Y"></p_tk>
+    <p_pn vh="H" code="BL" type="illegal block" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="ODU" down="4" togo="16" spot="ODU49" context="H,4,16,H49" playid="17,6,122" type="#" clock="01:13" text="Timeout Chowan, clock 01:13." newcontext="H,4,16,H49">
+    <p_to vh="V" team="Chowan"></p_to>
+   </play>
+   <play hasball="ODU" down="4" togo="16" spot="ODU49" context="H,4,16,H49" playid="17,7,123" type="U" text="Plisco,Jonathan punt 47 yards to the CUFB4, fair catch by GOODMAN, T.." newcontext="V,1,10,V04">
+    <p_pu vh="H" name="Plisco,Jonathan" gain="47" in20="Y" fc="GOODMAN, T."></p_pu>
+   </play>
+   <drivesum plays="3" yards="-6" top="0:20" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V04,01:13" vh="V" spot="V04" clock="01:13" driveindex="18,123"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB04" context="V,1,10,V04" playid="18,1,124" clock="01:05" text="CHOWAN drive start at 01:05." newcontext="V,1,10,V04">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB04" context="V,1,10,V04" playid="18,2,125" type="P" first="P" text="WESTLER, C. pass complete to HOLLAND, R. for 16 yards to the CUFB20, 1ST DOWN CUFB (Porter,Mateus)." newcontext="V,1,10,V20">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="HOLLAND, R." gain="16"></p_pa>
+    <p_tk vh="H" name="Porter,Mateus"></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB20" context="V,1,10,V20" playid="18,3,126" type="P" text="WESTLER, C. pass incomplete to ROBLEDO, K.." newcontext="V,2,10,V20">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="ROBLEDO, K."></p_pa>
+   </play>
+   <play hasball="CUFB" down="2" togo="10" spot="CUFB20" context="V,2,10,V20" playid="18,4,127" type="P" text="WESTLER, C. pass complete to SMALLS, E. for 4 yards to the CUFB24, out-of-bounds." ob="Y" newcontext="V,3,6,V24">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="SMALLS, E." gain="4"></p_pa>
+   </play>
+   <play hasball="CUFB" down="3" togo="6" spot="CUFB24" context="V,3,6,V24" playid="18,5,128" type="P" turnover="I" text="WESTLER, C. pass intercepted by Simmons, Devon at the CUFB45, Simmons, Devon return 14 yards to the CUFB31, out-of-bounds." ob="Y" newcontext="H,1,10,V31">
+    <p_pa vh="V" qb="WESTLER, C." result="INT"></p_pa>
+    <p_ir vh="H" name="Simmons, Devon" at="V45" gain="14"></p_ir>
+   </play>
+   <drivesum plays="4" yards="20" top="1:03" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,V31,01:05" vh="H" spot="V31" clock="01:05" driveindex="19,128"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB31" context="H,1,10,V31" playid="19,1,129" clock="00:02" text="OLD DOMINION drive start at 00:02." newcontext="H,1,10,V31">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB31" context="H,1,10,V31" playid="19,2,130" type="#" clock="00:02" text="Timeout Chowan, clock 00:02." newcontext="H,1,10,V31">
+    <p_to vh="V" team="Chowan"></p_to>
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB31" context="H,1,10,V31" playid="19,3,131" type="F" score="Y" clock="00:00" text="Hareza,Drew field goal attempt from 48 GOOD, clock 00:00." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Hareza,Drew" distance="48" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="15" H="29"></score>
+   <play hasball="ODU" down="1" togo="0" spot="ODU30" context="H,1,0,H30" playid="19,4,132" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,1,0,H30">
+   </play>
+   <drivesum plays="1" yards="0" top="0:02" driveindex="19" complete="Y"></drivesum>
+   <score qtr="2" V="15" H="29"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CUFB">
+    <firstdowns no="6" rush="1" pass="4" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="3" thirdatt="7" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:13"></misc>
+    <rush att="7" yds="23" gain="25" loss="2" td="1" long="2"></rush>
+    <pass comp="7" att="15" int="2" yds="71" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="71" td="0" long="0"></rcv>
+    <punt no="1" yds="17" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="17.0"></punt>
+    <ko no="2" yds="115" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="35" blkd="0"></fg>
+    <pat kickatt="1" kickmade="0"></pat>
+    <defense tackua="11" tacka="10" tot_tack="21" tflua="3" tfla="0" tflyds="10" sacks="1" sackyds="6" brup="1"></defense>
+    <kr no="1" yds="35" td="0" long="0"></kr>
+    <scoring td="1" fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ODU">
+    <firstdowns no="4" rush="3" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="16"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:47"></misc>
+    <rush att="12" yds="53" gain="64" loss="11" td="1" long="0"></rush>
+    <pass comp="3" att="8" int="0" yds="10" td="0" long="0" sacks="1" sackyds="6"></pass>
+    <rcv no="3" yds="10" td="0" long="0"></rcv>
+    <punt no="2" yds="102" long="55" blkd="0" tb="1" fc="1" plus50="1" inside20="1" avg="51.0"></punt>
+    <ko no="2" yds="132" ob="1" tb="0"></ko>
+    <fg made="2" att="2" long="9" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="8" tot_tack="17" tflua="2" tfla="0" tflyds="4" sacks="1" sackyds="10" brup="1" blkd="1" int="2" intyds="20"></defense>
+    <kr no="2" yds="99" td="0" long="31"></kr>
+    <ir no="2" yds="20" td="0" long="14"></ir>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" fg="2" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="ODU" down="1" togo="0" spot="ODU30" context="H,1,0,H30" playid="19,5,133" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, ODU ball on ODU30." newcontext="H,1,0,H30">
+   </play>
+   <play hasball="ODU" down="1" togo="0" spot="ODU30" context="H,1,0,H30" playid="19,6,134" type="K" text="Hareza,Drew kickoff 66 yards to the CUFB4, GOODMAN, T. return 25 yards to the CUFB29 (Smith,Donald;Powell, Carvin)." newcontext="V,1,10,V29">
+    <p_ko vh="H" name="Hareza,Drew" gain="66"></p_ko>
+    <p_kr vh="V" name="GOODMAN, T." gain="25"></p_kr>
+    <p_tk vh="H" name="Smith,Donald" assist="Y"></p_tk>
+    <p_tk vh="H" name="Powell, Carvin" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V29,15:00" vh="V" spot="V29" clock="15:00" driveindex="20,134"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB29" context="V,1,10,V29" playid="20,1,135" clock="15:00" text="CHOWAN drive start at 15:00." newcontext="V,1,10,V29">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB29" context="V,1,10,V29" playid="20,2,136" type="R" text="DAVIS, B. rush for 3 yards to the CUFB32 (Burnette,Chris;McClam. Edmon)." newcontext="V,2,7,V32">
+    <p_ru vh="V" name="DAVIS, B." gain="3"></p_ru>
+    <p_tk vh="H" name="Burnette,Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="McClam. Edmon" assist="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="7" spot="CUFB32" context="V,2,7,V32" playid="20,3,137" type="P" text="WESTLER, C. pass complete to SMALLS, E. for 5 yards to the CUFB37 (Smith,Donald)." newcontext="V,3,2,V37">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="SMALLS, E." gain="5"></p_pa>
+    <p_tk vh="H" name="Smith,Donald"></p_tk>
+   </play>
+   <play hasball="CUFB" down="3" togo="2" spot="CUFB37" context="V,3,2,V37" playid="20,4,138" type="R" first="R" text="SMALLS, E. rush for 5 yards to the CUFB42, 1ST DOWN CUFB (Aoelua, A.T.)." newcontext="V,1,10,V42">
+    <p_ru vh="V" name="SMALLS, E." gain="5"></p_ru>
+    <p_tk vh="H" name="Aoelua, A.T."></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB42" context="V,1,10,V42" playid="20,5,139" type="P" first="P" text="WESTLER, C. pass complete to RIVERS, S. for 13 yards to the ODU45, 1ST DOWN CUFB (Cowart, T.J.)." newcontext="V,1,10,H45">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="RIVERS, S." gain="13"></p_pa>
+    <p_tk vh="H" name="Cowart, T.J."></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="ODU45" context="V,1,10,H45" playid="20,6,140" type="R" text="DAVIS, B. rush for loss of 5 yards to the 50 yardline (King,Chad)." newcontext="V,2,15,V50">
+    <p_ru vh="V" name="DAVIS, B." gain="-5"></p_ru>
+    <p_tk vh="H" name="King,Chad" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="15" spot="CUFB50" context="V,2,15,V50" playid="20,7,141" type="P" text="WESTLER, C. pass complete to DAVIS, B. for 8 yards to the ODU42 (McJunkins,Mych)." newcontext="V,3,7,H42">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="DAVIS, B." gain="8"></p_pa>
+    <p_tk vh="H" name="McJunkins,Mych"></p_tk>
+   </play>
+   <play hasball="CUFB" down="3" togo="7" spot="ODU42" context="V,3,7,H42" playid="20,8,142" type="P" first="P" text="WESTLER, C. pass complete to ROBLEDO, K. for 11 yards to the ODU31, 1ST DOWN CUFB, out-of-bounds." ob="Y" newcontext="V,1,10,H31">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="ROBLEDO, K." gain="11"></p_pa>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="ODU31" context="V,1,10,H31" playid="20,9,143" type="R" text="DAVIS, B. rush for no gain to the ODU31 (Sweedyk,Jake)." newcontext="V,2,10,H31">
+    <p_ru vh="V" name="DAVIS, B." gain="0"></p_ru>
+    <p_tk vh="H" name="Sweedyk,Jake"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="10" spot="ODU31" context="V,2,10,H31" playid="20,10,144" type="P" first="P" text="WESTLER, C. pass complete to ROBLEDO, K. for 15 yards to the ODU16, 1ST DOWN CUFB." newcontext="V,1,10,H16">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="ROBLEDO, K." gain="15"></p_pa>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="ODU16" context="V,1,10,H16" playid="20,11,145" type="R" text="WESTLER, C. rush for loss of 8 yards to the ODU24 (Aoelua, A.T.)." newcontext="V,2,18,H24">
+    <p_ru vh="V" name="WESTLER, C." gain="-8"></p_ru>
+    <p_tk vh="H" name="Aoelua, A.T." tfl="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="18" spot="ODU24" context="V,2,18,H24" playid="20,12,146" type="P" text="WESTLER, C. pass incomplete to ROBLEDO, K.." newcontext="V,3,18,H24">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="ROBLEDO, K."></p_pa>
+   </play>
+   <play hasball="CUFB" down="3" togo="18" spot="ODU24" context="V,3,18,H24" playid="20,13,147" type="#" clock="08:56" text="Timeout Chowan, clock 08:56." newcontext="V,3,18,H24">
+    <p_to vh="V" team="Chowan"></p_to>
+   </play>
+   <play hasball="CUFB" down="3" togo="18" spot="ODU24" context="V,3,18,H24" playid="20,14,148" type="P" turnover="I" text="WESTLER, C. pass intercepted by Wilkins, Craig at the CUFB4, Wilkins, Craig return -56 yards to the ODU40 (WESTLER, C.), PENALTY ODU holding (Porter,Mateus) 10 yards to the ODU30, 1st and 10, ODU ball on ODU30." newcontext="H,1,10,H30">
+    <p_pa vh="V" qb="WESTLER, C." result="INT"></p_pa>
+    <p_ir vh="H" name="Wilkins, Craig" at="V04" gain="-56"></p_ir>
+    <p_tk vh="V" name="WESTLER, C."></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="Porter,Mateus" result="ACCEPT" at="H40" yards="10"></p_pn>
+   </play>
+   <drivesum plays="12" yards="47" top="7:02" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,H30,08:56" vh="H" spot="H30" clock="08:56" driveindex="21,148"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="ODU30" context="H,1,10,H30" playid="21,1,149" clock="07:58" text="OLD DOMINION drive start at 07:58." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="ODU30" context="H,1,10,H30" playid="21,2,150" type="R" text="Cooper, Bobby rush for 5 yards to the ODU35 (BASNIGHT, S.)." newcontext="H,2,5,H35">
+    <p_ru vh="H" name="Cooper, Bobby" gain="5"></p_ru>
+    <p_tk vh="V" name="BASNIGHT, S."></p_tk>
+   </play>
+   <play hasball="ODU" down="2" togo="5" spot="ODU35" context="H,2,5,H35" playid="21,3,151" type="R" text="Cooper, Bobby rush for 4 yards to the ODU39 (SCHOTT, R.)." newcontext="H,3,1,H39">
+    <p_ru vh="H" name="Cooper, Bobby" gain="4"></p_ru>
+    <p_tk vh="V" name="SCHOTT, R."></p_tk>
+   </play>
+   <play hasball="ODU" down="3" togo="1" spot="ODU39" context="H,3,1,H39" playid="21,4,152" text="3rd and 21." newcontext="H,3,21,H39">
+   </play>
+   <play hasball="ODU" down="3" togo="21" spot="ODU39" context="H,3,21,H39" playid="21,5,153" type="R" text="Parham,Jamar rush for 3 yards to the ODU42 (CHARLES, P.)." newcontext="H,4,18,H42">
+    <p_ru vh="H" name="Parham,Jamar" gain="3"></p_ru>
+    <p_tk vh="V" name="CHARLES, P."></p_tk>
+   </play>
+   <play hasball="ODU" down="4" togo="18" spot="ODU42" context="H,4,18,H42" playid="21,6,154" type="U" turnover="F" text="Plisco,Jonathan punt 42 yards to the CUFB16, SCOTT, B. return 0 yards to the CUFB16, fumble by SCOTT, B. recovered by ODU Powell, Carvin at CUFB19." newcontext="H,1,10,V19">
+    <p_pu vh="H" name="Plisco,Jonathan" gain="42" in20="Y"></p_pu>
+    <p_pr vh="V" name="SCOTT, B." gain="0"></p_pr>
+    <p_fumb vh="V" name="SCOTT, B." at="V19" frvh="H" frname="Powell, Carvin"></p_fumb>
+   </play>
+   <drivesum plays="3" yards="12" top="2:39" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,V19,07:58" vh="H" spot="V19" clock="07:58" driveindex="23,154"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB19" context="H,1,10,V19" playid="23,1,155" clock="05:19" text="OLD DOMINION drive start at 05:19." newcontext="H,1,10,V19">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB19" context="H,1,10,V19" playid="23,2,156" type="R" text="Crawford, Mario rush for 4 yards to the CUFB15 (CASH, B.;REEDY, E.)." newcontext="H,2,6,V15">
+    <p_ru vh="H" name="Crawford, Mario" gain="4"></p_ru>
+    <p_tk vh="V" name="CASH, B." assist="Y"></p_tk>
+    <p_tk vh="V" name="REEDY, E." assist="Y"></p_tk>
+   </play>
+   <play hasball="ODU" down="2" togo="6" spot="CUFB15" context="H,2,6,V15" playid="23,3,157" type="P" text="DeMarco,Thomas pass incomplete to Lovitt,Chris." newcontext="H,3,6,V15">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="INC" rcv="Lovitt,Chris"></p_pa>
+   </play>
+   <play hasball="ODU" down="3" togo="6" spot="CUFB15" context="H,3,6,V15" playid="23,4,158" text="3rd and 11." newcontext="H,3,11,V15">
+   </play>
+   <play hasball="ODU" down="3" togo="11" spot="CUFB15" context="H,3,11,V15" playid="23,5,159" type="P" text="DeMarco,Thomas pass complete to Lovitt,Chris for 2 yards to the CUFB13 (SCOTT, B.)." newcontext="H,4,9,V13">
+    <p_pa vh="H" qb="DeMarco,Thomas" result="COMP" rcv="Lovitt,Chris" gain="2"></p_pa>
+    <p_tk vh="V" name="SCOTT, B."></p_tk>
+   </play>
+   <play hasball="ODU" down="4" togo="9" spot="CUFB13" context="H,4,9,V13" playid="23,6,160" text="4th and 5." newcontext="H,4,5,V13">
+   </play>
+   <play hasball="ODU" down="4" togo="5" spot="CUFB13" context="H,4,5,V13" playid="23,7,161" type="F" clock="04:07" text="Hareza,Drew field goal attempt from 30 MISSED - wide right, spot at CUFB20, clock 04:07." newcontext="V,1,10,V20">
+    <p_fg vh="H" name="Hareza,Drew" distance="30" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="4" yards="6" top="1:12" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="V,V20,04:07" vh="V" spot="V20" clock="04:07" driveindex="24,161"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB20" context="V,1,10,V20" playid="24,1,162" clock="04:07" text="CHOWAN drive start at 04:07." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB20" context="V,1,10,V20" playid="24,2,163" type="E" text="PENALTY CUFB false start (WATTS, N.) 5 yards to the CUFB15." newcontext="V,1,15,V15">
+    <p_pn vh="V" code="FS" type="false start" name="WATTS, N." result="ACCEPT" at="V20" yards="5"></p_pn>
+   </play>
+   <play hasball="CUFB" down="1" togo="15" spot="CUFB15" context="V,1,15,V15" playid="24,3,164" type="P" first="P" text="WESTLER, C. pass complete to BENTON, E. for 21 yards to the CUFB36, 1ST DOWN CUFB, out-of-bounds (Smith,Donald)." ob="Y" newcontext="V,1,10,V36">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="BENTON, E." gain="21"></p_pa>
+    <p_tk vh="H" name="Smith,Donald"></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB36" context="V,1,10,V36" playid="24,4,165" type="R" text="DAVIS, B. rush for 2 yards to the CUFB38 (Porter,Mateus;Saylor,Erik)." newcontext="V,2,8,V38">
+    <p_ru vh="V" name="DAVIS, B." gain="2"></p_ru>
+    <p_tk vh="H" name="Porter,Mateus" assist="Y"></p_tk>
+    <p_tk vh="H" name="Saylor,Erik" assist="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="8" spot="CUFB38" context="V,2,8,V38" playid="24,5,166" type="P" first="P" text="WESTLER, C. pass complete to DAVIS, B. for 8 yards to the CUFB46, 1ST DOWN CUFB (Simmons, Devon)." newcontext="V,1,10,V46">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="DAVIS, B." gain="8"></p_pa>
+    <p_tk vh="H" name="Simmons, Devon"></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB46" context="V,1,10,V46" playid="24,6,167" type="R" text="DAVIS, B. rush for 1 yard to the CUFB47 (McJunkins,Mych)." newcontext="V,2,9,V47">
+    <p_ru vh="V" name="DAVIS, B." gain="1"></p_ru>
+    <p_tk vh="H" name="McJunkins,Mych"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="9" spot="CUFB47" context="V,2,9,V47" playid="24,7,168" type="P" text="WESTLER, C. pass incomplete (King,Chad)." newcontext="V,3,9,V47">
+    <p_pa vh="V" qb="WESTLER, C." result="BRUP"></p_pa>
+    <p_bu vh="H" name="King,Chad"></p_bu>
+   </play>
+   <play hasball="CUFB" down="3" togo="9" spot="CUFB47" context="V,3,9,V47" playid="24,8,169" type="P" text="WESTLER, C. pass complete to DAVIS, B. for 8 yards to the ODU45 (McClam. Edmon)." newcontext="V,4,1,H45">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="DAVIS, B." gain="8"></p_pa>
+    <p_tk vh="H" name="McClam. Edmon"></p_tk>
+   </play>
+   <play hasball="CUFB" down="4" togo="1" spot="ODU45" context="V,4,1,H45" playid="24,9,170" type="R" text="WESTLER, C. rush for no gain to the ODU45 (Turner,Andrew)." newcontext="H,1,10,H45">
+    <p_ru vh="V" name="WESTLER, C." gain="0"></p_ru>
+    <p_tk vh="H" name="Turner,Andrew"></p_tk>
+   </play>
+   <drivesum plays="7" yards="35" top="3:13" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,H45,04:07" vh="H" spot="H45" clock="04:07" driveindex="25,170"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="ODU45" context="H,1,10,H45" playid="25,1,171" clock="00:54" text="OLD DOMINION drive start at 00:54." newcontext="H,1,10,H45">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="ODU45" context="H,1,10,H45" playid="25,2,172" type="R" first="R" text="Smalley,Monty rush for 12 yards to the CUFB43, 1ST DOWN ODU, out-of-bounds." ob="Y" newcontext="H,1,10,V43">
+    <p_ru vh="H" name="Smalley,Monty" gain="12"></p_ru>
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB43" context="H,1,10,V43" playid="25,3,173" type="R" first="R" score="Y" clock="00:25" text="Parham,Jamar rush for 43 yards to the CUFB0, 1ST DOWN ODU, TOUCHDOWN, clock 00:25." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Parham,Jamar" gain="43"></p_ru>
+   </play>
+   <play hasball="ODU" down="1" togo="0" spot="CUFB03" context="H,1,0,V03" playid="25,4,174" type="X" score="Y" text="Hareza,Drew kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Hareza,Drew" qb="Hareza,Drew" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="15" H="36"></score>
+   <drivesum plays="2" yards="55" top="0:29" driveindex="25" complete="Y"></drivesum>
+   <play hasball="ODU" down="1" togo="0" spot="ODU30" context="H,1,0,H30" playid="25,5,175" type="K" text="Hareza,Drew kickoff 64 yards to the CUFB6, GOODMAN, T. return 27 yards to the CUFB33 (King,Chad;Smith,Donald)." newcontext="V,1,10,V33">
+    <p_ko vh="H" name="Hareza,Drew" gain="64"></p_ko>
+    <p_kr vh="V" name="GOODMAN, T." gain="27"></p_kr>
+    <p_tk vh="H" name="King,Chad" assist="Y"></p_tk>
+    <p_tk vh="H" name="Smith,Donald" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V33,00:25" vh="V" spot="V33" clock="00:25" driveindex="26,175"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB33" context="V,1,10,V33" playid="26,1,176" clock="00:25" text="CHOWAN drive start at 00:25." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB33" context="V,1,10,V33" playid="26,2,177" type="P" text="WESTLER, C. pass incomplete to HARRIS, B., dropped pass." newcontext="V,2,10,V33">
+    <p_pa vh="V" qb="WESTLER, C." result="DROP" rcv="HARRIS, B."></p_pa>
+   </play>
+   <play hasball="CUFB" down="2" togo="10" spot="CUFB33" context="V,2,10,V33" playid="26,3,178" type="P" text="WESTLER, C. pass complete to HODRICK, K. for 4 yards to the CUFB37 (McJunkins,Mych;King,Chad)." newcontext="V,3,6,V37">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="HODRICK, K." gain="4"></p_pa>
+    <p_tk vh="H" name="McJunkins,Mych" assist="Y"></p_tk>
+    <p_tk vh="H" name="King,Chad" assist="Y"></p_tk>
+   </play>
+   <score qtr="3" V="15" H="36"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CUFB">
+    <firstdowns no="6" rush="1" pass="5" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="10:40"></misc>
+    <rush att="8" yds="-2" gain="11" loss="13" td="0" long="0"></rush>
+    <pass comp="9" att="13" int="1" yds="93" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="9" yds="93" td="0" long="0"></rcv>
+    <defense tackua="5" tacka="2" tot_tack="7" sacks="1" sackyds="6"></defense>
+    <kr no="2" yds="52" td="0" long="0"></kr>
+    <pr no="1" yds="3" td="0" long="0"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ODU">
+    <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:20"></misc>
+    <rush att="6" yds="71" gain="71" loss="0" td="1" long="24"></rush>
+    <pass comp="1" att="2" int="0" yds="2" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="2" td="0" long="0"></rcv>
+    <punt no="1" yds="42" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="42.0"></punt>
+    <ko no="2" yds="130" ob="0" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="12" tacka="10" tot_tack="22" tflua="2" tfla="0" tflyds="13" sacks="1" sackyds="10" brup="1" fr="1" fryds="0" int="1" intyds="-56"></defense>
+    <ir no="1" yds="-56" td="0" long="0"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="CUFB" down="3" togo="6" spot="CUFB37" context="V,3,6,V37" playid="26,4,179" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,3,6,V37">
+   </play>
+   <play hasball="CUFB" down="3" togo="6" spot="CUFB37" context="V,3,6,V37" playid="26,5,180" type="E" text="PENALTY CUFB false start (ROGERS, M.) 5 yards to the CUFB32." newcontext="V,3,11,V32">
+    <p_pn vh="V" code="FS" type="false start" name="ROGERS, M." result="ACCEPT" at="V37" yards="5"></p_pn>
+   </play>
+   <play hasball="CUFB" down="3" togo="11" spot="CUFB32" context="V,3,11,V32" playid="26,6,181" type="P" text="WESTLER, C. sacked for loss of 7 yards to the CUFB25 (Green, Shantea)." newcontext="V,4,18,V25">
+    <p_pa vh="V" qb="WESTLER, C." result="SACK" gain="-7"></p_pa>
+    <p_tk vh="H" name="Green, Shantea" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="4" togo="18" spot="CUFB25" context="V,4,18,V25" playid="26,7,182" type="U" text="ROBLEDO, K. punt 31 yards to the ODU44, Evans, Reid return 0 yards to the ODU44 (;MCMORRIS, G.)." newcontext="H,1,10,H44">
+    <p_pu vh="V" name="ROBLEDO, K." gain="31"></p_pu>
+    <p_pr vh="H" name="Evans, Reid" gain="0"></p_pr>
+    <p_tk vh="V" name="MCMORRIS, G." assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-8" top="1:12" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="H,H44,15:00" vh="H" spot="H44" clock="15:00" driveindex="27,182"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="ODU44" context="H,1,10,H44" playid="27,1,183" clock="14:13" text="OLD DOMINION drive start at 14:13." newcontext="H,1,10,H44">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="ODU44" context="H,1,10,H44" playid="27,2,184" type="P" first="P" text="Cooper, Bobby pass complete to Evans, Reid for 22 yards to the CUFB34, 1ST DOWN ODU." newcontext="H,1,10,V34">
+    <p_pa vh="H" qb="Cooper, Bobby" result="COMP" rcv="Evans, Reid" gain="22"></p_pa>
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB34" context="H,1,10,V34" playid="27,3,185" type="R" text="Crawford, Mario rush for no gain to the CUFB34 (JOHNSON, M.)." newcontext="H,2,10,V34">
+    <p_ru vh="H" name="Crawford, Mario" gain="0"></p_ru>
+    <p_tk vh="V" name="JOHNSON, M."></p_tk>
+   </play>
+   <play hasball="ODU" down="2" togo="10" spot="CUFB34" context="H,2,10,V34" playid="27,4,186" type="R" text="Crawford, Mario rush for 1 yard to the CUFB33 (NNADI, M.)." newcontext="H,3,9,V33">
+    <p_ru vh="H" name="Crawford, Mario" gain="1"></p_ru>
+    <p_tk vh="V" name="NNADI, M."></p_tk>
+   </play>
+   <play hasball="ODU" down="3" togo="9" spot="CUFB33" context="H,3,9,V33" playid="27,5,187" type="R" text="Cooper, Bobby rush for no gain to the CUFB33, out-of-bounds." ob="Y" newcontext="H,4,9,V33">
+    <p_ru vh="H" name="Cooper, Bobby" gain="0"></p_ru>
+   </play>
+   <play hasball="ODU" down="4" togo="9" spot="CUFB33" context="H,4,9,V33" playid="27,6,188" type="F" clock="11:58" text="Hareza,Drew field goal attempt from 50 MISSED - wide left, spot at CUFB33, clock 11:58." newcontext="V,1,10,V33">
+    <p_fg vh="H" name="Hareza,Drew" distance="50" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="5" yards="23" top="2:15" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="V,V33,11:58" vh="V" spot="V33" clock="11:58" driveindex="28,188"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB33" context="V,1,10,V33" playid="28,1,189" clock="11:58" text="CHOWAN drive start at 11:58." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB33" context="V,1,10,V33" playid="28,2,190" type="P" text="WESTLER, C. pass incomplete to ROBLEDO, K. (Slebonick, A.)." newcontext="V,2,10,V33">
+    <p_pa vh="V" qb="WESTLER, C." result="BRUP" rcv="ROBLEDO, K."></p_pa>
+    <p_bu vh="H" name="Slebonick, A."></p_bu>
+   </play>
+   <play hasball="CUFB" down="2" togo="10" spot="CUFB33" context="V,2,10,V33" playid="28,3,191" type="E" text="WESTLER, C. pass incomplete, PENALTY ODU offside defense (Green, Shantea) 5 yards to the CUFB38, NO PLAY." newcontext="V,2,5,V38">
+    <p_pn vh="H" code="OD" type="offside defense" name="Green, Shantea" result="ACCEPT" at="V33" yards="5"></p_pn>
+   </play>
+   <play hasball="CUFB" down="2" togo="5" spot="CUFB38" context="V,2,5,V38" playid="28,4,192" type="R" text="SPATES, J. rush for loss of 5 yards to the CUFB33 (Aoelua, A.T.)." newcontext="V,3,10,V33">
+    <p_ru vh="V" name="SPATES, J." gain="-5"></p_ru>
+    <p_tk vh="H" name="Aoelua, A.T." tfl="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="3" togo="10" spot="CUFB33" context="V,3,10,V33" playid="28,5,193" type="E" first="E" text="WESTLER, C. sacked for no gain to the CUFB33 (Fuller,Jason;Porter,Mateus), PENALTY ODU face mask (McClam. Edmon) 15 yards to the CUFB48, 1ST DOWN CUFB, NO PLAY." newcontext="V,1,10,V48">
+    <p_pn vh="H" code="FM" type="face mask" name="McClam. Edmon" result="ACCEPT" at="V33" yards="15"></p_pn>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB48" context="V,1,10,V48" playid="28,6,194" type="P" text="WESTLER, C. sacked for loss of 11 yards to the CUFB37 (Turner,Andrew)." newcontext="V,2,21,V37">
+    <p_pa vh="V" qb="WESTLER, C." result="SACK" gain="-11"></p_pa>
+    <p_tk vh="H" name="Turner,Andrew" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="21" spot="CUFB37" context="V,2,21,V37" playid="28,7,195" type="#" clock="09:58" text="Timeout Chowan, clock 09:58." newcontext="V,2,21,V37">
+    <p_to vh="V" team="Chowan"></p_to>
+   </play>
+   <play hasball="CUFB" down="2" togo="21" spot="CUFB37" context="V,2,21,V37" playid="28,8,196" type="P" text="WESTLER, C. pass complete to SMALLS, E. for 20 yards to the ODU43, out-of-bounds (Aoelua, A.T.)." ob="Y" newcontext="V,3,1,H43">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="SMALLS, E." gain="20"></p_pa>
+    <p_tk vh="H" name="Aoelua, A.T."></p_tk>
+   </play>
+   <play hasball="CUFB" down="3" togo="1" spot="ODU43" context="V,3,1,H43" playid="28,9,197" type="R" first="R" text="SMALLS, E. rush for 16 yards to the ODU27, 1ST DOWN CUFB (Cowart, T.J.)." newcontext="V,1,10,H27">
+    <p_ru vh="V" name="SMALLS, E." gain="16"></p_ru>
+    <p_tk vh="H" name="Cowart, T.J."></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="ODU27" context="V,1,10,H27" playid="28,10,198" type="P" text="WESTLER, C. sacked for loss of 6 yards to the ODU33 (McClam. Edmon;Saylor,Erik)." newcontext="V,2,16,H33">
+    <p_pa vh="V" qb="WESTLER, C." result="SACK" gain="-6"></p_pa>
+    <p_tk vh="H" name="McClam. Edmon" sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Saylor,Erik" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="16" spot="ODU33" context="V,2,16,H33" playid="28,11,199" type="P" text="WESTLER, C. pass complete to ROBLEDO, K. for 11 yards to the ODU22 (McJunkins,Mych)." newcontext="V,3,5,H22">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="ROBLEDO, K." gain="11"></p_pa>
+    <p_tk vh="H" name="McJunkins,Mych"></p_tk>
+   </play>
+   <play hasball="CUFB" down="3" togo="5" spot="ODU22" context="V,3,5,H22" playid="28,12,200" type="P" text="WESTLER, C. pass incomplete to HOLLAND, R.." newcontext="V,4,5,H22">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="HOLLAND, R."></p_pa>
+   </play>
+   <play hasball="CUFB" down="4" togo="5" spot="ODU22" context="V,4,5,H22" playid="28,13,201" type="E" text="PENALTY CUFB false start (ARELLANES, A.) 5 yards to the ODU27." newcontext="V,4,10,H27">
+    <p_pn vh="V" code="FS" type="false start" name="ARELLANES, A." result="ACCEPT" at="H22" yards="5"></p_pn>
+   </play>
+   <play hasball="CUFB" down="4" togo="10" spot="ODU27" context="V,4,10,H27" playid="28,14,202" type="P" first="P" text="WESTLER, C. pass complete to HODRICK, K. for 13 yards to the ODU14, 1ST DOWN CUFB (Smith,Donald)." newcontext="V,1,10,H14">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="HODRICK, K." gain="13"></p_pa>
+    <p_tk vh="H" name="Smith,Donald"></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="ODU14" context="V,1,10,H14" playid="28,15,203" type="E" text="PENALTY CUFB false start (WATTS, N.) 5 yards to the ODU19." newcontext="V,1,15,H19">
+    <p_pn vh="V" code="FS" type="false start" name="WATTS, N." result="ACCEPT" at="H14" yards="5"></p_pn>
+   </play>
+   <play hasball="CUFB" down="1" togo="15" spot="ODU19" context="V,1,15,H19" playid="28,16,204" type="R" text="WESTLER, C. rush for 8 yards to the ODU11 (King,Chad)." newcontext="V,2,7,H11">
+    <p_ru vh="V" name="WESTLER, C." gain="8"></p_ru>
+    <p_tk vh="H" name="King,Chad"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="7" spot="ODU11" context="V,2,7,H11" playid="28,17,205" type="E" first="E" text="PENALTY ODU personal foul (King,Chad) 5 yards to the ODU6, 1ST DOWN CUFB." newcontext="V,1,0,H06">
+    <p_pn vh="H" code="PF" type="personal foul" name="King,Chad" result="ACCEPT" at="H11" yards="5"></p_pn>
+   </play>
+   <play hasball="CUFB" down="1" togo="0" spot="ODU06" context="V,1,0,H06" playid="28,18,206" type="R" text="WESTLER, C. rush for 4 yards to the ODU2 (Simmons, Devon;Turner,Andrew)." newcontext="V,2,0,H02">
+    <p_ru vh="V" name="WESTLER, C." gain="4"></p_ru>
+    <p_tk vh="H" name="Simmons, Devon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Turner,Andrew" assist="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="2" togo="0" spot="ODU02" context="V,2,0,H02" playid="28,19,207" type="R" text="SPATES, J. rush for 1 yard to the ODU1 (Turner,Andrew)." newcontext="V,3,0,H01">
+    <p_ru vh="V" name="SPATES, J." gain="1"></p_ru>
+    <p_tk vh="H" name="Turner,Andrew"></p_tk>
+   </play>
+   <play hasball="CUFB" down="3" togo="0" spot="ODU01" context="V,3,0,H01" playid="28,20,208" type="R" score="Y" clock="05:12" text="WESTLER, C. rush for 1 yard to the ODU0, TOUCHDOWN, clock 05:12." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="WESTLER, C." gain="1"></p_ru>
+   </play>
+   <play hasball="CUFB" down="1" togo="0" spot="ODU03" context="V,1,0,H03" playid="28,21,209" type="X" text="CLINE, C. kick attempt failed (blocked), returned by Cowart, T.J. - no score (blocked by McClam. Edmon)." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="CLINE, C." qb="CLINE, C." type="K" result="BLOCKED"></p_pat>
+   </play>
+   <score V="21" H="36"></score>
+   <play hasball="CUFB" down="1" togo="0" spot="CUFB30" context="V,1,0,V30" playid="28,22,210" type="#" clock="05:12" text="Timeout Old Dominion, clock 05:12." newcontext="V,1,0,V30">
+    <p_to vh="H" team="Old Dominion"></p_to>
+   </play>
+   <drivesum plays="13" yards="67" top="6:46" driveindex="28" complete="Y"></drivesum>
+   <play hasball="CUFB" down="1" togo="0" spot="CUFB30" context="V,1,0,V30" playid="28,23,211" type="K" text="CLINE, C. kickoff 42 yards to the ODU28, downed." newcontext="H,1,10,H28">
+    <p_ko vh="V" name="CLINE, C." gain="42"></p_ko>
+   </play>
+   <drivestart poss="H,H28,05:12" vh="H" spot="H28" clock="05:12" driveindex="29,211"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="ODU28" context="H,1,10,H28" playid="29,1,212" clock="05:12" text="OLD DOMINION drive start at 05:12." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="ODU28" context="H,1,10,H28" playid="29,2,213" type="R" text="Parham,Jamar rush for 2 yards to the ODU30 (BALL-COLLINS,J.)." newcontext="H,2,8,H30">
+    <p_ru vh="H" name="Parham,Jamar" gain="2"></p_ru>
+    <p_tk vh="V" name="BALL-COLLINS,J."></p_tk>
+   </play>
+   <play hasball="ODU" down="2" togo="8" spot="ODU30" context="H,2,8,H30" playid="29,3,214" type="R" text="DeMarco,Thomas rush for no gain to the ODU30 (SCOTT, B.)." newcontext="H,3,8,H30">
+    <p_ru vh="H" name="DeMarco,Thomas" gain="0"></p_ru>
+    <p_tk vh="V" name="SCOTT, B."></p_tk>
+   </play>
+   <play hasball="ODU" down="3" togo="8" spot="ODU30" context="H,3,8,H30" playid="29,4,215" type="R" text="Parham,Jamar rush for loss of 1 yard to the ODU29 (EASON, L.)." newcontext="H,4,9,H29">
+    <p_ru vh="H" name="Parham,Jamar" gain="-1"></p_ru>
+    <p_tk vh="V" name="EASON, L." tfl="Y"></p_tk>
+   </play>
+   <play hasball="ODU" down="4" togo="9" spot="ODU29" context="H,4,9,H29" playid="29,5,216" type="#" clock="03:31" text="Timeout Chowan, clock 03:31." newcontext="H,4,9,H29">
+    <p_to vh="V" team="Chowan"></p_to>
+   </play>
+   <play hasball="ODU" down="4" togo="9" spot="ODU29" context="H,4,9,H29" playid="29,6,217" type="U" text="Plisco,Jonathan punt 61 yards to the CUFB10, GOODMAN, T. return 8 yards to the CUFB18 (Phillips,Dustin)." newcontext="V,1,10,V18">
+    <p_pu vh="H" name="Plisco,Jonathan" gain="61" in20="Y"></p_pu>
+    <p_pr vh="V" name="GOODMAN, T." gain="8"></p_pr>
+    <p_tk vh="H" name="Phillips,Dustin"></p_tk>
+   </play>
+   <drivesum plays="3" yards="1" top="1:52" driveindex="29" complete="Y"></drivesum>
+   <drivestart poss="V,V18,03:31" vh="V" spot="V18" clock="03:31" driveindex="30,217"></drivestart>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB18" context="V,1,10,V18" playid="30,1,218" clock="03:20" text="CHOWAN drive start at 03:20." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB18" context="V,1,10,V18" playid="30,2,219" type="P" text="WESTLER, C. pass incomplete to BENTON, E.." newcontext="V,2,10,V18">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="BENTON, E."></p_pa>
+   </play>
+   <play hasball="CUFB" down="2" togo="10" spot="CUFB18" context="V,2,10,V18" playid="30,3,220" type="P" text="WESTLER, C. pass complete to ROBLEDO, K. for loss of 2 yards to the CUFB16, out-of-bounds (Wilkins,Markell)." ob="Y" newcontext="V,3,12,V16">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="ROBLEDO, K." gain="-2"></p_pa>
+    <p_tk vh="H" name="Wilkins,Markell" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="3" togo="12" spot="CUFB16" context="V,3,12,V16" playid="30,4,221" type="P" first="P" text="WESTLER, C. pass complete to HODRICK, K. for 13 yards to the CUFB29, 1ST DOWN CUFB (Slebonick, A.;Logan,Nikita)." newcontext="V,1,10,V29">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="HODRICK, K." gain="13"></p_pa>
+    <p_tk vh="H" name="Slebonick, A." assist="Y"></p_tk>
+    <p_tk vh="H" name="Logan,Nikita" assist="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="1" togo="10" spot="CUFB29" context="V,1,10,V29" playid="30,5,222" type="E" text="PENALTY CUFB ineligible downfield on pass 5 yards to the CUFB24." newcontext="V,1,15,V24">
+    <p_pn vh="V" code="ID" type="ineligible downfield on pass" result="ACCEPT" at="V29" yards="5"></p_pn>
+   </play>
+   <play hasball="CUFB" down="1" togo="15" spot="CUFB24" context="V,1,15,V24" playid="30,6,223" type="P" text="WESTLER, C. pass incomplete to HODRICK, K.." newcontext="V,2,15,V24">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="HODRICK, K."></p_pa>
+   </play>
+   <play hasball="CUFB" down="2" togo="15" spot="CUFB24" context="V,2,15,V24" playid="30,7,224" type="P" text="WESTLER, C. pass complete to ROBLEDO, K. for 4 yards to the CUFB28 (Logan,Nikita)." newcontext="V,3,11,V28">
+    <p_pa vh="V" qb="WESTLER, C." result="COMP" rcv="ROBLEDO, K." gain="4"></p_pa>
+    <p_tk vh="H" name="Logan,Nikita"></p_tk>
+   </play>
+   <play hasball="CUFB" down="3" togo="11" spot="CUFB28" context="V,3,11,V28" playid="30,8,225" type="P" text="WESTLER, C. sacked for loss of 8 yards to the CUFB20 (Fuller,Jason)." newcontext="V,4,19,V20">
+    <p_pa vh="V" qb="WESTLER, C." result="SACK" gain="-8"></p_pa>
+    <p_tk vh="H" name="Fuller,Jason" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CUFB" down="4" togo="19" spot="CUFB20" context="V,4,19,V20" playid="30,9,226" type="P" text="WESTLER, C. pass incomplete to HOLLAND, R.." newcontext="H,1,10,V20">
+    <p_pa vh="V" qb="WESTLER, C." result="INC" rcv="HOLLAND, R."></p_pa>
+   </play>
+   <drivesum plays="7" yards="2" top="2:48" driveindex="30" complete="Y"></drivesum>
+   <drivestart poss="H,V20,03:20" vh="H" spot="V20" clock="03:20" driveindex="31,226"></drivestart>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB20" context="H,1,10,V20" playid="31,1,227" clock="00:32" text="OLD DOMINION drive start at 00:32." newcontext="H,1,10,V20">
+   </play>
+   <play hasball="ODU" down="1" togo="10" spot="CUFB20" context="H,1,10,V20" playid="31,2,228" type="R" text="DeMarco,Thomas rush for loss of 2 yards to the CUFB22." newcontext="H,2,12,V22">
+    <p_ru vh="H" name="DeMarco,Thomas" gain="-2"></p_ru>
+   </play>
+   <play hasball="ODU" down="2" togo="12" spot="CUFB22" context="H,2,12,V22" playid="31,3,229" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,2,12,V22">
+   </play>
+   <drivesum plays="1" yards="-2" top="0:32" driveindex="31" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Old Dominion defeats Chowan by a score of 36 to 21."></play>
+   <score final="Y" V="21" H="36"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CUFB">
+    <firstdowns no="5" rush="1" pass="2" penalty="2"></firstdowns>
+    <penalties no="4" yds="20"></penalties>
+    <conversions thirdconv="3" thirdatt="6" fourthconv="1" fourthatt="2"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:21"></misc>
+    <rush att="10" yds="-7" gain="30" loss="37" td="1" long="9"></rush>
+    <pass comp="6" att="11" int="0" yds="59" td="0" long="0" sacks="4" sackyds="32"></pass>
+    <rcv no="6" yds="59" td="0" long="0"></rcv>
+    <punt no="1" yds="31" long="1" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="31.0"></punt>
+    <ko no="1" yds="42" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="0"></pat>
+    <defense tackua="5" tacka="1" tot_tack="6" tflua="1" tfla="0" tflyds="1" sacks="1" sackyds="6"></defense>
+    <pr no="1" yds="8" td="0" long="8"></pr>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ODU">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="3" yds="25"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:39"></misc>
+    <rush att="7" yds="0" gain="3" loss="3" td="0" long="0"></rush>
+    <pass comp="1" att="1" int="0" yds="22" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="22" td="0" long="0"></rcv>
+    <punt no="1" yds="61" long="6" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="61.0"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat retkatt="1" retkmade="0"></pat>
+    <defense tackua="13" tacka="6" tot_tack="19" tflua="7" tfla="0" tflyds="45" sacks="5" sackyds="42" brup="1" blkd="1"></defense>
+    <pr no="1" yds="0" td="0" long="0"></pr>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="ODU" down="2" togo="12" spot="CUFB22" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="0" htor="2" dtgtext="Game Over" ldtext="Drive started: 00:32, 4th Qtr"></downtogo>
+ </plays>

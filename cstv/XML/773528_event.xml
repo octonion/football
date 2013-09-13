@@ -1,0 +1,915 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS30" context="V,1,10,V30" playid="0,1,0" text="Coin Toss - UC Davis wins toss elects to defer, Fresno State receives." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS30" context="V,1,10,V30" playid="0,2,1" type="K" text="Kelley kickoff 67 yards to the FS3, West, Chastin return 29 yards to the FS32 (Moyer)." newcontext="H,1,10,H32">
+    <p_ko vh="V" name="Kelley" gain="67"></p_ko>
+    <p_kr vh="H" name="West, Chastin" gain="29"></p_kr>
+    <p_tk vh="V" name="Moyer"></p_tk>
+   </play>
+   <drivestart poss="H,H32,15:00" vh="H" spot="H32" clock="15:00" driveindex="1,1"></drivestart>
+   <play hasball="FS" down="1" togo="10" spot="FS32" context="H,1,10,H32" playid="1,1,2" type="R" text="Mathews, Ryan rush for 3 yards to the FS35 (Benjamin)." newcontext="H,2,7,H35">
+    <p_ru vh="H" name="Mathews, Ryan" gain="3"></p_ru>
+    <p_tk vh="V" name="Benjamin"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="7" spot="FS35" context="H,2,7,H35" playid="1,2,3" type="R" text="Mathews, Ryan rush for 4 yards to the FS39 (Moyer)." newcontext="H,3,3,H39">
+    <p_ru vh="H" name="Mathews, Ryan" gain="4"></p_ru>
+    <p_tk vh="V" name="Moyer"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="3" spot="FS39" context="H,3,3,H39" playid="1,3,4" type="R" first="R" text="Mathews, Ryan rush for 4 yards to the FS43, 1ST DOWN FS (Healey)." newcontext="H,1,10,H43">
+    <p_ru vh="H" name="Mathews, Ryan" gain="4"></p_ru>
+    <p_tk vh="V" name="Healey"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="FS43" context="H,1,10,H43" playid="1,4,5" type="R" text="Mathews, Ryan rush for 8 yards to the UCDAVIS49 (Morales)." newcontext="H,2,2,V49">
+    <p_ru vh="H" name="Mathews, Ryan" gain="8"></p_ru>
+    <p_tk vh="V" name="Morales"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="2" spot="UCDAVIS49" context="H,2,2,V49" playid="1,5,6" type="E" first="E" text="PENALTY UCDAVIS OF (Morales) 5 yards to the UCDAVIS44, 1ST DOWN FS." newcontext="H,1,10,V44">
+    <p_pn vh="V" code="OF" type="OF" name="Morales" result="ACCEPT" at="V49" yards="5"></p_pn>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS44" context="H,1,10,V44" playid="1,6,7" type="R" text="Miller, Lonyae rush for 3 yards to the UCDAVIS41 (Moyer)." newcontext="H,2,7,V41">
+    <p_ru vh="H" name="Miller, Lonyae" gain="3"></p_ru>
+    <p_tk vh="V" name="Moyer"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="7" spot="UCDAVIS41" context="H,2,7,V41" playid="1,7,8" type="R" text="Colburn, Ryan rush for 6 yards to the UCDAVIS35 (Sobotka;Amajoyi)." newcontext="H,3,1,V35">
+    <p_ru vh="H" name="Colburn, Ryan" gain="6"></p_ru>
+    <p_tk vh="V" name="Sobotka" assist="Y"></p_tk>
+    <p_tk vh="V" name="Amajoyi" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="1" spot="UCDAVIS35" context="H,3,1,V35" playid="1,8,9" type="R" first="R" text="Rouse, Robbie rush for 25 yards to the UCDAVIS10, 1ST DOWN FS (Healey)." newcontext="H,1,0,V10">
+    <p_ru vh="H" name="Rouse, Robbie" gain="25"></p_ru>
+    <p_tk vh="V" name="Healey"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="0" spot="UCDAVIS10" context="H,1,0,V10" playid="1,9,10" type="E" text="Mathews, Ryan rush for 7 yards to the UCDAVIS3 (Amajoyi), PENALTY UCDAVIS OF (Wulff) 5 yards to the UCDAVIS5, NO PLAY." newcontext="H,1,0,V05">
+    <p_pn vh="V" code="OF" type="OF" name="Wulff" result="ACCEPT" at="V10" yards="5"></p_pn>
+   </play>
+   <play hasball="FS" down="1" togo="0" spot="UCDAVIS05" context="H,1,0,V05" playid="1,10,11" type="R" text="Mathews, Ryan rush for 4 yards to the UCDAVIS1 (Morales;Maxson)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Mathews, Ryan" gain="4"></p_ru>
+    <p_tk vh="V" name="Morales" assist="Y"></p_tk>
+    <p_tk vh="V" name="Maxson" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="0" spot="UCDAVIS01" context="H,2,0,V01" playid="1,11,12" type="R" score="Y" clock="09:18" text="Colburn, Ryan rush for 1 yard to the UCDAVIS0, TOUCHDOWN (Wulff), clock 09:18." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Colburn, Ryan" gain="1"></p_ru>
+    <p_tk vh="V" name="Wulff" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="0" spot="UCDAVIS03" context="H,1,0,V03" playid="1,12,13" type="X" score="Y" text="Goessling, K. kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Goessling, K." qb="Goessling, K." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="9" yards="68" top="5:42" driveindex="1" complete="Y"></drivesum>
+   <play hasball="FS" down="1" togo="0" spot="FS30" context="H,1,0,H30" playid="1,13,14" type="K" text="Goessling, K. kickoff 56 yards to the UCDAVIS14, Carter return 22 yards to the UCDAVIS36 (Jefferson, A.J.), PENALTY UCDAVIS holding (Aprile) 10 yards to the UCDAVIS26, 1st and 10, UCDAVIS ball on UCDAVIS26." newcontext="V,1,10,V26">
+    <p_ko vh="H" name="Goessling, K." gain="56"></p_ko>
+    <p_kr vh="V" name="Carter" gain="22"></p_kr>
+    <p_tk vh="H" name="Jefferson, A.J."></p_tk>
+    <p_pn vh="V" code="HO" type="holding" name="Aprile" result="ACCEPT" at="V36" yards="10"></p_pn>
+   </play>
+   <drivestart poss="V,V26,09:18" vh="V" spot="V26" clock="09:18" driveindex="2,14"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS26" context="V,1,10,V26" playid="2,1,15" clock="09:10" text="UCDAVIS drive start at 09:10." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS26" context="V,1,10,V26" playid="2,2,16" type="P" text="Denham pass incomplete to Carter." newcontext="V,2,10,V26">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Carter"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="10" spot="UCDAVIS26" context="V,2,10,V26" playid="2,3,17" type="R" text="Trombetta rush for 1 yard to the UCDAVIS27 (Dunn, Desia;Carter, Chris)." newcontext="V,3,9,V27">
+    <p_ru vh="V" name="Trombetta" gain="1"></p_ru>
+    <p_tk vh="H" name="Dunn, Desia" assist="Y"></p_tk>
+    <p_tk vh="H" name="Carter, Chris" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="9" spot="UCDAVIS27" context="V,3,9,V27" playid="2,4,18" type="P" first="P" text="Denham pass complete to Creadick for 16 yards to the UCDAVIS43, 1ST DOWN UCDAVIS (Bell, Lorne)." newcontext="V,1,10,V43">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Creadick" gain="16"></p_pa>
+    <p_tk vh="H" name="Bell, Lorne"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS43" context="V,1,10,V43" playid="2,5,19" type="R" text="Trombetta rush for loss of 3 yards to the UCDAVIS40 (Bell, Lorne)." newcontext="V,2,13,V40">
+    <p_ru vh="V" name="Trombetta" gain="-3"></p_ru>
+    <p_tk vh="H" name="Bell, Lorne" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="13" spot="UCDAVIS40" context="V,2,13,V40" playid="2,6,20" type="E" first="E" text="Denham pass incomplete to Carter, PENALTY FS pass interference (Jefferson, A.J.) 14 yards to the FS46, 1ST DOWN UCDAVIS, NO PLAY." newcontext="V,1,10,H46">
+    <p_pn vh="H" code="PI" type="pass interference" name="Jefferson, A.J." result="ACCEPT" at="V40" yards="14"></p_pn>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="FS46" context="V,1,10,H46" playid="2,7,21" type="P" text="Denham pass complete to Trombetta for 5 yards to the FS41 (Jacobs, Ben;Herron, Nico)." newcontext="V,2,5,H41">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Trombetta" gain="5"></p_pa>
+    <p_tk vh="H" name="Jacobs, Ben" assist="Y"></p_tk>
+    <p_tk vh="H" name="Herron, Nico" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="5" spot="FS41" context="V,2,5,H41" playid="2,8,22" type="P" text="Denham pass incomplete to Carter (Jefferson, A.J.)." newcontext="V,3,5,H41">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Carter"></p_pa>
+    <p_bu vh="H" name="Jefferson, A.J."></p_bu>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="5" spot="FS41" context="V,3,5,H41" playid="2,9,23" type="P" text="Denham pass incomplete to Creadick." newcontext="V,4,5,H41">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Creadick"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="5" spot="FS41" context="V,4,5,H41" playid="2,10,24" type="U" text="Schmidt punt 41 yards to the FS0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Schmidt" gain="41" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="33" top="2:17" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H20,09:10" vh="H" spot="H20" clock="09:10" driveindex="3,24"></drivestart>
+   <play hasball="FS" down="1" togo="10" spot="FS20" context="H,1,10,H20" playid="3,1,25" clock="06:53" text="FRESNO STATE drive start at 06:53." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="FS20" context="H,1,10,H20" playid="3,2,26" type="P" first="P" text="Colburn, Ryan pass complete to Hamler, Jamel for 20 yards to the FS40, 1ST DOWN FS (Moyer)." newcontext="H,1,10,H40">
+    <p_pa vh="H" qb="Colburn, Ryan" result="COMP" rcv="Hamler, Jamel" gain="20"></p_pa>
+    <p_tk vh="V" name="Moyer"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="FS40" context="H,1,10,H40" playid="3,3,27" type="P" text="Colburn, Ryan pass incomplete to Ajirotutu, Seyi." newcontext="H,2,10,H40">
+    <p_pa vh="H" qb="Colburn, Ryan" result="INC" rcv="Ajirotutu, Seyi"></p_pa>
+   </play>
+   <play hasball="FS" down="2" togo="10" spot="FS40" context="H,2,10,H40" playid="3,4,28" type="R" first="R" score="Y" clock="06:09" text="Mathews, Ryan rush for 60 yards to the UCDAVIS0, 1ST DOWN FS, TOUCHDOWN, clock 06:09." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Mathews, Ryan" gain="60"></p_ru>
+   </play>
+   <play hasball="FS" down="1" togo="0" spot="UCDAVIS03" context="H,1,0,V03" playid="3,5,29" type="X" score="Y" text="Goessling, K. kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Goessling, K." qb="Goessling, K." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="14"></score>
+   <drivesum plays="3" yards="80" top="0:44" driveindex="3" complete="Y"></drivesum>
+   <play hasball="FS" down="1" togo="0" spot="FS30" context="H,1,0,H30" playid="3,6,30" type="K" text="Shapiro, Andrew kickoff 59 yards to the UCDAVIS11, Carter return 15 yards to the UCDAVIS26 (Moore, Mario;Wylie, Devon)." newcontext="V,1,10,V26">
+    <p_ko vh="H" name="Shapiro, Andrew" gain="59"></p_ko>
+    <p_kr vh="V" name="Carter" gain="15"></p_kr>
+    <p_tk vh="H" name="Moore, Mario" assist="Y"></p_tk>
+    <p_tk vh="H" name="Wylie, Devon" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V26,06:09" vh="V" spot="V26" clock="06:09" driveindex="4,30"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS26" context="V,1,10,V26" playid="4,1,31" clock="06:02" text="UCDAVIS drive start at 06:02." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS26" context="V,1,10,V26" playid="4,2,32" type="R" text="Reese rush for 2 yards to the UCDAVIS28 (Banks, Cornell;Jacobs, Ben)." newcontext="V,2,8,V28">
+    <p_ru vh="V" name="Reese" gain="2"></p_ru>
+    <p_tk vh="H" name="Banks, Cornell" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jacobs, Ben" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="8" spot="UCDAVIS28" context="V,2,8,V28" playid="4,3,33" type="P" first="P" text="Denham pass complete to Carter for 21 yards to the UCDAVIS49, 1ST DOWN UCDAVIS (Bell, Lorne)." newcontext="V,1,10,V49">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Carter" gain="21"></p_pa>
+    <p_tk vh="H" name="Bell, Lorne"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS49" context="V,1,10,V49" playid="4,4,34" type="P" text="Denham pass incomplete to Grant." newcontext="V,2,10,V49">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Grant"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="10" spot="UCDAVIS49" context="V,2,10,V49" playid="4,5,35" type="P" first="P" text="Denham pass complete to Reese for 33 yards to the FS18, 1ST DOWN UCDAVIS (Harris, Moses)." newcontext="V,1,10,H18">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Reese" gain="33"></p_pa>
+    <p_tk vh="H" name="Harris, Moses"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="FS18" context="V,1,10,H18" playid="4,6,36" type="P" text="Denham pass incomplete to Creadick." newcontext="V,2,10,H18">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Creadick"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="10" spot="FS18" context="V,2,10,H18" playid="4,7,37" type="P" text="Denham pass complete to Soto for 3 yards to the FS15 (Knox, Kyle), PENALTY UCDAVIS IS declined." newcontext="V,3,7,H15">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Soto" gain="3"></p_pa>
+    <p_tk vh="H" name="Knox, Kyle"></p_tk>
+    <p_pn vh="V" code="IS" type="IS" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="7" spot="FS15" context="V,3,7,H15" playid="4,8,38" type="P" text="Denham pass incomplete to Creadick." newcontext="V,4,7,H15">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Creadick"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="7" spot="FS15" context="V,4,7,H15" playid="4,9,39" type="F" clock="03:39" text="Kelley field goal attempt from 32 MISSED - wide right, spot at FS20, clock 03:39." newcontext="H,1,10,H20">
+    <p_fg vh="V" name="Kelley" distance="32" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="8" yards="59" top="2:23" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="H,H20,03:39" vh="H" spot="H20" clock="03:39" driveindex="5,39"></drivestart>
+   <play hasball="FS" down="1" togo="10" spot="FS20" context="H,1,10,H20" playid="5,1,40" clock="03:39" text="FRESNO STATE drive start at 03:39." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="FS20" context="H,1,10,H20" playid="5,2,41" type="R" text="Mathews, Ryan rush for 1 yard to the FS21 (Wulff;Butler)." newcontext="H,2,9,H21">
+    <p_ru vh="H" name="Mathews, Ryan" gain="1"></p_ru>
+    <p_tk vh="V" name="Wulff" assist="Y"></p_tk>
+    <p_tk vh="V" name="Butler" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="9" spot="FS21" context="H,2,9,H21" playid="5,3,42" type="R" text="Mathews, Ryan rush for 6 yards to the FS27 (Sobotka)." newcontext="H,3,3,H27">
+    <p_ru vh="H" name="Mathews, Ryan" gain="6"></p_ru>
+    <p_tk vh="V" name="Sobotka"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="3" spot="FS27" context="H,3,3,H27" playid="5,4,43" type="P" first="P" text="Colburn, Ryan pass complete to Kinter, Isaac for 5 yards to the FS32, 1ST DOWN FS (Sobotka)." newcontext="H,1,10,H32">
+    <p_pa vh="H" qb="Colburn, Ryan" result="COMP" rcv="Kinter, Isaac" gain="5"></p_pa>
+    <p_tk vh="V" name="Sobotka"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="FS32" context="H,1,10,H32" playid="5,5,44" type="E" text="PENALTY FS false start (Bernardi, Joe) 5 yards to the FS27." newcontext="H,1,15,H27">
+    <p_pn vh="H" code="FS" type="false start" name="Bernardi, Joe" result="ACCEPT" at="H32" yards="5"></p_pn>
+   </play>
+   <play hasball="FS" down="1" togo="15" spot="FS27" context="H,1,15,H27" playid="5,6,45" type="P" text="Colburn, Ryan pass incomplete to Pascoe, Vince." newcontext="H,2,15,H27">
+    <p_pa vh="H" qb="Colburn, Ryan" result="INC" rcv="Pascoe, Vince"></p_pa>
+   </play>
+   <play hasball="FS" down="2" togo="15" spot="FS27" context="H,2,15,H27" playid="5,7,46" type="P" text="Colburn, Ryan pass complete to Ajirotutu, Seyi for 14 yards to the FS41 (Scott)." newcontext="H,3,1,H41">
+    <p_pa vh="H" qb="Colburn, Ryan" result="COMP" rcv="Ajirotutu, Seyi" gain="14"></p_pa>
+    <p_tk vh="V" name="Scott"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="1" spot="FS41" context="H,3,1,H41" playid="5,8,47" type="R" text="Mathews, Ryan rush for no gain to the FS41 (Amajoyi)." newcontext="H,4,1,H41">
+    <p_ru vh="H" name="Mathews, Ryan" gain="0"></p_ru>
+    <p_tk vh="V" name="Amajoyi"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UCDAVIS">
+    <firstdowns no="4" rush="0" pass="3" penalty="1"></firstdowns>
+    <penalties no="3" yds="20"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:55"></misc>
+    <rush att="3" yds="0" gain="3" loss="3" td="0" long="2"></rush>
+    <pass comp="5" att="11" int="0" yds="78" td="0" long="33" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="78" td="0" long="33"></rcv>
+    <punt no="1" yds="41" long="41" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="41.0"></punt>
+    <ko no="1" yds="67" ob="0" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="13" tacka="6" tot_tack="19" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0"></defense>
+    <kr no="2" yds="37" td="0" long="22"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="FS">
+    <firstdowns no="6" rush="3" pass="2" penalty="1"></firstdowns>
+    <penalties no="2" yds="19"></penalties>
+    <conversions thirdconv="2" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:05"></misc>
+    <rush att="13" yds="125" gain="125" loss="0" td="2" long="60"></rush>
+    <pass comp="3" att="5" int="0" yds="39" td="0" long="20" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="39" td="0" long="20"></rcv>
+    <ko no="2" yds="115" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="6" tacka="8" tot_tack="14" tflua="1" tfla="0" tflyds="3" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="29" td="0" long="29"></kr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="FS" down="4" togo="1" spot="FS41" context="H,4,1,H41" playid="5,9,48" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,4,1,H41">
+   </play>
+   <play hasball="FS" down="4" togo="1" spot="FS41" context="H,4,1,H41" playid="5,10,49" type="R" first="R" text="Mathews, Ryan rush for 7 yards to the FS48, 1ST DOWN FS (Gruendl)." newcontext="H,1,10,H48">
+    <p_ru vh="H" name="Mathews, Ryan" gain="7"></p_ru>
+    <p_tk vh="V" name="Gruendl"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="FS48" context="H,1,10,H48" playid="5,11,50" type="E" text="Colburn, Ryan pass incomplete to Camp, Reynard, PENALTY FS holding 10 yards to the FS38, NO PLAY." newcontext="H,1,20,H38">
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="H48" yards="10"></p_pn>
+   </play>
+   <play hasball="FS" down="1" togo="20" spot="FS38" context="H,1,20,H38" playid="5,12,51" type="P" text="Colburn, Ryan pass incomplete to Mathews, Ryan." newcontext="H,2,20,H38">
+    <p_pa vh="H" qb="Colburn, Ryan" result="INC" rcv="Mathews, Ryan"></p_pa>
+   </play>
+   <play hasball="FS" down="2" togo="20" spot="FS38" context="H,2,20,H38" playid="5,13,52" type="R" text="Mathews, Ryan rush for 9 yards to the FS47 (Moyer)." newcontext="H,3,11,H47">
+    <p_ru vh="H" name="Mathews, Ryan" gain="9"></p_ru>
+    <p_tk vh="V" name="Moyer"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="11" spot="FS47" context="H,3,11,H47" playid="5,14,53" type="P" turnover="I" text="Colburn, Ryan pass intercepted by Morales at the UCDAVIS31, Morales return 8 yards to the UCDAVIS39 (Moore, Marlon)." newcontext="V,1,10,V39">
+    <p_pa vh="H" qb="Colburn, Ryan" result="INT"></p_pa>
+    <p_ir vh="V" name="Morales" at="V31" gain="8"></p_ir>
+    <p_tk vh="H" name="Moore, Marlon"></p_tk>
+   </play>
+   <drivesum plays="10" yards="27" top="5:01" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,V39,15:00" vh="V" spot="V39" clock="15:00" driveindex="6,53"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS39" context="V,1,10,V39" playid="6,1,54" clock="13:38" text="UCDAVIS drive start at 13:38." newcontext="V,1,10,V39">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS39" context="V,1,10,V39" playid="6,2,55" type="R" text="Trombetta rush for 5 yards to the UCDAVIS44 (Herron, Nico)." newcontext="V,2,5,V44">
+    <p_ru vh="V" name="Trombetta" gain="5"></p_ru>
+    <p_tk vh="H" name="Herron, Nico"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="5" spot="UCDAVIS44" context="V,2,5,V44" playid="6,3,56" type="P" text="Denham pass incomplete to Carter." newcontext="V,3,5,V44">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Carter"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="5" spot="UCDAVIS44" context="V,3,5,V44" playid="6,4,57" type="E" text="Denham pass complete to Creadick for 12 yards to the FS44 (Harris, Moses;Dunn, Desia), PENALTY UCDAVIS pass interference (Bispo) 15 yards to the UCDAVIS29, NO PLAY." newcontext="V,3,20,V29">
+    <p_pn vh="V" code="PI" type="pass interference" name="Bispo" result="ACCEPT" at="V44" yards="15"></p_pn>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="20" spot="UCDAVIS29" context="V,3,20,V29" playid="6,5,58" type="P" text="Denham pass complete to Trombetta for 9 yards to the UCDAVIS38 (Jefferson, A.J.;Bell, Lorne)." newcontext="V,4,11,V38">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Trombetta" gain="9"></p_pa>
+    <p_tk vh="H" name="Jefferson, A.J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Bell, Lorne" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="11" spot="UCDAVIS38" context="V,4,11,V38" playid="6,6,59" type="U" turnover="F" text="Schmidt punt 36 yards to the FS26, West, Chastin return 0 yards to the FS26, fumble by West, Chastin recovered by UCDAVIS Hart at FS29." newcontext="V,1,10,H29">
+    <p_pu vh="V" name="Schmidt" gain="36"></p_pu>
+    <p_pr vh="H" name="West, Chastin" gain="0"></p_pr>
+    <p_fumb vh="H" name="West, Chastin" at="H29" frvh="V" frname="Hart"></p_fumb>
+   </play>
+   <drivesum plays="3" yards="-1" top="2:05" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="V,H29,13:38" vh="V" spot="H29" clock="13:38" driveindex="8,59"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="FS29" context="V,1,10,H29" playid="8,1,60" clock="11:33" text="UCDAVIS drive start at 11:33." newcontext="V,1,10,H29">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="FS29" context="V,1,10,H29" playid="8,2,61" type="P" text="Denham pass incomplete to Reese." newcontext="V,2,10,H29">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Reese"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="10" spot="FS29" context="V,2,10,H29" playid="8,3,62" type="#" clock="11:28" text="Timeout UCDAVIS, clock 11:28." newcontext="V,2,10,H29">
+    <p_to vh="V" team="UCDAVIS"></p_to>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="10" spot="FS29" context="V,2,10,H29" playid="8,4,63" type="P" first="P" text="Denham pass complete to Creadick for 10 yards to the FS19, 1ST DOWN UCDAVIS (Jacobs, Ben)." newcontext="V,1,10,H19">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Creadick" gain="10"></p_pa>
+    <p_tk vh="H" name="Jacobs, Ben"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="FS19" context="V,1,10,H19" playid="8,5,64" type="P" text="Denham pass complete to Grant for 4 yards to the FS15 (Harris, Moses)." newcontext="V,2,6,H15">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Grant" gain="4"></p_pa>
+    <p_tk vh="H" name="Harris, Moses"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="6" spot="FS15" context="V,2,6,H15" playid="8,6,65" type="R" text="Reese rush for no gain to the FS15 (Herron, Nico)." newcontext="V,3,6,H15">
+    <p_ru vh="V" name="Reese" gain="0"></p_ru>
+    <p_tk vh="H" name="Herron, Nico"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="6" spot="FS15" context="V,3,6,H15" playid="8,7,66" type="P" text="Denham pass complete to Carter for 5 yards to the FS10 (Bell, Lorne;Plummer, Shawn)." newcontext="V,4,1,H10">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Carter" gain="5"></p_pa>
+    <p_tk vh="H" name="Bell, Lorne" assist="Y"></p_tk>
+    <p_tk vh="H" name="Plummer, Shawn" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="1" spot="FS10" context="V,4,1,H10" playid="8,8,67" type="#" clock="08:49" text="Timeout UCDAVIS, clock 08:49." newcontext="V,4,1,H10">
+    <p_to vh="V" team="UCDAVIS"></p_to>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="1" spot="FS10" context="V,4,1,H10" playid="8,9,68" type="R" first="R" text="Reese rush for 2 yards to the FS8, 1ST DOWN UCDAVIS (Bell, Lorne;Harris, Moses)." newcontext="V,1,0,H08">
+    <p_ru vh="V" name="Reese" gain="2"></p_ru>
+    <p_tk vh="H" name="Bell, Lorne" assist="Y"></p_tk>
+    <p_tk vh="H" name="Harris, Moses" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="0" spot="FS08" context="V,1,0,H08" playid="8,10,69" type="R" text="Denham rush for loss of 2 yards to the FS10, fumble by Denham recovered by UCDAVIS Denham at FS10." newcontext="V,2,0,H10">
+    <p_ru vh="V" name="Denham" gain="-2"></p_ru>
+    <p_fumb vh="V" name="Denham" at="H10" frvh="V" frname="Denham"></p_fumb>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="0" spot="FS10" context="V,2,0,H10" playid="8,11,70" type="P" score="Y" turnover="I" clock="07:38" text="Denham pass intercepted by Herron, Nico at the FS6, Herron, Nico return 94 yards to the UCDAVIS0, TOUCHDOWN, clock 07:38." newcontext="H,1,0,V03">
+    <p_pa vh="V" qb="Denham" result="INT"></p_pa>
+    <p_ir vh="H" name="Herron, Nico" at="H06" gain="94"></p_ir>
+   </play>
+   <drivesum plays="8" yards="19" top="3:55" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,V03,07:38" vh="H" spot="V03" clock="07:38" driveindex="9,70"></drivestart>
+   <play hasball="FS" down="1" togo="0" spot="UCDAVIS03" context="H,1,0,V03" playid="9,1,71" type="X" score="Y" text="Goessling, K. kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Goessling, K." qb="Goessling, K." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="21"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="9" complete="Y"></drivesum>
+   <play hasball="FS" down="1" togo="0" spot="FS30" context="H,1,0,H30" playid="9,2,72" type="K" text="Goessling, K. kickoff 61 yards to the UCDAVIS9, Carter return 22 yards to the UCDAVIS31 (Green, Isaiah)." newcontext="V,1,10,V31">
+    <p_ko vh="H" name="Goessling, K." gain="61"></p_ko>
+    <p_kr vh="V" name="Carter" gain="22"></p_kr>
+    <p_tk vh="H" name="Green, Isaiah"></p_tk>
+   </play>
+   <drivestart poss="V,V31,07:38" vh="V" spot="V31" clock="07:38" driveindex="10,72"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS31" context="V,1,10,V31" playid="10,1,73" clock="07:29" text="UCDAVIS drive start at 07:29." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS31" context="V,1,10,V31" playid="10,2,74" type="P" text="Denham pass complete to Trombetta for 1 yard to the UCDAVIS32 (Hill, Zak)." newcontext="V,2,9,V32">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Trombetta" gain="1"></p_pa>
+    <p_tk vh="H" name="Hill, Zak"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="9" spot="UCDAVIS32" context="V,2,9,V32" playid="10,3,75" type="P" text="Denham pass incomplete to Trombetta." newcontext="V,3,9,V32">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Trombetta"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="9" spot="UCDAVIS32" context="V,3,9,V32" playid="10,4,76" type="E" first="E" text="Denham pass incomplete to Grant (Dunn, Desia), PENALTY FS pass interference (Dunn, Desia) 15 yards to the UCDAVIS47, 1ST DOWN UCDAVIS, NO PLAY." newcontext="V,1,10,V47">
+    <p_pn vh="H" code="PI" type="pass interference" name="Dunn, Desia" result="ACCEPT" at="V32" yards="15"></p_pn>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS47" context="V,1,10,V47" playid="10,5,77" type="R" text="Trombetta rush for 4 yards to the FS49 (Jacobs, Ben)." newcontext="V,2,6,H49">
+    <p_ru vh="V" name="Trombetta" gain="4"></p_ru>
+    <p_tk vh="H" name="Jacobs, Ben"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="6" spot="FS49" context="V,2,6,H49" playid="10,6,78" type="R" text="Trombetta rush for 1 yard to the FS48 (Ramos, Wilson;Herron, Nico)." newcontext="V,3,5,H48">
+    <p_ru vh="V" name="Trombetta" gain="1"></p_ru>
+    <p_tk vh="H" name="Ramos, Wilson" assist="Y"></p_tk>
+    <p_tk vh="H" name="Herron, Nico" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="5" spot="FS48" context="V,3,5,H48" playid="10,7,79" type="P" text="Denham pass incomplete to Carter (Lewis, Chris)." newcontext="V,4,5,H48">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Carter"></p_pa>
+    <p_bu vh="H" name="Lewis, Chris"></p_bu>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="5" spot="FS48" context="V,4,5,H48" playid="10,8,80" type="U" text="Schmidt punt 37 yards to the FS11, downed." newcontext="H,1,10,H11">
+    <p_pu vh="V" name="Schmidt" gain="37" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="21" top="2:33" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H11,07:29" vh="H" spot="H11" clock="07:29" driveindex="11,80"></drivestart>
+   <play hasball="FS" down="1" togo="10" spot="FS11" context="H,1,10,H11" playid="11,1,81" clock="04:56" text="FRESNO STATE drive start at 04:56." newcontext="H,1,10,H11">
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="FS11" context="H,1,10,H11" playid="11,2,82" type="R" text="Miller, Lonyae rush for loss of 3 yards to the FS8 (Butler;Congdon)." newcontext="H,2,13,H08">
+    <p_ru vh="H" name="Miller, Lonyae" gain="-3"></p_ru>
+    <p_tk vh="V" name="Butler" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Congdon" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="13" spot="FS08" context="H,2,13,H08" playid="11,3,83" type="P" first="P" score="Y" clock="04:05" text="Colburn, Ryan pass complete to Moore, Marlon for 92 yards to the UCDAVIS0, 1ST DOWN FS, TOUCHDOWN, clock 04:05." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Colburn, Ryan" result="COMP" rcv="Moore, Marlon" gain="92"></p_pa>
+   </play>
+   <play hasball="FS" down="1" togo="0" spot="UCDAVIS03" context="H,1,0,V03" playid="11,4,84" type="X" score="Y" text="Goessling, K. kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Goessling, K." qb="Goessling, K." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="28"></score>
+   <drivesum plays="2" yards="89" top="0:51" driveindex="11" complete="Y"></drivesum>
+   <play hasball="FS" down="1" togo="0" spot="FS30" context="H,1,0,H30" playid="11,5,85" type="K" text="Shapiro, Andrew kickoff 54 yards to the UCDAVIS16, Reese return 9 yards to the UCDAVIS25 (Brown, Travis;Akers, Matt)." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Shapiro, Andrew" gain="54"></p_ko>
+    <p_kr vh="V" name="Reese" gain="9"></p_kr>
+    <p_tk vh="H" name="Brown, Travis" assist="Y"></p_tk>
+    <p_tk vh="H" name="Akers, Matt" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V25,04:05" vh="V" spot="V25" clock="04:05" driveindex="12,85"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS25" context="V,1,10,V25" playid="12,1,86" clock="03:58" text="UCDAVIS drive start at 03:58." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS25" context="V,1,10,V25" playid="12,2,87" type="P" first="P" text="Denham pass complete to Soto for 10 yards to the UCDAVIS35, 1ST DOWN UCDAVIS (Jefferson, A.J.)." newcontext="V,1,10,V35">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Soto" gain="10"></p_pa>
+    <p_tk vh="H" name="Jefferson, A.J."></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS35" context="V,1,10,V35" playid="12,3,88" type="P" text="Denham pass incomplete to Carter (Banks, Cornell)." newcontext="V,2,10,V35">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Carter"></p_pa>
+    <p_bu vh="H" name="Banks, Cornell"></p_bu>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="10" spot="UCDAVIS35" context="V,2,10,V35" playid="12,4,89" type="R" text="Reese rush for 5 yards to the UCDAVIS40 (Jacobs, Ben;Akers, Matt)." newcontext="V,3,5,V40">
+    <p_ru vh="V" name="Reese" gain="5"></p_ru>
+    <p_tk vh="H" name="Jacobs, Ben" assist="Y"></p_tk>
+    <p_tk vh="H" name="Akers, Matt" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="5" spot="UCDAVIS40" context="V,3,5,V40" playid="12,5,90" type="P" first="P" text="Denham pass complete to Grant for 9 yards to the UCDAVIS49, 1ST DOWN UCDAVIS (Dunn, Desia)." newcontext="V,1,10,V49">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Grant" gain="9"></p_pa>
+    <p_tk vh="H" name="Dunn, Desia"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS49" context="V,1,10,V49" playid="12,6,91" type="P" first="P" text="Denham pass complete to Creadick for 13 yards to the FS38, 1ST DOWN UCDAVIS (Knox, Kyle;Herron, Nico)." newcontext="V,1,10,H38">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Creadick" gain="13"></p_pa>
+    <p_tk vh="H" name="Knox, Kyle" assist="Y"></p_tk>
+    <p_tk vh="H" name="Herron, Nico" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="FS38" context="V,1,10,H38" playid="12,7,92" type="P" text="Denham pass incomplete to Reese (Harrell, Logan)." newcontext="V,2,10,H38">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Reese"></p_pa>
+    <p_bu vh="H" name="Harrell, Logan"></p_bu>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="10" spot="FS38" context="V,2,10,H38" playid="12,8,93" type="P" text="Denham pass complete to Carter for 3 yards to the FS35 (Bell, Lorne)." newcontext="V,3,7,H35">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Carter" gain="3"></p_pa>
+    <p_tk vh="H" name="Bell, Lorne"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="7" spot="FS35" context="V,3,7,H35" playid="12,9,94" type="P" text="Denham pass incomplete to Carter (Carter, Chris)." newcontext="V,4,7,H35">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Carter"></p_pa>
+    <p_bu vh="H" name="Carter, Chris"></p_bu>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="7" spot="FS35" context="V,4,7,H35" playid="12,10,95" type="#" clock="01:43" text="Timeout UCDAVIS, clock 01:43." newcontext="V,4,7,H35">
+    <p_to vh="V" team="UCDAVIS"></p_to>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="7" spot="FS35" context="V,4,7,H35" playid="12,11,96" type="P" text="Denham pass incomplete to Soto." newcontext="H,1,10,H35">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Soto"></p_pa>
+   </play>
+   <drivesum plays="9" yards="40" top="2:21" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H35,01:43" vh="H" spot="H35" clock="01:43" driveindex="13,96"></drivestart>
+   <play hasball="FS" down="1" togo="10" spot="FS35" context="H,1,10,H35" playid="13,1,97" clock="01:37" text="FRESNO STATE drive start at 01:37." newcontext="H,1,10,H35">
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="FS35" context="H,1,10,H35" playid="13,2,98" type="R" first="R" text="Miller, Lonyae rush for 33 yards to the UCDAVIS32, 1ST DOWN FS (Brown)." newcontext="H,1,10,V32">
+    <p_ru vh="H" name="Miller, Lonyae" gain="33"></p_ru>
+    <p_tk vh="V" name="Brown"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS32" context="H,1,10,V32" playid="13,3,99" type="R" text="Rouse, Robbie rush for 3 yards to the UCDAVIS29 (Lee)." newcontext="H,2,7,V29">
+    <p_ru vh="H" name="Rouse, Robbie" gain="3"></p_ru>
+    <p_tk vh="V" name="Lee"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="7" spot="UCDAVIS29" context="H,2,7,V29" playid="13,4,100" type="#" clock="00:59" text="Timeout Fresno State, clock 00:59." newcontext="H,2,7,V29">
+    <p_to vh="H" team="Fresno State"></p_to>
+   </play>
+   <play hasball="FS" down="2" togo="7" spot="UCDAVIS29" context="H,2,7,V29" playid="13,5,101" type="R" text="Rouse, Robbie rush for 6 yards to the UCDAVIS23 (Benjamin;Morales)." newcontext="H,3,1,V23">
+    <p_ru vh="H" name="Rouse, Robbie" gain="6"></p_ru>
+    <p_tk vh="V" name="Benjamin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Morales" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="1" spot="UCDAVIS23" context="H,3,1,V23" playid="13,6,102" type="P" first="P" text="Feathers, Ebahn pass complete to Pascoe, Vince for 3 yards to the UCDAVIS20, 1ST DOWN FS (Congdon)." newcontext="H,1,10,V20">
+    <p_pa vh="H" qb="Feathers, Ebahn" result="COMP" rcv="Pascoe, Vince" gain="3"></p_pa>
+    <p_tk vh="V" name="Congdon"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS20" context="H,1,10,V20" playid="13,7,103" type="P" text="Feathers, Ebahn pass incomplete." newcontext="H,2,10,V20">
+    <p_pa vh="H" qb="Feathers, Ebahn" result="INC"></p_pa>
+   </play>
+   <play hasball="FS" down="2" togo="10" spot="UCDAVIS20" context="H,2,10,V20" playid="13,8,104" type="R" first="R" score="Y" clock="00:36" text="Feathers, Ebahn rush for 20 yards to the UCDAVIS0, 1ST DOWN FS, TOUCHDOWN, clock 00:36." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Feathers, Ebahn" gain="20"></p_ru>
+   </play>
+   <play hasball="FS" down="1" togo="0" spot="UCDAVIS03" context="H,1,0,V03" playid="13,9,105" type="X" score="Y" text="Goessling, K. kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Goessling, K." qb="Goessling, K." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="35"></score>
+   <drivesum plays="6" yards="65" top="1:01" driveindex="13" complete="Y"></drivesum>
+   <play hasball="FS" down="1" togo="0" spot="FS30" context="H,1,0,H30" playid="13,10,106" type="K" text="Goessling, K. kickoff 64 yards to the UCDAVIS6, Reese return 11 yards to the UCDAVIS17 (Harris,Michael;Wylie, Devon)." newcontext="V,1,10,V17">
+    <p_ko vh="H" name="Goessling, K." gain="64"></p_ko>
+    <p_kr vh="V" name="Reese" gain="11"></p_kr>
+    <p_tk vh="H" name="Harris,Michael" assist="Y"></p_tk>
+    <p_tk vh="H" name="Wylie, Devon" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V17,00:36" vh="V" spot="V17" clock="00:36" driveindex="14,106"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS17" context="V,1,10,V17" playid="14,1,107" clock="00:31" text="UCDAVIS drive start at 00:31." newcontext="V,1,10,V17">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS17" context="V,1,10,V17" playid="14,2,108" type="R" text="Trombetta rush for 3 yards to the UCDAVIS20 (Jacobs, Ben)." newcontext="V,2,7,V20">
+    <p_ru vh="V" name="Trombetta" gain="3"></p_ru>
+    <p_tk vh="H" name="Jacobs, Ben"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="7" spot="UCDAVIS20" context="V,2,7,V20" playid="14,3,109" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,2,7,V20">
+   </play>
+   <drivesum plays="1" yards="3" top="0:31" driveindex="14" complete="Y"></drivesum>
+   <score qtr="2" V="0" H="35"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UCDAVIS">
+    <firstdowns no="6" rush="1" pass="4" penalty="1"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="1" fourthatt="2"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="11:46"></misc>
+    <rush att="8" yds="18" gain="20" loss="2" td="0" long="3"></rush>
+    <pass comp="9" att="18" int="1" yds="64" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="9" yds="64" td="0" long="0"></rcv>
+    <punt no="2" yds="73" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="36.5"></punt>
+    <defense tackua="5" tacka="4" tot_tack="9" tflua="2" tfla="0" tflyds="6" sacks="0" sackyds="0" fr="1" fryds="0" int="1" intyds="8"></defense>
+    <kr no="3" yds="42" td="0" long="0"></kr>
+    <ir no="1" yds="8" td="0" long="8"></ir>
+    <fumbles no="1" lost="0"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="FS">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="25"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="03:14"></misc>
+    <rush att="7" yds="75" gain="78" loss="3" td="1" long="0"></rush>
+    <pass comp="2" att="5" int="1" yds="95" td="1" long="72" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="95" td="1" long="72"></rcv>
+    <ko no="3" yds="179" ob="0" tb="0"></ko>
+    <pat kickatt="3" kickmade="3"></pat>
+    <defense tackua="12" tacka="16" tot_tack="28" sacks="0" sackyds="0" brup="4" int="1" intyds="94"></defense>
+    <pr no="1" yds="3" td="0" long="0"></pr>
+    <ir no="1" yds="94" td="1" long="94"></ir>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="3" patkick="3"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="UCDAVIS" down="2" togo="7" spot="UCDAVIS20" context="V,2,7,V20" playid="14,4,110" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, FS ball on FS30." newcontext="H,2,7,H30">
+   </play>
+   <play hasball="FS" down="2" togo="7" spot="FS30" context="H,2,7,H30" playid="14,5,111" type="K" text="Shapiro, Andrew kickoff 70 yards to the UCDAVIS0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Shapiro, Andrew" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,15:00" vh="V" spot="V20" clock="15:00" driveindex="15,111"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS20" context="V,1,10,V20" playid="15,1,112" clock="15:00" text="UCDAVIS drive start at 15:00." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS20" context="V,1,10,V20" playid="15,2,113" type="E" text="Denham pass complete to Creadick for 24 yards to the UCDAVIS44 (Hill, Zak), PENALTY UCDAVIS pass interference (Creadick) 10 yards to the UCDAVIS10, NO PLAY." newcontext="V,1,20,V10">
+    <p_pn vh="V" code="PI" type="pass interference" name="Creadick" result="ACCEPT" at="V20" yards="10"></p_pn>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="20" spot="UCDAVIS10" context="V,1,20,V10" playid="15,3,114" type="P" text="Denham pass complete to Trombetta for loss of 4 yards to the UCDAVIS6 (Lewis, Chris)." newcontext="V,2,24,V06">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Trombetta" gain="-4"></p_pa>
+    <p_tk vh="H" name="Lewis, Chris" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="24" spot="UCDAVIS06" context="V,2,24,V06" playid="15,4,115" type="R" text="Trombetta rush for 9 yards to the UCDAVIS15 (Owens, Damion)." newcontext="V,3,15,V15">
+    <p_ru vh="V" name="Trombetta" gain="9"></p_ru>
+    <p_tk vh="H" name="Owens, Damion"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="15" spot="UCDAVIS15" context="V,3,15,V15" playid="15,5,116" type="P" text="Denham pass incomplete to Creadick." newcontext="V,4,15,V15">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Creadick"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="15" spot="UCDAVIS15" context="V,4,15,V15" playid="15,6,117" type="U" text="Schmidt punt 42 yards to the FS43, Wylie, Devon return 14 yards to the UCDAVIS43 (Bispo)." newcontext="H,1,10,V43">
+    <p_pu vh="V" name="Schmidt" gain="42"></p_pu>
+    <p_pr vh="H" name="Wylie, Devon" gain="14"></p_pr>
+    <p_tk vh="V" name="Bispo"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-5" top="1:41" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,V43,15:00" vh="H" spot="V43" clock="15:00" driveindex="16,117"></drivestart>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS43" context="H,1,10,V43" playid="16,1,118" clock="13:19" text="FRESNO STATE drive start at 13:19." newcontext="H,1,10,V43">
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS43" context="H,1,10,V43" playid="16,2,119" type="R" text="Miller, Lonyae rush for 3 yards to the UCDAVIS40 (Sobotka;Amajoyi)." newcontext="H,2,7,V40">
+    <p_ru vh="H" name="Miller, Lonyae" gain="3"></p_ru>
+    <p_tk vh="V" name="Sobotka" assist="Y"></p_tk>
+    <p_tk vh="V" name="Amajoyi" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="7" spot="UCDAVIS40" context="H,2,7,V40" playid="16,3,120" type="R" first="R" text="Miller, Lonyae rush for 8 yards to the UCDAVIS32, 1ST DOWN FS (Healey)." newcontext="H,1,10,V32">
+    <p_ru vh="H" name="Miller, Lonyae" gain="8"></p_ru>
+    <p_tk vh="V" name="Healey"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS32" context="H,1,10,V32" playid="16,4,121" type="P" first="P" text="Colburn, Ryan pass complete to Ajirotutu, Seyi for 30 yards to the UCDAVIS2, 1ST DOWN FS (Hart)." newcontext="H,1,0,V02">
+    <p_pa vh="H" qb="Colburn, Ryan" result="COMP" rcv="Ajirotutu, Seyi" gain="30"></p_pa>
+    <p_tk vh="V" name="Hart"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="0" spot="UCDAVIS02" context="H,1,0,V02" playid="16,5,122" type="R" text="Miller, Lonyae rush for no gain to the UCDAVIS2 (Moyer;Healey)." newcontext="H,2,0,V02">
+    <p_ru vh="H" name="Miller, Lonyae" gain="0"></p_ru>
+    <p_tk vh="V" name="Moyer" assist="Y"></p_tk>
+    <p_tk vh="V" name="Healey" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="0" spot="UCDAVIS02" context="H,2,0,V02" playid="16,6,123" type="#" clock="11:04" text="Timeout Fresno State, clock 11:04." newcontext="H,2,0,V02">
+    <p_to vh="H" team="Fresno State"></p_to>
+   </play>
+   <play hasball="FS" down="2" togo="0" spot="UCDAVIS02" context="H,2,0,V02" playid="16,7,124" type="R" text="Miller, Lonyae rush for loss of 1 yard to the UCDAVIS3 (Congdon)." newcontext="H,3,0,V03">
+    <p_ru vh="H" name="Miller, Lonyae" gain="-1"></p_ru>
+    <p_tk vh="V" name="Congdon" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="0" spot="UCDAVIS03" context="H,3,0,V03" playid="16,8,125" type="R" score="Y" clock="10:18" text="Miller, Lonyae rush for 3 yards to the UCDAVIS0, TOUCHDOWN, clock 10:18." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Miller, Lonyae" gain="3"></p_ru>
+   </play>
+   <play hasball="FS" down="1" togo="0" spot="UCDAVIS03" context="H,1,0,V03" playid="16,9,126" type="X" score="Y" text="Goessling, K. kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Goessling, K." qb="Goessling, K." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="42"></score>
+   <drivesum plays="6" yards="43" top="3:01" driveindex="16" complete="Y"></drivesum>
+   <play hasball="FS" down="1" togo="0" spot="FS30" context="H,1,0,H30" playid="16,10,127" type="K" text="Shapiro, Andrew kickoff 64 yards to the UCDAVIS6, Reese return 23 yards to the UCDAVIS29 (Thomas, Phillip)." newcontext="V,1,10,V29">
+    <p_ko vh="H" name="Shapiro, Andrew" gain="64"></p_ko>
+    <p_kr vh="V" name="Reese" gain="23"></p_kr>
+    <p_tk vh="H" name="Thomas, Phillip"></p_tk>
+   </play>
+   <drivestart poss="V,V29,10:18" vh="V" spot="V29" clock="10:18" driveindex="17,127"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS29" context="V,1,10,V29" playid="17,1,128" clock="10:11" text="UCDAVIS drive start at 10:11." newcontext="V,1,10,V29">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS29" context="V,1,10,V29" playid="17,2,129" type="P" text="Denham pass incomplete to Rogers." newcontext="V,2,10,V29">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Rogers"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="10" spot="UCDAVIS29" context="V,2,10,V29" playid="17,3,130" type="P" first="P" text="Denham pass complete to Bispo for 33 yards to the FS38, 1ST DOWN UCDAVIS, out-of-bounds (Salinas, Daniel)." ob="Y" newcontext="V,1,10,H38">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Bispo" gain="33"></p_pa>
+    <p_tk vh="H" name="Salinas, Daniel"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="FS38" context="V,1,10,H38" playid="17,4,131" type="P" text="Denham pass incomplete to Soto." newcontext="V,2,10,H38">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Soto"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="10" spot="FS38" context="V,2,10,H38" playid="17,5,132" type="R" text="Reese rush for 6 yards to the FS32 (Salinas, Daniel)." newcontext="V,3,4,H32">
+    <p_ru vh="V" name="Reese" gain="6"></p_ru>
+    <p_tk vh="H" name="Salinas, Daniel"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="4" spot="FS32" context="V,3,4,H32" playid="17,6,133" type="P" text="Denham pass incomplete to Creadick (Dunn, Desia)." newcontext="V,4,4,H32">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Creadick"></p_pa>
+    <p_bu vh="H" name="Dunn, Desia"></p_bu>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="4" spot="FS32" context="V,4,4,H32" playid="17,7,134" type="P" text="Denham pass incomplete to Grant." newcontext="H,1,10,H32">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Grant"></p_pa>
+   </play>
+   <drivesum plays="6" yards="39" top="1:21" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H32,10:11" vh="H" spot="H32" clock="10:11" driveindex="18,134"></drivestart>
+   <play hasball="FS" down="1" togo="10" spot="FS32" context="H,1,10,H32" playid="18,1,135" clock="08:50" text="FRESNO STATE drive start at 08:50." newcontext="H,1,10,H32">
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="FS32" context="H,1,10,H32" playid="18,2,136" type="P" first="P" text="Carr, Derek pass complete to Wylie, Devon for 24 yards to the UCDAVIS44, 1ST DOWN FS (Grillo;Congdon)." newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="Carr, Derek" result="COMP" rcv="Wylie, Devon" gain="24"></p_pa>
+    <p_tk vh="V" name="Grillo" assist="Y"></p_tk>
+    <p_tk vh="V" name="Congdon" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS44" context="H,1,10,V44" playid="18,3,137" type="P" first="P" text="Carr, Derek pass complete to Ajirotutu, Seyi for 13 yards to the UCDAVIS31, 1ST DOWN FS (Moyer)." newcontext="H,1,10,V31">
+    <p_pa vh="H" qb="Carr, Derek" result="COMP" rcv="Ajirotutu, Seyi" gain="13"></p_pa>
+    <p_tk vh="V" name="Moyer"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS31" context="H,1,10,V31" playid="18,4,138" type="R" text="Rouse, Robbie rush for 4 yards to the UCDAVIS27 (Congdon)." newcontext="H,2,6,V27">
+    <p_ru vh="H" name="Rouse, Robbie" gain="4"></p_ru>
+    <p_tk vh="V" name="Congdon"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="6" spot="UCDAVIS27" context="H,2,6,V27" playid="18,5,139" type="R" text="Rouse, Robbie rush for 5 yards to the UCDAVIS22 (Grillo;Congdon)." newcontext="H,3,1,V22">
+    <p_ru vh="H" name="Rouse, Robbie" gain="5"></p_ru>
+    <p_tk vh="V" name="Grillo" assist="Y"></p_tk>
+    <p_tk vh="V" name="Congdon" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="1" spot="UCDAVIS22" context="H,3,1,V22" playid="18,6,140" type="R" first="R" text="Rouse, Robbie rush for 2 yards to the UCDAVIS20, 1ST DOWN FS (Lee)." newcontext="H,1,10,V20">
+    <p_ru vh="H" name="Rouse, Robbie" gain="2"></p_ru>
+    <p_tk vh="V" name="Lee"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS20" context="H,1,10,V20" playid="18,7,141" type="R" first="R" text="Rouse, Robbie rush for 12 yards to the UCDAVIS8, 1ST DOWN FS (Gruendl;Congdon)." newcontext="H,1,0,V08">
+    <p_ru vh="H" name="Rouse, Robbie" gain="12"></p_ru>
+    <p_tk vh="V" name="Gruendl" assist="Y"></p_tk>
+    <p_tk vh="V" name="Congdon" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="0" spot="UCDAVIS08" context="H,1,0,V08" playid="18,8,142" type="R" text="Rouse, Robbie rush for 3 yards to the UCDAVIS5 (Gruendl)." newcontext="H,2,0,V05">
+    <p_ru vh="H" name="Rouse, Robbie" gain="3"></p_ru>
+    <p_tk vh="V" name="Gruendl"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="0" spot="UCDAVIS05" context="H,2,0,V05" playid="18,9,143" type="R" score="Y" clock="04:41" text="Rouse, Robbie rush for 5 yards to the UCDAVIS0, TOUCHDOWN, clock 04:41." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Rouse, Robbie" gain="5"></p_ru>
+   </play>
+   <play hasball="FS" down="1" togo="0" spot="UCDAVIS03" context="H,1,0,V03" playid="18,10,144" type="X" score="Y" text="Goessling, K. kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Goessling, K." qb="Goessling, K." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="49"></score>
+   <drivesum plays="8" yards="68" top="4:09" driveindex="18" complete="Y"></drivesum>
+   <play hasball="FS" down="1" togo="0" spot="FS30" context="H,1,0,H30" playid="18,11,145" type="K" text="Goessling, K. kickoff 58 yards to the UCDAVIS12, Carter return 15 yards to the UCDAVIS27 (Moore, Mario)." newcontext="V,1,10,V27">
+    <p_ko vh="H" name="Goessling, K." gain="58"></p_ko>
+    <p_kr vh="V" name="Carter" gain="15"></p_kr>
+    <p_tk vh="H" name="Moore, Mario"></p_tk>
+   </play>
+   <drivestart poss="V,V27,04:41" vh="V" spot="V27" clock="04:41" driveindex="19,145"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS27" context="V,1,10,V27" playid="19,1,146" clock="04:34" text="UCDAVIS drive start at 04:34." newcontext="V,1,10,V27">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS27" context="V,1,10,V27" playid="19,2,147" type="R" text="Trombetta rush for 1 yard to the UCDAVIS28, out-of-bounds (Plummer, Shawn)." ob="Y" newcontext="V,2,9,V28">
+    <p_ru vh="V" name="Trombetta" gain="1"></p_ru>
+    <p_tk vh="H" name="Plummer, Shawn"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="9" spot="UCDAVIS28" context="V,2,9,V28" playid="19,3,148" type="R" text="Trombetta rush for 2 yards to the UCDAVIS30 (Roberts, Mark)." newcontext="V,3,7,V30">
+    <p_ru vh="V" name="Trombetta" gain="2"></p_ru>
+    <p_tk vh="H" name="Roberts, Mark"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="7" spot="UCDAVIS30" context="V,3,7,V30" playid="19,4,149" type="P" first="P" text="Denham pass complete to Carter for 12 yards to the UCDAVIS42, 1ST DOWN UCDAVIS (Dunn, Desia;Plummer, Shawn)." newcontext="V,1,10,V42">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Carter" gain="12"></p_pa>
+    <p_tk vh="H" name="Dunn, Desia" assist="Y"></p_tk>
+    <p_tk vh="H" name="Plummer, Shawn" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS42" context="V,1,10,V42" playid="19,5,150" type="R" text="Trombetta rush for 3 yards to the UCDAVIS45 (Salinas, Daniel;Plummer, Shawn)." newcontext="V,2,7,V45">
+    <p_ru vh="V" name="Trombetta" gain="3"></p_ru>
+    <p_tk vh="H" name="Salinas, Daniel" assist="Y"></p_tk>
+    <p_tk vh="H" name="Plummer, Shawn" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="7" spot="UCDAVIS45" context="V,2,7,V45" playid="19,6,151" type="R" text="Trombetta rush for 2 yards to the UCDAVIS47 (Green, Isaiah;Williams, A.)." newcontext="V,3,5,V47">
+    <p_ru vh="V" name="Trombetta" gain="2"></p_ru>
+    <p_tk vh="H" name="Green, Isaiah" assist="Y"></p_tk>
+    <p_tk vh="H" name="Williams, A." assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="5" spot="UCDAVIS47" context="V,3,5,V47" playid="19,7,152" type="P" text="Denham pass incomplete to Carter." newcontext="V,4,5,V47">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Carter"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="5" spot="UCDAVIS47" context="V,4,5,V47" playid="19,8,153" type="U" text="Schmidt punt BLOCKED, recovered by FS TEAM at UCDAVIS32, out-of-bounds (blocked by Wylie, Devon)." ob="Y" newcontext="H,1,10,V32">
+    <p_pu vh="V" name="Schmidt" gain="-11" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="20" top="3:05" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,V32,04:34" vh="H" spot="V32" clock="04:34" driveindex="20,153"></drivestart>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS32" context="H,1,10,V32" playid="20,1,154" clock="01:29" text="FRESNO STATE drive start at 01:29." newcontext="H,1,10,V32">
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS32" context="H,1,10,V32" playid="20,2,155" type="E" text="Rouse, Robbie rush for 2 yards to the UCDAVIS30 (Fibich), PENALTY UCDAVIS OF 5 yards to the UCDAVIS27, NO PLAY." newcontext="H,1,5,V27">
+    <p_pn vh="V" code="OF" type="OF" result="ACCEPT" at="V32" yards="5"></p_pn>
+   </play>
+   <play hasball="FS" down="1" togo="5" spot="UCDAVIS27" context="H,1,5,V27" playid="20,3,156" type="R" first="R" text="Rouse, Robbie rush for 10 yards to the UCDAVIS17, 1ST DOWN FS (Lewis;Hart)." newcontext="H,1,10,V17">
+    <p_ru vh="H" name="Rouse, Robbie" gain="10"></p_ru>
+    <p_tk vh="V" name="Lewis" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hart" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS17" context="H,1,10,V17" playid="20,4,157" type="R" text="Carr, Derek rush for no gain to the UCDAVIS17 (Morales)." newcontext="H,2,10,V17">
+    <p_ru vh="H" name="Carr, Derek" gain="0"></p_ru>
+    <p_tk vh="V" name="Morales"></p_tk>
+   </play>
+   <score qtr="3" V="0" H="49"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UCDAVIS">
+    <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:21"></misc>
+    <rush att="6" yds="23" gain="23" loss="0" td="0" long="4"></rush>
+    <pass comp="3" att="9" int="0" yds="41" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="41" td="0" long="0"></rcv>
+    <punt no="2" yds="42" long="1" blkd="1" tb="0" fc="0" plus50="0" inside20="0" avg="21.0"></punt>
+    <defense tackua="9" tacka="12" tot_tack="21" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0"></defense>
+    <kr no="2" yds="38" td="0" long="1"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="FS">
+    <firstdowns no="7" rush="4" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:39"></misc>
+    <rush att="13" yds="54" gain="55" loss="1" td="2" long="0"></rush>
+    <pass comp="3" att="3" int="0" yds="67" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="67" td="0" long="0"></rcv>
+    <ko no="3" yds="192" ob="0" tb="1"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="8" tacka="6" tot_tack="14" tflua="1" tfla="0" tflyds="4" sacks="0" sackyds="0" brup="1" blkd="1"></defense>
+    <pr no="2" yds="29" td="0" long="14"></pr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="FS" down="2" togo="10" spot="UCDAVIS17" context="H,2,10,V17" playid="20,5,158" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,2,10,V17">
+   </play>
+   <play hasball="FS" down="2" togo="10" spot="UCDAVIS17" context="H,2,10,V17" playid="20,6,159" type="R" text="Harris,Michael rush for 5 yards to the UCDAVIS12 (Hart;Healey)." newcontext="H,3,5,V12">
+    <p_ru vh="H" name="Harris,Michael" gain="5"></p_ru>
+    <p_tk vh="V" name="Hart" assist="Y"></p_tk>
+    <p_tk vh="V" name="Healey" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="5" spot="UCDAVIS12" context="H,3,5,V12" playid="20,7,160" type="R" first="R" text="Feathers, Ebahn rush for 8 yards to the UCDAVIS4, 1ST DOWN FS (Butler)." newcontext="H,1,0,V04">
+    <p_ru vh="H" name="Feathers, Ebahn" gain="8"></p_ru>
+    <p_tk vh="V" name="Butler"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="0" spot="UCDAVIS04" context="H,1,0,V04" playid="20,8,161" type="R" text="Feathers, Ebahn rush for 1 yard to the UCDAVIS3 (McConnell;Maxson)." newcontext="H,2,0,V03">
+    <p_ru vh="H" name="Feathers, Ebahn" gain="1"></p_ru>
+    <p_tk vh="V" name="McConnell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Maxson" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="0" spot="UCDAVIS03" context="H,2,0,V03" playid="20,9,162" type="R" text="Harris,Michael rush for 2 yards to the UCDAVIS1 (Lewis)." newcontext="H,3,0,V01">
+    <p_ru vh="H" name="Harris,Michael" gain="2"></p_ru>
+    <p_tk vh="V" name="Lewis"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="0" spot="UCDAVIS01" context="H,3,0,V01" playid="20,10,163" type="R" text="Harris,Michael rush for no gain to the UCDAVIS1 (Scott)." newcontext="H,4,0,V01">
+    <p_ru vh="H" name="Harris,Michael" gain="0"></p_ru>
+    <p_tk vh="V" name="Scott"></p_tk>
+   </play>
+   <play hasball="FS" down="4" togo="0" spot="UCDAVIS01" context="H,4,0,V01" playid="20,11,164" type="R" text="Harris,Michael rush for no gain to the UCDAVIS1 (Maxson)." newcontext="V,1,10,V01">
+    <p_ru vh="H" name="Harris,Michael" gain="0"></p_ru>
+    <p_tk vh="V" name="Maxson"></p_tk>
+   </play>
+   <drivesum plays="8" yards="31" top="4:55" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,V01,15:00" vh="V" spot="V01" clock="15:00" driveindex="21,164"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS01" context="V,1,10,V01" playid="21,1,165" clock="11:34" text="UCDAVIS drive start at 11:34." newcontext="V,1,10,V01">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS01" context="V,1,10,V01" playid="21,2,166" type="R" score="Y" clock="11:27" text="Trombetta rush for loss of 1 yard to the UCDAVIS0 (Okpalaugo, Tris;McCree, Sonny), Okpalaugo, Tris safety, clock 11:27." newcontext="V,1,0,V20">
+    <p_ru vh="V" name="Trombetta" gain="-1"></p_ru>
+    <p_tk vh="H" name="Okpalaugo, Tris" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="McCree, Sonny" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <score V="0" H="51"></score>
+   <drivesum plays="1" yards="-1" top="0:07" driveindex="21" complete="Y"></drivesum>
+   <play hasball="UCDAVIS" down="1" togo="0" spot="UCDAVIS20" context="V,1,0,V20" playid="21,3,167" type="K" text="Kelley kickoff 55 yards to the FS25, West, Chastin return 16 yards to the FS41 (Aprile)." newcontext="H,1,10,H41">
+    <p_ko vh="V" name="Kelley" gain="55"></p_ko>
+    <p_kr vh="H" name="West, Chastin" gain="16"></p_kr>
+    <p_tk vh="V" name="Aprile"></p_tk>
+   </play>
+   <drivestart poss="H,H41,11:27" vh="H" spot="H41" clock="11:27" driveindex="22,167"></drivestart>
+   <play hasball="FS" down="1" togo="10" spot="FS41" context="H,1,10,H41" playid="22,1,168" clock="11:20" text="FRESNO STATE drive start at 11:20." newcontext="H,1,10,H41">
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="FS41" context="H,1,10,H41" playid="22,2,169" type="R" text="Harris,Michael rush for loss of 3 yards to the FS38 (Benjamin)." newcontext="H,2,13,H38">
+    <p_ru vh="H" name="Harris,Michael" gain="-3"></p_ru>
+    <p_tk vh="V" name="Benjamin" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="13" spot="FS38" context="H,2,13,H38" playid="22,3,170" type="R" text="Harris,Michael rush for 3 yards to the FS41 (Lee)." newcontext="H,3,10,H41">
+    <p_ru vh="H" name="Harris,Michael" gain="3"></p_ru>
+    <p_tk vh="V" name="Lee"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="10" spot="FS41" context="H,3,10,H41" playid="22,4,171" type="R" text="Harris,Michael rush for 6 yards to the FS47 (Lee)." newcontext="H,4,4,H47">
+    <p_ru vh="H" name="Harris,Michael" gain="6"></p_ru>
+    <p_tk vh="V" name="Lee"></p_tk>
+   </play>
+   <play hasball="FS" down="4" togo="4" spot="FS47" context="H,4,4,H47" playid="22,5,172" type="U" text="Malone, Robert punt 43 yards to the UCDAVIS10, downed." newcontext="V,1,10,V10">
+    <p_pu vh="H" name="Malone, Robert" gain="43" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="6" top="2:10" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V10,11:20" vh="V" spot="V10" clock="11:20" driveindex="23,172"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS10" context="V,1,10,V10" playid="23,1,173" clock="09:10" text="UCDAVIS drive start at 09:10." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS10" context="V,1,10,V10" playid="23,2,174" type="P" text="Denham pass incomplete to Rogers." newcontext="V,2,10,V10">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Rogers"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="10" spot="UCDAVIS10" context="V,2,10,V10" playid="23,3,175" type="P" text="Denham pass complete to Rogers for 5 yards to the UCDAVIS15 (Dennis, Terranc)." newcontext="V,3,5,V15">
+    <p_pa vh="V" qb="Denham" result="COMP" rcv="Rogers" gain="5"></p_pa>
+    <p_tk vh="H" name="Dennis, Terranc"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="5" spot="UCDAVIS15" context="V,3,5,V15" playid="23,4,176" type="P" text="Denham pass incomplete to Creadick." newcontext="V,4,5,V15">
+    <p_pa vh="V" qb="Denham" result="INC" rcv="Creadick"></p_pa>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="5" spot="UCDAVIS15" context="V,4,5,V15" playid="23,5,177" type="U" text="Schmidt punt 41 yards to the FS44, Wylie, Devon return 28 yards to the UCDAVIS28 (Schmidt)." newcontext="H,1,10,V28">
+    <p_pu vh="V" name="Schmidt" gain="41"></p_pu>
+    <p_pr vh="H" name="Wylie, Devon" gain="28"></p_pr>
+    <p_tk vh="V" name="Schmidt"></p_tk>
+   </play>
+   <drivesum plays="3" yards="5" top="1:12" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,V28,09:10" vh="H" spot="V28" clock="09:10" driveindex="24,177"></drivestart>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS28" context="H,1,10,V28" playid="24,1,178" clock="07:58" text="FRESNO STATE drive start at 07:58." newcontext="H,1,10,V28">
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS28" context="H,1,10,V28" playid="24,2,179" type="R" text="Rashad, Jamaal rush for 8 yards to the UCDAVIS20, out-of-bounds (Pierce)." ob="Y" newcontext="H,2,2,V20">
+    <p_ru vh="H" name="Rashad, Jamaal" gain="8"></p_ru>
+    <p_tk vh="V" name="Pierce"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="2" spot="UCDAVIS20" context="H,2,2,V20" playid="24,3,180" type="R" first="R" text="Harris,Michael rush for 9 yards to the UCDAVIS11, 1ST DOWN FS (Calhoun)." newcontext="H,1,10,V11">
+    <p_ru vh="H" name="Harris,Michael" gain="9"></p_ru>
+    <p_tk vh="V" name="Calhoun"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS11" context="H,1,10,V11" playid="24,4,181" type="R" text="Harris,Michael rush for 1 yard to the UCDAVIS10 (Morales)." newcontext="H,2,9,V10">
+    <p_ru vh="H" name="Harris,Michael" gain="1"></p_ru>
+    <p_tk vh="V" name="Morales"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="9" spot="UCDAVIS10" context="H,2,9,V10" playid="24,5,182" type="R" text="Rashad, Jamaal rush for 1 yard to the UCDAVIS9 (Thomas)." newcontext="H,3,8,V09">
+    <p_ru vh="H" name="Rashad, Jamaal" gain="1"></p_ru>
+    <p_tk vh="V" name="Thomas"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="8" spot="UCDAVIS09" context="H,3,8,V09" playid="24,6,183" type="R" text="Rashad, Jamaal rush for 2 yards to the UCDAVIS7 (Thomas;Rice)." newcontext="H,4,6,V07">
+    <p_ru vh="H" name="Rashad, Jamaal" gain="2"></p_ru>
+    <p_tk vh="V" name="Thomas" assist="Y"></p_tk>
+    <p_tk vh="V" name="Rice" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="4" togo="6" spot="UCDAVIS07" context="H,4,6,V07" playid="24,7,184" type="R" text="Rashad, Jamaal rush for 3 yards to the UCDAVIS4 (Thomas)." newcontext="V,1,10,V04">
+    <p_ru vh="H" name="Rashad, Jamaal" gain="3"></p_ru>
+    <p_tk vh="V" name="Thomas"></p_tk>
+   </play>
+   <drivesum plays="6" yards="24" top="3:22" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="V,V04,07:58" vh="V" spot="V04" clock="07:58" driveindex="25,184"></drivestart>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS04" context="V,1,10,V04" playid="25,1,185" clock="04:36" text="UCDAVIS drive start at 04:36." newcontext="V,1,10,V04">
+   </play>
+   <play hasball="UCDAVIS" down="1" togo="10" spot="UCDAVIS04" context="V,1,10,V04" playid="25,2,186" type="R" text="Cutshaw rush for no gain to the UCDAVIS4 (Moore, Mario)." newcontext="V,2,10,V04">
+    <p_ru vh="V" name="Cutshaw" gain="0"></p_ru>
+    <p_tk vh="H" name="Moore, Mario"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="2" togo="10" spot="UCDAVIS04" context="V,2,10,V04" playid="25,3,187" type="R" text="Cutshaw rush for 3 yards to the UCDAVIS7 (McCree, Sonny;Williams, A.)." newcontext="V,3,7,V07">
+    <p_ru vh="V" name="Cutshaw" gain="3"></p_ru>
+    <p_tk vh="H" name="McCree, Sonny" assist="Y"></p_tk>
+    <p_tk vh="H" name="Williams, A." assist="Y"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="3" togo="7" spot="UCDAVIS07" context="V,3,7,V07" playid="25,4,188" type="P" text="Heyworth pass complete to Cutshaw for no gain to the UCDAVIS7 (Moore, Mario)." newcontext="V,4,7,V07">
+    <p_pa vh="V" qb="Heyworth" result="COMP" rcv="Cutshaw" gain="0"></p_pa>
+    <p_tk vh="H" name="Moore, Mario"></p_tk>
+   </play>
+   <play hasball="UCDAVIS" down="4" togo="7" spot="UCDAVIS07" context="V,4,7,V07" playid="25,5,189" type="U" text="Schmidt punt 38 yards to the UCDAVIS45, out-of-bounds." ob="Y" newcontext="H,1,10,V45">
+    <p_pu vh="V" name="Schmidt" gain="38" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="2:18" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="H,V45,04:36" vh="H" spot="V45" clock="04:36" driveindex="26,189"></drivestart>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS45" context="H,1,10,V45" playid="26,1,190" clock="02:18" text="FRESNO STATE drive start at 02:18." newcontext="H,1,10,V45">
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS45" context="H,1,10,V45" playid="26,2,191" type="R" text="Harris,Michael rush for no gain to the UCDAVIS45 (Pierce;Galvin)." newcontext="H,2,10,V45">
+    <p_ru vh="H" name="Harris,Michael" gain="0"></p_ru>
+    <p_tk vh="V" name="Pierce" assist="Y"></p_tk>
+    <p_tk vh="V" name="Galvin" assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="2" togo="10" spot="UCDAVIS45" context="H,2,10,V45" playid="26,3,192" type="R" text="Harris,Michael rush for 3 yards to the UCDAVIS42 (Amajoyi;Johnson, R.)." newcontext="H,3,7,V42">
+    <p_ru vh="H" name="Harris,Michael" gain="3"></p_ru>
+    <p_tk vh="V" name="Amajoyi" assist="Y"></p_tk>
+    <p_tk vh="V" name="Johnson, R." assist="Y"></p_tk>
+   </play>
+   <play hasball="FS" down="3" togo="7" spot="UCDAVIS42" context="H,3,7,V42" playid="26,4,193" type="R" text="Ellis, A.J. rush for 6 yards to the UCDAVIS36 (Lee)." newcontext="H,4,1,V36">
+    <p_ru vh="H" name="Ellis, A.J." gain="6"></p_ru>
+    <p_tk vh="V" name="Lee"></p_tk>
+   </play>
+   <play hasball="FS" down="4" togo="1" spot="UCDAVIS36" context="H,4,1,V36" playid="26,5,194" type="R" first="R" text="Ellis, A.J. rush for 1 yard to the UCDAVIS35, 1ST DOWN FS (Aprile)." newcontext="H,1,10,V35">
+    <p_ru vh="H" name="Ellis, A.J." gain="1"></p_ru>
+    <p_tk vh="V" name="Aprile"></p_tk>
+   </play>
+   <play hasball="FS" down="1" togo="10" spot="UCDAVIS35" context="H,1,10,V35" playid="26,6,195" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,1,10,V35">
+   </play>
+   <drivesum plays="4" yards="10" top="2:18" driveindex="26" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Fresno State defeats UC Davis by a score of 51 to 0."></play>
+   <score final="Y" V="0" H="51"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UCDAVIS">
+    <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="03:37"></misc>
+    <rush att="3" yds="2" gain="3" loss="1" td="0" long="0"></rush>
+    <pass comp="2" att="4" int="0" yds="5" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="5" td="0" long="0"></rcv>
+    <punt no="2" yds="79" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="39.5"></punt>
+    <ko no="1" yds="55" ob="0" tb="0"></ko>
+    <defense tackua="16" tacka="10" tot_tack="26" tflua="1" tfla="0" tflyds="3" sacks="0" sackyds="0"></defense>
+   </qtrsummary>
+   <qtrsummary vh="H" id="FS">
+    <firstdowns no="3" rush="3" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="1" fourthatt="3"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="11:23"></misc>
+    <rush att="19" yds="56" gain="59" loss="3" td="0" long="0"></rush>
+    <punt no="1" yds="43" long="43" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="43.0"></punt>
+    <defense tackua="3" tacka="4" tot_tack="7" tflua="2" tfla="0" tflyds="2" sacks="0" sackyds="0" saf="1"></defense>
+    <kr no="1" yds="16" td="0" long="0"></kr>
+    <pr no="1" yds="28" td="0" long="14"></pr>
+    <scoring saf="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="FS" down="1" togo="10" spot="UCDAVIS35" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="3" htor="2" dtgtext="Game Over" ldtext="Drive started: 02:18, 4th Qtr"></downtogo>
+ </plays>

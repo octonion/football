@@ -1,0 +1,1051 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="WCU" down="1" togo="10" spot="WCU30" context="V,1,10,V30" playid="0,1,0" text="Welcome to the Fred Russell Press Box at Vanderbilt Stadium!" newcontext="V,1,10,V30">
+   </play>
+   <comment text="Captains for WCU: 12 Jaynes, 16 George, 68 Aquilina, 82 Singletary"></comment>
+   <comment text="Captains for VU: 2 Hamilton, 30 Benoist, 60 Vierling"></comment>
+   <comment text="WCU wins toss, will receive. VU will kick, defend south goal."></comment>
+   <play hasball="WCU" down="1" togo="10" spot="WCU30" context="V,1,10,V30" playid="0,2,4" text="VU ball on VU30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU30" context="H,1,10,H30" playid="0,3,5" type="K" text="Fowler,Ryan kickoff 67 yards to the WCU3, G. Richardson return 23 yards to the WCU26 (Owens,Al), PENALTY WCU holding 10 yards to the WCU16, 1st and 10, WCU ball on WCU16." newcontext="V,1,10,V16">
+    <p_ko vh="H" name="Fowler,Ryan" gain="67"></p_ko>
+    <p_kr vh="V" name="G. Richardson" gain="23"></p_kr>
+    <p_tk vh="H" name="Owens,Al"></p_tk>
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="V26" yards="10"></p_pn>
+   </play>
+   <drivestart poss="V,V16,15:00" vh="V" spot="V16" clock="15:00" driveindex="1,5"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU16" context="V,1,10,V16" playid="1,1,6" type="R" text="Michael Johnson rush for 3 yards to the WCU19 (Richardson,Sean)." newcontext="V,2,7,V19">
+    <p_ru vh="V" name="Michael Johnson" gain="3"></p_ru>
+    <p_tk vh="H" name="Richardson,Sean"></p_tk>
+   </play>
+   <play hasball="WCU" down="2" togo="7" spot="WCU19" context="V,2,7,V19" playid="1,2,7" type="R" form="SH" text="[SH], Zack Jaynes rush for no gain to the WCU19 (Stewart,Broderi)." newcontext="V,3,7,V19">
+    <p_ru vh="V" name="Zack Jaynes" gain="0"></p_ru>
+    <p_tk vh="H" name="Stewart,Broderi"></p_tk>
+   </play>
+   <play hasball="WCU" down="3" togo="7" spot="WCU19" context="V,3,7,V19" playid="1,3,8" type="P" turnover="F" form="SH" text="[SH], Zack Jaynes pass complete to Nate Harris for 11 yards to the WCU30, fumble forced by Marve,Chris, fumble by Nate Harris recovered by VU Benoist,Patrick at WCU30." newcontext="H,1,10,V30">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="Nate Harris" gain="11"></p_pa>
+    <p_fumb vh="V" name="Nate Harris" at="V30" frvh="H" frname="Benoist,Patrick"></p_fumb>
+    <p_tk vh="H" name="Marve,Chris" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="14" top="1:33" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,V30,15:00" vh="H" spot="V30" clock="15:00" driveindex="2,8"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="WCU30" context="H,1,10,V30" playid="2,1,9" clock="13:27" text="VANDERBILT drive start at 13:27." newcontext="H,1,10,V30">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU30" context="H,1,10,V30" playid="2,2,10" type="R" form="SH" text="[SH], Stacy,Zac rush for 9 yards to the WCU21 (Adrian McLeod)." newcontext="H,2,1,V21">
+    <p_ru vh="H" name="Stacy,Zac" gain="9"></p_ru>
+    <p_tk vh="V" name="Adrian McLeod"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="1" spot="WCU21" context="H,2,1,V21" playid="2,3,11" type="R" first="R" form="SH" text="[SH], Stacy,Zac rush for 9 yards to the WCU12, 1ST DOWN VU (Mitchell Bell;Antoine George)." newcontext="H,1,10,V12">
+    <p_ru vh="H" name="Stacy,Zac" gain="9"></p_ru>
+    <p_tk vh="V" name="Mitchell Bell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Antoine George" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU12" context="H,1,10,V12" playid="2,4,12" type="R" form="SH" text="[SH], Stacy,Zac rush for 7 yards to the WCU5 (Abram Scott;Adrian McLeod)." newcontext="H,2,3,V05">
+    <p_ru vh="H" name="Stacy,Zac" gain="7"></p_ru>
+    <p_tk vh="V" name="Abram Scott" assist="Y"></p_tk>
+    <p_tk vh="V" name="Adrian McLeod" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="3" spot="WCU05" context="H,2,3,V05" playid="2,5,13" type="R" form="SH" text="[SH], Stacy,Zac rush for loss of 2 yards to the WCU7 (Gene Singletary)." newcontext="H,3,5,V07">
+    <p_ru vh="H" name="Stacy,Zac" gain="-2"></p_ru>
+    <p_tk vh="V" name="Gene Singletary" tfl="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="3" togo="5" spot="WCU07" context="H,3,5,V07" playid="2,6,14" type="R" turnover="F" form="SH" text="[SH], Smith,Larry rush for 6 yards to the WCU1, fumble forced by Chris Collins, fumble by Smith,Larry recovered by WCU Charles Johnson at WCU0, touchback." newcontext="V,1,10,V20">
+    <p_ru vh="H" name="Smith,Larry" gain="6"></p_ru>
+    <p_fumb vh="H" name="Smith,Larry" at="V00" frvh="V" frname="Charles Johnson"></p_fumb>
+    <p_tk vh="V" name="Chris Collins" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="5" yards="30" top="1:47" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,V20,13:27" vh="V" spot="V20" clock="13:27" driveindex="3,14"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU20" context="V,1,10,V20" playid="3,1,15" clock="11:40" text="WESTERN CAROLINA drive start at 11:40." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU20" context="V,1,10,V20" playid="3,2,16" type="R" first="R" text="Michael Johnson rush for 19 yards to the WCU39, 1ST DOWN WCU (Lewis,Myron)." newcontext="V,1,10,V39">
+    <p_ru vh="V" name="Michael Johnson" gain="19"></p_ru>
+    <p_tk vh="H" name="Lewis,Myron"></p_tk>
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU39" context="V,1,10,V39" playid="3,3,17" type="R" form="SH" text="[SH], Michael Johnson rush for loss of 1 yard to the WCU38 (Stewart,Broderi;Hamilton,Ryan)." newcontext="V,2,11,V38">
+    <p_ru vh="V" name="Michael Johnson" gain="-1"></p_ru>
+    <p_tk vh="H" name="Stewart,Broderi" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hamilton,Ryan" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="2" togo="11" spot="WCU38" context="V,2,11,V38" playid="3,4,18" type="P" form="SH" text="[SH], Zack Jaynes pass incomplete to Marquel Pittman (Lewis,Myron)." newcontext="V,3,11,V38">
+    <p_pa vh="V" qb="Zack Jaynes" result="INC" rcv="Marquel Pittman"></p_pa>
+    <p_bu vh="H" name="Lewis,Myron"></p_bu>
+   </play>
+   <play hasball="WCU" down="3" togo="11" spot="WCU38" context="V,3,11,V38" playid="3,5,19" type="P" turnover="F" text="Zack Jaynes sacked for loss of 8 yards to the WCU30 (Marve,Chris), fumble by Zack Jaynes recovered by VU Greenstone,T.J. at WCU29." newcontext="H,1,10,V29">
+    <p_pa vh="V" qb="Zack Jaynes" result="FUMB" gain="-8"></p_pa>
+    <p_fumb vh="V" name="Zack Jaynes" at="V29" frvh="H" frname="Greenstone,T.J."></p_fumb>
+    <p_tk vh="H" name="Marve,Chris" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <drivesum plays="4" yards="9" top="1:15" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,V29,11:40" vh="H" spot="V29" clock="11:40" driveindex="4,19"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="WCU29" context="H,1,10,V29" playid="4,1,20" clock="10:25" text="VANDERBILT drive start at 10:25." newcontext="H,1,10,V29">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU29" context="H,1,10,V29" playid="4,2,21" type="P" form="SH" text="[SH], Smith,Larry pass incomplete to Washington,Alex." newcontext="H,2,10,V29">
+    <p_pa vh="H" qb="Smith,Larry" result="INC" rcv="Washington,Alex"></p_pa>
+   </play>
+   <play hasball="VU" down="2" togo="10" spot="WCU29" context="H,2,10,V29" playid="4,3,22" type="E" text="PENALTY VU false start (Williams,James) 5 yards to the WCU34." newcontext="H,2,15,V34">
+    <p_pn vh="H" code="FS" type="false start" name="Williams,James" result="ACCEPT" at="V29" yards="5"></p_pn>
+   </play>
+   <play hasball="VU" down="2" togo="15" spot="WCU34" context="H,2,15,V34" playid="4,4,23" type="R" form="SH" text="[SH], Norman,Warren rush for 7 yards to the WCU27 (Angelo Brown)." newcontext="H,3,8,V27">
+    <p_ru vh="H" name="Norman,Warren" gain="7"></p_ru>
+    <p_tk vh="V" name="Angelo Brown"></p_tk>
+   </play>
+   <play hasball="VU" down="3" togo="8" spot="WCU27" context="H,3,8,V27" playid="4,5,24" type="R" form="SH" text="[SH], Smith,Larry rush for 1 yard to the WCU26 (Adrian McLeod)." newcontext="H,4,7,V26">
+    <p_ru vh="H" name="Smith,Larry" gain="1"></p_ru>
+    <p_tk vh="V" name="Adrian McLeod"></p_tk>
+   </play>
+   <play hasball="VU" down="4" togo="7" spot="WCU26" context="H,4,7,V26" playid="4,6,25" type="F" clock="09:07" text="Fowler,Ryan field goal attempt from 43 MISSED - wide left, spot at WCU26, clock 09:07." newcontext="V,1,10,V26">
+    <p_fg vh="H" name="Fowler,Ryan" distance="43" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="4" yards="3" top="1:18" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="V,V26,09:07" vh="V" spot="V26" clock="09:07" driveindex="5,25"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU26" context="V,1,10,V26" playid="5,1,26" clock="09:07" text="WESTERN CAROLINA drive start at 09:07." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU26" context="V,1,10,V26" playid="5,2,27" type="P" text="Zack Jaynes pass incomplete to Marquel Pittman (Lewis,Myron)." newcontext="V,2,10,V26">
+    <p_pa vh="V" qb="Zack Jaynes" result="INC" rcv="Marquel Pittman"></p_pa>
+    <p_bu vh="H" name="Lewis,Myron"></p_bu>
+   </play>
+   <play hasball="WCU" down="2" togo="10" spot="WCU26" context="V,2,10,V26" playid="5,3,28" type="R" text="Michael Johnson rush for 2 yards to the WCU28 (Greenstone,T.J.;Brannon,Teriall)." newcontext="V,3,8,V28">
+    <p_ru vh="V" name="Michael Johnson" gain="2"></p_ru>
+    <p_tk vh="H" name="Greenstone,T.J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Brannon,Teriall" assist="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="3" togo="8" spot="WCU28" context="V,3,8,V28" playid="5,4,29" type="P" text="Zack Jaynes pass incomplete to D.J. McLendon." newcontext="V,4,8,V28">
+    <p_pa vh="V" qb="Zack Jaynes" result="INC" rcv="D.J. McLendon"></p_pa>
+   </play>
+   <play hasball="WCU" down="4" togo="8" spot="WCU28" context="V,4,8,V28" playid="5,5,30" type="U" text="Blake Cain punt 38 yards to the VU34, downed." newcontext="H,1,10,H34">
+    <p_pu vh="V" name="Blake Cain" gain="38"></p_pu>
+   </play>
+   <drivesum plays="3" yards="2" top="1:02" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,H34,09:07" vh="H" spot="H34" clock="09:07" driveindex="6,30"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="VU34" context="H,1,10,H34" playid="6,1,31" clock="08:05" text="VANDERBILT drive start at 08:05." newcontext="H,1,10,H34">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU34" context="H,1,10,H34" playid="6,2,32" type="P" form="SH" text="[SH], Smith,Larry pass complete to Washington,Alex for 7 yards to the VU41 (Mitchell Bell)." newcontext="H,2,3,H41">
+    <p_pa vh="H" qb="Smith,Larry" result="COMP" rcv="Washington,Alex" gain="7"></p_pa>
+    <p_tk vh="V" name="Mitchell Bell"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="3" spot="VU41" context="H,2,3,H41" playid="6,3,33" type="R" first="R" text="Stacy,Zac rush for 13 yards to the WCU46, 1ST DOWN VU (Mitchell Bell;Jonte Bumpus)." newcontext="H,1,10,V46">
+    <p_ru vh="H" name="Stacy,Zac" gain="13"></p_ru>
+    <p_tk vh="V" name="Mitchell Bell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Jonte Bumpus" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU46" context="H,1,10,V46" playid="6,4,34" type="P" first="P" score="Y" clock="07:19" text="Smith,Larry pass complete to Green,Justin for 46 yards to the WCU0, 1ST DOWN VU, TOUCHDOWN, clock 07:19." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Smith,Larry" result="COMP" rcv="Green,Justin" gain="46"></p_pa>
+   </play>
+   <play hasball="VU" down="1" togo="0" spot="WCU03" context="H,1,0,V03" playid="6,5,35" type="X" score="Y" text="Fowler,Ryan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Fowler,Ryan" qb="Fowler,Ryan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="3" yards="66" top="0:46" driveindex="6" complete="Y"></drivesum>
+   <play hasball="VU" down="1" togo="0" spot="VU30" context="H,1,0,H30" playid="6,6,36" type="K" text="Fowler,Ryan kickoff 69 yards to the WCU1, G. Richardson return 12 yards to the WCU13 (Samuels,Eric)." newcontext="V,1,10,V13">
+    <p_ko vh="H" name="Fowler,Ryan" gain="69"></p_ko>
+    <p_kr vh="V" name="G. Richardson" gain="12"></p_kr>
+    <p_tk vh="H" name="Samuels,Eric"></p_tk>
+   </play>
+   <drivestart poss="V,V13,07:19" vh="V" spot="V13" clock="07:19" driveindex="7,36"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU13" context="V,1,10,V13" playid="7,1,37" clock="07:19" text="WESTERN CAROLINA drive start at 07:19." newcontext="V,1,10,V13">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU13" context="V,1,10,V13" playid="7,2,38" type="R" text="Michael Johnson rush for 4 yards to the WCU17 (Lewis,Myron;Benoist,Patrick)." newcontext="V,2,6,V17">
+    <p_ru vh="V" name="Michael Johnson" gain="4"></p_ru>
+    <p_tk vh="H" name="Lewis,Myron" assist="Y"></p_tk>
+    <p_tk vh="H" name="Benoist,Patrick" assist="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="2" togo="6" spot="WCU17" context="V,2,6,V17" playid="7,3,39" type="R" text="Michael Johnson rush for no gain to the WCU17." newcontext="V,3,6,V17">
+    <p_ru vh="V" name="Michael Johnson" gain="0"></p_ru>
+   </play>
+   <play hasball="WCU" down="3" togo="6" spot="WCU17" context="V,3,6,V17" playid="7,4,40" type="P" form="SH" text="[SH], Zack Jaynes pass incomplete to Marquel Pittman (Lewis,Myron)." newcontext="V,4,6,V17">
+    <p_pa vh="V" qb="Zack Jaynes" result="INC" rcv="Marquel Pittman"></p_pa>
+    <p_bu vh="H" name="Lewis,Myron"></p_bu>
+   </play>
+   <play hasball="WCU" down="4" togo="6" spot="WCU17" context="V,4,6,V17" playid="7,5,41" type="U" text="Blake Cain punt 44 yards to the VU39, Washington,Alex return 4 yards to the VU43 (Nate Harris)." newcontext="H,1,10,H43">
+    <p_pu vh="V" name="Blake Cain" gain="44"></p_pu>
+    <p_pr vh="H" name="Washington,Alex" gain="4"></p_pr>
+    <p_tk vh="V" name="Nate Harris"></p_tk>
+   </play>
+   <drivesum plays="3" yards="4" top="1:45" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,H43,07:19" vh="H" spot="H43" clock="07:19" driveindex="8,41"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="VU43" context="H,1,10,H43" playid="8,1,42" clock="05:34" text="VANDERBILT drive start at 05:34." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU43" context="H,1,10,H43" playid="8,2,43" type="P" form="SH" text="[SH], Smith,Larry pass complete to Monahan,Austin for 7 yards to the 50 yardline (Adrian McLeod)." newcontext="H,2,3,H50">
+    <p_pa vh="H" qb="Smith,Larry" result="COMP" rcv="Monahan,Austin" gain="7"></p_pa>
+    <p_tk vh="V" name="Adrian McLeod"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="3" spot="VU50" context="H,2,3,H50" playid="8,3,44" type="R" first="R" form="SH" text="[SH], Norman,Warren rush for 16 yards to the WCU34, 1ST DOWN VU (Robert Peele)." newcontext="H,1,10,V34">
+    <p_ru vh="H" name="Norman,Warren" gain="16"></p_ru>
+    <p_tk vh="V" name="Robert Peele"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU34" context="H,1,10,V34" playid="8,4,45" type="R" first="R" form="SH" text="[SH], Norman,Warren rush for 16 yards to the WCU18, 1ST DOWN VU (Abram Scott)." newcontext="H,1,10,V18">
+    <p_ru vh="H" name="Norman,Warren" gain="16"></p_ru>
+    <p_tk vh="V" name="Abram Scott"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU18" context="H,1,10,V18" playid="8,5,46" type="R" first="R" form="SH" text="[SH], Smith,Larry rush for 11 yards to the WCU7, 1ST DOWN VU (Mitchell Bell)." newcontext="H,1,0,V07">
+    <p_ru vh="H" name="Smith,Larry" gain="11"></p_ru>
+    <p_tk vh="V" name="Mitchell Bell"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="0" spot="WCU07" context="H,1,0,V07" playid="8,6,47" type="R" score="Y" clock="04:04" text="Norman,Warren rush for 7 yards to the WCU0, TOUCHDOWN, clock 04:04." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Norman,Warren" gain="7"></p_ru>
+   </play>
+   <play hasball="VU" down="1" togo="0" spot="WCU03" context="H,1,0,V03" playid="8,7,48" type="X" score="Y" text="Fowler,Ryan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Fowler,Ryan" qb="Fowler,Ryan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="14"></score>
+   <drivesum plays="5" yards="57" top="1:30" driveindex="8" complete="Y"></drivesum>
+   <play hasball="VU" down="1" togo="0" spot="VU30" context="H,1,0,H30" playid="8,8,49" type="K" text="Fowler,Ryan kickoff 68 yards to the WCU2, out-of-bounds, WCU ball on WCU40." ob="Y" newcontext="V,1,10,V40">
+    <p_ko vh="H" name="Fowler,Ryan" gain="68" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V40,04:04" vh="V" spot="V40" clock="04:04" driveindex="9,49"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU40" context="V,1,10,V40" playid="9,1,50" clock="04:04" text="WESTERN CAROLINA drive start at 04:04." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU40" context="V,1,10,V40" playid="9,2,51" type="P" text="Zack Jaynes pass complete to G. Richardson for no gain to the WCU40 (Greenstone,T.J.;Smotherman,Adam)." newcontext="V,2,10,V40">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="G. Richardson" gain="0"></p_pa>
+    <p_tk vh="H" name="Greenstone,T.J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Smotherman,Adam" assist="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="2" togo="10" spot="WCU40" context="V,2,10,V40" playid="9,3,52" type="R" text="Michael Johnson rush for 1 yard to the WCU41 (Greenstone,T.J.)." newcontext="V,3,9,V41">
+    <p_ru vh="V" name="Michael Johnson" gain="1"></p_ru>
+    <p_tk vh="H" name="Greenstone,T.J."></p_tk>
+   </play>
+   <play hasball="WCU" down="3" togo="9" spot="WCU41" context="V,3,9,V41" playid="9,4,53" type="P" text="Zack Jaynes pass incomplete to Marquel Pittman, PENALTY WCU illegal formation declined." newcontext="V,4,9,V41">
+    <p_pa vh="V" qb="Zack Jaynes" result="INC" rcv="Marquel Pittman"></p_pa>
+    <p_pn vh="V" code="FO" type="illegal formation" name="Marquel Pittman" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="WCU" down="4" togo="9" spot="WCU41" context="V,4,9,V41" playid="9,5,54" type="U" text="Blake Cain punt 39 yards to the VU20, downed." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Blake Cain" gain="39"></p_pu>
+   </play>
+   <drivesum plays="3" yards="1" top="1:44" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,H20,04:04" vh="H" spot="H20" clock="04:04" driveindex="10,54"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="VU20" context="H,1,10,H20" playid="10,1,55" clock="02:20" text="VANDERBILT drive start at 02:20." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU20" context="H,1,10,H20" playid="10,2,56" type="P" first="P" form="SH" text="[SH], Smith,Larry pass complete to Umoh,Udom for 23 yards to the VU43, 1ST DOWN VU (Abram Scott)." newcontext="H,1,10,H43">
+    <p_pa vh="H" qb="Smith,Larry" result="COMP" rcv="Umoh,Udom" gain="23"></p_pa>
+    <p_tk vh="V" name="Abram Scott"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU43" context="H,1,10,H43" playid="10,3,57" type="R" form="SH" text="[SH], Stacy,Zac rush for 4 yards to the VU47 (Ricky Schwarz)." newcontext="H,2,6,H47">
+    <p_ru vh="H" name="Stacy,Zac" gain="4"></p_ru>
+    <p_tk vh="V" name="Ricky Schwarz"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="6" spot="VU47" context="H,2,6,H47" playid="10,4,58" type="P" first="P" form="SH" text="[SH], Smith,Larry pass complete to Barden,Brandon for 9 yards to the WCU44, 1ST DOWN VU (Ricky Schwarz;Abram Scott)." newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="Smith,Larry" result="COMP" rcv="Barden,Brandon" gain="9"></p_pa>
+    <p_tk vh="V" name="Ricky Schwarz" assist="Y"></p_tk>
+    <p_tk vh="V" name="Abram Scott" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU44" context="H,1,10,V44" playid="10,5,59" type="R" first="R" form="SH" text="[SH], Stacy,Zac rush for 11 yards to the WCU33, 1ST DOWN VU, out-of-bounds (Antoine George)." ob="Y" newcontext="H,1,10,V33">
+    <p_ru vh="H" name="Stacy,Zac" gain="11"></p_ru>
+    <p_tk vh="V" name="Antoine George"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU33" context="H,1,10,V33" playid="10,6,60" type="P" form="SH" text="[SH], Smith,Larry pass incomplete to Wimberly,Turner." newcontext="H,2,10,V33">
+    <p_pa vh="H" qb="Smith,Larry" result="INC" rcv="Wimberly,Turner"></p_pa>
+   </play>
+   <play hasball="VU" down="2" togo="10" spot="WCU33" context="H,2,10,V33" playid="10,7,61" type="R" first="R" form="SH" text="[SH], Stacy,Zac rush for 11 yards to the WCU22, 1ST DOWN VU (Justin Collins)." newcontext="H,1,10,V22">
+    <p_ru vh="H" name="Stacy,Zac" gain="11"></p_ru>
+    <p_tk vh="V" name="Justin Collins"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU22" context="H,1,10,V22" playid="10,8,62" type="P" first="P" form="SH" text="[SH], Smith,Larry pass complete to Ashley,Collin for 10 yards to the WCU12, 1ST DOWN VU (Antoine George)." newcontext="H,1,10,V12">
+    <p_pa vh="H" qb="Smith,Larry" result="COMP" rcv="Ashley,Collin" gain="10"></p_pa>
+    <p_tk vh="V" name="Antoine George"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU12" context="H,1,10,V12" playid="10,9,63" type="R" form="SH" text="[SH], Norman,Warren rush for 3 yards to the WCU9 (Justin Collins)." newcontext="H,2,7,V09">
+    <p_ru vh="H" name="Norman,Warren" gain="3"></p_ru>
+    <p_tk vh="V" name="Justin Collins"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="WCU">
+    <firstdowns no="1" rush="1" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="0" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="2" lost="2"></fumbles>
+    <misc yds="0" top="07:19"></misc>
+    <rush att="9" yds="19" gain="29" loss="10" td="0" long="19"></rush>
+    <pass comp="2" att="7" int="0" yds="11" td="0" long="11" sacks="1" sackyds="8"></pass>
+    <rcv no="2" yds="11" td="0" long="11"></rcv>
+    <punt no="3" yds="121" long="44" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="40.3"></punt>
+    <defense tackua="17" tacka="8" tot_tack="25" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" ff="1" fr="1" fryds="0"></defense>
+    <kr no="2" yds="35" td="0" long="23"></kr>
+    <fumbles no="2" lost="2"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="VU">
+    <firstdowns no="11" rush="7" pass="4" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="07:41"></misc>
+    <rush att="16" yds="130" gain="132" loss="2" td="1" long="16"></rush>
+    <pass comp="6" att="8" int="0" yds="102" td="1" long="46" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="102" td="1" long="46"></rcv>
+    <ko no="3" yds="204" ob="1" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="8" tacka="8" tot_tack="16" tflua="3" tfla="0" tflyds="10" sacks="1" sackyds="8" brup="3" ff="2" fr="2" fryds="0"></defense>
+    <pr no="1" yds="4" td="0" long="4"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="VU" down="2" togo="7" spot="WCU09" context="H,2,7,V09" playid="10,10,64" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,2,7,V09">
+   </play>
+   <play hasball="VU" down="2" togo="7" spot="WCU09" context="H,2,7,V09" playid="10,11,65" type="R" first="R" score="Y" clock="14:54" text="Stacy,Zac rush for 9 yards to the WCU0, 1ST DOWN VU, TOUCHDOWN, clock 14:54." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Stacy,Zac" gain="9"></p_ru>
+   </play>
+   <play hasball="VU" down="1" togo="0" spot="WCU03" context="H,1,0,V03" playid="10,12,66" type="X" score="Y" text="Fowler,Ryan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Fowler,Ryan" qb="Fowler,Ryan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="21"></score>
+   <drivesum plays="9" yards="80" top="2:26" driveindex="10" complete="Y"></drivesum>
+   <play hasball="VU" down="1" togo="0" spot="VU30" context="H,1,0,H30" playid="10,13,67" type="K" text="Fowler,Ryan kickoff 57 yards to the WCU13, G. Richardson return 15 yards to the WCU28 (Johnson,Chris)." newcontext="V,1,10,V28">
+    <p_ko vh="H" name="Fowler,Ryan" gain="57"></p_ko>
+    <p_kr vh="V" name="G. Richardson" gain="15"></p_kr>
+    <p_tk vh="H" name="Johnson,Chris"></p_tk>
+   </play>
+   <drivestart poss="V,V28,14:54" vh="V" spot="V28" clock="14:54" driveindex="11,67"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU28" context="V,1,10,V28" playid="11,1,68" clock="14:54" text="WESTERN CAROLINA drive start at 14:54." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU28" context="V,1,10,V28" playid="11,2,69" type="R" form="SH" text="[SH], Zack Jaynes rush for 1 yard to the WCU29 (Smotherman,Adam)." newcontext="V,2,9,V29">
+    <p_ru vh="V" name="Zack Jaynes" gain="1"></p_ru>
+    <p_tk vh="H" name="Smotherman,Adam"></p_tk>
+   </play>
+   <play hasball="WCU" down="2" togo="9" spot="WCU29" context="V,2,9,V29" playid="11,3,70" type="P" first="P" text="Zack Jaynes pass complete to Marquel Pittman for 14 yards to the WCU43, 1ST DOWN WCU, out-of-bounds (Hayward,Casey)." ob="Y" newcontext="V,1,10,V43">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="Marquel Pittman" gain="14"></p_pa>
+    <p_tk vh="H" name="Hayward,Casey"></p_tk>
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU43" context="V,1,10,V43" playid="11,4,71" type="P" form="SH" text="[SH], Zack Jaynes pass incomplete to Josh Cockrell." newcontext="V,2,10,V43">
+    <p_pa vh="V" qb="Zack Jaynes" result="INC" rcv="Josh Cockrell"></p_pa>
+   </play>
+   <play hasball="WCU" down="2" togo="10" spot="WCU43" context="V,2,10,V43" playid="11,5,72" type="R" text="Michael Johnson rush for 2 yards to the WCU45 (Marve,Chris;Fugger,Tim)." newcontext="V,3,8,V45">
+    <p_ru vh="V" name="Michael Johnson" gain="2"></p_ru>
+    <p_tk vh="H" name="Marve,Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="Fugger,Tim" assist="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="3" togo="8" spot="WCU45" context="V,3,8,V45" playid="11,6,73" type="R" form="SH" text="[SH], D.J. McLendon rush for 3 yards to the WCU48 (Hamilton,Ryan;Greenstone,T.J.)." newcontext="V,4,5,V48">
+    <p_ru vh="V" name="D.J. McLendon" gain="3"></p_ru>
+    <p_tk vh="H" name="Hamilton,Ryan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Greenstone,T.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="4" togo="5" spot="WCU48" context="V,4,5,V48" playid="11,7,74" type="U" text="Blake Cain punt 34 yards to the VU18, fair catch by Washington,Alex." newcontext="H,1,10,H18">
+    <p_pu vh="V" name="Blake Cain" gain="34" in20="Y" fc="Washington,Alex"></p_pu>
+   </play>
+   <drivesum plays="5" yards="20" top="2:56" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,H18,14:54" vh="H" spot="H18" clock="14:54" driveindex="12,74"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="VU18" context="H,1,10,H18" playid="12,1,75" clock="11:58" text="VANDERBILT drive start at 11:58." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU18" context="H,1,10,H18" playid="12,2,76" type="P" form="SH" text="[SH], Smith,Larry sacked for loss of 6 yards to the VU12 (Quincy Marshall)." newcontext="H,2,16,H12">
+    <p_pa vh="H" qb="Smith,Larry" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="V" name="Quincy Marshall" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="16" spot="VU12" context="H,2,16,H12" playid="12,3,77" type="R" text="Norman,Warren rush for 4 yards to the VU16 (Antoine George)." newcontext="H,3,12,H16">
+    <p_ru vh="H" name="Norman,Warren" gain="4"></p_ru>
+    <p_tk vh="V" name="Antoine George"></p_tk>
+   </play>
+   <play hasball="VU" down="3" togo="12" spot="VU16" context="H,3,12,H16" playid="12,4,78" type="R" form="SH" text="[SH], Smith,Larry rush for 6 yards to the VU22 (Gene Singletary;Chris Collins)." newcontext="H,4,6,H22">
+    <p_ru vh="H" name="Smith,Larry" gain="6"></p_ru>
+    <p_tk vh="V" name="Gene Singletary" assist="Y"></p_tk>
+    <p_tk vh="V" name="Chris Collins" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="4" togo="6" spot="VU22" context="H,4,6,H22" playid="12,5,79" type="U" text="Upson,Brett punt 42 yards to the WCU36, Josh Cockrell return 1 yards to the WCU37 (Richardson,Sean;Trice,Brent)." newcontext="V,1,10,V37">
+    <p_pu vh="H" name="Upson,Brett" gain="42"></p_pu>
+    <p_pr vh="V" name="Josh Cockrell" gain="1"></p_pr>
+    <p_tk vh="H" name="Richardson,Sean" assist="Y"></p_tk>
+    <p_tk vh="H" name="Trice,Brent" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="4" top="1:47" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="V,V37,11:58" vh="V" spot="V37" clock="11:58" driveindex="13,79"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU37" context="V,1,10,V37" playid="13,1,80" clock="10:11" text="WESTERN CAROLINA drive start at 10:11." newcontext="V,1,10,V37">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU37" context="V,1,10,V37" playid="13,2,81" type="R" form="SH" text="[SH], Zack Jaynes rush for 5 yards to the WCU42 (Graham,Jamie)." newcontext="V,2,5,V42">
+    <p_ru vh="V" name="Zack Jaynes" gain="5"></p_ru>
+    <p_tk vh="H" name="Graham,Jamie"></p_tk>
+   </play>
+   <play hasball="WCU" down="2" togo="5" spot="WCU42" context="V,2,5,V42" playid="13,3,82" type="E" text="PENALTY WCU false start (Nathan Postelle) 5 yards to the WCU37." newcontext="V,2,10,V37">
+    <p_pn vh="V" code="FS" type="false start" name="Nathan Postelle" result="ACCEPT" at="V42" yards="5"></p_pn>
+   </play>
+   <play hasball="WCU" down="2" togo="10" spot="WCU37" context="V,2,10,V37" playid="13,4,83" type="#" clock="09:10" text="Timeout Western Carolina, clock 09:10." newcontext="V,2,10,V37">
+    <p_to vh="V" team="Western Carolina"></p_to>
+   </play>
+   <play hasball="WCU" down="2" togo="10" spot="WCU37" context="V,2,10,V37" playid="13,5,84" type="P" form="SH" text="[SH], Zack Jaynes sacked for loss of 7 yards to the WCU30 (Kadri,Theron)." newcontext="V,3,17,V30">
+    <p_pa vh="V" qb="Zack Jaynes" result="SACK" gain="-7"></p_pa>
+    <p_tk vh="H" name="Kadri,Theron" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="3" togo="17" spot="WCU30" context="V,3,17,V30" playid="13,6,85" type="P" form="SH" text="[SH], Zack Jaynes pass complete to A. Thomas for 2 yards to the WCU32 (Hayward,Casey)." newcontext="V,4,15,V32">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="A. Thomas" gain="2"></p_pa>
+    <p_tk vh="H" name="Hayward,Casey"></p_tk>
+   </play>
+   <play hasball="WCU" down="4" togo="15" spot="WCU32" context="V,4,15,V32" playid="13,7,86" type="U" text="Blake Cain punt 43 yards to the VU25, downed." newcontext="H,1,10,H25">
+    <p_pu vh="V" name="Blake Cain" gain="43"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-5" top="2:35" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H25,09:10" vh="H" spot="H25" clock="09:10" driveindex="14,86"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="VU25" context="H,1,10,H25" playid="14,1,87" clock="07:36" text="VANDERBILT drive start at 07:36." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU25" context="H,1,10,H25" playid="14,2,88" type="R" text="Smith,Larry rush for loss of 1 yard to the VU24 (Charles Johnson)." newcontext="H,2,11,H24">
+    <p_ru vh="H" name="Smith,Larry" gain="-1"></p_ru>
+    <p_tk vh="V" name="Charles Johnson" tfl="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="11" spot="VU24" context="H,2,11,H24" playid="14,3,89" type="R" form="SH" text="[SH], Norman,Warren rush for 8 yards to the VU32 (Mitchell Bell)." newcontext="H,3,3,H32">
+    <p_ru vh="H" name="Norman,Warren" gain="8"></p_ru>
+    <p_tk vh="V" name="Mitchell Bell"></p_tk>
+   </play>
+   <play hasball="VU" down="3" togo="3" spot="VU32" context="H,3,3,H32" playid="14,4,90" type="P" first="P" form="SH" text="[SH], Smith,Larry pass complete to Monahan,Austin for 12 yards to the VU44, 1ST DOWN VU (Ricky Schwarz)." newcontext="H,1,10,H44">
+    <p_pa vh="H" qb="Smith,Larry" result="COMP" rcv="Monahan,Austin" gain="12"></p_pa>
+    <p_tk vh="V" name="Ricky Schwarz"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU44" context="H,1,10,H44" playid="14,5,91" type="R" form="SH" text="[SH], Norman,Warren rush for 7 yards to the WCU49 (Justin Collins)." newcontext="H,2,3,V49">
+    <p_ru vh="H" name="Norman,Warren" gain="7"></p_ru>
+    <p_tk vh="V" name="Justin Collins"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="3" spot="WCU49" context="H,2,3,V49" playid="14,6,92" type="P" first="P" form="SH" text="[SH], Smith,Larry pass complete to Washington,Alex for 9 yards to the WCU40, 1ST DOWN VU, out-of-bounds (Mitchell Bell)." ob="Y" newcontext="H,1,10,V40">
+    <p_pa vh="H" qb="Smith,Larry" result="COMP" rcv="Washington,Alex" gain="9"></p_pa>
+    <p_tk vh="V" name="Mitchell Bell"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU40" context="H,1,10,V40" playid="14,7,93" type="R" text="Norman,Warren rush for 5 yards to the WCU35 (Buddy Robinson;Justin Collins)." newcontext="H,2,5,V35">
+    <p_ru vh="H" name="Norman,Warren" gain="5"></p_ru>
+    <p_tk vh="V" name="Buddy Robinson" assist="Y"></p_tk>
+    <p_tk vh="V" name="Justin Collins" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="5" spot="WCU35" context="H,2,5,V35" playid="14,8,94" type="P" form="SH" text="[SH], Smith,Larry pass incomplete to Green,Justin." newcontext="H,3,5,V35">
+    <p_pa vh="H" qb="Smith,Larry" result="INC" rcv="Green,Justin"></p_pa>
+   </play>
+   <play hasball="VU" down="3" togo="5" spot="WCU35" context="H,3,5,V35" playid="14,9,95" type="P" form="SH" text="[SH], Smith,Larry pass incomplete to Barden,Brandon (Chris Collins)." newcontext="H,4,5,V35">
+    <p_pa vh="H" qb="Smith,Larry" result="INC" rcv="Barden,Brandon"></p_pa>
+    <p_bu vh="V" name="Chris Collins"></p_bu>
+   </play>
+   <play hasball="VU" down="4" togo="5" spot="WCU35" context="H,4,5,V35" playid="14,10,96" type="#" clock="04:51" text="Timeout Western Carolina, clock 04:51." newcontext="H,4,5,V35">
+    <p_to vh="V" team="Western Carolina"></p_to>
+   </play>
+   <play hasball="VU" down="4" togo="5" spot="WCU35" context="H,4,5,V35" playid="14,11,97" type="U" text="Upson,Brett punt 7 yards to the WCU28, Josh Cockrell return 1 yards to the WCU29 (Umoh,Udom)." newcontext="V,1,10,V29">
+    <p_pu vh="H" name="Upson,Brett" gain="7"></p_pu>
+    <p_pr vh="V" name="Josh Cockrell" gain="1"></p_pr>
+    <p_tk vh="H" name="Umoh,Udom"></p_tk>
+   </play>
+   <drivesum plays="8" yards="40" top="2:57" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,V29,04:51" vh="V" spot="V29" clock="04:51" driveindex="15,97"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU29" context="V,1,10,V29" playid="15,1,98" clock="04:39" text="WESTERN CAROLINA drive start at 04:39." newcontext="V,1,10,V29">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU29" context="V,1,10,V29" playid="15,2,99" type="R" first="R" form="SH" text="[SH], Michael Johnson rush for 12 yards to the WCU41, 1ST DOWN WCU (Richardson,Sean;Graham,Jamie)." newcontext="V,1,10,V41">
+    <p_ru vh="V" name="Michael Johnson" gain="12"></p_ru>
+    <p_tk vh="H" name="Richardson,Sean" assist="Y"></p_tk>
+    <p_tk vh="H" name="Graham,Jamie" assist="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU41" context="V,1,10,V41" playid="15,3,100" type="R" text="Michael Johnson rush for 1 yard to the WCU42 (Brannon,Teriall;Benoist,Patrick)." newcontext="V,2,9,V42">
+    <p_ru vh="V" name="Michael Johnson" gain="1"></p_ru>
+    <p_tk vh="H" name="Brannon,Teriall" assist="Y"></p_tk>
+    <p_tk vh="H" name="Benoist,Patrick" assist="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="2" togo="9" spot="WCU42" context="V,2,9,V42" playid="15,4,101" type="P" text="Zack Jaynes pass complete to Chris Everett for no gain to the WCU42 (Benoist,Patrick)." newcontext="V,3,9,V42">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="Chris Everett" gain="0"></p_pa>
+    <p_tk vh="H" name="Benoist,Patrick"></p_tk>
+   </play>
+   <play hasball="WCU" down="3" togo="9" spot="WCU42" context="V,3,9,V42" playid="15,5,102" type="P" form="SH" text="[SH], Zack Jaynes pass incomplete to Marquel Pittman (Hayward,Casey)." newcontext="V,4,9,V42">
+    <p_pa vh="V" qb="Zack Jaynes" result="INC" rcv="Marquel Pittman"></p_pa>
+    <p_bu vh="H" name="Hayward,Casey"></p_bu>
+   </play>
+   <play hasball="WCU" down="4" togo="9" spot="WCU42" context="V,4,9,V42" playid="15,6,103" type="U" text="Blake Cain punt 33 yards to the VU25, fair catch by Graham,Jamie." newcontext="H,1,10,H25">
+    <p_pu vh="V" name="Blake Cain" gain="33" fc="Graham,Jamie"></p_pu>
+   </play>
+   <drivesum plays="4" yards="13" top="2:21" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H25,04:39" vh="H" spot="H25" clock="04:39" driveindex="16,103"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="VU25" context="H,1,10,H25" playid="16,1,104" clock="02:18" text="VANDERBILT drive start at 02:18." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU25" context="H,1,10,H25" playid="16,2,105" type="R" first="R" text="Stacy,Zac rush for 13 yards to the VU38, 1ST DOWN VU, out-of-bounds (Antoine George)." ob="Y" newcontext="H,1,10,H38">
+    <p_ru vh="H" name="Stacy,Zac" gain="13"></p_ru>
+    <p_tk vh="V" name="Antoine George"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU38" context="H,1,10,H38" playid="16,3,106" type="R" first="R" text="Smith,Larry rush for 20 yards to the WCU42, 1ST DOWN VU (Mitchell Bell)." newcontext="H,1,10,V42">
+    <p_ru vh="H" name="Smith,Larry" gain="20"></p_ru>
+    <p_tk vh="V" name="Mitchell Bell"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU42" context="H,1,10,V42" playid="16,4,107" type="R" text="Smith,Larry rush for 3 yards to the WCU39 (Gene Singletary;Chris Collins)." newcontext="H,2,7,V39">
+    <p_ru vh="H" name="Smith,Larry" gain="3"></p_ru>
+    <p_tk vh="V" name="Gene Singletary" assist="Y"></p_tk>
+    <p_tk vh="V" name="Chris Collins" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="7" spot="WCU39" context="H,2,7,V39" playid="16,5,108" type="#" clock="01:32" text="Timeout Vanderbilt, clock 01:32." newcontext="H,2,7,V39">
+    <p_to vh="H" team="Vanderbilt"></p_to>
+   </play>
+   <play hasball="VU" down="2" togo="7" spot="WCU39" context="H,2,7,V39" playid="16,6,109" type="P" form="SH" text="[SH], Smith,Larry pass incomplete to Washington,Alex." newcontext="H,3,7,V39">
+    <p_pa vh="H" qb="Smith,Larry" result="INC" rcv="Washington,Alex"></p_pa>
+   </play>
+   <play hasball="VU" down="3" togo="7" spot="WCU39" context="H,3,7,V39" playid="16,7,110" type="P" form="SH" text="[SH], Smith,Larry pass incomplete to Monahan,Austin, QB hurry by Gene Singletary." newcontext="H,4,7,V39">
+    <p_pa vh="H" qb="Smith,Larry" result="INC" rcv="Monahan,Austin"></p_pa>
+    <p_qbh vh="V" name="Gene Singletary"></p_qbh>
+   </play>
+   <play hasball="VU" down="4" togo="7" spot="WCU39" context="H,4,7,V39" playid="16,8,111" type="U" text="TEAM punt -24 yards to the VU37, downed." newcontext="V,1,10,H37">
+    <p_pu vh="H" name="TEAM" gain="-24"></p_pu>
+   </play>
+   <drivesum plays="5" yards="36" top="1:09" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,H37,01:32" vh="V" spot="H37" clock="01:32" driveindex="17,111"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="VU37" context="V,1,10,H37" playid="17,1,112" clock="01:09" text="WESTERN CAROLINA drive start at 01:09." newcontext="V,1,10,H37">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="VU37" context="V,1,10,H37" playid="17,2,113" type="P" text="Zack Jaynes sacked for loss of 8 yards to the VU45 (Greenstone,T.J.)." newcontext="V,2,18,H45">
+    <p_pa vh="V" qb="Zack Jaynes" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="H" name="Greenstone,T.J." sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="2" togo="18" spot="VU45" context="V,2,18,H45" playid="17,3,114" type="P" text="Zack Jaynes pass complete to Josh Cockrell for 7 yards to the VU38, out-of-bounds (Graham,Jamie)." ob="Y" newcontext="V,3,11,H38">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="Josh Cockrell" gain="7"></p_pa>
+    <p_tk vh="H" name="Graham,Jamie"></p_tk>
+   </play>
+   <play hasball="WCU" down="3" togo="11" spot="VU38" context="V,3,11,H38" playid="17,4,115" type="P" form="SH" text="[SH], Zack Jaynes pass complete to Michael Johnson for 4 yards to the VU34 (Benoist,Patrick)." newcontext="V,4,7,H34">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="Michael Johnson" gain="4"></p_pa>
+    <p_tk vh="H" name="Benoist,Patrick"></p_tk>
+   </play>
+   <play hasball="WCU" down="4" togo="7" spot="VU34" context="V,4,7,H34" playid="17,5,116" type="#" clock="00:13" text="Timeout Western Carolina, clock 00:13." newcontext="V,4,7,H34">
+    <p_to vh="V" team="Western Carolina"></p_to>
+   </play>
+   <play hasball="WCU" down="4" togo="7" spot="VU34" context="V,4,7,H34" playid="17,6,117" type="P" text="Zack Jaynes pass incomplete to D.J. McLendon (Hayward,Casey), PENALTY WCU holding declined." newcontext="H,1,10,H34">
+    <p_pa vh="V" qb="Zack Jaynes" result="INC" rcv="D.J. McLendon"></p_pa>
+    <p_pn vh="V" code="HO" type="holding" name="D.J. McLendon" result="DECLINE"></p_pn>
+    <p_bu vh="H" name="Hayward,Casey"></p_bu>
+   </play>
+   <drivesum plays="4" yards="3" top="1:04" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H34,00:13" vh="H" spot="H34" clock="00:13" driveindex="18,117"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="VU34" context="H,1,10,H34" playid="18,1,118" clock="00:05" text="VANDERBILT drive start at 00:05." newcontext="H,1,10,H34">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU34" context="H,1,10,H34" playid="18,2,119" type="R" text="TEAM rush for loss of 1 yard to the VU33." newcontext="H,2,11,H33">
+    <p_ru vh="H" name="TEAM" gain="-1"></p_ru>
+   </play>
+   <play hasball="VU" down="2" togo="11" spot="VU33" context="H,2,11,H33" playid="18,3,120" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,2,11,H33">
+   </play>
+   <drivesum plays="1" yards="-1" top="0:05" driveindex="18" complete="Y"></drivesum>
+   <score qtr="2" V="0" H="21"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="WCU">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:56"></misc>
+    <rush att="8" yds="9" gain="24" loss="15" td="0" long="0"></rush>
+    <pass comp="5" att="8" int="0" yds="27" td="0" long="3" sacks="2" sackyds="15"></pass>
+    <rcv no="5" yds="27" td="0" long="3"></rcv>
+    <punt no="3" yds="110" long="0" blkd="0" tb="0" fc="2" plus50="0" inside20="1" avg="36.7"></punt>
+    <defense tackua="9" tacka="6" tot_tack="15" tflua="2" tfla="0" tflyds="7" sacks="1" sackyds="6" brup="1" qbh="1"></defense>
+    <kr no="1" yds="15" td="0" long="0"></kr>
+    <pr no="2" yds="2" td="0" long="1"></pr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="VU">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:04"></misc>
+    <rush att="12" yds="67" gain="75" loss="8" td="1" long="4"></rush>
+    <pass comp="2" att="6" int="0" yds="21" td="0" long="0" sacks="1" sackyds="6"></pass>
+    <rcv no="2" yds="21" td="0" long="0"></rcv>
+    <punt no="3" yds="25" long="42" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="8.3"></punt>
+    <ko no="1" yds="57" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="10" tot_tack="21" tflua="2" tfla="0" tflyds="15" sacks="3" sackyds="23" brup="2"></defense>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="VU" down="2" togo="11" spot="VU33" context="H,2,11,H33" playid="18,4,121" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, WCU ball on WCU30." newcontext="V,2,11,V30">
+   </play>
+   <play hasball="WCU" down="2" togo="11" spot="WCU30" context="V,2,11,V30" playid="18,5,122" type="K" text="Blake Bostic kickoff 34 yards to the VU36, Johnson,Chris return 10 yards to the VU46 (Angelo Brown)." newcontext="H,1,10,H46">
+    <p_ko vh="V" name="Blake Bostic" gain="34"></p_ko>
+    <p_kr vh="H" name="Johnson,Chris" gain="10"></p_kr>
+    <p_tk vh="V" name="Angelo Brown"></p_tk>
+   </play>
+   <drivestart poss="H,H46,15:00" vh="H" spot="H46" clock="15:00" driveindex="19,122"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="VU46" context="H,1,10,H46" playid="19,1,123" clock="15:00" text="VANDERBILT drive start at 15:00." newcontext="H,1,10,H46">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU46" context="H,1,10,H46" playid="19,2,124" type="R" text="Stacy,Zac rush for 3 yards to the VU49 (Jonte Bumpus)." newcontext="H,2,7,H49">
+    <p_ru vh="H" name="Stacy,Zac" gain="3"></p_ru>
+    <p_tk vh="V" name="Jonte Bumpus"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="7" spot="VU49" context="H,2,7,H49" playid="19,3,125" type="R" first="R" text="Smith,Larry rush for 11 yards to the WCU40, 1ST DOWN VU, out-of-bounds." ob="Y" newcontext="H,1,10,V40">
+    <p_ru vh="H" name="Smith,Larry" gain="11"></p_ru>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU40" context="H,1,10,V40" playid="19,4,126" type="R" text="Stacy,Zac rush for 2 yards to the WCU38 (Jonte Bumpus;Gene Singletary)." newcontext="H,2,8,V38">
+    <p_ru vh="H" name="Stacy,Zac" gain="2"></p_ru>
+    <p_tk vh="V" name="Jonte Bumpus" assist="Y"></p_tk>
+    <p_tk vh="V" name="Gene Singletary" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="8" spot="WCU38" context="H,2,8,V38" playid="19,5,127" type="R" form="SH" text="[SH], Stacy,Zac rush for 2 yards to the WCU36 (Chris Collins)." newcontext="H,3,6,V36">
+    <p_ru vh="H" name="Stacy,Zac" gain="2"></p_ru>
+    <p_tk vh="V" name="Chris Collins"></p_tk>
+   </play>
+   <play hasball="VU" down="3" togo="6" spot="WCU36" context="H,3,6,V36" playid="19,6,128" type="P" form="SH" text="[SH], Smith,Larry pass incomplete to Umoh,Udom, QB hurry by Chaz Jackson." newcontext="H,4,6,V36">
+    <p_pa vh="H" qb="Smith,Larry" result="INC" rcv="Umoh,Udom"></p_pa>
+    <p_qbh vh="V" name="Chaz Jackson"></p_qbh>
+   </play>
+   <play hasball="VU" down="4" togo="6" spot="WCU36" context="H,4,6,V36" playid="19,7,129" type="U" text="Upson,Brett punt 24 yards to the WCU12, fair catch by Josh Cockrell." newcontext="V,1,10,V12">
+    <p_pu vh="H" name="Upson,Brett" gain="24" in20="Y" fc="Josh Cockrell"></p_pu>
+   </play>
+   <drivesum plays="5" yards="18" top="2:19" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V12,15:00" vh="V" spot="V12" clock="15:00" driveindex="20,129"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU12" context="V,1,10,V12" playid="20,1,130" clock="12:41" text="WESTERN CAROLINA drive start at 12:41." newcontext="V,1,10,V12">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU12" context="V,1,10,V12" playid="20,2,131" type="P" text="Zack Jaynes pass incomplete to D.J. McLendon." newcontext="V,2,10,V12">
+    <p_pa vh="V" qb="Zack Jaynes" result="INC" rcv="D.J. McLendon"></p_pa>
+   </play>
+   <play hasball="WCU" down="2" togo="10" spot="WCU12" context="V,2,10,V12" playid="20,3,132" type="R" text="Michael Johnson rush for loss of 1 yard to the WCU11 (Stewart,Broderi;Lewis,Myron)." newcontext="V,3,11,V11">
+    <p_ru vh="V" name="Michael Johnson" gain="-1"></p_ru>
+    <p_tk vh="H" name="Stewart,Broderi" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Lewis,Myron" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="3" togo="11" spot="WCU11" context="V,3,11,V11" playid="20,4,133" type="P" form="SH" text="[SH], Zack Jaynes pass complete to D.J. McLendon for 8 yards to the WCU19 (Hayward,Casey)." newcontext="V,4,3,V19">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="D.J. McLendon" gain="8"></p_pa>
+    <p_tk vh="H" name="Hayward,Casey"></p_tk>
+   </play>
+   <play hasball="WCU" down="4" togo="3" spot="WCU19" context="V,4,3,V19" playid="20,5,134" type="U" text="Blake Cain punt 36 yards to the VU45, Washington,Alex return 12 yards to the WCU43 (Jonte Bumpus;Elijer Martinez)." newcontext="H,1,10,V43">
+    <p_pu vh="V" name="Blake Cain" gain="36"></p_pu>
+    <p_pr vh="H" name="Washington,Alex" gain="12"></p_pr>
+    <p_tk vh="V" name="Jonte Bumpus" assist="Y"></p_tk>
+    <p_tk vh="V" name="Elijer Martinez" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="7" top="1:44" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,V43,12:41" vh="H" spot="V43" clock="12:41" driveindex="21,134"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="WCU43" context="H,1,10,V43" playid="21,1,135" clock="10:57" text="VANDERBILT drive start at 10:57." newcontext="H,1,10,V43">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU43" context="H,1,10,V43" playid="21,2,136" type="R" form="SH" text="[SH], Norman,Warren rush for 3 yards to the WCU40 (Chris Collins)." newcontext="H,2,7,V40">
+    <p_ru vh="H" name="Norman,Warren" gain="3"></p_ru>
+    <p_tk vh="V" name="Chris Collins"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="7" spot="WCU40" context="H,2,7,V40" playid="21,3,137" type="P" form="SH" text="[SH], Smith,Larry pass incomplete to Washington,Alex." newcontext="H,3,7,V40">
+    <p_pa vh="H" qb="Smith,Larry" result="INC" rcv="Washington,Alex"></p_pa>
+   </play>
+   <play hasball="VU" down="3" togo="7" spot="WCU40" context="H,3,7,V40" playid="21,4,138" type="R" first="R" form="SH" text="[SH], Smith,Larry rush for 8 yards to the WCU32, 1ST DOWN VU, out-of-bounds." ob="Y" newcontext="H,1,10,V32">
+    <p_ru vh="H" name="Smith,Larry" gain="8"></p_ru>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU32" context="H,1,10,V32" playid="21,5,139" type="R" text="Norman,Warren rush for 9 yards to the WCU23 (Abram Scott)." newcontext="H,2,1,V23">
+    <p_ru vh="H" name="Norman,Warren" gain="9"></p_ru>
+    <p_tk vh="V" name="Abram Scott"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="1" spot="WCU23" context="H,2,1,V23" playid="21,6,140" type="R" first="R" form="SH" text="[SH], Norman,Warren rush for 1 yard to the WCU22, 1ST DOWN VU (Jordan Williams;Chaz Jackson)." newcontext="H,1,10,V22">
+    <p_ru vh="H" name="Norman,Warren" gain="1"></p_ru>
+    <p_tk vh="V" name="Jordan Williams" assist="Y"></p_tk>
+    <p_tk vh="V" name="Chaz Jackson" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU22" context="H,1,10,V22" playid="21,7,141" type="P" first="P" form="SH" text="[SH], Smith,Larry pass complete to Barden,Brandon for 18 yards to the WCU4, 1ST DOWN VU (Abram Scott)." newcontext="H,1,0,V04">
+    <p_pa vh="H" qb="Smith,Larry" result="COMP" rcv="Barden,Brandon" gain="18"></p_pa>
+    <p_tk vh="V" name="Abram Scott"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="0" spot="WCU04" context="H,1,0,V04" playid="21,8,142" type="R" text="Norman,Warren rush for 1 yard to the WCU3 (Chris Collins;Chaz Jackson)." newcontext="H,2,0,V03">
+    <p_ru vh="H" name="Norman,Warren" gain="1"></p_ru>
+    <p_tk vh="V" name="Chris Collins" assist="Y"></p_tk>
+    <p_tk vh="V" name="Chaz Jackson" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="0" spot="WCU03" context="H,2,0,V03" playid="21,9,143" type="R" text="Norman,Warren rush for 1 yard to the WCU2 (Jordan Williams)." newcontext="H,3,0,V02">
+    <p_ru vh="H" name="Norman,Warren" gain="1"></p_ru>
+    <p_tk vh="V" name="Jordan Williams"></p_tk>
+   </play>
+   <play hasball="VU" down="3" togo="0" spot="WCU02" context="H,3,0,V02" playid="21,10,144" type="#" clock="07:46" text="Timeout Western Carolina, clock 07:46." newcontext="H,3,0,V02">
+    <p_to vh="V" team="Western Carolina"></p_to>
+   </play>
+   <play hasball="VU" down="3" togo="0" spot="WCU02" context="H,3,0,V02" playid="21,11,145" type="R" score="Y" clock="07:40" text="Norman,Warren rush for 2 yards to the WCU0, TOUCHDOWN, clock 07:40." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Norman,Warren" gain="2"></p_ru>
+   </play>
+   <play hasball="VU" down="1" togo="0" spot="WCU03" context="H,1,0,V03" playid="21,12,146" type="X" score="Y" text="Fowler,Ryan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Fowler,Ryan" qb="Fowler,Ryan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="28"></score>
+   <drivesum plays="9" yards="43" top="3:17" driveindex="21" complete="Y"></drivesum>
+   <play hasball="VU" down="1" togo="0" spot="VU30" context="H,1,0,H30" playid="21,13,147" type="K" text="Fowler,Ryan kickoff 59 yards to the WCU11, G. Richardson return 19 yards to the WCU30 (Foster,Eddie)." newcontext="V,1,10,V30">
+    <p_ko vh="H" name="Fowler,Ryan" gain="59"></p_ko>
+    <p_kr vh="V" name="G. Richardson" gain="19"></p_kr>
+    <p_tk vh="H" name="Foster,Eddie"></p_tk>
+   </play>
+   <drivestart poss="V,V30,07:40" vh="V" spot="V30" clock="07:40" driveindex="22,147"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU30" context="V,1,10,V30" playid="22,1,148" clock="07:40" text="WESTERN CAROLINA drive start at 07:40." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU30" context="V,1,10,V30" playid="22,2,149" type="P" form="SH" text="[SH], Zack Jaynes pass complete to Marquel Pittman for 6 yards to the WCU36, out-of-bounds (Lewis,Myron)." ob="Y" newcontext="V,2,4,V36">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="Marquel Pittman" gain="6"></p_pa>
+    <p_tk vh="H" name="Lewis,Myron"></p_tk>
+   </play>
+   <play hasball="WCU" down="2" togo="4" spot="WCU36" context="V,2,4,V36" playid="22,3,150" type="R" form="SH" text="[SH], Michael Johnson rush for no gain to the WCU36 (Smotherman,Adam)." newcontext="V,3,4,V36">
+    <p_ru vh="V" name="Michael Johnson" gain="0"></p_ru>
+    <p_tk vh="H" name="Smotherman,Adam"></p_tk>
+   </play>
+   <play hasball="WCU" down="3" togo="4" spot="WCU36" context="V,3,4,V36" playid="22,4,151" type="#" clock="06:16" text="Timeout Western Carolina, clock 06:16." newcontext="V,3,4,V36">
+    <p_to vh="V" team="Western Carolina"></p_to>
+   </play>
+   <play hasball="WCU" down="3" togo="4" spot="WCU36" context="V,3,4,V36" playid="22,5,152" type="P" text="Zack Jaynes pass incomplete to Josh Cockrell." newcontext="V,4,4,V36">
+    <p_pa vh="V" qb="Zack Jaynes" result="INC" rcv="Josh Cockrell"></p_pa>
+   </play>
+   <play hasball="WCU" down="4" togo="4" spot="WCU36" context="V,4,4,V36" playid="22,6,153" type="U" text="Blake Cain punt 46 yards to the VU18, Washington,Alex return -6 yards to the VU12 (Elijer Martinez)." newcontext="H,1,10,H12">
+    <p_pu vh="V" name="Blake Cain" gain="46" in20="Y"></p_pu>
+    <p_pr vh="H" name="Washington,Alex" gain="-6"></p_pr>
+    <p_tk vh="V" name="Elijer Martinez"></p_tk>
+   </play>
+   <drivesum plays="3" yards="6" top="1:44" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="H,H12,06:16" vh="H" spot="H12" clock="06:16" driveindex="23,153"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="VU12" context="H,1,10,H12" playid="23,1,154" clock="05:56" text="VANDERBILT drive start at 05:56." newcontext="H,1,10,H12">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU12" context="H,1,10,H12" playid="23,2,155" type="R" text="Stacy,Zac rush for 4 yards to the VU16 (Ricky Schwarz)." newcontext="H,2,6,H16">
+    <p_ru vh="H" name="Stacy,Zac" gain="4"></p_ru>
+    <p_tk vh="V" name="Ricky Schwarz"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="6" spot="VU16" context="H,2,6,H16" playid="23,3,156" type="R" form="SH" text="[SH], Stacy,Zac rush for 5 yards to the VU21 (Chris Collins)." newcontext="H,3,1,H21">
+    <p_ru vh="H" name="Stacy,Zac" gain="5"></p_ru>
+    <p_tk vh="V" name="Chris Collins"></p_tk>
+   </play>
+   <play hasball="VU" down="3" togo="1" spot="VU21" context="H,3,1,H21" playid="23,4,157" type="R" first="R" text="Stacy,Zac rush for 13 yards to the VU34, 1ST DOWN VU (Robert Peele)." newcontext="H,1,10,H34">
+    <p_ru vh="H" name="Stacy,Zac" gain="13"></p_ru>
+    <p_tk vh="V" name="Robert Peele"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU34" context="H,1,10,H34" playid="23,5,158" type="P" first="P" form="SH" text="[SH], Smith,Larry pass complete to Monahan,Austin for 12 yards to the VU46, 1ST DOWN VU, out-of-bounds (Chaz Jackson)." ob="Y" newcontext="H,1,10,H46">
+    <p_pa vh="H" qb="Smith,Larry" result="COMP" rcv="Monahan,Austin" gain="12"></p_pa>
+    <p_tk vh="V" name="Chaz Jackson"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU46" context="H,1,10,H46" playid="23,6,159" type="R" form="SH" text="[SH], Stacy,Zac rush for 4 yards to the 50 yardline (Mitchell Bell;Adrian McLeod)." newcontext="H,2,6,H50">
+    <p_ru vh="H" name="Stacy,Zac" gain="4"></p_ru>
+    <p_tk vh="V" name="Mitchell Bell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Adrian McLeod" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="6" spot="VU50" context="H,2,6,H50" playid="23,7,160" type="R" form="SH" text="[SH], Norman,Warren rush for 2 yards to the WCU48 (Chris Collins)." newcontext="H,3,4,V48">
+    <p_ru vh="H" name="Norman,Warren" gain="2"></p_ru>
+    <p_tk vh="V" name="Chris Collins"></p_tk>
+   </play>
+   <play hasball="VU" down="3" togo="4" spot="WCU48" context="H,3,4,V48" playid="23,8,161" type="R" first="R" form="SH" text="[SH], Smith,Larry rush for 6 yards to the WCU42, 1ST DOWN VU (Chris Collins)." newcontext="H,1,10,V42">
+    <p_ru vh="H" name="Smith,Larry" gain="6"></p_ru>
+    <p_tk vh="V" name="Chris Collins"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU42" context="H,1,10,V42" playid="23,9,162" type="R" form="SH" text="[SH], Stacy,Zac rush for 5 yards to the WCU37 (Ricky Schwarz;Adrian McLeod)." newcontext="H,2,5,V37">
+    <p_ru vh="H" name="Stacy,Zac" gain="5"></p_ru>
+    <p_tk vh="V" name="Ricky Schwarz" assist="Y"></p_tk>
+    <p_tk vh="V" name="Adrian McLeod" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="5" spot="WCU37" context="H,2,5,V37" playid="23,10,163" type="R" first="R" form="SH" text="[SH], Stacy,Zac rush for 7 yards to the WCU30, 1ST DOWN VU (Mitchell Bell)." newcontext="H,1,10,V30">
+    <p_ru vh="H" name="Stacy,Zac" gain="7"></p_ru>
+    <p_tk vh="V" name="Mitchell Bell"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU30" context="H,1,10,V30" playid="23,11,164" type="P" first="P" text="Adams,Mackenzi pass complete to Barden,Brandon for 11 yards to the WCU19, 1ST DOWN VU (Mitchell Bell;Ricky Schwarz)." newcontext="H,1,10,V19">
+    <p_pa vh="H" qb="Adams,Mackenzi" result="COMP" rcv="Barden,Brandon" gain="11"></p_pa>
+    <p_tk vh="V" name="Mitchell Bell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ricky Schwarz" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU19" context="H,1,10,V19" playid="23,12,165" type="R" text="Stacy,Zac rush for 4 yards to the WCU15 (Bevans Robbs;Ricky Schwarz)." newcontext="H,2,6,V15">
+    <p_ru vh="H" name="Stacy,Zac" gain="4"></p_ru>
+    <p_tk vh="V" name="Bevans Robbs" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ricky Schwarz" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="6" spot="WCU15" context="H,2,6,V15" playid="23,13,166" type="P" text="Adams,Mackenzi pass incomplete to Wimberly,Turner, QB hurry by Antoine George." newcontext="H,3,6,V15">
+    <p_pa vh="H" qb="Adams,Mackenzi" result="INC" rcv="Wimberly,Turner"></p_pa>
+    <p_qbh vh="V" name="Antoine George"></p_qbh>
+   </play>
+   <play hasball="VU" down="3" togo="6" spot="WCU15" context="H,3,6,V15" playid="23,14,167" type="P" form="SH" text="[SH], Adams,Mackenzi pass incomplete to Wimberly,Turner." newcontext="H,4,6,V15">
+    <p_pa vh="H" qb="Adams,Mackenzi" result="INC" rcv="Wimberly,Turner"></p_pa>
+   </play>
+   <play hasball="VU" down="4" togo="6" spot="WCU15" context="H,4,6,V15" playid="23,15,168" type="F" clock="01:02" text="Fowler,Ryan field goal attempt from 32 MISSED - wide right, spot at WCU20, clock 01:02." newcontext="V,1,10,V20">
+    <p_fg vh="H" name="Fowler,Ryan" distance="32" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="14" yards="73" top="4:54" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="V,V20,01:02" vh="V" spot="V20" clock="01:02" driveindex="24,168"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU20" context="V,1,10,V20" playid="24,1,169" clock="01:02" text="WESTERN CAROLINA drive start at 01:02." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU20" context="V,1,10,V20" playid="24,2,170" type="R" form="SH" text="[SH], Zack Jaynes rush for 1 yard to the WCU21 (Richardson,Sean)." newcontext="V,2,9,V21">
+    <p_ru vh="V" name="Zack Jaynes" gain="1"></p_ru>
+    <p_tk vh="H" name="Richardson,Sean"></p_tk>
+   </play>
+   <play hasball="WCU" down="2" togo="9" spot="WCU21" context="V,2,9,V21" playid="24,3,171" type="P" form="SH" text="[SH], Zack Jaynes pass incomplete to A. Thomas." newcontext="V,3,9,V21">
+    <p_pa vh="V" qb="Zack Jaynes" result="INC" rcv="A. Thomas"></p_pa>
+   </play>
+   <play hasball="WCU" down="3" togo="9" spot="WCU21" context="V,3,9,V21" playid="24,4,172" type="P" form="SH" text="[SH], Zack Jaynes pass complete to Michael Johnson for 6 yards to the WCU27 (Marve,Chris;Kadri,Theron)." newcontext="V,4,3,V27">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="Michael Johnson" gain="6"></p_pa>
+    <p_tk vh="H" name="Marve,Chris" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kadri,Theron" assist="Y"></p_tk>
+   </play>
+   <score qtr="3" V="0" H="28"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="WCU">
+    <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:30"></misc>
+    <rush att="3" yds="0" gain="1" loss="1" td="0" long="0"></rush>
+    <pass comp="3" att="6" int="0" yds="20" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="20" td="0" long="0"></rcv>
+    <punt no="2" yds="82" long="2" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="41.0"></punt>
+    <ko no="1" yds="34" ob="0" tb="0"></ko>
+    <defense tackua="15" tacka="16" tot_tack="31" sacks="1" sackyds="6" qbh="2"></defense>
+    <kr no="1" yds="19" td="0" long="0"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="VU">
+    <firstdowns no="9" rush="6" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="4" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:30"></misc>
+    <rush att="20" yds="93" gain="93" loss="0" td="1" long="0"></rush>
+    <pass comp="3" att="7" int="0" yds="41" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="41" td="0" long="0"></rcv>
+    <punt no="1" yds="24" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="24.0"></punt>
+    <ko no="1" yds="59" ob="0" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="5" tacka="4" tot_tack="9" tflua="2" tfla="0" tflyds="2" sacks="3" sackyds="23"></defense>
+    <kr no="1" yds="10" td="0" long="10"></kr>
+    <pr no="2" yds="6" td="0" long="8"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="WCU" down="4" togo="3" spot="WCU27" context="V,4,3,V27" playid="24,5,173" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,4,3,V27">
+   </play>
+   <play hasball="WCU" down="4" togo="3" spot="WCU27" context="V,4,3,V27" playid="24,6,174" type="U" text="Blake Cain punt 37 yards to the VU36, downed." newcontext="H,1,10,H36">
+    <p_pu vh="V" name="Blake Cain" gain="37"></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="1:14" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,H36,15:00" vh="H" spot="H36" clock="15:00" driveindex="25,174"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="VU36" context="H,1,10,H36" playid="25,1,175" clock="14:48" text="VANDERBILT drive start at 14:48." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU36" context="H,1,10,H36" playid="25,2,176" type="R" form="SH" text="[SH], Norman,Warren rush for 6 yards to the VU42 (Ricky Schwarz;Adrian McLeod)." newcontext="H,2,4,H42">
+    <p_ru vh="H" name="Norman,Warren" gain="6"></p_ru>
+    <p_tk vh="V" name="Ricky Schwarz" assist="Y"></p_tk>
+    <p_tk vh="V" name="Adrian McLeod" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="4" spot="VU42" context="H,2,4,H42" playid="25,3,177" type="R" first="R" text="Norman,Warren rush for 7 yards to the VU49, 1ST DOWN VU (Charles Johnson)." newcontext="H,1,10,H49">
+    <p_ru vh="H" name="Norman,Warren" gain="7"></p_ru>
+    <p_tk vh="V" name="Charles Johnson"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU49" context="H,1,10,H49" playid="25,4,178" type="P" form="SH" text="[SH], Adams,Mackenzi pass incomplete to Umoh,Udom." newcontext="H,2,10,H49">
+    <p_pa vh="H" qb="Adams,Mackenzi" result="INC" rcv="Umoh,Udom"></p_pa>
+   </play>
+   <play hasball="VU" down="2" togo="10" spot="VU49" context="H,2,10,H49" playid="25,5,179" type="R" first="R" form="SH" text="[SH], Reeves,Kennard rush for 15 yards to the WCU36, 1ST DOWN VU (Mitchell Bell)." newcontext="H,1,10,V36">
+    <p_ru vh="H" name="Reeves,Kennard" gain="15"></p_ru>
+    <p_tk vh="V" name="Mitchell Bell"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU36" context="H,1,10,V36" playid="25,6,180" type="R" text="Reeves,Kennard rush for loss of 3 yards to the WCU39 (Gene Singletary)." newcontext="H,2,13,V39">
+    <p_ru vh="H" name="Reeves,Kennard" gain="-3"></p_ru>
+    <p_tk vh="V" name="Gene Singletary" tfl="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="13" spot="WCU39" context="H,2,13,V39" playid="25,7,181" type="R" form="SH" text="[SH], Adams,Mackenzi rush for 4 yards to the WCU35 (Ricky Schwarz)." newcontext="H,3,9,V35">
+    <p_ru vh="H" name="Adams,Mackenzi" gain="4"></p_ru>
+    <p_tk vh="V" name="Ricky Schwarz"></p_tk>
+   </play>
+   <play hasball="VU" down="3" togo="9" spot="WCU35" context="H,3,9,V35" playid="25,8,182" type="R" form="SH" text="[SH], Adams,Mackenzi rush for loss of 2 yards to the WCU37, out-of-bounds (Angelo Brown)." ob="Y" newcontext="H,4,11,V37">
+    <p_ru vh="H" name="Adams,Mackenzi" gain="-2"></p_ru>
+    <p_tk vh="V" name="Angelo Brown" tfl="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="4" togo="11" spot="WCU37" context="H,4,11,V37" playid="25,9,183" type="U" text="Upson,Brett punt 37 yards to the WCU0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Upson,Brett" gain="37" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="27" top="2:26" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="V,V20,14:48" vh="V" spot="V20" clock="14:48" driveindex="26,183"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU20" context="V,1,10,V20" playid="26,1,184" clock="12:22" text="WESTERN CAROLINA drive start at 12:22." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU20" context="V,1,10,V20" playid="26,2,185" type="P" first="P" form="SH" text="[SH], Zack Jaynes pass complete to Jacoby Mitchell for 11 yards to the WCU31, 1ST DOWN WCU." newcontext="V,1,10,V31">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="Jacoby Mitchell" gain="11"></p_pa>
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU31" context="V,1,10,V31" playid="26,3,186" type="P" form="SH" text="[SH], Zack Jaynes pass incomplete to D.J. McLendon (Kadri,Theron)." newcontext="V,2,10,V31">
+    <p_pa vh="V" qb="Zack Jaynes" result="INC" rcv="D.J. McLendon"></p_pa>
+    <p_bu vh="H" name="Kadri,Theron"></p_bu>
+   </play>
+   <play hasball="WCU" down="2" togo="10" spot="WCU31" context="V,2,10,V31" playid="26,4,187" type="R" form="SH" text="[SH], Michael Johnson rush for 4 yards to the WCU35 (Stokes,John;Strong,Tristan)." newcontext="V,3,6,V35">
+    <p_ru vh="V" name="Michael Johnson" gain="4"></p_ru>
+    <p_tk vh="H" name="Stokes,John" assist="Y"></p_tk>
+    <p_tk vh="H" name="Strong,Tristan" assist="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="3" togo="6" spot="WCU35" context="V,3,6,V35" playid="26,5,188" type="P" text="Zack Jaynes pass complete to Michael Johnson for 5 yards to the WCU40 (Samuels,Eric)." newcontext="V,4,1,V40">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="Michael Johnson" gain="5"></p_pa>
+    <p_tk vh="H" name="Samuels,Eric"></p_tk>
+   </play>
+   <play hasball="WCU" down="4" togo="1" spot="WCU40" context="V,4,1,V40" playid="26,6,189" type="U" text="Blake Cain punt 45 yards to the VU15, Stacy,Zac return -1 yards to the VU14, out-of-bounds." ob="Y" newcontext="H,1,10,H14">
+    <p_pu vh="V" name="Blake Cain" gain="45" in20="Y"></p_pu>
+    <p_pr vh="H" name="Stacy,Zac" gain="-1"></p_pr>
+   </play>
+   <drivesum plays="4" yards="20" top="2:05" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="H,H14,12:22" vh="H" spot="H14" clock="12:22" driveindex="27,189"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="VU14" context="H,1,10,H14" playid="27,1,190" clock="10:17" text="VANDERBILT drive start at 10:17." newcontext="H,1,10,H14">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU14" context="H,1,10,H14" playid="27,2,191" type="R" form="SH" text="[SH], Reeves,Kennard rush for 5 yards to the VU19 (Jordan Williams)." newcontext="H,2,5,H19">
+    <p_ru vh="H" name="Reeves,Kennard" gain="5"></p_ru>
+    <p_tk vh="V" name="Jordan Williams"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="5" spot="VU19" context="H,2,5,H19" playid="27,3,192" type="R" first="R" text="Reeves,Kennard rush for 15 yards to the VU34, 1ST DOWN VU (Jordan Williams;Abram Scott)." newcontext="H,1,10,H34">
+    <p_ru vh="H" name="Reeves,Kennard" gain="15"></p_ru>
+    <p_tk vh="V" name="Jordan Williams" assist="Y"></p_tk>
+    <p_tk vh="V" name="Abram Scott" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="VU34" context="H,1,10,H34" playid="27,4,193" type="R" first="R" form="SH" text="[SH], Reeves,Kennard rush for 19 yards to the WCU47, 1ST DOWN VU (Brandon Vaught)." newcontext="H,1,10,V47">
+    <p_ru vh="H" name="Reeves,Kennard" gain="19"></p_ru>
+    <p_tk vh="V" name="Brandon Vaught"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU47" context="H,1,10,V47" playid="27,5,194" type="R" text="Reeves,Kennard rush for 4 yards to the WCU43 (Buddy Robinson;Chris Collins)." newcontext="H,2,6,V43">
+    <p_ru vh="H" name="Reeves,Kennard" gain="4"></p_ru>
+    <p_tk vh="V" name="Buddy Robinson" assist="Y"></p_tk>
+    <p_tk vh="V" name="Chris Collins" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="6" spot="WCU43" context="H,2,6,V43" playid="27,6,195" type="R" form="SH" text="[SH], Doster,Jermaine rush for 1 yard to the WCU42 (Adrian McLeod)." newcontext="H,3,5,V42">
+    <p_ru vh="H" name="Doster,Jermaine" gain="1"></p_ru>
+    <p_tk vh="V" name="Adrian McLeod"></p_tk>
+   </play>
+   <play hasball="VU" down="3" togo="5" spot="WCU42" context="H,3,5,V42" playid="27,7,196" type="P" first="P" text="Adams,Mackenzi pass complete to Herndon,Tray for 17 yards to the WCU25, 1ST DOWN VU (Jordan Williams)." newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="Adams,Mackenzi" result="COMP" rcv="Herndon,Tray" gain="17"></p_pa>
+    <p_tk vh="V" name="Jordan Williams"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU25" context="H,1,10,V25" playid="27,8,197" type="R" text="Doster,Jermaine rush for 2 yards to the WCU23 (Jordan Williams;Adrian McLeod)." newcontext="H,2,8,V23">
+    <p_ru vh="H" name="Doster,Jermaine" gain="2"></p_ru>
+    <p_tk vh="V" name="Jordan Williams" assist="Y"></p_tk>
+    <p_tk vh="V" name="Adrian McLeod" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="8" spot="WCU23" context="H,2,8,V23" playid="27,9,198" type="P" form="SH" text="[SH], Adams,Mackenzi pass incomplete to Tompkins,Rich." newcontext="H,3,8,V23">
+    <p_pa vh="H" qb="Adams,Mackenzi" result="INC" rcv="Tompkins,Rich"></p_pa>
+   </play>
+   <play hasball="VU" down="3" togo="8" spot="WCU23" context="H,3,8,V23" playid="27,10,199" type="P" form="SH" text="[SH], Adams,Mackenzi pass complete to Doster,Jermaine for 6 yards to the WCU17 (Torez Jones)." newcontext="H,4,2,V17">
+    <p_pa vh="H" qb="Adams,Mackenzi" result="COMP" rcv="Doster,Jermaine" gain="6"></p_pa>
+    <p_tk vh="V" name="Torez Jones"></p_tk>
+   </play>
+   <play hasball="VU" down="4" togo="2" spot="WCU17" context="H,4,2,V17" playid="27,11,200" type="R" first="R" form="SH" text="[SH], Adams,Mackenzi rush for 10 yards to the WCU7, 1ST DOWN VU (Chris Collins)." newcontext="H,1,0,V07">
+    <p_ru vh="H" name="Adams,Mackenzi" gain="10"></p_ru>
+    <p_tk vh="V" name="Chris Collins"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="0" spot="WCU07" context="H,1,0,V07" playid="27,12,201" type="R" score="Y" clock="06:45" form="SH" text="[SH], Reeves,Kennard rush for 7 yards to the WCU0, TOUCHDOWN, clock 06:45." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Reeves,Kennard" gain="7"></p_ru>
+   </play>
+   <play hasball="VU" down="1" togo="0" spot="WCU03" context="H,1,0,V03" playid="27,13,202" type="X" score="Y" text="Fowler,Ryan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Fowler,Ryan" qb="Fowler,Ryan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="35"></score>
+   <drivesum plays="11" yards="86" top="3:32" driveindex="27" complete="Y"></drivesum>
+   <play hasball="VU" down="1" togo="0" spot="VU30" context="H,1,0,H30" playid="27,14,203" type="K" text="Fowler,Ryan kickoff 59 yards to the WCU11, C. Bethune return 15 yards to the WCU26, fumble forced by Owens,Al, fumble by C. Bethune recovered by WCU Willie Kennedy at WCU26." newcontext="V,1,10,V26">
+    <p_ko vh="H" name="Fowler,Ryan" gain="59"></p_ko>
+    <p_kr vh="V" name="C. Bethune" gain="15"></p_kr>
+    <p_fumb vh="V" name="C. Bethune" at="V26" frvh="V" frname="Willie Kennedy"></p_fumb>
+    <p_tk vh="H" name="Owens,Al" ff="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V26,06:45" vh="V" spot="V26" clock="06:45" driveindex="28,203"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU26" context="V,1,10,V26" playid="28,1,204" clock="06:45" text="WESTERN CAROLINA drive start at 06:45." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU26" context="V,1,10,V26" playid="28,2,205" type="P" turnover="F" text="Zack Jaynes pass complete to Jacoby Mitchell for no gain to the WCU26, fumble forced by Caldwell,Joel, fumble by Jacoby Mitchell recovered by VU Samuels,Eric at WCU26." newcontext="H,1,10,V26">
+    <p_pa vh="V" qb="Zack Jaynes" result="COMP" rcv="Jacoby Mitchell" gain="0"></p_pa>
+    <p_fumb vh="V" name="Jacoby Mitchell" at="V26" frvh="H" frname="Samuels,Eric"></p_fumb>
+    <p_tk vh="H" name="Caldwell,Joel" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="1" yards="0" top="0:19" driveindex="28" complete="Y"></drivesum>
+   <drivestart poss="H,V26,06:45" vh="H" spot="V26" clock="06:45" driveindex="29,205"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="WCU26" context="H,1,10,V26" playid="29,1,206" clock="06:26" text="VANDERBILT drive start at 06:26." newcontext="H,1,10,V26">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU26" context="H,1,10,V26" playid="29,2,207" type="R" first="R" form="SH" text="[SH], Doster,Jermaine rush for 15 yards to the WCU11, 1ST DOWN VU, out-of-bounds (Abram Scott)." ob="Y" newcontext="H,1,10,V11">
+    <p_ru vh="H" name="Doster,Jermaine" gain="15"></p_ru>
+    <p_tk vh="V" name="Abram Scott"></p_tk>
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU11" context="H,1,10,V11" playid="29,3,208" type="E" form="SH" text="[SH], Doster,Jermaine rush for 4 yards to the WCU7 (Buddy Robinson), PENALTY VU holding (Aaron,Chris) 9 yards to the WCU20, NO PLAY." newcontext="H,1,19,V20">
+    <p_pn vh="H" code="HO" type="holding" name="Aaron,Chris" result="ACCEPT" at="V11" yards="9"></p_pn>
+   </play>
+   <play hasball="VU" down="1" togo="19" spot="WCU20" context="H,1,19,V20" playid="29,4,209" type="R" text="Doster,Jermaine rush for 5 yards to the WCU15 (Jonte Bumpus)." newcontext="H,2,14,V15">
+    <p_ru vh="H" name="Doster,Jermaine" gain="5"></p_ru>
+    <p_tk vh="V" name="Jonte Bumpus"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="14" spot="WCU15" context="H,2,14,V15" playid="29,5,210" type="R" text="Doster,Jermaine rush for 13 yards to the WCU2 (Buddy Robinson;Bevans Robbs)." newcontext="H,3,1,V02">
+    <p_ru vh="H" name="Doster,Jermaine" gain="13"></p_ru>
+    <p_tk vh="V" name="Buddy Robinson" assist="Y"></p_tk>
+    <p_tk vh="V" name="Bevans Robbs" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="3" togo="1" spot="WCU02" context="H,3,1,V02" playid="29,6,211" type="R" first="R" score="Y" clock="04:37" text="Van Rensburg,Ry rush for 2 yards to the WCU0, 1ST DOWN VU, TOUCHDOWN, clock 04:37." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="van Rensburg,Ry" gain="2"></p_ru>
+   </play>
+   <play hasball="VU" down="1" togo="0" spot="WCU03" context="H,1,0,V03" playid="29,7,212" type="X" score="Y" text="Fowler,Ryan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Fowler,Ryan" qb="Fowler,Ryan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="42"></score>
+   <drivesum plays="4" yards="26" top="1:49" driveindex="29" complete="Y"></drivesum>
+   <play hasball="VU" down="1" togo="0" spot="VU30" context="H,1,0,H30" playid="29,8,213" type="K" text="Fowler,Ryan kickoff 67 yards to the WCU3, G. Richardson return 19 yards to the WCU22 (Powell,Micah)." newcontext="V,1,10,V22">
+    <p_ko vh="H" name="Fowler,Ryan" gain="67"></p_ko>
+    <p_kr vh="V" name="G. Richardson" gain="19"></p_kr>
+    <p_tk vh="H" name="Powell,Micah"></p_tk>
+   </play>
+   <drivestart poss="V,V22,04:37" vh="V" spot="V22" clock="04:37" driveindex="30,213"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU22" context="V,1,10,V22" playid="30,1,214" clock="04:37" text="WESTERN CAROLINA drive start at 04:37." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU22" context="V,1,10,V22" playid="30,2,215" type="R" form="SH" text="[SH], Dion Wilson rush for 5 yards to the WCU27 (Nichter,Colt;Stokes,John)." newcontext="V,2,5,V27">
+    <p_ru vh="V" name="Dion Wilson" gain="5"></p_ru>
+    <p_tk vh="H" name="Nichter,Colt" assist="Y"></p_tk>
+    <p_tk vh="H" name="Stokes,John" assist="Y"></p_tk>
+   </play>
+   <play hasball="WCU" down="2" togo="5" spot="WCU27" context="V,2,5,V27" playid="30,3,216" type="P" turnover="I" text="Jonathan Efird pass intercepted by Samuels,Eric at the WCU35, Samuels,Eric return 19 yards to the WCU16 (Teddy Rhoney)." newcontext="H,1,10,V16">
+    <p_pa vh="V" qb="Jonathan Efird" result="INT"></p_pa>
+    <p_ir vh="H" name="Samuels,Eric" at="V35" gain="19"></p_ir>
+    <p_tk vh="V" name="Teddy Rhoney"></p_tk>
+   </play>
+   <drivesum plays="2" yards="5" top="1:01" driveindex="30" complete="Y"></drivesum>
+   <drivestart poss="H,V16,04:37" vh="H" spot="V16" clock="04:37" driveindex="31,216"></drivestart>
+   <play hasball="VU" down="1" togo="10" spot="WCU16" context="H,1,10,V16" playid="31,1,217" clock="03:36" text="VANDERBILT drive start at 03:36." newcontext="H,1,10,V16">
+   </play>
+   <play hasball="VU" down="1" togo="10" spot="WCU16" context="H,1,10,V16" playid="31,2,218" type="R" text="Miller,Gaston rush for loss of 2 yards to the WCU18 (J. Okwudiri)." newcontext="H,2,12,V18">
+    <p_ru vh="H" name="Miller,Gaston" gain="-2"></p_ru>
+    <p_tk vh="V" name="J. Okwudiri" tfl="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="2" togo="12" spot="WCU18" context="H,2,12,V18" playid="31,3,219" type="R" text="Miller,Gaston rush for 4 yards to the WCU14 (Brandon Vaught), PENALTY VU holding (Tate,Wesley) 10 yards to the WCU24." newcontext="H,2,18,V24">
+    <p_ru vh="H" name="Miller,Gaston" gain="4"></p_ru>
+    <p_tk vh="V" name="Brandon Vaught"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="Tate,Wesley" result="ACCEPT" at="V14" yards="10"></p_pn>
+   </play>
+   <play hasball="VU" down="2" togo="18" spot="WCU24" context="H,2,18,V24" playid="31,4,220" text="2nd and 18." newcontext="H,2,18,V24">
+   </play>
+   <play hasball="VU" down="2" togo="18" spot="WCU24" context="H,2,18,V24" playid="31,5,221" type="R" text="Miller,Gaston rush for 8 yards to the WCU16 (Brandon Vaught)." newcontext="H,3,10,V16">
+    <p_ru vh="H" name="Miller,Gaston" gain="8"></p_ru>
+    <p_tk vh="V" name="Brandon Vaught"></p_tk>
+   </play>
+   <play hasball="VU" down="3" togo="10" spot="WCU16" context="H,3,10,V16" playid="31,6,222" type="R" form="SH" text="[SH], Miller,Gaston rush for 8 yards to the WCU8 (Brandon Vaught;Ricky Schwarz)." newcontext="H,4,2,V08">
+    <p_ru vh="H" name="Miller,Gaston" gain="8"></p_ru>
+    <p_tk vh="V" name="Brandon Vaught" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ricky Schwarz" assist="Y"></p_tk>
+   </play>
+   <play hasball="VU" down="4" togo="2" spot="WCU08" context="H,4,2,V08" playid="31,7,223" type="#" clock="00:59" text="Timeout Vanderbilt, clock 00:59." newcontext="H,4,2,V08">
+    <p_to vh="H" team="Vanderbilt"></p_to>
+   </play>
+   <play hasball="VU" down="4" togo="2" spot="WCU08" context="H,4,2,V08" playid="31,8,224" type="F" score="Y" clock="00:54" text="Fowler,Ryan field goal attempt from 25 GOOD, clock 00:54." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Fowler,Ryan" distance="25" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="45"></score>
+   <drivesum plays="5" yards="8" top="2:42" driveindex="31" complete="Y"></drivesum>
+   <play hasball="VU" down="1" togo="0" spot="VU30" context="H,1,0,H30" playid="31,9,225" type="K" text="Laughrey,John kickoff 58 yards to the WCU12, G. Richardson return 10 yards to the WCU22 (Baggerley,Bo)." newcontext="V,1,10,V22">
+    <p_ko vh="H" name="Laughrey,John" gain="58"></p_ko>
+    <p_kr vh="V" name="G. Richardson" gain="10"></p_kr>
+    <p_tk vh="H" name="Baggerley,Bo"></p_tk>
+   </play>
+   <drivestart poss="V,V22,00:54" vh="V" spot="V22" clock="00:54" driveindex="32,225"></drivestart>
+   <play hasball="WCU" down="1" togo="10" spot="WCU22" context="V,1,10,V22" playid="32,1,226" clock="00:54" text="WESTERN CAROLINA drive start at 00:54." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="WCU" down="1" togo="10" spot="WCU22" context="V,1,10,V22" playid="32,2,227" type="R" text="Jayson Williams rush for 1 yard to the WCU23 (Foster,Eddie)." newcontext="V,2,9,V23">
+    <p_ru vh="V" name="Jayson Williams" gain="1"></p_ru>
+    <p_tk vh="H" name="Foster,Eddie"></p_tk>
+   </play>
+   <play hasball="WCU" down="2" togo="9" spot="WCU23" context="V,2,9,V23" playid="32,3,228" type="R" text="Jayson Williams rush for 3 yards to the WCU26 (Nichter,Colt)." newcontext="V,3,6,V26">
+    <p_ru vh="V" name="Jayson Williams" gain="3"></p_ru>
+    <p_tk vh="H" name="Nichter,Colt"></p_tk>
+   </play>
+   <play hasball="WCU" down="3" togo="6" spot="WCU26" context="V,3,6,V26" playid="32,4,229" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="V,3,6,V26">
+   </play>
+   <drivesum plays="2" yards="4" top="0:54" driveindex="32" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Vanderbilt defeats Western Carolina by a score of 45 to 0."></play>
+   <score final="Y" V="0" H="45"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="WCU">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="2" lost="1"></fumbles>
+    <misc yds="0" top="04:31"></misc>
+    <rush att="4" yds="13" gain="13" loss="0" td="0" long="0"></rush>
+    <pass comp="3" att="5" int="1" yds="16" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="16" td="0" long="0"></rcv>
+    <punt no="2" yds="82" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="41.0"></punt>
+    <defense tackua="17" tacka="12" tot_tack="29" tflua="3" tfla="0" tflyds="7" sacks="1" sackyds="6"></defense>
+    <kr no="3" yds="44" td="0" long="0"></kr>
+    <fumbles no="2" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="VU">
+    <firstdowns no="8" rush="7" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="19"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:29"></misc>
+    <rush att="22" yds="143" gain="150" loss="7" td="2" long="0"></rush>
+    <pass comp="2" att="4" int="0" yds="23" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="23" td="0" long="0"></rcv>
+    <punt no="1" yds="37" long="0" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="37.0"></punt>
+    <ko no="3" yds="184" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="25" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="7" tacka="4" tot_tack="11" sacks="3" sackyds="23" brup="1" ff="2" fr="1" fryds="0" int="1" intyds="19"></defense>
+    <pr no="1" yds="-1" td="0" long="0"></pr>
+    <ir no="1" yds="19" td="0" long="19"></ir>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="WCU" down="3" togo="6" spot="WCU26" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="1" htor="2" dtgtext="Game Over" ldtext="Drive started: 00:54, 4th Qtr"></downtogo>
+ </plays>

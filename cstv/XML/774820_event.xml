@@ -1,0 +1,1004 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="CC" down="1" togo="10" spot="CC30" context="V,1,10,V30" playid="0,1,0" text="Coin Toss won by FSU defer to second half." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC30" context="V,1,10,V30" playid="0,2,1" text="Change of possession, FSU ball on FSU30, 1st and 10." newcontext="H,1,10,H30">
+   </play>
+   <drivestart poss="H,H30,15:00" vh="H" spot="H30" clock="15:00" driveindex="1,1"></drivestart>
+   <drivesum plays="0" yards="0" top="0:02" driveindex="1" complete="Y"></drivesum>
+   <play hasball="FSU" down="1" togo="10" spot="FSU30" context="H,1,10,H30" playid="1,1,2" type="K" text="TURNER, Austin kickoff 57 yards to the CC13, downed." newcontext="V,1,10,V13">
+    <p_ko vh="H" name="TURNER, Austin" gain="57"></p_ko>
+   </play>
+   <drivestart poss="V,V13,15:00" vh="V" spot="V13" clock="15:00" driveindex="2,2"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="CC13" context="V,1,10,V13" playid="2,1,3" clock="14:58" text="CATAWBA COLLEGE drive start at 14:58." newcontext="V,1,10,V13">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC13" context="V,1,10,V13" playid="2,2,4" type="R" first="R" text="HALL, Antonio rush for 32 yards to the CC45, 1ST DOWN CC (WILKINS,Joshua)." newcontext="V,1,10,V45">
+    <p_ru vh="V" name="HALL, Antonio" gain="32"></p_ru>
+    <p_tk vh="H" name="WILKINS,Joshua"></p_tk>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC45" context="V,1,10,V45" playid="2,3,5" type="R" text="HALL, Antonio rush for no gain to the CC45 (WALKER, Kavariu)." newcontext="V,2,10,V45">
+    <p_ru vh="V" name="HALL, Antonio" gain="0"></p_ru>
+    <p_tk vh="H" name="WALKER, Kavariu"></p_tk>
+   </play>
+   <play hasball="CC" down="2" togo="10" spot="CC45" context="V,2,10,V45" playid="2,4,6" type="E" first="E" text="SEXTON, Cameron pass complete to LANDRUM, Travis for 9 yards to the FSU46 (WILKINS,Joshua), PENALTY FSU roughing passer 24 yards to the FSU31, 1ST DOWN CC, NO PLAY." newcontext="V,1,10,H31">
+    <p_pn vh="H" code="RP" type="roughing passer" result="ACCEPT" at="V45" yards="24"></p_pn>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU31" context="V,1,10,H31" playid="2,5,7" type="R" text="HALL, Antonio rush for 3 yards to the FSU28 (JOHNSON,Diamond;ESQUIVEL,Marcos)." newcontext="V,2,7,H28">
+    <p_ru vh="V" name="HALL, Antonio" gain="3"></p_ru>
+    <p_tk vh="H" name="JOHNSON,Diamond" assist="Y"></p_tk>
+    <p_tk vh="H" name="ESQUIVEL,Marcos" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="2" togo="7" spot="FSU28" context="V,2,7,H28" playid="2,6,8" type="P" text="DENNIS, Patrick sacked for loss of 10 yards to the FSU38 (CORBETT,Ameer)." newcontext="V,3,17,H38">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="SACK" gain="-10"></p_pa>
+    <p_tk vh="H" name="CORBETT,Ameer" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="3" togo="17" spot="FSU38" context="V,3,17,H38" playid="2,7,9" type="P" text="DENNIS, Patrick pass incomplete to BUNN, Brandon (GOWDY, Jeffery)." newcontext="V,4,17,H38">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INC" rcv="BUNN, Brandon"></p_pa>
+    <p_bu vh="H" name="GOWDY, Jeffery"></p_bu>
+   </play>
+   <play hasball="CC" down="4" togo="17" spot="FSU38" context="V,4,17,H38" playid="2,8,10" type="U" text="BUNN, Brandon punt 38 yards to the FSU0, downed." newcontext="H,1,10,H00">
+    <p_pu vh="V" name="BUNN, Brandon" gain="38"></p_pu>
+   </play>
+   <drivesum plays="5" yards="49" top="3:04" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H00,14:58" vh="H" spot="H00" clock="14:58" driveindex="3,10"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU00" context="H,1,10,H00" playid="3,1,11" clock="11:54" text="FAYETTEVILLE STATE drive start at 11:54." newcontext="H,1,10,H00">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU00" context="H,1,10,H00" playid="3,2,12" text="FSU ball on FSU20." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU20" context="H,1,10,H20" playid="3,3,13" type="R" text="MEDLIN,Richard rush for 5 yards to the FSU25 (HARRIS, Kewone)." newcontext="H,2,5,H25">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="5"></p_ru>
+    <p_tk vh="V" name="HARRIS, Kewone"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="5" spot="FSU25" context="H,2,5,H25" playid="3,4,14" type="R" text="MEDLIN,Richard rush for loss of 5 yards to the FSU20 (SUTTON, Brandon)." newcontext="H,3,10,H20">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="-5"></p_ru>
+    <p_tk vh="V" name="SUTTON, Brandon" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="3" togo="10" spot="FSU20" context="H,3,10,H20" playid="3,5,15" type="P" first="P" text="WILLIAMS, Benja pass complete to DUNN, Barry for 14 yards to the FSU34, 1ST DOWN FSU (McCRAY, LJ;GRAY, Jaspen)." newcontext="H,1,10,H34">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="DUNN, Barry" gain="14"></p_pa>
+    <p_tk vh="V" name="McCRAY, LJ" assist="Y"></p_tk>
+    <p_tk vh="V" name="GRAY, Jaspen" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU34" context="H,1,10,H34" playid="3,6,16" type="R" text="WILLIAMS, Benja rush for loss of 12 yards to the FSU22." newcontext="H,2,22,H22">
+    <p_ru vh="H" name="WILLIAMS, Benja" gain="-12"></p_ru>
+   </play>
+   <play hasball="FSU" down="2" togo="22" spot="FSU22" context="H,2,22,H22" playid="3,7,17" type="R" text="MEDLIN,Richard rush for 5 yards to the FSU27 (HARTSELL, Julia)." newcontext="H,3,17,H27">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="5"></p_ru>
+    <p_tk vh="V" name="HARTSELL, Julia"></p_tk>
+   </play>
+   <play hasball="FSU" down="3" togo="17" spot="FSU27" context="H,3,17,H27" playid="3,8,18" type="E" text="PENALTY FSU false start 5 yards to the FSU22." newcontext="H,3,22,H22">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="H27" yards="5"></p_pn>
+   </play>
+   <play hasball="FSU" down="3" togo="22" spot="FSU22" context="H,3,22,H22" playid="3,9,19" type="P" text="WILLIAMS, Benja sacked for loss of 7 yards to the FSU15 (SUTTON, Brandon;DAVIS, Marqus)." newcontext="H,4,29,H15">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="SACK" gain="-7"></p_pa>
+    <p_tk vh="V" name="SUTTON, Brandon" sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="DAVIS, Marqus" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="4" togo="29" spot="FSU15" context="H,4,29,H15" playid="3,10,20" type="U" text="TURNER, Austin punt 9 yards to the FSU24 (blocked by DAVIS, Marqus)." newcontext="V,1,10,H24">
+    <p_pu vh="H" name="TURNER, Austin" gain="9" blkd="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="-5" top="4:03" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,H24,11:54" vh="V" spot="H24" clock="11:54" driveindex="4,20"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="FSU24" context="V,1,10,H24" playid="4,1,21" clock="07:51" text="CATAWBA COLLEGE drive start at 07:51." newcontext="V,1,10,H24">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU24" context="V,1,10,H24" playid="4,2,22" type="R" text="HALL, Antonio rush for loss of 2 yards to the FSU26 (HARLIN,Daniel;CUNNINGHAM,Jere)." newcontext="V,2,12,H26">
+    <p_ru vh="V" name="HALL, Antonio" gain="-2"></p_ru>
+    <p_tk vh="H" name="HARLIN,Daniel" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="CUNNINGHAM,Jere" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="2" togo="12" spot="FSU26" context="V,2,12,H26" playid="4,3,23" type="P" text="DENNIS, Patrick pass complete to LANDRUM, Travis for 8 yards to the FSU18 (HICKS,John)." newcontext="V,3,4,H18">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="COMP" rcv="LANDRUM, Travis" gain="8"></p_pa>
+    <p_tk vh="H" name="HICKS,John"></p_tk>
+   </play>
+   <play hasball="CC" down="3" togo="4" spot="FSU18" context="V,3,4,H18" playid="4,4,24" type="P" text="DENNIS, Patrick pass incomplete to DOWNS, Grayson (HORTON, Adrian)." newcontext="V,4,4,H18">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INC" rcv="DOWNS, Grayson"></p_pa>
+    <p_bu vh="H" name="HORTON, Adrian"></p_bu>
+   </play>
+   <play hasball="CC" down="4" togo="4" spot="FSU18" context="V,4,4,H18" playid="4,5,25" type="F" clock="06:04" text="TREXLER, Thomas field goal attempt from 28 BLOCKED, recovered by FSU GURLEY,Tyshon at FSU20 spot at FSU20, clock 06:04 (blocked by DIXON,Jamaal)." newcontext="H,1,10,H20">
+    <p_fg vh="V" name="TREXLER, Thomas" distance="28" result="BLOCKED"></p_fg>
+   </play>
+   <drivesum plays="4" yards="6" top="1:47" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="H,H20,06:04" vh="H" spot="H20" clock="06:04" driveindex="5,25"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU20" context="H,1,10,H20" playid="5,1,26" type="P" first="P" text="WILLIAMS, Benja pass complete to DUNN, Barry for 21 yards to the FSU41, 1ST DOWN FSU, out-of-bounds." ob="Y" newcontext="H,1,10,H41">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="DUNN, Barry" gain="21"></p_pa>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU41" context="H,1,10,H41" playid="5,2,27" type="R" text="MEDLIN,Richard rush for no gain to the FSU41 (SAMOLU, Julian;JOHNSON, Corey)." newcontext="H,2,10,H41">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="0"></p_ru>
+    <p_tk vh="V" name="SAMOLU, Julian" assist="Y"></p_tk>
+    <p_tk vh="V" name="JOHNSON, Corey" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="10" spot="FSU41" context="H,2,10,H41" playid="5,3,28" type="P" first="P" text="WILLIAMS, Benja pass complete to WILDER,Bobby for 39 yards to the CC20, 1ST DOWN FSU (McCRAY, LJ)." newcontext="H,1,10,V20">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="WILDER,Bobby" gain="39"></p_pa>
+    <p_tk vh="V" name="McCRAY, LJ"></p_tk>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC20" context="H,1,10,V20" playid="5,4,29" type="R" text="MEDLIN,Richard rush for 4 yards to the CC16 (HARRIS, Kewone;JOHNSON, Corey)." newcontext="H,2,6,V16">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="4"></p_ru>
+    <p_tk vh="V" name="HARRIS, Kewone" assist="Y"></p_tk>
+    <p_tk vh="V" name="JOHNSON, Corey" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="6" spot="CC16" context="H,2,6,V16" playid="5,5,30" type="P" first="P" text="WILLIAMS, Benja pass complete to GURLEY,Tyshon for 7 yards to the CC9, 1ST DOWN FSU (HARRIS, Kewone)." newcontext="H,1,0,V09">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="GURLEY,Tyshon" gain="7"></p_pa>
+    <p_tk vh="V" name="HARRIS, Kewone"></p_tk>
+   </play>
+   <play hasball="FSU" down="1" togo="0" spot="CC09" context="H,1,0,V09" playid="5,6,31" type="R" score="Y" clock="03:51" text="MEDLIN,Richard rush for 9 yards to the CC0, TOUCHDOWN, clock 03:51." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="9"></p_ru>
+   </play>
+   <play hasball="FSU" down="1" togo="0" spot="CC03" context="H,1,0,V03" playid="5,7,32" type="X" score="Y" text="TURNER, Austin kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="TURNER, Austin" qb="TURNER, Austin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="6" yards="80" top="2:13" driveindex="5" complete="Y"></drivesum>
+   <play hasball="FSU" down="1" togo="0" spot="FSU30" context="H,1,0,H30" playid="5,8,33" type="K" text="TURNER, Austin kickoff 68 yards to the CC2, HALL, Antonio return 16 yards to the CC18 (WILKINS,Joshua)." newcontext="V,1,10,V18">
+    <p_ko vh="H" name="TURNER, Austin" gain="68"></p_ko>
+    <p_kr vh="V" name="HALL, Antonio" gain="16"></p_kr>
+    <p_tk vh="H" name="WILKINS,Joshua"></p_tk>
+   </play>
+   <drivestart poss="V,V18,03:51" vh="V" spot="V18" clock="03:51" driveindex="6,33"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="CC18" context="V,1,10,V18" playid="6,1,34" clock="03:43" text="CATAWBA COLLEGE drive start at 03:43." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC18" context="V,1,10,V18" playid="6,2,35" type="R" text="WRIGHT, Josh rush for 5 yards to the CC23 (GOWDY, Jeffery)." newcontext="V,2,5,V23">
+    <p_ru vh="V" name="WRIGHT, Josh" gain="5"></p_ru>
+    <p_tk vh="H" name="GOWDY, Jeffery"></p_tk>
+   </play>
+   <play hasball="CC" down="2" togo="5" spot="CC23" context="V,2,5,V23" playid="6,3,36" type="R" first="R" text="DENNIS, Patrick rush for 5 yards to the CC28, 1ST DOWN CC." newcontext="V,1,10,V28">
+    <p_ru vh="V" name="DENNIS, Patrick" gain="5"></p_ru>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC28" context="V,1,10,V28" playid="6,4,37" type="P" first="P" text="DENNIS, Patrick pass complete to DOWNS, Grayson for 14 yards to the CC42, 1ST DOWN CC." newcontext="V,1,10,V42">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="COMP" rcv="DOWNS, Grayson" gain="14"></p_pa>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC42" context="V,1,10,V42" playid="6,5,38" type="P" text="DENNIS, Patrick pass incomplete to BUNN, Brandon (HICKS,John)." newcontext="V,2,10,V42">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INC" rcv="BUNN, Brandon"></p_pa>
+    <p_bu vh="H" name="HICKS,John"></p_bu>
+   </play>
+   <play hasball="CC" down="2" togo="10" spot="CC42" context="V,2,10,V42" playid="6,6,39" type="P" turnover="I" text="DENNIS, Patrick pass intercepted by GOWDY, Jeffery at the FSU18, GOWDY, Jeffery return 0 yards to the FSU18." newcontext="H,1,10,H18">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INT"></p_pa>
+    <p_ir vh="H" name="GOWDY, Jeffery" at="H18" gain="0"></p_ir>
+   </play>
+   <drivesum plays="5" yards="24" top="2:08" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H18,03:43" vh="H" spot="H18" clock="03:43" driveindex="7,39"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU18" context="H,1,10,H18" playid="7,1,40" clock="01:35" text="FAYETTEVILLE STATE drive start at 01:35." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU18" context="H,1,10,H18" playid="7,2,41" type="R" first="R" text="WILDER,Bobby rush for 16 yards to the FSU34, 1ST DOWN FSU, out-of-bounds (PERRY, Lakeem)." ob="Y" newcontext="H,1,10,H34">
+    <p_ru vh="H" name="WILDER,Bobby" gain="16"></p_ru>
+    <p_tk vh="V" name="PERRY, Lakeem"></p_tk>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU34" context="H,1,10,H34" playid="7,3,42" type="R" text="MEDLIN,Richard rush for 1 yard to the FSU35 (JOHNSON, Corey)." newcontext="H,2,9,H35">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="1"></p_ru>
+    <p_tk vh="V" name="JOHNSON, Corey"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="9" spot="FSU35" context="H,2,9,H35" playid="7,4,43" type="P" score="Y" turnover="I" clock="00:14" text="WILLIAMS, Benja pass intercepted by HARTSELL, Julia at the FSU25, HARTSELL, Julia return 25 yards to the FSU0, TOUCHDOWN, clock 00:14." newcontext="V,1,0,H03">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="INT"></p_pa>
+    <p_ir vh="V" name="HARTSELL, Julia" at="H25" gain="25"></p_ir>
+   </play>
+   <drivesum plays="3" yards="17" top="1:21" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="V,H03,00:14" vh="V" spot="H03" clock="00:14" driveindex="8,43"></drivestart>
+   <play hasball="CC" down="1" togo="0" spot="FSU03" context="V,1,0,H03" playid="8,1,44" type="X" score="Y" text="TREXLER, Thomas kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="TREXLER, Thomas" qb="TREXLER, Thomas" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="7"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="8" complete="Y"></drivesum>
+   <play hasball="CC" down="1" togo="0" spot="CC30" context="V,1,0,V30" playid="8,2,45" type="K" text="TREXLER, Thomas kickoff 55 yards to the FSU15, LEWIS,Robert return 30 yards to the FSU45 (FAIR, Melquan)." newcontext="H,1,10,H45">
+    <p_ko vh="V" name="TREXLER, Thomas" gain="55"></p_ko>
+    <p_kr vh="H" name="LEWIS,Robert" gain="30"></p_kr>
+    <p_tk vh="V" name="FAIR, Melquan"></p_tk>
+   </play>
+   <drivestart poss="H,H45,00:14" vh="H" spot="H45" clock="00:14" driveindex="9,45"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU45" context="H,1,10,H45" playid="9,1,46" clock="00:06" text="FAYETTEVILLE STATE drive start at 00:06." newcontext="H,1,10,H45">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU45" context="H,1,10,H45" playid="9,2,47" type="P" first="P" text="WILLIAMS, Benja pass complete to WILDER,Bobby for 10 yards to the CC45, 1ST DOWN FSU (JOHNSON, Corey;GRAY, Jaspen)." newcontext="H,1,10,V45">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="WILDER,Bobby" gain="10"></p_pa>
+    <p_tk vh="V" name="JOHNSON, Corey" assist="Y"></p_tk>
+    <p_tk vh="V" name="GRAY, Jaspen" assist="Y"></p_tk>
+   </play>
+   <score qtr="1" V="7" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CC">
+    <firstdowns no="4" rush="2" pass="1" penalty="1"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:09"></misc>
+    <rush att="7" yds="33" gain="45" loss="12" td="0" long="32"></rush>
+    <pass comp="2" att="6" int="1" yds="22" td="0" long="14" sacks="1" sackyds="10"></pass>
+    <rcv no="2" yds="22" td="0" long="14"></rcv>
+    <punt no="1" yds="38" long="38" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="38.0"></punt>
+    <ko no="1" yds="55" ob="0" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="1"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="10" tot_tack="18" tflua="3" tfla="0" tflyds="19" sacks="1" sackyds="7" blkd="1" int="1" intyds="25"></defense>
+    <kr no="1" yds="16" td="0" long="16"></kr>
+    <ir no="1" yds="25" td="1" long="25"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="FSU">
+    <firstdowns no="6" rush="1" pass="5" penalty="0"></firstdowns>
+    <penalties no="2" yds="29"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="2" top="07:51"></misc>
+    <rush att="10" yds="16" gain="40" loss="24" td="1" long="16"></rush>
+    <pass comp="5" att="6" int="1" yds="91" td="0" long="39" sacks="1" sackyds="7"></pass>
+    <rcv no="5" yds="91" td="0" long="39"></rcv>
+    <punt no="1" yds="9" long="9" blkd="1" tb="0" fc="0" plus50="0" inside20="0" avg="9.0"></punt>
+    <ko no="2" yds="125" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="6" tacka="4" tot_tack="10" tflua="3" tfla="0" tflyds="14" sacks="1" sackyds="10" brup="3" blkd="1" int="1" intyds="0"></defense>
+    <kr no="1" yds="30" td="0" long="30"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="FSU" down="1" togo="10" spot="CC45" context="H,1,10,V45" playid="9,3,48" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,1,10,V45">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC45" context="H,1,10,V45" playid="9,4,49" type="R" text="MEDLIN,Richard rush for no gain to the CC45 (WEEDON, Brandon;DAVIS, Marqus)." newcontext="H,2,10,V45">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="0"></p_ru>
+    <p_tk vh="V" name="WEEDON, Brandon" assist="Y"></p_tk>
+    <p_tk vh="V" name="DAVIS, Marqus" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="10" spot="CC45" context="H,2,10,V45" playid="9,5,50" type="R" text="MEDLIN,Richard rush for 3 yards to the CC42 (SUTTON, Brandon;PERRY, Lakeem)." newcontext="H,3,7,V42">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="3"></p_ru>
+    <p_tk vh="V" name="SUTTON, Brandon" assist="Y"></p_tk>
+    <p_tk vh="V" name="PERRY, Lakeem" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="3" togo="7" spot="CC42" context="H,3,7,V42" playid="9,6,51" type="R" text="MEDLIN,Richard rush for no gain to the CC42 (SUTTON, Brandon;PERRY, Lakeem), PENALTY FSU illegal block 10 yards to the FSU48." newcontext="H,3,17,H48">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="0"></p_ru>
+    <p_tk vh="V" name="SUTTON, Brandon" assist="Y"></p_tk>
+    <p_tk vh="V" name="PERRY, Lakeem" assist="Y"></p_tk>
+    <p_pn vh="H" code="BL" type="illegal block" result="ACCEPT" at="V42" yards="10"></p_pn>
+   </play>
+   <play hasball="FSU" down="3" togo="17" spot="FSU48" context="H,3,17,H48" playid="9,7,52" text="2nd and 18." newcontext="H,2,18,H48">
+   </play>
+   <play hasball="FSU" down="2" togo="18" spot="FSU48" context="H,2,18,H48" playid="9,8,53" type="R" text="HARRIS, Calvin rush for 2 yards to the 50 yardline (SUTTON, Brandon;SAMOLU, Julian)." newcontext="H,3,16,H50">
+    <p_ru vh="H" name="HARRIS, Calvin" gain="2"></p_ru>
+    <p_tk vh="V" name="SUTTON, Brandon" assist="Y"></p_tk>
+    <p_tk vh="V" name="SAMOLU, Julian" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="3" togo="16" spot="FSU50" context="H,3,16,H50" playid="9,9,54" type="P" text="WILLIAMS, Benja sacked for loss of 11 yards to the FSU39 (PERRY, Lakeem)." newcontext="H,4,27,H39">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="SACK" gain="-11"></p_pa>
+    <p_tk vh="V" name="PERRY, Lakeem" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="4" togo="27" spot="FSU39" context="H,4,27,H39" playid="9,10,55" type="U" text="TURNER, Austin punt 39 yards to the CC22, downed." newcontext="V,1,10,V22">
+    <p_pu vh="H" name="TURNER, Austin" gain="39"></p_pu>
+   </play>
+   <drivesum plays="6" yards="-6" top="2:41" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V22,15:00" vh="V" spot="V22" clock="15:00" driveindex="10,55"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="CC22" context="V,1,10,V22" playid="10,1,56" clock="12:25" text="CATAWBA COLLEGE drive start at 12:25." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC22" context="V,1,10,V22" playid="10,2,57" type="R" text="HALL, Antonio rush for 1 yard to the CC23 (BROWN,Joseph)." newcontext="V,2,9,V23">
+    <p_ru vh="V" name="HALL, Antonio" gain="1"></p_ru>
+    <p_tk vh="H" name="BROWN,Joseph"></p_tk>
+   </play>
+   <play hasball="CC" down="2" togo="9" spot="CC23" context="V,2,9,V23" playid="10,3,58" type="R" text="HALL, Antonio rush for 5 yards to the CC28 (SUMMERVILLE, G.)." newcontext="V,3,4,V28">
+    <p_ru vh="V" name="HALL, Antonio" gain="5"></p_ru>
+    <p_tk vh="H" name="SUMMERVILLE, G."></p_tk>
+   </play>
+   <play hasball="CC" down="3" togo="4" spot="CC28" context="V,3,4,V28" playid="10,4,59" type="#" clock="10:57" text="Timeout Catawba College, clock 10:57." newcontext="V,3,4,V28">
+    <p_to vh="V" team="Catawba College"></p_to>
+   </play>
+   <play hasball="CC" down="3" togo="4" spot="CC28" context="V,3,4,V28" playid="10,5,60" type="P" text="DENNIS, Patrick pass complete to MORMAN, Eric for 3 yards to the CC31 (SUMMERVILLE, G.)." newcontext="V,4,1,V31">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="COMP" rcv="MORMAN, Eric" gain="3"></p_pa>
+    <p_tk vh="H" name="SUMMERVILLE, G."></p_tk>
+   </play>
+   <play hasball="CC" down="4" togo="1" spot="CC31" context="V,4,1,V31" playid="10,6,61" type="U" text="McCANNA, Colby punt -10 yards to the CC21 (blocked by ATKINSON, Gerar)." newcontext="H,1,10,V21">
+    <p_pu vh="V" name="McCANNA, Colby" gain="-10" blkd="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="2:29" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,V21,10:57" vh="H" spot="V21" clock="10:57" driveindex="11,61"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="CC21" context="H,1,10,V21" playid="11,1,62" clock="09:56" text="FAYETTEVILLE STATE drive start at 09:56." newcontext="H,1,10,V21">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC21" context="H,1,10,V21" playid="11,2,63" type="E" text="MEDLIN,Richard rush for loss of 11 yards to the CC32 (FAIR, Melquan), PENALTY FSU holding 21 yards to the CC42, NO PLAY." newcontext="H,1,31,V42">
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="V21" yards="21"></p_pn>
+   </play>
+   <play hasball="FSU" down="1" togo="31" spot="CC42" context="H,1,31,V42" playid="11,3,64" type="R" text="HARRIS, Calvin rush for loss of 1 yard to the CC43 (PERRY, Lakeem;SAMOLU, Julian)." newcontext="H,2,32,V43">
+    <p_ru vh="H" name="HARRIS, Calvin" gain="-1"></p_ru>
+    <p_tk vh="V" name="PERRY, Lakeem" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="SAMOLU, Julian" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="32" spot="CC43" context="H,2,32,V43" playid="11,4,65" type="P" text="WILLIAMS, Benja pass complete to DOE,Kendon for 5 yards to the CC38." newcontext="H,3,27,V38">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="DOE,Kendon" gain="5"></p_pa>
+   </play>
+   <play hasball="FSU" down="3" togo="27" spot="CC38" context="H,3,27,V38" playid="11,5,66" type="P" text="WILLIAMS, Benja pass complete to DOE,Kendon for 5 yards to the CC33." newcontext="H,4,22,V33">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="DOE,Kendon" gain="5"></p_pa>
+   </play>
+   <play hasball="FSU" down="4" togo="22" spot="CC33" context="H,4,22,V33" playid="11,6,67" type="P" text="WILLIAMS, Benja pass complete to DOE,Kendon for 5 yards to the CC28 (ROLLE, Jumal;HALL, Calvin), PENALTY CC personal foul 16 yards to the CC12." newcontext="H,4,1,V12">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="DOE,Kendon" gain="5"></p_pa>
+    <p_tk vh="V" name="ROLLE, Jumal" assist="Y"></p_tk>
+    <p_tk vh="V" name="HALL, Calvin" assist="Y"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" result="ACCEPT" at="V28" yards="16"></p_pn>
+   </play>
+   <play hasball="FSU" down="4" togo="1" spot="CC12" context="H,4,1,V12" playid="11,7,68" text="1st and 10." newcontext="H,1,10,V12">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC12" context="H,1,10,V12" playid="11,8,69" type="P" text="WILLIAMS, Benja sacked for no gain to the CC12 (DAVIS, Marqus)." newcontext="H,2,10,V12">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="SACK" gain="0"></p_pa>
+    <p_tk vh="V" name="DAVIS, Marqus" sack="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="10" spot="CC12" context="H,2,10,V12" playid="11,9,70" type="P" text="WILLIAMS, Benja pass complete to COZART, Leamon for loss of 8 yards to the CC20 (SAMOLU, Julian)." newcontext="H,3,18,V20">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="COZART, Leamon" gain="-8"></p_pa>
+    <p_tk vh="V" name="SAMOLU, Julian" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="3" togo="18" spot="CC20" context="H,3,18,V20" playid="11,10,71" type="U" text="TURNER, Austin punt 5 yards to the CC15 (blocked by DAVIS, Marqus)." newcontext="V,1,10,V15">
+    <p_pu vh="H" name="TURNER, Austin" gain="5" in20="Y" blkd="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="1" top="4:41" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,V15,09:56" vh="V" spot="V15" clock="09:56" driveindex="12,71"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="CC15" context="V,1,10,V15" playid="12,1,72" clock="05:15" text="CATAWBA COLLEGE drive start at 05:15." newcontext="V,1,10,V15">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC15" context="V,1,10,V15" playid="12,2,73" type="R" first="R" text="WRIGHT, Josh rush for 19 yards to the CC34, 1ST DOWN CC (ESQUIVEL,Marcos)." newcontext="V,1,10,V34">
+    <p_ru vh="V" name="WRIGHT, Josh" gain="19"></p_ru>
+    <p_tk vh="H" name="ESQUIVEL,Marcos"></p_tk>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC34" context="V,1,10,V34" playid="12,3,74" type="P" first="P" text="DENNIS, Patrick pass complete to BRYANT, Gerron for 12 yards to the CC46, 1ST DOWN CC (GOWDY, Jeffery;SUMMERVILLE, G.)." newcontext="V,1,10,V46">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="COMP" rcv="BRYANT, Gerron" gain="12"></p_pa>
+    <p_tk vh="H" name="GOWDY, Jeffery" assist="Y"></p_tk>
+    <p_tk vh="H" name="SUMMERVILLE, G." assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC46" context="V,1,10,V46" playid="12,4,75" type="R" text="TERWILLIGER, Br rush for 8 yards to the FSU46, PENALTY CC holding 10 yards to the CC44." newcontext="V,1,12,V44">
+    <p_ru vh="V" name="TERWILLIGER, Br" gain="8"></p_ru>
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="H46" yards="10"></p_pn>
+   </play>
+   <play hasball="CC" down="1" togo="12" spot="CC44" context="V,1,12,V44" playid="12,5,76" type="P" text="DENNIS, Patrick pass incomplete to BRYANT, Gerron." newcontext="V,2,12,V44">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INC" rcv="BRYANT, Gerron"></p_pa>
+   </play>
+   <play hasball="CC" down="2" togo="12" spot="CC44" context="V,2,12,V44" playid="12,6,77" type="P" text="DENNIS, Patrick pass complete to LANDRUM, Travis for 8 yards to the FSU48 (HICKS,John)." newcontext="V,3,4,H48">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="COMP" rcv="LANDRUM, Travis" gain="8"></p_pa>
+    <p_tk vh="H" name="HICKS,John"></p_tk>
+   </play>
+   <play hasball="CC" down="3" togo="4" spot="FSU48" context="V,3,4,H48" playid="12,7,78" type="P" first="E" text="DENNIS, Patrick pass incomplete to MORMAN, Eric (WILKINS,Joshua), PENALTY FSU roughing passer (ESQUIVEL,Marcos) 15 yards to the FSU33, 1ST DOWN CC." newcontext="V,1,10,H33">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INC" rcv="MORMAN, Eric"></p_pa>
+    <p_pn vh="H" code="RP" type="roughing passer" name="ESQUIVEL,Marcos" result="ACCEPT" at="H48" yards="15"></p_pn>
+    <p_bu vh="H" name="WILKINS,Joshua"></p_bu>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU33" context="V,1,10,H33" playid="12,8,79" type="#" clock="03:29" text="Timeout Catawba College, clock 03:29." newcontext="V,1,10,H33">
+    <p_to vh="V" team="Catawba College"></p_to>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU33" context="V,1,10,H33" playid="12,9,80" text="1st and 10." newcontext="V,1,10,H33">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU33" context="V,1,10,H33" playid="12,10,81" type="P" text="DENNIS, Patrick pass incomplete to BRYANT, Gerron." newcontext="V,2,10,H33">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INC" rcv="BRYANT, Gerron"></p_pa>
+   </play>
+   <play hasball="CC" down="2" togo="10" spot="FSU33" context="V,2,10,H33" playid="12,11,82" type="R" text="WRIGHT, Josh rush for 6 yards to the FSU27 (ESQUIVEL,Marcos;BROWN,Joseph)." newcontext="V,3,4,H27">
+    <p_ru vh="V" name="WRIGHT, Josh" gain="6"></p_ru>
+    <p_tk vh="H" name="ESQUIVEL,Marcos" assist="Y"></p_tk>
+    <p_tk vh="H" name="BROWN,Joseph" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="3" togo="4" spot="FSU27" context="V,3,4,H27" playid="12,12,83" type="P" text="DENNIS, Patrick sacked for loss of 6 yards to the FSU33 (BROWN,Joseph)." newcontext="V,4,10,H33">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="H" name="BROWN,Joseph" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="4" togo="10" spot="FSU33" context="V,4,10,H33" playid="12,13,84" type="P" text="DENNIS, Patrick pass incomplete to LANDRUM, Travis." newcontext="H,1,10,H33">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INC" rcv="LANDRUM, Travis"></p_pa>
+   </play>
+   <drivesum plays="10" yards="52" top="3:35" driveindex="12" complete="Y"></drivesum>
+   <drivestart poss="H,H33,03:29" vh="H" spot="H33" clock="03:29" driveindex="13,84"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU33" context="H,1,10,H33" playid="13,1,85" clock="01:40" text="FAYETTEVILLE STATE drive start at 01:40." newcontext="H,1,10,H33">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU33" context="H,1,10,H33" playid="13,2,86" type="P" first="P" text="WILLIAMS, Benja pass complete to DOE,Kendon for 15 yards to the FSU48, 1ST DOWN FSU, out-of-bounds (McCRAY, LJ)." ob="Y" newcontext="H,1,10,H48">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="DOE,Kendon" gain="15"></p_pa>
+    <p_tk vh="V" name="McCRAY, LJ"></p_tk>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU48" context="H,1,10,H48" playid="13,3,87" type="E" text="WILLIAMS, Benja rush for loss of 10 yards to the FSU38 (PORTER, Terrenc), PENALTY FSU holding 10 yards to the FSU38, NO PLAY." newcontext="H,1,20,H38">
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="H48" yards="10"></p_pn>
+   </play>
+   <play hasball="FSU" down="1" togo="20" spot="FSU38" context="H,1,20,H38" playid="13,4,88" type="P" first="P" text="WILLIAMS, Benja pass complete to MEDLIN,Richard for 33 yards to the CC29, 1ST DOWN FSU, out-of-bounds (GRAY, Jaspen)." ob="Y" newcontext="H,1,10,V29">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="MEDLIN,Richard" gain="33"></p_pa>
+    <p_tk vh="V" name="GRAY, Jaspen"></p_tk>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC29" context="H,1,10,V29" playid="13,5,89" type="P" first="P" text="WILLIAMS, Benja pass complete to MEDLIN,Richard for 14 yards to the CC15, 1ST DOWN FSU." newcontext="H,1,10,V15">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="MEDLIN,Richard" gain="14"></p_pa>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC15" context="H,1,10,V15" playid="13,6,90" type="R" text="MEDLIN,Richard rush for loss of 15 yards to the CC30 (SUTTON, Brandon)." newcontext="H,2,25,V30">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="-15"></p_ru>
+    <p_tk vh="V" name="SUTTON, Brandon" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="25" spot="CC30" context="H,2,25,V30" playid="13,7,91" type="#" clock="00:41" text="Timeout Fayetteville State, clock 00:41." newcontext="H,2,25,V30">
+    <p_to vh="H" team="Fayetteville State"></p_to>
+   </play>
+   <play hasball="FSU" down="2" togo="25" spot="CC30" context="H,2,25,V30" playid="13,8,92" type="P" text="WILLIAMS, Benja pass incomplete to MEDLIN,Richard." newcontext="H,3,25,V30">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="INC" rcv="MEDLIN,Richard"></p_pa>
+   </play>
+   <play hasball="FSU" down="3" togo="25" spot="CC30" context="H,3,25,V30" playid="13,9,93" type="P" text="WILLIAMS, Benja pass incomplete to DOE,Kendon (SAMOLU, Julian)." newcontext="H,4,25,V30">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="INC" rcv="DOE,Kendon"></p_pa>
+    <p_bu vh="V" name="SAMOLU, Julian"></p_bu>
+   </play>
+   <play hasball="FSU" down="4" togo="25" spot="CC30" context="H,4,25,V30" playid="13,10,94" clock="00:31" text="FAYETTEVILLE STATE drive start at 00:31." newcontext="H,4,25,V30">
+   </play>
+   <play hasball="FSU" down="4" togo="25" spot="CC30" context="H,4,25,V30" playid="13,11,95" type="F" score="Y" clock="00:31" text="TURNER, Austin field goal attempt from 41 GOOD, clock 00:31." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="TURNER, Austin" distance="41" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="7" H="10"></score>
+   <drivesum plays="7" yards="37" top="0:00" driveindex="13" complete="Y"></drivesum>
+   <play hasball="FSU" down="1" togo="0" spot="FSU30" context="H,1,0,H30" playid="13,12,96" type="K" text="TURNER, Austin kickoff 44 yards to the CC26, RAINEY, Aaron return 16 yards to the CC42 (JOHNSON,Diamond)." newcontext="V,1,10,V42">
+    <p_ko vh="H" name="TURNER, Austin" gain="44"></p_ko>
+    <p_kr vh="V" name="RAINEY, Aaron" gain="16"></p_kr>
+    <p_tk vh="H" name="JOHNSON,Diamond"></p_tk>
+   </play>
+   <drivestart poss="V,V42,00:31" vh="V" spot="V42" clock="00:31" driveindex="14,96"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="CC42" context="V,1,10,V42" playid="14,1,97" clock="00:15" text="CATAWBA COLLEGE drive start at 00:15." newcontext="V,1,10,V42">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC42" context="V,1,10,V42" playid="14,2,98" type="P" first="E" text="DENNIS, Patrick pass complete to TERWILLIGER, Br for 3 yards to the CC45, PENALTY FSU personal foul 25 yards to the FSU30, 1ST DOWN CC." newcontext="V,1,10,H30">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="COMP" rcv="TERWILLIGER, Br" gain="3"></p_pa>
+    <p_pn vh="H" code="PF" type="personal foul" result="ACCEPT" at="V45" yards="25"></p_pn>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU30" context="V,1,10,H30" playid="14,3,99" type="P" text="DENNIS, Patrick pass complete to BUNN, Brandon for 9 yards to the FSU21, out-of-bounds." ob="Y" newcontext="V,2,1,H21">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="COMP" rcv="BUNN, Brandon" gain="9"></p_pa>
+   </play>
+   <play hasball="CC" down="2" togo="1" spot="FSU21" context="V,2,1,H21" playid="14,4,100" type="#" clock="00:04" text="Timeout Catawba College, clock 00:04." newcontext="V,2,1,H21">
+    <p_to vh="V" team="Catawba College"></p_to>
+   </play>
+   <play hasball="CC" down="2" togo="1" spot="FSU21" context="V,2,1,H21" playid="14,5,101" type="F" clock="00:04" text="TREXLER, Thomas field goal attempt from 38 MISSED - wide left, spot at FSU21, clock 00:04." newcontext="H,1,10,H21">
+    <p_fg vh="V" name="TREXLER, Thomas" distance="38" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="3" yards="37" top="0:11" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,H21,00:04" vh="H" spot="H21" clock="00:04" driveindex="15,101"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU21" context="H,1,10,H21" playid="15,1,102" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,1,10,H21">
+   </play>
+   <drivesum plays="0" yards="0" top="0:04" driveindex="15" complete="Y"></drivesum>
+   <score qtr="2" V="7" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CC">
+    <firstdowns no="4" rush="1" pass="1" penalty="2"></firstdowns>
+    <penalties no="2" yds="26"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:31"></misc>
+    <rush att="6" yds="33" gain="39" loss="6" td="0" long="0"></rush>
+    <pass comp="5" att="9" int="0" yds="35" td="0" long="0" sacks="1" sackyds="6"></pass>
+    <rcv no="5" yds="35" td="0" long="0"></rcv>
+    <punt no="1" yds="-10" long="0" blkd="1" tb="0" fc="0" plus50="0" inside20="0" avg="-10.0"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="6" tacka="12" tot_tack="18" tflua="5" tfla="0" tflyds="36" sacks="3" sackyds="18" brup="1" blkd="1"></defense>
+    <kr no="1" yds="16" td="0" long="0"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="FSU">
+    <firstdowns no="3" rush="0" pass="3" penalty="0"></firstdowns>
+    <penalties no="5" yds="81"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:20"></misc>
+    <rush att="8" yds="-22" gain="5" loss="27" td="0" long="0"></rush>
+    <pass comp="7" att="9" int="0" yds="69" td="0" long="0" sacks="2" sackyds="11"></pass>
+    <rcv no="7" yds="69" td="0" long="0"></rcv>
+    <punt no="2" yds="44" long="30" blkd="1" tb="0" fc="0" plus50="0" inside20="1" avg="22.0"></punt>
+    <ko no="1" yds="44" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="41" blkd="0"></fg>
+    <defense tackua="7" tacka="4" tot_tack="11" tflua="1" tfla="0" tflyds="6" sacks="2" sackyds="16" brup="1" blkd="1"></defense>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="FSU" down="1" togo="10" spot="FSU21" context="H,1,10,H21" playid="15,2,103" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, CC ball on CC30." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC30" context="V,1,10,V30" playid="15,3,104" type="K" text="TREXLER, Thomas kickoff 65 yards to the FSU5, BELL, Rico return 35 yards to the FSU40 (FLOYD, Scottie;JONES, Terrence)." newcontext="H,1,10,H40">
+    <p_ko vh="V" name="TREXLER, Thomas" gain="65"></p_ko>
+    <p_kr vh="H" name="BELL, Rico" gain="35"></p_kr>
+    <p_tk vh="V" name="FLOYD, Scottie" assist="Y"></p_tk>
+    <p_tk vh="V" name="JONES, Terrence" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H40,15:00" vh="H" spot="H40" clock="15:00" driveindex="16,104"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU40" context="H,1,10,H40" playid="16,1,105" clock="14:51" text="FAYETTEVILLE STATE drive start at 14:51." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU40" context="H,1,10,H40" playid="16,2,106" type="R" text="MEDLIN,Richard rush for loss of 1 yard to the FSU39 (DAVIS, Marqus)." newcontext="H,2,11,H39">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="-1"></p_ru>
+    <p_tk vh="V" name="DAVIS, Marqus" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="11" spot="FSU39" context="H,2,11,H39" playid="16,3,107" type="P" text="WILLIAMS, Benja pass complete to DOE,Kendon for 5 yards to the FSU44 (ROLLE, Jumal)." newcontext="H,3,6,H44">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="DOE,Kendon" gain="5"></p_pa>
+    <p_tk vh="V" name="ROLLE, Jumal"></p_tk>
+   </play>
+   <play hasball="FSU" down="3" togo="6" spot="FSU44" context="H,3,6,H44" playid="16,4,108" type="E" text="WILLIAMS, Benja sacked for loss of 4 yards to the FSU40 (FAIR, Melquan), PENALTY FSU illegal shift declined, NO PLAY." newcontext="H,3,6,H44">
+    <p_pn vh="H" code="SH" type="illegal shift" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="FSU" down="3" togo="6" spot="FSU44" context="H,3,6,H44" playid="16,5,109" type="U" text="TURNER, Austin punt 23 yards to the CC33, downed." newcontext="V,1,10,V33">
+    <p_pu vh="H" name="TURNER, Austin" gain="23"></p_pu>
+   </play>
+   <drivesum plays="2" yards="4" top="1:25" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,V33,14:51" vh="V" spot="V33" clock="14:51" driveindex="17,109"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="CC33" context="V,1,10,V33" playid="17,1,110" clock="13:26" text="CATAWBA COLLEGE drive start at 13:26." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC33" context="V,1,10,V33" playid="17,2,111" type="R" text="HALL, Antonio rush for loss of 1 yard to the CC32 (BROWN,Joseph;WALKER, Kavariu)." newcontext="V,2,11,V32">
+    <p_ru vh="V" name="HALL, Antonio" gain="-1"></p_ru>
+    <p_tk vh="H" name="BROWN,Joseph" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="WALKER, Kavariu" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="2" togo="11" spot="CC32" context="V,2,11,V32" playid="17,3,112" type="P" text="DENNIS, Patrick sacked for loss of 9 yards to the CC23 (CUNNINGHAM,Jere)." newcontext="V,3,20,V23">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="CUNNINGHAM,Jere" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="3" togo="20" spot="CC23" context="V,3,20,V23" playid="17,4,113" type="P" first="P" text="DENNIS, Patrick pass complete to TERWILLIGER, Br for 45 yards to the FSU32, 1ST DOWN CC (LYLES, Andre)." newcontext="V,1,10,H32">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="COMP" rcv="TERWILLIGER, Br" gain="45"></p_pa>
+    <p_tk vh="H" name="LYLES, Andre"></p_tk>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU32" context="V,1,10,H32" playid="17,5,114" type="R" text="HALL, Antonio rush for no gain to the FSU32 (ESQUIVEL,Marcos;BROWN,Joseph)." newcontext="V,2,10,H32">
+    <p_ru vh="V" name="HALL, Antonio" gain="0"></p_ru>
+    <p_tk vh="H" name="ESQUIVEL,Marcos" assist="Y"></p_tk>
+    <p_tk vh="H" name="BROWN,Joseph" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="2" togo="10" spot="FSU32" context="V,2,10,H32" playid="17,6,115" type="#" clock="10:55" text="Timeout Fayetteville State, clock 10:55." newcontext="V,2,10,H32">
+    <p_to vh="H" team="Fayetteville State"></p_to>
+   </play>
+   <play hasball="CC" down="2" togo="10" spot="FSU32" context="V,2,10,H32" playid="17,7,116" type="R" text="HALL, Antonio rush for 5 yards to the FSU27 (HARLIN,Daniel;CUNNINGHAM,Jere)." newcontext="V,3,5,H27">
+    <p_ru vh="V" name="HALL, Antonio" gain="5"></p_ru>
+    <p_tk vh="H" name="HARLIN,Daniel" assist="Y"></p_tk>
+    <p_tk vh="H" name="CUNNINGHAM,Jere" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="3" togo="5" spot="FSU27" context="V,3,5,H27" playid="17,8,117" type="P" first="P" score="Y" clock="10:00" text="DENNIS, Patrick pass complete to BUNN, Brandon for 27 yards to the FSU0, 1ST DOWN CC, TOUCHDOWN, clock 10:00, PENALTY FSU roughing passer 7 yards to the FSU10." newcontext="V,1,3,H10">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="COMP" rcv="BUNN, Brandon" gain="27"></p_pa>
+    <p_pn vh="H" code="RP" type="roughing passer" result="ACCEPT" at="H03" yards="7"></p_pn>
+   </play>
+   <play hasball="CC" down="1" togo="3" spot="FSU10" context="V,1,3,H10" playid="17,9,118" text="1st and 10." newcontext="V,1,0,H10">
+   </play>
+   <play hasball="CC" down="1" togo="0" spot="FSU10" context="V,1,0,H10" playid="17,10,119" type="X" score="Y" text="TREXLER, Thomas kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="TREXLER, Thomas" qb="TREXLER, Thomas" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="10"></score>
+   <play hasball="CC" down="1" togo="0" spot="CC30" context="V,1,0,V30" playid="17,11,120" type="E" text="PENALTY FSU roughing the kicker 20 yards to the 50 yardline." newcontext="V,1,0,V50">
+    <p_pn vh="H" code="RK" type="roughing the kicker" result="ACCEPT" at="V30" yards="20"></p_pn>
+   </play>
+   <drivesum plays="6" yards="67" top="3:26" driveindex="17" complete="Y"></drivesum>
+   <play hasball="CC" down="1" togo="0" spot="CC50" context="V,1,0,V50" playid="17,12,121" type="K" text="TREXLER, Thomas kickoff 40 yards to the FSU10, BELL, Rico return 13 yards to the FSU23 (CROMARTIE, Arth)." newcontext="H,1,10,H23">
+    <p_ko vh="V" name="TREXLER, Thomas" gain="40"></p_ko>
+    <p_kr vh="H" name="BELL, Rico" gain="13"></p_kr>
+    <p_tk vh="V" name="CROMARTIE, Arth"></p_tk>
+   </play>
+   <drivestart poss="H,H23,10:00" vh="H" spot="H23" clock="10:00" driveindex="18,121"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU23" context="H,1,10,H23" playid="18,1,122" clock="09:54" text="FAYETTEVILLE STATE drive start at 09:54." newcontext="H,1,10,H23">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU23" context="H,1,10,H23" playid="18,2,123" type="R" text="MEDLIN,Richard rush for no gain to the FSU23 (DAVIS, Marqus)." newcontext="H,2,10,H23">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="0"></p_ru>
+    <p_tk vh="V" name="DAVIS, Marqus"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="10" spot="FSU23" context="H,2,10,H23" playid="18,3,124" type="R" text="WILDER,Bobby rush for loss of 3 yards to the FSU20 (DAVIS, Marqus)." newcontext="H,3,13,H20">
+    <p_ru vh="H" name="WILDER,Bobby" gain="-3"></p_ru>
+    <p_tk vh="V" name="DAVIS, Marqus" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="3" togo="13" spot="FSU20" context="H,3,13,H20" playid="18,4,125" type="P" text="WILLIAMS, Benja pass incomplete to KESTNER,Dillon." newcontext="H,4,13,H20">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="INC" rcv="KESTNER,Dillon"></p_pa>
+   </play>
+   <play hasball="FSU" down="4" togo="13" spot="FSU20" context="H,4,13,H20" playid="18,5,126" type="U" turnover="F" text="TURNER, Austin punt 35 yards to the CC45, BUNN, Brandon return 0 yards to the CC45, fumble by BUNN, Brandon recovered by FSU CUNNINGHAM,Jere at 50 yardline." newcontext="H,1,10,H50">
+    <p_pu vh="H" name="TURNER, Austin" gain="35"></p_pu>
+    <p_pr vh="V" name="BUNN, Brandon" gain="0"></p_pr>
+    <p_fumb vh="V" name="BUNN, Brandon" at="H50" frvh="H" frname="CUNNINGHAM,Jere"></p_fumb>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:36" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,H50,09:54" vh="H" spot="H50" clock="09:54" driveindex="20,126"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU50" context="H,1,10,H50" playid="20,1,127" clock="08:18" text="FAYETTEVILLE STATE drive start at 08:18." newcontext="H,1,10,H50">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU50" context="H,1,10,H50" playid="20,2,128" type="E" text="PENALTY FSU illegal motion 5 yards to the FSU45." newcontext="H,1,15,H45">
+    <p_pn vh="H" code="MO" type="illegal motion" result="ACCEPT" at="H50" yards="5"></p_pn>
+   </play>
+   <play hasball="FSU" down="1" togo="15" spot="FSU45" context="H,1,15,H45" playid="20,3,129" type="R" text="MEDLIN,Richard rush for 2 yards to the FSU47 (ROLLE, Jumal)." newcontext="H,2,13,H47">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="2"></p_ru>
+    <p_tk vh="V" name="ROLLE, Jumal"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="13" spot="FSU47" context="H,2,13,H47" playid="20,4,130" type="P" text="WILLIAMS, Benja pass complete to DUNN, Barry for 12 yards to the CC41 (JONES, Terrence)." newcontext="H,3,1,V41">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="DUNN, Barry" gain="12"></p_pa>
+    <p_tk vh="V" name="JONES, Terrence"></p_tk>
+   </play>
+   <play hasball="FSU" down="3" togo="1" spot="CC41" context="H,3,1,V41" playid="20,5,131" type="R" first="R" text="MEDLIN,Richard rush for 13 yards to the CC28, 1ST DOWN FSU, out-of-bounds (HALL, Calvin)." ob="Y" newcontext="H,1,10,V28">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="13"></p_ru>
+    <p_tk vh="V" name="HALL, Calvin"></p_tk>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC28" context="H,1,10,V28" playid="20,6,132" type="P" text="WILLIAMS, Benja sacked for loss of 6 yards to the CC34 (FAIR, Melquan)." newcontext="H,2,16,V34">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="V" name="FAIR, Melquan" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="16" spot="CC34" context="H,2,16,V34" playid="20,7,133" type="P" text="WILLIAMS, Benja pass complete to MEDLIN,Richard for 2 yards to the CC32 (FAIR, Melquan)." newcontext="H,3,14,V32">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="MEDLIN,Richard" gain="2"></p_pa>
+    <p_tk vh="V" name="FAIR, Melquan"></p_tk>
+   </play>
+   <play hasball="FSU" down="3" togo="14" spot="CC32" context="H,3,14,V32" playid="20,8,134" type="P" text="WILLIAMS, Benja pass complete to DUNN, Barry for 12 yards to the CC20 (SAMOLU, Julian)." newcontext="H,4,2,V20">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="DUNN, Barry" gain="12"></p_pa>
+    <p_tk vh="V" name="SAMOLU, Julian"></p_tk>
+   </play>
+   <play hasball="FSU" down="4" togo="2" spot="CC20" context="H,4,2,V20" playid="20,9,135" type="E" text="PENALTY FSU delay of game 5 yards to the CC25." newcontext="H,4,7,V25">
+    <p_pn vh="H" code="DG" type="delay of game" result="ACCEPT" at="V20" yards="5"></p_pn>
+   </play>
+   <play hasball="FSU" down="4" togo="7" spot="CC25" context="H,4,7,V25" playid="20,10,136" type="E" text="PENALTY CC sideline interference 5 yards to the CC20." newcontext="H,4,2,V20">
+    <p_pn vh="V" code="SI" type="sideline interference" result="ACCEPT" at="V25" yards="5"></p_pn>
+   </play>
+   <play hasball="FSU" down="4" togo="2" spot="CC20" context="H,4,2,V20" playid="20,11,137" type="F" score="Y" clock="04:27" text="TURNER, Austin field goal attempt from 37 GOOD, clock 04:27." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="TURNER, Austin" distance="37" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="14" H="13"></score>
+   <drivesum plays="7" yards="30" top="3:51" driveindex="20" complete="Y"></drivesum>
+   <play hasball="FSU" down="1" togo="0" spot="FSU30" context="H,1,0,H30" playid="20,12,138" type="K" text="TURNER, Austin kickoff 60 yards to the CC10, BRYANT, Gerron return 22 yards to the CC32 (HICKS,John)." newcontext="V,1,10,V32">
+    <p_ko vh="H" name="TURNER, Austin" gain="60"></p_ko>
+    <p_kr vh="V" name="BRYANT, Gerron" gain="22"></p_kr>
+    <p_tk vh="H" name="HICKS,John"></p_tk>
+   </play>
+   <drivestart poss="V,V32,04:27" vh="V" spot="V32" clock="04:27" driveindex="21,138"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="CC32" context="V,1,10,V32" playid="21,1,139" clock="04:18" text="CATAWBA COLLEGE drive start at 04:18." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC32" context="V,1,10,V32" playid="21,2,140" type="R" first="R" text="HALL, Antonio rush for 33 yards to the FSU35, 1ST DOWN CC (HORTON, Adrian)." newcontext="V,1,10,H35">
+    <p_ru vh="V" name="HALL, Antonio" gain="33"></p_ru>
+    <p_tk vh="H" name="HORTON, Adrian"></p_tk>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU35" context="V,1,10,H35" playid="21,3,141" type="R" text="WRIGHT, Josh rush for 3 yards to the FSU32 (HORTON, Adrian;ESQUIVEL,Marcos)." newcontext="V,2,7,H32">
+    <p_ru vh="V" name="WRIGHT, Josh" gain="3"></p_ru>
+    <p_tk vh="H" name="HORTON, Adrian" assist="Y"></p_tk>
+    <p_tk vh="H" name="ESQUIVEL,Marcos" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="2" togo="7" spot="FSU32" context="V,2,7,H32" playid="21,4,142" type="R" text="WRIGHT, Josh rush for 6 yards to the FSU26 (BROWN,Joseph;WALKER, Kavariu)." newcontext="V,3,1,H26">
+    <p_ru vh="V" name="WRIGHT, Josh" gain="6"></p_ru>
+    <p_tk vh="H" name="BROWN,Joseph" assist="Y"></p_tk>
+    <p_tk vh="H" name="WALKER, Kavariu" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="3" togo="1" spot="FSU26" context="V,3,1,H26" playid="21,5,143" type="R" first="R" text="WRIGHT, Josh rush for 6 yards to the FSU20, 1ST DOWN CC (HORTON, Adrian)." newcontext="V,1,10,H20">
+    <p_ru vh="V" name="WRIGHT, Josh" gain="6"></p_ru>
+    <p_tk vh="H" name="HORTON, Adrian"></p_tk>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU20" context="V,1,10,H20" playid="21,6,144" type="P" text="DENNIS, Patrick pass incomplete to DOWNS, Grayson." newcontext="V,2,10,H20">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INC" rcv="DOWNS, Grayson"></p_pa>
+   </play>
+   <play hasball="CC" down="2" togo="10" spot="FSU20" context="V,2,10,H20" playid="21,7,145" text="QB hurry by BROWN,Joseph." newcontext="V,2,10,H20">
+    <p_qbh vh="H" name="BROWN,Joseph"></p_qbh>
+   </play>
+   <play hasball="CC" down="2" togo="10" spot="FSU20" context="V,2,10,H20" playid="21,8,146" type="E" text="PENALTY CC false start (PRIEST, Michael) 5 yards to the FSU25." newcontext="V,2,15,H25">
+    <p_pn vh="V" code="FS" type="false start" name="PRIEST, Michael" result="ACCEPT" at="H20" yards="5"></p_pn>
+   </play>
+   <play hasball="CC" down="2" togo="15" spot="FSU25" context="V,2,15,H25" playid="21,9,147" type="#" clock="01:52" text="Timeout Catawba College, clock 01:52." newcontext="V,2,15,H25">
+    <p_to vh="V" team="Catawba College"></p_to>
+   </play>
+   <play hasball="CC" down="2" togo="15" spot="FSU25" context="V,2,15,H25" playid="21,10,148" type="P" first="P" score="Y" clock="01:46" text="DENNIS, Patrick pass complete to BUNN, Brandon for 25 yards to the FSU0, 1ST DOWN CC, TOUCHDOWN, clock 01:46." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="COMP" rcv="BUNN, Brandon" gain="25"></p_pa>
+   </play>
+   <play hasball="CC" down="1" togo="0" spot="FSU03" context="V,1,0,H03" playid="21,11,149" type="X" score="Y" text="TREXLER, Thomas kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="TREXLER, Thomas" qb="TREXLER, Thomas" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="13"></score>
+   <drivesum plays="6" yards="68" top="2:32" driveindex="21" complete="Y"></drivesum>
+   <play hasball="CC" down="1" togo="0" spot="CC30" context="V,1,0,V30" playid="21,12,150" type="K" text="TREXLER, Thomas kickoff 58 yards to the FSU12, BELL, Rico return 38 yards to the 50 yardline, out-of-bounds (TREXLER, Thomas)." ob="Y" newcontext="H,1,10,H50">
+    <p_ko vh="V" name="TREXLER, Thomas" gain="58"></p_ko>
+    <p_kr vh="H" name="BELL, Rico" gain="38"></p_kr>
+    <p_tk vh="V" name="TREXLER, Thomas"></p_tk>
+   </play>
+   <drivestart poss="H,H50,01:46" vh="H" spot="H50" clock="01:46" driveindex="22,150"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU50" context="H,1,10,H50" playid="22,1,151" clock="01:36" text="FAYETTEVILLE STATE drive start at 01:36." newcontext="H,1,10,H50">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU50" context="H,1,10,H50" playid="22,2,152" type="E" first="E" text="PENALTY CC personal foul (CROMARTIE, Arth) 15 yards to the CC35, 1ST DOWN FSU." newcontext="H,1,10,V35">
+    <p_pn vh="V" code="PF" type="personal foul" name="CROMARTIE, Arth" result="ACCEPT" at="H50" yards="15"></p_pn>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC35" context="H,1,10,V35" playid="22,3,153" type="P" text="WILLIAMS, Benja pass incomplete to DOE,Kendon, QB hurry by JOHNSON, Corey." newcontext="H,2,10,V35">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="INC" rcv="DOE,Kendon"></p_pa>
+    <p_qbh vh="V" name="JOHNSON, Corey"></p_qbh>
+   </play>
+   <play hasball="FSU" down="2" togo="10" spot="CC35" context="H,2,10,V35" playid="22,4,154" type="P" text="WILLIAMS, Benja sacked for loss of 15 yards to the 50 yardline (PERRY, Lakeem), fumble by WILLIAMS, Benja recovered by FSU MEDLIN,Richard at CC47." newcontext="H,3,22,V47">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="FUMB" gain="-15"></p_pa>
+    <p_fumb vh="H" name="WILLIAMS, Benja" at="V47" frvh="H" frname="MEDLIN,Richard"></p_fumb>
+    <p_tk vh="V" name="PERRY, Lakeem" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="3" togo="22" spot="CC47" context="H,3,22,V47" playid="22,5,155" type="E" text="PENALTY FSU false start (PRIVETTE,Derric) 6 yards to the FSU47." newcontext="H,3,28,H47">
+    <p_pn vh="H" code="FS" type="false start" name="PRIVETTE,Derric" result="ACCEPT" at="V47" yards="6"></p_pn>
+   </play>
+   <play hasball="FSU" down="3" togo="28" spot="FSU47" context="H,3,28,H47" playid="22,6,156" type="P" text="WILLIAMS, Benja pass incomplete to WILDER,Bobby (ROLLE, Jumal)." newcontext="H,4,28,H47">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="INC" rcv="WILDER,Bobby"></p_pa>
+    <p_bu vh="V" name="ROLLE, Jumal"></p_bu>
+   </play>
+   <play hasball="FSU" down="4" togo="28" spot="FSU47" context="H,4,28,H47" playid="22,7,157" type="U" text="TURNER, Austin punt 43 yards to the CC10, BUNN, Brandon return 0 yards to the CC10 (ATKINSON, Gerar)." newcontext="V,1,10,V10">
+    <p_pu vh="H" name="TURNER, Austin" gain="43" in20="Y"></p_pu>
+    <p_pr vh="V" name="BUNN, Brandon" gain="0"></p_pr>
+    <p_tk vh="H" name="ATKINSON, Gerar"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:30" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V10,01:36" vh="V" spot="V10" clock="01:36" driveindex="23,157"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="CC10" context="V,1,10,V10" playid="23,1,158" clock="00:06" text="CATAWBA COLLEGE drive start at 00:06." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC10" context="V,1,10,V10" playid="23,2,159" type="R" text="HALL, Antonio rush for 5 yards to the CC15 (JOHNSON,Diamond)." newcontext="V,2,5,V15">
+    <p_ru vh="V" name="HALL, Antonio" gain="5"></p_ru>
+    <p_tk vh="H" name="JOHNSON,Diamond"></p_tk>
+   </play>
+   <score qtr="3" V="21" H="13"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CC">
+    <firstdowns no="5" rush="2" pass="3" penalty="0"></firstdowns>
+    <penalties no="3" yds="25"></penalties>
+    <conversions thirdconv="3" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="06:13"></misc>
+    <rush att="9" yds="48" gain="58" loss="10" td="0" long="1"></rush>
+    <pass comp="3" att="4" int="0" yds="97" td="2" long="31" sacks="1" sackyds="9"></pass>
+    <rcv no="3" yds="97" td="2" long="31"></rcv>
+    <ko no="3" yds="163" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="13" tacka="2" tot_tack="15" tflua="4" tfla="0" tflyds="25" sacks="5" sackyds="39" brup="1" qbh="1" ff="1"></defense>
+    <kr no="1" yds="22" td="0" long="6"></kr>
+    <pr no="2" yds="5" td="0" long="0"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="FSU">
+    <firstdowns no="2" rush="1" pass="0" penalty="1"></firstdowns>
+    <penalties no="5" yds="43"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="08:47"></misc>
+    <rush att="7" yds="-7" gain="15" loss="22" td="0" long="0"></rush>
+    <pass comp="4" att="7" int="0" yds="31" td="0" long="0" sacks="2" sackyds="21"></pass>
+    <rcv no="4" yds="31" td="0" long="0"></rcv>
+    <punt no="3" yds="101" long="4" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="33.7"></punt>
+    <ko no="1" yds="60" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <defense tackua="7" tacka="10" tot_tack="17" tflua="3" tfla="0" tflyds="11" sacks="3" sackyds="25" qbh="1" fr="1" fryds="0"></defense>
+    <kr no="3" yds="86" td="0" long="8"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="CC" down="2" togo="5" spot="CC15" context="V,2,5,V15" playid="23,3,160" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,2,5,V15">
+   </play>
+   <play hasball="CC" down="2" togo="5" spot="CC15" context="V,2,5,V15" playid="23,4,161" type="#" clock="15:00" text="Timeout Catawba College, clock 15:00." newcontext="V,2,5,V15">
+    <p_to vh="V" team="Catawba College"></p_to>
+   </play>
+   <play hasball="CC" down="2" togo="5" spot="CC15" context="V,2,5,V15" playid="23,5,162" type="R" first="R" text="HALL, Antonio rush for 21 yards to the CC36, 1ST DOWN CC (GOWDY, Jeffery)." newcontext="V,1,10,V36">
+    <p_ru vh="V" name="HALL, Antonio" gain="21"></p_ru>
+    <p_tk vh="H" name="GOWDY, Jeffery"></p_tk>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC36" context="V,1,10,V36" playid="23,6,163" type="P" text="DENNIS, Patrick pass incomplete to LANDRUM, Travis (WILKINS,Joshua)." newcontext="V,2,10,V36">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INC" rcv="LANDRUM, Travis"></p_pa>
+    <p_bu vh="H" name="WILKINS,Joshua"></p_bu>
+   </play>
+   <play hasball="CC" down="2" togo="10" spot="CC36" context="V,2,10,V36" playid="23,7,164" type="P" text="DENNIS, Patrick pass incomplete to MORMAN, Eric." newcontext="V,3,10,V36">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INC" rcv="MORMAN, Eric"></p_pa>
+   </play>
+   <play hasball="CC" down="3" togo="10" spot="CC36" context="V,3,10,V36" playid="23,8,165" type="P" text="DENNIS, Patrick pass incomplete to MORMAN, Eric." newcontext="V,4,10,V36">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INC" rcv="MORMAN, Eric"></p_pa>
+   </play>
+   <play hasball="CC" down="4" togo="10" spot="CC36" context="V,4,10,V36" playid="23,9,166" type="E" text="PENALTY CC illegal procedure 5 yards to the CC31." newcontext="V,4,15,V31">
+    <p_pn vh="V" code="PR" type="illegal procedure" result="ACCEPT" at="V36" yards="5"></p_pn>
+   </play>
+   <play hasball="CC" down="4" togo="15" spot="CC31" context="V,4,15,V31" playid="23,10,167" type="U" text="McCANNA, Colby punt 11 yards to the CC42 (blocked by WILDER,Bobby)." newcontext="H,1,10,V42">
+    <p_pu vh="V" name="McCANNA, Colby" gain="11" blkd="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="21" top="1:04" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,V42,15:00" vh="H" spot="V42" clock="15:00" driveindex="24,167"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="CC42" context="H,1,10,V42" playid="24,1,168" clock="14:02" text="FAYETTEVILLE STATE drive start at 14:02." newcontext="H,1,10,V42">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC42" context="H,1,10,V42" playid="24,2,169" type="P" first="P" text="WILLIAMS, Benja pass complete to WILDER,Bobby for 17 yards to the CC25, 1ST DOWN FSU (FAIR, Melquan)." newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="WILDER,Bobby" gain="17"></p_pa>
+    <p_tk vh="V" name="FAIR, Melquan"></p_tk>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC25" context="H,1,10,V25" playid="24,3,170" type="R" first="R" score="Y" clock="13:45" text="MEDLIN,Richard rush for 25 yards to the CC0, 1ST DOWN FSU, TOUCHDOWN, clock 13:45." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="25"></p_ru>
+   </play>
+   <play hasball="FSU" down="1" togo="0" spot="CC03" context="H,1,0,V03" playid="24,4,171" type="X" score="Y" text="TURNER, Austin kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="TURNER, Austin" qb="TURNER, Austin" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="20"></score>
+   <drivesum plays="2" yards="42" top="0:17" driveindex="24" complete="Y"></drivesum>
+   <play hasball="FSU" down="1" togo="0" spot="FSU30" context="H,1,0,H30" playid="24,5,172" type="K" text="TURNER, Austin kickoff 40 yards to the CC30, out-of-bounds, CC ball on CC40." ob="Y" newcontext="V,1,10,V40">
+    <p_ko vh="H" name="TURNER, Austin" gain="40" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V40,13:45" vh="V" spot="V40" clock="13:45" driveindex="25,172"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="CC40" context="V,1,10,V40" playid="25,1,173" clock="13:45" text="CATAWBA COLLEGE drive start at 13:45." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC40" context="V,1,10,V40" playid="25,2,174" type="P" text="DENNIS, Patrick pass complete to LANDRUM, Travis for 9 yards to the CC49." newcontext="V,2,1,V49">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="COMP" rcv="LANDRUM, Travis" gain="9"></p_pa>
+   </play>
+   <play hasball="CC" down="2" togo="1" spot="CC49" context="V,2,1,V49" playid="25,3,175" type="R" first="R" text="WRIGHT, Josh rush for 2 yards to the FSU49, 1ST DOWN CC (JOHNSON,Diamond)." newcontext="V,1,10,H49">
+    <p_ru vh="V" name="WRIGHT, Josh" gain="2"></p_ru>
+    <p_tk vh="H" name="JOHNSON,Diamond"></p_tk>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU49" context="V,1,10,H49" playid="25,4,176" type="R" text="WRIGHT, Josh rush for 2 yards to the FSU47 (JOHNSON,Diamond)." newcontext="V,2,8,H47">
+    <p_ru vh="V" name="WRIGHT, Josh" gain="2"></p_ru>
+    <p_tk vh="H" name="JOHNSON,Diamond"></p_tk>
+   </play>
+   <play hasball="CC" down="2" togo="8" spot="FSU47" context="V,2,8,H47" playid="25,5,177" type="P" text="DENNIS, Patrick pass complete to DOWNS, Grayson for 1 yard to the FSU46 (GOWDY, Jeffery;BROWN,Joseph)." newcontext="V,3,7,H46">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="COMP" rcv="DOWNS, Grayson" gain="1"></p_pa>
+    <p_tk vh="H" name="GOWDY, Jeffery" assist="Y"></p_tk>
+    <p_tk vh="H" name="BROWN,Joseph" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="3" togo="7" spot="FSU46" context="V,3,7,H46" playid="25,6,178" type="P" text="DENNIS, Patrick pass incomplete to SMALL, Jamey (ESQUIVEL,Marcos)." newcontext="V,4,7,H46">
+    <p_pa vh="V" qb="DENNIS, Patrick" result="INC" rcv="SMALL, Jamey"></p_pa>
+    <p_bu vh="H" name="ESQUIVEL,Marcos"></p_bu>
+   </play>
+   <play hasball="CC" down="4" togo="7" spot="FSU46" context="V,4,7,H46" playid="25,7,179" type="U" text="BUNN, Brandon punt 26 yards to the FSU20." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="BUNN, Brandon" gain="26"></p_pu>
+   </play>
+   <drivesum plays="5" yards="14" top="2:37" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="H,H20,13:45" vh="H" spot="H20" clock="13:45" driveindex="26,179"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU20" context="H,1,10,H20" playid="26,1,180" clock="11:08" text="FAYETTEVILLE STATE drive start at 11:08." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU20" context="H,1,10,H20" playid="26,2,181" type="R" first="R" text="WILDER,Bobby rush for 28 yards to the FSU48, 1ST DOWN FSU (JOHNSON, Corey;MOORING, Brett)." newcontext="H,1,10,H48">
+    <p_ru vh="H" name="WILDER,Bobby" gain="28"></p_ru>
+    <p_tk vh="V" name="JOHNSON, Corey" assist="Y"></p_tk>
+    <p_tk vh="V" name="MOORING, Brett" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU48" context="H,1,10,H48" playid="26,3,182" type="R" text="MEDLIN,Richard rush for 3 yards to the CC49 (CARTER, Roy)." newcontext="H,2,7,V49">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="3"></p_ru>
+    <p_tk vh="V" name="CARTER, Roy"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="7" spot="CC49" context="H,2,7,V49" playid="26,4,183" type="R" text="MEDLIN,Richard rush for 6 yards to the CC43 (SAMOLU, Julian)." newcontext="H,3,1,V43">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="6"></p_ru>
+    <p_tk vh="V" name="SAMOLU, Julian"></p_tk>
+   </play>
+   <play hasball="FSU" down="3" togo="1" spot="CC43" context="H,3,1,V43" playid="26,5,184" type="R" text="MEDLIN,Richard rush for loss of 3 yards to the CC46 (CROMARTIE, Arth;DAVIS, Marqus)." newcontext="H,4,4,V46">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="-3"></p_ru>
+    <p_tk vh="V" name="CROMARTIE, Arth" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="DAVIS, Marqus" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="4" togo="4" spot="CC46" context="H,4,4,V46" playid="26,6,185" type="U" text="TURNER, Austin punt 34 yards to the CC12, BUNN, Brandon return 8 yards to the CC20 (GOWDY, Jeffery)." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="TURNER, Austin" gain="34"></p_pu>
+    <p_pr vh="V" name="BUNN, Brandon" gain="8"></p_pr>
+    <p_tk vh="H" name="GOWDY, Jeffery"></p_tk>
+   </play>
+   <drivesum plays="4" yards="34" top="2:01" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="V,V20,11:08" vh="V" spot="V20" clock="11:08" driveindex="27,185"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="CC20" context="V,1,10,V20" playid="27,1,186" clock="09:07" text="CATAWBA COLLEGE drive start at 09:07." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC20" context="V,1,10,V20" playid="27,2,187" type="R" text="WRIGHT, Josh rush for 8 yards to the CC28 (HARLIN,Daniel)." newcontext="V,2,2,V28">
+    <p_ru vh="V" name="WRIGHT, Josh" gain="8"></p_ru>
+    <p_tk vh="H" name="HARLIN,Daniel"></p_tk>
+   </play>
+   <play hasball="CC" down="2" togo="2" spot="CC28" context="V,2,2,V28" playid="27,3,188" type="R" first="R" text="HALL, Antonio rush for 4 yards to the CC32, 1ST DOWN CC (ESQUIVEL,Marcos;HUNT,William)." newcontext="V,1,10,V32">
+    <p_ru vh="V" name="HALL, Antonio" gain="4"></p_ru>
+    <p_tk vh="H" name="ESQUIVEL,Marcos" assist="Y"></p_tk>
+    <p_tk vh="H" name="HUNT,William" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="CC32" context="V,1,10,V32" playid="27,4,189" type="R" text="HALL, Antonio rush for 4 yards to the CC36 (HUNT,William)." newcontext="V,2,6,V36">
+    <p_ru vh="V" name="HALL, Antonio" gain="4"></p_ru>
+    <p_tk vh="H" name="HUNT,William"></p_tk>
+   </play>
+   <play hasball="CC" down="2" togo="6" spot="CC36" context="V,2,6,V36" playid="27,5,190" type="R" text="LANDRUM, Travis rush for 5 yards to the CC41 (HARLIN,Daniel;JOHNSON,Diamond)." newcontext="V,3,1,V41">
+    <p_ru vh="V" name="LANDRUM, Travis" gain="5"></p_ru>
+    <p_tk vh="H" name="HARLIN,Daniel" assist="Y"></p_tk>
+    <p_tk vh="H" name="JOHNSON,Diamond" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="3" togo="1" spot="CC41" context="V,3,1,V41" playid="27,6,191" type="#" clock="06:22" text="Timeout Catawba College, clock 06:22." newcontext="V,3,1,V41">
+    <p_to vh="V" team="Catawba College"></p_to>
+   </play>
+   <play hasball="CC" down="3" togo="1" spot="CC41" context="V,3,1,V41" playid="27,7,192" type="R" text="WRIGHT, Josh rush for no gain to the CC41 (JOHNSON,Diamond;CUNNINGHAM,Jere)." newcontext="V,4,1,V41">
+    <p_ru vh="V" name="WRIGHT, Josh" gain="0"></p_ru>
+    <p_tk vh="H" name="JOHNSON,Diamond" assist="Y"></p_tk>
+    <p_tk vh="H" name="CUNNINGHAM,Jere" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="4" togo="1" spot="CC41" context="V,4,1,V41" playid="27,8,193" type="U" text="BUNN, Brandon punt 33 yards to the FSU26, downed." newcontext="H,1,10,H26">
+    <p_pu vh="V" name="BUNN, Brandon" gain="33"></p_pu>
+   </play>
+   <drivesum plays="5" yards="21" top="3:43" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="H,H26,06:22" vh="H" spot="H26" clock="06:22" driveindex="28,193"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU26" context="H,1,10,H26" playid="28,1,194" clock="05:24" text="FAYETTEVILLE STATE drive start at 05:24." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU26" context="H,1,10,H26" playid="28,2,195" type="R" text="WILLIAMS, Benja rush for 8 yards to the FSU34 (JOHNSON, Corey;HALL, Calvin)." newcontext="H,2,2,H34">
+    <p_ru vh="H" name="WILLIAMS, Benja" gain="8"></p_ru>
+    <p_tk vh="V" name="JOHNSON, Corey" assist="Y"></p_tk>
+    <p_tk vh="V" name="HALL, Calvin" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="2" spot="FSU34" context="H,2,2,H34" playid="28,3,196" type="R" first="R" text="MEDLIN,Richard rush for 4 yards to the FSU38, 1ST DOWN FSU (SAMOLU, Julian)." newcontext="H,1,10,H38">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="4"></p_ru>
+    <p_tk vh="V" name="SAMOLU, Julian"></p_tk>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU38" context="H,1,10,H38" playid="28,4,197" type="P" text="WILLIAMS, Benja pass incomplete to HARRIS, Calvin, QB hurry by DAVIS, Marqus." newcontext="H,2,10,H38">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="INC" rcv="HARRIS, Calvin"></p_pa>
+    <p_qbh vh="V" name="DAVIS, Marqus"></p_qbh>
+   </play>
+   <play hasball="FSU" down="2" togo="10" spot="FSU38" context="H,2,10,H38" playid="28,5,198" type="P" first="E" text="WILLIAMS, Benja pass complete to MEDLIN,Richard for no gain to the FSU38 (FAIR, Melquan), PENALTY CC unsportsmanlike conduct (FAIR, Melquan) 16 yards to the CC46, 1ST DOWN FSU." newcontext="H,1,10,V46">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="MEDLIN,Richard" gain="0"></p_pa>
+    <p_tk vh="V" name="FAIR, Melquan"></p_tk>
+    <p_pn vh="V" code="UC" type="unsportsmanlike conduct" name="FAIR, Melquan" result="ACCEPT" at="H38" yards="16"></p_pn>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC46" context="H,1,10,V46" playid="28,6,199" text="1st and 10." newcontext="H,1,10,V46">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC46" context="H,1,10,V46" playid="28,7,200" type="R" text="MEDLIN,Richard rush for 8 yards to the CC38 (PERRY, Lakeem;AGER, Leon)." newcontext="H,2,2,V38">
+    <p_ru vh="H" name="MEDLIN,Richard" gain="8"></p_ru>
+    <p_tk vh="V" name="PERRY, Lakeem" assist="Y"></p_tk>
+    <p_tk vh="V" name="AGER, Leon" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="2" spot="CC38" context="H,2,2,V38" playid="28,8,201" type="R" first="R" text="HARRIS, Calvin rush for 4 yards to the CC34, 1ST DOWN FSU (PERRY, Lakeem;AGER, Leon)." newcontext="H,1,10,V34">
+    <p_ru vh="H" name="HARRIS, Calvin" gain="4"></p_ru>
+    <p_tk vh="V" name="PERRY, Lakeem" assist="Y"></p_tk>
+    <p_tk vh="V" name="AGER, Leon" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="CC34" context="H,1,10,V34" playid="28,9,202" type="R" text="HARRIS, Calvin rush for 2 yards to the CC32 (HALL, Calvin;DAVIS, Marqus)." newcontext="H,2,8,V32">
+    <p_ru vh="H" name="HARRIS, Calvin" gain="2"></p_ru>
+    <p_tk vh="V" name="HALL, Calvin" assist="Y"></p_tk>
+    <p_tk vh="V" name="DAVIS, Marqus" assist="Y"></p_tk>
+   </play>
+   <play hasball="FSU" down="2" togo="8" spot="CC32" context="H,2,8,V32" playid="28,10,203" type="P" text="WILLIAMS, Benja sacked for loss of 4 yards to the CC36, fumble by WILLIAMS, Benja recovered by FSU WILLIAMS, Benja at CC43." newcontext="H,3,19,V43">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="FUMB" gain="-4"></p_pa>
+    <p_fumb vh="H" name="WILLIAMS, Benja" at="V43" frvh="H" frname="WILLIAMS, Benja"></p_fumb>
+   </play>
+   <play hasball="FSU" down="3" togo="19" spot="CC43" context="H,3,19,V43" playid="28,11,204" type="P" text="WILLIAMS, Benja pass incomplete to HARRIS, Calvin." newcontext="H,4,19,V43">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="INC" rcv="HARRIS, Calvin"></p_pa>
+   </play>
+   <play hasball="FSU" down="4" togo="19" spot="CC43" context="H,4,19,V43" playid="28,12,205" type="U" text="TURNER, Austin punt 43 yards to the CC0, BUNN, Brandon return 53 yards to the FSU47." newcontext="V,1,10,H47">
+    <p_pu vh="H" name="TURNER, Austin" gain="43"></p_pu>
+    <p_pr vh="V" name="BUNN, Brandon" gain="53"></p_pr>
+   </play>
+   <drivesum plays="9" yards="31" top="3:31" driveindex="28" complete="Y"></drivesum>
+   <drivestart poss="V,H47,05:24" vh="V" spot="H47" clock="05:24" driveindex="29,205"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="FSU47" context="V,1,10,H47" playid="29,1,206" clock="01:53" text="CATAWBA COLLEGE drive start at 01:53." newcontext="V,1,10,H47">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU47" context="V,1,10,H47" playid="29,2,207" type="E" text="PENALTY FSU delay of game 5 yards to the FSU42." newcontext="V,1,5,H42">
+    <p_pn vh="H" code="DG" type="delay of game" result="ACCEPT" at="H47" yards="5"></p_pn>
+   </play>
+   <play hasball="CC" down="1" togo="5" spot="FSU42" context="V,1,5,H42" playid="29,3,208" text="1st and 10." newcontext="V,1,10,H42">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU42" context="V,1,10,H42" playid="29,4,209" type="R" text="HALL, Antonio rush for 3 yards to the FSU39 (HARLIN,Daniel)." newcontext="V,2,7,H39">
+    <p_ru vh="V" name="HALL, Antonio" gain="3"></p_ru>
+    <p_tk vh="H" name="HARLIN,Daniel"></p_tk>
+   </play>
+   <play hasball="CC" down="2" togo="7" spot="FSU39" context="V,2,7,H39" playid="29,5,210" type="#" clock="01:41" text="Timeout Fayetteville State, clock 01:41." newcontext="V,2,7,H39">
+    <p_to vh="H" team="Fayetteville State"></p_to>
+   </play>
+   <play hasball="CC" down="2" togo="7" spot="FSU39" context="V,2,7,H39" playid="29,6,211" type="R" text="HALL, Antonio rush for 1 yard to the FSU38 (HORTON, Adrian)." newcontext="V,3,6,H38">
+    <p_ru vh="V" name="HALL, Antonio" gain="1"></p_ru>
+    <p_tk vh="H" name="HORTON, Adrian"></p_tk>
+   </play>
+   <play hasball="CC" down="3" togo="6" spot="FSU38" context="V,3,6,H38" playid="29,7,212" type="#" clock="01:31" text="Timeout Fayetteville State, clock 01:31." newcontext="V,3,6,H38">
+    <p_to vh="H" team="Fayetteville State"></p_to>
+   </play>
+   <play hasball="CC" down="3" togo="6" spot="FSU38" context="V,3,6,H38" playid="29,8,213" type="E" text="HALL, Antonio rush for 11 yards to the FSU27 (HICKS,John), PENALTY CC holding 10 yards to the FSU48, NO PLAY." newcontext="V,3,16,H48">
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="H38" yards="10"></p_pn>
+   </play>
+   <play hasball="CC" down="3" togo="16" spot="FSU48" context="V,3,16,H48" playid="29,9,214" type="R" text="HALL, Antonio rush for 2 yards to the FSU46 (CUNNINGHAM,Jere;GOWDY, Jeffery)." newcontext="V,4,14,H46">
+    <p_ru vh="V" name="HALL, Antonio" gain="2"></p_ru>
+    <p_tk vh="H" name="CUNNINGHAM,Jere" assist="Y"></p_tk>
+    <p_tk vh="H" name="GOWDY, Jeffery" assist="Y"></p_tk>
+   </play>
+   <play hasball="CC" down="4" togo="14" spot="FSU46" context="V,4,14,H46" playid="29,10,215" type="E" text="PENALTY CC delay of game 8 yards to the CC46." newcontext="V,4,22,V46">
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="H46" yards="8"></p_pn>
+   </play>
+   <play hasball="CC" down="4" togo="22" spot="CC46" context="V,4,22,V46" playid="29,11,216" type="U" text="BUNN, Brandon punt 21 yards to the FSU33." newcontext="H,1,10,H33">
+    <p_pu vh="V" name="BUNN, Brandon" gain="21"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-7" top="1:22" driveindex="29" complete="Y"></drivesum>
+   <drivestart poss="H,H33,01:31" vh="H" spot="H33" clock="01:31" driveindex="30,216"></drivestart>
+   <play hasball="FSU" down="1" togo="10" spot="FSU33" context="H,1,10,H33" playid="30,1,217" clock="00:31" text="FAYETTEVILLE STATE drive start at 00:31." newcontext="H,1,10,H33">
+   </play>
+   <play hasball="FSU" down="1" togo="10" spot="FSU33" context="H,1,10,H33" playid="30,2,218" type="P" text="WILLIAMS, Benja pass incomplete to DUNN, Barry." newcontext="H,2,10,H33">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="INC" rcv="DUNN, Barry"></p_pa>
+   </play>
+   <play hasball="FSU" down="2" togo="10" spot="FSU33" context="H,2,10,H33" playid="30,3,219" type="P" text="WILLIAMS, Benja pass incomplete to McCLETTIE,Sidne." newcontext="H,3,10,H33">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="INC" rcv="McCLETTIE,Sidne"></p_pa>
+   </play>
+   <play hasball="FSU" down="3" togo="10" spot="FSU33" context="H,3,10,H33" playid="30,4,220" type="P" text="WILLIAMS, Benja pass complete to DOE,Kendon for no gain to the FSU33 (HALL, Calvin)." newcontext="H,4,10,H33">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="COMP" rcv="DOE,Kendon" gain="0"></p_pa>
+    <p_tk vh="V" name="HALL, Calvin"></p_tk>
+   </play>
+   <play hasball="FSU" down="4" togo="10" spot="FSU33" context="H,4,10,H33" playid="30,5,221" type="P" text="WILLIAMS, Benja sacked for no gain to the FSU33 (DAVIS, Marqus)." newcontext="V,1,10,H33">
+    <p_pa vh="H" qb="WILLIAMS, Benja" result="SACK" gain="0"></p_pa>
+    <p_tk vh="V" name="DAVIS, Marqus" sack="Y"></p_tk>
+   </play>
+   <drivesum plays="4" yards="0" top="0:31" driveindex="30" complete="Y"></drivesum>
+   <drivestart poss="V,H33,00:31" vh="V" spot="H33" clock="00:31" driveindex="31,221"></drivestart>
+   <play hasball="CC" down="1" togo="10" spot="FSU33" context="V,1,10,H33" playid="31,1,222" clock="00:00" text="CATAWBA COLLEGE drive start at 00:00." newcontext="V,1,10,H33">
+   </play>
+   <play hasball="CC" down="1" togo="10" spot="FSU33" context="V,1,10,H33" playid="31,2,223" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="V,1,10,H33">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="31" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Catawba College defeats Fayetteville State by a score of 21 to 20."></play>
+   <score final="Y" V="21" H="20"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CC">
+    <firstdowns no="3" rush="3" pass="0" penalty="0"></firstdowns>
+    <penalties no="4" yds="39"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:40"></misc>
+    <rush att="11" yds="52" gain="52" loss="0" td="0" long="0"></rush>
+    <pass comp="2" att="6" int="0" yds="10" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="10" td="0" long="0"></rcv>
+    <punt no="4" yds="91" long="0" blkd="1" tb="0" fc="0" plus50="0" inside20="0" avg="22.8"></punt>
+    <defense tackua="7" tacka="12" tot_tack="19" tflua="2" tfla="0" tflyds="6" sacks="7" sackyds="43" qbh="1"></defense>
+    <pr no="2" yds="61" td="0" long="53"></pr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="FSU">
+    <firstdowns no="6" rush="4" pass="1" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:20"></misc>
+    <rush att="12" yds="74" gain="88" loss="14" td="1" long="12"></rush>
+    <pass comp="3" att="7" int="0" yds="17" td="0" long="0" sacks="2" sackyds="4"></pass>
+    <rcv no="3" yds="17" td="0" long="0"></rcv>
+    <punt no="2" yds="77" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="38.5"></punt>
+    <ko no="1" yds="40" ob="1" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="10" tot_tack="18" sacks="3" sackyds="25" brup="2" blkd="1"></defense>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="CC" down="1" togo="10" spot="FSU33" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="0" htor="0" dtgtext="Game Over" ldtext="Drive started: 00:31, 4th Qtr"></downtogo>
+ </plays>

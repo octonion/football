@@ -1,0 +1,1023 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="MD" down="1" togo="10" spot="MD30" context="V,1,10,V30" playid="0,1,0" text="Coin toss won by Cal, defers.  Maryland to receive; Cal defends north." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD30" context="V,1,10,V30" playid="0,2,1" text="CAL ball on CAL30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL30" context="H,1,10,H30" playid="0,3,2" type="K" text="G. Tavecchio kickoff 63 yards to the MD7, Smith return 23 yards to the MD30 (D.J. Holt)." newcontext="V,1,10,V30">
+    <p_ko vh="H" name="G. Tavecchio" gain="63"></p_ko>
+    <p_kr vh="V" name="Smith" gain="23"></p_kr>
+    <p_tk vh="H" name="D.J. Holt"></p_tk>
+   </play>
+   <drivestart poss="V,V30,15:00" vh="V" spot="V30" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="MD30" context="V,1,10,V30" playid="1,1,3" type="R" pcode="PL" text="Scott rush PL for 1 yard to the MD31 (Brett Johnson)." newcontext="V,2,9,V31">
+    <p_ru vh="V" name="Scott" gain="1"></p_ru>
+    <p_tk vh="H" name="Brett Johnson"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="9" spot="MD31" context="V,2,9,V31" playid="1,2,4" type="P" pcode="SR" text="Turner SR pass incomplete to Cannon." newcontext="V,3,9,V31">
+    <p_pa vh="V" qb="Turner" result="INC" rcv="Cannon"></p_pa>
+   </play>
+   <play hasball="MD" down="3" togo="9" spot="MD31" context="V,3,9,V31" playid="1,3,5" type="E" text="PENALTY MD SN (Costa) 5 yards to the MD26." newcontext="V,3,14,V26">
+    <p_pn vh="V" code="SN" type="SN" name="Costa" result="ACCEPT" at="V31" yards="5"></p_pn>
+   </play>
+   <play hasball="MD" down="3" togo="14" spot="MD26" context="V,3,14,V26" playid="1,4,6" type="R" pcode="LT" form="SHOT" text="[SHOT], Turner rush over left tackle for 7 yards to the MD33 (D.J. Holt)." newcontext="V,4,7,V33">
+    <p_ru vh="V" name="Turner" gain="7"></p_ru>
+    <p_tk vh="H" name="D.J. Holt"></p_tk>
+   </play>
+   <play hasball="MD" down="4" togo="7" spot="MD33" context="V,4,7,V33" playid="1,5,7" type="U" text="Baltz punt 38 yards to the CAL29, fair catch by S. Thompson." newcontext="H,1,10,H29">
+    <p_pu vh="V" name="Baltz" gain="38" fc="S. Thompson"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="1:12" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,H29,15:00" vh="H" spot="H29" clock="15:00" driveindex="2,7"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="CAL29" context="H,1,10,H29" playid="2,1,8" clock="13:48" text="CALIFORNIA drive start at 13:48." newcontext="H,1,10,H29">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL29" context="H,1,10,H29" playid="2,2,9" type="R" pcode="LG" text="Jahvid Best rush over left guard for 5 yards to the CAL34 (Harrell;Wujciak)." newcontext="H,2,5,H34">
+    <p_ru vh="H" name="Jahvid Best" gain="5"></p_ru>
+    <p_tk vh="V" name="Harrell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Wujciak" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="5" spot="CAL34" context="H,2,5,H34" playid="2,3,10" type="P" pcode="SR" text="Kevin Riley SR pass incomplete to Jahvid Best (T. Skinner)." newcontext="H,3,5,H34">
+    <p_pa vh="H" qb="Kevin Riley" result="INC" rcv="Jahvid Best"></p_pa>
+    <p_bu vh="V" name="T. Skinner"></p_bu>
+   </play>
+   <play hasball="CAL" down="3" togo="5" spot="CAL34" context="H,3,5,H34" playid="2,4,11" type="P" pcode="MI" form="SHOT" text="[SHOT], Kevin Riley middle pass incomplete to Nyan Boateng (Wiseman)." newcontext="H,4,5,H34">
+    <p_pa vh="H" qb="Kevin Riley" result="INC" rcv="Nyan Boateng"></p_pa>
+    <p_bu vh="V" name="Wiseman"></p_bu>
+   </play>
+   <play hasball="CAL" down="4" togo="5" spot="CAL34" context="H,4,5,H34" playid="2,5,12" type="U" text="Bryan Anger punt 46 yards to the MD20, Tate return 18 yards to the MD38 (D.J. Campbell)." newcontext="V,1,10,V38">
+    <p_pu vh="H" name="Bryan Anger" gain="46"></p_pu>
+    <p_pr vh="V" name="Tate" gain="18"></p_pr>
+    <p_tk vh="H" name="D.J. Campbell"></p_tk>
+   </play>
+   <drivesum plays="3" yards="5" top="0:57" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,V38,13:48" vh="V" spot="V38" clock="13:48" driveindex="3,12"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="MD38" context="V,1,10,V38" playid="3,1,13" clock="12:51" text="MARYLAND drive start at 12:51." newcontext="V,1,10,V38">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD38" context="V,1,10,V38" playid="3,2,14" type="P" pcode="LL" form="SHOT" text="[SHOT], Turner LL pass complete to Cannon for 8 yards to the MD46." newcontext="V,2,2,V46">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="Cannon" gain="8"></p_pa>
+   </play>
+   <play hasball="MD" down="2" togo="2" spot="MD46" context="V,2,2,V46" playid="3,3,15" type="R" pcode="LE" text="Scott rush over left end for 1 yard to the MD47 (Marcus Ezeff;M. Kendricks)." newcontext="V,3,1,V47">
+    <p_ru vh="V" name="Scott" gain="1"></p_ru>
+    <p_tk vh="H" name="Marcus Ezeff" assist="Y"></p_tk>
+    <p_tk vh="H" name="M. Kendricks" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="3" togo="1" spot="MD47" context="V,3,1,V47" playid="3,4,16" type="E" text="PENALTY MD delay of game 5 yards to the MD42." newcontext="V,3,6,V42">
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="V47" yards="5"></p_pn>
+   </play>
+   <play hasball="MD" down="3" togo="6" spot="MD42" context="V,3,6,V42" playid="3,5,17" type="E" text="PENALTY MD holding (B. Campbell) 10 yards to the MD32." newcontext="V,3,16,V32">
+    <p_pn vh="V" code="HO" type="holding" name="B. Campbell" result="ACCEPT" at="V42" yards="10"></p_pn>
+   </play>
+   <comment text="Negates Turner rush for 8."></comment>
+   <play hasball="MD" down="3" togo="16" spot="MD32" context="V,3,16,V32" playid="3,6,19" type="P" pcode="RR" text="Turner RR pass complete to Tyler for 8 yards to the MD40 (Marcus Ezeff)." newcontext="V,4,8,V40">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="Tyler" gain="8"></p_pa>
+    <p_tk vh="H" name="Marcus Ezeff"></p_tk>
+   </play>
+   <play hasball="MD" down="4" togo="8" spot="MD40" context="V,4,8,V40" playid="3,7,20" type="U" text="Baltz punt 33 yards to the CAL27, downed." newcontext="H,1,10,H27">
+    <p_pu vh="V" name="Baltz" gain="33"></p_pu>
+   </play>
+   <drivesum plays="3" yards="2" top="2:45" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,H27,12:51" vh="H" spot="H27" clock="12:51" driveindex="4,20"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="CAL27" context="H,1,10,H27" playid="4,1,21" clock="10:06" text="CALIFORNIA drive start at 10:06." newcontext="H,1,10,H27">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL27" context="H,1,10,H27" playid="4,2,22" type="X" pcode="RT" first="R" score="Y" clock="09:54" text="Jahvid Best rush over right tackle for 73 yards to the MD0, 1ST DOWN CAL, TOUCHDOWN, clock 09:54, Vince D'Amato kick attempt good." newcontext="H,1,0,H30">
+    <p_ru vh="H" name="Jahvid Best" gain="73"></p_ru>
+    <p_pat vh="H" name="Vince D'Amato" qb="Vince D'Amato" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="1" yards="73" top="0:19" driveindex="4" complete="Y"></drivesum>
+   <play hasball="CAL" down="1" togo="0" spot="CAL30" context="H,1,0,H30" playid="4,3,23" type="K" turnover="F" text="G. Tavecchio kickoff 56 yards to the MD14, Smith return 8 yards to the MD22, fumble forced by D.J. Campbell, fumble by Smith recovered by CAL D.J. Campbell at MD22." newcontext="H,1,10,V22">
+    <p_ko vh="H" name="G. Tavecchio" gain="56"></p_ko>
+    <p_kr vh="V" name="Smith" gain="8"></p_kr>
+    <p_fumb vh="V" name="Smith" at="V22" frvh="H" frname="D.J. Campbell"></p_fumb>
+    <p_tk vh="H" name="D.J. Campbell" ff="Y"></p_tk>
+   </play>
+   <drivestart poss="H,V22,09:54" vh="H" spot="V22" clock="09:54" driveindex="6,23"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="MD22" context="H,1,10,V22" playid="6,1,24" clock="09:47" text="CALIFORNIA drive start at 09:47." newcontext="H,1,10,V22">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="MD22" context="H,1,10,V22" playid="6,2,25" type="P" pcode="MI" first="P" text="Kevin Riley middle pass complete to Marvin Jones for 20 yards to the MD2, 1ST DOWN CAL (Wiseman)." newcontext="H,1,0,V02">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Marvin Jones" gain="20"></p_pa>
+    <p_tk vh="V" name="Wiseman"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="0" spot="MD02" context="H,1,0,V02" playid="6,3,26" type="X" pcode="MI" score="Y" clock="09:12" text="Jahvid Best rush up middle for 2 yards to the MD0, TOUCHDOWN, clock 09:12, Vince D'Amato kick attempt good." newcontext="H,1,0,H30">
+    <p_ru vh="H" name="Jahvid Best" gain="2"></p_ru>
+    <p_pat vh="H" name="Vince D'Amato" qb="Vince D'Amato" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <comment text="Touchdown play reviewed; original ruling upheld."></comment>
+   <score V="0" H="14"></score>
+   <drivesum plays="2" yards="22" top="0:35" driveindex="6" complete="Y"></drivesum>
+   <play hasball="CAL" down="1" togo="0" spot="CAL30" context="H,1,0,H30" playid="6,4,28" type="K" text="G. Tavecchio kickoff 56 yards to the MD14, Smith return 48 yards to the CAL38 (M. Kendricks)." newcontext="V,1,10,H38">
+    <p_ko vh="H" name="G. Tavecchio" gain="56"></p_ko>
+    <p_kr vh="V" name="Smith" gain="48"></p_kr>
+    <p_tk vh="H" name="M. Kendricks"></p_tk>
+   </play>
+   <drivestart poss="V,H38,09:12" vh="V" spot="H38" clock="09:12" driveindex="7,28"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="CAL38" context="V,1,10,H38" playid="7,1,29" clock="09:04" text="MARYLAND drive start at 09:04." newcontext="V,1,10,H38">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="CAL38" context="V,1,10,H38" playid="7,2,30" type="P" pcode="RR" text="Turner RR pass complete to Cannon for 8 yards to the CAL30 (Cameron Jordan;Tyson Alualu)." newcontext="V,2,2,H30">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="Cannon" gain="8"></p_pa>
+    <p_tk vh="H" name="Cameron Jordan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Tyson Alualu" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="2" spot="CAL30" context="V,2,2,H30" playid="7,3,31" type="P" pcode="MI" first="P" form="SHOT" text="[SHOT], Turner middle pass complete to T. Galt for 11 yards to the CAL19, 1ST DOWN MD (Mike Mohamed)." newcontext="V,1,10,H19">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="T. Galt" gain="11"></p_pa>
+    <p_tk vh="H" name="Mike Mohamed"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="CAL19" context="V,1,10,H19" playid="7,4,32" type="R" pcode="RT" form="SHOT" text="[SHOT], Turner rush over right tackle for 4 yards to the CAL15 (Brett Johnson;Devin Bishop)." newcontext="V,2,6,H15">
+    <p_ru vh="V" name="Turner" gain="4"></p_ru>
+    <p_tk vh="H" name="Brett Johnson" assist="Y"></p_tk>
+    <p_tk vh="H" name="Devin Bishop" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="6" spot="CAL15" context="V,2,6,H15" playid="7,5,33" type="R" pcode="LE" text="Meggett rush over left end for 3 yards to the CAL12 (Mike Mohamed;D.J. Holt)." newcontext="V,3,3,H12">
+    <p_ru vh="V" name="Meggett" gain="3"></p_ru>
+    <p_tk vh="H" name="Mike Mohamed" assist="Y"></p_tk>
+    <p_tk vh="H" name="D.J. Holt" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="3" togo="3" spot="CAL12" context="V,3,3,H12" playid="7,6,34" type="E" first="E" text="PENALTY CAL offside 5 yards to the CAL7, 1ST DOWN MD." newcontext="V,1,0,H07">
+    <p_pn vh="H" code="OS" type="offside" result="ACCEPT" at="H12" yards="5"></p_pn>
+   </play>
+   <comment text="Negates incomplete pass."></comment>
+   <play hasball="MD" down="1" togo="0" spot="CAL07" context="V,1,0,H07" playid="7,7,36" type="R" pcode="MI" text="T. Watson rush up middle for 3 yards to the CAL4 (Mike Mohamed)." newcontext="V,2,0,H04">
+    <p_ru vh="V" name="T. Watson" gain="3"></p_ru>
+    <p_tk vh="H" name="Mike Mohamed"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="0" spot="CAL04" context="V,2,0,H04" playid="7,8,37" type="R" pcode="LE" text="Meggett rush over left end for no gain to the CAL4 (D.J. Holt;Cameron Jordan)." newcontext="V,3,0,H04">
+    <p_ru vh="V" name="Meggett" gain="0"></p_ru>
+    <p_tk vh="H" name="D.J. Holt" assist="Y"></p_tk>
+    <p_tk vh="H" name="Cameron Jordan" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="3" togo="0" spot="CAL04" context="V,3,0,H04" playid="7,9,38" type="E" text="PENALTY MD ineligible downfield on pass 5 yards to the CAL9." newcontext="V,3,0,H09">
+    <p_pn vh="V" code="ID" type="ineligible downfield on pass" result="ACCEPT" at="H04" yards="5"></p_pn>
+   </play>
+   <comment text="Negates touchdown pass to Furstenburg."></comment>
+   <play hasball="MD" down="3" togo="0" spot="CAL09" context="V,3,0,H09" playid="7,10,40" type="P" pcode="MI" text="Turner middle pass incomplete (Tyson Alualu)." newcontext="V,4,0,H09">
+    <p_pa vh="V" qb="Turner" result="INC"></p_pa>
+    <p_bu vh="H" name="Tyson Alualu"></p_bu>
+   </play>
+   <play hasball="MD" down="4" togo="0" spot="CAL09" context="V,4,0,H09" playid="7,11,41" type="F" score="Y" clock="04:56" text="Ferrara field goal attempt from 26 GOOD, clock 04:56." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Ferrara" distance="26" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="14"></score>
+   <drivesum plays="8" yards="29" top="4:08" driveindex="7" complete="Y"></drivesum>
+   <play hasball="MD" down="1" togo="0" spot="MD30" context="V,1,0,V30" playid="7,12,42" type="K" text="Ferrara kickoff 64 yards to the CAL6, Jahvid Best return 18 yards to the CAL24 (Perez)." newcontext="H,1,10,H24">
+    <p_ko vh="V" name="Ferrara" gain="64"></p_ko>
+    <p_kr vh="H" name="Jahvid Best" gain="18"></p_kr>
+    <p_tk vh="V" name="Perez"></p_tk>
+   </play>
+   <drivestart poss="H,H24,04:56" vh="H" spot="H24" clock="04:56" driveindex="8,42"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="CAL24" context="H,1,10,H24" playid="8,1,43" clock="04:52" text="CALIFORNIA drive start at 04:52." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL24" context="H,1,10,H24" playid="8,2,44" type="R" pcode="LT" text="Shane Vereen rush over left tackle for 7 yards to the CAL31 (T. Skinner;Drummond)." newcontext="H,2,3,H31">
+    <p_ru vh="H" name="Shane Vereen" gain="7"></p_ru>
+    <p_tk vh="V" name="T. Skinner" assist="Y"></p_tk>
+    <p_tk vh="V" name="Drummond" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="3" spot="CAL31" context="H,2,3,H31" playid="8,3,45" type="R" pcode="PR" first="R" text="Shane Vereen rush PR for 5 yards to the CAL36, 1ST DOWN CAL (D. Galt;Wujciak)." newcontext="H,1,10,H36">
+    <p_ru vh="H" name="Shane Vereen" gain="5"></p_ru>
+    <p_tk vh="V" name="D. Galt" assist="Y"></p_tk>
+    <p_tk vh="V" name="Wujciak" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL36" context="H,1,10,H36" playid="8,4,46" type="R" pcode="LL" text="Jahvid Best rush left for loss of 2 yards to the CAL34 (McCollough)." newcontext="H,2,12,H34">
+    <p_ru vh="H" name="Jahvid Best" gain="-2"></p_ru>
+    <p_tk vh="V" name="McCollough" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="12" spot="CAL34" context="H,2,12,H34" playid="8,5,47" type="P" pcode="MI" form="SHOT" text="[SHOT], Kevin Riley middle pass incomplete to Nyan Boateng (Wiseman)." newcontext="H,3,12,H34">
+    <p_pa vh="H" qb="Kevin Riley" result="INC" rcv="Nyan Boateng"></p_pa>
+    <p_bu vh="V" name="Wiseman"></p_bu>
+   </play>
+   <play hasball="CAL" down="3" togo="12" spot="CAL34" context="H,3,12,H34" playid="8,6,48" type="P" pcode="SL" form="SHOT" text="[SHOT], Kevin Riley slant pass incomplete to Verran Tucker." newcontext="H,4,12,H34">
+    <p_pa vh="H" qb="Kevin Riley" result="INC" rcv="Verran Tucker"></p_pa>
+   </play>
+   <play hasball="CAL" down="4" togo="12" spot="CAL34" context="H,4,12,H34" playid="8,7,49" type="U" text="Bryan Anger punt 50 yards to the MD16, Tate return 2 yards to the MD18, out-of-bounds." ob="Y" newcontext="V,1,10,V18">
+    <p_pu vh="H" name="Bryan Anger" gain="50" in20="Y"></p_pu>
+    <p_pr vh="V" name="Tate" gain="2"></p_pr>
+   </play>
+   <drivesum plays="5" yards="10" top="1:56" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,V18,04:52" vh="V" spot="V18" clock="04:52" driveindex="9,49"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="MD18" context="V,1,10,V18" playid="9,1,50" clock="02:56" text="MARYLAND drive start at 02:56." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD18" context="V,1,10,V18" playid="9,2,51" type="P" pcode="LL" text="Turner LL pass incomplete to Jackson." newcontext="V,2,10,V18">
+    <p_pa vh="V" qb="Turner" result="INC" rcv="Jackson"></p_pa>
+   </play>
+   <play hasball="MD" down="2" togo="10" spot="MD18" context="V,2,10,V18" playid="9,3,52" type="P" pcode="LL" text="Turner LL pass complete to Cannon for 3 yards to the MD21." newcontext="V,3,7,V21">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="Cannon" gain="3"></p_pa>
+   </play>
+   <play hasball="MD" down="3" togo="7" spot="MD21" context="V,3,7,V21" playid="9,4,53" type="P" pcode="MI" first="P" form="SHOT" text="[SHOT], Turner middle pass complete to Scott for 17 yards to the MD38, 1ST DOWN MD (Jarred Price)." newcontext="V,1,10,V38">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="Scott" gain="17"></p_pa>
+    <p_tk vh="H" name="Jarred Price"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD38" context="V,1,10,V38" playid="9,5,54" type="P" pcode="LL" form="SHOT" text="[SHOT], Turner LL pass complete to Cannon for 6 yards to the MD44 (Darian Hagan)." newcontext="V,2,4,V44">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="Cannon" gain="6"></p_pa>
+    <p_tk vh="H" name="Darian Hagan"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="4" spot="MD44" context="V,2,4,V44" playid="9,6,55" type="P" pcode="MI" first="P" form="SHOT" text="[SHOT], Turner middle pass complete to Scott for 5 yards to the MD49, 1ST DOWN MD (Jesse Brooks)." newcontext="V,1,10,V49">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="Scott" gain="5"></p_pa>
+    <p_tk vh="H" name="Jesse Brooks"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD49" context="V,1,10,V49" playid="9,7,56" type="E" text="PENALTY MD SN (Costa) 5 yards to the MD44." newcontext="V,1,15,V44">
+    <p_pn vh="V" code="SN" type="SN" name="Costa" result="ACCEPT" at="V49" yards="5"></p_pn>
+   </play>
+   <play hasball="MD" down="1" togo="15" spot="MD44" context="V,1,15,V44" playid="9,8,57" type="R" pcode="PL" text="Scott rush PL for 8 yards to the CAL48 (D.J. Holt)." newcontext="V,2,7,H48">
+    <p_ru vh="V" name="Scott" gain="8"></p_ru>
+    <p_tk vh="H" name="D.J. Holt"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="7" spot="CAL48" context="V,2,7,H48" playid="9,9,58" type="P" pcode="RR" form="SHOT" text="[SHOT], Turner RR pass incomplete to Cannon (Ernest Owusu)." newcontext="V,3,7,H48">
+    <p_pa vh="V" qb="Turner" result="INC" rcv="Cannon"></p_pa>
+    <p_bu vh="H" name="Ernest Owusu"></p_bu>
+   </play>
+   <play hasball="MD" down="3" togo="7" spot="CAL48" context="V,3,7,H48" playid="9,10,59" type="E" text="PENALTY CAL Encroachment 5 yards to the CAL43." newcontext="V,3,2,H43">
+    <p_pn vh="H" code="EN" type="Encroachment" result="ACCEPT" at="H48" yards="5"></p_pn>
+   </play>
+   <play hasball="MD" down="3" togo="2" spot="CAL43" context="V,3,2,H43" playid="9,11,60" type="#" clock="00:27" text="Timeout California, clock 00:27." newcontext="V,3,2,H43">
+    <p_to vh="H" team="California"></p_to>
+   </play>
+   <play hasball="MD" down="3" togo="2" spot="CAL43" context="V,3,2,H43" playid="9,12,61" type="R" pcode="LG" first="R" form="SHOT" text="[SHOT], Turner rush over left guard for 7 yards to the CAL36, 1ST DOWN MD (M. Kendricks)." newcontext="V,1,10,H36">
+    <p_ru vh="V" name="Turner" gain="7"></p_ru>
+    <p_tk vh="H" name="M. Kendricks"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="CAL36" context="V,1,10,H36" playid="9,13,62" type="P" pcode="MI" form="SHOT" text="[SHOT], Turner middle pass incomplete to Cannon (S. Thompson)." newcontext="V,2,10,H36">
+    <p_pa vh="V" qb="Turner" result="INC" rcv="Cannon"></p_pa>
+    <p_bu vh="H" name="S. Thompson"></p_bu>
+   </play>
+   <play hasball="MD" down="2" togo="10" spot="CAL36" context="V,2,10,H36" playid="9,14,63" type="R" pcode="LL" clock="00:04" text="Clock 00:04, Scott rush left for 5 yards to the CAL31 (Josh Hill)." newcontext="V,3,5,H31">
+    <p_ru vh="V" name="Scott" gain="5"></p_ru>
+    <p_tk vh="H" name="Josh Hill"></p_tk>
+   </play>
+   <score qtr="1" V="3" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MD">
+    <firstdowns no="5" rush="1" pass="3" penalty="1"></firstdowns>
+    <penalties no="5" yds="30"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="11:09"></misc>
+    <rush att="10" yds="39" gain="39" loss="0" td="0" long="8"></rush>
+    <pass comp="8" att="13" int="0" yds="66" td="0" long="17" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="66" td="0" long="17"></rcv>
+    <punt no="2" yds="71" long="38" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="35.5"></punt>
+    <ko no="1" yds="64" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="26" blkd="0"></fg>
+    <defense tackua="3" tacka="6" tot_tack="9" tflua="1" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="3"></defense>
+    <kr no="3" yds="79" td="0" long="48"></kr>
+    <pr no="2" yds="20" td="0" long="18"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="CAL">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="03:51"></misc>
+    <rush att="6" yds="90" gain="92" loss="2" td="2" long="73"></rush>
+    <pass comp="1" att="5" int="0" yds="20" td="0" long="20" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="20" td="0" long="20"></rcv>
+    <punt no="2" yds="96" long="50" blkd="0" tb="0" fc="0" plus50="1" inside20="1" avg="48.0"></punt>
+    <ko no="3" yds="175" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="15" tacka="10" tot_tack="25" sacks="0" sackyds="0" brup="3" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="18" td="0" long="18"></kr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="MD" down="3" togo="5" spot="CAL31" context="V,3,5,H31" playid="9,15,64" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,3,5,H31">
+   </play>
+   <play hasball="MD" down="3" togo="5" spot="CAL31" context="V,3,5,H31" playid="9,16,65" type="R" pcode="LL" form="SHOT" text="[SHOT], Turner rush left for loss of 3 yards to the CAL34 (Ernest Owusu)." newcontext="V,4,8,H34">
+    <p_ru vh="V" name="Turner" gain="-3"></p_ru>
+    <p_tk vh="H" name="Ernest Owusu" tfl="Y"></p_tk>
+   </play>
+   <comment text=""></comment>
+   <play hasball="MD" down="4" togo="8" spot="CAL34" context="V,4,8,H34" playid="9,17,67" type="P" pcode="MI" first="P" form="SHOT" text="[SHOT], Turner middle pass complete to L. Watson for 9 yards to the CAL25, 1ST DOWN MD (Mike Mohamed;S. Thompson)." newcontext="V,1,10,H25">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="L. Watson" gain="9"></p_pa>
+    <p_tk vh="H" name="Mike Mohamed" assist="Y"></p_tk>
+    <p_tk vh="H" name="S. Thompson" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="CAL25" context="V,1,10,H25" playid="9,18,68" type="R" pcode="RE" text="Scott rush over right end for 3 yards to the CAL22 (M. Kendricks;Mike Mohamed)." newcontext="V,2,7,H22">
+    <p_ru vh="V" name="Scott" gain="3"></p_ru>
+    <p_tk vh="H" name="M. Kendricks" assist="Y"></p_tk>
+    <p_tk vh="H" name="Mike Mohamed" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="7" spot="CAL22" context="V,2,7,H22" playid="9,19,69" type="P" pcode="RR" text="Turner RR pass incomplete to L. Watson." newcontext="V,3,7,H22">
+    <p_pa vh="V" qb="Turner" result="INC" rcv="L. Watson"></p_pa>
+   </play>
+   <play hasball="MD" down="3" togo="7" spot="CAL22" context="V,3,7,H22" playid="9,20,70" type="P" form="SHOT" text="[SHOT], Turner sacked for loss of 3 yards to the CAL25 (Cameron Jordan)." newcontext="V,4,10,H25">
+    <p_pa vh="V" qb="Turner" result="SACK" gain="-3"></p_pa>
+    <p_tk vh="H" name="Cameron Jordan" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="4" togo="10" spot="CAL25" context="V,4,10,H25" playid="9,21,71" type="F" score="Y" clock="12:28" text="Ferrara field goal attempt from 42 GOOD, clock 12:28." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Ferrara" distance="42" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="6" H="14"></score>
+   <drivesum plays="16" yards="57" top="5:28" driveindex="9" complete="Y"></drivesum>
+   <play hasball="MD" down="1" togo="0" spot="MD30" context="V,1,0,V30" playid="9,22,72" type="K" text="Ferrara kickoff 67 yards to the CAL3, Shane Vereen return 21 yards to the CAL24 (T. Skinner;Hughes)." newcontext="H,1,10,H24">
+    <p_ko vh="V" name="Ferrara" gain="67"></p_ko>
+    <p_kr vh="H" name="Shane Vereen" gain="21"></p_kr>
+    <p_tk vh="V" name="T. Skinner" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hughes" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H24,12:28" vh="H" spot="H24" clock="12:28" driveindex="10,72"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="CAL24" context="H,1,10,H24" playid="10,1,73" clock="12:21" text="CALIFORNIA drive start at 12:21." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL24" context="H,1,10,H24" playid="10,2,74" type="P" pcode="RR" text="Kevin Riley RR pass complete to Jahvid Best for 5 yards to the CAL29, out-of-bounds (Tate)." ob="Y" newcontext="H,2,5,H29">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Jahvid Best" gain="5"></p_pa>
+    <p_tk vh="V" name="Tate"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="5" spot="CAL29" context="H,2,5,H29" playid="10,3,75" type="R" pcode="MI" text="Jahvid Best rush up middle for 4 yards to the CAL33 (Ivey)." newcontext="H,3,1,H33">
+    <p_ru vh="H" name="Jahvid Best" gain="4"></p_ru>
+    <p_tk vh="V" name="Ivey"></p_tk>
+   </play>
+   <play hasball="CAL" down="3" togo="1" spot="CAL33" context="H,3,1,H33" playid="10,4,76" type="R" pcode="RG" first="R" text="Brian Holley rush over right guard for 5 yards to the CAL38, 1ST DOWN CAL (Harrell)." newcontext="H,1,10,H38">
+    <p_ru vh="H" name="Brian Holley" gain="5"></p_ru>
+    <p_tk vh="V" name="Harrell"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL38" context="H,1,10,H38" playid="10,5,77" type="P" pcode="RR" first="P" text="Kevin Riley RR pass complete to Verran Tucker for 39 yards to the MD23, 1ST DOWN CAL." newcontext="H,1,10,V23">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Verran Tucker" gain="39"></p_pa>
+   </play>
+   <comment text="Maryland pass interference declined."></comment>
+   <play hasball="CAL" down="1" togo="10" spot="MD23" context="H,1,10,V23" playid="10,6,79" type="P" pcode="SR" first="P" text="Kevin Riley SR pass complete to Shane Vereen for 15 yards to the MD8, 1ST DOWN CAL, out-of-bounds (T. Skinner)." ob="Y" newcontext="H,1,0,V08">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Shane Vereen" gain="15"></p_pa>
+    <p_tk vh="V" name="T. Skinner"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="0" spot="MD08" context="H,1,0,V08" playid="10,7,80" type="P" text="Kevin Riley sacked for loss of 6 yards to the MD14 (Moten;D. Galt)." newcontext="H,2,0,V14">
+    <p_pa vh="H" qb="Kevin Riley" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="V" name="Moten" sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="D. Galt" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="0" spot="MD14" context="H,2,0,V14" playid="10,8,81" type="P" pcode="MI" form="SHOT" text="[SHOT], Kevin Riley middle pass incomplete to Verran Tucker (Wiseman)." newcontext="H,3,0,V14">
+    <p_pa vh="H" qb="Kevin Riley" result="INC" rcv="Verran Tucker"></p_pa>
+    <p_bu vh="V" name="Wiseman"></p_bu>
+   </play>
+   <play hasball="CAL" down="3" togo="0" spot="MD14" context="H,3,0,V14" playid="10,9,82" type="P" pcode="EZ" form="SHOT" text="[SHOT], Kevin Riley EZ pass incomplete to Nyan Boateng (Wiseman)." newcontext="H,4,0,V14">
+    <p_pa vh="H" qb="Kevin Riley" result="INC" rcv="Nyan Boateng"></p_pa>
+    <p_bu vh="V" name="Wiseman"></p_bu>
+   </play>
+   <play hasball="CAL" down="4" togo="0" spot="MD14" context="H,4,0,V14" playid="10,10,83" type="F" score="Y" clock="09:18" text="Vince D'Amato field goal attempt from 31 GOOD, clock 09:18." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Vince D'Amato" distance="31" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="6" H="17"></score>
+   <drivesum plays="9" yards="62" top="3:03" driveindex="10" complete="Y"></drivesum>
+   <play hasball="CAL" down="1" togo="0" spot="CAL30" context="H,1,0,H30" playid="10,11,84" type="K" text="G. Tavecchio kickoff 64 yards to the MD6, Smith return 21 yards to the MD27 (Jesse Brooks;M. Kendricks)." newcontext="V,1,10,V27">
+    <p_ko vh="H" name="G. Tavecchio" gain="64"></p_ko>
+    <p_kr vh="V" name="Smith" gain="21"></p_kr>
+    <p_tk vh="H" name="Jesse Brooks" assist="Y"></p_tk>
+    <p_tk vh="H" name="M. Kendricks" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V27,09:18" vh="V" spot="V27" clock="09:18" driveindex="11,84"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="MD27" context="V,1,10,V27" playid="11,1,85" clock="09:14" text="MARYLAND drive start at 09:14." newcontext="V,1,10,V27">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD27" context="V,1,10,V27" playid="11,2,86" type="R" pcode="EA" first="R" text="Smith rush EA for 12 yards to the MD39, 1ST DOWN MD, out-of-bounds (Brett Johnson)." ob="Y" newcontext="V,1,10,V39">
+    <p_ru vh="V" name="Smith" gain="12"></p_ru>
+    <p_tk vh="H" name="Brett Johnson"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD39" context="V,1,10,V39" playid="11,3,87" type="P" pcode="CR" first="P" text="Turner crossing pass complete to Tyler for 17 yards to the CAL44, 1ST DOWN MD." newcontext="V,1,10,H44">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="Tyler" gain="17"></p_pa>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="CAL44" context="V,1,10,H44" playid="11,4,88" type="P" pcode="SR" text="Turner SR pass incomplete to Williams (S. Thompson)." newcontext="V,2,10,H44">
+    <p_pa vh="V" qb="Turner" result="INC" rcv="Williams"></p_pa>
+    <p_bu vh="H" name="S. Thompson"></p_bu>
+   </play>
+   <play hasball="MD" down="2" togo="10" spot="CAL44" context="V,2,10,H44" playid="11,5,89" type="R" pcode="RV" text="Smith rush reverse for 4 yards to the CAL40 (Brett Johnson)." newcontext="V,3,6,H40">
+    <p_ru vh="V" name="Smith" gain="4"></p_ru>
+    <p_tk vh="H" name="Brett Johnson"></p_tk>
+   </play>
+   <play hasball="MD" down="3" togo="6" spot="CAL40" context="V,3,6,H40" playid="11,6,90" type="P" turnover="F" form="SHOT" text="[SHOT], Turner sacked for loss of 11 yards to the MD49 (Tyson Alualu;Devin Bishop), fumble by Turner recovered by CAL Cameron Jordan at MD49." newcontext="H,1,10,V49">
+    <p_pa vh="V" qb="Turner" result="SACK" gain="-11"></p_pa>
+    <p_fumb vh="V" name="Turner" at="V49" frvh="H" frname="Cameron Jordan"></p_fumb>
+    <p_tk vh="H" name="Tyson Alualu" sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Devin Bishop" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="5" yards="22" top="1:59" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,V49,09:14" vh="H" spot="V49" clock="09:14" driveindex="12,90"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="MD49" context="H,1,10,V49" playid="12,1,91" clock="07:15" text="CALIFORNIA drive start at 07:15." newcontext="H,1,10,V49">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="MD49" context="H,1,10,V49" playid="12,2,92" type="P" pcode="RR" first="P" text="Kevin Riley RR pass complete to Brian Holley for 11 yards to the MD38, 1ST DOWN CAL (Wiseman;Wujciak)." newcontext="H,1,10,V38">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Brian Holley" gain="11"></p_pa>
+    <p_tk vh="V" name="Wiseman" assist="Y"></p_tk>
+    <p_tk vh="V" name="Wujciak" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="MD38" context="H,1,10,V38" playid="12,3,93" type="R" pcode="LG" text="Jahvid Best rush over left guard for 6 yards to the MD32 (Wujciak)." newcontext="H,2,4,V32">
+    <p_ru vh="H" name="Jahvid Best" gain="6"></p_ru>
+    <p_tk vh="V" name="Wujciak"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="4" spot="MD32" context="H,2,4,V32" playid="12,4,94" type="R" pcode="RR" text="Jahvid Best rush right for no gain to the MD32 (Perez)." newcontext="H,3,4,V32">
+    <p_ru vh="H" name="Jahvid Best" gain="0"></p_ru>
+    <p_tk vh="V" name="Perez"></p_tk>
+   </play>
+   <play hasball="CAL" down="3" togo="4" spot="MD32" context="H,3,4,V32" playid="12,5,95" type="P" pcode="LL" first="P" text="Kevin Riley LL pass complete to Shane Vereen for 16 yards to the MD16, 1ST DOWN CAL, out-of-bounds (Perez)." ob="Y" newcontext="H,1,10,V16">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Shane Vereen" gain="16"></p_pa>
+    <p_tk vh="V" name="Perez"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="MD16" context="H,1,10,V16" playid="12,6,96" type="P" pcode="EZ" text="Kevin Riley EZ pass incomplete to Jeremy Ross." newcontext="H,2,10,V16">
+    <p_pa vh="H" qb="Kevin Riley" result="INC" rcv="Jeremy Ross"></p_pa>
+   </play>
+   <play hasball="CAL" down="2" togo="10" spot="MD16" context="H,2,10,V16" playid="12,7,97" type="R" pcode="MI" form="SHOT" text="[SHOT], Shane Vereen rush up middle for 1 yard to the MD15 (Hartsfield;Wujciak)." newcontext="H,3,9,V15">
+    <p_ru vh="H" name="Shane Vereen" gain="1"></p_ru>
+    <p_tk vh="V" name="Hartsfield" assist="Y"></p_tk>
+    <p_tk vh="V" name="Wujciak" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="3" togo="9" spot="MD15" context="H,3,9,V15" playid="12,8,98" type="P" pcode="CR" first="P" form="SHOT" text="[SHOT], Kevin Riley crossing pass complete to Marvin Jones for 12 yards to the MD3, 1ST DOWN CAL (Chism)." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Marvin Jones" gain="12"></p_pa>
+    <p_tk vh="V" name="Chism"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="0" spot="MD03" context="H,1,0,V03" playid="12,9,99" type="X" pcode="EZ" score="Y" clock="03:42" text="Kevin Riley EZ pass complete to Skylar Curran for 3 yards to the MD0, TOUCHDOWN, clock 03:42, Vince D'Amato kick attempt good." newcontext="H,1,0,H30">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Skylar Curran" gain="3"></p_pa>
+    <p_pat vh="H" name="Vince D'Amato" qb="Vince D'Amato" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="6" H="24"></score>
+   <drivesum plays="8" yards="49" top="3:33" driveindex="12" complete="Y"></drivesum>
+   <play hasball="CAL" down="1" togo="0" spot="CAL30" context="H,1,0,H30" playid="12,10,100" type="K" text="G. Tavecchio kickoff 62 yards to the MD8, Smith return 18 yards to the MD26 (Jesse Brooks)." newcontext="V,1,10,V26">
+    <p_ko vh="H" name="G. Tavecchio" gain="62"></p_ko>
+    <p_kr vh="V" name="Smith" gain="18"></p_kr>
+    <p_tk vh="H" name="Jesse Brooks"></p_tk>
+   </play>
+   <drivestart poss="V,V26,03:42" vh="V" spot="V26" clock="03:42" driveindex="13,100"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="MD26" context="V,1,10,V26" playid="13,1,101" clock="03:36" text="MARYLAND drive start at 03:36." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD26" context="V,1,10,V26" playid="13,2,102" type="R" pcode="RE" first="R" text="Meggett rush over right end for 13 yards to the MD39, 1ST DOWN MD (D.J. Holt)." newcontext="V,1,10,V39">
+    <p_ru vh="V" name="Meggett" gain="13"></p_ru>
+    <p_tk vh="H" name="D.J. Holt"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD39" context="V,1,10,V39" playid="13,3,103" type="P" pcode="RR" first="P" form="SHOT" text="[SHOT], Turner RR pass complete to T. Galt for 12 yards to the CAL49, 1ST DOWN MD (Chris Conte)." newcontext="V,1,10,H49">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="T. Galt" gain="12"></p_pa>
+    <p_tk vh="H" name="Chris Conte"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="CAL49" context="V,1,10,H49" playid="13,4,104" type="P" form="SHOT" text="[SHOT], Turner sacked for loss of 9 yards to the MD42 (Ernest Owusu)." newcontext="V,2,19,V42">
+    <p_pa vh="V" qb="Turner" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="Ernest Owusu" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="19" spot="MD42" context="V,2,19,V42" playid="13,5,105" type="P" text="Turner sacked for loss of 9 yards to the MD33 (Jarred Price)." newcontext="V,3,28,V33">
+    <p_pa vh="V" qb="Turner" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="H" name="Jarred Price" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="3" togo="28" spot="MD33" context="V,3,28,V33" playid="13,6,106" type="R" pcode="RR" form="SHOT" text="[SHOT], Turner rush right for 3 yards to the MD36 (Mike Mohamed)." newcontext="V,4,25,V36">
+    <p_ru vh="V" name="Turner" gain="3"></p_ru>
+    <p_tk vh="H" name="Mike Mohamed"></p_tk>
+   </play>
+   <comment text="Maryland illegal block (Watson) declined."></comment>
+   <play hasball="MD" down="4" togo="25" spot="MD36" context="V,4,25,V36" playid="13,7,108" type="#" clock="01:35" text="Timeout California, clock 01:35." newcontext="V,4,25,V36">
+    <p_to vh="H" team="California"></p_to>
+   </play>
+   <play hasball="MD" down="4" togo="25" spot="MD36" context="V,4,25,V36" playid="13,8,109" type="U" text="Baltz punt 33 yards to the CAL31, fair catch by S. Thompson." newcontext="H,1,10,H31">
+    <p_pu vh="V" name="Baltz" gain="33" fc="S. Thompson"></p_pu>
+   </play>
+   <drivesum plays="5" yards="10" top="2:07" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H31,01:35" vh="H" spot="H31" clock="01:35" driveindex="14,109"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="CAL31" context="H,1,10,H31" playid="14,1,110" clock="01:29" text="CALIFORNIA drive start at 01:29." newcontext="H,1,10,H31">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL31" context="H,1,10,H31" playid="14,2,111" type="R" pcode="LT" form="SHOT" text="[SHOT], Kevin Riley rush over left tackle for 1 yard to the CAL32 (D. Galt;Hartsfield)." newcontext="H,2,9,H32">
+    <p_ru vh="H" name="Kevin Riley" gain="1"></p_ru>
+    <p_tk vh="V" name="D. Galt" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hartsfield" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="9" spot="CAL32" context="H,2,9,H32" playid="14,3,112" type="P" pcode="LL" form="SHOT" text="[SHOT], Kevin Riley LL pass complete to Verran Tucker for 8 yards to the CAL40 (Wujciak;Carroll)." newcontext="H,3,1,H40">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Verran Tucker" gain="8"></p_pa>
+    <p_tk vh="V" name="Wujciak" assist="Y"></p_tk>
+    <p_tk vh="V" name="Carroll" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="3" togo="1" spot="CAL40" context="H,3,1,H40" playid="14,4,113" type="P" pcode="SL" first="P" form="SHOT" text="[SHOT], Kevin Riley slant pass complete to Verran Tucker for 3 yards to the CAL43, 1ST DOWN CAL, out-of-bounds." ob="Y" newcontext="H,1,10,H43">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Verran Tucker" gain="3"></p_pa>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL43" context="H,1,10,H43" playid="14,5,114" type="P" pcode="XL" first="P" clock="00:38" form="SHOT" text="[SHOT], clock 00:38, Kevin Riley XL pass complete to Jahvid Best for 18 yards to the MD39, 1ST DOWN CAL, out-of-bounds (Hartsfield)." ob="Y" newcontext="H,1,10,V39">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Jahvid Best" gain="18"></p_pa>
+    <p_tk vh="V" name="Hartsfield"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="MD39" context="H,1,10,V39" playid="14,6,115" type="X" pcode="MI" first="P" score="Y" clock="00:25" form="SHOT" text="Clock 00:31, [SHOT], Kevin Riley middle pass complete to Nyan Boateng for 39 yards to the MD0, 1ST DOWN CAL, TOUCHDOWN, clock 00:25, Vince D'Amato kick attempt good." newcontext="H,1,0,H30">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Nyan Boateng" gain="39"></p_pa>
+    <p_pat vh="H" name="Vince D'Amato" qb="Vince D'Amato" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="6" H="31"></score>
+   <drivesum plays="5" yards="69" top="1:04" driveindex="14" complete="Y"></drivesum>
+   <play hasball="CAL" down="1" togo="0" spot="CAL30" context="H,1,0,H30" playid="14,7,116" type="K" text="G. Tavecchio kickoff 15 yards to the CAL45, on-side kick, recovered by MD on CAL45." newcontext="V,1,10,H45">
+    <p_ko vh="H" name="G. Tavecchio" gain="15" result="N"></p_ko>
+   </play>
+   <drivestart poss="V,H45,00:25" vh="V" spot="H45" clock="00:25" driveindex="15,116"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="CAL45" context="V,1,10,H45" playid="15,1,117" clock="00:24" text="MARYLAND drive start at 00:24." newcontext="V,1,10,H45">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="CAL45" context="V,1,10,H45" playid="15,2,118" type="P" pcode="LF" form="SHOT" text="[SHOT], Turner LF pass complete to Scott for 9 yards to the CAL36 (Tyson Alualu;Mike Mohamed)." newcontext="V,2,1,H36">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="Scott" gain="9"></p_pa>
+    <p_tk vh="H" name="Tyson Alualu" assist="Y"></p_tk>
+    <p_tk vh="H" name="Mike Mohamed" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="1" spot="CAL36" context="V,2,1,H36" playid="15,3,119" type="#" clock="00:17" text="Timeout Maryland, clock 00:17." newcontext="V,2,1,H36">
+    <p_to vh="V" team="Maryland"></p_to>
+   </play>
+   <play hasball="MD" down="2" togo="1" spot="CAL36" context="V,2,1,H36" playid="15,4,120" type="P" pcode="MI" form="SHOT" text="[SHOT], Turner middle pass incomplete to Furstenburg." newcontext="V,3,1,H36">
+    <p_pa vh="V" qb="Turner" result="INC" rcv="Furstenburg"></p_pa>
+   </play>
+   <play hasball="MD" down="3" togo="1" spot="CAL36" context="V,3,1,H36" playid="15,5,121" type="P" clock="00:11" form="SHOT" text="Clock 00:11, [SHOT], Turner sacked for loss of 6 yards to the CAL42 (Ernest Owusu)." newcontext="V,4,7,H42">
+    <p_pa vh="V" qb="Turner" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="H" name="Ernest Owusu" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="4" togo="7" spot="CAL42" context="V,4,7,H42" playid="15,6,122" type="#" clock="00:06" text="Timeout Maryland, clock 00:06." newcontext="V,4,7,H42">
+    <p_to vh="V" team="Maryland"></p_to>
+   </play>
+   <play hasball="MD" down="4" togo="7" spot="CAL42" context="V,4,7,H42" playid="15,7,123" type="P" pcode="MI" form="SHOT" text="[SHOT], Turner middle pass incomplete to Cannon (D.J. Holt)." newcontext="H,1,10,H42">
+    <p_pa vh="V" qb="Turner" result="INC" rcv="Cannon"></p_pa>
+    <p_bu vh="H" name="D.J. Holt"></p_bu>
+   </play>
+   <drivesum plays="4" yards="3" top="0:22" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H42,00:06" vh="H" spot="H42" clock="00:06" driveindex="16,123"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="CAL42" context="H,1,10,H42" playid="16,1,124" clock="00:02" text="CALIFORNIA drive start at 00:02." newcontext="H,1,10,H42">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL42" context="H,1,10,H42" playid="16,2,125" type="R" text="TEAM rush for loss of 2 yards to the CAL40." newcontext="H,2,12,H40">
+    <p_ru vh="H" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="CAL" down="2" togo="12" spot="CAL40" context="H,2,12,H40" playid="16,3,126" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,2,12,H40">
+   </play>
+   <drivesum plays="1" yards="-2" top="0:02" driveindex="16" complete="Y"></drivesum>
+   <score qtr="2" V="6" H="31"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MD">
+    <firstdowns no="5" rush="2" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="7" fourthconv="1" fourthatt="2"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="07:11"></misc>
+    <rush att="11" yds="-6" gain="35" loss="41" td="0" long="5"></rush>
+    <pass comp="4" att="8" int="0" yds="47" td="0" long="0" sacks="5" sackyds="38"></pass>
+    <rcv no="4" yds="47" td="0" long="0"></rcv>
+    <punt no="1" yds="33" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="33.0"></punt>
+    <ko no="1" yds="67" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="16" blkd="0"></fg>
+    <defense tackua="9" tacka="12" tot_tack="21" tflua="2" tfla="0" tflyds="12" sacks="1" sackyds="6" brup="2"></defense>
+    <kr no="2" yds="39" td="0" long="0"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="CAL">
+    <firstdowns no="9" rush="1" pass="8" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="4" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:49"></misc>
+    <rush att="8" yds="9" gain="17" loss="8" td="0" long="0"></rush>
+    <pass comp="11" att="14" int="0" yds="169" td="2" long="19" sacks="1" sackyds="6"></pass>
+    <rcv no="11" yds="169" td="2" long="19"></rcv>
+    <ko no="2" yds="126" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="31" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="11" tacka="10" tot_tack="21" tflua="7" tfla="0" tflyds="52" sacks="5" sackyds="38" brup="2" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="21" td="0" long="3"></kr>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <comment text="Cal elects to receive; Maryland will defend north goal."></comment>
+   <play hasball="CAL" down="2" togo="12" spot="CAL40" context="H,2,12,H40" playid="16,4,127" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, MD ball on MD30." newcontext="V,2,12,V30">
+   </play>
+   <play hasball="MD" down="2" togo="12" spot="MD30" context="V,2,12,V30" playid="16,5,129" type="K" text="Ferrara kickoff 63 yards to the CAL7, Shane Vereen return 39 yards to the CAL46 (Ferrara)." newcontext="H,1,10,H46">
+    <p_ko vh="V" name="Ferrara" gain="63"></p_ko>
+    <p_kr vh="H" name="Shane Vereen" gain="39"></p_kr>
+    <p_tk vh="V" name="Ferrara"></p_tk>
+   </play>
+   <drivestart poss="H,H46,15:00" vh="H" spot="H46" clock="15:00" driveindex="17,129"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="CAL46" context="H,1,10,H46" playid="17,1,130" clock="14:54" text="CALIFORNIA drive start at 14:54." newcontext="H,1,10,H46">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL46" context="H,1,10,H46" playid="17,2,131" type="R" pcode="LL" first="R" text="Jahvid Best rush left for 40 yards to the MD14, 1ST DOWN CAL, out-of-bounds (T. Skinner)." ob="Y" newcontext="H,1,10,V14">
+    <p_ru vh="H" name="Jahvid Best" gain="40"></p_ru>
+    <p_tk vh="V" name="T. Skinner"></p_tk>
+   </play>
+   <comment text="Key block by Riley."></comment>
+   <play hasball="CAL" down="1" togo="10" spot="MD14" context="H,1,10,V14" playid="17,3,133" type="R" pcode="MI" text="Jahvid Best rush up middle for 3 yards to the MD11 (Hartsfield;Francis)." newcontext="H,2,7,V11">
+    <p_ru vh="H" name="Jahvid Best" gain="3"></p_ru>
+    <p_tk vh="V" name="Hartsfield" assist="Y"></p_tk>
+    <p_tk vh="V" name="Francis" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="7" spot="MD11" context="H,2,7,V11" playid="17,4,134" type="R" pcode="CR" first="R" score="Y" clock="13:42" text="Shane Vereen rush CR for 11 yards to the MD0, 1ST DOWN CAL, TOUCHDOWN, clock 13:42." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Shane Vereen" gain="11"></p_ru>
+   </play>
+   <play hasball="CAL" down="1" togo="0" spot="MD03" context="H,1,0,V03" playid="17,5,135" type="E" text="PENALTY CAL false start (D. Edwards) 5 yards to the MD8." newcontext="H,1,0,V08">
+    <p_pn vh="H" code="FS" type="false start" name="D. Edwards" result="ACCEPT" at="V03" yards="5"></p_pn>
+   </play>
+   <play hasball="CAL" down="1" togo="0" spot="MD08" context="H,1,0,V08" playid="17,6,136" type="X" score="Y" text="Vince D'Amato kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Vince D'Amato" qb="Vince D'Amato" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="6" H="38"></score>
+   <drivesum plays="3" yards="54" top="1:12" driveindex="17" complete="Y"></drivesum>
+   <play hasball="CAL" down="1" togo="0" spot="CAL30" context="H,1,0,H30" playid="17,7,137" type="K" text="G. Tavecchio kickoff 52 yards to the MD18, Smith return 23 yards to the MD41 (M. Kendricks)." newcontext="V,1,10,V41">
+    <p_ko vh="H" name="G. Tavecchio" gain="52"></p_ko>
+    <p_kr vh="V" name="Smith" gain="23"></p_kr>
+    <p_tk vh="H" name="M. Kendricks"></p_tk>
+   </play>
+   <drivestart poss="V,V41,13:42" vh="V" spot="V41" clock="13:42" driveindex="18,137"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="MD41" context="V,1,10,V41" playid="18,1,138" clock="13:37" text="MARYLAND drive start at 13:37." newcontext="V,1,10,V41">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD41" context="V,1,10,V41" playid="18,2,139" type="R" pcode="LG" text="Scott rush over left guard for 2 yards to the MD43 (Cameron Jordan;Derrick Hill)." newcontext="V,2,8,V43">
+    <p_ru vh="V" name="Scott" gain="2"></p_ru>
+    <p_tk vh="H" name="Cameron Jordan" assist="Y"></p_tk>
+    <p_tk vh="H" name="Derrick Hill" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="8" spot="MD43" context="V,2,8,V43" playid="18,3,140" type="R" pcode="LE" first="R" text="Scott rush over left end for 10 yards to the CAL47, 1ST DOWN MD (Brett Johnson)." newcontext="V,1,10,H47">
+    <p_ru vh="V" name="Scott" gain="10"></p_ru>
+    <p_tk vh="H" name="Brett Johnson"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="CAL47" context="V,1,10,H47" playid="18,4,141" type="R" pcode="MI" text="Meggett rush up middle for loss of 1 yard to the CAL48 (M. Kendricks)." newcontext="V,2,11,H48">
+    <p_ru vh="V" name="Meggett" gain="-1"></p_ru>
+    <p_tk vh="H" name="M. Kendricks" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="11" spot="CAL48" context="V,2,11,H48" playid="18,5,142" type="R" pcode="LE" text="Meggett rush over left end for 8 yards to the CAL40 (Cameron Jordan;M. Kendricks)." newcontext="V,3,3,H40">
+    <p_ru vh="V" name="Meggett" gain="8"></p_ru>
+    <p_tk vh="H" name="Cameron Jordan" assist="Y"></p_tk>
+    <p_tk vh="H" name="M. Kendricks" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="3" togo="3" spot="CAL40" context="V,3,3,H40" playid="18,6,143" type="P" pcode="MI" text="Turner middle pass incomplete to Jackson (Tyson Alualu)." newcontext="V,4,3,H40">
+    <p_pa vh="V" qb="Turner" result="INC" rcv="Jackson"></p_pa>
+    <p_bu vh="H" name="Tyson Alualu"></p_bu>
+   </play>
+   <play hasball="MD" down="4" togo="3" spot="CAL40" context="V,4,3,H40" playid="18,7,144" type="P" form="SHOT" text="[SHOT], Turner sacked for loss of 7 yards to the CAL47 (Mike Mohamed)." newcontext="H,1,10,H47">
+    <p_pa vh="V" qb="Turner" result="SACK" gain="-7"></p_pa>
+    <p_tk vh="H" name="Mike Mohamed" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <drivesum plays="6" yards="12" top="2:23" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,H47,13:37" vh="H" spot="H47" clock="13:37" driveindex="19,144"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="CAL47" context="H,1,10,H47" playid="19,1,145" clock="11:14" text="CALIFORNIA drive start at 11:14." newcontext="H,1,10,H47">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL47" context="H,1,10,H47" playid="19,2,146" type="P" pcode="LL" text="Kevin Riley LL pass incomplete to Nyan Boateng." newcontext="H,2,10,H47">
+    <p_pa vh="H" qb="Kevin Riley" result="INC" rcv="Nyan Boateng"></p_pa>
+   </play>
+   <play hasball="CAL" down="2" togo="10" spot="CAL47" context="H,2,10,H47" playid="19,3,147" type="R" pcode="RE" text="Jahvid Best rush over right end for 6 yards to the MD47 (Ivey)." newcontext="H,3,4,V47">
+    <p_ru vh="H" name="Jahvid Best" gain="6"></p_ru>
+    <p_tk vh="V" name="Ivey"></p_tk>
+   </play>
+   <play hasball="CAL" down="3" togo="4" spot="MD47" context="H,3,4,V47" playid="19,4,148" type="P" pcode="XL" first="P" form="SHOT" text="[SHOT], Kevin Riley XL pass complete to Nyan Boateng for 5 yards to the MD42, 1ST DOWN CAL (Carroll)." newcontext="H,1,10,V42">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Nyan Boateng" gain="5"></p_pa>
+    <p_tk vh="V" name="Carroll"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="MD42" context="H,1,10,V42" playid="19,5,149" type="X" pcode="EZ" first="P" score="Y" clock="09:53" text="Kevin Riley EZ pass complete to Marvin Jones for 42 yards to the MD0, 1ST DOWN CAL, TOUCHDOWN, clock 09:53, Vince D'Amato kick attempt good." newcontext="H,1,0,H30">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Marvin Jones" gain="42"></p_pa>
+    <p_pat vh="H" name="Vince D'Amato" qb="Vince D'Amato" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="6" H="45"></score>
+   <drivesum plays="4" yards="53" top="1:21" driveindex="19" complete="Y"></drivesum>
+   <play hasball="CAL" down="1" togo="0" spot="CAL30" context="H,1,0,H30" playid="19,6,150" type="K" text="D. Seawright kickoff 67 yards to the MD3, Smith return 29 yards to the MD32 (Chris Little)." newcontext="V,1,10,V32">
+    <p_ko vh="H" name="D. Seawright" gain="67"></p_ko>
+    <p_kr vh="V" name="Smith" gain="29"></p_kr>
+    <p_tk vh="H" name="Chris Little"></p_tk>
+   </play>
+   <drivestart poss="V,V32,09:53" vh="V" spot="V32" clock="09:53" driveindex="20,150"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="MD32" context="V,1,10,V32" playid="20,1,151" clock="09:48" text="MARYLAND drive start at 09:48." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD32" context="V,1,10,V32" playid="20,2,152" type="P" pcode="MI" text="Turner middle pass complete to T. Galt for 6 yards to the MD38 (M. Kendricks)." newcontext="V,2,4,V38">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="T. Galt" gain="6"></p_pa>
+    <p_tk vh="H" name="M. Kendricks"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="4" spot="MD38" context="V,2,4,V38" playid="20,3,153" type="R" pcode="LE" text="Scott rush over left end for 3 yards to the MD41 (Devin Bishop)." newcontext="V,3,1,V41">
+    <p_ru vh="V" name="Scott" gain="3"></p_ru>
+    <p_tk vh="H" name="Devin Bishop"></p_tk>
+   </play>
+   <play hasball="MD" down="3" togo="1" spot="MD41" context="V,3,1,V41" playid="20,4,154" type="P" pcode="RR" first="P" text="Turner RR pass complete to Cannon for 5 yards to the MD46, 1ST DOWN MD (S. Thompson;Eddie Young)." newcontext="V,1,10,V46">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="Cannon" gain="5"></p_pa>
+    <p_tk vh="H" name="S. Thompson" assist="Y"></p_tk>
+    <p_tk vh="H" name="Eddie Young" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD46" context="V,1,10,V46" playid="20,5,155" type="R" pcode="LL" first="R" text="Scott rush left for 15 yards to the CAL39, 1ST DOWN MD, out-of-bounds (Marcus Ezeff)." ob="Y" newcontext="V,1,10,H39">
+    <p_ru vh="V" name="Scott" gain="15"></p_ru>
+    <p_tk vh="H" name="Marcus Ezeff"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="CAL39" context="V,1,10,H39" playid="20,6,156" type="X" pcode="RE" first="R" score="Y" clock="07:29" text="Scott rush over right end for 39 yards to the CAL0, 1ST DOWN MD, TOUCHDOWN, clock 07:29, Ferrara kick attempt good." newcontext="V,1,0,V30">
+    <p_ru vh="V" name="Scott" gain="39"></p_ru>
+    <p_pat vh="V" name="Ferrara" qb="Ferrara" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="13" H="45"></score>
+   <drivesum plays="5" yards="68" top="2:19" driveindex="20" complete="Y"></drivesum>
+   <play hasball="MD" down="1" togo="0" spot="MD30" context="V,1,0,V30" playid="20,7,157" type="K" text="Ferrara kickoff 59 yards to the CAL11, Shane Vereen return 16 yards to the CAL27 (Dorsey)." newcontext="H,1,10,H27">
+    <p_ko vh="V" name="Ferrara" gain="59"></p_ko>
+    <p_kr vh="H" name="Shane Vereen" gain="16"></p_kr>
+    <p_tk vh="V" name="Dorsey"></p_tk>
+   </play>
+   <drivestart poss="H,H27,07:29" vh="H" spot="H27" clock="07:29" driveindex="21,157"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="CAL27" context="H,1,10,H27" playid="21,1,158" clock="07:22" text="CALIFORNIA drive start at 07:22." newcontext="H,1,10,H27">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL27" context="H,1,10,H27" playid="21,2,159" type="R" pcode="PL" text="Shane Vereen rush PL for 4 yards to the CAL31 (Russell;Perez)." newcontext="H,2,6,H31">
+    <p_ru vh="H" name="Shane Vereen" gain="4"></p_ru>
+    <p_tk vh="V" name="Russell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Perez" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="6" spot="CAL31" context="H,2,6,H31" playid="21,3,160" type="R" pcode="LG" text="Shane Vereen rush over left guard for 4 yards to the CAL35 (Wujciak)." newcontext="H,3,2,H35">
+    <p_ru vh="H" name="Shane Vereen" gain="4"></p_ru>
+    <p_tk vh="V" name="Wujciak"></p_tk>
+   </play>
+   <play hasball="CAL" down="3" togo="2" spot="CAL35" context="H,3,2,H35" playid="21,4,161" type="R" pcode="LG" first="R" text="Shane Vereen rush over left guard for 6 yards to the CAL41, 1ST DOWN CAL (T. Skinner;Davidson)." newcontext="H,1,10,H41">
+    <p_ru vh="H" name="Shane Vereen" gain="6"></p_ru>
+    <p_tk vh="V" name="T. Skinner" assist="Y"></p_tk>
+    <p_tk vh="V" name="Davidson" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL41" context="H,1,10,H41" playid="21,5,162" type="P" pcode="LL" first="P" text="Kevin Riley LL pass complete to Alex Lagemann for 23 yards to the MD36, 1ST DOWN CAL (Wiseman)." newcontext="H,1,10,V36">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Alex Lagemann" gain="23"></p_pa>
+    <p_tk vh="V" name="Wiseman"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="MD36" context="H,1,10,V36" playid="21,6,163" type="R" pcode="RR" text="Shane Vereen rush right for no gain to the MD36 (D. Galt;Ivey)." newcontext="H,2,10,V36">
+    <p_ru vh="H" name="Shane Vereen" gain="0"></p_ru>
+    <p_tk vh="V" name="D. Galt" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ivey" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="10" spot="MD36" context="H,2,10,V36" playid="21,7,164" type="P" pcode="CL" form="SHOT" text="[SHOT], Kevin Riley CL pass incomplete to Michael Calvin (Carroll)." newcontext="H,3,10,V36">
+    <p_pa vh="H" qb="Kevin Riley" result="INC" rcv="Michael Calvin"></p_pa>
+    <p_bu vh="V" name="Carroll"></p_bu>
+   </play>
+   <play hasball="CAL" down="3" togo="10" spot="MD36" context="H,3,10,V36" playid="21,8,165" type="P" form="SHOT" text="[SHOT], Kevin Riley sacked for loss of 8 yards to the MD44 (Kabongo)." newcontext="H,4,18,V44">
+    <p_pa vh="H" qb="Kevin Riley" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="V" name="Kabongo" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="4" togo="18" spot="MD44" context="H,4,18,V44" playid="21,9,166" type="U" text="Bryan Anger punt 35 yards to the MD9, out-of-bounds." ob="Y" newcontext="V,1,10,V09">
+    <p_pu vh="H" name="Bryan Anger" gain="35" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="29" top="3:43" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="V,V09,07:22" vh="V" spot="V09" clock="07:22" driveindex="22,166"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="MD09" context="V,1,10,V09" playid="22,1,167" clock="03:39" text="MARYLAND drive start at 03:39." newcontext="V,1,10,V09">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD09" context="V,1,10,V09" playid="22,2,168" type="R" pcode="RG" text="Meggett rush over right guard for 3 yards to the MD12 (M. Kendricks)." newcontext="V,2,7,V12">
+    <p_ru vh="V" name="Meggett" gain="3"></p_ru>
+    <p_tk vh="H" name="M. Kendricks"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="7" spot="MD12" context="V,2,7,V12" playid="22,3,169" type="P" pcode="SL" first="P" text="Turner slant pass complete to Smith for 29 yards to the MD41, 1ST DOWN MD (Darian Hagan)." newcontext="V,1,10,V41">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="Smith" gain="29"></p_pa>
+    <p_tk vh="H" name="Darian Hagan"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD41" context="V,1,10,V41" playid="22,4,170" type="R" pcode="RT" text="Meggett rush over right tackle for 5 yards to the MD46 (M. Kendricks;C. Johnson)." newcontext="V,2,5,V46">
+    <p_ru vh="V" name="Meggett" gain="5"></p_ru>
+    <p_tk vh="H" name="M. Kendricks" assist="Y"></p_tk>
+    <p_tk vh="H" name="C. Johnson" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="5" spot="MD46" context="V,2,5,V46" playid="22,5,171" type="E" text="PENALTY MD illegal block (Young) 15 yards to the MD31." newcontext="V,2,20,V31">
+    <p_pn vh="V" code="BL" type="illegal block" name="Young" result="ACCEPT" at="V46" yards="15"></p_pn>
+   </play>
+   <comment text="Negates Meggett rush for 6."></comment>
+   <play hasball="MD" down="2" togo="20" spot="MD31" context="V,2,20,V31" playid="22,6,173" type="R" pcode="RT" text="Meggett rush over right tackle for 5 yards to the MD36 (Brett Johnson)." newcontext="V,3,15,V36">
+    <p_ru vh="V" name="Meggett" gain="5"></p_ru>
+    <p_tk vh="H" name="Brett Johnson"></p_tk>
+   </play>
+   <play hasball="MD" down="3" togo="15" spot="MD36" context="V,3,15,V36" playid="22,7,174" type="P" pcode="RR" form="SHOT" text="[SHOT], Turner RR pass incomplete to Meggett, QB hurry by Jarred Price." newcontext="V,4,15,V36">
+    <p_pa vh="V" qb="Turner" result="INC" rcv="Meggett"></p_pa>
+    <p_qbh vh="H" name="Jarred Price"></p_qbh>
+   </play>
+   <play hasball="MD" down="4" togo="15" spot="MD36" context="V,4,15,V36" playid="22,8,175" type="U" text="Baltz punt 36 yards to the CAL28, fair catch by S. Thompson." newcontext="H,1,10,H28">
+    <p_pu vh="V" name="Baltz" gain="36" fc="S. Thompson"></p_pu>
+   </play>
+   <drivesum plays="5" yards="27" top="2:31" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="H,H28,03:39" vh="H" spot="H28" clock="03:39" driveindex="23,175"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="CAL28" context="H,1,10,H28" playid="23,1,176" clock="01:08" text="CALIFORNIA drive start at 01:08." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL28" context="H,1,10,H28" playid="23,2,177" type="P" pcode="SR" first="P" text="Kevin Riley SR pass complete to Jeremy Ross for 24 yards to the MD48, 1ST DOWN CAL, out-of-bounds (Perez), PENALTY MD personal foul (Drummond) 15 yards to the MD33, 1ST DOWN CAL." ob="Y" newcontext="H,1,10,V33">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Jeremy Ross" gain="24"></p_pa>
+    <p_tk vh="V" name="Perez"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" name="Drummond" result="ACCEPT" at="V48" yards="15"></p_pn>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="MD33" context="H,1,10,V33" playid="23,3,178" text="1st and 10." newcontext="H,1,10,V33">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="MD33" context="H,1,10,V33" playid="23,4,179" type="R" pcode="EA" text="Isi Sofele rush EA for 8 yards to the MD25, out-of-bounds (Wiseman)." ob="Y" newcontext="H,2,2,V25">
+    <p_ru vh="H" name="Isi Sofele" gain="8"></p_ru>
+    <p_tk vh="V" name="Wiseman"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="2" spot="MD25" context="H,2,2,V25" playid="23,5,180" type="R" pcode="MI" text="Shane Vereen rush up middle for 1 yard to the MD24 (Kabongo;Ivey)." newcontext="H,3,1,V24">
+    <p_ru vh="H" name="Shane Vereen" gain="1"></p_ru>
+    <p_tk vh="V" name="Kabongo" assist="Y"></p_tk>
+    <p_tk vh="V" name="Ivey" assist="Y"></p_tk>
+   </play>
+   <score qtr="3" V="13" H="45"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MD">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="30"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:23"></misc>
+    <rush att="11" yds="82" gain="90" loss="8" td="1" long="26"></rush>
+    <pass comp="3" att="5" int="0" yds="40" td="0" long="12" sacks="1" sackyds="7"></pass>
+    <rcv no="3" yds="40" td="0" long="12"></rcv>
+    <punt no="1" yds="36" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="36.0"></punt>
+    <ko no="2" yds="122" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="10" tot_tack="20" tflua="1" tfla="0" tflyds="8" sacks="2" sackyds="14" brup="1"></defense>
+    <kr no="2" yds="52" td="0" long="0"></kr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="CAL">
+    <firstdowns no="8" rush="3" pass="4" penalty="1"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:37"></misc>
+    <rush att="11" yds="75" gain="83" loss="8" td="1" long="0"></rush>
+    <pass comp="4" att="6" int="0" yds="94" td="1" long="3" sacks="1" sackyds="8"></pass>
+    <rcv no="4" yds="94" td="1" long="3"></rcv>
+    <punt no="1" yds="35" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="35.0"></punt>
+    <ko no="2" yds="119" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="11" tacka="8" tot_tack="19" tflua="2" tfla="0" tflyds="8" sacks="6" sackyds="45" brup="1" qbh="1"></defense>
+    <kr no="2" yds="55" td="0" long="18"></kr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="CAL" down="3" togo="1" spot="MD24" context="H,3,1,V24" playid="23,6,181" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,3,1,V24">
+   </play>
+   <play hasball="CAL" down="3" togo="1" spot="MD24" context="H,3,1,V24" playid="23,7,182" type="R" pcode="PL" first="R" text="Shane Vereen rush PL for 9 yards to the MD15, 1ST DOWN CAL (Perez)." newcontext="H,1,10,V15">
+    <p_ru vh="H" name="Shane Vereen" gain="9"></p_ru>
+    <p_tk vh="V" name="Perez"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="MD15" context="H,1,10,V15" playid="23,8,183" type="X" pcode="XL" first="P" score="Y" clock="14:21" text="Kevin Riley XL pass complete to Shane Vereen for 15 yards to the MD0, 1ST DOWN CAL, TOUCHDOWN, clock 14:21, Vince D'Amato kick attempt good." newcontext="H,1,0,H30">
+    <p_pa vh="H" qb="Kevin Riley" result="COMP" rcv="Shane Vereen" gain="15"></p_pa>
+    <p_pat vh="H" name="Vince D'Amato" qb="Vince D'Amato" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="13" H="52"></score>
+   <drivesum plays="5" yards="72" top="1:47" driveindex="23" complete="Y"></drivesum>
+   <play hasball="CAL" down="1" togo="0" spot="CAL30" context="H,1,0,H30" playid="23,9,184" type="K" text="D. Seawright kickoff 63 yards to the MD7, Smith return 17 yards to the MD24, out-of-bounds (M. Kendricks)." ob="Y" newcontext="V,1,10,V24">
+    <p_ko vh="H" name="D. Seawright" gain="63"></p_ko>
+    <p_kr vh="V" name="Smith" gain="17"></p_kr>
+    <p_tk vh="H" name="M. Kendricks"></p_tk>
+   </play>
+   <drivestart poss="V,V24,14:21" vh="V" spot="V24" clock="14:21" driveindex="24,184"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="MD24" context="V,1,10,V24" playid="24,1,185" clock="14:16" text="MARYLAND drive start at 14:16." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD24" context="V,1,10,V24" playid="24,2,186" type="R" pcode="RR" text="Scott rush right for loss of 1 yard to the MD23, out-of-bounds (Mike Mohamed)." ob="Y" newcontext="V,2,11,V23">
+    <p_ru vh="V" name="Scott" gain="-1"></p_ru>
+    <p_tk vh="H" name="Mike Mohamed" tfl="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="11" spot="MD23" context="V,2,11,V23" playid="24,3,187" type="R" pcode="PR" text="Scott rush PR for no gain to the MD23 (Brett Johnson)." newcontext="V,3,11,V23">
+    <p_ru vh="V" name="Scott" gain="0"></p_ru>
+    <p_tk vh="H" name="Brett Johnson"></p_tk>
+   </play>
+   <play hasball="MD" down="3" togo="11" spot="MD23" context="V,3,11,V23" playid="24,4,188" type="P" pcode="MI" first="P" form="SHOT" text="[SHOT], Turner middle pass complete to L. Watson for 16 yards to the MD39, 1ST DOWN MD (Chris Conte)." newcontext="V,1,10,V39">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="L. Watson" gain="16"></p_pa>
+    <p_tk vh="H" name="Chris Conte"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD39" context="V,1,10,V39" playid="24,5,189" type="R" pcode="LG" text="Scott rush over left guard for 4 yards to the MD43 (Devin Bishop;Eddie Young)." newcontext="V,2,6,V43">
+    <p_ru vh="V" name="Scott" gain="4"></p_ru>
+    <p_tk vh="H" name="Devin Bishop" assist="Y"></p_tk>
+    <p_tk vh="H" name="Eddie Young" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="6" spot="MD43" context="V,2,6,V43" playid="24,6,190" type="P" pcode="SL" text="Turner slant pass incomplete to Cannon." newcontext="V,3,6,V43">
+    <p_pa vh="V" qb="Turner" result="INC" rcv="Cannon"></p_pa>
+   </play>
+   <play hasball="MD" down="3" togo="6" spot="MD43" context="V,3,6,V43" playid="24,7,191" type="#" clock="12:15" text="Timeout California, clock 12:15." newcontext="V,3,6,V43">
+    <p_to vh="H" team="California"></p_to>
+   </play>
+   <play hasball="MD" down="3" togo="6" spot="MD43" context="V,3,6,V43" playid="24,8,192" type="R" pcode="RE" form="SHOT" text="[SHOT], Turner rush over right end for 1 yard to the MD44 (Devin Bishop)." newcontext="V,4,5,V44">
+    <p_ru vh="V" name="Turner" gain="1"></p_ru>
+    <p_tk vh="H" name="Devin Bishop"></p_tk>
+   </play>
+   <play hasball="MD" down="4" togo="5" spot="MD44" context="V,4,5,V44" playid="24,9,193" type="U" text="Baltz punt 35 yards to the CAL21, fair catch by S. Thompson." newcontext="H,1,10,H21">
+    <p_pu vh="V" name="Baltz" gain="35" fc="S. Thompson"></p_pu>
+   </play>
+   <drivesum plays="6" yards="20" top="2:50" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,H21,12:15" vh="H" spot="H21" clock="12:15" driveindex="25,193"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="CAL21" context="H,1,10,H21" playid="25,1,194" clock="11:26" text="CALIFORNIA drive start at 11:26." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL21" context="H,1,10,H21" playid="25,2,195" text="Brock Mansion at QB for California." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL21" context="H,1,10,H21" playid="25,3,196" type="R" pcode="MI" text="C. DeBoskie rush up middle for 7 yards to the CAL28 (Pooler)." newcontext="H,2,3,H28">
+    <p_ru vh="H" name="C. DeBoskie" gain="7"></p_ru>
+    <p_tk vh="V" name="Pooler"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="3" spot="CAL28" context="H,2,3,H28" playid="25,4,197" type="R" pcode="LT" text="C. DeBoskie rush over left tackle for 1 yard to the CAL29 (Moten;Francis)." newcontext="H,3,2,H29">
+    <p_ru vh="H" name="C. DeBoskie" gain="1"></p_ru>
+    <p_tk vh="V" name="Moten" assist="Y"></p_tk>
+    <p_tk vh="V" name="Francis" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="3" togo="2" spot="CAL29" context="H,3,2,H29" playid="25,5,198" type="R" pcode="MI" first="R" text="C. DeBoskie rush up middle for 7 yards to the CAL36, 1ST DOWN CAL (Pooler;Chism)." newcontext="H,1,10,H36">
+    <p_ru vh="H" name="C. DeBoskie" gain="7"></p_ru>
+    <p_tk vh="V" name="Pooler" assist="Y"></p_tk>
+    <p_tk vh="V" name="Chism" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL36" context="H,1,10,H36" playid="25,6,199" type="R" pcode="LT" text="C. DeBoskie rush over left tackle for 2 yards to the CAL38 (Chism)." newcontext="H,2,8,H38">
+    <p_ru vh="H" name="C. DeBoskie" gain="2"></p_ru>
+    <p_tk vh="V" name="Chism"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="8" spot="CAL38" context="H,2,8,H38" playid="25,7,200" type="R" pcode="MI" text="C. DeBoskie rush up middle for 2 yards to the CAL40 (Perez)." newcontext="H,3,6,H40">
+    <p_ru vh="H" name="C. DeBoskie" gain="2"></p_ru>
+    <p_tk vh="V" name="Perez"></p_tk>
+   </play>
+   <comment text="Ladner injured on play."></comment>
+   <play hasball="CAL" down="3" togo="6" spot="CAL40" context="H,3,6,H40" playid="25,8,202" type="P" pcode="XL" form="SHOT" text="[SHOT], Brock Mansion XL pass incomplete to Michael Calvin." newcontext="H,4,6,H40">
+    <p_pa vh="H" qb="Brock Mansion" result="INC" rcv="Michael Calvin"></p_pa>
+   </play>
+   <play hasball="CAL" down="4" togo="6" spot="CAL40" context="H,4,6,H40" playid="25,9,203" type="U" text="Ryan Theimer punt 48 yards to the MD12, Tate return 4 yards to the MD16 (Will Kapp)." newcontext="V,1,10,V16">
+    <p_pu vh="H" name="Ryan Theimer" gain="48" in20="Y"></p_pu>
+    <p_pr vh="V" name="Tate" gain="4"></p_pr>
+    <p_tk vh="H" name="Will Kapp"></p_tk>
+   </play>
+   <drivesum plays="6" yards="19" top="3:11" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="V,V16,11:26" vh="V" spot="V16" clock="11:26" driveindex="26,203"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="MD16" context="V,1,10,V16" playid="26,1,204" clock="08:15" text="MARYLAND drive start at 08:15." newcontext="V,1,10,V16">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD16" context="V,1,10,V16" playid="26,2,205" type="R" pcode="MI" text="Meggett rush up middle for no gain to the MD16 (Ernest Owusu)." newcontext="V,2,10,V16">
+    <p_ru vh="V" name="Meggett" gain="0"></p_ru>
+    <p_tk vh="H" name="Ernest Owusu"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="10" spot="MD16" context="V,2,10,V16" playid="26,3,206" type="P" pcode="XR" text="Turner XR pass complete to Meggett for loss of 2 yards to the MD14, out-of-bounds (M. Costanzo;Jerome Meadows)." ob="Y" newcontext="V,3,12,V14">
+    <p_pa vh="V" qb="Turner" result="COMP" rcv="Meggett" gain="-2"></p_pa>
+    <p_tk vh="H" name="M. Costanzo" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jerome Meadows" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="3" togo="12" spot="MD14" context="V,3,12,V14" playid="26,4,207" type="P" pcode="RR" form="SHOT" text="[SHOT], Turner RR pass incomplete to Smith (D.J. Holt)." newcontext="V,4,12,V14">
+    <p_pa vh="V" qb="Turner" result="INC" rcv="Smith"></p_pa>
+    <p_bu vh="H" name="D.J. Holt"></p_bu>
+   </play>
+   <play hasball="MD" down="4" togo="12" spot="MD14" context="V,4,12,V14" playid="26,5,208" type="U" text="Baltz punt 38 yards to the CAL48, fair catch by S. Thompson." newcontext="H,1,10,H48">
+    <p_pu vh="V" name="Baltz" gain="38" fc="S. Thompson"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-2" top="1:24" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="H,H48,08:15" vh="H" spot="H48" clock="08:15" driveindex="27,208"></drivestart>
+   <play hasball="CAL" down="1" togo="10" spot="CAL48" context="H,1,10,H48" playid="27,1,209" clock="06:51" text="CALIFORNIA drive start at 06:51." newcontext="H,1,10,H48">
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="CAL48" context="H,1,10,H48" playid="27,2,210" type="R" pcode="LG" first="R" text="C. DeBoskie rush over left guard for 13 yards to the MD39, 1ST DOWN CAL (Perez)." newcontext="H,1,10,V39">
+    <p_ru vh="H" name="C. DeBoskie" gain="13"></p_ru>
+    <p_tk vh="V" name="Perez"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="MD39" context="H,1,10,V39" playid="27,3,211" type="R" pcode="LT" first="R" text="C. DeBoskie rush over left tackle for 14 yards to the MD25, 1ST DOWN CAL (Pooler;Drakeford)." newcontext="H,1,10,V25">
+    <p_ru vh="H" name="C. DeBoskie" gain="14"></p_ru>
+    <p_tk vh="V" name="Pooler" assist="Y"></p_tk>
+    <p_tk vh="V" name="Drakeford" assist="Y"></p_tk>
+   </play>
+   <play hasball="CAL" down="1" togo="10" spot="MD25" context="H,1,10,V25" playid="27,4,212" type="R" pcode="LG" text="C. DeBoskie rush over left guard for 6 yards to the MD19 (Carroll)." newcontext="H,2,4,V19">
+    <p_ru vh="H" name="C. DeBoskie" gain="6"></p_ru>
+    <p_tk vh="V" name="Carroll"></p_tk>
+   </play>
+   <play hasball="CAL" down="2" togo="4" spot="MD19" context="H,2,4,V19" playid="27,5,213" type="E" text="PENALTY CAL holding (D. Edwards) 10 yards to the MD29." newcontext="H,2,14,V29">
+    <p_pn vh="H" code="HO" type="holding" name="D. Edwards" result="ACCEPT" at="V19" yards="10"></p_pn>
+   </play>
+   <comment text="Negates Geurts rush for 5."></comment>
+   <play hasball="CAL" down="2" togo="14" spot="MD29" context="H,2,14,V29" playid="27,6,215" type="R" pcode="RR" text="Peter Geurts rush right for 4 yards to the MD25 (Pooler)." newcontext="H,3,10,V25">
+    <p_ru vh="H" name="Peter Geurts" gain="4"></p_ru>
+    <p_tk vh="V" name="Pooler"></p_tk>
+   </play>
+   <play hasball="CAL" down="3" togo="10" spot="MD25" context="H,3,10,V25" playid="27,7,216" type="R" pcode="MI" text="C. DeBoskie rush up middle for 2 yards to the MD23 (Francis)." newcontext="H,4,8,V23">
+    <p_ru vh="H" name="C. DeBoskie" gain="2"></p_ru>
+    <p_tk vh="V" name="Francis"></p_tk>
+   </play>
+   <play hasball="CAL" down="4" togo="8" spot="MD23" context="H,4,8,V23" playid="27,8,217" type="R" pcode="MI" text="John Tyndall rush up middle for 3 yards to the MD20 (Pooler)." newcontext="V,1,10,V20">
+    <p_ru vh="H" name="John Tyndall" gain="3"></p_ru>
+    <p_tk vh="V" name="Pooler"></p_tk>
+   </play>
+   <drivesum plays="6" yards="32" top="3:55" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="V,V20,06:51" vh="V" spot="V20" clock="06:51" driveindex="28,217"></drivestart>
+   <play hasball="MD" down="1" togo="10" spot="MD20" context="V,1,10,V20" playid="28,1,218" clock="02:56" text="MARYLAND drive start at 02:56." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD20" context="V,1,10,V20" playid="28,2,219" text="Robinson at QB for Maryland." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD20" context="V,1,10,V20" playid="28,3,220" type="R" pcode="RR" text="M. Green rush right for 6 yards to the MD26 (D.J. Campbell)." newcontext="V,2,4,V26">
+    <p_ru vh="V" name="M. Green" gain="6"></p_ru>
+    <p_tk vh="H" name="D.J. Campbell"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="4" spot="MD26" context="V,2,4,V26" playid="28,4,221" type="R" pcode="LG" text="M. Green rush over left guard for no gain to the MD26 (C. Johnson;Devin Bishop)." newcontext="V,3,4,V26">
+    <p_ru vh="V" name="M. Green" gain="0"></p_ru>
+    <p_tk vh="H" name="C. Johnson" assist="Y"></p_tk>
+    <p_tk vh="H" name="Devin Bishop" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="3" togo="4" spot="MD26" context="V,3,4,V26" playid="28,5,222" type="R" pcode="RE" text="Robinson rush over right end for 3 yards to the MD29 (Keith Browner)." newcontext="V,4,1,V29">
+    <p_ru vh="V" name="Robinson" gain="3"></p_ru>
+    <p_tk vh="H" name="Keith Browner"></p_tk>
+   </play>
+   <play hasball="MD" down="4" togo="1" spot="MD29" context="V,4,1,V29" playid="28,6,223" type="R" pcode="MI" first="R" text="M. Green rush up middle for 4 yards to the MD33, 1ST DOWN MD (Jerome Meadows;Aaron Tipoti)." newcontext="V,1,10,V33">
+    <p_ru vh="V" name="M. Green" gain="4"></p_ru>
+    <p_tk vh="H" name="Jerome Meadows" assist="Y"></p_tk>
+    <p_tk vh="H" name="Aaron Tipoti" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="1" togo="10" spot="MD33" context="V,1,10,V33" playid="28,7,224" type="R" pcode="LT" text="M. Green rush over left tackle for loss of 2 yards to the MD31 (D.J. Campbell;Trevor Guyton)." newcontext="V,2,12,V31">
+    <p_ru vh="V" name="M. Green" gain="-2"></p_ru>
+    <p_tk vh="H" name="D.J. Campbell" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Trevor Guyton" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="MD" down="2" togo="12" spot="MD31" context="V,2,12,V31" playid="28,8,225" type="R" pcode="RE" text="M. Green rush over right end for 6 yards to the MD37, out-of-bounds (Devin Bishop)." ob="Y" newcontext="V,3,6,V37">
+    <p_ru vh="V" name="M. Green" gain="6"></p_ru>
+    <p_tk vh="H" name="Devin Bishop"></p_tk>
+   </play>
+   <play hasball="MD" down="3" togo="6" spot="MD37" context="V,3,6,V37" playid="28,9,226" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="V,3,6,V37">
+   </play>
+   <drivesum plays="6" yards="17" top="2:56" driveindex="28" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Cal defeats Maryland by a score of 52 to 13."></play>
+   <score final="Y" V="13" H="52"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="MD">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:15"></misc>
+    <rush att="11" yds="21" gain="24" loss="3" td="0" long="0"></rush>
+    <pass comp="2" att="4" int="0" yds="14" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="14" td="0" long="0"></rcv>
+    <punt no="2" yds="73" long="0" blkd="0" tb="0" fc="2" plus50="0" inside20="0" avg="36.5"></punt>
+    <defense tackua="9" tacka="6" tot_tack="15" sacks="2" sackyds="14"></defense>
+    <kr no="1" yds="17" td="0" long="0"></kr>
+    <pr no="1" yds="4" td="0" long="0"></pr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="CAL">
+    <firstdowns no="5" rush="4" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:45"></misc>
+    <rush att="12" yds="70" gain="70" loss="0" td="0" long="0"></rush>
+    <pass comp="1" att="2" int="0" yds="15" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="15" td="1" long="0"></rcv>
+    <punt no="1" yds="48" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="48.0"></punt>
+    <ko no="1" yds="63" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="10" tacka="10" tot_tack="20" tflua="5" tfla="0" tflyds="9" sacks="6" sackyds="45" brup="1"></defense>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="MD" down="3" togo="6" spot="MD37" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="3" htor="2" dtgtext="Game Over" ldtext="Drive started: 02:56, 4th Qtr"></downtogo>
+ </plays>

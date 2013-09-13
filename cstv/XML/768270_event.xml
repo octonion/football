@@ -1,0 +1,1026 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="UNI" down="1" togo="10" spot="UNI30" context="V,1,10,V30" playid="0,1,0" text="Iowa wins toss; elects to receive and will defend North goal" newcontext="V,1,10,V30">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI30" context="V,1,10,V30" playid="0,2,1" type="K" text="UNI ball on UNI30, Hallgren, Billy kickoff 60 yards to the IOWA10, O'Meara, Paki return 16 yards to the IOWA26 (Scott, Quentin;Fuller, Zerrick)." newcontext="H,1,10,H26">
+    <p_ko vh="V" name="Hallgren, Billy" gain="60"></p_ko>
+    <p_kr vh="H" name="O'Meara, Paki" gain="16"></p_kr>
+    <p_tk vh="V" name="Scott, Quentin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Fuller, Zerrick" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H26,15:00" vh="H" spot="H26" clock="15:00" driveindex="1,1"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA26" context="H,1,10,H26" playid="1,1,2" type="P" text="Stanzi, Ricky pass complete to McNutt, Marvin for 9 yards to the IOWA35 (Martin, Andre;Thompson, Jamar)." newcontext="H,2,1,H35">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="McNutt, Marvin" gain="9"></p_pa>
+    <p_tk vh="V" name="Martin, Andre" assist="Y"></p_tk>
+    <p_tk vh="V" name="Thompson, Jamar" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="1" spot="IOWA35" context="H,2,1,H35" playid="1,2,3" type="R" pcode="MI" first="R" text="O'Meara, Paki rush up middle for 1 yard to the IOWA36, 1ST DOWN IOWA (Hodge, Elijah)." newcontext="H,1,10,H36">
+    <p_ru vh="H" name="O'Meara, Paki" gain="1"></p_ru>
+    <p_tk vh="V" name="Hodge, Elijah"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA36" context="H,1,10,H36" playid="1,3,4" type="P" text="Stanzi, Ricky pass complete to McNutt, Marvin for 7 yards to the IOWA43, out-of-bounds (Thompson, Jamar)." ob="Y" newcontext="H,2,3,H43">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="McNutt, Marvin" gain="7"></p_pa>
+    <p_tk vh="V" name="Thompson, Jamar"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="3" spot="IOWA43" context="H,2,3,H43" playid="1,4,5" type="R" pcode="LL" text="O'Meara, Paki rush left for 2 yards to the IOWA45 (Hodge, Elijah;Fort, L.J.)." newcontext="H,3,1,H45">
+    <p_ru vh="H" name="O'Meara, Paki" gain="2"></p_ru>
+    <p_tk vh="V" name="Hodge, Elijah" assist="Y"></p_tk>
+    <p_tk vh="V" name="Fort, L.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="1" spot="IOWA45" context="H,3,1,H45" playid="1,5,6" type="R" pcode="LL" first="R" text="O'Meara, Paki rush left for 3 yards to the IOWA48, 1ST DOWN IOWA (Thompson, Jamar)." newcontext="H,1,10,H48">
+    <p_ru vh="H" name="O'Meara, Paki" gain="3"></p_ru>
+    <p_tk vh="V" name="Thompson, Jamar"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA48" context="H,1,10,H48" playid="1,6,7" type="P" text="Stanzi, Ricky pass incomplete to Stross, Trey (Martin, Andre)." newcontext="H,2,10,H48">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="INC" rcv="Stross, Trey"></p_pa>
+    <p_bu vh="V" name="Martin, Andre"></p_bu>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="IOWA48" context="H,2,10,H48" playid="1,7,8" type="R" pcode="MI" text="O'Meara, Paki rush up middle for 1 yard to the IOWA49 (Kinney, Chuck)." newcontext="H,3,9,H49">
+    <p_ru vh="H" name="O'Meara, Paki" gain="1"></p_ru>
+    <p_tk vh="V" name="Kinney, Chuck"></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="9" spot="IOWA49" context="H,3,9,H49" playid="1,8,9" type="P" pcode="MI" first="P" form="SG" text="[SG], Stanzi, Ricky middle pass complete to McNutt, Marvin for 13 yards to the UNI38, 1ST DOWN IOWA (Canady, T.)." newcontext="H,1,10,V38">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="McNutt, Marvin" gain="13"></p_pa>
+    <p_tk vh="V" name="Canady, T."></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI38" context="H,1,10,V38" playid="1,9,10" type="P" text="Stanzi, Ricky pass complete to Morse, Brett for 7 yards to the UNI31 (McBride,Terrell)." newcontext="H,2,3,V31">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Morse, Brett" gain="7"></p_pa>
+    <p_tk vh="V" name="McBride,Terrell"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="3" spot="UNI31" context="H,2,3,V31" playid="1,10,11" type="R" pcode="MI" first="R" text="O'Meara, Paki rush up middle for 5 yards to the UNI26, 1ST DOWN IOWA (Thompson, Jamar;Hodge, Elijah)." newcontext="H,1,10,V26">
+    <p_ru vh="H" name="O'Meara, Paki" gain="5"></p_ru>
+    <p_tk vh="V" name="Thompson, Jamar" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hodge, Elijah" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI26" context="H,1,10,V26" playid="1,11,12" type="P" text="Stanzi, Ricky pass incomplete to Reisner, Allen." newcontext="H,2,10,V26">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="INC" rcv="Reisner, Allen"></p_pa>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="UNI26" context="H,2,10,V26" playid="1,12,13" type="R" pcode="RR" text="O'Meara, Paki rush right for 4 yards to the UNI22 (Boothby, Ben;Hodge, Elijah)." newcontext="H,3,6,V22">
+    <p_ru vh="H" name="O'Meara, Paki" gain="4"></p_ru>
+    <p_tk vh="V" name="Boothby, Ben" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hodge, Elijah" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="6" spot="UNI22" context="H,3,6,V22" playid="1,13,14" type="P" form="SG" text="[SG], Stanzi, Ricky pass incomplete to Moeaki, Tony." newcontext="H,4,6,V22">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="INC" rcv="Moeaki, Tony"></p_pa>
+   </play>
+   <play hasball="IOWA" down="4" togo="6" spot="UNI22" context="H,4,6,V22" playid="1,14,15" type="F" score="Y" clock="09:17" text="Murray, Daniel field goal attempt from 39 GOOD, clock 09:17, PENALTY UNI offside declined." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Murray, Daniel" distance="39" result="GOOD" score="Y"></p_fg>
+    <p_pn vh="V" code="OS" type="offside" name="Dietrich, Colin" result="DECLINE"></p_pn>
+   </play>
+   <score V="0" H="3"></score>
+   <drivesum plays="14" yards="52" top="5:43" driveindex="1" complete="Y"></drivesum>
+   <play hasball="IOWA" down="1" togo="0" spot="IOWA30" context="H,1,0,H30" playid="1,15,16" type="K" text="Murray, Daniel kickoff 70 yards to the UNI0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Murray, Daniel" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,09:17" vh="V" spot="V20" clock="09:17" driveindex="2,16"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="UNI20" context="V,1,10,V20" playid="2,1,17" clock="09:17" text="NORTHERN IOWA drive start at 09:17." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI20" context="V,1,10,V20" playid="2,2,18" type="R" pcode="LL" form="SG" text="[SG], Anderson,Carlos rush left for 7 yards to the UNI27, out-of-bounds (Greenwood, B.)." ob="Y" newcontext="V,2,3,V27">
+    <p_ru vh="V" name="Anderson,Carlos" gain="7"></p_ru>
+    <p_tk vh="H" name="Greenwood, B."></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="3" spot="UNI27" context="V,2,3,V27" playid="2,3,19" type="P" first="P" form="SG" text="[SG], Grace, Pat pass complete to Mahaffey, Ryan for 12 yards to the UNI39, 1ST DOWN UNI (Spievey, Amari;Greenwood, B.)." newcontext="V,1,10,V39">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Mahaffey, Ryan" gain="12"></p_pa>
+    <p_tk vh="H" name="Spievey, Amari" assist="Y"></p_tk>
+    <p_tk vh="H" name="Greenwood, B." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI39" context="V,1,10,V39" playid="2,4,20" type="R" pcode="MI" form="SG" text="[SG], Anderson,Carlos rush up middle for 1 yard to the UNI40 (Angerer, Pat;Edds, A.J.)." newcontext="V,2,9,V40">
+    <p_ru vh="V" name="Anderson,Carlos" gain="1"></p_ru>
+    <p_tk vh="H" name="Angerer, Pat" assist="Y"></p_tk>
+    <p_tk vh="H" name="Edds, A.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="9" spot="UNI40" context="V,2,9,V40" playid="2,5,21" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to Oordt, Schuylar." newcontext="V,3,9,V40">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Oordt, Schuylar"></p_pa>
+   </play>
+   <play hasball="UNI" down="3" togo="9" spot="UNI40" context="V,3,9,V40" playid="2,6,22" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to Hord, D.J.." newcontext="V,4,9,V40">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Hord, D.J."></p_pa>
+   </play>
+   <play hasball="UNI" down="4" togo="9" spot="UNI40" context="V,4,9,V40" playid="2,7,23" text="QB hurry by Clayborn, A.." newcontext="V,4,9,V40">
+    <p_qbh vh="H" name="Clayborn, A."></p_qbh>
+   </play>
+   <play hasball="UNI" down="4" togo="9" spot="UNI40" context="V,4,9,V40" playid="2,8,24" type="U" text="Bernard, Kyle punt 29 yards to the IOWA31, downed." newcontext="H,1,10,H31">
+    <p_pu vh="V" name="Bernard, Kyle" gain="29"></p_pu>
+   </play>
+   <drivesum plays="5" yards="20" top="1:43" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H31,09:17" vh="H" spot="H31" clock="09:17" driveindex="3,24"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA31" context="H,1,10,H31" playid="3,1,25" clock="07:34" text="IOWA HAWKEYES drive start at 07:34." newcontext="H,1,10,H31">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA31" context="H,1,10,H31" playid="3,2,26" type="R" pcode="RR" text="Robinson, Adam rush right for no gain to the IOWA31 (Lane, Wes;Mahoney, Josh)." newcontext="H,2,10,H31">
+    <p_ru vh="H" name="Robinson, Adam" gain="0"></p_ru>
+    <p_tk vh="V" name="Lane, Wes" assist="Y"></p_tk>
+    <p_tk vh="V" name="Mahoney, Josh" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="IOWA31" context="H,2,10,H31" playid="3,3,27" type="R" pcode="DR" first="R" form="SG" text="[SG], Robinson, Adam rush draw play for 10 yards to the IOWA41, 1ST DOWN IOWA (Scott, Quentin;Thompson, Jamar)." newcontext="H,1,10,H41">
+    <p_ru vh="H" name="Robinson, Adam" gain="10"></p_ru>
+    <p_tk vh="V" name="Scott, Quentin" assist="Y"></p_tk>
+    <p_tk vh="V" name="Thompson, Jamar" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA41" context="H,1,10,H41" playid="3,4,28" type="P" turnover="F" text="Stanzi, Ricky sacked for loss of 13 yards to the IOWA28 (Boothby, Ben), fumble by Stanzi, Ricky recovered by UNI Ruffin, James at IOWA28." newcontext="V,1,10,H28">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="SACK" gain="-13"></p_pa>
+    <p_fumb vh="H" name="Stanzi, Ricky" at="H28" frvh="V" frname="Ruffin, James"></p_fumb>
+    <p_tk vh="V" name="Boothby, Ben" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:26" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="V,H28,07:34" vh="V" spot="H28" clock="07:34" driveindex="4,28"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA28" context="V,1,10,H28" playid="4,1,29" clock="06:08" text="NORTHERN IOWA drive start at 06:08." newcontext="V,1,10,H28">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA28" context="V,1,10,H28" playid="4,2,30" type="E" text="PENALTY UNI false start 5 yards to the IOWA33." newcontext="V,1,15,H33">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="H28" yards="5"></p_pn>
+   </play>
+   <play hasball="UNI" down="1" togo="15" spot="IOWA33" context="V,1,15,H33" playid="4,3,31" type="P" form="SG" text="[SG], Grace, Pat pass complete to Anderson,Carlos for 11 yards to the IOWA22 (Binns, B.)." newcontext="V,2,4,H22">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Anderson,Carlos" gain="11"></p_pa>
+    <p_tk vh="H" name="Binns, B."></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="4" spot="IOWA22" context="V,2,4,H22" playid="4,4,32" type="R" form="SG" text="[SG], Grace, Pat rush for 3 yards to the IOWA19." newcontext="V,3,1,H19">
+    <p_ru vh="V" name="Grace, Pat" gain="3"></p_ru>
+   </play>
+   <play hasball="UNI" down="3" togo="1" spot="IOWA19" context="V,3,1,H19" playid="4,5,33" type="R" pcode="RR" form="SG" text="[SG], Anderson,Carlos rush right for loss of 3 yards to the IOWA22, out-of-bounds (Sash, Tyler;Edds, A.J.)." ob="Y" newcontext="V,4,4,H22">
+    <p_ru vh="V" name="Anderson,Carlos" gain="-3"></p_ru>
+    <p_tk vh="H" name="Sash, Tyler" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Edds, A.J." tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="4" togo="4" spot="IOWA22" context="V,4,4,H22" playid="4,6,34" type="F" score="Y" clock="04:22" text="Hallgren, Billy field goal attempt from 39 GOOD, clock 04:22." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Hallgren, Billy" distance="39" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="3" H="3"></score>
+   <drivesum plays="4" yards="6" top="1:46" driveindex="4" complete="Y"></drivesum>
+   <play hasball="UNI" down="1" togo="0" spot="UNI30" context="V,1,0,V30" playid="4,7,35" type="K" text="Hallgren, Billy kickoff 70 yards to the IOWA0, touchback." newcontext="H,1,10,H20">
+    <p_ko vh="V" name="Hallgren, Billy" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H20,04:22" vh="H" spot="H20" clock="04:22" driveindex="5,35"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA20" context="H,1,10,H20" playid="5,1,36" clock="04:22" text="IOWA HAWKEYES drive start at 04:22." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA20" context="H,1,10,H20" playid="5,2,37" type="R" pcode="MI" text="Robinson, Adam rush up middle for 1 yard to the IOWA21 (Mahoney, Josh;McBride,Terrell)." newcontext="H,2,9,H21">
+    <p_ru vh="H" name="Robinson, Adam" gain="1"></p_ru>
+    <p_tk vh="V" name="Mahoney, Josh" assist="Y"></p_tk>
+    <p_tk vh="V" name="McBride,Terrell" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="9" spot="IOWA21" context="H,2,9,H21" playid="5,3,38" type="E" text="PENALTY IOWA false start (Doering, Dan) 5 yards to the IOWA16." newcontext="H,2,14,H16">
+    <p_pn vh="H" code="FS" type="false start" name="Doering, Dan" result="ACCEPT" at="H21" yards="5"></p_pn>
+   </play>
+   <play hasball="IOWA" down="2" togo="14" spot="IOWA16" context="H,2,14,H16" playid="5,4,39" type="R" pcode="RR" text="Robinson, Adam rush right for 3 yards to the IOWA19 (Hodge, Elijah)." newcontext="H,3,11,H19">
+    <p_ru vh="H" name="Robinson, Adam" gain="3"></p_ru>
+    <p_tk vh="V" name="Hodge, Elijah"></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="11" spot="IOWA19" context="H,3,11,H19" playid="5,5,40" type="P" form="SG" text="[SG], Stanzi, Ricky sacked for loss of 8 yards to the IOWA11 (Mahoney, Josh)." newcontext="H,4,19,H11">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="V" name="Mahoney, Josh" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="4" togo="19" spot="IOWA11" context="H,4,19,H11" playid="5,6,41" type="U" text="Donahue, Ryan punt 47 yards to the UNI42, fair catch by Herring, Jarred." newcontext="V,1,10,V42">
+    <p_pu vh="H" name="Donahue, Ryan" gain="47" fc="Herring, Jarred"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-9" top="2:20" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="V,V42,04:22" vh="V" spot="V42" clock="04:22" driveindex="6,41"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="UNI42" context="V,1,10,V42" playid="6,1,42" clock="02:02" text="NORTHERN IOWA drive start at 02:02." newcontext="V,1,10,V42">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI42" context="V,1,10,V42" playid="6,2,43" type="E" form="SG" text="[SG], PENALTY UNI false start (Fiacco, Jason) 5 yards to the UNI37, NO PLAY." newcontext="V,1,15,V37">
+    <p_pn vh="V" code="FS" type="false start" name="Fiacco, Jason" result="ACCEPT" at="V42" yards="5"></p_pn>
+   </play>
+   <play hasball="UNI" down="1" togo="15" spot="UNI37" context="V,1,15,V37" playid="6,3,44" type="R" pcode="LL" form="SG" text="[SG], Anderson,Carlos rush left for no gain to the UNI37 (Angerer, Pat;Edds, A.J.)." newcontext="V,2,15,V37">
+    <p_ru vh="V" name="Anderson,Carlos" gain="0"></p_ru>
+    <p_tk vh="H" name="Angerer, Pat" assist="Y"></p_tk>
+    <p_tk vh="H" name="Edds, A.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="15" spot="UNI37" context="V,2,15,V37" playid="6,4,45" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to Herring, Jarred, QB hurry by Ballard, C.." newcontext="V,3,15,V37">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Herring, Jarred"></p_pa>
+    <p_qbh vh="H" name="Ballard, C."></p_qbh>
+   </play>
+   <play hasball="UNI" down="3" togo="15" spot="UNI37" context="V,3,15,V37" playid="6,5,46" type="E" form="SG" text="[SG], PENALTY UNI delay of game 5 yards to the UNI32, NO PLAY." newcontext="V,3,20,V32">
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="V37" yards="5"></p_pn>
+   </play>
+   <play hasball="UNI" down="3" togo="20" spot="UNI32" context="V,3,20,V32" playid="6,6,47" type="R" pcode="DR" form="SG" text="[SG], Anderson,Carlos rush draw play for 1 yard to the UNI33 (Angerer, Pat;Sash, Tyler)." newcontext="V,4,19,V33">
+    <p_ru vh="V" name="Anderson,Carlos" gain="1"></p_ru>
+    <p_tk vh="H" name="Angerer, Pat" assist="Y"></p_tk>
+    <p_tk vh="H" name="Sash, Tyler" assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="4" togo="19" spot="UNI33" context="V,4,19,V33" playid="6,7,48" type="U" text="Bernard, Kyle punt 37 yards to the IOWA30, Spievey, Amari return -1 yards to the IOWA29 (Thompson, Jamar;Canady, T.)." newcontext="H,1,10,H29">
+    <p_pu vh="V" name="Bernard, Kyle" gain="37"></p_pu>
+    <p_pr vh="H" name="Spievey, Amari" gain="-1"></p_pr>
+    <p_tk vh="V" name="Thompson, Jamar" assist="Y"></p_tk>
+    <p_tk vh="V" name="Canady, T." assist="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-9" top="1:30" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,H29,02:02" vh="H" spot="H29" clock="02:02" driveindex="7,48"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA29" context="H,1,10,H29" playid="7,1,49" clock="00:32" text="IOWA HAWKEYES drive start at 00:32." newcontext="H,1,10,H29">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA29" context="H,1,10,H29" playid="7,2,50" type="R" pcode="LL" first="R" text="Chaney, Jr., P. rush left for 28 yards to the UNI43, 1ST DOWN IOWA, out-of-bounds (Thompson, Jamar)." ob="Y" newcontext="H,1,10,V43">
+    <p_ru vh="H" name="Chaney, Jr., P." gain="28"></p_ru>
+    <p_tk vh="V" name="Thompson, Jamar"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI43" context="H,1,10,V43" playid="7,3,51" type="R" pcode="MI" text="O'Meara, Paki rush up middle for 3 yards to the UNI40 (Thompson, Jamar)." newcontext="H,2,7,V40">
+    <p_ru vh="H" name="O'Meara, Paki" gain="3"></p_ru>
+    <p_tk vh="V" name="Thompson, Jamar"></p_tk>
+   </play>
+   <score qtr="1" V="3" H="3"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UNI">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="3" yds="15"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:59"></misc>
+    <rush att="6" yds="9" gain="12" loss="3" td="0" long="7"></rush>
+    <pass comp="2" att="5" int="0" yds="23" td="0" long="12" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="23" td="0" long="12"></rcv>
+    <punt no="2" yds="66" long="37" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="33.0"></punt>
+    <ko no="2" yds="130" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="39" blkd="0"></fg>
+    <defense tackua="11" tacka="18" tot_tack="29" tflua="2" tfla="0" tflyds="21" sacks="2" sackyds="21" brup="1" ff="1" fr="1" fryds="0"></defense>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="IOWA">
+    <firstdowns no="6" rush="5" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="10:01"></misc>
+    <rush att="14" yds="40" gain="61" loss="21" td="0" long="28"></rush>
+    <pass comp="4" att="7" int="0" yds="36" td="0" long="13" sacks="2" sackyds="21"></pass>
+    <rcv no="4" yds="36" td="0" long="13"></rcv>
+    <punt no="1" yds="47" long="47" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="47.0"></punt>
+    <ko no="1" yds="70" ob="0" tb="1"></ko>
+    <fg made="1" att="1" long="39" blkd="0"></fg>
+    <defense tackua="2" tacka="10" tot_tack="12" tflua="2" tfla="0" tflyds="6" sacks="0" sackyds="0" qbh="2"></defense>
+    <kr no="1" yds="16" td="0" long="16"></kr>
+    <pr no="1" yds="-1" td="0" long="0"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="IOWA" down="2" togo="7" spot="UNI40" context="H,2,7,V40" playid="7,4,52" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,2,7,V40">
+   </play>
+   <play hasball="IOWA" down="2" togo="7" spot="UNI40" context="H,2,7,V40" playid="7,5,53" type="R" pcode="MI" text="O'Meara, Paki rush up middle for 2 yards to the UNI38 (Thompson, Jamar)." newcontext="H,3,5,V38">
+    <p_ru vh="H" name="O'Meara, Paki" gain="2"></p_ru>
+    <p_tk vh="V" name="Thompson, Jamar"></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="5" spot="UNI38" context="H,3,5,V38" playid="7,6,54" type="P" pcode="MI" text="Stanzi, Ricky middle pass incomplete to Moeaki, Tony (Thompson, Jamar)." newcontext="H,4,5,V38">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="INC" rcv="Moeaki, Tony"></p_pa>
+    <p_bu vh="V" name="Thompson, Jamar"></p_bu>
+   </play>
+   <play hasball="IOWA" down="4" togo="5" spot="UNI38" context="H,4,5,V38" playid="7,7,55" type="U" text="Donahue, Ryan punt 29 yards to the UNI9, downed." newcontext="V,1,10,V09">
+    <p_pu vh="H" name="Donahue, Ryan" gain="29" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="4" yards="33" top="1:23" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="V,V09,15:00" vh="V" spot="V09" clock="15:00" driveindex="8,55"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="UNI09" context="V,1,10,V09" playid="8,1,56" clock="14:09" text="NORTHERN IOWA drive start at 14:09." newcontext="V,1,10,V09">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI09" context="V,1,10,V09" playid="8,2,57" type="R" pcode="MI" form="SG" text="[SG], Anderson,Carlos rush up middle for 3 yards to the UNI12 (Clayborn, A.;Ballard, C.)." newcontext="V,2,7,V12">
+    <p_ru vh="V" name="Anderson,Carlos" gain="3"></p_ru>
+    <p_tk vh="H" name="Clayborn, A." assist="Y"></p_tk>
+    <p_tk vh="H" name="Ballard, C." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="7" spot="UNI12" context="V,2,7,V12" playid="8,3,58" type="R" pcode="RR" form="SG" text="[SG], Anderson,Carlos rush right for 4 yards to the UNI16 (Edds, A.J.;Sash, Tyler)." newcontext="V,3,3,V16">
+    <p_ru vh="V" name="Anderson,Carlos" gain="4"></p_ru>
+    <p_tk vh="H" name="Edds, A.J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Sash, Tyler" assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="3" togo="3" spot="UNI16" context="V,3,3,V16" playid="8,4,59" type="P" pcode="MI" first="P" form="SG" text="[SG], Grace, Pat middle pass complete to Turner, Maurice for 10 yards to the UNI26, 1ST DOWN UNI (Angerer, Pat;Edds, A.J.)." newcontext="V,1,10,V26">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Turner, Maurice" gain="10"></p_pa>
+    <p_tk vh="H" name="Angerer, Pat" assist="Y"></p_tk>
+    <p_tk vh="H" name="Edds, A.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI26" context="V,1,10,V26" playid="8,5,60" type="R" pcode="MI" form="SG" text="[SG], Anderson,Carlos rush up middle for 1 yard to the UNI27 (Klug, Karl)." newcontext="V,2,9,V27">
+    <p_ru vh="V" name="Anderson,Carlos" gain="1"></p_ru>
+    <p_tk vh="H" name="Klug, Karl"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="9" spot="UNI27" context="V,2,9,V27" playid="8,6,61" type="P" pcode="SL" first="P" form="SG" text="[SG], Grace, Pat slant pass complete to Hord, D.J. for 12 yards to the UNI39, 1ST DOWN UNI (Castillo, Greg;Greenwood, B.)." newcontext="V,1,10,V39">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Hord, D.J." gain="12"></p_pa>
+    <p_tk vh="H" name="Castillo, Greg" assist="Y"></p_tk>
+    <p_tk vh="H" name="Greenwood, B." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI39" context="V,1,10,V39" playid="8,7,62" type="R" pcode="RV" form="SG" text="[SG], Herring, Jarred rush reverse for 9 yards to the UNI48 (Ballard, C.;Hunter, J.)." newcontext="V,2,1,V48">
+    <p_ru vh="V" name="Herring, Jarred" gain="9"></p_ru>
+    <p_tk vh="H" name="Ballard, C." assist="Y"></p_tk>
+    <p_tk vh="H" name="Hunter, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="1" spot="UNI48" context="V,2,1,V48" playid="8,8,63" type="R" pcode="LL" first="R" text="Anderson,Carlos rush left for 12 yards to the IOWA40, 1ST DOWN UNI (Greenwood, B.;Spievey, Amari)." newcontext="V,1,10,H40">
+    <p_ru vh="V" name="Anderson,Carlos" gain="12"></p_ru>
+    <p_tk vh="H" name="Greenwood, B." assist="Y"></p_tk>
+    <p_tk vh="H" name="Spievey, Amari" assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA40" context="V,1,10,H40" playid="8,9,64" type="R" pcode="LL" form="SG" text="[SG], Anderson,Carlos rush left for 7 yards to the IOWA33 (Spievey, Amari)." newcontext="V,2,3,H33">
+    <p_ru vh="V" name="Anderson,Carlos" gain="7"></p_ru>
+    <p_tk vh="H" name="Spievey, Amari"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="3" spot="IOWA33" context="V,2,3,H33" playid="8,10,65" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to Hord, D.J. (Spievey, Amari)." newcontext="V,3,3,H33">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Hord, D.J."></p_pa>
+    <p_bu vh="H" name="Spievey, Amari"></p_bu>
+   </play>
+   <play hasball="UNI" down="3" togo="3" spot="IOWA33" context="V,3,3,H33" playid="8,11,66" type="#" clock="09:06" text="Timeout Northern Iowa, clock 09:06." newcontext="V,3,3,H33">
+    <p_to vh="V" team="Northern Iowa"></p_to>
+   </play>
+   <play hasball="UNI" down="3" togo="3" spot="IOWA33" context="V,3,3,H33" playid="8,12,67" type="P" first="P" form="SG" text="[SG], Grace, Pat pass complete to Turner, Maurice for 6 yards to the IOWA27, 1ST DOWN UNI (Castillo, Greg;Sash, Tyler)." newcontext="V,1,10,H27">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Turner, Maurice" gain="6"></p_pa>
+    <p_tk vh="H" name="Castillo, Greg" assist="Y"></p_tk>
+    <p_tk vh="H" name="Sash, Tyler" assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA27" context="V,1,10,H27" playid="8,13,68" type="R" pcode="RR" form="SG" text="[SG], Anderson,Carlos rush right for 5 yards to the IOWA22 (Hunter, J.;Greenwood, B.)." newcontext="V,2,5,H22">
+    <p_ru vh="V" name="Anderson,Carlos" gain="5"></p_ru>
+    <p_tk vh="H" name="Hunter, J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Greenwood, B." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="5" spot="IOWA22" context="V,2,5,H22" playid="8,14,69" type="P" first="P" form="SG" text="[SG], Grace, Pat pass complete to Herring, Jarred for 6 yards to the IOWA16, 1ST DOWN UNI (Sash, Tyler;Edds, A.J.)." newcontext="V,1,10,H16">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Herring, Jarred" gain="6"></p_pa>
+    <p_tk vh="H" name="Sash, Tyler" assist="Y"></p_tk>
+    <p_tk vh="H" name="Edds, A.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA16" context="V,1,10,H16" playid="8,15,70" type="R" pcode="MI" form="SG" text="[SG], Anderson,Carlos rush up middle for no gain to the IOWA16 (Angerer, Pat)." newcontext="V,2,10,H16">
+    <p_ru vh="V" name="Anderson,Carlos" gain="0"></p_ru>
+    <p_tk vh="H" name="Angerer, Pat"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="10" spot="IOWA16" context="V,2,10,H16" playid="8,16,71" type="R" pcode="LL" form="SG" text="[SG], Anderson,Carlos rush left for 7 yards to the IOWA9 (Spievey, Amari)." newcontext="V,3,3,H09">
+    <p_ru vh="V" name="Anderson,Carlos" gain="7"></p_ru>
+    <p_tk vh="H" name="Spievey, Amari"></p_tk>
+   </play>
+   <play hasball="UNI" down="3" togo="3" spot="IOWA09" context="V,3,3,H09" playid="8,17,72" type="E" text="PENALTY UNI illegal formation 5 yards to the IOWA14." newcontext="V,3,8,H14">
+    <p_pn vh="V" code="FO" type="illegal formation" result="ACCEPT" at="H09" yards="5"></p_pn>
+   </play>
+   <play hasball="UNI" down="3" togo="8" spot="IOWA14" context="V,3,8,H14" playid="8,18,73" type="P" pcode="MI" first="P" score="Y" clock="05:40" form="SG" text="[SG], Grace, Pat middle pass complete to Mahaffey, Ryan for 14 yards to the IOWA0, 1ST DOWN UNI, TOUCHDOWN, clock 05:40." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Mahaffey, Ryan" gain="14"></p_pa>
+   </play>
+   <play hasball="UNI" down="1" togo="0" spot="IOWA03" context="V,1,0,H03" playid="8,19,74" type="X" score="Y" text="Hallgren, Billy kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Hallgren, Billy" qb="Hallgren, Billy" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="10" H="3"></score>
+   <drivesum plays="15" yards="91" top="8:29" driveindex="8" complete="Y"></drivesum>
+   <play hasball="UNI" down="1" togo="0" spot="UNI30" context="V,1,0,V30" playid="8,20,75" type="K" text="Hallgren, Billy kickoff 59 yards to the IOWA11, O'Meara, Paki return 17 yards to the IOWA28 (Gerard, Shawn;Scott, Quentin)." newcontext="H,1,10,H28">
+    <p_ko vh="V" name="Hallgren, Billy" gain="59"></p_ko>
+    <p_kr vh="H" name="O'Meara, Paki" gain="17"></p_kr>
+    <p_tk vh="V" name="Gerard, Shawn" assist="Y"></p_tk>
+    <p_tk vh="V" name="Scott, Quentin" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H28,05:40" vh="H" spot="H28" clock="05:40" driveindex="9,75"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA28" context="H,1,10,H28" playid="9,1,76" clock="05:40" text="IOWA HAWKEYES drive start at 05:40." newcontext="H,1,10,H28">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA28" context="H,1,10,H28" playid="9,2,77" type="P" first="P" text="Stanzi, Ricky pass complete to Moeaki, Tony for 12 yards to the IOWA40, 1ST DOWN IOWA (McBride,Terrell;Scott, Quentin)." newcontext="H,1,10,H40">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Moeaki, Tony" gain="12"></p_pa>
+    <p_tk vh="V" name="McBride,Terrell" assist="Y"></p_tk>
+    <p_tk vh="V" name="Scott, Quentin" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA40" context="H,1,10,H40" playid="9,3,78" type="R" pcode="RR" text="Robinson, Adam rush right for no gain to the IOWA40 (Mahoney, Josh)." newcontext="H,2,10,H40">
+    <p_ru vh="H" name="Robinson, Adam" gain="0"></p_ru>
+    <p_tk vh="V" name="Mahoney, Josh"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="IOWA40" context="H,2,10,H40" playid="9,4,79" type="P" text="Stanzi, Ricky pass incomplete to McNutt, Marvin." newcontext="H,3,10,H40">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="INC" rcv="McNutt, Marvin"></p_pa>
+   </play>
+   <play hasball="IOWA" down="3" togo="10" spot="IOWA40" context="H,3,10,H40" playid="9,5,80" type="P" pcode="MI" form="SG" text="[SG], Stanzi, Ricky middle pass incomplete to Stross, Trey." newcontext="H,4,10,H40">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="INC" rcv="Stross, Trey"></p_pa>
+   </play>
+   <play hasball="IOWA" down="4" togo="10" spot="IOWA40" context="H,4,10,H40" playid="9,6,81" type="U" text="Donahue, Ryan punt 56 yards to the UNI4, Herring, Jarred return -2 yards to the UNI2 (Schulze, Andrew), PENALTY UNI illegal block 1 yards to the UNI1, 1st and 10, UNI ball on UNI1." newcontext="V,1,10,V01">
+    <p_pu vh="H" name="Donahue, Ryan" gain="56" in20="Y"></p_pu>
+    <p_pr vh="V" name="Herring, Jarred" gain="-2"></p_pr>
+    <p_tk vh="H" name="Schulze, Andrew"></p_tk>
+    <p_pn vh="V" code="BL" type="illegal block" result="ACCEPT" at="V02" yards="1"></p_pn>
+   </play>
+   <drivesum plays="4" yards="12" top="1:39" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V01,05:40" vh="V" spot="V01" clock="05:40" driveindex="10,81"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="UNI01" context="V,1,10,V01" playid="10,1,82" clock="04:01" text="NORTHERN IOWA drive start at 04:01." newcontext="V,1,10,V01">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI01" context="V,1,10,V01" playid="10,2,83" type="R" pcode="MI" text="Anderson,Carlos rush up middle for 1 yard to the UNI2 (Clayborn, A.)." newcontext="V,2,9,V02">
+    <p_ru vh="V" name="Anderson,Carlos" gain="1"></p_ru>
+    <p_tk vh="H" name="Clayborn, A."></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="9" spot="UNI02" context="V,2,9,V02" playid="10,3,84" type="R" pcode="LL" text="Anderson,Carlos rush left for no gain to the UNI2 (Angerer, Pat;Clayborn, A.)." newcontext="V,3,9,V02">
+    <p_ru vh="V" name="Anderson,Carlos" gain="0"></p_ru>
+    <p_tk vh="H" name="Angerer, Pat" assist="Y"></p_tk>
+    <p_tk vh="H" name="Clayborn, A." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="3" togo="9" spot="UNI02" context="V,3,9,V02" playid="10,4,85" type="#" clock="03:14" text="Timeout Iowa Hawkeyes, clock 03:14." newcontext="V,3,9,V02">
+    <p_to vh="H" team="Iowa Hawkeyes"></p_to>
+   </play>
+   <play hasball="UNI" down="3" togo="9" spot="UNI02" context="V,3,9,V02" playid="10,5,86" type="P" first="P" form="SG" text="[SG], Grace, Pat pass complete to Turner, Maurice for 11 yards to the UNI13, 1ST DOWN UNI (Castillo, Greg;Sash, Tyler)." newcontext="V,1,10,V13">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Turner, Maurice" gain="11"></p_pa>
+    <p_tk vh="H" name="Castillo, Greg" assist="Y"></p_tk>
+    <p_tk vh="H" name="Sash, Tyler" assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI13" context="V,1,10,V13" playid="10,6,87" type="R" pcode="LL" first="R" form="SG" text="[SG], Anderson,Carlos rush left for 11 yards to the UNI24, 1ST DOWN UNI (Sash, Tyler)." newcontext="V,1,10,V24">
+    <p_ru vh="V" name="Anderson,Carlos" gain="11"></p_ru>
+    <p_tk vh="H" name="Sash, Tyler"></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI24" context="V,1,10,V24" playid="10,7,88" type="R" pcode="LL" form="SG" text="[SG], Anderson,Carlos rush left for 1 yard to the UNI25 (Klug, Karl)." newcontext="V,2,9,V25">
+    <p_ru vh="V" name="Anderson,Carlos" gain="1"></p_ru>
+    <p_tk vh="H" name="Klug, Karl"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="9" spot="UNI25" context="V,2,9,V25" playid="10,8,89" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to *." newcontext="V,3,9,V25">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="*"></p_pa>
+   </play>
+   <play hasball="UNI" down="3" togo="9" spot="UNI25" context="V,3,9,V25" playid="10,9,90" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to Hord, D.J. (Spievey, Amari)." newcontext="V,4,9,V25">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Hord, D.J."></p_pa>
+    <p_bu vh="H" name="Spievey, Amari"></p_bu>
+   </play>
+   <play hasball="UNI" down="4" togo="9" spot="UNI25" context="V,4,9,V25" playid="10,10,91" type="U" text="Bernard, Kyle punt 37 yards to the IOWA38, fair catch by Spievey, Amari." newcontext="H,1,10,H38">
+    <p_pu vh="V" name="Bernard, Kyle" gain="37" fc="Spievey, Amari"></p_pu>
+   </play>
+   <drivesum plays="7" yards="24" top="2:35" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H38,03:14" vh="H" spot="H38" clock="03:14" driveindex="11,91"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA38" context="H,1,10,H38" playid="11,1,92" clock="01:26" text="IOWA HAWKEYES drive start at 01:26." newcontext="H,1,10,H38">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA38" context="H,1,10,H38" playid="11,2,93" type="P" first="P" text="Stanzi, Ricky pass complete to McNutt, Marvin for 15 yards to the UNI47, 1ST DOWN IOWA (Thompson, Jamar)." newcontext="H,1,10,V47">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="McNutt, Marvin" gain="15"></p_pa>
+    <p_tk vh="V" name="Thompson, Jamar"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI47" context="H,1,10,V47" playid="11,3,94" type="P" form="SG" text="[SG], Stanzi, Ricky sacked for loss of 8 yards to the IOWA45 (Lane, Wes)." newcontext="H,2,18,H45">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="V" name="Lane, Wes" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="18" spot="IOWA45" context="H,2,18,H45" playid="11,4,95" type="#" clock="01:08" text="Timeout Iowa Hawkeyes, clock 01:08." newcontext="H,2,18,H45">
+    <p_to vh="H" team="Iowa Hawkeyes"></p_to>
+   </play>
+   <play hasball="IOWA" down="2" togo="18" spot="IOWA45" context="H,2,18,H45" playid="11,5,96" type="P" form="SG" text="[SG], Stanzi, Ricky sacked for loss of 9 yards to the IOWA36 (Kinney, Chuck;Lane, Wes)." newcontext="H,3,27,H36">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="SACK" gain="-9"></p_pa>
+    <p_tk vh="V" name="Kinney, Chuck" sack="Y" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Lane, Wes" sack="Y" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="27" spot="IOWA36" context="H,3,27,H36" playid="11,6,97" type="R" pcode="MI" text="Morse, Brett rush up middle for 16 yards to the UNI48 (Branch, Darren;Thompson, Jamar)." newcontext="H,4,11,V48">
+    <p_ru vh="H" name="Morse, Brett" gain="16"></p_ru>
+    <p_tk vh="V" name="Branch, Darren" assist="Y"></p_tk>
+    <p_tk vh="V" name="Thompson, Jamar" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="4" togo="11" spot="UNI48" context="H,4,11,V48" playid="11,7,98" type="P" text="Stanzi, Ricky pass incomplete to Stross, Trey." newcontext="V,1,10,V48">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="INC" rcv="Stross, Trey"></p_pa>
+   </play>
+   <drivesum plays="5" yards="14" top="1:21" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,V48,01:08" vh="V" spot="V48" clock="01:08" driveindex="12,98"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="UNI48" context="V,1,10,V48" playid="12,1,99" clock="00:05" text="NORTHERN IOWA drive start at 00:05." newcontext="V,1,10,V48">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI48" context="V,1,10,V48" playid="12,2,100" type="R" pcode="KD" text="TEAM rush KD for no gain to the UNI48." newcontext="V,2,10,V48">
+    <p_ru vh="V" name="TEAM" gain="0"></p_ru>
+   </play>
+   <play hasball="UNI" down="2" togo="10" spot="UNI48" context="V,2,10,V48" playid="12,3,101" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,2,10,V48">
+   </play>
+   <drivesum plays="1" yards="0" top="0:05" driveindex="12" complete="Y"></drivesum>
+   <score qtr="2" V="10" H="3"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UNI">
+    <firstdowns no="8" rush="2" pass="6" penalty="0"></firstdowns>
+    <penalties no="2" yds="6"></penalties>
+    <conversions thirdconv="4" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="11:09"></misc>
+    <rush att="14" yds="61" gain="61" loss="0" td="0" long="5"></rush>
+    <pass comp="6" att="9" int="0" yds="59" td="1" long="2" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="59" td="1" long="2"></rcv>
+    <punt no="1" yds="37" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="37.0"></punt>
+    <ko no="1" yds="59" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="4" tacka="8" tot_tack="12" tflua="3" tfla="0" tflyds="26" sacks="4" sackyds="38" brup="1"></defense>
+    <pr no="1" yds="-2" td="0" long="0"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="IOWA">
+    <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="03:51"></misc>
+    <rush att="5" yds="1" gain="18" loss="17" td="0" long="0"></rush>
+    <pass comp="2" att="6" int="0" yds="27" td="0" long="2" sacks="2" sackyds="17"></pass>
+    <rcv no="2" yds="27" td="0" long="2"></rcv>
+    <punt no="2" yds="85" long="9" blkd="0" tb="0" fc="0" plus50="1" inside20="2" avg="42.5"></punt>
+    <defense tackua="8" tacka="22" tot_tack="30" sacks="0" sackyds="0" brup="2"></defense>
+    <kr no="1" yds="17" td="0" long="1"></kr>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="UNI" down="2" togo="10" spot="UNI48" context="V,2,10,V48" playid="12,4,102" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, IOWA ball on IOWA30." newcontext="H,2,10,H30">
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="IOWA30" context="H,2,10,H30" playid="12,5,103" type="K" turnover="F" text="Murray, Daniel kickoff 61 yards to the UNI9, Herring, Jarred return 19 yards to the UNI28, fumble forced by Davis, Bruce, fumble by Herring, Jarred recovered by IOWA Tarpinian, Jeff at UNI28." newcontext="H,1,10,V28">
+    <p_ko vh="H" name="Murray, Daniel" gain="61"></p_ko>
+    <p_kr vh="V" name="Herring, Jarred" gain="19"></p_kr>
+    <p_fumb vh="V" name="Herring, Jarred" at="V28" frvh="H" frname="Tarpinian, Jeff"></p_fumb>
+    <p_tk vh="H" name="Davis, Bruce" ff="Y"></p_tk>
+   </play>
+   <drivestart poss="H,V28,15:00" vh="H" spot="V28" clock="15:00" driveindex="14,103"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI28" context="H,1,10,V28" playid="14,1,104" clock="14:55" text="IOWA HAWKEYES drive start at 14:55." newcontext="H,1,10,V28">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI28" context="H,1,10,V28" playid="14,2,105" type="P" text="Stanzi, Ricky pass incomplete to Moeaki, Tony." newcontext="H,2,10,V28">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="INC" rcv="Moeaki, Tony"></p_pa>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="UNI28" context="H,2,10,V28" playid="14,3,106" type="R" turnover="F" text="O'Meara, Paki rush for loss of 5 yards to the UNI33, fumble forced by Boothby, Ben, fumble by O'Meara, Paki recovered by UNI Boothby, Ben at UNI33." newcontext="V,1,10,V33">
+    <p_ru vh="H" name="O'Meara, Paki" gain="-5"></p_ru>
+    <p_fumb vh="H" name="O'Meara, Paki" at="V33" frvh="V" frname="Boothby, Ben"></p_fumb>
+    <p_tk vh="V" name="Boothby, Ben" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="2" yards="-5" top="0:13" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,V33,14:55" vh="V" spot="V33" clock="14:55" driveindex="15,106"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="UNI33" context="V,1,10,V33" playid="15,1,107" clock="14:42" text="NORTHERN IOWA drive start at 14:42." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI33" context="V,1,10,V33" playid="15,2,108" type="P" first="P" form="SG" text="[SG], Grace, Pat pass complete to Herring, Jarred for 50 yards to the IOWA17, 1ST DOWN UNI (Sash, Tyler;Greenwood, B.)." newcontext="V,1,10,H17">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Herring, Jarred" gain="50"></p_pa>
+    <p_tk vh="H" name="Sash, Tyler" assist="Y"></p_tk>
+    <p_tk vh="H" name="Greenwood, B." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA17" context="V,1,10,H17" playid="15,3,109" type="R" pcode="MI" form="SG" text="[SG], Anderson,Carlos rush up middle for 3 yards to the IOWA14 (Ballard, C.;Greenwood, B.)." newcontext="V,2,7,H14">
+    <p_ru vh="V" name="Anderson,Carlos" gain="3"></p_ru>
+    <p_tk vh="H" name="Ballard, C." assist="Y"></p_tk>
+    <p_tk vh="H" name="Greenwood, B." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="7" spot="IOWA14" context="V,2,7,H14" playid="15,4,110" type="R" pcode="MI" form="SG" text="[SG], Anderson,Carlos rush up middle for loss of 3 yards to the IOWA17 (Angerer, Pat;Edds, A.J.)." newcontext="V,3,10,H17">
+    <p_ru vh="V" name="Anderson,Carlos" gain="-3"></p_ru>
+    <p_tk vh="H" name="Angerer, Pat" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Edds, A.J." tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="3" togo="10" spot="IOWA17" context="V,3,10,H17" playid="15,5,111" type="P" form="SG" text="[SG], Grace, Pat pass complete to Eyman, D.P. for no gain to the IOWA17, out-of-bounds (Spievey, Amari)." ob="Y" newcontext="V,4,10,H17">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Eyman, D.P." gain="0"></p_pa>
+    <p_tk vh="H" name="Spievey, Amari"></p_tk>
+   </play>
+   <play hasball="UNI" down="4" togo="10" spot="IOWA17" context="V,4,10,H17" playid="15,6,112" type="F" score="Y" clock="12:27" text="Hallgren, Billy field goal attempt from 34 GOOD, clock 12:27." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Hallgren, Billy" distance="34" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="13" H="3"></score>
+   <drivesum plays="5" yards="50" top="2:15" driveindex="15" complete="Y"></drivesum>
+   <play hasball="UNI" down="1" togo="0" spot="UNI30" context="V,1,0,V30" playid="15,7,113" type="K" text="Hallgren, Billy kickoff 60 yards to the IOWA10, Spievey, Amari return 20 yards to the IOWA30 (Gerard, Shawn;Hallgren, Billy)." newcontext="H,1,10,H30">
+    <p_ko vh="V" name="Hallgren, Billy" gain="60"></p_ko>
+    <p_kr vh="H" name="Spievey, Amari" gain="20"></p_kr>
+    <p_tk vh="V" name="Gerard, Shawn" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hallgren, Billy" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H30,12:27" vh="H" spot="H30" clock="12:27" driveindex="16,113"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA30" context="H,1,10,H30" playid="16,1,114" clock="12:27" text="IOWA HAWKEYES drive start at 12:27." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA30" context="H,1,10,H30" playid="16,2,115" type="P" first="P" text="Stanzi, Ricky pass complete to Stross, Trey for 16 yards to the IOWA46, 1ST DOWN IOWA (McBride,Terrell)." newcontext="H,1,10,H46">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Stross, Trey" gain="16"></p_pa>
+    <p_tk vh="V" name="McBride,Terrell"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA46" context="H,1,10,H46" playid="16,3,116" type="P" first="P" text="Stanzi, Ricky pass complete to Moeaki, Tony for 11 yards to the UNI43, 1ST DOWN IOWA (Martin, Andre)." newcontext="H,1,10,V43">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Moeaki, Tony" gain="11"></p_pa>
+    <p_tk vh="V" name="Martin, Andre"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI43" context="H,1,10,V43" playid="16,4,117" type="P" text="Stanzi, Ricky pass complete to McNutt, Marvin for 4 yards to the UNI39 (Mahoney, Josh;Boothby, Ben)." newcontext="H,2,6,V39">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="McNutt, Marvin" gain="4"></p_pa>
+    <p_tk vh="V" name="Mahoney, Josh" assist="Y"></p_tk>
+    <p_tk vh="V" name="Boothby, Ben" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="6" spot="UNI39" context="H,2,6,V39" playid="16,5,118" type="P" first="P" text="Stanzi, Ricky pass complete to Moeaki, Tony for 22 yards to the UNI17, 1ST DOWN IOWA (Scott, Quentin)." newcontext="H,1,10,V17">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Moeaki, Tony" gain="22"></p_pa>
+    <p_tk vh="V" name="Scott, Quentin"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI17" context="H,1,10,V17" playid="16,6,119" type="R" pcode="MI" text="Robinson, Adam rush up middle for 6 yards to the UNI11 (Thompson, Jamar;Scott, Quentin)." newcontext="H,2,4,V11">
+    <p_ru vh="H" name="Robinson, Adam" gain="6"></p_ru>
+    <p_tk vh="V" name="Thompson, Jamar" assist="Y"></p_tk>
+    <p_tk vh="V" name="Scott, Quentin" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="4" spot="UNI11" context="H,2,4,V11" playid="16,7,120" type="R" pcode="MI" first="R" score="Y" clock="09:41" text="Robinson, Adam rush up middle for 11 yards to the UNI0, 1ST DOWN IOWA, TOUCHDOWN, clock 09:41." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Robinson, Adam" gain="11"></p_ru>
+   </play>
+   <play hasball="IOWA" down="1" togo="0" spot="UNI03" context="H,1,0,V03" playid="16,8,121" type="X" score="Y" text="Murray, Daniel kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Murray, Daniel" qb="Murray, Daniel" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="13" H="10"></score>
+   <drivesum plays="6" yards="70" top="2:46" driveindex="16" complete="Y"></drivesum>
+   <play hasball="IOWA" down="1" togo="0" spot="IOWA30" context="H,1,0,H30" playid="16,9,122" type="K" text="Murray, Daniel kickoff 51 yards to the UNI19, Herring, Jarred return 3 yards to the UNI22 (Davis, Bruce)." newcontext="V,1,10,V22">
+    <p_ko vh="H" name="Murray, Daniel" gain="51"></p_ko>
+    <p_kr vh="V" name="Herring, Jarred" gain="3"></p_kr>
+    <p_tk vh="H" name="Davis, Bruce"></p_tk>
+   </play>
+   <drivestart poss="V,V22,09:41" vh="V" spot="V22" clock="09:41" driveindex="17,122"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="UNI22" context="V,1,10,V22" playid="17,1,123" clock="09:41" text="NORTHERN IOWA drive start at 09:41." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI22" context="V,1,10,V22" playid="17,2,124" type="R" pcode="LL" form="SG" text="[SG], Anderson,Carlos rush left for 3 yards to the UNI25 (Hunter, J.;Angerer, Pat)." newcontext="V,2,7,V25">
+    <p_ru vh="V" name="Anderson,Carlos" gain="3"></p_ru>
+    <p_tk vh="H" name="Hunter, J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Angerer, Pat" assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="7" spot="UNI25" context="V,2,7,V25" playid="17,3,125" type="E" form="SG" text="[SG], Grace, Pat pass incomplete to Anderson,Carlos, PENALTY UNI holding (Fiacco, Jason) 10 yards to the UNI15, NO PLAY." newcontext="V,2,17,V15">
+    <p_pn vh="V" code="HO" type="holding" name="Fiacco, Jason" result="ACCEPT" at="V25" yards="10"></p_pn>
+   </play>
+   <play hasball="UNI" down="2" togo="17" spot="UNI15" context="V,2,17,V15" playid="17,4,126" type="P" form="SG" text="[SG], Grace, Pat sacked for loss of 6 yards to the UNI9 (Klug, Karl)." newcontext="V,3,23,V09">
+    <p_pa vh="V" qb="Grace, Pat" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="H" name="Klug, Karl" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="3" togo="23" spot="UNI09" context="V,3,23,V09" playid="17,5,127" type="P" form="SG" text="[SG], Grace, Pat sacked for loss of 1 yard to the UNI8 (Ballard, C.), PENALTY UNI holding declined." newcontext="V,4,24,V08">
+    <p_pa vh="V" qb="Grace, Pat" result="SACK" gain="-1"></p_pa>
+    <p_tk vh="H" name="Ballard, C." sack="Y" tfl="Y"></p_tk>
+    <p_pn vh="V" code="HO" type="holding" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="UNI" down="4" togo="24" spot="UNI08" context="V,4,24,V08" playid="17,6,128" type="U" text="Bernard, Kyle punt 55 yards to the IOWA37, downed." newcontext="H,1,10,H37">
+    <p_pu vh="V" name="Bernard, Kyle" gain="55"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-14" top="2:16" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="H,H37,09:41" vh="H" spot="H37" clock="09:41" driveindex="18,128"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA37" context="H,1,10,H37" playid="18,1,129" clock="07:25" text="IOWA HAWKEYES drive start at 07:25." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA37" context="H,1,10,H37" playid="18,2,130" type="R" pcode="LL" text="Robinson, Adam rush left for 2 yards to the IOWA39 (Hodge, Elijah;Fort, L.J.)." newcontext="H,2,8,H39">
+    <p_ru vh="H" name="Robinson, Adam" gain="2"></p_ru>
+    <p_tk vh="V" name="Hodge, Elijah" assist="Y"></p_tk>
+    <p_tk vh="V" name="Fort, L.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="8" spot="IOWA39" context="H,2,8,H39" playid="18,3,131" type="P" text="Stanzi, Ricky pass complete to Moeaki, Tony for 5 yards to the IOWA44 (Kinney, Chuck;Hodge, Elijah)." newcontext="H,3,3,H44">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Moeaki, Tony" gain="5"></p_pa>
+    <p_tk vh="V" name="Kinney, Chuck" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hodge, Elijah" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="3" spot="IOWA44" context="H,3,3,H44" playid="18,4,132" type="R" pcode="RR" text="Robinson, Adam rush right for 1 yard to the IOWA45 (Kinney, Chuck;Thompson, Jamar), PENALTY IOWA holding declined." newcontext="H,4,2,H45">
+    <p_ru vh="H" name="Robinson, Adam" gain="1"></p_ru>
+    <p_tk vh="V" name="Kinney, Chuck" assist="Y"></p_tk>
+    <p_tk vh="V" name="Thompson, Jamar" assist="Y"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="Nielsen, Tyler" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="IOWA" down="4" togo="2" spot="IOWA45" context="H,4,2,H45" playid="18,5,133" type="U" text="Donahue, Ryan punt 36 yards to the UNI19, fair catch by Herring, Jarred." newcontext="V,1,10,V19">
+    <p_pu vh="H" name="Donahue, Ryan" gain="36" in20="Y" fc="Herring, Jarred"></p_pu>
+   </play>
+   <drivesum plays="3" yards="8" top="1:43" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="V,V19,07:25" vh="V" spot="V19" clock="07:25" driveindex="19,133"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="UNI19" context="V,1,10,V19" playid="19,1,134" clock="05:42" text="NORTHERN IOWA drive start at 05:42." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI19" context="V,1,10,V19" playid="19,2,135" type="P" form="SG" text="[SG], Turner, Maurice pass incomplete to Herring, Jarred (Sash, Tyler)." newcontext="V,2,10,V19">
+    <p_pa vh="V" qb="Turner, Maurice" result="INC" rcv="Herring, Jarred"></p_pa>
+    <p_bu vh="H" name="Sash, Tyler"></p_bu>
+   </play>
+   <play hasball="UNI" down="2" togo="10" spot="UNI19" context="V,2,10,V19" playid="19,3,136" type="E" form="SG" text="[SG], PENALTY UNI holding (Howard, Austin) 10 yards to the UNI9, NO PLAY." newcontext="V,2,20,V09">
+    <p_pn vh="V" code="HO" type="holding" name="Howard, Austin" result="ACCEPT" at="V19" yards="10"></p_pn>
+   </play>
+   <play hasball="UNI" down="2" togo="20" spot="UNI09" context="V,2,20,V09" playid="19,4,137" type="R" pcode="MI" form="SG" text="[SG], Anderson,Carlos rush up middle for 3 yards to the UNI12 (Angerer, Pat;Edds, A.J.)." newcontext="V,3,17,V12">
+    <p_ru vh="V" name="Anderson,Carlos" gain="3"></p_ru>
+    <p_tk vh="H" name="Angerer, Pat" assist="Y"></p_tk>
+    <p_tk vh="H" name="Edds, A.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="3" togo="17" spot="UNI12" context="V,3,17,V12" playid="19,5,138" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to Herring, Jarred (Edds, A.J.)." newcontext="V,4,17,V12">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Herring, Jarred"></p_pa>
+    <p_bu vh="H" name="Edds, A.J."></p_bu>
+   </play>
+   <play hasball="UNI" down="4" togo="17" spot="UNI12" context="V,4,17,V12" playid="19,6,139" type="E" text="PENALTY UNI false start (Smith, Jordan) 5 yards to the UNI7." newcontext="V,4,22,V07">
+    <p_pn vh="V" code="FS" type="false start" name="Smith, Jordan" result="ACCEPT" at="V12" yards="5"></p_pn>
+   </play>
+   <play hasball="UNI" down="4" togo="22" spot="UNI07" context="V,4,22,V07" playid="19,7,140" type="U" text="Bernard, Kyle punt 42 yards to the UNI49, downed." newcontext="H,1,10,V49">
+    <p_pu vh="V" name="Bernard, Kyle" gain="42"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-12" top="1:28" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,V49,05:42" vh="H" spot="V49" clock="05:42" driveindex="20,140"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI49" context="H,1,10,V49" playid="20,1,141" clock="04:14" text="IOWA HAWKEYES drive start at 04:14." newcontext="H,1,10,V49">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI49" context="H,1,10,V49" playid="20,2,142" type="P" first="P" text="Stanzi, Ricky pass complete to Reisner, Allen for 12 yards to the UNI37, 1ST DOWN IOWA (Sonie, Varmah;Fort, L.J.)." newcontext="H,1,10,V37">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Reisner, Allen" gain="12"></p_pa>
+    <p_tk vh="V" name="Sonie, Varmah" assist="Y"></p_tk>
+    <p_tk vh="V" name="Fort, L.J." assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI37" context="H,1,10,V37" playid="20,3,143" type="P" pcode="MI" text="Stanzi, Ricky middle pass complete to Moeaki, Tony for 6 yards to the UNI31 (Hodge, Elijah)." newcontext="H,2,4,V31">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Moeaki, Tony" gain="6"></p_pa>
+    <p_tk vh="V" name="Hodge, Elijah"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="4" spot="UNI31" context="H,2,4,V31" playid="20,4,144" type="P" text="Stanzi, Ricky pass incomplete to Moeaki, Tony (Hodge, Elijah)." newcontext="H,3,4,V31">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="INC" rcv="Moeaki, Tony"></p_pa>
+    <p_bu vh="V" name="Hodge, Elijah"></p_bu>
+   </play>
+   <play hasball="IOWA" down="3" togo="4" spot="UNI31" context="H,3,4,V31" playid="20,5,145" type="P" text="Stanzi, Ricky pass incomplete to McNutt, Marvin." newcontext="H,4,4,V31">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="INC" rcv="McNutt, Marvin"></p_pa>
+   </play>
+   <play hasball="IOWA" down="4" togo="4" spot="UNI31" context="H,4,4,V31" playid="20,6,146" type="F" clock="02:57" text="Murray, Daniel field goal attempt from 48 MISSED - wide left, spot at UNI31, clock 02:57." newcontext="V,1,10,V31">
+    <p_fg vh="H" name="Murray, Daniel" distance="48" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="5" yards="18" top="1:17" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,V31,02:57" vh="V" spot="V31" clock="02:57" driveindex="21,146"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="UNI31" context="V,1,10,V31" playid="21,1,147" clock="02:57" text="NORTHERN IOWA drive start at 02:57." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI31" context="V,1,10,V31" playid="21,2,148" type="P" pcode="SC" form="SG" text="[SG], Grace, Pat screen pass complete to Herring, Jarred for 9 yards to the UNI40, out-of-bounds (Sash, Tyler)." ob="Y" newcontext="V,2,1,V40">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Herring, Jarred" gain="9"></p_pa>
+    <p_tk vh="H" name="Sash, Tyler"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="1" spot="UNI40" context="V,2,1,V40" playid="21,3,149" type="R" pcode="LL" form="SG" text="[SG], Grace, Pat rush left for loss of 1 yard to the UNI39 (Clayborn, A.;Angerer, Pat)." newcontext="V,3,2,V39">
+    <p_ru vh="V" name="Grace, Pat" gain="-1"></p_ru>
+    <p_tk vh="H" name="Clayborn, A." tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Angerer, Pat" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="3" togo="2" spot="UNI39" context="V,3,2,V39" playid="21,4,150" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to Mahaffey, Ryan, QB hurry by Binns, B.." newcontext="V,4,2,V39">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Mahaffey, Ryan"></p_pa>
+    <p_qbh vh="H" name="Binns, B."></p_qbh>
+   </play>
+   <play hasball="UNI" down="4" togo="2" spot="UNI39" context="V,4,2,V39" playid="21,5,151" type="U" text="Bernard, Kyle punt 34 yards to the IOWA27, fair catch by Chaney, Jr., P.." newcontext="H,1,10,H27">
+    <p_pu vh="V" name="Bernard, Kyle" gain="34" fc="Chaney, Jr., P."></p_pu>
+   </play>
+   <drivesum plays="3" yards="8" top="1:23" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,H27,02:57" vh="H" spot="H27" clock="02:57" driveindex="22,151"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA27" context="H,1,10,H27" playid="22,1,152" clock="01:34" text="IOWA HAWKEYES drive start at 01:34." newcontext="H,1,10,H27">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA27" context="H,1,10,H27" playid="22,2,153" type="P" first="P" text="Stanzi, Ricky pass complete to Stross, Trey for 29 yards to the UNI44, 1ST DOWN IOWA." newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Stross, Trey" gain="29"></p_pa>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI44" context="H,1,10,V44" playid="22,3,154" type="E" text="PENALTY IOWA holding (Gettis, Adam) 10 yards to the IOWA46." newcontext="H,1,20,H46">
+    <p_pn vh="H" code="HO" type="holding" name="Gettis, Adam" result="ACCEPT" at="V44" yards="10"></p_pn>
+   </play>
+   <play hasball="IOWA" down="1" togo="20" spot="IOWA46" context="H,1,20,H46" playid="22,4,155" type="R" pcode="MI" text="Robinson, Adam rush up middle for 9 yards to the UNI45 (Fort, L.J.)." newcontext="H,2,11,V45">
+    <p_ru vh="H" name="Robinson, Adam" gain="9"></p_ru>
+    <p_tk vh="V" name="Fort, L.J."></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="11" spot="UNI45" context="H,2,11,V45" playid="22,5,156" type="R" pcode="MI" text="Robinson, Adam rush up middle for no gain to the UNI45 (Kinney, Chuck;Lane, Wes)." newcontext="H,3,11,V45">
+    <p_ru vh="H" name="Robinson, Adam" gain="0"></p_ru>
+    <p_tk vh="V" name="Kinney, Chuck" assist="Y"></p_tk>
+    <p_tk vh="V" name="Lane, Wes" assist="Y"></p_tk>
+   </play>
+   <score qtr="3" V="13" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UNI">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="3" yds="25"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="07:22"></misc>
+    <rush att="7" yds="-2" gain="9" loss="11" td="0" long="0"></rush>
+    <pass comp="3" att="6" int="0" yds="59" td="0" long="36" sacks="2" sackyds="7"></pass>
+    <rcv no="3" yds="59" td="0" long="36"></rcv>
+    <punt no="3" yds="131" long="18" blkd="0" tb="0" fc="1" plus50="1" inside20="0" avg="43.7"></punt>
+    <ko no="1" yds="60" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <defense tackua="6" tacka="16" tot_tack="22" tflua="1" tfla="0" tflyds="5" sacks="4" sackyds="38" brup="1" ff="1" fr="1" fryds="0"></defense>
+    <kr no="2" yds="22" td="0" long="19"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="IOWA">
+    <firstdowns no="6" rush="1" pass="5" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="07:33"></misc>
+    <rush att="7" yds="24" gain="29" loss="5" td="1" long="0"></rush>
+    <pass comp="8" att="11" int="0" yds="105" td="0" long="14" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="105" td="0" long="14"></rcv>
+    <punt no="1" yds="36" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="36.0"></punt>
+    <ko no="2" yds="112" ob="0" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="6" tacka="12" tot_tack="18" tflua="6" tfla="0" tflyds="15" sacks="2" sackyds="7" brup="2" qbh="1" ff="1" fr="1" fryds="0"></defense>
+    <kr no="1" yds="20" td="0" long="3"></kr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="IOWA" down="3" togo="11" spot="UNI45" context="H,3,11,V45" playid="22,6,157" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="H,3,11,V45">
+   </play>
+   <play hasball="IOWA" down="3" togo="11" spot="UNI45" context="H,3,11,V45" playid="22,7,158" type="P" first="P" form="SG" text="[SG], Stanzi, Ricky pass complete to J-Koulianos, D. for 22 yards to the UNI23, 1ST DOWN IOWA (McBride,Terrell)." newcontext="H,1,10,V23">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="J-Koulianos, D." gain="22"></p_pa>
+    <p_tk vh="V" name="McBride,Terrell"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI23" context="H,1,10,V23" playid="22,8,159" type="P" text="Stanzi, Ricky pass complete to Moeaki, Tony for 7 yards to the UNI16 (Hodge, Elijah)." newcontext="H,2,3,V16">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Moeaki, Tony" gain="7"></p_pa>
+    <p_tk vh="V" name="Hodge, Elijah"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="3" spot="UNI16" context="H,2,3,V16" playid="22,9,160" type="R" pcode="MI" first="R" text="Robinson, Adam rush up middle for 10 yards to the UNI6, 1ST DOWN IOWA (Scott, Quentin)." newcontext="H,1,0,V06">
+    <p_ru vh="H" name="Robinson, Adam" gain="10"></p_ru>
+    <p_tk vh="V" name="Scott, Quentin"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="0" spot="UNI06" context="H,1,0,V06" playid="22,10,161" type="P" score="Y" clock="13:18" text="Stanzi, Ricky pass complete to Moeaki, Tony for 6 yards to the UNI0, TOUCHDOWN, clock 13:18." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Moeaki, Tony" gain="6"></p_pa>
+   </play>
+   <play hasball="IOWA" down="1" togo="0" spot="UNI03" context="H,1,0,V03" playid="22,11,162" type="X" score="Y" text="Murray, Daniel kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Murray, Daniel" qb="Murray, Daniel" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="13" H="17"></score>
+   <drivesum plays="7" yards="73" top="3:16" driveindex="22" complete="Y"></drivesum>
+   <play hasball="IOWA" down="1" togo="0" spot="IOWA30" context="H,1,0,H30" playid="22,12,163" type="K" text="Murray, Daniel kickoff 61 yards to the UNI9, Herring, Jarred return 19 yards to the UNI28 (Wegher, Brandon;Hyde, Micah)." newcontext="V,1,10,V28">
+    <p_ko vh="H" name="Murray, Daniel" gain="61"></p_ko>
+    <p_kr vh="V" name="Herring, Jarred" gain="19"></p_kr>
+    <p_tk vh="H" name="Wegher, Brandon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Hyde, Micah" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V28,13:18" vh="V" spot="V28" clock="13:18" driveindex="23,163"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="UNI28" context="V,1,10,V28" playid="23,1,164" clock="13:18" text="NORTHERN IOWA drive start at 13:18." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI28" context="V,1,10,V28" playid="23,2,165" type="R" pcode="LL" form="SG" text="[SG], Anderson,Carlos rush left for 1 yard to the UNI29 (Hunter, J.)." newcontext="V,2,9,V29">
+    <p_ru vh="V" name="Anderson,Carlos" gain="1"></p_ru>
+    <p_tk vh="H" name="Hunter, J."></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="9" spot="UNI29" context="V,2,9,V29" playid="23,3,166" type="R" pcode="RR" form="SG" text="[SG], Anderson,Carlos rush right for 4 yards to the UNI33 (Ballard, C.;Klug, Karl)." newcontext="V,3,5,V33">
+    <p_ru vh="V" name="Anderson,Carlos" gain="4"></p_ru>
+    <p_tk vh="H" name="Ballard, C." assist="Y"></p_tk>
+    <p_tk vh="H" name="Klug, Karl" assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="3" togo="5" spot="UNI33" context="V,3,5,V33" playid="23,4,167" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to Eyman, D.P.." newcontext="V,4,5,V33">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Eyman, D.P."></p_pa>
+   </play>
+   <play hasball="UNI" down="4" togo="5" spot="UNI33" context="V,4,5,V33" playid="23,5,168" type="U" text="Bernard, Kyle punt 35 yards to the IOWA32, Chaney, Jr., P. return 2 yards to the IOWA34 (Gerard, Shawn)." newcontext="H,1,10,H34">
+    <p_pu vh="V" name="Bernard, Kyle" gain="35"></p_pu>
+    <p_pr vh="H" name="Chaney, Jr., P." gain="2"></p_pr>
+    <p_tk vh="V" name="Gerard, Shawn"></p_tk>
+   </play>
+   <drivesum plays="3" yards="5" top="1:34" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,H34,13:18" vh="H" spot="H34" clock="13:18" driveindex="24,168"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA34" context="H,1,10,H34" playid="24,1,169" clock="11:44" text="IOWA HAWKEYES drive start at 11:44." newcontext="H,1,10,H34">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA34" context="H,1,10,H34" playid="24,2,170" type="P" first="P" text="Stanzi, Ricky pass complete to Stross, Trey for 16 yards to the 50 yardline, 1ST DOWN IOWA, out-of-bounds (McBride,Terrell)." ob="Y" newcontext="H,1,10,H50">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Stross, Trey" gain="16"></p_pa>
+    <p_tk vh="V" name="McBride,Terrell"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA50" context="H,1,10,H50" playid="24,3,171" type="R" pcode="MI" first="R" text="Robinson, Adam rush up middle for 10 yards to the UNI40, 1ST DOWN IOWA (Lane, Wes)." newcontext="H,1,10,V40">
+    <p_ru vh="H" name="Robinson, Adam" gain="10"></p_ru>
+    <p_tk vh="V" name="Lane, Wes"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="UNI40" context="H,1,10,V40" playid="24,4,172" type="P" text="Stanzi, Ricky pass incomplete to Davis, Keenan." newcontext="H,2,10,V40">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="INC" rcv="Davis, Keenan"></p_pa>
+   </play>
+   <play hasball="IOWA" down="2" togo="10" spot="UNI40" context="H,2,10,V40" playid="24,5,173" type="P" text="Stanzi, Ricky pass complete to Moeaki, Tony for 8 yards to the UNI32 (Fort, L.J.;McBride,Terrell)." newcontext="H,3,2,V32">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Moeaki, Tony" gain="8"></p_pa>
+    <p_tk vh="V" name="Fort, L.J." assist="Y"></p_tk>
+    <p_tk vh="V" name="McBride,Terrell" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="3" togo="2" spot="UNI32" context="H,3,2,V32" playid="24,6,174" type="R" pcode="MI" text="Robinson, Adam rush up middle for no gain to the UNI32 (Kinney, Chuck;Hodge, Elijah)." newcontext="H,4,2,V32">
+    <p_ru vh="H" name="Robinson, Adam" gain="0"></p_ru>
+    <p_tk vh="V" name="Kinney, Chuck" assist="Y"></p_tk>
+    <p_tk vh="V" name="Hodge, Elijah" assist="Y"></p_tk>
+   </play>
+   <play hasball="IOWA" down="4" togo="2" spot="UNI32" context="H,4,2,V32" playid="24,7,175" type="R" pcode="MI" text="Robinson, Adam rush up middle for no gain to the UNI32 (Boothby, Ben;Fort, L.J.)." newcontext="V,1,10,V32">
+    <p_ru vh="H" name="Robinson, Adam" gain="0"></p_ru>
+    <p_tk vh="V" name="Boothby, Ben" assist="Y"></p_tk>
+    <p_tk vh="V" name="Fort, L.J." assist="Y"></p_tk>
+   </play>
+   <drivesum plays="6" yards="34" top="2:40" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="V,V32,11:44" vh="V" spot="V32" clock="11:44" driveindex="25,175"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="UNI32" context="V,1,10,V32" playid="25,1,176" clock="09:04" text="NORTHERN IOWA drive start at 09:04." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI32" context="V,1,10,V32" playid="25,2,177" type="E" form="SG" text="[SG], PENALTY UNI holding (Limbaugh,Jordan) 10 yards to the UNI22, NO PLAY." newcontext="V,1,20,V22">
+    <p_pn vh="V" code="HO" type="holding" name="Limbaugh,Jordan" result="ACCEPT" at="V32" yards="10"></p_pn>
+   </play>
+   <play hasball="UNI" down="1" togo="20" spot="UNI22" context="V,1,20,V22" playid="25,3,178" type="P" pcode="SC" form="SG" text="[SG], Grace, Pat screen pass incomplete to Anderson,Carlos, QB hurry by Klug, Karl." newcontext="V,2,20,V22">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Anderson,Carlos"></p_pa>
+    <p_qbh vh="H" name="Klug, Karl"></p_qbh>
+   </play>
+   <play hasball="UNI" down="2" togo="20" spot="UNI22" context="V,2,20,V22" playid="25,4,179" type="P" form="SG" text="[SG], Grace, Pat pass complete to Oordt, Schuylar for 9 yards to the UNI31 (Spievey, Amari)." newcontext="V,3,11,V31">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Oordt, Schuylar" gain="9"></p_pa>
+    <p_tk vh="H" name="Spievey, Amari"></p_tk>
+   </play>
+   <play hasball="UNI" down="3" togo="11" spot="UNI31" context="V,3,11,V31" playid="25,5,180" type="P" first="P" form="SG" text="[SG], Grace, Pat pass complete to Hord, D.J. for 18 yards to the UNI49, 1ST DOWN UNI (Greenwood, B.)." newcontext="V,1,10,V49">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Hord, D.J." gain="18"></p_pa>
+    <p_tk vh="H" name="Greenwood, B."></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI49" context="V,1,10,V49" playid="25,6,181" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to Mahaffey, Ryan (Hunter, J.)." newcontext="V,2,10,V49">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Mahaffey, Ryan"></p_pa>
+    <p_bu vh="H" name="Hunter, J."></p_bu>
+   </play>
+   <play hasball="UNI" down="2" togo="10" spot="UNI49" context="V,2,10,V49" playid="25,7,182" type="R" pcode="RR" form="SG" text="[SG], Herring, Jarred rush right for 3 yards to the IOWA48, out-of-bounds (Sash, Tyler)." ob="Y" newcontext="V,3,7,H48">
+    <p_ru vh="V" name="Herring, Jarred" gain="3"></p_ru>
+    <p_tk vh="H" name="Sash, Tyler"></p_tk>
+   </play>
+   <play hasball="UNI" down="3" togo="7" spot="IOWA48" context="V,3,7,H48" playid="25,8,183" type="P" pcode="MI" first="P" form="SG" text="[SG], Grace, Pat middle pass complete to Herring, Jarred for 14 yards to the IOWA34, 1ST DOWN UNI (Greenwood, B.)." newcontext="V,1,10,H34">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Herring, Jarred" gain="14"></p_pa>
+    <p_tk vh="H" name="Greenwood, B."></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA34" context="V,1,10,H34" playid="25,9,184" type="P" form="SG" text="[SG], Grace, Pat pass complete to Mahaffey, Ryan for 3 yards to the IOWA31 (Spievey, Amari)." newcontext="V,2,7,H31">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Mahaffey, Ryan" gain="3"></p_pa>
+    <p_tk vh="H" name="Spievey, Amari"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="7" spot="IOWA31" context="V,2,7,H31" playid="25,10,185" type="P" first="P" form="SG" text="[SG], Grace, Pat pass complete to Oordt, Schuylar for 16 yards to the IOWA15, 1ST DOWN UNI, out-of-bounds." ob="Y" newcontext="V,1,10,H15">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Oordt, Schuylar" gain="16"></p_pa>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA15" context="V,1,10,H15" playid="25,11,186" type="#" clock="05:27" form="SG" text="[SG], timeout Northern Iowa, clock 05:27." newcontext="V,1,10,H15">
+    <p_to vh="V" team="Northern Iowa"></p_to>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA15" context="V,1,10,H15" playid="25,12,187" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to Oordt, Schuylar (Greenwood, B.)." newcontext="V,2,10,H15">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Oordt, Schuylar"></p_pa>
+    <p_bu vh="H" name="Greenwood, B."></p_bu>
+   </play>
+   <play hasball="UNI" down="2" togo="10" spot="IOWA15" context="V,2,10,H15" playid="25,13,188" type="E" form="SG" text="[SG], Grace, Pat pass incomplete to Herring, Jarred, PENALTY UNI pass interference (Eyman, D.P.) 15 yards to the IOWA30, NO PLAY." newcontext="V,2,25,H30">
+    <p_pn vh="V" code="PI" type="pass interference" name="Eyman, D.P." result="ACCEPT" at="H15" yards="15"></p_pn>
+   </play>
+   <play hasball="UNI" down="2" togo="25" spot="IOWA30" context="V,2,25,H30" playid="25,14,189" type="P" form="SG" text="[SG], Grace, Pat pass complete to Anderson,Carlos for 8 yards to the IOWA22 (Edds, A.J.;Hunter, J.)." newcontext="V,3,17,H22">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Anderson,Carlos" gain="8"></p_pa>
+    <p_tk vh="H" name="Edds, A.J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Hunter, J." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="3" togo="17" spot="IOWA22" context="V,3,17,H22" playid="25,15,190" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to Hord, D.J. (Klug, Karl)." newcontext="V,4,17,H22">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Hord, D.J."></p_pa>
+    <p_bu vh="H" name="Klug, Karl"></p_bu>
+   </play>
+   <play hasball="UNI" down="4" togo="17" spot="IOWA22" context="V,4,17,H22" playid="25,16,191" type="F" score="Y" clock="04:26" text="Hallgren, Billy field goal attempt from 39 GOOD, clock 04:26." newcontext="V,1,0,V30">
+    <p_fg vh="V" name="Hallgren, Billy" distance="39" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="16" H="17"></score>
+   <drivesum plays="12" yards="46" top="4:38" driveindex="25" complete="Y"></drivesum>
+   <play hasball="UNI" down="1" togo="0" spot="UNI30" context="V,1,0,V30" playid="25,17,192" type="K" text="Hallgren, Billy kickoff 59 yards to the IOWA11, Chaney, Jr., P. return 18 yards to the IOWA29 (Fuller, Zerrick;Smith, Jordan)." newcontext="H,1,10,H29">
+    <p_ko vh="V" name="Hallgren, Billy" gain="59"></p_ko>
+    <p_kr vh="H" name="Chaney, Jr., P." gain="18"></p_kr>
+    <p_tk vh="V" name="Fuller, Zerrick" assist="Y"></p_tk>
+    <p_tk vh="V" name="Smith, Jordan" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H29,04:26" vh="H" spot="H29" clock="04:26" driveindex="26,192"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA29" context="H,1,10,H29" playid="26,1,193" clock="04:26" text="IOWA HAWKEYES drive start at 04:26." newcontext="H,1,10,H29">
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA29" context="H,1,10,H29" playid="26,2,194" type="P" text="Stanzi, Ricky pass complete to Chaney, Jr., P. for 9 yards to the IOWA38 (Scott, Quentin)." newcontext="H,2,1,H38">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Chaney, Jr., P." gain="9"></p_pa>
+    <p_tk vh="V" name="Scott, Quentin"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="1" spot="IOWA38" context="H,2,1,H38" playid="26,3,195" type="R" pcode="MI" first="R" text="Stanzi, Ricky rush up middle for 2 yards to the IOWA40, 1ST DOWN IOWA (Lane, Wes)." newcontext="H,1,10,H40">
+    <p_ru vh="H" name="Stanzi, Ricky" gain="2"></p_ru>
+    <p_tk vh="V" name="Lane, Wes"></p_tk>
+   </play>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA40" context="H,1,10,H40" playid="26,4,196" type="P" text="Stanzi, Ricky pass complete to Moeaki, Tony for 4 yards to the IOWA44 (Hodge, Elijah)." newcontext="H,2,6,H44">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Moeaki, Tony" gain="4"></p_pa>
+    <p_tk vh="V" name="Hodge, Elijah"></p_tk>
+   </play>
+   <play hasball="IOWA" down="2" togo="6" spot="IOWA44" context="H,2,6,H44" playid="26,5,197" type="P" text="Stanzi, Ricky pass incomplete to Stross, Trey, QB hurry by Hodge, Elijah." newcontext="H,3,6,H44">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="INC" rcv="Stross, Trey"></p_pa>
+    <p_qbh vh="V" name="Hodge, Elijah"></p_qbh>
+   </play>
+   <play hasball="IOWA" down="3" togo="6" spot="IOWA44" context="H,3,6,H44" playid="26,6,198" type="P" form="SG" text="[SG], Stanzi, Ricky pass complete to Moeaki, Tony for 2 yards to the IOWA46 (Mahoney, Josh)." newcontext="H,4,4,H46">
+    <p_pa vh="H" qb="Stanzi, Ricky" result="COMP" rcv="Moeaki, Tony" gain="2"></p_pa>
+    <p_tk vh="V" name="Mahoney, Josh"></p_tk>
+   </play>
+   <play hasball="IOWA" down="4" togo="4" spot="IOWA46" context="H,4,4,H46" playid="26,7,199" type="#" clock="02:23" text="Timeout Northern Iowa, clock 02:23." newcontext="H,4,4,H46">
+    <p_to vh="V" team="Northern Iowa"></p_to>
+   </play>
+   <play hasball="IOWA" down="4" togo="4" spot="IOWA46" context="H,4,4,H46" playid="26,8,200" type="U" text="Donahue, Ryan punt 46 yards to the UNI8, fair catch by Herring, Jarred." newcontext="V,1,10,V08">
+    <p_pu vh="H" name="Donahue, Ryan" gain="46" in20="Y" fc="Herring, Jarred"></p_pu>
+   </play>
+   <drivesum plays="5" yards="17" top="2:12" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="V,V08,02:23" vh="V" spot="V08" clock="02:23" driveindex="27,200"></drivestart>
+   <play hasball="UNI" down="1" togo="10" spot="UNI08" context="V,1,10,V08" playid="27,1,201" clock="02:14" text="NORTHERN IOWA drive start at 02:14." newcontext="V,1,10,V08">
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI08" context="V,1,10,V08" playid="27,2,202" type="P" first="P" form="SG" text="[SG], Grace, Pat pass complete to Herring, Jarred for 10 yards to the UNI18, 1ST DOWN UNI (Greenwood, B.)." newcontext="V,1,10,V18">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Herring, Jarred" gain="10"></p_pa>
+    <p_tk vh="H" name="Greenwood, B."></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI18" context="V,1,10,V18" playid="27,3,203" type="P" first="P" form="SG" text="[SG], Grace, Pat pass complete to Herring, Jarred for 11 yards to the UNI29, 1ST DOWN UNI (Angerer, Pat)." newcontext="V,1,10,V29">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Herring, Jarred" gain="11"></p_pa>
+    <p_tk vh="H" name="Angerer, Pat"></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI29" context="V,1,10,V29" playid="27,4,204" type="P" form="SG" text="[SG], Grace, Pat pass complete to Anderson,Carlos for 9 yards to the UNI38 (Hunter, J.;Greenwood, B.)." newcontext="V,2,1,V38">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Anderson,Carlos" gain="9"></p_pa>
+    <p_tk vh="H" name="Hunter, J." assist="Y"></p_tk>
+    <p_tk vh="H" name="Greenwood, B." assist="Y"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="1" spot="UNI38" context="V,2,1,V38" playid="27,5,205" type="#" clock="01:13" form="SG" text="[SG], timeout Iowa Hawkeyes, clock 01:13." newcontext="V,2,1,V38">
+    <p_to vh="H" team="Iowa Hawkeyes"></p_to>
+   </play>
+   <play hasball="UNI" down="2" togo="1" spot="UNI38" context="V,2,1,V38" playid="27,6,206" type="P" first="P" form="SG" text="[SG], Grace, Pat pass complete to Eyman, D.P. for 9 yards to the UNI47, 1ST DOWN UNI (Angerer, Pat)." newcontext="V,1,10,V47">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Eyman, D.P." gain="9"></p_pa>
+    <p_tk vh="H" name="Angerer, Pat"></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="UNI47" context="V,1,10,V47" playid="27,7,207" type="R" form="SG" text="[SG], Grace, Pat rush for 2 yards to the UNI49 (Spievey, Amari)." newcontext="V,2,8,V49">
+    <p_ru vh="V" name="Grace, Pat" gain="2"></p_ru>
+    <p_tk vh="H" name="Spievey, Amari"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="8" spot="UNI49" context="V,2,8,V49" playid="27,8,208" type="P" form="SG" text="[SG], Grace, Pat pass incomplete to Turner, Maurice." newcontext="V,3,8,V49">
+    <p_pa vh="V" qb="Grace, Pat" result="INC" rcv="Turner, Maurice"></p_pa>
+   </play>
+   <play hasball="UNI" down="3" togo="8" spot="UNI49" context="V,3,8,V49" playid="27,9,209" type="P" first="P" form="SG" text="[SG], Grace, Pat pass complete to Hord, D.J. for 16 yards to the IOWA35, 1ST DOWN UNI (Greenwood, B.)." newcontext="V,1,10,H35">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Hord, D.J." gain="16"></p_pa>
+    <p_tk vh="H" name="Greenwood, B."></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA35" context="V,1,10,H35" playid="27,10,210" type="#" clock="00:29" text="Timeout Iowa Hawkeyes, clock 00:29." newcontext="V,1,10,H35">
+    <p_to vh="H" team="Iowa Hawkeyes"></p_to>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA35" context="V,1,10,H35" playid="27,11,211" type="P" form="SG" text="[SG], Grace, Pat pass complete to Eyman, D.P. for 6 yards to the IOWA29, out-of-bounds (Lowe, William)." ob="Y" newcontext="V,2,4,H29">
+    <p_pa vh="V" qb="Grace, Pat" result="COMP" rcv="Eyman, D.P." gain="6"></p_pa>
+    <p_tk vh="H" name="Lowe, William"></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="4" spot="IOWA29" context="V,2,4,H29" playid="27,12,212" type="R" pcode="LL" first="R" form="SG" text="[SG], Anderson,Carlos rush left for 6 yards to the IOWA23, 1ST DOWN UNI (Hunter, J.)." newcontext="V,1,10,H23">
+    <p_ru vh="V" name="Anderson,Carlos" gain="6"></p_ru>
+    <p_tk vh="H" name="Hunter, J."></p_tk>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA23" context="V,1,10,H23" playid="27,13,213" type="#" clock="00:07" text="Timeout Northern Iowa, clock 00:07." newcontext="V,1,10,H23">
+    <p_to vh="V" team="Northern Iowa"></p_to>
+   </play>
+   <play hasball="UNI" down="1" togo="10" spot="IOWA23" context="V,1,10,H23" playid="27,14,214" type="F" clock="00:01" text="Hallgren, Billy field goal attempt from 40 BLOCKED, recovered by UNI Mahaffey, Ryan at IOWA24 spot at IOWA24, clock 00:01 (blocked by Binns, B.) (Ballard, C.)." newcontext="V,2,11,H24">
+    <p_fg vh="V" name="Hallgren, Billy" distance="40" result="BLOCKED"></p_fg>
+    <p_tk vh="H" name="Ballard, C."></p_tk>
+   </play>
+   <play hasball="UNI" down="2" togo="11" spot="IOWA24" context="V,2,11,H24" playid="27,15,215" type="F" clock="00:00" text="Hallgren, Billy field goal attempt from 41 BLOCKED, recovered by IOWA Edds, A.J. at IOWA14 spot at IOWA14, clock 00:00 (blocked by Hunter, J.), Edds, A.J. for no gain to the IOWA14." newcontext="H,1,10,H14">
+    <p_fg vh="V" name="Hallgren, Billy" distance="41" result="BLOCKED"></p_fg>
+    <p_cont vh="H" name="Edds, A.J." context="FGA" at="H14" gain="0"></p_cont>
+   </play>
+   <drivesum plays="11" yards="69" top="2:14" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="H,H14,00:00" vh="H" spot="H14" clock="00:00" driveindex="28,215"></drivestart>
+   <play hasball="IOWA" down="1" togo="10" spot="IOWA14" context="H,1,10,H14" playid="28,1,216" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,1,10,H14">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="28" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Iowa defeats Northern Iowa by a score of 17 to 16."></play>
+   <score final="Y" V="16" H="17"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UNI">
+    <firstdowns no="8" rush="1" pass="7" penalty="0"></firstdowns>
+    <penalties no="2" yds="25"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:26"></misc>
+    <rush att="5" yds="16" gain="16" loss="0" td="0" long="0"></rush>
+    <pass comp="12" att="18" int="0" yds="129" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="12" yds="129" td="0" long="0"></rcv>
+    <punt no="1" yds="35" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="35.0"></punt>
+    <ko no="1" yds="59" ob="0" tb="0"></ko>
+    <fg made="1" att="3" long="0" blkd="2"></fg>
+    <defense tackua="10" tacka="8" tot_tack="18" sacks="4" sackyds="38" qbh="1"></defense>
+    <kr no="1" yds="19" td="0" long="0"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="IOWA">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:34"></misc>
+    <rush att="5" yds="22" gain="22" loss="0" td="0" long="0"></rush>
+    <pass comp="8" att="10" int="0" yds="74" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="74" td="1" long="0"></rcv>
+    <punt no="1" yds="46" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="46.0"></punt>
+    <ko no="1" yds="61" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="14" tacka="8" tot_tack="22" sacks="2" sackyds="7" brup="3" qbh="1" blkd="2"></defense>
+    <kr no="1" yds="18" td="0" long="0"></kr>
+    <pr no="1" yds="2" td="0" long="2"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="IOWA" down="1" togo="10" spot="IOWA14" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="0" htor="1" dtgtext="Game Over" ldtext="Drive started: 02:14, 4th Qtr"></downtogo>
+ </plays>

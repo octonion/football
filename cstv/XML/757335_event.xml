@@ -1,0 +1,996 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="SD" down="1" togo="10" spot="SD30" context="V,1,10,V30" playid="0,1,0" text="Ucla won the toss &amp; will defer.SDSU will receive &amp; defend the no.goal." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD30" context="V,1,10,V30" playid="0,2,1" text="UCLA ball on UCLA30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA30" context="H,1,10,H30" playid="0,3,2" type="K" text="Locke, Jeff kickoff 56 yards to the SD14, BROWN, Vincent return 17 yards to the SD31 (Coleman, Derric)." newcontext="V,1,10,V31">
+    <p_ko vh="H" name="Locke, Jeff" gain="56"></p_ko>
+    <p_kr vh="V" name="BROWN, Vincent" gain="17"></p_kr>
+    <p_tk vh="H" name="Coleman, Derric"></p_tk>
+   </play>
+   <drivestart poss="V,V31,15:00" vh="V" spot="V31" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD31" context="V,1,10,V31" playid="1,1,3" type="P" text="LINDLEY, Ryan pass complete to BROWN, Vincent for 6 yards to the SD37 (Hester,Aaron)." newcontext="V,2,4,V37">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="BROWN, Vincent" gain="6"></p_pa>
+    <p_tk vh="H" name="Hester,Aaron"></p_tk>
+   </play>
+   <play hasball="SD" down="2" togo="4" spot="SD37" context="V,2,4,V37" playid="1,2,4" type="R" text="MILLER, Anthony rush for no gain to the SD37 (Siewierski, Jer)." newcontext="V,3,4,V37">
+    <p_ru vh="V" name="MILLER, Anthony" gain="0"></p_ru>
+    <p_tk vh="H" name="Siewierski, Jer"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="SD" down="3" togo="4" spot="SD37" context="V,3,4,V37" playid="1,3,6" type="E" first="E" text="PENALTY UCLA offside 5 yards to the SD42, 1ST DOWN SD." newcontext="V,1,10,V42">
+    <p_pn vh="H" code="OS" type="offside" result="ACCEPT" at="V37" yards="5"></p_pn>
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD42" context="V,1,10,V42" playid="1,4,7" type="P" text="LINDLEY, Ryan pass complete to UMUOLO, Alston for 8 yards to the 50 yardline (Bosworth, Korey)." newcontext="V,2,2,V50">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="UMUOLO, Alston" gain="8"></p_pa>
+    <p_tk vh="H" name="Bosworth, Korey"></p_tk>
+   </play>
+   <play hasball="SD" down="2" togo="2" spot="SD50" context="V,2,2,V50" playid="1,5,8" type="R" first="R" text="KAZEE, Walter rush for 8 yards to the UCLA42, 1ST DOWN SD (Bosworth, Kyle)." newcontext="V,1,10,H42">
+    <p_ru vh="V" name="KAZEE, Walter" gain="8"></p_ru>
+    <p_tk vh="H" name="Bosworth, Kyle"></p_tk>
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="UCLA42" context="V,1,10,H42" playid="1,6,9" type="P" first="P" text="LINDLEY, Ryan pass complete to BROWN, Vincent for 14 yards to the UCLA28, 1ST DOWN SD (Dye, Tony)." newcontext="V,1,10,H28">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="BROWN, Vincent" gain="14"></p_pa>
+    <p_tk vh="H" name="Dye, Tony"></p_tk>
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="UCLA28" context="V,1,10,H28" playid="1,7,10" type="R" text="MILLER, Anthony rush for 2 yards to the UCLA26 (Carter, Reggie)." newcontext="V,2,8,H26">
+    <p_ru vh="V" name="MILLER, Anthony" gain="2"></p_ru>
+    <p_tk vh="H" name="Carter, Reggie"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="SD" down="2" togo="8" spot="UCLA26" context="V,2,8,H26" playid="1,8,12" type="P" text="LINDLEY, Ryan pass incomplete to UMUOLO, Alston." newcontext="V,3,8,H26">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="UMUOLO, Alston"></p_pa>
+   </play>
+   <play hasball="SD" down="3" togo="8" spot="UCLA26" context="V,3,8,H26" playid="1,9,13" type="P" first="P" text="LINDLEY, Ryan pass complete to SAMPSON, DeMarc for 22 yards to the UCLA4, 1ST DOWN SD." newcontext="V,1,0,H04">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="SAMPSON, DeMarc" gain="22"></p_pa>
+   </play>
+   <play hasball="SD" down="1" togo="0" spot="UCLA04" context="V,1,0,H04" playid="1,10,14" type="R" text="MILLER, Anthony rush for loss of 3 yards to the UCLA7 (Bosworth, Kyle)." newcontext="V,2,0,H07">
+    <p_ru vh="V" name="MILLER, Anthony" gain="-3"></p_ru>
+    <p_tk vh="H" name="Bosworth, Kyle" tfl="Y"></p_tk>
+   </play>
+   <play hasball="SD" down="2" togo="0" spot="UCLA07" context="V,2,0,H07" playid="1,11,15" type="P" text="LINDLEY, Ryan pass incomplete to WALLACE, Robert." newcontext="V,3,0,H07">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="WALLACE, Robert"></p_pa>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="SD" down="3" togo="0" spot="UCLA07" context="V,3,0,H07" playid="1,12,17" type="E" first="E" text="PENALTY UCLA holding (Ayers, Akeem) 3 yards to the UCLA4, 1ST DOWN SD." newcontext="V,1,0,H04">
+    <p_pn vh="H" code="HO" type="holding" name="Ayers, Akeem" result="ACCEPT" at="H07" yards="3"></p_pn>
+   </play>
+   <play hasball="SD" down="1" togo="0" spot="UCLA04" context="V,1,0,H04" playid="1,13,18" type="R" text="MILLER, Anthony rush for no gain to the UCLA4 (Carter, Reggie)." newcontext="V,2,0,H04">
+    <p_ru vh="V" name="MILLER, Anthony" gain="0"></p_ru>
+    <p_tk vh="H" name="Carter, Reggie"></p_tk>
+   </play>
+   <play hasball="SD" down="2" togo="0" spot="UCLA04" context="V,2,0,H04" playid="1,14,19" type="P" score="Y" clock="09:28" text="LINDLEY, Ryan pass complete to KAWULOK, MATTHE for 4 yards to the UCLA0, TOUCHDOWN, clock 09:28." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="KAWULOK, MATTHE" gain="4"></p_pa>
+   </play>
+   <play hasball="SD" down="1" togo="0" spot="UCLA03" context="V,1,0,H03" playid="1,15,20" type="X" score="Y" text="YOSHIDA, Lane kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="YOSHIDA, Lane" qb="YOSHIDA, Lane" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="0"></score>
+   <drivesum plays="14" yards="69" top="5:32" driveindex="1" complete="Y"></drivesum>
+   <play hasball="SD" down="1" togo="0" spot="SD30" context="V,1,0,V30" playid="1,16,21" type="K" text="SHIELDS, Bryan kickoff 52 yards to the UCLA18." newcontext="H,1,10,H18">
+    <p_ko vh="V" name="SHIELDS, Bryan" gain="52"></p_ko>
+   </play>
+   <drivestart poss="H,H18,09:28" vh="H" spot="H18" clock="09:28" driveindex="2,21"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA18" context="H,1,10,H18" playid="2,1,22" clock="09:28" text="UCLA drive start at 09:28." newcontext="H,1,10,H18">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA18" context="H,1,10,H18" playid="2,2,23" text="UCLA ball on UCLA19." newcontext="H,1,10,H19">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA19" context="H,1,10,H19" playid="2,3,24" type="P" first="P" text="Prince, Kevin pass complete to Austin, Terrenc for 20 yards to the UCLA39, 1ST DOWN UCLA." newcontext="H,1,10,H39">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Austin, Terrenc" gain="20"></p_pa>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA39" context="H,1,10,H39" playid="2,4,25" type="P" first="P" text="Prince, Kevin pass complete to Moline, Chane for 13 yards to the SD48, 1ST DOWN UCLA (SANDFORD, Nick)." newcontext="H,1,10,V48">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Moline, Chane" gain="13"></p_pa>
+    <p_tk vh="V" name="SANDFORD, Nick"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD48" context="H,1,10,V48" playid="2,5,26" type="P" text="Prince, Kevin pass complete to Embree, Taylor for 4 yards to the SD44 (PEREZ, Jose)." newcontext="H,2,6,V44">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Embree, Taylor" gain="4"></p_pa>
+    <p_tk vh="V" name="PEREZ, Jose"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="6" spot="SD44" context="H,2,6,V44" playid="2,6,27" type="P" text="Prince, Kevin pass complete to Austin, Terrenc for 5 yards to the SD39 (HEMMINGS, Dey J;MCFADDEN, Leon)." newcontext="H,3,1,V39">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Austin, Terrenc" gain="5"></p_pa>
+    <p_tk vh="V" name="HEMMINGS, Dey J" assist="Y"></p_tk>
+    <p_tk vh="V" name="MCFADDEN, Leon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="3" togo="1" spot="SD39" context="H,3,1,V39" playid="2,7,28" type="E" text="PENALTY UCLA holding (Franklin, Johna) 10 yards to the SD49." newcontext="H,3,11,V49">
+    <p_pn vh="H" code="HO" type="holding" name="Franklin, Johna" result="ACCEPT" at="V39" yards="10"></p_pn>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="3" togo="11" spot="SD49" context="H,3,11,V49" playid="2,8,30" type="P" first="P" text="Prince, Kevin pass complete to Embree, Taylor for 25 yards to the SD24, 1ST DOWN UCLA (FANTROY, Martre;MOORE, Aaron)." newcontext="H,1,10,V24">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Embree, Taylor" gain="25"></p_pa>
+    <p_tk vh="V" name="FANTROY, Martre" assist="Y"></p_tk>
+    <p_tk vh="V" name="MOORE, Aaron" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD24" context="H,1,10,V24" playid="2,9,31" type="R" text="Prince, Kevin rush for loss of 1 yard to the SD25 (TAUANUU, Jacob)." newcontext="H,2,11,V25">
+    <p_ru vh="H" name="Prince, Kevin" gain="-1"></p_ru>
+    <p_tk vh="V" name="TAUANUU, Jacob" tfl="Y"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="2" togo="11" spot="SD25" context="H,2,11,V25" playid="2,10,33" type="P" text="Prince, Kevin pass incomplete to Moya, Ryan." newcontext="H,3,11,V25">
+    <p_pa vh="H" qb="Prince, Kevin" result="INC" rcv="Moya, Ryan"></p_pa>
+   </play>
+   <comment text="shotgun"></comment>
+   <comment text="Offsetting penalties - holding sdsu #9/pass int ucla #82"></comment>
+   <play hasball="UCLA" down="3" togo="11" spot="SD25" context="H,3,11,V25" playid="2,11,36" type="#" clock="05:33" text="Timeout UCLA, clock 05:33." newcontext="H,3,11,V25">
+    <p_to vh="H" team="UCLA"></p_to>
+   </play>
+   <comment text="review 1:32 - no response"></comment>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="3" togo="11" spot="SD25" context="H,3,11,V25" playid="2,12,39" type="P" text="Prince, Kevin sacked for loss of 7 yards to the SD32 (SANDFORD, Nick)." newcontext="H,4,18,V32">
+    <p_pa vh="H" qb="Prince, Kevin" result="SACK" gain="-7"></p_pa>
+    <p_tk vh="V" name="SANDFORD, Nick" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="4" togo="18" spot="SD32" context="H,4,18,V32" playid="2,13,40" type="F" score="Y" clock="04:43" text="Forbath, Kai field goal attempt from 49 GOOD, clock 04:43." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Forbath, Kai" distance="49" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="7" H="3"></score>
+   <drivesum plays="9" yards="49" top="4:45" driveindex="2" complete="Y"></drivesum>
+   <play hasball="UCLA" down="1" togo="0" spot="UCLA30" context="H,1,0,H30" playid="2,14,41" type="K" text="Locke, Jeff kickoff 70 yards to the SD0, BROWN, Vincent return 22 yards to the SD22 (Schmitt, Mike)." newcontext="V,1,10,V22">
+    <p_ko vh="H" name="Locke, Jeff" gain="70"></p_ko>
+    <p_kr vh="V" name="BROWN, Vincent" gain="22"></p_kr>
+    <p_tk vh="H" name="Schmitt, Mike"></p_tk>
+   </play>
+   <drivestart poss="V,V22,04:43" vh="V" spot="V22" clock="04:43" driveindex="3,41"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD22" context="V,1,10,V22" playid="3,1,42" clock="04:39" text="SAN DIEGO STATE drive start at 04:39." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD22" context="V,1,10,V22" playid="3,2,43" type="E" text="PENALTY SD ineligible downfield on pass 5 yards to the SD17." newcontext="V,1,15,V17">
+    <p_pn vh="V" code="ID" type="ineligible downfield on pass" result="ACCEPT" at="V22" yards="5"></p_pn>
+   </play>
+   <play hasball="SD" down="1" togo="15" spot="SD17" context="V,1,15,V17" playid="3,3,44" type="P" text="LINDLEY, Ryan pass complete to KAZEE, Walter for 10 yards to the SD27 (Carter, Reggie)." newcontext="V,2,5,V27">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="KAZEE, Walter" gain="10"></p_pa>
+    <p_tk vh="H" name="Carter, Reggie"></p_tk>
+   </play>
+   <play hasball="SD" down="2" togo="5" spot="SD27" context="V,2,5,V27" playid="3,4,45" type="E" text="PENALTY SD delay of game (LINDLEY, Ryan) 5 yards to the SD22." newcontext="V,2,10,V22">
+    <p_pn vh="V" code="DG" type="delay of game" name="LINDLEY, Ryan" result="ACCEPT" at="V27" yards="5"></p_pn>
+   </play>
+   <play hasball="SD" down="2" togo="10" spot="SD22" context="V,2,10,V22" playid="3,5,46" type="P" text="LINDLEY, Ryan pass incomplete to BROWN, Vincent (Bosworth, Korey)." newcontext="V,3,10,V22">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="BROWN, Vincent"></p_pa>
+    <p_bu vh="H" name="Bosworth, Korey"></p_bu>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="SD" down="3" togo="10" spot="SD22" context="V,3,10,V22" playid="3,6,48" type="P" first="P" score="Y" clock="03:00" text="LINDLEY, Ryan pass complete to BROWN, Vincent for 78 yards to the UCLA0, 1ST DOWN SD, TOUCHDOWN, clock 03:00." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="BROWN, Vincent" gain="78"></p_pa>
+   </play>
+   <play hasball="SD" down="1" togo="0" spot="UCLA03" context="V,1,0,H03" playid="3,7,49" type="X" score="Y" text="YOSHIDA, Lane kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="YOSHIDA, Lane" qb="YOSHIDA, Lane" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="3"></score>
+   <drivesum plays="3" yards="78" top="1:39" driveindex="3" complete="Y"></drivesum>
+   <play hasball="SD" down="1" togo="0" spot="SD30" context="V,1,0,V30" playid="3,8,50" type="K" text="SHIELDS, Bryan kickoff 47 yards to the UCLA23, Austin, Terrenc return 65 yards to the SD12 (HEMMINGS, Dey J)." newcontext="H,1,10,V12">
+    <p_ko vh="V" name="SHIELDS, Bryan" gain="47"></p_ko>
+    <p_kr vh="H" name="Austin, Terrenc" gain="65"></p_kr>
+    <p_tk vh="V" name="HEMMINGS, Dey J"></p_tk>
+   </play>
+   <drivestart poss="H,V12,03:00" vh="H" spot="V12" clock="03:00" driveindex="4,50"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="SD12" context="H,1,10,V12" playid="4,1,51" clock="02:49" text="UCLA drive start at 02:49." newcontext="H,1,10,V12">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD12" context="H,1,10,V12" playid="4,2,52" type="R" first="R" score="Y" clock="02:44" text="Franklin, Johna rush for 12 yards to the SD0, 1ST DOWN UCLA, TOUCHDOWN, clock 02:44." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Franklin, Johna" gain="12"></p_ru>
+   </play>
+   <play hasball="UCLA" down="1" togo="0" spot="SD03" context="H,1,0,V03" playid="4,3,53" type="X" score="Y" text="Forbath, Kai kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Forbath, Kai" qb="Forbath, Kai" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="10"></score>
+   <drivesum plays="1" yards="12" top="0:05" driveindex="4" complete="Y"></drivesum>
+   <play hasball="UCLA" down="1" togo="0" spot="UCLA30" context="H,1,0,H30" playid="4,4,54" type="K" text="Locke, Jeff kickoff 70 yards to the SD0, BROWN, Vincent return 27 yards to the SD27 (Westgate, Sean)." newcontext="V,1,10,V27">
+    <p_ko vh="H" name="Locke, Jeff" gain="70"></p_ko>
+    <p_kr vh="V" name="BROWN, Vincent" gain="27"></p_kr>
+    <p_tk vh="H" name="Westgate, Sean"></p_tk>
+   </play>
+   <drivestart poss="V,V27,02:44" vh="V" spot="V27" clock="02:44" driveindex="5,54"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD27" context="V,1,10,V27" playid="5,1,55" clock="02:40" text="SAN DIEGO STATE drive start at 02:40." newcontext="V,1,10,V27">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD27" context="V,1,10,V27" playid="5,2,56" type="R" text="SULLIVAN, Brand rush for 8 yards to the SD35 (Moore, Rahim)." newcontext="V,2,2,V35">
+    <p_ru vh="V" name="SULLIVAN, Brand" gain="8"></p_ru>
+    <p_tk vh="H" name="Moore, Rahim"></p_tk>
+   </play>
+   <play hasball="SD" down="2" togo="2" spot="SD35" context="V,2,2,V35" playid="5,3,57" type="R" first="R" text="SULLIVAN, Brand rush for 5 yards to the SD40, 1ST DOWN SD (Johnson, Jerry)." newcontext="V,1,10,V40">
+    <p_ru vh="V" name="SULLIVAN, Brand" gain="5"></p_ru>
+    <p_tk vh="H" name="Johnson, Jerry"></p_tk>
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD40" context="V,1,10,V40" playid="5,4,58" type="E" text="PENALTY SD false start (NELSON, Peter) 5 yards to the SD35." newcontext="V,1,15,V35">
+    <p_pn vh="V" code="FS" type="false start" name="NELSON, Peter" result="ACCEPT" at="V40" yards="5"></p_pn>
+   </play>
+   <play hasball="SD" down="1" togo="15" spot="SD35" context="V,1,15,V35" playid="5,5,59" type="R" text="MILLER, Anthony rush for loss of 1 yard to the SD34 (Price, Brian)." newcontext="V,2,16,V34">
+    <p_ru vh="V" name="MILLER, Anthony" gain="-1"></p_ru>
+    <p_tk vh="H" name="Price, Brian" tfl="Y"></p_tk>
+   </play>
+   <play hasball="SD" down="2" togo="16" spot="SD34" context="V,2,16,V34" playid="5,6,60" type="P" text="LINDLEY, Ryan pass incomplete to BROWN, Vincent." newcontext="V,3,16,V34">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="BROWN, Vincent"></p_pa>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="SD" down="3" togo="16" spot="SD34" context="V,3,16,V34" playid="5,7,62" type="P" text="LINDLEY, Ryan pass incomplete to BROWN, Vincent." newcontext="V,4,16,V34">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="BROWN, Vincent"></p_pa>
+   </play>
+   <play hasball="SD" down="4" togo="16" spot="SD34" context="V,4,16,V34" playid="5,8,63" type="U" text="STAHOVICH, Bria punt 49 yards to the UCLA17, fair catch by Austin, Terrenc." newcontext="H,1,10,H17">
+    <p_pu vh="V" name="STAHOVICH, Bria" gain="49" in20="Y" fc="Austin, Terrenc"></p_pu>
+   </play>
+   <drivesum plays="5" yards="7" top="2:27" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,H17,02:40" vh="H" spot="H17" clock="02:40" driveindex="6,63"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA17" context="H,1,10,H17" playid="6,1,64" clock="00:13" text="UCLA drive start at 00:13." newcontext="H,1,10,H17">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA17" context="H,1,10,H17" playid="6,2,65" type="P" text="Prince, Kevin pass complete to Austin, Terrenc for 2 yards to the UCLA19 (MCFADDEN, Leon)." newcontext="H,2,8,H19">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Austin, Terrenc" gain="2"></p_pa>
+    <p_tk vh="V" name="MCFADDEN, Leon"></p_tk>
+   </play>
+   <score qtr="1" V="14" H="10"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SD">
+    <firstdowns no="7" rush="2" pass="3" penalty="2"></firstdowns>
+    <penalties no="3" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:46"></misc>
+    <rush att="8" yds="19" gain="23" loss="4" td="0" long="8"></rush>
+    <pass comp="7" att="12" int="0" yds="142" td="2" long="78" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="142" td="2" long="78"></rcv>
+    <punt no="1" yds="49" long="49" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="49.0"></punt>
+    <ko no="2" yds="99" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="6" tacka="4" tot_tack="10" tflua="2" tfla="0" tflyds="8" sacks="1" sackyds="7"></defense>
+    <kr no="3" yds="66" td="0" long="27"></kr>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UCLA">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="3" yds="18"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:14"></misc>
+    <rush att="3" yds="4" gain="12" loss="8" td="1" long="12"></rush>
+    <pass comp="6" att="7" int="0" yds="69" td="0" long="25" sacks="1" sackyds="7"></pass>
+    <rcv no="6" yds="69" td="0" long="25"></rcv>
+    <ko no="3" yds="196" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="49" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="15" tacka="0" tot_tack="15" tflua="2" tfla="0" tflyds="4" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="65" td="0" long="65"></kr>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="UCLA" down="2" togo="8" spot="UCLA19" context="H,2,8,H19" playid="6,3,66" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,2,8,H19">
+   </play>
+   <play hasball="UCLA" down="2" togo="8" spot="UCLA19" context="H,2,8,H19" playid="6,4,67" type="R" text="Franklin, Johna rush for 3 yards to the UCLA22 (MOORE, Aaron)." newcontext="H,3,5,H22">
+    <p_ru vh="H" name="Franklin, Johna" gain="3"></p_ru>
+    <p_tk vh="V" name="MOORE, Aaron"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="3" togo="5" spot="UCLA22" context="H,3,5,H22" playid="6,5,69" type="P" first="P" text="Prince, Kevin pass complete to Embree, Taylor for 8 yards to the UCLA30, 1ST DOWN UCLA (HEMMINGS, Dey J)." newcontext="H,1,10,H30">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Embree, Taylor" gain="8"></p_pa>
+    <p_tk vh="V" name="HEMMINGS, Dey J"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA30" context="H,1,10,H30" playid="6,6,70" type="R" first="R" text="Franklin, Johna rush for 11 yards to the UCLA41, 1ST DOWN UCLA (SANDFORD, Nick)." newcontext="H,1,10,H41">
+    <p_ru vh="H" name="Franklin, Johna" gain="11"></p_ru>
+    <p_tk vh="V" name="SANDFORD, Nick"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA41" context="H,1,10,H41" playid="6,7,71" type="R" text="Franklin, Johna rush for 1 yard to the UCLA42 (SOTO, Jonathan)." newcontext="H,2,9,H42">
+    <p_ru vh="H" name="Franklin, Johna" gain="1"></p_ru>
+    <p_tk vh="V" name="SOTO, Jonathan"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="2" togo="9" spot="UCLA42" context="H,2,9,H42" playid="6,8,73" type="E" text="PENALTY UCLA illegal formation 5 yards to the UCLA37." newcontext="H,2,14,H37">
+    <p_pn vh="H" code="FO" type="illegal formation" result="ACCEPT" at="H42" yards="5"></p_pn>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="2" togo="14" spot="UCLA37" context="H,2,14,H37" playid="6,9,75" type="P" text="Prince, Kevin pass incomplete to Embree, Taylor." newcontext="H,3,14,H37">
+    <p_pa vh="H" qb="Prince, Kevin" result="INC" rcv="Embree, Taylor"></p_pa>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="3" togo="14" spot="UCLA37" context="H,3,14,H37" playid="6,10,77" type="P" text="Prince, Kevin pass incomplete to Austin, Terrenc (UMUOLO, Alston)." newcontext="H,4,14,H37">
+    <p_pa vh="H" qb="Prince, Kevin" result="INC" rcv="Austin, Terrenc"></p_pa>
+    <p_bu vh="V" name="UMUOLO, Alston"></p_bu>
+   </play>
+   <play hasball="UCLA" down="4" togo="14" spot="UCLA37" context="H,4,14,H37" playid="6,11,78" type="U" text="Locke, Jeff punt 35 yards to the SD28, fair catch by MAULDIN, Davion." newcontext="V,1,10,V28">
+    <p_pu vh="H" name="Locke, Jeff" gain="35" fc="MAULDIN, Davion"></p_pu>
+   </play>
+   <drivesum plays="7" yards="20" top="3:35" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="V,V28,15:00" vh="V" spot="V28" clock="15:00" driveindex="7,78"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD28" context="V,1,10,V28" playid="7,1,79" clock="11:38" text="SAN DIEGO STATE drive start at 11:38." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD28" context="V,1,10,V28" playid="7,2,80" type="P" turnover="I" text="LINDLEY, Ryan pass intercepted by Moore, Rahim at the UCLA43, Moore, Rahim return 22 yards to the SD35 (KAWULOK, MATTHE)." newcontext="H,1,10,V35">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INT"></p_pa>
+    <p_ir vh="H" name="Moore, Rahim" at="H43" gain="22"></p_ir>
+    <p_tk vh="V" name="KAWULOK, MATTHE"></p_tk>
+   </play>
+   <drivesum plays="1" yards="0" top="0:15" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,V35,11:38" vh="H" spot="V35" clock="11:38" driveindex="8,80"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="SD35" context="H,1,10,V35" playid="8,1,81" clock="11:23" text="UCLA drive start at 11:23." newcontext="H,1,10,V35">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD35" context="H,1,10,V35" playid="8,2,82" type="R" text="Franklin, Johna rush for 8 yards to the SD27 (HEMMINGS, Dey J)." newcontext="H,2,2,V27">
+    <p_ru vh="H" name="Franklin, Johna" gain="8"></p_ru>
+    <p_tk vh="V" name="HEMMINGS, Dey J"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="2" spot="SD27" context="H,2,2,V27" playid="8,3,83" type="R" first="R" text="Franklin, Johna rush for 7 yards to the SD20, 1ST DOWN UCLA (PRESTON, Andrew)." newcontext="H,1,10,V20">
+    <p_ru vh="H" name="Franklin, Johna" gain="7"></p_ru>
+    <p_tk vh="V" name="PRESTON, Andrew"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD20" context="H,1,10,V20" playid="8,4,84" type="R" text="Franklin, Johna rush for 1 yard to the SD19 (CAMARDA, Vincen)." newcontext="H,2,9,V19">
+    <p_ru vh="H" name="Franklin, Johna" gain="1"></p_ru>
+    <p_tk vh="V" name="CAMARDA, Vincen"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="2" togo="9" spot="SD19" context="H,2,9,V19" playid="8,5,86" type="P" text="Prince, Kevin pass incomplete to Austin, Terrenc (CAMARDA, Vincen)." newcontext="H,3,9,V19">
+    <p_pa vh="H" qb="Prince, Kevin" result="INC" rcv="Austin, Terrenc"></p_pa>
+    <p_bu vh="V" name="CAMARDA, Vincen"></p_bu>
+   </play>
+   <play hasball="UCLA" down="3" togo="9" spot="SD19" context="H,3,9,V19" playid="8,6,87" type="#" clock="09:29" text="Timeout UCLA, clock 09:29." newcontext="H,3,9,V19">
+    <p_to vh="H" team="UCLA"></p_to>
+   </play>
+   <play hasball="UCLA" down="3" togo="9" spot="SD19" context="H,3,9,V19" playid="8,7,88" type="P" first="P" text="Prince, Kevin pass complete to Rosario, Nelson for 10 yards to the SD9, 1ST DOWN UCLA (HEMMINGS, Dey J)." newcontext="H,1,0,V09">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Rosario, Nelson" gain="10"></p_pa>
+    <p_tk vh="V" name="HEMMINGS, Dey J"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="0" spot="SD09" context="H,1,0,V09" playid="8,8,89" type="R" text="Franklin, Johna rush for 2 yards to the SD7 (BURRIS, Miles)." newcontext="H,2,0,V07">
+    <p_ru vh="H" name="Franklin, Johna" gain="2"></p_ru>
+    <p_tk vh="V" name="BURRIS, Miles"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="0" spot="SD07" context="H,2,0,V07" playid="8,9,90" type="R" turnover="F" text="Prince, Kevin rush for loss of 4 yards to the SD11, fumble by Prince, Kevin recovered by SD WILLIAMS, B.J. at SD11." newcontext="V,1,10,V11">
+    <p_ru vh="H" name="Prince, Kevin" gain="-4"></p_ru>
+    <p_fumb vh="H" name="Prince, Kevin" at="V11" frvh="V" frname="WILLIAMS, B.J."></p_fumb>
+   </play>
+   <drivesum plays="7" yards="24" top="3:03" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,V11,09:29" vh="V" spot="V11" clock="09:29" driveindex="9,90"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD11" context="V,1,10,V11" playid="9,1,91" clock="08:20" text="SAN DIEGO STATE drive start at 08:20." newcontext="V,1,10,V11">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD11" context="V,1,10,V11" playid="9,2,92" type="R" text="SULLIVAN, Brand rush for loss of 3 yards to the SD8 (Siewierski, Jer)." newcontext="V,2,13,V08">
+    <p_ru vh="V" name="SULLIVAN, Brand" gain="-3"></p_ru>
+    <p_tk vh="H" name="Siewierski, Jer" tfl="Y"></p_tk>
+   </play>
+   <play hasball="SD" down="2" togo="13" spot="SD08" context="V,2,13,V08" playid="9,3,93" type="R" text="SULLIVAN, Brand rush for no gain to the SD8 (Siewierski, Jer)." newcontext="V,3,13,V08">
+    <p_ru vh="V" name="SULLIVAN, Brand" gain="0"></p_ru>
+    <p_tk vh="H" name="Siewierski, Jer"></p_tk>
+   </play>
+   <play hasball="SD" down="3" togo="13" spot="SD08" context="V,3,13,V08" playid="9,4,94" type="E" text="PENALTY SD false start (IOSEFA, Trask) 4 yards to the SD4." newcontext="V,3,17,V04">
+    <p_pn vh="V" code="FS" type="false start" name="IOSEFA, Trask" result="ACCEPT" at="V08" yards="4"></p_pn>
+   </play>
+   <play hasball="SD" down="3" togo="17" spot="SD04" context="V,3,17,V04" playid="9,5,95" type="P" text="LINDLEY, Ryan pass incomplete to BROWN, Vincent." newcontext="V,4,17,V04">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="BROWN, Vincent"></p_pa>
+   </play>
+   <play hasball="SD" down="4" togo="17" spot="SD04" context="V,4,17,V04" playid="9,6,96" type="U" text="STAHOVICH, Bria punt 51 yards to the UCLA45, Austin, Terrenc return 14 yards to the SD41 (KAWULOK, MATTHE)." newcontext="H,1,10,V41">
+    <p_pu vh="V" name="STAHOVICH, Bria" gain="51"></p_pu>
+    <p_pr vh="H" name="Austin, Terrenc" gain="14"></p_pr>
+    <p_tk vh="V" name="KAWULOK, MATTHE"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-7" top="2:10" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,V41,08:20" vh="H" spot="V41" clock="08:20" driveindex="10,96"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="SD41" context="H,1,10,V41" playid="10,1,97" clock="06:10" text="UCLA drive start at 06:10." newcontext="H,1,10,V41">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD41" context="H,1,10,V41" playid="10,2,98" type="R" first="R" text="Prince, Kevin rush for 12 yards to the SD29, 1ST DOWN UCLA." newcontext="H,1,10,V29">
+    <p_ru vh="H" name="Prince, Kevin" gain="12"></p_ru>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD29" context="H,1,10,V29" playid="10,3,99" type="R" first="R" score="Y" clock="05:33" text="Coleman, Derric rush for 29 yards to the SD0, 1ST DOWN UCLA, TOUCHDOWN, clock 05:33." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Coleman, Derric" gain="29"></p_ru>
+   </play>
+   <play hasball="UCLA" down="1" togo="0" spot="SD03" context="H,1,0,V03" playid="10,4,100" type="X" text="Forbath, Kai kick attempt failed (blocked) (blocked by MCFADDEN, Leon)." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Forbath, Kai" qb="Forbath, Kai" type="K" result="BLOCKED"></p_pat>
+   </play>
+   <score V="14" H="16"></score>
+   <drivesum plays="2" yards="41" top="0:37" driveindex="10" complete="Y"></drivesum>
+   <play hasball="UCLA" down="1" togo="0" spot="UCLA30" context="H,1,0,H30" playid="10,5,101" type="K" text="Locke, Jeff kickoff 59 yards to the SD11, KAZEE, Walter return 18 yards to the SD29 (Hester,Aaron)." newcontext="V,1,10,V29">
+    <p_ko vh="H" name="Locke, Jeff" gain="59"></p_ko>
+    <p_kr vh="V" name="KAZEE, Walter" gain="18"></p_kr>
+    <p_tk vh="H" name="Hester,Aaron"></p_tk>
+   </play>
+   <drivestart poss="V,V29,05:33" vh="V" spot="V29" clock="05:33" driveindex="11,101"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD29" context="V,1,10,V29" playid="11,1,102" clock="05:28" text="SAN DIEGO STATE drive start at 05:28." newcontext="V,1,10,V29">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD29" context="V,1,10,V29" playid="11,2,103" type="P" text="LINDLEY, Ryan pass incomplete to BROWN, Vincent." newcontext="V,2,10,V29">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="BROWN, Vincent"></p_pa>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="SD" down="2" togo="10" spot="SD29" context="V,2,10,V29" playid="11,3,105" type="P" text="LINDLEY, Ryan pass complete to SAMPSON, DeMarc for 8 yards to the SD37 (Viney, Courtney)." newcontext="V,3,2,V37">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="SAMPSON, DeMarc" gain="8"></p_pa>
+    <p_tk vh="H" name="Viney, Courtney"></p_tk>
+   </play>
+   <play hasball="SD" down="3" togo="2" spot="SD37" context="V,3,2,V37" playid="11,4,106" type="P" text="LINDLEY, Ryan pass incomplete to SAMPSON, DeMarc (Bosworth, Korey)." newcontext="V,4,2,V37">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="SAMPSON, DeMarc"></p_pa>
+    <p_bu vh="H" name="Bosworth, Korey"></p_bu>
+   </play>
+   <play hasball="SD" down="4" togo="2" spot="SD37" context="V,4,2,V37" playid="11,5,107" type="U" text="STAHOVICH, Bria punt 43 yards to the UCLA20, fair catch by Austin, Terrenc." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="STAHOVICH, Bria" gain="43" fc="Austin, Terrenc"></p_pu>
+   </play>
+   <drivesum plays="3" yards="8" top="0:24" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,H20,05:28" vh="H" spot="H20" clock="05:28" driveindex="12,107"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA20" context="H,1,10,H20" playid="12,1,108" clock="05:04" text="UCLA drive start at 05:04." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA20" context="H,1,10,H20" playid="12,2,109" type="P" text="Prince, Kevin pass complete to Embree, Taylor for 8 yards to the UCLA28, fumble forced by DAVIS, Brandon, fumble by Embree, Taylor recovered by UCLA Jones, Datone at UCLA28, ." newcontext="H,2,2,H28">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Embree, Taylor" gain="8"></p_pa>
+    <p_fumb vh="H" name="Embree, Taylor" at="H28" frvh="H" frname="Jones, Datone"></p_fumb>
+    <p_tk vh="V" name="DAVIS, Brandon" ff="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="2" spot="UCLA28" context="H,2,2,H28" playid="12,3,110" type="R" first="R" text="Coleman, Derric rush for 31 yards to the SD41, 1ST DOWN UCLA (KETCHUM, Logan)." newcontext="H,1,10,V41">
+    <p_ru vh="H" name="Coleman, Derric" gain="31"></p_ru>
+    <p_tk vh="V" name="KETCHUM, Logan"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD41" context="H,1,10,V41" playid="12,4,111" type="P" text="Prince, Kevin pass complete to Austin, Terrenc for 5 yards to the SD36." newcontext="H,2,5,V36">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Austin, Terrenc" gain="5"></p_pa>
+   </play>
+   <play hasball="UCLA" down="2" togo="5" spot="SD36" context="H,2,5,V36" playid="12,5,112" type="R" text="Prince, Kevin rush for loss of 4 yards to the SD40, fumble by Prince, Kevin recovered by UCLA Prince, Kevin at SD40." newcontext="H,3,9,V40">
+    <p_ru vh="H" name="Prince, Kevin" gain="-4"></p_ru>
+    <p_fumb vh="H" name="Prince, Kevin" at="V40" frvh="H" frname="Prince, Kevin"></p_fumb>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="3" togo="9" spot="SD40" context="H,3,9,V40" playid="12,6,114" type="P" first="P" text="Prince, Kevin pass complete to Embree, Taylor for 34 yards to the SD6, 1ST DOWN UCLA (MAULDIN, Davion)." newcontext="H,1,0,V06">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Embree, Taylor" gain="34"></p_pa>
+    <p_tk vh="V" name="MAULDIN, Davion"></p_tk>
+   </play>
+   <comment text="review: play confirmed - :32"></comment>
+   <play hasball="UCLA" down="1" togo="0" spot="SD06" context="H,1,0,V06" playid="12,7,116" type="P" score="Y" clock="01:42" text="Prince, Kevin pass complete to Austin, Terrenc for 6 yards to the SD0, TOUCHDOWN, clock 01:42." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Austin, Terrenc" gain="6"></p_pa>
+   </play>
+   <play hasball="UCLA" down="1" togo="0" spot="SD03" context="H,1,0,V03" playid="12,8,117" type="X" score="Y" text="Forbath, Kai kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Forbath, Kai" qb="Forbath, Kai" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="23"></score>
+   <drivesum plays="6" yards="80" top="3:22" driveindex="12" complete="Y"></drivesum>
+   <play hasball="UCLA" down="1" togo="0" spot="UCLA30" context="H,1,0,H30" playid="12,9,118" type="K" text="Locke, Jeff kickoff 60 yards to the SD10, KAZEE, Walter return 16 yards to the SD26 (Schmitt, Mike)." newcontext="V,1,10,V26">
+    <p_ko vh="H" name="Locke, Jeff" gain="60"></p_ko>
+    <p_kr vh="V" name="KAZEE, Walter" gain="16"></p_kr>
+    <p_tk vh="H" name="Schmitt, Mike"></p_tk>
+   </play>
+   <drivestart poss="V,V26,01:42" vh="V" spot="V26" clock="01:42" driveindex="13,118"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD26" context="V,1,10,V26" playid="13,1,119" clock="01:37" text="SAN DIEGO STATE drive start at 01:37." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD26" context="V,1,10,V26" playid="13,2,120" type="P" text="LINDLEY, Ryan pass complete to WALLACE, Robert for 7 yards to the SD33 (Verner, Alterra)." newcontext="V,2,3,V33">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="WALLACE, Robert" gain="7"></p_pa>
+    <p_tk vh="H" name="Verner, Alterra"></p_tk>
+   </play>
+   <play hasball="SD" down="2" togo="3" spot="SD33" context="V,2,3,V33" playid="13,3,121" type="P" first="P" text="LINDLEY, Ryan pass complete to WALLACE, Robert for 9 yards to the SD42, 1ST DOWN SD." newcontext="V,1,10,V42">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="WALLACE, Robert" gain="9"></p_pa>
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD42" context="V,1,10,V42" playid="13,4,122" type="P" text="LINDLEY, Ryan pass complete to SAMPSON, DeMarc for 3 yards to the SD45 (Viney, Courtney)." newcontext="V,2,7,V45">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="SAMPSON, DeMarc" gain="3"></p_pa>
+    <p_tk vh="H" name="Viney, Courtney"></p_tk>
+   </play>
+   <play hasball="SD" down="2" togo="7" spot="SD45" context="V,2,7,V45" playid="13,5,123" type="#" clock="01:01" text="Timeout San Diego State, clock 01:01." newcontext="V,2,7,V45">
+    <p_to vh="V" team="San Diego State"></p_to>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="SD" down="2" togo="7" spot="SD45" context="V,2,7,V45" playid="13,6,125" type="P" text="LINDLEY, Ryan pass complete to UMUOLO, Alston for 6 yards to the UCLA49 (Ayers, Akeem)." newcontext="V,3,1,H49">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="UMUOLO, Alston" gain="6"></p_pa>
+    <p_tk vh="H" name="Ayers, Akeem"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="SD" down="3" togo="1" spot="UCLA49" context="V,3,1,H49" playid="13,7,127" type="R" first="R" text="SULLIVAN, Brand rush for 3 yards to the UCLA46, 1ST DOWN SD (Bosworth, Korey)." newcontext="V,1,10,H46">
+    <p_ru vh="V" name="SULLIVAN, Brand" gain="3"></p_ru>
+    <p_tk vh="H" name="Bosworth, Korey"></p_tk>
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="UCLA46" context="V,1,10,H46" playid="13,8,128" type="P" text="LINDLEY, Ryan pass incomplete to SAMPSON, DeMarc." newcontext="V,2,10,H46">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="SAMPSON, DeMarc"></p_pa>
+   </play>
+   <play hasball="SD" down="2" togo="10" spot="UCLA46" context="V,2,10,H46" playid="13,9,129" type="P" text="LINDLEY, Ryan pass incomplete to BROWN, Vincent." newcontext="V,3,10,H46">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="BROWN, Vincent"></p_pa>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="SD" down="3" togo="10" spot="UCLA46" context="V,3,10,H46" playid="13,10,131" type="P" text="LINDLEY, Ryan pass incomplete to SAMPSON, DeMarc." newcontext="V,4,10,H46">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="SAMPSON, DeMarc"></p_pa>
+   </play>
+   <play hasball="SD" down="4" togo="10" spot="UCLA46" context="V,4,10,H46" playid="13,11,132" type="U" text="STAHOVICH, Bria punt 46 yards to the UCLA0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="STAHOVICH, Bria" gain="46" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="8" yards="28" top="1:31" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H20,01:01" vh="H" spot="H20" clock="01:01" driveindex="14,132"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA20" context="H,1,10,H20" playid="14,1,133" clock="00:06" text="UCLA drive start at 00:06." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA20" context="H,1,10,H20" playid="14,2,134" type="R" text="Team rush for loss of 2 yards to the UCLA18 (TEAM)." newcontext="H,2,12,H18">
+    <p_ru vh="H" name="Team" gain="-2"></p_ru>
+    <p_tk vh="V" name="TEAM" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="12" spot="UCLA18" context="H,2,12,H18" playid="14,3,135" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,2,12,H18">
+   </play>
+   <drivesum plays="1" yards="-2" top="0:06" driveindex="14" complete="Y"></drivesum>
+   <score qtr="2" V="14" H="23"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SD">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="4"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:30"></misc>
+    <rush att="3" yds="0" gain="3" loss="3" td="0" long="0"></rush>
+    <pass comp="5" att="12" int="1" yds="33" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="33" td="0" long="0"></rcv>
+    <punt no="3" yds="140" long="2" blkd="0" tb="1" fc="1" plus50="1" inside20="0" avg="46.7"></punt>
+    <defense tackua="15" tacka="0" tot_tack="15" tflua="1" tfla="0" tflyds="2" sacks="1" sackyds="7" brup="2" blkd="1" ff="1" fr="1" fryds="0"></defense>
+    <kr no="2" yds="34" td="0" long="0"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UCLA">
+    <firstdowns no="8" rush="5" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="3" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="3" lost="1"></fumbles>
+    <misc yds="0" top="10:30"></misc>
+    <rush att="13" yds="95" gain="105" loss="10" td="1" long="19"></rush>
+    <pass comp="6" att="9" int="0" yds="71" td="1" long="9" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="71" td="1" long="9"></rcv>
+    <punt no="1" yds="35" long="35" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="35.0"></punt>
+    <ko no="2" yds="119" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="1"></pat>
+    <defense tackua="9" tacka="0" tot_tack="9" tflua="1" tfla="0" tflyds="3" sacks="0" sackyds="0" brup="1" int="1" intyds="22"></defense>
+    <pr no="1" yds="14" td="0" long="14"></pr>
+    <ir no="1" yds="22" td="0" long="22"></ir>
+    <fumbles no="3" lost="1"></fumbles>
+    <scoring td="2" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <comment text="UCLA will receive.  SDSU will defend the North goal."></comment>
+   <play hasball="UCLA" down="2" togo="12" spot="UCLA18" context="H,2,12,H18" playid="14,4,136" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, SD ball on SD30." newcontext="V,2,12,V30">
+   </play>
+   <play hasball="SD" down="2" togo="12" spot="SD30" context="V,2,12,V30" playid="14,5,138" type="K" text="YOSHIDA, Lane kickoff 62 yards to the UCLA8, Austin, Terrenc return 33 yards to the UCLA41 (YOSHIDA, Lane)." newcontext="H,1,10,H41">
+    <p_ko vh="V" name="YOSHIDA, Lane" gain="62"></p_ko>
+    <p_kr vh="H" name="Austin, Terrenc" gain="33"></p_kr>
+    <p_tk vh="V" name="YOSHIDA, Lane"></p_tk>
+   </play>
+   <drivestart poss="H,H41,15:00" vh="H" spot="H41" clock="15:00" driveindex="15,138"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA41" context="H,1,10,H41" playid="15,1,139" clock="14:54" text="UCLA drive start at 14:54." newcontext="H,1,10,H41">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA41" context="H,1,10,H41" playid="15,2,140" type="R" text="Franklin, Johna rush for 3 yards to the UCLA44 (DAVIS, Brandon)." newcontext="H,2,7,H44">
+    <p_ru vh="H" name="Franklin, Johna" gain="3"></p_ru>
+    <p_tk vh="V" name="DAVIS, Brandon"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="7" spot="UCLA44" context="H,2,7,H44" playid="15,3,141" type="R" text="Franklin, Johna rush for loss of 1 yard to the UCLA43 (BURRIS, Miles)." newcontext="H,3,8,H43">
+    <p_ru vh="H" name="Franklin, Johna" gain="-1"></p_ru>
+    <p_tk vh="V" name="BURRIS, Miles" tfl="Y"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="3" togo="8" spot="UCLA43" context="H,3,8,H43" playid="15,4,143" type="P" first="P" text="Prince, Kevin pass complete to Embree, Taylor for 18 yards to the SD39, 1ST DOWN UCLA (MOORE, Aaron)." newcontext="H,1,10,V39">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Embree, Taylor" gain="18"></p_pa>
+    <p_tk vh="V" name="MOORE, Aaron"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD39" context="H,1,10,V39" playid="15,5,144" type="P" text="Prince, Kevin pass incomplete to Carroll, Randal." newcontext="H,2,10,V39">
+    <p_pa vh="H" qb="Prince, Kevin" result="INC" rcv="Carroll, Randal"></p_pa>
+   </play>
+   <play hasball="UCLA" down="2" togo="10" spot="SD39" context="H,2,10,V39" playid="15,6,145" type="R" text="Franklin, Johna rush for loss of 2 yards to the SD41 (MILLING, Jerry)." newcontext="H,3,12,V41">
+    <p_ru vh="H" name="Franklin, Johna" gain="-2"></p_ru>
+    <p_tk vh="V" name="MILLING, Jerry" tfl="Y"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="3" togo="12" spot="SD41" context="H,3,12,V41" playid="15,7,147" type="P" text="Prince, Kevin pass incomplete to Embree, Taylor (TAUANUU, Jacob)." newcontext="H,4,12,V41">
+    <p_pa vh="H" qb="Prince, Kevin" result="INC" rcv="Embree, Taylor"></p_pa>
+    <p_bu vh="V" name="TAUANUU, Jacob"></p_bu>
+   </play>
+   <play hasball="UCLA" down="4" togo="12" spot="SD41" context="H,4,12,V41" playid="15,8,148" type="U" text="Locke, Jeff punt 36 yards to the SD5, downed." newcontext="V,1,10,V05">
+    <p_pu vh="H" name="Locke, Jeff" gain="36" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="6" yards="18" top="2:54" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="V,V05,14:54" vh="V" spot="V05" clock="14:54" driveindex="16,148"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD05" context="V,1,10,V05" playid="16,1,149" clock="12:00" text="SAN DIEGO STATE drive start at 12:00." newcontext="V,1,10,V05">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD05" context="V,1,10,V05" playid="16,2,150" type="P" text="LINDLEY, Ryan pass incomplete to BROWN, Vincent." newcontext="V,2,10,V05">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="BROWN, Vincent"></p_pa>
+   </play>
+   <play hasball="SD" down="2" togo="10" spot="SD05" context="V,2,10,V05" playid="16,3,151" type="R" text="SULLIVAN, Brand rush for 5 yards to the SD10 (Price, Brian)." newcontext="V,3,5,V10">
+    <p_ru vh="V" name="SULLIVAN, Brand" gain="5"></p_ru>
+    <p_tk vh="H" name="Price, Brian"></p_tk>
+   </play>
+   <play hasball="SD" down="3" togo="5" spot="SD10" context="V,3,5,V10" playid="16,4,152" type="E" text="PENALTY SD delay of game (LINDLEY, Ryan) 5 yards to the SD5." newcontext="V,3,10,V05">
+    <p_pn vh="V" code="DG" type="delay of game" name="LINDLEY, Ryan" result="ACCEPT" at="V10" yards="5"></p_pn>
+   </play>
+   <play hasball="SD" down="3" togo="10" spot="SD05" context="V,3,10,V05" playid="16,5,153" type="#" clock="10:47" text="Timeout San Diego State, clock 10:47." newcontext="V,3,10,V05">
+    <p_to vh="V" team="San Diego State"></p_to>
+   </play>
+   <play hasball="SD" down="3" togo="10" spot="SD05" context="V,3,10,V05" playid="16,6,154" type="P" text="LINDLEY, Ryan pass incomplete (Jones, Datone)." newcontext="V,4,10,V05">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC"></p_pa>
+    <p_bu vh="H" name="Jones, Datone"></p_bu>
+   </play>
+   <play hasball="SD" down="4" togo="10" spot="SD05" context="V,4,10,V05" playid="16,7,155" type="U" text="STAHOVICH, Bria punt 37 yards to the SD42, Austin, Terrenc return 1 yards to the SD41 (HEMMINGS, Dey J)." newcontext="H,1,10,V41">
+    <p_pu vh="V" name="STAHOVICH, Bria" gain="37"></p_pu>
+    <p_pr vh="H" name="Austin, Terrenc" gain="1"></p_pr>
+    <p_tk vh="V" name="HEMMINGS, Dey J"></p_tk>
+   </play>
+   <drivesum plays="3" yards="0" top="1:24" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,V41,10:47" vh="H" spot="V41" clock="10:47" driveindex="17,155"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="SD41" context="H,1,10,V41" playid="17,1,156" clock="10:36" text="UCLA drive start at 10:36." newcontext="H,1,10,V41">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD41" context="H,1,10,V41" playid="17,2,157" type="R" text="Coleman, Derric rush for 6 yards to the SD35 (YARBROUGH, Marc)." newcontext="H,2,4,V35">
+    <p_ru vh="H" name="Coleman, Derric" gain="6"></p_ru>
+    <p_tk vh="V" name="YARBROUGH, Marc"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="4" spot="SD35" context="H,2,4,V35" playid="17,3,158" type="E" text="PENALTY UCLA illegal block (Su'a-Filo, Xavi) 15 yards to the 50 yardline." newcontext="H,2,19,H50">
+    <p_pn vh="H" code="BL" type="illegal block" name="Su'a-Filo, Xavi" result="ACCEPT" at="V35" yards="15"></p_pn>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="2" togo="19" spot="UCLA50" context="H,2,19,H50" playid="17,4,160" type="P" text="Prince, Kevin sacked for loss of 5 yards to the UCLA45 (LAWSON, Ernie)." newcontext="H,3,24,H45">
+    <p_pa vh="H" qb="Prince, Kevin" result="SACK" gain="-5"></p_pa>
+    <p_tk vh="V" name="LAWSON, Ernie" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="3" togo="24" spot="UCLA45" context="H,3,24,H45" playid="17,5,161" type="R" text="Coleman, Derric rush for 3 yards to the UCLA48 (LAOLOGI, Luke)." newcontext="H,4,21,H48">
+    <p_ru vh="H" name="Coleman, Derric" gain="3"></p_ru>
+    <p_tk vh="V" name="LAOLOGI, Luke"></p_tk>
+   </play>
+   <play hasball="UCLA" down="4" togo="21" spot="UCLA48" context="H,4,21,H48" playid="17,6,162" type="U" text="Locke, Jeff punt 40 yards to the SD12, fair catch by MAULDIN, Davion." newcontext="V,1,10,V12">
+    <p_pu vh="H" name="Locke, Jeff" gain="40" in20="Y" fc="MAULDIN, Davion"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-11" top="2:34" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V12,10:36" vh="V" spot="V12" clock="10:36" driveindex="18,162"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD12" context="V,1,10,V12" playid="18,1,163" clock="08:02" text="SAN DIEGO STATE drive start at 08:02." newcontext="V,1,10,V12">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD12" context="V,1,10,V12" playid="18,2,164" type="P" text="LINDLEY, Ryan pass incomplete to BROWN, Vincent (Moore, Rahim)." newcontext="V,2,10,V12">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="BROWN, Vincent"></p_pa>
+    <p_bu vh="H" name="Moore, Rahim"></p_bu>
+   </play>
+   <play hasball="SD" down="2" togo="10" spot="SD12" context="V,2,10,V12" playid="18,3,165" type="R" text="KAZEE, Walter rush for 5 yards to the SD17 (Price, Brian)." newcontext="V,3,5,V17">
+    <p_ru vh="V" name="KAZEE, Walter" gain="5"></p_ru>
+    <p_tk vh="H" name="Price, Brian"></p_tk>
+   </play>
+   <play hasball="SD" down="3" togo="5" spot="SD17" context="V,3,5,V17" playid="18,4,166" type="R" text="MILLER, Anthony rush for loss of 1 yard to the SD16 (Holmes, Damien;Carter, Reggie)." newcontext="V,4,6,V16">
+    <p_ru vh="V" name="MILLER, Anthony" gain="-1"></p_ru>
+    <p_tk vh="H" name="Holmes, Damien" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Carter, Reggie" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="SD" down="4" togo="6" spot="SD16" context="V,4,6,V16" playid="18,5,167" type="U" text="STAHOVICH, Bria punt 40 yards to the UCLA44, PENALTY SD kick catching interference (EDWARDS, Kwincy) 15 yards to the SD41, 1st and 10, UCLA ball on SD41." newcontext="H,1,10,V41">
+    <p_pu vh="V" name="STAHOVICH, Bria" gain="40"></p_pu>
+    <p_pn vh="V" code="KI" type="kick catching interference" name="EDWARDS, Kwincy" result="ACCEPT" at="H44" yards="15"></p_pn>
+   </play>
+   <drivesum plays="3" yards="4" top="1:33" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,V41,08:02" vh="H" spot="V41" clock="08:02" driveindex="19,167"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="SD41" context="H,1,10,V41" playid="19,1,168" clock="06:29" text="UCLA drive start at 06:29." newcontext="H,1,10,V41">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD41" context="H,1,10,V41" playid="19,2,169" type="P" first="P" text="Prince, Kevin pass complete to Moya, Ryan for 11 yards to the SD30, 1ST DOWN UCLA (LAOLOGI, Luke)." newcontext="H,1,10,V30">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Moya, Ryan" gain="11"></p_pa>
+    <p_tk vh="V" name="LAOLOGI, Luke"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD30" context="H,1,10,V30" playid="19,3,170" type="R" text="Knox, Milton rush for 3 yards to the SD27 (LAOLOGI, Luke)." newcontext="H,2,7,V27">
+    <p_ru vh="H" name="Knox, Milton" gain="3"></p_ru>
+    <p_tk vh="V" name="LAOLOGI, Luke"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="7" spot="SD27" context="H,2,7,V27" playid="19,4,171" type="P" text="Prince, Kevin sacked for loss of 6 yards to the SD33 (LONG, Jerome)." newcontext="H,3,13,V33">
+    <p_pa vh="H" qb="Prince, Kevin" result="SACK" gain="-6"></p_pa>
+    <p_tk vh="V" name="LONG, Jerome" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="3" togo="13" spot="SD33" context="H,3,13,V33" playid="19,5,173" type="P" text="Prince, Kevin pass incomplete to Knox, Milton (FANTROY, Martre)." newcontext="H,4,13,V33">
+    <p_pa vh="H" qb="Prince, Kevin" result="INC" rcv="Knox, Milton"></p_pa>
+    <p_bu vh="V" name="FANTROY, Martre"></p_bu>
+   </play>
+   <play hasball="UCLA" down="4" togo="13" spot="SD33" context="H,4,13,V33" playid="19,6,174" type="F" score="Y" clock="04:27" text="Forbath, Kai field goal attempt from 50 GOOD, clock 04:27." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Forbath, Kai" distance="50" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="14" H="26"></score>
+   <drivesum plays="5" yards="8" top="2:02" driveindex="19" complete="Y"></drivesum>
+   <play hasball="UCLA" down="1" togo="0" spot="UCLA30" context="H,1,0,H30" playid="19,7,175" type="K" text="Locke, Jeff kickoff 69 yards to the SD1, KAZEE, Walter return 17 yards to the SD18 (Love, Glenn)." newcontext="V,1,10,V18">
+    <p_ko vh="H" name="Locke, Jeff" gain="69"></p_ko>
+    <p_kr vh="V" name="KAZEE, Walter" gain="17"></p_kr>
+    <p_tk vh="H" name="Love, Glenn"></p_tk>
+   </play>
+   <drivestart poss="V,V18,04:27" vh="V" spot="V18" clock="04:27" driveindex="20,175"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD18" context="V,1,10,V18" playid="20,1,176" clock="04:23" text="SAN DIEGO STATE drive start at 04:23." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD18" context="V,1,10,V18" playid="20,2,177" type="P" text="LINDLEY, Ryan pass incomplete to UMUOLO, Alston." newcontext="V,2,10,V18">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="UMUOLO, Alston"></p_pa>
+   </play>
+   <play hasball="SD" down="2" togo="10" spot="SD18" context="V,2,10,V18" playid="20,3,178" type="P" text="LINDLEY, Ryan pass complete to BROWN, Vincent for 8 yards to the SD26 (Verner, Alterra)." newcontext="V,3,2,V26">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="BROWN, Vincent" gain="8"></p_pa>
+    <p_tk vh="H" name="Verner, Alterra"></p_tk>
+   </play>
+   <play hasball="SD" down="3" togo="2" spot="SD26" context="V,3,2,V26" playid="20,4,179" type="R" text="SULLIVAN, Brand rush for 1 yard to the SD27 (Carter, Reggie)." newcontext="V,4,1,V27">
+    <p_ru vh="V" name="SULLIVAN, Brand" gain="1"></p_ru>
+    <p_tk vh="H" name="Carter, Reggie"></p_tk>
+   </play>
+   <play hasball="SD" down="4" togo="1" spot="SD27" context="V,4,1,V27" playid="20,5,180" type="U" text="STAHOVICH, Bria punt 46 yards to the UCLA27, Austin, Terrenc return 10 yards to the UCLA37 (BURRIS, Miles)." newcontext="H,1,10,H37">
+    <p_pu vh="V" name="STAHOVICH, Bria" gain="46"></p_pu>
+    <p_pr vh="H" name="Austin, Terrenc" gain="10"></p_pr>
+    <p_tk vh="V" name="BURRIS, Miles"></p_tk>
+   </play>
+   <drivesum plays="3" yards="9" top="1:13" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,H37,04:23" vh="H" spot="H37" clock="04:23" driveindex="21,180"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA37" context="H,1,10,H37" playid="21,1,181" clock="03:10" text="UCLA drive start at 03:10." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA37" context="H,1,10,H37" playid="21,2,182" type="P" text="Prince, Kevin pass complete to Harkey, Cory for 1 yard to the UCLA38 (EDWARDS, Kwincy)." newcontext="H,2,9,H38">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Harkey, Cory" gain="1"></p_pa>
+    <p_tk vh="V" name="EDWARDS, Kwincy"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="9" spot="UCLA38" context="H,2,9,H38" playid="21,3,183" type="R" text="Knox, Milton rush for 5 yards to the UCLA43 (BURRIS, Miles)." newcontext="H,3,4,H43">
+    <p_ru vh="H" name="Knox, Milton" gain="5"></p_ru>
+    <p_tk vh="V" name="BURRIS, Miles"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="3" togo="4" spot="UCLA43" context="H,3,4,H43" playid="21,4,185" type="P" turnover="I" text="Prince, Kevin pass intercepted by LAOLOGI, Luke at the 50 yardline, LAOLOGI, Luke return 27 yards to the UCLA23 (Prince, Kevin)." newcontext="V,1,10,H23">
+    <p_pa vh="H" qb="Prince, Kevin" result="INT"></p_pa>
+    <p_ir vh="V" name="LAOLOGI, Luke" at="V50" gain="27"></p_ir>
+    <p_tk vh="H" name="Prince, Kevin"></p_tk>
+   </play>
+   <drivesum plays="3" yards="6" top="1:26" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="V,H23,03:10" vh="V" spot="H23" clock="03:10" driveindex="22,185"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="UCLA23" context="V,1,10,H23" playid="22,1,186" clock="01:44" text="SAN DIEGO STATE drive start at 01:44." newcontext="V,1,10,H23">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="UCLA23" context="V,1,10,H23" playid="22,2,187" type="R" text="SULLIVAN, Brand rush for 5 yards to the UCLA18 (Ayers, Akeem)." newcontext="V,2,5,H18">
+    <p_ru vh="V" name="SULLIVAN, Brand" gain="5"></p_ru>
+    <p_tk vh="H" name="Ayers, Akeem"></p_tk>
+   </play>
+   <play hasball="SD" down="2" togo="5" spot="UCLA18" context="V,2,5,H18" playid="22,3,188" type="P" text="LINDLEY, Ryan pass incomplete." newcontext="V,3,5,H18">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC"></p_pa>
+   </play>
+   <play hasball="SD" down="3" togo="5" spot="UCLA18" context="V,3,5,H18" playid="22,4,189" type="P" text="LINDLEY, Ryan pass incomplete." newcontext="V,4,5,H18">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC"></p_pa>
+   </play>
+   <play hasball="SD" down="4" togo="5" spot="UCLA18" context="V,4,5,H18" playid="22,5,190" type="F" score="Y" clock="00:37" text="YOSHIDA, Lane field goal attempt from 35 BLOCKED, recovered by UCLA Verner, Alterra at UCLA30 spot at UCLA30, clock 00:37 (blocked by Siewierski, Jer), Verner, Alterra for 70 yards to the SD0, TOUCHDOWN, clock 00:37." newcontext="H,1,0,V03">
+    <p_fg vh="V" name="YOSHIDA, Lane" distance="35" result="BLOCKED"></p_fg>
+    <p_cont vh="H" name="Verner, Alterra" context="FGA" at="H30" gain="70"></p_cont>
+   </play>
+   <drivesum plays="4" yards="5" top="1:07" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="H,V03,00:37" vh="H" spot="V03" clock="00:37" driveindex="23,190"></drivestart>
+   <play hasball="UCLA" down="1" togo="0" spot="SD03" context="H,1,0,V03" playid="23,1,191" type="X" score="Y" text="Forbath, Kai kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Forbath, Kai" qb="Forbath, Kai" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="33"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="23" complete="Y"></drivesum>
+   <play hasball="UCLA" down="1" togo="0" spot="UCLA30" context="H,1,0,H30" playid="23,2,192" type="K" text="Locke, Jeff kickoff 70 yards to the SD0, KAZEE, Walter return 25 yards to the SD25 (Westgate, Sean)." newcontext="V,1,10,V25">
+    <p_ko vh="H" name="Locke, Jeff" gain="70"></p_ko>
+    <p_kr vh="V" name="KAZEE, Walter" gain="25"></p_kr>
+    <p_tk vh="H" name="Westgate, Sean"></p_tk>
+   </play>
+   <drivestart poss="V,V25,00:37" vh="V" spot="V25" clock="00:37" driveindex="24,192"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD25" context="V,1,10,V25" playid="24,1,193" clock="00:32" text="SAN DIEGO STATE drive start at 00:32." newcontext="V,1,10,V25">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD25" context="V,1,10,V25" playid="24,2,194" type="R" text="SULLIVAN, Brand rush for 1 yard to the SD26 (Bosworth, Kyle;Jones, Datone)." newcontext="V,2,9,V26">
+    <p_ru vh="V" name="SULLIVAN, Brand" gain="1"></p_ru>
+    <p_tk vh="H" name="Bosworth, Kyle" assist="Y"></p_tk>
+    <p_tk vh="H" name="Jones, Datone" assist="Y"></p_tk>
+   </play>
+   <score qtr="3" V="14" H="33"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SD">
+    <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+    <penalties no="2" yds="20"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:58"></misc>
+    <rush att="6" yds="16" gain="17" loss="1" td="0" long="0"></rush>
+    <pass comp="1" att="7" int="0" yds="8" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="8" td="0" long="0"></rcv>
+    <punt no="3" yds="123" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="41.0"></punt>
+    <ko no="1" yds="62" ob="0" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="1"></fg>
+    <defense tackua="15" tacka="0" tot_tack="15" tflua="4" tfla="0" tflyds="14" sacks="3" sackyds="18" brup="2" int="1" intyds="27"></defense>
+    <kr no="2" yds="42" td="0" long="0"></kr>
+    <ir no="1" yds="27" td="0" long="27"></ir>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UCLA">
+    <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+    <penalties no="1" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="82" top="09:02"></misc>
+    <rush att="9" yds="6" gain="20" loss="14" td="0" long="0"></rush>
+    <pass comp="3" att="7" int="1" yds="30" td="0" long="0" sacks="2" sackyds="11"></pass>
+    <rcv no="3" yds="30" td="0" long="0"></rcv>
+    <punt no="2" yds="76" long="5" blkd="0" tb="0" fc="1" plus50="0" inside20="2" avg="38.0"></punt>
+    <ko no="2" yds="139" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="1" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="4" tot_tack="12" tflua="2" tfla="0" tflyds="2" sacks="0" sackyds="0" brup="2" blkd="1"></defense>
+    <kr no="1" yds="33" td="0" long="0"></kr>
+    <pr no="2" yds="11" td="0" long="0"></pr>
+    <fr no="0" yds="0" td="1" long="0"></fr>
+    <scoring td="1" fg="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="SD" down="2" togo="9" spot="SD26" context="V,2,9,V26" playid="24,3,195" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,2,9,V26">
+   </play>
+   <play hasball="SD" down="2" togo="9" spot="SD26" context="V,2,9,V26" playid="24,4,196" type="R" text="MILLER, Anthony rush for 4 yards to the SD30 (Ward, Jess)." newcontext="V,3,5,V30">
+    <p_ru vh="V" name="MILLER, Anthony" gain="4"></p_ru>
+    <p_tk vh="H" name="Ward, Jess"></p_tk>
+   </play>
+   <play hasball="SD" down="3" togo="5" spot="SD30" context="V,3,5,V30" playid="24,5,197" type="P" text="LINDLEY, Ryan pass complete to KAZEE, Walter for loss of 1 yard to the SD29 (Bosworth, Kyle)." newcontext="V,4,6,V29">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="KAZEE, Walter" gain="-1"></p_pa>
+    <p_tk vh="H" name="Bosworth, Kyle" tfl="Y"></p_tk>
+   </play>
+   <play hasball="SD" down="4" togo="6" spot="SD29" context="V,4,6,V29" playid="24,6,198" type="U" text="STAHOVICH, Bria punt 46 yards to the UCLA25, downed." newcontext="H,1,10,H25">
+    <p_pu vh="V" name="STAHOVICH, Bria" gain="46"></p_pu>
+   </play>
+   <drivesum plays="3" yards="4" top="1:47" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,H25,15:00" vh="H" spot="H25" clock="15:00" driveindex="25,198"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA25" context="H,1,10,H25" playid="25,1,199" clock="13:45" text="UCLA drive start at 13:45." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA25" context="H,1,10,H25" playid="25,2,200" type="R" text="Franklin, Johna rush for loss of 2 yards to the UCLA23 (MILLING, Jerry)." newcontext="H,2,12,H23">
+    <p_ru vh="H" name="Franklin, Johna" gain="-2"></p_ru>
+    <p_tk vh="V" name="MILLING, Jerry" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="12" spot="UCLA23" context="H,2,12,H23" playid="25,3,201" type="P" text="Prince, Kevin pass incomplete to Carroll, Randal." newcontext="H,3,12,H23">
+    <p_pa vh="H" qb="Prince, Kevin" result="INC" rcv="Carroll, Randal"></p_pa>
+   </play>
+   <play hasball="UCLA" down="3" togo="12" spot="UCLA23" context="H,3,12,H23" playid="25,4,202" type="P" text="Prince, Kevin pass complete to Austin, Terrenc for loss of 1 yard to the UCLA22 (TAUANUU, Jacob)." newcontext="H,4,13,H22">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Austin, Terrenc" gain="-1"></p_pa>
+    <p_tk vh="V" name="TAUANUU, Jacob" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="4" togo="13" spot="UCLA22" context="H,4,13,H22" playid="25,5,203" type="U" text="Locke, Jeff punt 38 yards to the SD40, MAULDIN, Davion return 3 yards to the SD43 (Thigpen, Damien)." newcontext="V,1,10,V43">
+    <p_pu vh="H" name="Locke, Jeff" gain="38"></p_pu>
+    <p_pr vh="V" name="MAULDIN, Davion" gain="3"></p_pr>
+    <p_tk vh="H" name="Thigpen, Damien"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:31" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="V,V43,13:45" vh="V" spot="V43" clock="13:45" driveindex="26,203"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD43" context="V,1,10,V43" playid="26,1,204" clock="12:14" text="SAN DIEGO STATE drive start at 12:14." newcontext="V,1,10,V43">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD43" context="V,1,10,V43" playid="26,2,205" type="P" text="LINDLEY, Ryan pass incomplete to KAWULOK, MATTHE (Jones, Datone)." newcontext="V,2,10,V43">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="KAWULOK, MATTHE"></p_pa>
+    <p_bu vh="H" name="Jones, Datone"></p_bu>
+   </play>
+   <play hasball="SD" down="2" togo="10" spot="SD43" context="V,2,10,V43" playid="26,3,206" type="P" text="LINDLEY, Ryan pass incomplete to BROWN, Vincent (Viney, Courtney)." newcontext="V,3,10,V43">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="BROWN, Vincent"></p_pa>
+    <p_bu vh="H" name="Viney, Courtney"></p_bu>
+   </play>
+   <play hasball="SD" down="3" togo="10" spot="SD43" context="V,3,10,V43" playid="26,4,207" type="P" first="P" text="LINDLEY, Ryan pass complete to WALLACE, Robert for 13 yards to the UCLA44, 1ST DOWN SD." newcontext="V,1,10,H44">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="WALLACE, Robert" gain="13"></p_pa>
+   </play>
+   <comment text="no huddle shotgun"></comment>
+   <play hasball="SD" down="1" togo="10" spot="UCLA44" context="V,1,10,H44" playid="26,5,209" type="P" text="LINDLEY, Ryan pass incomplete." newcontext="V,2,10,H44">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC"></p_pa>
+   </play>
+   <play hasball="SD" down="2" togo="10" spot="UCLA44" context="V,2,10,H44" playid="26,6,210" type="P" text="LINDLEY, Ryan pass incomplete." newcontext="V,3,10,H44">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC"></p_pa>
+   </play>
+   <play hasball="SD" down="3" togo="10" spot="UCLA44" context="V,3,10,H44" playid="26,7,211" type="P" text="LINDLEY, Ryan pass complete to SULLIVAN, Brand for 4 yards to the UCLA40 (Carter, Reggie)." newcontext="V,4,6,H40">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="SULLIVAN, Brand" gain="4"></p_pa>
+    <p_tk vh="H" name="Carter, Reggie"></p_tk>
+   </play>
+   <play hasball="SD" down="4" togo="6" spot="UCLA40" context="V,4,6,H40" playid="26,8,212" type="P" text="LINDLEY, Ryan pass incomplete to KAWULOK, MATTHE." newcontext="H,1,10,H40">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="KAWULOK, MATTHE"></p_pa>
+   </play>
+   <drivesum plays="7" yards="17" top="1:17" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="H,H40,12:14" vh="H" spot="H40" clock="12:14" driveindex="27,212"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA40" context="H,1,10,H40" playid="27,1,213" clock="10:57" text="UCLA drive start at 10:57." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA40" context="H,1,10,H40" playid="27,2,214" type="P" turnover="I" text="Prince, Kevin pass intercepted by CAMARDA, Vincen at the UCLA42, CAMARDA, Vincen return 17 yards to the UCLA25 (Knox, Milton)." newcontext="V,1,10,H25">
+    <p_pa vh="H" qb="Prince, Kevin" result="INT"></p_pa>
+    <p_ir vh="V" name="CAMARDA, Vincen" at="H42" gain="17"></p_ir>
+    <p_tk vh="H" name="Knox, Milton"></p_tk>
+   </play>
+   <drivesum plays="1" yards="0" top="0:06" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="V,H25,10:57" vh="V" spot="H25" clock="10:57" driveindex="28,214"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="UCLA25" context="V,1,10,H25" playid="28,1,215" clock="10:51" text="SAN DIEGO STATE drive start at 10:51." newcontext="V,1,10,H25">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="UCLA25" context="V,1,10,H25" playid="28,2,216" type="P" text="LINDLEY, Ryan pass complete to SAMPSON, DeMarc for 6 yards to the UCLA19." newcontext="V,2,4,H19">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="SAMPSON, DeMarc" gain="6"></p_pa>
+   </play>
+   <comment text="no huddle"></comment>
+   <play hasball="SD" down="2" togo="4" spot="UCLA19" context="V,2,4,H19" playid="28,3,218" type="P" turnover="I" text="LINDLEY, Ryan pass intercepted by Moore, Rahim at the UCLA7, Moore, Rahim return 4 yards to the UCLA11 (WALLACE, Robert)." newcontext="H,1,10,H11">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INT"></p_pa>
+    <p_ir vh="H" name="Moore, Rahim" at="H07" gain="4"></p_ir>
+    <p_tk vh="V" name="WALLACE, Robert"></p_tk>
+   </play>
+   <drivesum plays="2" yards="6" top="0:27" driveindex="28" complete="Y"></drivesum>
+   <drivestart poss="H,H11,10:51" vh="H" spot="H11" clock="10:51" driveindex="29,218"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA11" context="H,1,10,H11" playid="29,1,219" clock="10:24" text="UCLA drive start at 10:24." newcontext="H,1,10,H11">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA11" context="H,1,10,H11" playid="29,2,220" type="R" first="R" text="Knox, Milton rush for 14 yards to the UCLA25, 1ST DOWN UCLA (SANDFORD, Nick)." newcontext="H,1,10,H25">
+    <p_ru vh="H" name="Knox, Milton" gain="14"></p_ru>
+    <p_tk vh="V" name="SANDFORD, Nick"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA25" context="H,1,10,H25" playid="29,3,221" type="R" text="Knox, Milton rush for 7 yards to the UCLA32." newcontext="H,2,3,H32">
+    <p_ru vh="H" name="Knox, Milton" gain="7"></p_ru>
+   </play>
+   <play hasball="UCLA" down="2" togo="3" spot="UCLA32" context="H,2,3,H32" playid="29,4,222" type="R" first="R" text="Knox, Milton rush for 5 yards to the UCLA37, 1ST DOWN UCLA (MILLING, Jerry)." newcontext="H,1,10,H37">
+    <p_ru vh="H" name="Knox, Milton" gain="5"></p_ru>
+    <p_tk vh="V" name="MILLING, Jerry"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA37" context="H,1,10,H37" playid="29,5,223" type="R" text="Knox, Milton rush for 4 yards to the UCLA41 (FANTROY, Martre)." newcontext="H,2,6,H41">
+    <p_ru vh="H" name="Knox, Milton" gain="4"></p_ru>
+    <p_tk vh="V" name="FANTROY, Martre"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="6" spot="UCLA41" context="H,2,6,H41" playid="29,6,224" type="P" text="Prince, Kevin pass complete to Moya, Ryan for 2 yards to the UCLA43 (EDWARDS, Kwincy)." newcontext="H,3,4,H43">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Moya, Ryan" gain="2"></p_pa>
+    <p_tk vh="V" name="EDWARDS, Kwincy"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="3" togo="4" spot="UCLA43" context="H,3,4,H43" playid="29,7,226" type="P" first="P" text="Prince, Kevin pass complete to Paulsen, Logan for 5 yards to the UCLA48, 1ST DOWN UCLA (EDWARDS, Kwincy)." newcontext="H,1,10,H48">
+    <p_pa vh="H" qb="Prince, Kevin" result="COMP" rcv="Paulsen, Logan" gain="5"></p_pa>
+    <p_tk vh="V" name="EDWARDS, Kwincy"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA48" context="H,1,10,H48" playid="29,8,227" type="R" text="Knox, Milton rush for 1 yard to the UCLA49 (AUTELE, J.J.)." newcontext="H,2,9,H49">
+    <p_ru vh="H" name="Knox, Milton" gain="1"></p_ru>
+    <p_tk vh="V" name="AUTELE, J.J."></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="9" spot="UCLA49" context="H,2,9,H49" playid="29,9,228" type="R" text="Knox, Milton rush for 6 yards to the SD45 (YARBROUGH, Marc)." newcontext="H,3,3,V45">
+    <p_ru vh="H" name="Knox, Milton" gain="6"></p_ru>
+    <p_tk vh="V" name="YARBROUGH, Marc"></p_tk>
+   </play>
+   <comment text="shotgun"></comment>
+   <play hasball="UCLA" down="3" togo="3" spot="SD45" context="H,3,3,V45" playid="29,10,230" type="P" text="Prince, Kevin pass incomplete to Embree, Taylor (YARBROUGH, Marc)." newcontext="H,4,3,V45">
+    <p_pa vh="H" qb="Prince, Kevin" result="INC" rcv="Embree, Taylor"></p_pa>
+    <p_bu vh="V" name="YARBROUGH, Marc"></p_bu>
+   </play>
+   <play hasball="UCLA" down="4" togo="3" spot="SD45" context="H,4,3,V45" playid="29,11,231" type="U" text="Locke, Jeff punt 45 yards to the SD0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Locke, Jeff" gain="45" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="9" yards="44" top="4:48" driveindex="29" complete="Y"></drivesum>
+   <drivestart poss="V,V20,10:24" vh="V" spot="V20" clock="10:24" driveindex="30,231"></drivestart>
+   <play hasball="SD" down="1" togo="10" spot="SD20" context="V,1,10,V20" playid="30,1,232" clock="05:36" text="SAN DIEGO STATE drive start at 05:36." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="SD" down="1" togo="10" spot="SD20" context="V,1,10,V20" playid="30,2,233" type="P" text="LINDLEY, Ryan pass incomplete to BROWN, Vincent." newcontext="V,2,10,V20">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="BROWN, Vincent"></p_pa>
+   </play>
+   <play hasball="SD" down="2" togo="10" spot="SD20" context="V,2,10,V20" playid="30,3,234" type="P" text="LINDLEY, Ryan pass incomplete to BROWN, Vincent (Dye, Tony)." newcontext="V,3,10,V20">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INC" rcv="BROWN, Vincent"></p_pa>
+    <p_bu vh="H" name="Dye, Tony"></p_bu>
+   </play>
+   <comment text="shotgun"></comment>
+   <comment text="offsetting penalties"></comment>
+   <comment text="shotgun"></comment>
+   <play hasball="SD" down="3" togo="10" spot="SD20" context="V,3,10,V20" playid="30,4,238" type="P" first="P" text="LINDLEY, Ryan pass complete to BROWN, Vincent for 33 yards to the UCLA47, 1ST DOWN SD (Love, Glenn)." newcontext="V,1,10,H47">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="COMP" rcv="BROWN, Vincent" gain="33"></p_pa>
+    <p_tk vh="H" name="Love, Glenn"></p_tk>
+   </play>
+   <comment text="no huddle"></comment>
+   <play hasball="SD" down="1" togo="10" spot="UCLA47" context="V,1,10,H47" playid="30,5,240" type="P" turnover="I" text="LINDLEY, Ryan pass intercepted by Moore, Rahim at the UCLA20, Moore, Rahim return 3 yards to the UCLA23." newcontext="H,1,10,H23">
+    <p_pa vh="V" qb="LINDLEY, Ryan" result="INT"></p_pa>
+    <p_ir vh="H" name="Moore, Rahim" at="H20" gain="3"></p_ir>
+   </play>
+   <drivesum plays="4" yards="33" top="0:48" driveindex="30" complete="Y"></drivesum>
+   <drivestart poss="H,H23,05:36" vh="H" spot="H23" clock="05:36" driveindex="31,240"></drivestart>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA23" context="H,1,10,H23" playid="31,1,241" clock="04:48" text="UCLA drive start at 04:48." newcontext="H,1,10,H23">
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="UCLA23" context="H,1,10,H23" playid="31,2,242" type="R" text="Thigpen, Damien rush for loss of 4 yards to the UCLA19 (SHAPIRO, Zachar)." newcontext="H,2,14,H19">
+    <p_ru vh="H" name="Thigpen, Damien" gain="-4"></p_ru>
+    <p_tk vh="V" name="SHAPIRO, Zachar" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="14" spot="UCLA19" context="H,2,14,H19" playid="31,3,243" type="R" text="Thigpen, Damien rush for 8 yards to the UCLA27 (FANTROY, Martre;EDWARDS, Kwincy)." newcontext="H,3,6,H27">
+    <p_ru vh="H" name="Thigpen, Damien" gain="8"></p_ru>
+    <p_tk vh="V" name="FANTROY, Martre" assist="Y"></p_tk>
+    <p_tk vh="V" name="EDWARDS, Kwincy" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="3" togo="6" spot="UCLA27" context="H,3,6,H27" playid="31,4,244" type="P" first="P" text="Brehaut, Richar pass complete to Rosario, Nelson for 30 yards to the SD43, 1ST DOWN UCLA (PEREZ, Jose;FANTROY, Martre)." newcontext="H,1,10,V43">
+    <p_pa vh="H" qb="Brehaut, Richar" result="COMP" rcv="Rosario, Nelson" gain="30"></p_pa>
+    <p_tk vh="V" name="PEREZ, Jose" assist="Y"></p_tk>
+    <p_tk vh="V" name="FANTROY, Martre" assist="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD43" context="H,1,10,V43" playid="31,5,245" type="P" text="Brehaut, Richar pass complete to Theriot, Trevor for 9 yards to the SD34 (SANDFORD, Nick)." newcontext="H,2,1,V34">
+    <p_pa vh="H" qb="Brehaut, Richar" result="COMP" rcv="Theriot, Trevor" gain="9"></p_pa>
+    <p_tk vh="V" name="SANDFORD, Nick"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="1" spot="SD34" context="H,2,1,V34" playid="31,6,246" type="R" first="R" text="Thigpen, Damien rush for 3 yards to the SD31, 1ST DOWN UCLA (HEMMINGS, Dey J)." newcontext="H,1,10,V31">
+    <p_ru vh="H" name="Thigpen, Damien" gain="3"></p_ru>
+    <p_tk vh="V" name="HEMMINGS, Dey J"></p_tk>
+   </play>
+   <play hasball="UCLA" down="1" togo="10" spot="SD31" context="H,1,10,V31" playid="31,7,247" type="R" text="Thigpen, Damien rush for no gain to the SD31 (MILLING, Jerry)." newcontext="H,2,10,V31">
+    <p_ru vh="H" name="Thigpen, Damien" gain="0"></p_ru>
+    <p_tk vh="V" name="MILLING, Jerry"></p_tk>
+   </play>
+   <play hasball="UCLA" down="2" togo="10" spot="SD31" context="H,2,10,V31" playid="31,8,248" type="R" text="Thigpen, Damien rush for loss of 2 yards to the SD33 (PRESTON, Andrew)." newcontext="H,3,12,V33">
+    <p_ru vh="H" name="Thigpen, Damien" gain="-2"></p_ru>
+    <p_tk vh="V" name="PRESTON, Andrew" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="3" togo="12" spot="SD33" context="H,3,12,V33" playid="31,9,249" type="R" text="Thigpen, Damien rush for loss of 1 yard to the SD34 (EDWARDS, Kwincy)." newcontext="H,4,13,V34">
+    <p_ru vh="H" name="Thigpen, Damien" gain="-1"></p_ru>
+    <p_tk vh="V" name="EDWARDS, Kwincy" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UCLA" down="4" togo="13" spot="SD34" context="H,4,13,V34" playid="31,10,250" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,4,13,V34">
+   </play>
+   <drivesum plays="8" yards="43" top="4:48" driveindex="31" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="UCLA defeats San Diego State by a score of 33 to 14."></play>
+   <score final="Y" V="14" H="33"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="SD">
+    <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="03:47"></misc>
+    <rush att="1" yds="4" gain="4" loss="0" td="0" long="0"></rush>
+    <pass comp="5" att="14" int="2" yds="55" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="55" td="0" long="0"></rcv>
+    <punt no="1" yds="46" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="46.0"></punt>
+    <defense tackua="16" tacka="4" tot_tack="20" tflua="5" tfla="0" tflyds="10" sacks="3" sackyds="18" brup="1" int="1" intyds="17"></defense>
+    <pr no="1" yds="3" td="0" long="3"></pr>
+    <ir no="1" yds="17" td="0" long="0"></ir>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UCLA">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="11:13"></misc>
+    <rush att="13" yds="39" gain="48" loss="9" td="0" long="0"></rush>
+    <pass comp="5" att="8" int="1" yds="45" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="45" td="0" long="0"></rcv>
+    <punt no="2" yds="83" long="5" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="41.5"></punt>
+    <defense tackua="6" tacka="0" tot_tack="6" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="3" int="2" intyds="7"></defense>
+    <ir no="2" yds="7" td="0" long="0"></ir>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="UCLA" down="4" togo="13" spot="SD34" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="2" htor="3" dtgtext="Game Over" ldtext="Drive started: 04:48, 4th Qtr"></downtogo>
+ </plays>

@@ -1,0 +1,884 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="CMU" down="1" togo="10" spot="CMU30" context="V,1,10,V30" playid="0,1,0" text="Test" newcontext="V,1,10,V30">
+   </play>
+   <comment text="Game scheduled to start at 7:45pm"></comment>
+   <play hasball="CMU" down="1" togo="10" spot="CMU30" context="V,1,10,V30" playid="0,2,2" text="ARIZ ball on ARIZ30." newcontext="H,1,10,H30">
+   </play>
+   <comment text="UA wins toss, defers; CMU receives at South goal"></comment>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ30" context="H,1,10,H30" playid="0,3,4" type="K" text="Zendejas, A. kickoff 63 yards to the CMU7, PHILLIPS, Tim return 12 yards to the CMU19 (Wade, T.)." newcontext="V,1,10,V19">
+    <p_ko vh="H" name="Zendejas, A." gain="63"></p_ko>
+    <p_kr vh="V" name="PHILLIPS, Tim" gain="12"></p_kr>
+    <p_tk vh="H" name="Wade, T."></p_tk>
+   </play>
+   <drivestart poss="V,V19,15:00" vh="V" spot="V19" clock="15:00" driveindex="1,4"></drivestart>
+   <play hasball="CMU" down="1" togo="10" spot="CMU19" context="V,1,10,V19" playid="1,1,5" type="E" text="PENALTY CMU false start 5 yards to the CMU14." newcontext="V,1,15,V14">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V19" yards="5"></p_pn>
+   </play>
+   <play hasball="CMU" down="1" togo="15" spot="CMU14" context="V,1,15,V14" playid="1,2,6" type="P" text="LeFEVOUR, Dan pass complete to KENNEDY, Ronnie for 4 yards to the CMU18 (Nelson, C.)." newcontext="V,2,11,V18">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="KENNEDY, Ronnie" gain="4"></p_pa>
+    <p_tk vh="H" name="Nelson, C."></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="11" spot="CMU18" context="V,2,11,V18" playid="1,3,7" type="R" text="SCHROEDER, B. rush for 5 yards to the CMU23 (Mitchell, E.)." newcontext="V,3,6,V23">
+    <p_ru vh="V" name="SCHROEDER, B." gain="5"></p_ru>
+    <p_tk vh="H" name="Mitchell, E."></p_tk>
+   </play>
+   <play hasball="CMU" down="3" togo="6" spot="CMU23" context="V,3,6,V23" playid="1,4,8" type="P" turnover="I" text="LeFEVOUR, Dan pass intercepted by Tuihalamaka, V. at the CMU31, Tuihalamaka, V. return 0 yards to the CMU31." newcontext="H,1,10,V31">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INT"></p_pa>
+    <p_ir vh="H" name="Tuihalamaka, V." at="V31" gain="0"></p_ir>
+   </play>
+   <drivesum plays="3" yards="4" top="1:24" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,V31,15:00" vh="H" spot="V31" clock="15:00" driveindex="2,8"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU31" context="H,1,10,V31" playid="2,1,9" clock="13:36" text="ARIZONA drive start at 13:36." newcontext="H,1,10,V31">
+   </play>
+   <comment text="Ball tipped by Devin Wade on interception"></comment>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU31" context="H,1,10,V31" playid="2,2,11" type="P" text="Scott, M. pass complete to Criner, J. for 9 yards to the CMU22 (BOLDEN, Dannie)." newcontext="H,2,1,V22">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Criner, J." gain="9"></p_pa>
+    <p_tk vh="V" name="BOLDEN, Dannie"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="1" spot="CMU22" context="H,2,1,V22" playid="2,3,12" type="R" text="Grigsby, N. rush for loss of 3 yards to the CMU25 (ZOMBO, Frank)." newcontext="H,3,4,V25">
+    <p_ru vh="H" name="Grigsby, N." gain="-3"></p_ru>
+    <p_tk vh="V" name="ZOMBO, Frank" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="4" spot="CMU25" context="H,3,4,V25" playid="2,4,13" type="P" turnover="F" text="Scott, M. pass complete to Wright, W. for 9 yards to the CMU16, fumble forced by BELLORE, Nick, fumble by Wright, W. recovered by CMU WILLIAMS, John at CMU16." newcontext="V,1,10,V16">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Wright, W." gain="9"></p_pa>
+    <p_fumb vh="H" name="Wright, W." at="V16" frvh="V" frname="WILLIAMS, John"></p_fumb>
+    <p_tk vh="V" name="BELLORE, Nick" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="15" top="1:27" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="V,V16,13:36" vh="V" spot="V16" clock="13:36" driveindex="3,13"></drivestart>
+   <play hasball="CMU" down="1" togo="10" spot="CMU16" context="V,1,10,V16" playid="3,1,14" clock="12:09" text="CENTRAL MICH drive start at 12:09." newcontext="V,1,10,V16">
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU16" context="V,1,10,V16" playid="3,2,15" type="P" text="LeFEVOUR, Dan pass complete to POBLAH, Kito for 5 yards to the CMU21 (Wade, T.)." newcontext="V,2,5,V21">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="POBLAH, Kito" gain="5"></p_pa>
+    <p_tk vh="H" name="Wade, T."></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="5" spot="CMU21" context="V,2,5,V21" playid="3,3,16" type="R" text="SCHROEDER, B. rush for 1 yard to the CMU22 (Elmore, R.;Tuihalamaka, V.)." newcontext="V,3,4,V22">
+    <p_ru vh="V" name="SCHROEDER, B." gain="1"></p_ru>
+    <p_tk vh="H" name="Elmore, R." assist="Y"></p_tk>
+    <p_tk vh="H" name="Tuihalamaka, V." assist="Y"></p_tk>
+   </play>
+   <play hasball="CMU" down="3" togo="4" spot="CMU22" context="V,3,4,V22" playid="3,4,17" type="P" text="LeFEVOUR, Dan sacked for loss of 8 yards to the CMU14 (Horton, D.)." newcontext="V,4,12,V14">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="SACK" gain="-8"></p_pa>
+    <p_tk vh="H" name="Horton, D." sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CMU" down="4" togo="12" spot="CMU14" context="V,4,12,V14" playid="3,5,18" type="U" text="HARTMANN, Brett punt 33 yards to the CMU47, downed." newcontext="H,1,10,V47">
+    <p_pu vh="V" name="HARTMANN, Brett" gain="33"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-2" top="1:53" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,V47,12:09" vh="H" spot="V47" clock="12:09" driveindex="4,18"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU47" context="H,1,10,V47" playid="4,1,19" clock="10:16" text="ARIZONA drive start at 10:16." newcontext="H,1,10,V47">
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU47" context="H,1,10,V47" playid="4,2,20" type="R" first="R" text="Antolin, K. rush for 11 yards to the CMU36, 1ST DOWN ARIZ (WILLIAMS, Sam)." newcontext="H,1,10,V36">
+    <p_ru vh="H" name="Antolin, K." gain="11"></p_ru>
+    <p_tk vh="V" name="WILLIAMS, Sam"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU36" context="H,1,10,V36" playid="4,3,21" type="R" text="Antolin, K. rush for 9 yards to the CMU27 (BERNING, Matt)." newcontext="H,2,1,V27">
+    <p_ru vh="H" name="Antolin, K." gain="9"></p_ru>
+    <p_tk vh="V" name="BERNING, Matt"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="1" spot="CMU27" context="H,2,1,V27" playid="4,4,22" type="R" first="R" text="Grigsby, N. rush for 12 yards to the CMU15, 1ST DOWN ARIZ (EDWARDS, K.;FRASER, Eric)." newcontext="H,1,10,V15">
+    <p_ru vh="H" name="Grigsby, N." gain="12"></p_ru>
+    <p_tk vh="V" name="EDWARDS, K." assist="Y"></p_tk>
+    <p_tk vh="V" name="FRASER, Eric" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU15" context="H,1,10,V15" playid="4,5,23" type="R" text="Grigsby, N. rush for 2 yards to the CMU13 (MURNANE, Sean)." newcontext="H,2,8,V13">
+    <p_ru vh="H" name="Grigsby, N." gain="2"></p_ru>
+    <p_tk vh="V" name="MURNANE, Sean"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="8" spot="CMU13" context="H,2,8,V13" playid="4,6,24" type="R" text="Antolin, K. rush for loss of 1 yard to the CMU14 (BELLORE, Nick)." newcontext="H,3,9,V14">
+    <p_ru vh="H" name="Antolin, K." gain="-1"></p_ru>
+    <p_tk vh="V" name="BELLORE, Nick" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="9" spot="CMU14" context="H,3,9,V14" playid="4,7,25" type="P" text="Scott, M. pass incomplete to Wright, W.." newcontext="H,4,9,V14">
+    <p_pa vh="H" qb="Scott, M." result="INC" rcv="Wright, W."></p_pa>
+   </play>
+   <play hasball="ARIZ" down="4" togo="9" spot="CMU14" context="H,4,9,V14" playid="4,8,26" type="E" text="PENALTY ARIZ false start 5 yards to the CMU19." newcontext="H,4,14,V19">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="V14" yards="5"></p_pn>
+   </play>
+   <play hasball="ARIZ" down="4" togo="14" spot="CMU19" context="H,4,14,V19" playid="4,9,27" type="F" score="Y" clock="07:17" text="Zendejas, A. field goal attempt from 36 GOOD, clock 07:17." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Zendejas, A." distance="36" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="3"></score>
+   <drivesum plays="7" yards="28" top="2:59" driveindex="4" complete="Y"></drivesum>
+   <play hasball="ARIZ" down="1" togo="0" spot="ARIZ30" context="H,1,0,H30" playid="4,10,28" type="K" text="Zendejas, A. kickoff 54 yards to the CMU16, BROWN, Antonio return 18 yards to the CMU34 (Fischer, J.)." newcontext="V,1,10,V34">
+    <p_ko vh="H" name="Zendejas, A." gain="54"></p_ko>
+    <p_kr vh="V" name="BROWN, Antonio" gain="18"></p_kr>
+    <p_tk vh="H" name="Fischer, J."></p_tk>
+   </play>
+   <drivestart poss="V,V34,07:17" vh="V" spot="V34" clock="07:17" driveindex="5,28"></drivestart>
+   <play hasball="CMU" down="1" togo="10" spot="CMU34" context="V,1,10,V34" playid="5,1,29" clock="07:10" text="CENTRAL MICH drive start at 07:10." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU34" context="V,1,10,V34" playid="5,2,30" type="R" text="BROWN, Antonio rush for 7 yards to the CMU41 (Reed, B.)." newcontext="V,2,3,V41">
+    <p_ru vh="V" name="BROWN, Antonio" gain="7"></p_ru>
+    <p_tk vh="H" name="Reed, B."></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="3" spot="CMU41" context="V,2,3,V41" playid="5,3,31" type="P" text="LeFEVOUR, Dan pass incomplete." newcontext="V,3,3,V41">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INC"></p_pa>
+   </play>
+   <play hasball="CMU" down="3" togo="3" spot="CMU41" context="V,3,3,V41" playid="5,4,32" type="P" text="LeFEVOUR, Dan pass incomplete." newcontext="V,4,3,V41">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INC"></p_pa>
+   </play>
+   <play hasball="CMU" down="4" togo="3" spot="CMU41" context="V,4,3,V41" playid="5,5,33" type="U" text="HARTMANN, Brett punt 47 yards to the ARIZ12, fair catch by Wright, W.." newcontext="H,1,10,H12">
+    <p_pu vh="V" name="HARTMANN, Brett" gain="47" in20="Y" fc="Wright, W."></p_pu>
+   </play>
+   <drivesum plays="3" yards="7" top="0:52" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,H12,07:10" vh="H" spot="H12" clock="07:10" driveindex="6,33"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ12" context="H,1,10,H12" playid="6,1,34" clock="06:18" text="ARIZONA drive start at 06:18." newcontext="H,1,10,H12">
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ12" context="H,1,10,H12" playid="6,2,35" type="R" text="Antolin, K. rush for 4 yards to the ARIZ16 (ZOMBO, Frank)." newcontext="H,2,6,H16">
+    <p_ru vh="H" name="Antolin, K." gain="4"></p_ru>
+    <p_tk vh="V" name="ZOMBO, Frank"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="6" spot="ARIZ16" context="H,2,6,H16" playid="6,3,36" type="P" first="P" text="Scott, M. pass complete to Simmons, A.J. for 21 yards to the ARIZ37, 1ST DOWN ARIZ (EDWARDS, K.)." newcontext="H,1,10,H37">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Simmons, A.J." gain="21"></p_pa>
+    <p_tk vh="V" name="EDWARDS, K."></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ37" context="H,1,10,H37" playid="6,4,37" type="P" text="Scott, M. pass complete to Turner, T. for 6 yards to the ARIZ43 (BELLORE, Nick)." newcontext="H,2,4,H43">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Turner, T." gain="6"></p_pa>
+    <p_tk vh="V" name="BELLORE, Nick"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="4" spot="ARIZ43" context="H,2,4,H43" playid="6,5,38" type="R" text="Grigsby, N. rush for 2 yards to the ARIZ45 (BELLORE, Nick;KNIGHT, Larry)." newcontext="H,3,2,H45">
+    <p_ru vh="H" name="Grigsby, N." gain="2"></p_ru>
+    <p_tk vh="V" name="BELLORE, Nick" assist="Y"></p_tk>
+    <p_tk vh="V" name="KNIGHT, Larry" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="2" spot="ARIZ45" context="H,3,2,H45" playid="6,6,39" type="R" first="R" text="Grigsby, N. rush for 3 yards to the ARIZ48, 1ST DOWN ARIZ (ZOMBO, Frank)." newcontext="H,1,10,H48">
+    <p_ru vh="H" name="Grigsby, N." gain="3"></p_ru>
+    <p_tk vh="V" name="ZOMBO, Frank"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ48" context="H,1,10,H48" playid="6,7,40" type="R" text="Grigsby, N. rush for 1 yard to the ARIZ49 (BELLORE, Nick)." newcontext="H,2,9,H49">
+    <p_ru vh="H" name="Grigsby, N." gain="1"></p_ru>
+    <p_tk vh="V" name="BELLORE, Nick"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="9" spot="ARIZ49" context="H,2,9,H49" playid="6,8,41" type="R" text="Wright, W. rush for 3 yards to the CMU48 (BRAZZEL, Tim)." newcontext="H,3,6,V48">
+    <p_ru vh="H" name="Wright, W." gain="3"></p_ru>
+    <p_tk vh="V" name="BRAZZEL, Tim"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="6" spot="CMU48" context="H,3,6,V48" playid="6,9,42" type="P" text="Scott, M. sacked for loss of 6 yards to the ARIZ46 (WILLIAMS, John)." newcontext="H,4,12,H46">
+    <p_pa vh="H" qb="Scott, M." result="SACK" gain="-6"></p_pa>
+    <p_tk vh="V" name="WILLIAMS, John" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="4" togo="12" spot="ARIZ46" context="H,4,12,H46" playid="6,10,43" type="E" text="PENALTY ARIZ false start 5 yards to the ARIZ41." newcontext="H,4,17,H41">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="H46" yards="5"></p_pn>
+   </play>
+   <play hasball="ARIZ" down="4" togo="17" spot="ARIZ41" context="H,4,17,H41" playid="6,11,44" type="U" turnover="F" text="Crier, K. punt 42 yards to the CMU17, BROWN, Antonio return 11 yards to the CMU28, fumble forced by Parish, C., fumble by BROWN, Antonio recovered by ARIZ Bertoni, J. at CMU28." newcontext="H,1,10,V28">
+    <p_pu vh="H" name="Crier, K." gain="42"></p_pu>
+    <p_pr vh="V" name="BROWN, Antonio" gain="11"></p_pr>
+    <p_fumb vh="V" name="BROWN, Antonio" at="V28" frvh="H" frname="Bertoni, J."></p_fumb>
+    <p_tk vh="H" name="Parish, C." ff="Y"></p_tk>
+   </play>
+   <drivesum plays="8" yards="29" top="5:20" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,V28,06:18" vh="H" spot="V28" clock="06:18" driveindex="8,44"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU28" context="H,1,10,V28" playid="8,1,45" clock="00:58" text="ARIZONA drive start at 00:58." newcontext="H,1,10,V28">
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU28" context="H,1,10,V28" playid="8,2,46" type="P" text="Scott, M. pass incomplete to Dean, D.." newcontext="H,2,10,V28">
+    <p_pa vh="H" qb="Scott, M." result="INC" rcv="Dean, D."></p_pa>
+   </play>
+   <play hasball="ARIZ" down="2" togo="10" spot="CMU28" context="H,2,10,V28" playid="8,3,47" type="P" text="Scott, M. pass incomplete to Dean, D. (GORDY, Josh)." newcontext="H,3,10,V28">
+    <p_pa vh="H" qb="Scott, M." result="BRUP" rcv="Dean, D."></p_pa>
+    <p_bu vh="V" name="GORDY, Josh"></p_bu>
+   </play>
+   <play hasball="ARIZ" down="3" togo="10" spot="CMU28" context="H,3,10,V28" playid="8,4,48" type="P" text="Scott, M. pass complete to Simmons, A.J. for 7 yards to the CMU21 (FRASER, Eric;AGNEW, Vince)." newcontext="H,4,3,V21">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Simmons, A.J." gain="7"></p_pa>
+    <p_tk vh="V" name="FRASER, Eric" assist="Y"></p_tk>
+    <p_tk vh="V" name="AGNEW, Vince" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="4" togo="3" spot="CMU21" context="H,4,3,V21" playid="8,5,49" type="F" score="Y" clock="00:00" text="Zendejas, A. field goal attempt from 37 GOOD, clock 00:00." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Zendejas, A." distance="37" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="6"></score>
+   <score qtr="1" V="0" H="6"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CMU">
+    <firstdowns no="0" rush="0" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="04:16"></misc>
+    <rush att="4" yds="5" gain="13" loss="8" td="0" long="7"></rush>
+    <pass comp="2" att="5" int="1" yds="9" td="0" long="5" sacks="1" sackyds="8"></pass>
+    <rcv no="2" yds="9" td="0" long="5"></rcv>
+    <punt no="2" yds="80" long="47" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="40.0"></punt>
+    <defense tackua="14" tacka="6" tot_tack="20" tflua="3" tfla="0" tflyds="10" sacks="1" sackyds="6" brup="1" ff="1" fr="1" fryds="0"></defense>
+    <kr no="2" yds="30" td="0" long="18"></kr>
+    <pr no="1" yds="11" td="0" long="11"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ARIZ">
+    <firstdowns no="4" rush="3" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="10:44"></misc>
+    <rush att="12" yds="37" gain="47" loss="10" td="0" long="12"></rush>
+    <pass comp="5" att="8" int="0" yds="52" td="0" long="21" sacks="1" sackyds="6"></pass>
+    <rcv no="5" yds="52" td="0" long="21"></rcv>
+    <punt no="1" yds="42" long="42" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="42.0"></punt>
+    <ko no="2" yds="117" ob="0" tb="0"></ko>
+    <fg made="2" att="2" long="37" blkd="0"></fg>
+    <defense tackua="8" tacka="2" tot_tack="10" tflua="1" tfla="0" tflyds="8" sacks="1" sackyds="8" ff="1" fr="1" fryds="0" int="1" intyds="0"></defense>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring fg="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="ARIZ" down="1" togo="0" spot="ARIZ30" context="H,1,0,H30" playid="8,6,50" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="H,1,0,H30">
+   </play>
+   <drivesum plays="4" yards="7" top="0:58" driveindex="8" complete="Y"></drivesum>
+   <play hasball="ARIZ" down="1" togo="0" spot="ARIZ30" context="H,1,0,H30" playid="8,7,51" type="K" text="Zendejas, A. kickoff 62 yards to the CMU8, BROWN, Antonio return 14 yards to the CMU22 (Foster, T.)." newcontext="V,1,10,V22">
+    <p_ko vh="H" name="Zendejas, A." gain="62"></p_ko>
+    <p_kr vh="V" name="BROWN, Antonio" gain="14"></p_kr>
+    <p_tk vh="H" name="Foster, T."></p_tk>
+   </play>
+   <drivestart poss="V,V22,15:00" vh="V" spot="V22" clock="15:00" driveindex="9,51"></drivestart>
+   <play hasball="CMU" down="1" togo="10" spot="CMU22" context="V,1,10,V22" playid="9,1,52" clock="14:53" text="CENTRAL MICH drive start at 14:53." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU22" context="V,1,10,V22" playid="9,2,53" clock="14:53" text="CENTRAL MICH drive start at 14:53." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU22" context="V,1,10,V22" playid="9,3,54" type="R" text="COTTON, Paris rush for 2 yards to the CMU24 (Tuihalamaka, V.;Reed, B.)." newcontext="V,2,8,V24">
+    <p_ru vh="V" name="COTTON, Paris" gain="2"></p_ru>
+    <p_tk vh="H" name="Tuihalamaka, V." assist="Y"></p_tk>
+    <p_tk vh="H" name="Reed, B." assist="Y"></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="8" spot="CMU24" context="V,2,8,V24" playid="9,4,55" type="P" text="LeFEVOUR, Dan pass complete to POBLAH, Kito for no gain to the CMU24 (Ross, D.)." newcontext="V,3,8,V24">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="POBLAH, Kito" gain="0"></p_pa>
+    <p_tk vh="H" name="Ross, D."></p_tk>
+   </play>
+   <play hasball="CMU" down="3" togo="8" spot="CMU24" context="V,3,8,V24" playid="9,5,56" type="P" text="LeFEVOUR, Dan pass incomplete to POBLAH, Kito." newcontext="V,4,8,V24">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INC" rcv="POBLAH, Kito"></p_pa>
+   </play>
+   <play hasball="CMU" down="4" togo="8" spot="CMU24" context="V,4,8,V24" playid="9,6,57" type="U" text="HARTMANN, Brett punt 40 yards to the ARIZ36, downed." newcontext="H,1,10,H36">
+    <p_pu vh="V" name="HARTMANN, Brett" gain="40"></p_pu>
+   </play>
+   <drivesum plays="3" yards="2" top="1:27" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,H36,14:53" vh="H" spot="H36" clock="14:53" driveindex="10,57"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ36" context="H,1,10,H36" playid="10,1,58" clock="13:26" text="ARIZONA drive start at 13:26." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ36" context="H,1,10,H36" playid="10,2,59" type="R" text="Antolin, K. rush for no gain to the ARIZ36 (WILLIAMS, John)." newcontext="H,2,10,H36">
+    <p_ru vh="H" name="Antolin, K." gain="0"></p_ru>
+    <p_tk vh="V" name="WILLIAMS, John"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="10" spot="ARIZ36" context="H,2,10,H36" playid="10,3,60" type="P" text="Scott, M. pass complete to Turner, T. for 8 yards to the ARIZ44 (SEAY, Bobby)." newcontext="H,3,2,H44">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Turner, T." gain="8"></p_pa>
+    <p_tk vh="V" name="SEAY, Bobby"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="2" spot="ARIZ44" context="H,3,2,H44" playid="10,4,61" type="R" text="Antolin, K. rush for 1 yard to the ARIZ45 (BERNING, Matt)." newcontext="H,4,1,H45">
+    <p_ru vh="H" name="Antolin, K." gain="1"></p_ru>
+    <p_tk vh="V" name="BERNING, Matt"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="4" togo="1" spot="ARIZ45" context="H,4,1,H45" playid="10,5,62" type="U" text="Crier, K. punt 55 yards to the CMU0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Crier, K." gain="55" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="2:00" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="V,V20,13:26" vh="V" spot="V20" clock="13:26" driveindex="11,62"></drivestart>
+   <play hasball="CMU" down="1" togo="10" spot="CMU20" context="V,1,10,V20" playid="11,1,63" clock="11:26" text="CENTRAL MICH drive start at 11:26." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU20" context="V,1,10,V20" playid="11,2,64" type="R" text="LeFEVOUR, Dan rush for no gain to the CMU20 (Elmore, R.;Tuihalamaka, V.)." newcontext="V,2,10,V20">
+    <p_ru vh="V" name="LeFEVOUR, Dan" gain="0"></p_ru>
+    <p_tk vh="H" name="Elmore, R." assist="Y"></p_tk>
+    <p_tk vh="H" name="Tuihalamaka, V." assist="Y"></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="10" spot="CMU20" context="V,2,10,V20" playid="11,3,65" type="P" text="LeFEVOUR, Dan pass incomplete to ANDERSON, Bryan." newcontext="V,3,10,V20">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INC" rcv="ANDERSON, Bryan"></p_pa>
+   </play>
+   <play hasball="CMU" down="3" togo="10" spot="CMU20" context="V,3,10,V20" playid="11,4,66" type="P" text="LeFEVOUR, Dan pass complete to POBLAH, Kito for 9 yards to the CMU29." newcontext="V,4,1,V29">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="POBLAH, Kito" gain="9"></p_pa>
+   </play>
+   <play hasball="CMU" down="4" togo="1" spot="CMU29" context="V,4,1,V29" playid="11,5,67" type="U" text="HARTMANN, Brett punt 34 yards to the ARIZ37, out-of-bounds." ob="Y" newcontext="H,1,10,H37">
+    <p_pu vh="V" name="HARTMANN, Brett" gain="34" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="1:29" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,H37,11:26" vh="H" spot="H37" clock="11:26" driveindex="12,67"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ37" context="H,1,10,H37" playid="12,1,68" clock="09:57" text="ARIZONA drive start at 09:57." newcontext="H,1,10,H37">
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ37" context="H,1,10,H37" playid="12,2,69" type="P" first="P" text="Scott, M. pass complete to Turner, T. for 11 yards to the ARIZ48, 1ST DOWN ARIZ (BELLORE, Nick)." newcontext="H,1,10,H48">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Turner, T." gain="11"></p_pa>
+    <p_tk vh="V" name="BELLORE, Nick"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ48" context="H,1,10,H48" playid="12,3,70" type="P" text="Scott, M. pass incomplete to Gronkowski, C.." newcontext="H,2,10,H48">
+    <p_pa vh="H" qb="Scott, M." result="INC" rcv="Gronkowski, C."></p_pa>
+   </play>
+   <play hasball="ARIZ" down="2" togo="10" spot="ARIZ48" context="H,2,10,H48" playid="12,4,71" type="P" text="Scott, M. pass incomplete to Criner, J.." newcontext="H,3,10,H48">
+    <p_pa vh="H" qb="Scott, M." result="INC" rcv="Criner, J."></p_pa>
+   </play>
+   <play hasball="ARIZ" down="3" togo="10" spot="ARIZ48" context="H,3,10,H48" playid="12,5,72" type="R" first="R" text="Scott, M. rush for 14 yards to the CMU38, 1ST DOWN ARIZ." newcontext="H,1,10,V38">
+    <p_ru vh="H" name="Scott, M." gain="14"></p_ru>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU38" context="H,1,10,V38" playid="12,6,73" type="R" text="Nwoko, G. rush for 2 yards to the CMU36 (PETRUCCI, Mike)." newcontext="H,2,8,V36">
+    <p_ru vh="H" name="Nwoko, G." gain="2"></p_ru>
+    <p_tk vh="V" name="PETRUCCI, Mike"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="8" spot="CMU36" context="H,2,8,V36" playid="12,7,74" type="P" first="P" text="Scott, M. pass complete to Criner, J. for 25 yards to the CMU11, 1ST DOWN ARIZ (CARR, John)." newcontext="H,1,10,V11">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Criner, J." gain="25"></p_pa>
+    <p_tk vh="V" name="CARR, John"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU11" context="H,1,10,V11" playid="12,8,75" type="P" text="Scott, M. pass incomplete to Dean, D. (GORDY, Josh)." newcontext="H,2,10,V11">
+    <p_pa vh="H" qb="Scott, M." result="INC" rcv="Dean, D."></p_pa>
+    <p_bu vh="V" name="GORDY, Josh"></p_bu>
+   </play>
+   <play hasball="ARIZ" down="2" togo="10" spot="CMU11" context="H,2,10,V11" playid="12,9,76" type="R" text="Nwoko, G. rush for 4 yards to the CMU7 (WILLIAMS, Sam)." newcontext="H,3,6,V07">
+    <p_ru vh="H" name="Nwoko, G." gain="4"></p_ru>
+    <p_tk vh="V" name="WILLIAMS, Sam"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="6" spot="CMU07" context="H,3,6,V07" playid="12,10,77" type="E" text="PENALTY CMU IS 4 yards to the CMU3." newcontext="H,3,2,V03">
+    <p_pn vh="V" code="IS" type="IS" result="ACCEPT" at="V07" yards="4"></p_pn>
+   </play>
+   <play hasball="ARIZ" down="3" togo="2" spot="CMU03" context="H,3,2,V03" playid="12,11,78" type="R" first="R" score="Y" clock="08:20" text="Grigsby, N. rush for 3 yards to the CMU0, 1ST DOWN ARIZ, TOUCHDOWN, clock 08:20." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Grigsby, N." gain="3"></p_ru>
+   </play>
+   <play hasball="ARIZ" down="1" togo="0" spot="CMU03" context="H,1,0,V03" playid="12,12,79" type="X" score="Y" text="Zendejas, A. kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Zendejas, A." qb="Zendejas, A." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="13"></score>
+   <drivesum plays="9" yards="63" top="1:37" driveindex="12" complete="Y"></drivesum>
+   <play hasball="ARIZ" down="1" togo="0" spot="ARIZ30" context="H,1,0,H30" playid="12,13,80" type="K" text="Zendejas, A. kickoff 48 yards to the CMU22, SCHROEDER, B. return 29 yards to the ARIZ49 (Golden, R.)." newcontext="V,1,10,H49">
+    <p_ko vh="H" name="Zendejas, A." gain="48"></p_ko>
+    <p_kr vh="V" name="SCHROEDER, B." gain="29"></p_kr>
+    <p_tk vh="H" name="Golden, R."></p_tk>
+   </play>
+   <drivestart poss="V,H49,08:20" vh="V" spot="H49" clock="08:20" driveindex="13,80"></drivestart>
+   <play hasball="CMU" down="1" togo="10" spot="ARIZ49" context="V,1,10,H49" playid="13,1,81" clock="06:13" text="CENTRAL MICH drive start at 06:13." newcontext="V,1,10,H49">
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="ARIZ49" context="V,1,10,H49" playid="13,2,82" type="P" text="LeFEVOUR, Dan pass complete to SCHROEDER, B. for loss of 5 yards to the CMU46 (Mikaele, L.)." newcontext="V,2,15,V46">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="SCHROEDER, B." gain="-5"></p_pa>
+    <p_tk vh="H" name="Mikaele, L." tfl="Y"></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="15" spot="CMU46" context="V,2,15,V46" playid="13,3,83" type="R" text="LeFEVOUR, Dan rush for 2 yards to the CMU48, out-of-bounds." ob="Y" newcontext="V,3,13,V48">
+    <p_ru vh="V" name="LeFEVOUR, Dan" gain="2"></p_ru>
+   </play>
+   <play hasball="CMU" down="3" togo="13" spot="CMU48" context="V,3,13,V48" playid="13,4,84" type="P" text="LeFEVOUR, Dan pass complete to BROWN, Antonio for 5 yards to the ARIZ47 (Hall, C.)." newcontext="V,4,8,H47">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="BROWN, Antonio" gain="5"></p_pa>
+    <p_tk vh="H" name="Hall, C."></p_tk>
+   </play>
+   <play hasball="CMU" down="4" togo="8" spot="ARIZ47" context="V,4,8,H47" playid="13,5,85" type="U" text="HARTMANN, Brett punt 41 yards to the ARIZ6, fair catch by Wright, W.." newcontext="H,1,10,H06">
+    <p_pu vh="V" name="HARTMANN, Brett" gain="41" in20="Y" fc="Wright, W."></p_pu>
+   </play>
+   <drivesum plays="3" yards="2" top="1:25" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H06,06:13" vh="H" spot="H06" clock="06:13" driveindex="14,85"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ06" context="H,1,10,H06" playid="14,1,86" clock="04:48" text="ARIZONA drive start at 04:48." newcontext="H,1,10,H06">
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ06" context="H,1,10,H06" playid="14,2,87" type="P" text="Scott, M. pass incomplete to Dean, D.." newcontext="H,2,10,H06">
+    <p_pa vh="H" qb="Scott, M." result="INC" rcv="Dean, D."></p_pa>
+   </play>
+   <play hasball="ARIZ" down="2" togo="10" spot="ARIZ06" context="H,2,10,H06" playid="14,3,88" type="P" text="Scott, M. pass complete to Dean, D. for no gain to the ARIZ6 (EDWARDS, K.)." newcontext="H,3,10,H06">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Dean, D." gain="0"></p_pa>
+    <p_tk vh="V" name="EDWARDS, K."></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="10" spot="ARIZ06" context="H,3,10,H06" playid="14,4,89" type="P" first="P" text="Scott, M. pass complete to Douglas, D. for 19 yards to the ARIZ25, 1ST DOWN ARIZ (FRASER, Eric)." newcontext="H,1,10,H25">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Douglas, D." gain="19"></p_pa>
+    <p_tk vh="V" name="FRASER, Eric"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ25" context="H,1,10,H25" playid="14,5,90" type="R" first="R" text="Grigsby, N. rush for 13 yards to the ARIZ38, 1ST DOWN ARIZ (BERNING, Matt;ZOMBO, Frank)." newcontext="H,1,10,H38">
+    <p_ru vh="H" name="Grigsby, N." gain="13"></p_ru>
+    <p_tk vh="V" name="BERNING, Matt" assist="Y"></p_tk>
+    <p_tk vh="V" name="ZOMBO, Frank" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ38" context="H,1,10,H38" playid="14,6,91" type="R" text="Grigsby, N. rush for 5 yards to the ARIZ43 (BELLORE, Nick)." newcontext="H,2,5,H43">
+    <p_ru vh="H" name="Grigsby, N." gain="5"></p_ru>
+    <p_tk vh="V" name="BELLORE, Nick"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="5" spot="ARIZ43" context="H,2,5,H43" playid="14,7,92" type="R" text="Grigsby, N. rush for 1 yard to the ARIZ44 (WILLIAMS, John)." newcontext="H,3,4,H44">
+    <p_ru vh="H" name="Grigsby, N." gain="1"></p_ru>
+    <p_tk vh="V" name="WILLIAMS, John"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="4" spot="ARIZ44" context="H,3,4,H44" playid="14,8,93" type="R" text="Scott, M. rush for 2 yards to the ARIZ46, PENALTY ARIZ illegal forward pass 5 yards to the ARIZ41." newcontext="H,4,7,H41">
+    <p_ru vh="H" name="Scott, M." gain="2"></p_ru>
+    <p_pn vh="H" code="FP" type="illegal forward pass" result="ACCEPT" at="H46" yards="5"></p_pn>
+   </play>
+   <play hasball="ARIZ" down="4" togo="7" spot="ARIZ41" context="H,4,7,H41" playid="14,9,94" text="4th and 7." newcontext="H,4,7,H41">
+   </play>
+   <play hasball="ARIZ" down="4" togo="7" spot="ARIZ41" context="H,4,7,H41" playid="14,10,95" type="U" text="Crier, K. punt 26 yards to the CMU33, out-of-bounds." ob="Y" newcontext="V,1,10,V33">
+    <p_pu vh="H" name="Crier, K." gain="26" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="35" top="3:22" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="V,V33,04:48" vh="V" spot="V33" clock="04:48" driveindex="15,95"></drivestart>
+   <play hasball="CMU" down="1" togo="10" spot="CMU33" context="V,1,10,V33" playid="15,1,96" clock="01:26" text="CENTRAL MICH drive start at 01:26." newcontext="V,1,10,V33">
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU33" context="V,1,10,V33" playid="15,2,97" type="P" text="LeFEVOUR, Dan pass complete to BROWN, Antonio for 7 yards to the CMU40 (Kelley, X.)." newcontext="V,2,3,V40">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="BROWN, Antonio" gain="7"></p_pa>
+    <p_tk vh="H" name="Kelley, X."></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="3" spot="CMU40" context="V,2,3,V40" playid="15,3,98" type="P" first="P" text="LeFEVOUR, Dan pass complete to POBLAH, Kito for 16 yards to the ARIZ44, 1ST DOWN CMU (Tuihalamaka, V.)." newcontext="V,1,10,H44">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="POBLAH, Kito" gain="16"></p_pa>
+    <p_tk vh="H" name="Tuihalamaka, V."></p_tk>
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="ARIZ44" context="V,1,10,H44" playid="15,4,99" type="P" first="P" text="LeFEVOUR, Dan pass complete to COTTON, Paris for 16 yards to the ARIZ28, 1ST DOWN CMU (Tuihalamaka, V.)." newcontext="V,1,10,H28">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="COTTON, Paris" gain="16"></p_pa>
+    <p_tk vh="H" name="Tuihalamaka, V."></p_tk>
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="ARIZ28" context="V,1,10,H28" playid="15,5,100" type="P" text="LeFEVOUR, Dan pass incomplete to WILSON, Cody." newcontext="V,2,10,H28">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INC" rcv="WILSON, Cody"></p_pa>
+   </play>
+   <play hasball="CMU" down="2" togo="10" spot="ARIZ28" context="V,2,10,H28" playid="15,6,101" type="P" text="LeFEVOUR, Dan pass complete to BROWN, Antonio for 6 yards to the ARIZ22 (Nelson, C.)." newcontext="V,3,4,H22">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="BROWN, Antonio" gain="6"></p_pa>
+    <p_tk vh="H" name="Nelson, C."></p_tk>
+   </play>
+   <play hasball="CMU" down="3" togo="4" spot="ARIZ22" context="V,3,4,H22" playid="15,7,102" type="P" text="LeFEVOUR, Dan pass incomplete to POBLAH, Kito." newcontext="V,4,4,H22">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INC" rcv="POBLAH, Kito"></p_pa>
+   </play>
+   <play hasball="CMU" down="4" togo="4" spot="ARIZ22" context="V,4,4,H22" playid="15,8,103" type="F" clock="00:26" text="AGUILA, Andrew field goal attempt from 39 MISSED - wide right, spot at ARIZ22, clock 00:26." newcontext="H,1,10,H22">
+    <p_fg vh="V" name="AGUILA, Andrew" distance="39" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="7" yards="45" top="1:00" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="H,H22,00:26" vh="H" spot="H22" clock="00:26" driveindex="16,103"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ22" context="H,1,10,H22" playid="16,1,104" clock="00:26" text="ARIZONA drive start at 00:26." newcontext="H,1,10,H22">
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ22" context="H,1,10,H22" playid="16,2,105" type="R" text="Team rush for loss of 1 yard to the ARIZ21." newcontext="H,2,11,H21">
+    <p_ru vh="H" name="Team" gain="-1"></p_ru>
+   </play>
+   <play hasball="ARIZ" down="2" togo="11" spot="ARIZ21" context="H,2,11,H21" playid="16,3,106" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,2,11,H21">
+   </play>
+   <drivesum plays="1" yards="-1" top="0:26" driveindex="16" complete="Y"></drivesum>
+   <score qtr="2" V="0" H="13"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CMU">
+    <firstdowns no="2" rush="0" pass="2" penalty="0"></firstdowns>
+    <penalties no="1" yds="4"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:28"></misc>
+    <rush att="3" yds="4" gain="4" loss="0" td="0" long="0"></rush>
+    <pass comp="8" att="12" int="0" yds="54" td="0" long="11" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="54" td="0" long="11"></rcv>
+    <punt no="3" yds="115" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="38.3"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="11" tacka="2" tot_tack="13" sacks="1" sackyds="6" brup="1"></defense>
+    <kr no="2" yds="43" td="0" long="11"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ARIZ">
+    <firstdowns no="6" rush="3" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="3" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:25"></misc>
+    <rush att="11" yds="44" gain="45" loss="1" td="1" long="2"></rush>
+    <pass comp="5" att="9" int="0" yds="63" td="0" long="4" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="63" td="0" long="4"></rcv>
+    <punt no="2" yds="81" long="13" blkd="0" tb="1" fc="0" plus50="1" inside20="0" avg="40.5"></punt>
+    <ko no="2" yds="110" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="9" tacka="4" tot_tack="13" tflua="1" tfla="0" tflyds="5" sacks="1" sackyds="8"></defense>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="ARIZ" down="2" togo="11" spot="ARIZ21" context="H,2,11,H21" playid="16,4,107" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, CMU ball on CMU30." newcontext="V,2,11,V30">
+   </play>
+   <play hasball="CMU" down="2" togo="11" spot="CMU30" context="V,2,11,V30" playid="16,5,108" type="K" text="AGUILA, Andrew kickoff 66 yards to the ARIZ4, Antolin, K. return 30 yards to the ARIZ34 (GORDY, Josh)." newcontext="H,1,10,H34">
+    <p_ko vh="V" name="AGUILA, Andrew" gain="66"></p_ko>
+    <p_kr vh="H" name="Antolin, K." gain="30"></p_kr>
+    <p_tk vh="V" name="GORDY, Josh"></p_tk>
+   </play>
+   <drivestart poss="H,H34,15:00" vh="H" spot="H34" clock="15:00" driveindex="17,108"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ34" context="H,1,10,H34" playid="17,1,109" clock="14:52" text="ARIZONA drive start at 14:52." newcontext="H,1,10,H34">
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ34" context="H,1,10,H34" playid="17,2,110" type="P" first="P" text="Scott, M. pass complete to Criner, J. for 17 yards to the CMU49, 1ST DOWN ARIZ (GORDY, Josh;STATEN, Armond)." newcontext="H,1,10,V49">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Criner, J." gain="17"></p_pa>
+    <p_tk vh="V" name="GORDY, Josh" assist="Y"></p_tk>
+    <p_tk vh="V" name="STATEN, Armond" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU49" context="H,1,10,V49" playid="17,3,111" type="R" first="R" text="Grigsby, N. rush for 16 yards to the CMU33, 1ST DOWN ARIZ (EDWARDS, K.)." newcontext="H,1,10,V33">
+    <p_ru vh="H" name="Grigsby, N." gain="16"></p_ru>
+    <p_tk vh="V" name="EDWARDS, K."></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU33" context="H,1,10,V33" playid="17,4,112" type="P" text="Scott, M. pass complete to Turner, T. for 7 yards to the CMU26 (WILLIAMS, Sam)." newcontext="H,2,3,V26">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Turner, T." gain="7"></p_pa>
+    <p_tk vh="V" name="WILLIAMS, Sam"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="3" spot="CMU26" context="H,2,3,V26" playid="17,5,113" type="R" text="Grigsby, N. rush for no gain to the CMU26 (KNIGHT, Larry)." newcontext="H,3,3,V26">
+    <p_ru vh="H" name="Grigsby, N." gain="0"></p_ru>
+    <p_tk vh="V" name="KNIGHT, Larry"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="3" spot="CMU26" context="H,3,3,V26" playid="17,6,114" type="P" text="Scott, M. pass incomplete to Criner, J.." newcontext="H,4,3,V26">
+    <p_pa vh="H" qb="Scott, M." result="INC" rcv="Criner, J."></p_pa>
+   </play>
+   <play hasball="ARIZ" down="4" togo="3" spot="CMU26" context="H,4,3,V26" playid="17,7,115" type="F" clock="12:18" text="Zendejas, A. field goal attempt from 43 MISSED - wide left, spot at CMU26, clock 12:18." newcontext="V,1,10,V26">
+    <p_fg vh="H" name="Zendejas, A." distance="43" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="6" yards="40" top="2:34" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V26,12:18" vh="V" spot="V26" clock="12:18" driveindex="18,115"></drivestart>
+   <play hasball="CMU" down="1" togo="10" spot="CMU26" context="V,1,10,V26" playid="18,1,116" clock="12:18" text="CENTRAL MICH drive start at 12:18." newcontext="V,1,10,V26">
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU26" context="V,1,10,V26" playid="18,2,117" type="R" text="BROWN, Antonio rush for 5 yards to the CMU31 (Elmore, R.)." newcontext="V,2,5,V31">
+    <p_ru vh="V" name="BROWN, Antonio" gain="5"></p_ru>
+    <p_tk vh="H" name="Elmore, R."></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="5" spot="CMU31" context="V,2,5,V31" playid="18,3,118" type="R" first="R" text="LeFEVOUR, Dan rush for 6 yards to the CMU37, 1ST DOWN CMU (Tuihalamaka, V.)." newcontext="V,1,10,V37">
+    <p_ru vh="V" name="LeFEVOUR, Dan" gain="6"></p_ru>
+    <p_tk vh="H" name="Tuihalamaka, V."></p_tk>
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU37" context="V,1,10,V37" playid="18,4,119" type="P" text="LeFEVOUR, Dan pass incomplete to POBLAH, Kito (Ross, D.)." newcontext="V,2,10,V37">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INC" rcv="POBLAH, Kito"></p_pa>
+    <p_bu vh="H" name="Ross, D."></p_bu>
+   </play>
+   <play hasball="CMU" down="2" togo="10" spot="CMU37" context="V,2,10,V37" playid="18,5,120" type="P" text="LeFEVOUR, Dan pass incomplete." newcontext="V,3,10,V37">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INC"></p_pa>
+   </play>
+   <play hasball="CMU" down="3" togo="10" spot="CMU37" context="V,3,10,V37" playid="18,6,121" type="P" text="LeFEVOUR, Dan pass incomplete." newcontext="V,4,10,V37">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INC"></p_pa>
+   </play>
+   <play hasball="CMU" down="4" togo="10" spot="CMU37" context="V,4,10,V37" playid="18,7,122" type="U" text="HARTMANN, Brett punt 37 yards to the ARIZ26, fair catch by Wright, W.." newcontext="H,1,10,H26">
+    <p_pu vh="V" name="HARTMANN, Brett" gain="37" fc="Wright, W."></p_pu>
+   </play>
+   <drivesum plays="5" yards="11" top="1:15" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,H26,12:18" vh="H" spot="H26" clock="12:18" driveindex="19,122"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ26" context="H,1,10,H26" playid="19,1,123" clock="11:03" text="ARIZONA drive start at 11:03." newcontext="H,1,10,H26">
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ26" context="H,1,10,H26" playid="19,2,124" type="P" text="Scott, M. pass complete to Roberts, D. for 6 yards to the ARIZ32 (BERNING, Matt)." newcontext="H,2,4,H32">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Roberts, D." gain="6"></p_pa>
+    <p_tk vh="V" name="BERNING, Matt"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="4" spot="ARIZ32" context="H,2,4,H32" playid="19,3,125" type="R" text="Grigsby, N. rush for no gain to the ARIZ32 (BERNING, Matt)." newcontext="H,3,4,H32">
+    <p_ru vh="H" name="Grigsby, N." gain="0"></p_ru>
+    <p_tk vh="V" name="BERNING, Matt"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="4" spot="ARIZ32" context="H,3,4,H32" playid="19,4,126" type="P" turnover="I" text="Scott, M. pass intercepted by GORDY, Josh at the CMU40, GORDY, Josh return 0 yards to the CMU40." newcontext="V,1,10,V40">
+    <p_pa vh="H" qb="Scott, M." result="INT"></p_pa>
+    <p_ir vh="V" name="GORDY, Josh" at="V40" gain="0"></p_ir>
+   </play>
+   <drivesum plays="3" yards="6" top="1:30" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V40,11:03" vh="V" spot="V40" clock="11:03" driveindex="20,126"></drivestart>
+   <play hasball="CMU" down="1" togo="10" spot="CMU40" context="V,1,10,V40" playid="20,1,127" clock="09:33" text="CENTRAL MICH drive start at 09:33." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU40" context="V,1,10,V40" playid="20,2,128" type="P" text="LeFEVOUR, Dan pass complete to BROWN, Antonio for 1 yard to the CMU41 (Golden, R.)." newcontext="V,2,9,V41">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="BROWN, Antonio" gain="1"></p_pa>
+    <p_tk vh="H" name="Golden, R."></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="9" spot="CMU41" context="V,2,9,V41" playid="20,3,129" type="P" first="P" text="LeFEVOUR, Dan pass complete to POBLAH, Kito for 12 yards to the ARIZ47, 1ST DOWN CMU (Kelley, X.)." newcontext="V,1,10,H47">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="POBLAH, Kito" gain="12"></p_pa>
+    <p_tk vh="H" name="Kelley, X."></p_tk>
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="ARIZ47" context="V,1,10,H47" playid="20,4,130" type="R" text="SCHROEDER, B. rush for 3 yards to the ARIZ44 (Lewis, S.)." newcontext="V,2,7,H44">
+    <p_ru vh="V" name="SCHROEDER, B." gain="3"></p_ru>
+    <p_tk vh="H" name="Lewis, S."></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="7" spot="ARIZ44" context="V,2,7,H44" playid="20,5,131" type="P" text="LeFEVOUR, Dan pass complete to ANDERSON, Bryan for 6 yards to the ARIZ38 (Ross, D.)." newcontext="V,3,1,H38">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="ANDERSON, Bryan" gain="6"></p_pa>
+    <p_tk vh="H" name="Ross, D."></p_tk>
+   </play>
+   <play hasball="CMU" down="3" togo="1" spot="ARIZ38" context="V,3,1,H38" playid="20,6,132" type="R" first="R" text="SCHROEDER, B. rush for 2 yards to the ARIZ36, 1ST DOWN CMU (Reed, B.)." newcontext="V,1,10,H36">
+    <p_ru vh="V" name="SCHROEDER, B." gain="2"></p_ru>
+    <p_tk vh="H" name="Reed, B."></p_tk>
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="ARIZ36" context="V,1,10,H36" playid="20,7,133" type="P" text="LeFEVOUR, Dan pass complete to BROWN, Antonio for 4 yards to the ARIZ32 (Golden, R.;Wade, T.)." newcontext="V,2,6,H32">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="BROWN, Antonio" gain="4"></p_pa>
+    <p_tk vh="H" name="Golden, R." assist="Y"></p_tk>
+    <p_tk vh="H" name="Wade, T." assist="Y"></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="6" spot="ARIZ32" context="V,2,6,H32" playid="20,8,134" type="P" text="LeFEVOUR, Dan sacked for loss of 4 yards to the ARIZ36 (Elmore, R.)." newcontext="V,3,10,H36">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="SACK" gain="-4"></p_pa>
+    <p_tk vh="H" name="Elmore, R." sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="CMU" down="3" togo="10" spot="ARIZ36" context="V,3,10,H36" playid="20,9,135" type="P" text="LeFEVOUR, Dan pass incomplete to VOLNY, Carl." newcontext="V,4,10,H36">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INC" rcv="VOLNY, Carl"></p_pa>
+   </play>
+   <play hasball="CMU" down="4" togo="10" spot="ARIZ36" context="V,4,10,H36" playid="20,10,136" type="U" text="LeFEVOUR, Dan punt 35 yards to the ARIZ1, downed." newcontext="H,1,10,H01">
+    <p_pu vh="V" name="LeFEVOUR, Dan" gain="35" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="8" yards="24" top="3:35" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,H01,09:33" vh="H" spot="H01" clock="09:33" driveindex="21,136"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ01" context="H,1,10,H01" playid="21,1,137" clock="05:58" text="ARIZONA drive start at 05:58." newcontext="H,1,10,H01">
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ01" context="H,1,10,H01" playid="21,2,138" type="R" text="Grigsby, N. rush for 1 yard to the ARIZ2 (WILLIAMS, Sam)." newcontext="H,2,9,H02">
+    <p_ru vh="H" name="Grigsby, N." gain="1"></p_ru>
+    <p_tk vh="V" name="WILLIAMS, Sam"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="9" spot="ARIZ02" context="H,2,9,H02" playid="21,3,139" type="P" first="P" text="Scott, M. pass complete to Turner, T. for 11 yards to the ARIZ13, 1ST DOWN ARIZ (GORDY, Josh)." newcontext="H,1,10,H13">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Turner, T." gain="11"></p_pa>
+    <p_tk vh="V" name="GORDY, Josh"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ13" context="H,1,10,H13" playid="21,4,140" type="P" first="P" text="Scott, M. pass complete to Gronkowski, C. for 16 yards to the ARIZ29, 1ST DOWN ARIZ (CARR, John)." newcontext="H,1,10,H29">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Gronkowski, C." gain="16"></p_pa>
+    <p_tk vh="V" name="CARR, John"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ29" context="H,1,10,H29" playid="21,5,141" type="R" first="R" text="Scott, M. rush for 11 yards to the ARIZ40, 1ST DOWN ARIZ (CARR, John)." newcontext="H,1,10,H40">
+    <p_ru vh="H" name="Scott, M." gain="11"></p_ru>
+    <p_tk vh="V" name="CARR, John"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ40" context="H,1,10,H40" playid="21,6,142" type="R" first="R" text="Scott, M. rush for 14 yards to the CMU46, 1ST DOWN ARIZ (BERNING, Matt)." newcontext="H,1,10,V46">
+    <p_ru vh="H" name="Scott, M." gain="14"></p_ru>
+    <p_tk vh="V" name="BERNING, Matt"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU46" context="H,1,10,V46" playid="21,7,143" type="R" text="Antolin, K. rush for 3 yards to the CMU43 (BRAZZEL, Tim)." newcontext="H,2,7,V43">
+    <p_ru vh="H" name="Antolin, K." gain="3"></p_ru>
+    <p_tk vh="V" name="BRAZZEL, Tim"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="7" spot="CMU43" context="H,2,7,V43" playid="21,8,144" type="P" text="Scott, M. pass complete to Criner, J. for 3 yards to the CMU40 (GORDY, Josh)." newcontext="H,3,4,V40">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Criner, J." gain="3"></p_pa>
+    <p_tk vh="V" name="GORDY, Josh"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="4" spot="CMU40" context="H,3,4,V40" playid="21,9,145" type="R" first="R" text="Scott, M. rush for 16 yards to the CMU24, 1ST DOWN ARIZ (FRASER, Eric)." newcontext="H,1,10,V24">
+    <p_ru vh="H" name="Scott, M." gain="16"></p_ru>
+    <p_tk vh="V" name="FRASER, Eric"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU24" context="H,1,10,V24" playid="21,10,146" type="R" text="Grigsby, N. rush for 4 yards to the CMU20 (BELLORE, Nick;WINSTON, Steve)." newcontext="H,2,6,V20">
+    <p_ru vh="H" name="Grigsby, N." gain="4"></p_ru>
+    <p_tk vh="V" name="BELLORE, Nick" assist="Y"></p_tk>
+    <p_tk vh="V" name="WINSTON, Steve" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="6" spot="CMU20" context="H,2,6,V20" playid="21,11,147" type="P" text="Scott, M. pass incomplete to Wright, W.." newcontext="H,3,6,V20">
+    <p_pa vh="H" qb="Scott, M." result="INC" rcv="Wright, W."></p_pa>
+   </play>
+   <play hasball="ARIZ" down="3" togo="6" spot="CMU20" context="H,3,6,V20" playid="21,12,148" type="P" text="Scott, M. pass incomplete to Douglas, D. (CARR, John)." newcontext="H,4,6,V20">
+    <p_pa vh="H" qb="Scott, M." result="INC" rcv="Douglas, D."></p_pa>
+    <p_bu vh="V" name="CARR, John"></p_bu>
+   </play>
+   <play hasball="ARIZ" down="4" togo="6" spot="CMU20" context="H,4,6,V20" playid="21,13,149" type="F" score="Y" clock="00:38" text="Zendejas, A. field goal attempt from 37 GOOD, clock 00:38." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Zendejas, A." distance="37" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="16"></score>
+   <drivesum plays="12" yards="79" top="5:20" driveindex="21" complete="Y"></drivesum>
+   <play hasball="ARIZ" down="1" togo="0" spot="ARIZ30" context="H,1,0,H30" playid="21,14,150" type="K" text="Zendejas, A. kickoff 62 yards to the CMU8, BROWN, Antonio return 19 yards to the CMU27 (Fischer, J.)." newcontext="V,1,10,V27">
+    <p_ko vh="H" name="Zendejas, A." gain="62"></p_ko>
+    <p_kr vh="V" name="BROWN, Antonio" gain="19"></p_kr>
+    <p_tk vh="H" name="Fischer, J."></p_tk>
+   </play>
+   <drivestart poss="V,V27,00:38" vh="V" spot="V27" clock="00:38" driveindex="22,150"></drivestart>
+   <play hasball="CMU" down="1" togo="10" spot="CMU27" context="V,1,10,V27" playid="22,1,151" clock="00:32" text="CENTRAL MICH drive start at 00:32." newcontext="V,1,10,V27">
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU27" context="V,1,10,V27" playid="22,2,152" type="R" text="PHILLIPS, Tim rush for 8 yards to the CMU35 (Ross, D.)." newcontext="V,2,2,V35">
+    <p_ru vh="V" name="PHILLIPS, Tim" gain="8"></p_ru>
+    <p_tk vh="H" name="Ross, D."></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="2" spot="CMU35" context="V,2,2,V35" playid="22,3,153" type="R" text="PHILLIPS, Tim rush for no gain to the CMU35 (Kelley, X.)." newcontext="V,3,2,V35">
+    <p_ru vh="V" name="PHILLIPS, Tim" gain="0"></p_ru>
+    <p_tk vh="H" name="Kelley, X."></p_tk>
+   </play>
+   <score qtr="3" V="0" H="16"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CMU">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:28"></misc>
+    <rush att="7" yds="20" gain="24" loss="4" td="0" long="1"></rush>
+    <pass comp="4" att="8" int="0" yds="23" td="0" long="0" sacks="1" sackyds="4"></pass>
+    <rcv no="4" yds="23" td="0" long="0"></rcv>
+    <punt no="2" yds="72" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="1" avg="36.0"></punt>
+    <ko no="1" yds="66" ob="0" tb="0"></ko>
+    <defense tackua="14" tacka="4" tot_tack="18" sacks="1" sackyds="6" brup="1" int="1" intyds="0"></defense>
+    <kr no="1" yds="19" td="0" long="0"></kr>
+    <ir no="1" yds="0" td="0" long="0"></ir>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ARIZ">
+    <firstdowns no="7" rush="4" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:32"></misc>
+    <rush att="9" yds="65" gain="65" loss="0" td="0" long="2"></rush>
+    <pass comp="6" att="10" int="1" yds="60" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="60" td="0" long="0"></rcv>
+    <ko no="1" yds="62" ob="0" tb="0"></ko>
+    <fg made="1" att="2" long="0" blkd="0"></fg>
+    <defense tackua="11" tacka="2" tot_tack="13" tflua="1" tfla="0" tflyds="4" sacks="2" sackyds="12" brup="1"></defense>
+    <kr no="1" yds="30" td="0" long="30"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="CMU" down="3" togo="2" spot="CMU35" context="V,3,2,V35" playid="22,4,154" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,3,2,V35">
+   </play>
+   <play hasball="CMU" down="3" togo="2" spot="CMU35" context="V,3,2,V35" playid="22,5,155" type="P" first="P" text="LeFEVOUR, Dan pass complete to POBLAH, Kito for 5 yards to the CMU40, 1ST DOWN CMU (Tuihalamaka, V.)." newcontext="V,1,10,V40">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="POBLAH, Kito" gain="5"></p_pa>
+    <p_tk vh="H" name="Tuihalamaka, V."></p_tk>
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU40" context="V,1,10,V40" playid="22,6,156" type="P" text="LeFEVOUR, Dan pass incomplete (Reed, B.)." newcontext="V,2,10,V40">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INC"></p_pa>
+    <p_bu vh="H" name="Reed, B."></p_bu>
+   </play>
+   <play hasball="CMU" down="2" togo="10" spot="CMU40" context="V,2,10,V40" playid="22,7,157" type="E" text="PENALTY CMU false start 5 yards to the CMU35." newcontext="V,2,15,V35">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V40" yards="5"></p_pn>
+   </play>
+   <play hasball="CMU" down="2" togo="15" spot="CMU35" context="V,2,15,V35" playid="22,8,158" type="E" first="E" text="LeFEVOUR, Dan pass incomplete to ANDERSON, Bryan, PENALTY ARIZ pass interference 15 yards to the 50 yardline, 1ST DOWN CMU, NO PLAY." newcontext="V,1,10,V50">
+    <p_pn vh="H" code="PI" type="pass interference" result="ACCEPT" at="V35" yards="15"></p_pn>
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU50" context="V,1,10,V50" playid="22,9,159" type="R" text="LeFEVOUR, Dan rush for 9 yards to the ARIZ41 (Nelson, C.)." newcontext="V,2,1,H41">
+    <p_ru vh="V" name="LeFEVOUR, Dan" gain="9"></p_ru>
+    <p_tk vh="H" name="Nelson, C."></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="1" spot="ARIZ41" context="V,2,1,H41" playid="22,10,160" type="R" first="R" text="LeFEVOUR, Dan rush for 7 yards to the ARIZ34, 1ST DOWN CMU (Tuihalamaka, V.)." newcontext="V,1,10,H34">
+    <p_ru vh="V" name="LeFEVOUR, Dan" gain="7"></p_ru>
+    <p_tk vh="H" name="Tuihalamaka, V."></p_tk>
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="ARIZ34" context="V,1,10,H34" playid="22,11,161" type="P" first="E" text="LeFEVOUR, Dan pass complete to SCHROEDER, B. for 5 yards to the ARIZ29 (Nelson, C.), PENALTY ARIZ personal foul 15 yards to the ARIZ14, 1ST DOWN CMU." newcontext="V,1,10,H14">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="SCHROEDER, B." gain="5"></p_pa>
+    <p_tk vh="H" name="Nelson, C."></p_tk>
+    <p_pn vh="H" code="PF" type="personal foul" result="ACCEPT" at="H29" yards="15"></p_pn>
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="ARIZ14" context="V,1,10,H14" playid="22,12,162" text="1st and 10." newcontext="V,1,10,H14">
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="ARIZ14" context="V,1,10,H14" playid="22,13,163" type="P" text="LeFEVOUR, Dan pass complete to ANDERSON, Bryan for 9 yards to the ARIZ5 (Ross, D.)." newcontext="V,2,1,H05">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="ANDERSON, Bryan" gain="9"></p_pa>
+    <p_tk vh="H" name="Ross, D."></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="1" spot="ARIZ05" context="V,2,1,H05" playid="22,14,164" type="R" first="R" score="Y" clock="12:21" text="LeFEVOUR, Dan rush for 5 yards to the ARIZ0, 1ST DOWN CMU, TOUCHDOWN, clock 12:21." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="LeFEVOUR, Dan" gain="5"></p_ru>
+   </play>
+   <play hasball="CMU" down="1" togo="0" spot="ARIZ03" context="V,1,0,H03" playid="22,15,165" type="X" text="LeFEVOUR, Dan rush attempt failed." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="LeFEVOUR, Dan" qb="LeFEVOUR, Dan" type="R" result="MISSED"></p_pat>
+   </play>
+   <score V="6" H="16"></score>
+   <drivesum plays="9" yards="73" top="3:11" driveindex="22" complete="Y"></drivesum>
+   <play hasball="CMU" down="1" togo="0" spot="CMU30" context="V,1,0,V30" playid="22,16,166" type="K" text="AGUILA, Andrew kickoff 61 yards to the ARIZ9, Antolin, K. return 34 yards to the ARIZ43 (CARTER, Landon)." newcontext="H,1,10,H43">
+    <p_ko vh="V" name="AGUILA, Andrew" gain="61"></p_ko>
+    <p_kr vh="H" name="Antolin, K." gain="34"></p_kr>
+    <p_tk vh="V" name="CARTER, Landon"></p_tk>
+   </play>
+   <drivestart poss="H,H43,12:21" vh="H" spot="H43" clock="12:21" driveindex="23,166"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ43" context="H,1,10,H43" playid="23,1,167" clock="12:12" text="ARIZONA drive start at 12:12." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ43" context="H,1,10,H43" playid="23,2,168" type="R" text="Grigsby, N. rush for 8 yards to the CMU49 (MURNANE, Sean)." newcontext="H,2,2,V49">
+    <p_ru vh="H" name="Grigsby, N." gain="8"></p_ru>
+    <p_tk vh="V" name="MURNANE, Sean"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="2" spot="CMU49" context="H,2,2,V49" playid="23,3,169" type="R" first="R" text="Grigsby, N. rush for 24 yards to the CMU25, 1ST DOWN ARIZ (EDWARDS, K.)." newcontext="H,1,10,V25">
+    <p_ru vh="H" name="Grigsby, N." gain="24"></p_ru>
+    <p_tk vh="V" name="EDWARDS, K."></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU25" context="H,1,10,V25" playid="23,4,170" type="R" text="Grigsby, N. rush for loss of 1 yard to the CMU26 (BELLORE, Nick)." newcontext="H,2,11,V26">
+    <p_ru vh="H" name="Grigsby, N." gain="-1"></p_ru>
+    <p_tk vh="V" name="BELLORE, Nick" tfl="Y"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="11" spot="CMU26" context="H,2,11,V26" playid="23,5,171" type="R" text="Antolin, K. rush for 6 yards to the CMU20 (EDWARDS, K.)." newcontext="H,3,5,V20">
+    <p_ru vh="H" name="Antolin, K." gain="6"></p_ru>
+    <p_tk vh="V" name="EDWARDS, K."></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="5" spot="CMU20" context="H,3,5,V20" playid="23,6,172" type="P" text="Scott, M. pass complete to Douglas, D. for 3 yards to the CMU17 (BELLORE, Nick)." newcontext="H,4,2,V17">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Douglas, D." gain="3"></p_pa>
+    <p_tk vh="V" name="BELLORE, Nick"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="4" togo="2" spot="CMU17" context="H,4,2,V17" playid="23,7,173" type="F" score="Y" clock="08:45" text="Zendejas, A. field goal attempt from 35 GOOD, clock 08:45." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Zendejas, A." distance="35" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="6" H="19"></score>
+   <drivesum plays="6" yards="40" top="3:27" driveindex="23" complete="Y"></drivesum>
+   <play hasball="ARIZ" down="1" togo="0" spot="ARIZ30" context="H,1,0,H30" playid="23,8,174" type="K" text="Zendejas, A. kickoff 63 yards to the CMU7, BROWN, Antonio return 15 yards to the CMU22 (Vargas, O.)." newcontext="V,1,10,V22">
+    <p_ko vh="H" name="Zendejas, A." gain="63"></p_ko>
+    <p_kr vh="V" name="BROWN, Antonio" gain="15"></p_kr>
+    <p_tk vh="H" name="Vargas, O."></p_tk>
+   </play>
+   <drivestart poss="V,V22,08:45" vh="V" spot="V22" clock="08:45" driveindex="24,174"></drivestart>
+   <play hasball="CMU" down="1" togo="10" spot="CMU22" context="V,1,10,V22" playid="24,1,175" clock="08:40" text="CENTRAL MICH drive start at 08:40." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU22" context="V,1,10,V22" playid="24,2,176" type="R" text="SCHROEDER, B. rush for 4 yards to the CMU26 (Elmore, R.)." newcontext="V,2,6,V26">
+    <p_ru vh="V" name="SCHROEDER, B." gain="4"></p_ru>
+    <p_tk vh="H" name="Elmore, R."></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="6" spot="CMU26" context="V,2,6,V26" playid="24,3,177" type="R" first="R" text="BROWN, Antonio rush for 19 yards to the CMU45, 1ST DOWN CMU (Kelley, X.;Ross, D.)." newcontext="V,1,10,V45">
+    <p_ru vh="V" name="BROWN, Antonio" gain="19"></p_ru>
+    <p_tk vh="H" name="Kelley, X." assist="Y"></p_tk>
+    <p_tk vh="H" name="Ross, D." assist="Y"></p_tk>
+   </play>
+   <play hasball="CMU" down="1" togo="10" spot="CMU45" context="V,1,10,V45" playid="24,4,178" type="P" text="LeFEVOUR, Dan pass complete to SCHROEDER, B. for 3 yards to the CMU48 (Tuihalamaka, V.;Horton, D.)." newcontext="V,2,7,V48">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="COMP" rcv="SCHROEDER, B." gain="3"></p_pa>
+    <p_tk vh="H" name="Tuihalamaka, V." assist="Y"></p_tk>
+    <p_tk vh="H" name="Horton, D." assist="Y"></p_tk>
+   </play>
+   <play hasball="CMU" down="2" togo="7" spot="CMU48" context="V,2,7,V48" playid="24,5,179" type="R" text="LeFEVOUR, Dan rush for 1 yard to the CMU49 (Tuihalamaka, V.)." newcontext="V,3,6,V49">
+    <p_ru vh="V" name="LeFEVOUR, Dan" gain="1"></p_ru>
+    <p_tk vh="H" name="Tuihalamaka, V."></p_tk>
+   </play>
+   <play hasball="CMU" down="3" togo="6" spot="CMU49" context="V,3,6,V49" playid="24,6,180" type="P" text="LeFEVOUR, Dan pass incomplete to ANDERSON, Bryan." newcontext="V,4,6,V49">
+    <p_pa vh="V" qb="LeFEVOUR, Dan" result="INC" rcv="ANDERSON, Bryan"></p_pa>
+   </play>
+   <play hasball="CMU" down="4" togo="6" spot="CMU49" context="V,4,6,V49" playid="24,7,181" type="U" text="HARTMANN, Brett punt 39 yards to the ARIZ12, downed." newcontext="H,1,10,H12">
+    <p_pu vh="V" name="HARTMANN, Brett" gain="39" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="5" yards="27" top="2:12" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,H12,08:40" vh="H" spot="H12" clock="08:40" driveindex="25,181"></drivestart>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ12" context="H,1,10,H12" playid="25,1,182" clock="06:28" text="ARIZONA drive start at 06:28." newcontext="H,1,10,H12">
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ12" context="H,1,10,H12" playid="25,2,183" type="R" text="Grigsby, N. rush for 2 yards to the ARIZ14 (BERNING, Matt)." newcontext="H,2,8,H14">
+    <p_ru vh="H" name="Grigsby, N." gain="2"></p_ru>
+    <p_tk vh="V" name="BERNING, Matt"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="8" spot="ARIZ14" context="H,2,8,H14" playid="25,3,184" type="P" first="P" text="Scott, M. pass complete to Dean, D. for 12 yards to the ARIZ26, 1ST DOWN ARIZ, out-of-bounds." ob="Y" newcontext="H,1,10,H26">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Dean, D." gain="12"></p_pa>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ26" context="H,1,10,H26" playid="25,4,185" type="R" text="Grigsby, N. rush for 2 yards to the ARIZ28 (BERNING, Matt)." newcontext="H,2,8,H28">
+    <p_ru vh="H" name="Grigsby, N." gain="2"></p_ru>
+    <p_tk vh="V" name="BERNING, Matt"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="8" spot="ARIZ28" context="H,2,8,H28" playid="25,5,186" type="R" first="R" text="Grigsby, N. rush for 10 yards to the ARIZ38, 1ST DOWN ARIZ (PETRUCCI, Mike)." newcontext="H,1,10,H38">
+    <p_ru vh="H" name="Grigsby, N." gain="10"></p_ru>
+    <p_tk vh="V" name="PETRUCCI, Mike"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="ARIZ38" context="H,1,10,H38" playid="25,6,187" type="R" first="R" text="Scott, M. rush for 13 yards to the CMU49, 1ST DOWN ARIZ (BOLDEN, Dannie)." newcontext="H,1,10,V49">
+    <p_ru vh="H" name="Scott, M." gain="13"></p_ru>
+    <p_tk vh="V" name="BOLDEN, Dannie"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU49" context="H,1,10,V49" playid="25,7,188" type="R" text="Antolin, K. rush for 1 yard to the CMU48 (BERNING, Matt)." newcontext="H,2,9,V48">
+    <p_ru vh="H" name="Antolin, K." gain="1"></p_ru>
+    <p_tk vh="V" name="BERNING, Matt"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="9" spot="CMU48" context="H,2,9,V48" playid="25,8,189" type="R" text="Grigsby, N. rush for 6 yards to the CMU42 (FRASER, Eric)." newcontext="H,3,3,V42">
+    <p_ru vh="H" name="Grigsby, N." gain="6"></p_ru>
+    <p_tk vh="V" name="FRASER, Eric"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="3" togo="3" spot="CMU42" context="H,3,3,V42" playid="25,9,190" type="#" clock="02:45" text="Timeout Central Mich, clock 02:45." newcontext="H,3,3,V42">
+    <p_to vh="V" team="Central Mich"></p_to>
+   </play>
+   <play hasball="ARIZ" down="3" togo="3" spot="CMU42" context="H,3,3,V42" playid="25,10,191" type="R" first="R" text="Scott, M. rush for 6 yards to the CMU36, 1ST DOWN ARIZ, out-of-bounds." ob="Y" newcontext="H,1,10,V36">
+    <p_ru vh="H" name="Scott, M." gain="6"></p_ru>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU36" context="H,1,10,V36" playid="25,11,192" type="R" text="Antolin, K. rush for 3 yards to the CMU33 (PETRUCCI, Mike;BERNING, Matt)." newcontext="H,2,7,V33">
+    <p_ru vh="H" name="Antolin, K." gain="3"></p_ru>
+    <p_tk vh="V" name="PETRUCCI, Mike" assist="Y"></p_tk>
+    <p_tk vh="V" name="BERNING, Matt" assist="Y"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="7" spot="CMU33" context="H,2,7,V33" playid="25,12,193" type="P" first="P" text="Scott, M. pass complete to Turner, T. for 12 yards to the CMU21, 1ST DOWN ARIZ (FRASER, Eric)." newcontext="H,1,10,V21">
+    <p_pa vh="H" qb="Scott, M." result="COMP" rcv="Turner, T." gain="12"></p_pa>
+    <p_tk vh="V" name="FRASER, Eric"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="10" spot="CMU21" context="H,1,10,V21" playid="25,13,194" type="R" first="R" text="Scott, M. rush for 13 yards to the CMU8, 1ST DOWN ARIZ (PETRUCCI, Mike)." newcontext="H,1,0,V08">
+    <p_ru vh="H" name="Scott, M." gain="13"></p_ru>
+    <p_tk vh="V" name="PETRUCCI, Mike"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="1" togo="0" spot="CMU08" context="H,1,0,V08" playid="25,14,195" type="R" text="Grigsby, N. rush for 7 yards to the CMU1 (FRASER, Kashawn)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Grigsby, N." gain="7"></p_ru>
+    <p_tk vh="V" name="FRASER, Kashawn"></p_tk>
+   </play>
+   <play hasball="ARIZ" down="2" togo="0" spot="CMU01" context="H,2,0,V01" playid="25,15,196" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,2,0,V01">
+   </play>
+   <drivesum plays="12" yards="87" top="6:28" driveindex="25" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Arizona defeats C. Michigan by a score of 19 to 6."></play>
+   <score final="Y" V="6" H="19"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="CMU">
+    <firstdowns no="6" rush="3" pass="1" penalty="2"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:56"></misc>
+    <rush att="6" yds="45" gain="45" loss="0" td="1" long="11"></rush>
+    <pass comp="4" att="6" int="0" yds="22" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="22" td="0" long="0"></rcv>
+    <punt no="1" yds="39" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="39.0"></punt>
+    <ko no="1" yds="61" ob="0" tb="0"></ko>
+    <pat rushatt="1" rushmade="0"></pat>
+    <defense tackua="15" tacka="2" tot_tack="17" tflua="1" tfla="0" tflyds="1" sacks="1" sackyds="6"></defense>
+    <kr no="1" yds="15" td="0" long="0"></kr>
+    <scoring td="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="ARIZ">
+    <firstdowns no="7" rush="5" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="30"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:04"></misc>
+    <rush att="14" yds="100" gain="101" loss="1" td="0" long="8"></rush>
+    <pass comp="3" att="3" int="0" yds="27" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="27" td="0" long="0"></rcv>
+    <ko no="1" yds="63" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <defense tackua="8" tacka="4" tot_tack="12" sacks="2" sackyds="12" brup="1"></defense>
+    <kr no="1" yds="34" td="0" long="4"></kr>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="ARIZ" down="2" togo="0" spot="CMU01" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="2" htor="3" dtgtext="Game Over" ldtext="Drive started: 06:28, 4th Qtr"></downtogo>
+ </plays>

@@ -1,0 +1,1009 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="FOR" down="1" togo="10" spot="FOR30" context="V,1,10,V30" playid="0,1,0" text="URI receives opening kick" newcontext="V,1,10,V30">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR30" context="V,1,10,V30" playid="0,2,1" type="K" text="Heinowitz, Kevi kickoff 61 yards to the URI9, Johnson-Farrell return 70 yards to the FOR21 (Heinowitz, Kevi)." newcontext="H,1,10,V21">
+    <p_ko vh="V" name="Heinowitz, Kevi" gain="61"></p_ko>
+    <p_kr vh="H" name="Johnson-Farrell" gain="70"></p_kr>
+    <p_tk vh="V" name="Heinowitz, Kevi"></p_tk>
+   </play>
+   <drivestart poss="H,V21,15:00" vh="H" spot="V21" clock="15:00" driveindex="1,1"></drivestart>
+   <play hasball="URI" down="1" togo="10" spot="FOR21" context="H,1,10,V21" playid="1,1,2" type="R" text="Lawrence rush for 4 yards to the FOR17 (Leake, Isaiah)." newcontext="H,2,6,V17">
+    <p_ru vh="H" name="Lawrence" gain="4"></p_ru>
+    <p_tk vh="V" name="Leake, Isaiah"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="6" spot="FOR17" context="H,2,6,V17" playid="1,2,3" type="P" first="P" text="Paul-Etienne pass complete to Bellini for 9 yards to the FOR8, 1ST DOWN URI (Wilson, Bryson)." newcontext="H,1,0,V08">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Bellini" gain="9"></p_pa>
+    <p_tk vh="V" name="Wilson, Bryson"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="0" spot="FOR08" context="H,1,0,V08" playid="1,3,4" type="R" text="Paul-Etienne rush for 7 yards to the FOR1 (Colbert, Kelvin)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="Paul-Etienne" gain="7"></p_ru>
+    <p_tk vh="V" name="Colbert, Kelvin"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="0" spot="FOR01" context="H,2,0,V01" playid="1,4,5" type="R" score="Y" clock="12:57" text="Ferrer rush for 1 yard to the FOR0, TOUCHDOWN, clock 12:57." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Ferrer" gain="1"></p_ru>
+   </play>
+   <play hasball="URI" down="1" togo="0" spot="FOR03" context="H,1,0,V03" playid="1,5,6" type="X" score="Y" text="Feinstein kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Feinstein" qb="Feinstein" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="4" yards="21" top="2:03" driveindex="1" complete="Y"></drivesum>
+   <play hasball="URI" down="1" togo="0" spot="URI30" context="H,1,0,H30" playid="1,6,7" type="K" text="Feinstein kickoff 62 yards to the FOR8, Allen, Isiejah return 27 yards to the FOR35 (Dalton)." newcontext="V,1,10,V35">
+    <p_ko vh="H" name="Feinstein" gain="62"></p_ko>
+    <p_kr vh="V" name="Allen, Isiejah" gain="27"></p_kr>
+    <p_tk vh="H" name="Dalton"></p_tk>
+   </play>
+   <drivestart poss="V,V35,12:57" vh="V" spot="V35" clock="12:57" driveindex="2,7"></drivestart>
+   <play hasball="FOR" down="1" togo="10" spot="FOR35" context="V,1,10,V35" playid="2,1,8" clock="12:50" text="FORDHAM drive start at 12:50." newcontext="V,1,10,V35">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR35" context="V,1,10,V35" playid="2,2,9" type="P" text="Skelton, John pass incomplete to Moore, David." newcontext="V,2,10,V35">
+    <p_pa vh="V" qb="Skelton, John" result="INC" rcv="Moore, David"></p_pa>
+   </play>
+   <play hasball="FOR" down="2" togo="10" spot="FOR35" context="V,2,10,V35" playid="2,3,10" type="R" text="Martin, Xavier rush for loss of 2 yards to the FOR33 (Shields;McGinnis)." newcontext="V,3,12,V33">
+    <p_ru vh="V" name="Martin, Xavier" gain="-2"></p_ru>
+    <p_tk vh="H" name="Shields" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="McGinnis" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="FOR" down="3" togo="12" spot="FOR33" context="V,3,12,V33" playid="2,4,11" type="P" text="Skelton, John pass incomplete to Moore, David." newcontext="V,4,12,V33">
+    <p_pa vh="V" qb="Skelton, John" result="INC" rcv="Moore, David"></p_pa>
+   </play>
+   <play hasball="FOR" down="4" togo="12" spot="FOR33" context="V,4,12,V33" playid="2,5,12" type="U" text="Dean, Cameron punt 43 yards to the URI24, Johnson-Farrell return 3 yards to the URI27 (Daley, Ben)." newcontext="H,1,10,H27">
+    <p_pu vh="V" name="Dean, Cameron" gain="43"></p_pu>
+    <p_pr vh="H" name="Johnson-Farrell" gain="3"></p_pr>
+    <p_tk vh="V" name="Daley, Ben"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-2" top="0:50" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H27,12:50" vh="H" spot="H27" clock="12:50" driveindex="3,12"></drivestart>
+   <play hasball="URI" down="1" togo="10" spot="URI27" context="H,1,10,H27" playid="3,1,13" clock="12:00" text="RHODE ISLAND drive start at 12:00." newcontext="H,1,10,H27">
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="URI27" context="H,1,10,H27" playid="3,2,14" type="R" text="Ferrer rush for 6 yards to the URI33 (Allen, Isiejah)." newcontext="H,2,4,H33">
+    <p_ru vh="H" name="Ferrer" gain="6"></p_ru>
+    <p_tk vh="V" name="Allen, Isiejah"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="4" spot="URI33" context="H,2,4,H33" playid="3,3,15" type="P" text="Paul-Etienne pass incomplete to Bellini." newcontext="H,3,4,H33">
+    <p_pa vh="H" qb="Paul-Etienne" result="INC" rcv="Bellini"></p_pa>
+   </play>
+   <play hasball="URI" down="3" togo="4" spot="URI33" context="H,3,4,H33" playid="3,4,16" type="P" first="P" text="Paul-Etienne pass complete to Bellini for 20 yards to the FOR47, 1ST DOWN URI (Colbert, Kelvin)." newcontext="H,1,10,V47">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Bellini" gain="20"></p_pa>
+    <p_tk vh="V" name="Colbert, Kelvin"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR47" context="H,1,10,V47" playid="3,5,17" type="R" first="R" text="Bellini rush for 35 yards to the FOR12, 1ST DOWN URI (Delaire, Andre)." newcontext="H,1,10,V12">
+    <p_ru vh="H" name="Bellini" gain="35"></p_ru>
+    <p_tk vh="V" name="Delaire, Andre"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR12" context="H,1,10,V12" playid="3,6,18" type="R" text="Lawrence rush for 2 yards to the FOR10 (Stuckey, Cliff)." newcontext="H,2,8,V10">
+    <p_ru vh="H" name="Lawrence" gain="2"></p_ru>
+    <p_tk vh="V" name="Stuckey, Cliff"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="8" spot="FOR10" context="H,2,8,V10" playid="3,7,19" type="P" text="Paul-Etienne pass complete to Law Jr for 2 yards to the FOR8 (Allen, Isiejah)." newcontext="H,3,6,V08">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Law Jr" gain="2"></p_pa>
+    <p_tk vh="V" name="Allen, Isiejah"></p_tk>
+   </play>
+   <play hasball="URI" down="3" togo="6" spot="FOR08" context="H,3,6,V08" playid="3,8,20" type="P" text="Paul-Etienne pass incomplete to Law Jr." newcontext="H,4,6,V08">
+    <p_pa vh="H" qb="Paul-Etienne" result="INC" rcv="Law Jr"></p_pa>
+   </play>
+   <play hasball="URI" down="4" togo="6" spot="FOR08" context="H,4,6,V08" playid="3,9,21" type="F" score="Y" clock="08:51" text="Feinstein field goal attempt from 25 GOOD, clock 08:51." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Feinstein" distance="25" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="10"></score>
+   <drivesum plays="8" yards="65" top="3:09" driveindex="3" complete="Y"></drivesum>
+   <play hasball="URI" down="1" togo="0" spot="URI30" context="H,1,0,H30" playid="3,10,22" type="K" text="Feinstein kickoff 54 yards to the FOR16, Allen, Isiejah return 15 yards to the FOR31 (Glenn;Damon)." newcontext="V,1,10,V31">
+    <p_ko vh="H" name="Feinstein" gain="54"></p_ko>
+    <p_kr vh="V" name="Allen, Isiejah" gain="15"></p_kr>
+    <p_tk vh="H" name="Glenn" assist="Y"></p_tk>
+    <p_tk vh="H" name="Damon" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V31,08:51" vh="V" spot="V31" clock="08:51" driveindex="4,22"></drivestart>
+   <play hasball="FOR" down="1" togo="10" spot="FOR31" context="V,1,10,V31" playid="4,1,23" clock="08:41" text="FORDHAM drive start at 08:41." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR31" context="V,1,10,V31" playid="4,2,24" type="E" text="Martin, Xavier rush for 6 yards to the FOR37 (Glenn), PENALTY URI OFF (Shields) 5 yards to the FOR36, NO PLAY." newcontext="V,1,5,V36">
+    <p_pn vh="H" code="OFF" type="OFF" name="Shields" result="ACCEPT" at="V31" yards="5"></p_pn>
+   </play>
+   <play hasball="FOR" down="1" togo="5" spot="FOR36" context="V,1,5,V36" playid="4,3,25" type="P" text="Skelton, John pass complete to Caldwell, Jason for 1 yard to the FOR37 (Williams)." newcontext="V,2,4,V37">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Caldwell, Jason" gain="1"></p_pa>
+    <p_tk vh="H" name="Williams"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="4" spot="FOR37" context="V,2,4,V37" playid="4,4,26" type="R" text="Martin, Xavier rush for 3 yards to the FOR40 (McGinnis)." newcontext="V,3,1,V40">
+    <p_ru vh="V" name="Martin, Xavier" gain="3"></p_ru>
+    <p_tk vh="H" name="McGinnis"></p_tk>
+   </play>
+   <play hasball="FOR" down="3" togo="1" spot="FOR40" context="V,3,1,V40" playid="4,5,27" type="R" first="R" text="Martin, Xavier rush for 3 yards to the FOR43, 1ST DOWN FOR (Adesanya)." newcontext="V,1,10,V43">
+    <p_ru vh="V" name="Martin, Xavier" gain="3"></p_ru>
+    <p_tk vh="H" name="Adesanya"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR43" context="V,1,10,V43" playid="4,6,28" type="P" text="Skelton, John pass complete to Moore, David for 9 yards to the URI48, out-of-bounds (Williams)." ob="Y" newcontext="V,2,1,H48">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Moore, David" gain="9"></p_pa>
+    <p_tk vh="H" name="Williams"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="1" spot="URI48" context="V,2,1,H48" playid="4,7,29" type="R" text="Skelton, John rush for no gain to the URI48, fumble by Skelton, John recovered by FOR Skelton, John at FOR48." newcontext="V,3,5,V48">
+    <p_ru vh="V" name="Skelton, John" gain="0"></p_ru>
+    <p_fumb vh="V" name="Skelton, John" at="V48" frvh="V" frname="Skelton, John"></p_fumb>
+   </play>
+   <play hasball="FOR" down="3" togo="5" spot="FOR48" context="V,3,5,V48" playid="4,8,30" type="P" first="P" text="Skelton, John pass complete to Moore, David for 24 yards to the URI28, 1ST DOWN FOR, out-of-bounds (Mitchell)." ob="Y" newcontext="V,1,10,H28">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Moore, David" gain="24"></p_pa>
+    <p_tk vh="H" name="Mitchell"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI28" context="V,1,10,H28" playid="4,9,31" type="P" text="Skelton, John pass incomplete to Caldwell, Jason (Glenn)." newcontext="V,2,10,H28">
+    <p_pa vh="V" qb="Skelton, John" result="INC" rcv="Caldwell, Jason"></p_pa>
+    <p_bu vh="H" name="Glenn"></p_bu>
+   </play>
+   <play hasball="FOR" down="2" togo="10" spot="URI28" context="V,2,10,H28" playid="4,10,32" type="R" text="Martin, Xavier rush for loss of 4 yards to the URI32 (Adesanya)." newcontext="V,3,14,H32">
+    <p_ru vh="V" name="Martin, Xavier" gain="-4"></p_ru>
+    <p_tk vh="H" name="Adesanya" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FOR" down="3" togo="14" spot="URI32" context="V,3,14,H32" playid="4,11,33" type="P" text="Skelton, John pass incomplete to Pierre, Brad, dropped pass." newcontext="V,4,14,H32">
+    <p_pa vh="V" qb="Skelton, John" result="DROP" rcv="Pierre, Brad"></p_pa>
+   </play>
+   <play hasball="FOR" down="4" togo="14" spot="URI32" context="V,4,14,H32" playid="4,12,34" type="E" text="PENALTY FOR false start (Vandyck, Adnan) 5 yards to the URI37." newcontext="V,4,19,H37">
+    <p_pn vh="V" code="FS" type="false start" name="Vandyck, Adnan" result="ACCEPT" at="H32" yards="5"></p_pn>
+   </play>
+   <play hasball="FOR" down="4" togo="19" spot="URI37" context="V,4,19,H37" playid="4,13,35" type="U" text="Dean, Cameron punt 37 yards to the URI0, touchback." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Dean, Cameron" gain="37" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="9" yards="32" top="3:05" driveindex="4" complete="Y"></drivesum>
+   <drivestart poss="H,H20,08:41" vh="H" spot="H20" clock="08:41" driveindex="5,35"></drivestart>
+   <play hasball="URI" down="1" togo="10" spot="URI20" context="H,1,10,H20" playid="5,1,36" clock="05:36" text="RHODE ISLAND drive start at 05:36." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="URI20" context="H,1,10,H20" playid="5,2,37" type="P" text="Paul-Etienne pass incomplete to Johnson-Farrell (Allen, Isiejah)." newcontext="H,2,10,H20">
+    <p_pa vh="H" qb="Paul-Etienne" result="BRUP" rcv="Johnson-Farrell"></p_pa>
+    <p_bu vh="V" name="Allen, Isiejah"></p_bu>
+   </play>
+   <play hasball="URI" down="2" togo="10" spot="URI20" context="H,2,10,H20" playid="5,3,38" type="R" text="Paul-Etienne rush for no gain to the URI20 (Bledsoe, Jordan)." newcontext="H,3,10,H20">
+    <p_ru vh="H" name="Paul-Etienne" gain="0"></p_ru>
+    <p_tk vh="V" name="Bledsoe, Jordan"></p_tk>
+   </play>
+   <play hasball="URI" down="3" togo="10" spot="URI20" context="H,3,10,H20" playid="5,4,39" type="P" first="P" text="Paul-Etienne pass complete to Bynum for 43 yards to the FOR37, 1ST DOWN URI, PENALTY FOR pass interference declined." newcontext="H,1,10,V37">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Bynum" gain="43"></p_pa>
+    <p_pn vh="V" code="PI" type="pass interference" name="Robinson, Darry" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR37" context="H,1,10,V37" playid="5,5,40" type="R" text="Lawrence rush for 2 yards to the FOR35 (Leake, Isaiah)." newcontext="H,2,8,V35">
+    <p_ru vh="H" name="Lawrence" gain="2"></p_ru>
+    <p_tk vh="V" name="Leake, Isaiah"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="8" spot="FOR35" context="H,2,8,V35" playid="5,6,41" type="P" first="P" text="Paul-Etienne pass complete to Bellini for 8 yards to the FOR27, 1ST DOWN URI." newcontext="H,1,10,V27">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Bellini" gain="8"></p_pa>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR27" context="H,1,10,V27" playid="5,7,42" type="#" clock="03:16" text="Timeout Rhode Island, clock 03:16." newcontext="H,1,10,V27">
+    <p_to vh="H" team="Rhode Island"></p_to>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR27" context="H,1,10,V27" playid="5,8,43" type="P" first="P" text="Paul-Etienne pass complete to Bynum for 11 yards to the FOR16, 1ST DOWN URI (Abdul El-Quddus)." newcontext="H,1,10,V16">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Bynum" gain="11"></p_pa>
+    <p_tk vh="V" name="Abdul El-Quddus"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR16" context="H,1,10,V16" playid="5,9,44" type="E" text="Paul-Etienne rush for 6 yards to the FOR10 (Bledsoe, Jordan), PENALTY URI HOLD (Foster) 10 yards to the FOR26, NO PLAY." newcontext="H,1,20,V26">
+    <p_pn vh="H" code="HOLD" type="HOLD" name="Foster" result="ACCEPT" at="V16" yards="10"></p_pn>
+   </play>
+   <play hasball="URI" down="1" togo="20" spot="FOR26" context="H,1,20,V26" playid="5,10,45" type="P" text="Paul-Etienne pass complete to Johnson-Farrell for 14 yards to the FOR12." newcontext="H,2,6,V12">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Johnson-Farrell" gain="14"></p_pa>
+   </play>
+   <play hasball="URI" down="2" togo="6" spot="FOR12" context="H,2,6,V12" playid="5,11,46" type="R" first="R" text="Paul-Etienne rush for 9 yards to the FOR3, 1ST DOWN URI (Stuckey, Cliff)." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Paul-Etienne" gain="9"></p_ru>
+    <p_tk vh="V" name="Stuckey, Cliff"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="0" spot="FOR03" context="H,1,0,V03" playid="5,12,47" type="#" clock="01:05" text="Timeout Rhode Island, clock 01:05." newcontext="H,1,0,V03">
+    <p_to vh="H" team="Rhode Island"></p_to>
+   </play>
+   <play hasball="URI" down="1" togo="0" spot="FOR03" context="H,1,0,V03" playid="5,13,48" type="R" text="Ferrer rush for no gain to the FOR3 (Stuckey, Cliff)." newcontext="H,2,0,V03">
+    <p_ru vh="H" name="Ferrer" gain="0"></p_ru>
+    <p_tk vh="V" name="Stuckey, Cliff"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="0" spot="FOR03" context="H,2,0,V03" playid="5,14,49" type="P" score="Y" clock="00:20" text="Paul-Etienne pass complete to Wilson for 3 yards to the FOR0, TOUCHDOWN, clock 00:20." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Wilson" gain="3"></p_pa>
+   </play>
+   <play hasball="URI" down="1" togo="0" spot="FOR03" context="H,1,0,V03" playid="5,15,50" type="X" score="Y" text="Feinstein kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Feinstein" qb="Feinstein" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="17"></score>
+   <drivesum plays="10" yards="80" top="5:16" driveindex="5" complete="Y"></drivesum>
+   <play hasball="URI" down="1" togo="0" spot="URI30" context="H,1,0,H30" playid="5,16,51" type="K" text="Feinstein kickoff 60 yards to the FOR10, Allen, Isiejah return 18 yards to the FOR28 (Adesanya)." newcontext="V,1,10,V28">
+    <p_ko vh="H" name="Feinstein" gain="60"></p_ko>
+    <p_kr vh="V" name="Allen, Isiejah" gain="18"></p_kr>
+    <p_tk vh="H" name="Adesanya"></p_tk>
+   </play>
+   <drivestart poss="V,V28,00:20" vh="V" spot="V28" clock="00:20" driveindex="6,51"></drivestart>
+   <play hasball="FOR" down="1" togo="10" spot="FOR28" context="V,1,10,V28" playid="6,1,52" clock="00:15" text="FORDHAM drive start at 00:15." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR28" context="V,1,10,V28" playid="6,2,53" type="R" text="Moore, David rush for no gain to the FOR28 (Alexis)." newcontext="V,2,10,V28">
+    <p_ru vh="V" name="Moore, David" gain="0"></p_ru>
+    <p_tk vh="H" name="Alexis"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="17"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="FOR">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="04:32"></misc>
+    <rush att="6" yds="-4" gain="6" loss="10" td="0" long="3"></rush>
+    <pass comp="3" att="7" int="0" yds="34" td="0" long="24" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="34" td="0" long="24"></rcv>
+    <punt no="2" yds="80" long="43" blkd="0" tb="1" fc="0" plus50="0" inside20="0" avg="40.0"></punt>
+    <ko no="1" yds="61" ob="0" tb="0"></ko>
+    <defense tackua="15" tacka="0" tot_tack="15" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="3" yds="60" td="0" long="27"></kr>
+    <fumbles no="1" lost="0"></fumbles>
+   </qtrsummary>
+   <qtrsummary vh="H" id="URI">
+    <firstdowns no="7" rush="2" pass="5" penalty="0"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:28"></misc>
+    <rush att="10" yds="66" gain="66" loss="0" td="1" long="35"></rush>
+    <pass comp="8" att="11" int="0" yds="110" td="1" long="43" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="110" td="1" long="43"></rcv>
+    <ko no="3" yds="176" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="25" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="9" tacka="4" tot_tack="13" tflua="3" tfla="0" tflyds="8" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="70" td="0" long="70"></kr>
+    <pr no="1" yds="3" td="0" long="3"></pr>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="FOR" down="2" togo="10" spot="FOR28" context="V,2,10,V28" playid="6,3,54" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,2,10,V28">
+   </play>
+   <play hasball="FOR" down="2" togo="10" spot="FOR28" context="V,2,10,V28" playid="6,4,55" type="R" turnover="F" text="Martin, Xavier rush for 1 yard to the FOR29, fumble forced by Weedon, fumble by Martin, Xavier recovered by URI McGinnis at FOR29." newcontext="H,1,10,V29">
+    <p_ru vh="V" name="Martin, Xavier" gain="1"></p_ru>
+    <p_fumb vh="V" name="Martin, Xavier" at="V29" frvh="H" frname="McGinnis"></p_fumb>
+    <p_tk vh="H" name="Weedon" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="2" yards="1" top="0:21" driveindex="6" complete="Y"></drivesum>
+   <drivestart poss="H,V29,15:00" vh="H" spot="V29" clock="15:00" driveindex="7,55"></drivestart>
+   <play hasball="URI" down="1" togo="10" spot="FOR29" context="H,1,10,V29" playid="7,1,56" clock="14:54" text="RHODE ISLAND drive start at 14:54." newcontext="H,1,10,V29">
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR29" context="H,1,10,V29" playid="7,2,57" type="R" first="R" score="Y" clock="14:47" text="Paul-Etienne rush for 29 yards to the FOR0, 1ST DOWN URI, TOUCHDOWN, clock 14:47." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Paul-Etienne" gain="29"></p_ru>
+   </play>
+   <play hasball="URI" down="1" togo="0" spot="FOR03" context="H,1,0,V03" playid="7,3,58" type="X" score="Y" text="Feinstein kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Feinstein" qb="Feinstein" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="24"></score>
+   <drivesum plays="1" yards="29" top="0:07" driveindex="7" complete="Y"></drivesum>
+   <play hasball="URI" down="1" togo="0" spot="URI30" context="H,1,0,H30" playid="7,4,59" type="K" text="Feinstein kickoff 70 yards to the FOR0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Feinstein" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,14:47" vh="V" spot="V20" clock="14:47" driveindex="8,59"></drivestart>
+   <play hasball="FOR" down="1" togo="10" spot="FOR20" context="V,1,10,V20" playid="8,1,60" clock="14:47" text="FORDHAM drive start at 14:47." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR20" context="V,1,10,V20" playid="8,2,61" type="R" text="Skelton, John rush for 4 yards to the FOR24, out-of-bounds." ob="Y" newcontext="V,2,6,V24">
+    <p_ru vh="V" name="Skelton, John" gain="4"></p_ru>
+   </play>
+   <play hasball="FOR" down="2" togo="6" spot="FOR24" context="V,2,6,V24" playid="8,3,62" type="R" text="Martin, Xavier rush for loss of 1 yard to the FOR23 (Harris;Rae)." newcontext="V,3,7,V23">
+    <p_ru vh="V" name="Martin, Xavier" gain="-1"></p_ru>
+    <p_tk vh="H" name="Harris" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Rae" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="FOR" down="3" togo="7" spot="FOR23" context="V,3,7,V23" playid="8,4,63" type="P" text="Skelton, John pass complete to Skelton, Stephe for 1 yard to the FOR24 (Alexis)." newcontext="V,4,6,V24">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Skelton, Stephe" gain="1"></p_pa>
+    <p_tk vh="H" name="Alexis"></p_tk>
+   </play>
+   <play hasball="FOR" down="4" togo="6" spot="FOR24" context="V,4,6,V24" playid="8,5,64" type="U" text="Dean, Cameron punt 42 yards to the URI34, fair catch by Glenn." newcontext="H,1,10,H34">
+    <p_pu vh="V" name="Dean, Cameron" gain="42" fc="Glenn"></p_pu>
+   </play>
+   <drivesum plays="3" yards="4" top="1:22" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H34,14:47" vh="H" spot="H34" clock="14:47" driveindex="9,64"></drivestart>
+   <play hasball="URI" down="1" togo="10" spot="URI34" context="H,1,10,H34" playid="9,1,65" clock="13:25" text="RHODE ISLAND drive start at 13:25." newcontext="H,1,10,H34">
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="URI34" context="H,1,10,H34" playid="9,2,66" type="P" text="Paul-Etienne pass complete to Evans for 8 yards to the URI42 (Wilson, Bryson)." newcontext="H,2,2,H42">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Evans" gain="8"></p_pa>
+    <p_tk vh="V" name="Wilson, Bryson"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="2" spot="URI42" context="H,2,2,H42" playid="9,3,67" type="R" first="R" text="Lawrence rush for 6 yards to the URI48, 1ST DOWN URI (Wright, Darzell)." newcontext="H,1,10,H48">
+    <p_ru vh="H" name="Lawrence" gain="6"></p_ru>
+    <p_tk vh="V" name="Wright, Darzell"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="URI48" context="H,1,10,H48" playid="9,4,68" type="R" text="Paul-Etienne rush for 5 yards to the FOR47 (Delaire, Andre)." newcontext="H,2,5,V47">
+    <p_ru vh="H" name="Paul-Etienne" gain="5"></p_ru>
+    <p_tk vh="V" name="Delaire, Andre"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="5" spot="FOR47" context="H,2,5,V47" playid="9,5,69" type="P" first="P" text="Paul-Etienne pass complete to Bynum for 35 yards to the FOR12, 1ST DOWN URI (Allen, Isiejah)." newcontext="H,1,10,V12">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Bynum" gain="35"></p_pa>
+    <p_tk vh="V" name="Allen, Isiejah"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR12" context="H,1,10,V12" playid="9,6,70" type="R" text="Paul-Etienne rush for loss of 3 yards to the FOR15 (Magiera, Nick)." newcontext="H,2,13,V15">
+    <p_ru vh="H" name="Paul-Etienne" gain="-3"></p_ru>
+    <p_tk vh="V" name="Magiera, Nick" tfl="Y"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="13" spot="FOR15" context="H,2,13,V15" playid="9,7,71" type="R" text="Lawrence rush for 10 yards to the FOR5 (Crockett, James)." newcontext="H,3,3,V05">
+    <p_ru vh="H" name="Lawrence" gain="10"></p_ru>
+    <p_tk vh="V" name="Crockett, James"></p_tk>
+   </play>
+   <play hasball="URI" down="3" togo="3" spot="FOR05" context="H,3,3,V05" playid="9,8,72" type="P" text="Paul-Etienne pass incomplete to Wilson." newcontext="H,4,3,V05">
+    <p_pa vh="H" qb="Paul-Etienne" result="INC" rcv="Wilson"></p_pa>
+   </play>
+   <play hasball="URI" down="4" togo="3" spot="FOR05" context="H,4,3,V05" playid="9,9,73" type="P" first="P" score="Y" clock="09:48" text="Paul-Etienne pass complete to Wilson for 5 yards to the FOR0, 1ST DOWN URI, TOUCHDOWN, clock 09:48." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Wilson" gain="5"></p_pa>
+   </play>
+   <play hasball="URI" down="1" togo="0" spot="FOR03" context="H,1,0,V03" playid="9,10,74" type="X" score="Y" text="Feinstein kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Feinstein" qb="Feinstein" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="31"></score>
+   <drivesum plays="8" yards="66" top="3:37" driveindex="9" complete="Y"></drivesum>
+   <play hasball="URI" down="1" togo="0" spot="URI30" context="H,1,0,H30" playid="9,11,75" type="K" text="Feinstein kickoff 58 yards to the FOR12, out-of-bounds, FOR ball on FOR40." ob="Y" newcontext="V,1,10,V40">
+    <p_ko vh="H" name="Feinstein" gain="58" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V40,09:48" vh="V" spot="V40" clock="09:48" driveindex="10,75"></drivestart>
+   <play hasball="FOR" down="1" togo="10" spot="FOR40" context="V,1,10,V40" playid="10,1,76" type="E" text="PENALTY URI illegal kicking (Feinstein) 0 yards to the FOR40." newcontext="V,1,10,V40">
+    <p_pn vh="H" code="KK" type="illegal kicking" name="Feinstein" result="ACCEPT"></p_pn>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR40" context="V,1,10,V40" playid="10,2,77" clock="09:48" text="FORDHAM drive start at 09:48." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR40" context="V,1,10,V40" playid="10,3,78" type="P" text="Skelton, John pass incomplete to Caldwell, Jason." newcontext="V,2,10,V40">
+    <p_pa vh="V" qb="Skelton, John" result="INC" rcv="Caldwell, Jason"></p_pa>
+   </play>
+   <play hasball="FOR" down="2" togo="10" spot="FOR40" context="V,2,10,V40" playid="10,4,79" type="R" text="Whiting, Darryl rush for loss of 2 yards to the FOR38 (Damon;Harris)." newcontext="V,3,12,V38">
+    <p_ru vh="V" name="Whiting, Darryl" gain="-2"></p_ru>
+    <p_tk vh="H" name="Damon" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Harris" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="FOR" down="3" togo="12" spot="FOR38" context="V,3,12,V38" playid="10,5,80" type="R" first="R" text="Skelton, John rush for 17 yards to the URI45, 1ST DOWN FOR (Damon)." newcontext="V,1,10,H45">
+    <p_ru vh="V" name="Skelton, John" gain="17"></p_ru>
+    <p_tk vh="H" name="Damon"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI45" context="V,1,10,H45" playid="10,6,81" type="R" first="R" text="Whiting, Darryl rush for 13 yards to the URI32, 1ST DOWN FOR (Mitchell)." newcontext="V,1,10,H32">
+    <p_ru vh="V" name="Whiting, Darryl" gain="13"></p_ru>
+    <p_tk vh="H" name="Mitchell"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI32" context="V,1,10,H32" playid="10,7,82" type="R" text="Skelton, John rush for 7 yards to the URI25 (Hansen)." newcontext="V,2,3,H25">
+    <p_ru vh="V" name="Skelton, John" gain="7"></p_ru>
+    <p_tk vh="H" name="Hansen"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="3" spot="URI25" context="V,2,3,H25" playid="10,8,83" type="P" first="P" text="Skelton, John pass complete to Caldwell, Jason for 6 yards to the URI19, 1ST DOWN FOR (Harris)." newcontext="V,1,10,H19">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Caldwell, Jason" gain="6"></p_pa>
+    <p_tk vh="H" name="Harris"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI19" context="V,1,10,H19" playid="10,9,84" type="R" text="Whiting, Darryl rush for loss of 4 yards to the URI23 (Rae)." newcontext="V,2,14,H23">
+    <p_ru vh="V" name="Whiting, Darryl" gain="-4"></p_ru>
+    <p_tk vh="H" name="Rae" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="14" spot="URI23" context="V,2,14,H23" playid="10,10,85" type="E" text="Skelton, John pass complete to Skelton, Stephe for 10 yards to the URI13 (Harris), PENALTY FOR false start 5 yards to the URI28, NO PLAY." newcontext="V,2,19,H28">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="H23" yards="5"></p_pn>
+   </play>
+   <play hasball="FOR" down="2" togo="19" spot="URI28" context="V,2,19,H28" playid="10,11,86" type="P" turnover="I" text="Skelton, John pass intercepted by Mitchell at the URI4, Mitchell return 20 yards to the URI24 (Martin, Xavier)." newcontext="H,1,10,H24">
+    <p_pa vh="V" qb="Skelton, John" result="INT"></p_pa>
+    <p_ir vh="H" name="Mitchell" at="H04" gain="20"></p_ir>
+    <p_tk vh="V" name="Martin, Xavier"></p_tk>
+   </play>
+   <drivesum plays="8" yards="32" top="2:43" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,H24,09:48" vh="H" spot="H24" clock="09:48" driveindex="11,86"></drivestart>
+   <play hasball="URI" down="1" togo="10" spot="URI24" context="H,1,10,H24" playid="11,1,87" clock="07:05" text="RHODE ISLAND drive start at 07:05." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="URI24" context="H,1,10,H24" playid="11,2,88" type="P" text="Paul-Etienne pass incomplete to Leonard." newcontext="H,2,10,H24">
+    <p_pa vh="H" qb="Paul-Etienne" result="INC" rcv="Leonard"></p_pa>
+   </play>
+   <play hasball="URI" down="2" togo="10" spot="URI24" context="H,2,10,H24" playid="11,3,89" type="R" first="R" text="Paul-Etienne rush for 23 yards to the URI47, 1ST DOWN URI (Leake, Isaiah)." newcontext="H,1,10,H47">
+    <p_ru vh="H" name="Paul-Etienne" gain="23"></p_ru>
+    <p_tk vh="V" name="Leake, Isaiah"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="URI47" context="H,1,10,H47" playid="11,4,90" type="R" first="R" text="Isijola rush for 15 yards to the FOR38, 1ST DOWN URI (Colbert, Kelvin)." newcontext="H,1,10,V38">
+    <p_ru vh="H" name="Isijola" gain="15"></p_ru>
+    <p_tk vh="V" name="Colbert, Kelvin"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR38" context="H,1,10,V38" playid="11,5,91" type="R" first="R" text="Isijola rush for 13 yards to the FOR25, 1ST DOWN URI (Allen, Isiejah)." newcontext="H,1,10,V25">
+    <p_ru vh="H" name="Isijola" gain="13"></p_ru>
+    <p_tk vh="V" name="Allen, Isiejah"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR25" context="H,1,10,V25" playid="11,6,92" type="P" first="P" text="Paul-Etienne pass complete to Leonard for 13 yards to the FOR12, 1ST DOWN URI (Magiera, Nick)." newcontext="H,1,10,V12">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Leonard" gain="13"></p_pa>
+    <p_tk vh="V" name="Magiera, Nick"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR12" context="H,1,10,V12" playid="11,7,93" type="P" text="Paul-Etienne pass complete to Paul-Etienne for loss of 7 yards to the FOR19 (Wright, Darzell)." newcontext="H,2,17,V19">
+    <p_pa vh="H" qb="Paul-Etienne" result="COMP" rcv="Paul-Etienne" gain="-7"></p_pa>
+    <p_tk vh="V" name="Wright, Darzell" tfl="Y"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="17" spot="FOR19" context="H,2,17,V19" playid="11,8,94" type="R" text="Paul-Etienne rush for 13 yards to the FOR6 (Allen, Isiejah)." newcontext="H,3,4,V06">
+    <p_ru vh="H" name="Paul-Etienne" gain="13"></p_ru>
+    <p_tk vh="V" name="Allen, Isiejah"></p_tk>
+   </play>
+   <play hasball="URI" down="3" togo="4" spot="FOR06" context="H,3,4,V06" playid="11,9,95" type="R" text="Paul-Etienne rush for loss of 1 yard to the FOR7 (Caldwell, Jason)." newcontext="H,4,5,V07">
+    <p_ru vh="H" name="Paul-Etienne" gain="-1"></p_ru>
+    <p_tk vh="V" name="Caldwell, Jason" tfl="Y"></p_tk>
+   </play>
+   <play hasball="URI" down="4" togo="5" spot="FOR07" context="H,4,5,V07" playid="11,10,96" type="F" score="Y" clock="02:51" text="Feinstein field goal attempt from 25 GOOD, clock 02:51." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Feinstein" distance="25" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="34"></score>
+   <drivesum plays="9" yards="69" top="4:14" driveindex="11" complete="Y"></drivesum>
+   <play hasball="URI" down="1" togo="0" spot="URI30" context="H,1,0,H30" playid="11,11,97" type="K" text="Feinstein kickoff 70 yards to the FOR0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Feinstein" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,02:51" vh="V" spot="V20" clock="02:51" driveindex="12,97"></drivestart>
+   <play hasball="FOR" down="1" togo="10" spot="FOR20" context="V,1,10,V20" playid="12,1,98" clock="02:51" text="FORDHAM drive start at 02:51." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR20" context="V,1,10,V20" playid="12,2,99" type="P" text="Skelton, John pass incomplete to Pierre, Brad, dropped pass." newcontext="V,2,10,V20">
+    <p_pa vh="V" qb="Skelton, John" result="DROP" rcv="Pierre, Brad"></p_pa>
+   </play>
+   <play hasball="FOR" down="2" togo="10" spot="FOR20" context="V,2,10,V20" playid="12,3,100" type="P" first="P" text="Skelton, John pass complete to Skelton, Stephe for 12 yards to the FOR32, 1ST DOWN FOR (Shields)." newcontext="V,1,10,V32">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Skelton, Stephe" gain="12"></p_pa>
+    <p_tk vh="H" name="Shields"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR32" context="V,1,10,V32" playid="12,4,101" type="P" text="Skelton, John pass complete to Skelton, Stephe for 4 yards to the FOR36 (Damon)." newcontext="V,2,6,V36">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Skelton, Stephe" gain="4"></p_pa>
+    <p_tk vh="H" name="Damon"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="6" spot="FOR36" context="V,2,6,V36" playid="12,5,102" type="P" first="P" text="Skelton, John pass complete to Skelton, Stephe for 16 yards to the URI48, 1ST DOWN FOR (Mitchell)." newcontext="V,1,10,H48">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Skelton, Stephe" gain="16"></p_pa>
+    <p_tk vh="H" name="Mitchell"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI48" context="V,1,10,H48" playid="12,6,103" type="#" clock="02:00" text="Timeout Rhode Island, clock 02:00." newcontext="V,1,10,H48">
+    <p_to vh="H" team="Rhode Island"></p_to>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI48" context="V,1,10,H48" playid="12,7,104" type="P" text="Skelton, John pass complete to Weston, Jason for 2 yards to the URI46 (Williams)." newcontext="V,2,8,H46">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Weston, Jason" gain="2"></p_pa>
+    <p_tk vh="H" name="Williams"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="8" spot="URI46" context="V,2,8,H46" playid="12,8,105" type="P" first="P" text="Skelton, John pass complete to Pierre, Brad for 11 yards to the URI35, 1ST DOWN FOR (Damon)." newcontext="V,1,10,H35">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Pierre, Brad" gain="11"></p_pa>
+    <p_tk vh="H" name="Damon"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI35" context="V,1,10,H35" playid="12,9,106" type="R" first="R" text="Martin, Xavier rush for 12 yards to the URI23, 1ST DOWN FOR (Urban)." newcontext="V,1,10,H23">
+    <p_ru vh="V" name="Martin, Xavier" gain="12"></p_ru>
+    <p_tk vh="H" name="Urban"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI23" context="V,1,10,H23" playid="12,10,107" type="R" first="R" text="Martin, Xavier rush for 11 yards to the URI12, 1ST DOWN FOR (Urban)." newcontext="V,1,10,H12">
+    <p_ru vh="V" name="Martin, Xavier" gain="11"></p_ru>
+    <p_tk vh="H" name="Urban"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI12" context="V,1,10,H12" playid="12,11,108" type="P" text="Skelton, John pass complete to Caldwell, Jason for 9 yards to the URI3 (Williams)." newcontext="V,2,1,H03">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Caldwell, Jason" gain="9"></p_pa>
+    <p_tk vh="H" name="Williams"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="1" spot="URI03" context="V,2,1,H03" playid="12,12,109" type="R" first="R" score="Y" clock="00:23" text="Skelton, John rush for 3 yards to the URI0, 1ST DOWN FOR, TOUCHDOWN, clock 00:23." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Skelton, John" gain="3"></p_ru>
+   </play>
+   <play hasball="FOR" down="1" togo="0" spot="URI03" context="V,1,0,H03" playid="12,13,110" type="X" score="Y" text="Heinowitz, Kevi kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Heinowitz, Kevi" qb="Heinowitz, Kevi" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="34"></score>
+   <drivesum plays="10" yards="80" top="2:28" driveindex="12" complete="Y"></drivesum>
+   <play hasball="FOR" down="1" togo="0" spot="FOR30" context="V,1,0,V30" playid="12,14,111" type="K" text="Heinowitz, Kevi kickoff 60 yards to the URI10, Law Jr return 14 yards to the URI24 (Barchitta, Paul)." newcontext="H,1,10,H24">
+    <p_ko vh="V" name="Heinowitz, Kevi" gain="60"></p_ko>
+    <p_kr vh="H" name="Law Jr" gain="14"></p_kr>
+    <p_tk vh="V" name="Barchitta, Paul"></p_tk>
+   </play>
+   <drivestart poss="H,H24,00:23" vh="H" spot="H24" clock="00:23" driveindex="13,111"></drivestart>
+   <play hasball="URI" down="1" togo="10" spot="URI24" context="H,1,10,H24" playid="13,1,112" clock="00:17" text="RHODE ISLAND drive start at 00:17." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="URI24" context="H,1,10,H24" playid="13,2,113" type="R" text="Paul-Etienne rush for no gain to the URI24." newcontext="H,2,10,H24">
+    <p_ru vh="H" name="Paul-Etienne" gain="0"></p_ru>
+   </play>
+   <play hasball="URI" down="2" togo="10" spot="URI24" context="H,2,10,H24" playid="13,3,114" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="H,2,10,H24">
+   </play>
+   <drivesum plays="1" yards="0" top="0:17" driveindex="13" complete="Y"></drivesum>
+   <score qtr="2" V="7" H="34"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="FOR">
+    <firstdowns no="9" rush="5" pass="4" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="06:39"></misc>
+    <rush att="11" yds="61" gain="68" loss="7" td="1" long="14"></rush>
+    <pass comp="8" att="11" int="1" yds="61" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="8" yds="61" td="0" long="0"></rcv>
+    <punt no="1" yds="42" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="42.0"></punt>
+    <ko no="1" yds="60" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="15" tacka="0" tot_tack="15" tflua="3" tfla="0" tflyds="11" sacks="0" sackyds="0"></defense>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="URI">
+    <firstdowns no="8" rush="5" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="0"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:21"></misc>
+    <rush att="11" yds="110" gain="114" loss="4" td="1" long="0"></rush>
+    <pass comp="5" att="7" int="0" yds="54" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="54" td="1" long="0"></rcv>
+    <ko no="3" yds="198" ob="1" tb="2"></ko>
+    <fg made="1" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="15" tacka="4" tot_tack="19" tflua="5" tfla="0" tflyds="10" sacks="0" sackyds="0" ff="1" fr="1" fryds="0" int="1" intyds="20"></defense>
+    <kr no="1" yds="14" td="0" long="0"></kr>
+    <ir no="1" yds="20" td="0" long="20"></ir>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="URI" down="2" togo="10" spot="URI24" context="H,2,10,H24" playid="13,4,115" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00." newcontext="H,2,10,H24">
+   </play>
+   <play hasball="URI" down="2" togo="10" spot="URI24" context="H,2,10,H24" playid="13,5,116" type="K" text="Feinstein kickoff 75 yards to the FOR1, Caldwell, Jason return 22 yards to the FOR23 (Mancuso)." newcontext="V,1,10,V23">
+    <p_ko vh="H" name="Feinstein" gain="75"></p_ko>
+    <p_kr vh="V" name="Caldwell, Jason" gain="22"></p_kr>
+    <p_tk vh="H" name="Mancuso"></p_tk>
+   </play>
+   <drivestart poss="V,V23,15:00" vh="V" spot="V23" clock="15:00" driveindex="14,116"></drivestart>
+   <play hasball="FOR" down="1" togo="10" spot="FOR23" context="V,1,10,V23" playid="14,1,117" clock="14:52" text="FORDHAM drive start at 14:52." newcontext="V,1,10,V23">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR23" context="V,1,10,V23" playid="14,2,118" type="P" score="Y" turnover="F" clock="14:43" text="Skelton, John sacked for loss of 8 yards to the FOR15 (Adesanya), fumble by Skelton, John recovered by URI Weedon at FOR15, Weedon for 15 yards to the FOR0, TOUCHDOWN, clock 14:43." newcontext="H,1,0,V03">
+    <p_pa vh="V" qb="Skelton, John" result="FUMB" gain="-8"></p_pa>
+    <p_fr vh="H" name="Weedon" gain="15"></p_fr>
+    <p_fumb vh="V" name="Skelton, John" at="V15" frvh="H" frname="Weedon"></p_fumb>
+    <p_tk vh="H" name="Adesanya" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <drivesum plays="1" yards="-8" top="0:09" driveindex="14" complete="Y"></drivesum>
+   <drivestart poss="H,V03,14:43" vh="H" spot="V03" clock="14:43" driveindex="15,118"></drivestart>
+   <play hasball="URI" down="1" togo="0" spot="FOR03" context="H,1,0,V03" playid="15,1,119" type="X" score="Y" text="Feinstein kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Feinstein" qb="Feinstein" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="41"></score>
+   <play hasball="URI" down="1" togo="0" spot="URI30" context="H,1,0,H30" playid="15,2,120" type="E" text="Feinstein kickoff 62 yards to the FOR8, out-of-bounds, PENALTY URI illegal kicking (Feinstein) 30 yards to the FOR40, NO PLAY." ob="Y" newcontext="H,1,0,V40">
+    <p_pn vh="H" code="KK" type="illegal kicking" name="Feinstein" result="ACCEPT" at="H30" yards="30"></p_pn>
+   </play>
+   <play hasball="URI" down="1" togo="0" spot="FOR40" context="H,1,0,V40" playid="15,3,121" text="Change of possession, FOR ball on FOR40, 1st and 10." newcontext="V,1,10,V40">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="15" complete="Y"></drivesum>
+   <drivestart poss="V,V40,14:43" vh="V" spot="V40" clock="14:43" driveindex="16,121"></drivestart>
+   <play hasball="FOR" down="1" togo="10" spot="FOR40" context="V,1,10,V40" playid="16,1,122" clock="14:43" text="FORDHAM drive start at 14:43." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR40" context="V,1,10,V40" playid="16,2,123" type="P" turnover="F" text="Skelton, John sacked for 2 yards to the FOR42 (Adesanya), fumble by Skelton, John recovered by URI Rae at FOR42." newcontext="H,1,10,V42">
+    <p_pa vh="V" qb="Skelton, John" result="FUMB" gain="2"></p_pa>
+    <p_fumb vh="V" name="Skelton, John" at="V42" frvh="H" frname="Rae"></p_fumb>
+    <p_tk vh="H" name="Adesanya" sack="Y"></p_tk>
+   </play>
+   <drivesum plays="1" yards="2" top="0:05" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,V42,14:43" vh="H" spot="V42" clock="14:43" driveindex="17,123"></drivestart>
+   <play hasball="URI" down="1" togo="10" spot="FOR42" context="H,1,10,V42" playid="17,1,124" clock="14:38" text="RHODE ISLAND drive start at 14:38." newcontext="H,1,10,V42">
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR42" context="H,1,10,V42" playid="17,2,125" type="P" text="Paul-Etienne pass incomplete to Bynum." newcontext="H,2,10,V42">
+    <p_pa vh="H" qb="Paul-Etienne" result="INC" rcv="Bynum"></p_pa>
+   </play>
+   <play hasball="URI" down="2" togo="10" spot="FOR42" context="H,2,10,V42" playid="17,3,126" type="R" text="Paul-Etienne rush for loss of 1 yard to the FOR43 (Wright, Darzell)." newcontext="H,3,11,V43">
+    <p_ru vh="H" name="Paul-Etienne" gain="-1"></p_ru>
+    <p_tk vh="V" name="Wright, Darzell" tfl="Y"></p_tk>
+   </play>
+   <play hasball="URI" down="3" togo="11" spot="FOR43" context="H,3,11,V43" playid="17,4,127" type="E" text="Paul-Etienne rush for 8 yards to the FOR35 (Crockett, James), PENALTY URI holding (Gross) 10 yards to the URI47, NO PLAY." newcontext="H,3,21,H47">
+    <p_pn vh="H" code="HO" type="holding" name="Gross" result="ACCEPT" at="V43" yards="10"></p_pn>
+   </play>
+   <play hasball="URI" down="3" togo="21" spot="URI47" context="H,3,21,H47" playid="17,5,128" type="E" text="Stefkovich pass complete to Law Jr for 2 yards to the URI49 (Magiera, Nick), PENALTY FOR OFF 5 yards to the FOR48, NO PLAY." newcontext="H,3,16,V48">
+    <p_pn vh="V" code="OFF" type="OFF" result="ACCEPT" at="H47" yards="5"></p_pn>
+   </play>
+   <play hasball="URI" down="3" togo="16" spot="FOR48" context="H,3,16,V48" playid="17,6,129" type="E" text="PENALTY URI false start (Gross) 5 yards to the URI47." newcontext="H,3,21,H47">
+    <p_pn vh="H" code="FS" type="false start" name="Gross" result="ACCEPT" at="V48" yards="5"></p_pn>
+   </play>
+   <play hasball="URI" down="3" togo="21" spot="URI47" context="H,3,21,H47" playid="17,7,130" type="R" text="Ferrer rush for 2 yards to the URI49 (Magiera, Nick)." newcontext="H,4,19,H49">
+    <p_ru vh="H" name="Ferrer" gain="2"></p_ru>
+    <p_tk vh="V" name="Magiera, Nick"></p_tk>
+   </play>
+   <play hasball="URI" down="4" togo="19" spot="URI49" context="H,4,19,H49" playid="17,8,131" type="U" text="Edger punt 51 yards to the FOR0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Edger" gain="51" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-9" top="2:54" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V20,14:38" vh="V" spot="V20" clock="14:38" driveindex="18,131"></drivestart>
+   <play hasball="FOR" down="1" togo="10" spot="FOR20" context="V,1,10,V20" playid="18,1,132" clock="11:44" text="FORDHAM drive start at 11:44." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR20" context="V,1,10,V20" playid="18,2,133" type="P" text="Skelton, John pass incomplete to Moore, David, dropped pass." newcontext="V,2,10,V20">
+    <p_pa vh="V" qb="Skelton, John" result="DROP" rcv="Moore, David"></p_pa>
+   </play>
+   <play hasball="FOR" down="2" togo="10" spot="FOR20" context="V,2,10,V20" playid="18,3,134" type="R" text="Whiting, Darryl rush for 1 yard to the FOR21 (Hansen)." newcontext="V,3,9,V21">
+    <p_ru vh="V" name="Whiting, Darryl" gain="1"></p_ru>
+    <p_tk vh="H" name="Hansen"></p_tk>
+   </play>
+   <play hasball="FOR" down="3" togo="9" spot="FOR21" context="V,3,9,V21" playid="18,4,135" type="P" first="P" text="Skelton, John pass complete to Caldwell, Jason for 23 yards to the FOR44, 1ST DOWN FOR." newcontext="V,1,10,V44">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Caldwell, Jason" gain="23"></p_pa>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR44" context="V,1,10,V44" playid="18,5,136" type="R" text="Whiting, Darryl rush for 3 yards to the FOR47 (Mitchell;Rae)." newcontext="V,2,7,V47">
+    <p_ru vh="V" name="Whiting, Darryl" gain="3"></p_ru>
+    <p_tk vh="H" name="Mitchell" assist="Y"></p_tk>
+    <p_tk vh="H" name="Rae" assist="Y"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="7" spot="FOR47" context="V,2,7,V47" playid="18,6,137" type="P" first="P" text="Skelton, John pass complete to Lucas, Asa for 14 yards to the URI39, 1ST DOWN FOR (Williams)." newcontext="V,1,10,H39">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Lucas, Asa" gain="14"></p_pa>
+    <p_tk vh="H" name="Williams"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI39" context="V,1,10,H39" playid="18,7,138" type="R" text="Skelton, John rush for 9 yards to the URI30 (O'Connell)." newcontext="V,2,1,H30">
+    <p_ru vh="V" name="Skelton, John" gain="9"></p_ru>
+    <p_tk vh="H" name="O'Connell"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="1" spot="URI30" context="V,2,1,H30" playid="18,8,139" type="E" text="PENALTY FOR false start (Morrison, Lloyd) 5 yards to the URI35." newcontext="V,2,6,H35">
+    <p_pn vh="V" code="FS" type="false start" name="Morrison, Lloyd" result="ACCEPT" at="H30" yards="5"></p_pn>
+   </play>
+   <play hasball="FOR" down="2" togo="6" spot="URI35" context="V,2,6,H35" playid="18,9,140" type="P" text="Skelton, John pass incomplete to Caldwell, Jason." newcontext="V,3,6,H35">
+    <p_pa vh="V" qb="Skelton, John" result="INC" rcv="Caldwell, Jason"></p_pa>
+   </play>
+   <play hasball="FOR" down="3" togo="6" spot="URI35" context="V,3,6,H35" playid="18,10,141" type="P" first="P" text="Skelton, John pass complete to Lucas, Asa for 15 yards to the URI20, 1ST DOWN FOR (Mitchell;Shields)." newcontext="V,1,10,H20">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Lucas, Asa" gain="15"></p_pa>
+    <p_tk vh="H" name="Mitchell" assist="Y"></p_tk>
+    <p_tk vh="H" name="Shields" assist="Y"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI20" context="V,1,10,H20" playid="18,11,142" type="E" text="Skelton, John pass incomplete to Lucas, Asa, PENALTY FOR illegal formation 5 yards to the URI25, NO PLAY." newcontext="V,1,15,H25">
+    <p_pn vh="V" code="FO" type="illegal formation" result="ACCEPT" at="H20" yards="5"></p_pn>
+   </play>
+   <play hasball="FOR" down="1" togo="15" spot="URI25" context="V,1,15,H25" playid="18,12,143" type="P" first="P" text="Skelton, John pass complete to Caldwell, Jason for 16 yards to the URI9, 1ST DOWN FOR (Shields)." newcontext="V,1,0,H09">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Caldwell, Jason" gain="16"></p_pa>
+    <p_tk vh="H" name="Shields"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="0" spot="URI09" context="V,1,0,H09" playid="18,13,144" type="P" text="Skelton, John pass incomplete to Lucas, Asa." newcontext="V,2,0,H09">
+    <p_pa vh="V" qb="Skelton, John" result="INC" rcv="Lucas, Asa"></p_pa>
+   </play>
+   <play hasball="FOR" down="2" togo="0" spot="URI09" context="V,2,0,H09" playid="18,14,145" type="P" text="Skelton, John pass complete to Moore, David for 1 yard to the URI8 (Shields)." newcontext="V,3,0,H08">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Moore, David" gain="1"></p_pa>
+    <p_tk vh="H" name="Shields"></p_tk>
+   </play>
+   <play hasball="FOR" down="3" togo="0" spot="URI08" context="V,3,0,H08" playid="18,15,146" type="P" text="Skelton, John pass complete to Pierre, Brad for 7 yards to the URI1 (Damon)." newcontext="V,4,0,H01">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Pierre, Brad" gain="7"></p_pa>
+    <p_tk vh="H" name="Damon"></p_tk>
+   </play>
+   <play hasball="FOR" down="4" togo="0" spot="URI01" context="V,4,0,H01" playid="18,16,147" type="R" score="Y" clock="07:50" text="Skelton, John rush for 1 yard to the URI0, TOUCHDOWN, clock 07:50." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Skelton, John" gain="1"></p_ru>
+   </play>
+   <play hasball="FOR" down="1" togo="0" spot="URI03" context="V,1,0,H03" playid="18,17,148" type="X" score="Y" text="Heinowitz, Kevi kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Heinowitz, Kevi" qb="Heinowitz, Kevi" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="14" H="41"></score>
+   <drivesum plays="13" yards="80" top="3:54" driveindex="18" complete="Y"></drivesum>
+   <play hasball="FOR" down="1" togo="0" spot="FOR30" context="V,1,0,V30" playid="18,18,149" type="K" text="Heinowitz, Kevi kickoff 62 yards to the URI8, Johnson-Farrell return 21 yards to the URI29 (Haruna, Jamal)." newcontext="H,1,10,H29">
+    <p_ko vh="V" name="Heinowitz, Kevi" gain="62"></p_ko>
+    <p_kr vh="H" name="Johnson-Farrell" gain="21"></p_kr>
+    <p_tk vh="V" name="Haruna, Jamal"></p_tk>
+   </play>
+   <drivestart poss="H,H29,07:50" vh="H" spot="H29" clock="07:50" driveindex="19,149"></drivestart>
+   <play hasball="URI" down="1" togo="10" spot="URI29" context="H,1,10,H29" playid="19,1,150" clock="06:41" text="RHODE ISLAND drive start at 06:41." newcontext="H,1,10,H29">
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="URI29" context="H,1,10,H29" playid="19,2,151" type="R" text="Ferrer rush for 5 yards to the URI34 (Crockett, James;Wright, Darzell)." newcontext="H,2,5,H34">
+    <p_ru vh="H" name="Ferrer" gain="5"></p_ru>
+    <p_tk vh="V" name="Crockett, James" assist="Y"></p_tk>
+    <p_tk vh="V" name="Wright, Darzell" assist="Y"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="5" spot="URI34" context="H,2,5,H34" playid="19,3,152" type="R" first="R" text="Stefkovich rush for 10 yards to the URI44, 1ST DOWN URI (Allen, Isiejah)." newcontext="H,1,10,H44">
+    <p_ru vh="H" name="Stefkovich" gain="10"></p_ru>
+    <p_tk vh="V" name="Allen, Isiejah"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="URI44" context="H,1,10,H44" playid="19,4,153" type="R" text="Lawrence rush for 8 yards to the FOR48, out-of-bounds (Delaire, Andre)." ob="Y" newcontext="H,2,2,V48">
+    <p_ru vh="H" name="Lawrence" gain="8"></p_ru>
+    <p_tk vh="V" name="Delaire, Andre"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="2" spot="FOR48" context="H,2,2,V48" playid="19,5,154" type="R" first="R" text="Ferrer rush for 7 yards to the FOR41, 1ST DOWN URI (Stuckey, Cliff)." newcontext="H,1,10,V41">
+    <p_ru vh="H" name="Ferrer" gain="7"></p_ru>
+    <p_tk vh="V" name="Stuckey, Cliff"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR41" context="H,1,10,V41" playid="19,6,155" type="R" text="Stefkovich rush for no gain to the FOR41 (Okonkwo, Andy)." newcontext="H,2,10,V41">
+    <p_ru vh="H" name="Stefkovich" gain="0"></p_ru>
+    <p_tk vh="V" name="Okonkwo, Andy"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="10" spot="FOR41" context="H,2,10,V41" playid="19,7,156" type="P" text="Stefkovich pass incomplete to Bellini (Crockett, James)." newcontext="H,3,10,V41">
+    <p_pa vh="H" qb="Stefkovich" result="BRUP" rcv="Bellini"></p_pa>
+    <p_bu vh="V" name="Crockett, James"></p_bu>
+   </play>
+   <play hasball="URI" down="3" togo="10" spot="FOR41" context="H,3,10,V41" playid="19,8,157" type="R" text="Ferrer rush for 6 yards to the FOR35 (Magiera, Nick)." newcontext="H,4,4,V35">
+    <p_ru vh="H" name="Ferrer" gain="6"></p_ru>
+    <p_tk vh="V" name="Magiera, Nick"></p_tk>
+   </play>
+   <play hasball="URI" down="4" togo="4" spot="FOR35" context="H,4,4,V35" playid="19,9,158" type="#" clock="03:15" text="Timeout Rhode Island, clock 03:15." newcontext="H,4,4,V35">
+    <p_to vh="H" team="Rhode Island"></p_to>
+   </play>
+   <play hasball="URI" down="4" togo="4" spot="FOR35" context="H,4,4,V35" playid="19,10,159" type="U" text="Edger punt 35 yards to the FOR0, touchback." newcontext="V,1,10,V20">
+    <p_pu vh="H" name="Edger" gain="35" tb="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="36" top="3:36" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="V,V20,03:15" vh="V" spot="V20" clock="03:15" driveindex="20,159"></drivestart>
+   <play hasball="FOR" down="1" togo="10" spot="FOR20" context="V,1,10,V20" playid="20,1,160" clock="03:05" text="FORDHAM drive start at 03:05." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR20" context="V,1,10,V20" playid="20,2,161" type="R" first="R" text="Martin, Xavier rush for 11 yards to the FOR31, 1ST DOWN FOR (Weedon;Rae)." newcontext="V,1,10,V31">
+    <p_ru vh="V" name="Martin, Xavier" gain="11"></p_ru>
+    <p_tk vh="H" name="Weedon" assist="Y"></p_tk>
+    <p_tk vh="H" name="Rae" assist="Y"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR31" context="V,1,10,V31" playid="20,3,162" type="R" text="Martin, Xavier rush for 3 yards to the FOR34 (Weedon)." newcontext="V,2,7,V34">
+    <p_ru vh="V" name="Martin, Xavier" gain="3"></p_ru>
+    <p_tk vh="H" name="Weedon"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="7" spot="FOR34" context="V,2,7,V34" playid="20,4,163" type="P" text="Skelton, John pass complete to Skelton, Stephe for 5 yards to the FOR39 (Damon)." newcontext="V,3,2,V39">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Skelton, Stephe" gain="5"></p_pa>
+    <p_tk vh="H" name="Damon"></p_tk>
+   </play>
+   <play hasball="FOR" down="3" togo="2" spot="FOR39" context="V,3,2,V39" playid="20,5,164" type="R" text="Pierre, Brad rush for no gain to the FOR39, fumble by Pierre, Brad recovered by FOR Pierre, Brad at FOR39." newcontext="V,4,2,V39">
+    <p_ru vh="V" name="Pierre, Brad" gain="0"></p_ru>
+    <p_fumb vh="V" name="Pierre, Brad" at="V39" frvh="V" frname="Pierre, Brad"></p_fumb>
+   </play>
+   <play hasball="FOR" down="4" togo="2" spot="FOR39" context="V,4,2,V39" playid="20,6,165" type="R" first="R" text="Whiting, Darryl rush for 6 yards to the FOR45, 1ST DOWN FOR (Damon)." newcontext="V,1,10,V45">
+    <p_ru vh="V" name="Whiting, Darryl" gain="6"></p_ru>
+    <p_tk vh="H" name="Damon"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR45" context="V,1,10,V45" playid="20,7,166" type="P" text="Skelton, John pass incomplete to Lucas, Asa." newcontext="V,2,10,V45">
+    <p_pa vh="V" qb="Skelton, John" result="INC" rcv="Lucas, Asa"></p_pa>
+   </play>
+   <play hasball="FOR" down="2" togo="10" spot="FOR45" context="V,2,10,V45" playid="20,8,167" type="P" text="Skelton, John pass complete to Skelton, Stephe for 7 yards to the URI48 (Hansen;O'Connell)." newcontext="V,3,3,H48">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Skelton, Stephe" gain="7"></p_pa>
+    <p_tk vh="H" name="Hansen" assist="Y"></p_tk>
+    <p_tk vh="H" name="O'Connell" assist="Y"></p_tk>
+   </play>
+   <play hasball="FOR" down="3" togo="3" spot="URI48" context="V,3,3,H48" playid="20,9,168" type="P" first="P" text="Skelton, John pass complete to Lucas, Asa for 14 yards to the URI34, 1ST DOWN FOR, out-of-bounds (Mitchell)." ob="Y" newcontext="V,1,10,H34">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Lucas, Asa" gain="14"></p_pa>
+    <p_tk vh="H" name="Mitchell"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI34" context="V,1,10,H34" playid="20,10,169" type="R" text="Skelton, John rush for 6 yards to the URI28, out-of-bounds (Damon)." ob="Y" newcontext="V,2,4,H28">
+    <p_ru vh="V" name="Skelton, John" gain="6"></p_ru>
+    <p_tk vh="H" name="Damon"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="4" spot="URI28" context="V,2,4,H28" playid="20,11,170" type="P" first="P" text="Skelton, John pass complete to Caldwell, Jason for 19 yards to the URI9, 1ST DOWN FOR (Hansen)." newcontext="V,1,0,H09">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Caldwell, Jason" gain="19"></p_pa>
+    <p_tk vh="H" name="Hansen"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="0" spot="URI09" context="V,1,0,H09" playid="20,12,171" type="R" text="Skelton, John rush for 6 yards to the URI3 (Hansen)." newcontext="V,2,0,H03">
+    <p_ru vh="V" name="Skelton, John" gain="6"></p_ru>
+    <p_tk vh="H" name="Hansen"></p_tk>
+   </play>
+   <score qtr="3" V="14" H="41"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="FOR">
+    <firstdowns no="8" rush="2" pass="6" penalty="0"></firstdowns>
+    <penalties no="3" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="3" fourthconv="1" fourthatt="1"></conversions>
+    <fumbles no="3" lost="2"></fumbles>
+    <misc yds="0" top="07:21"></misc>
+    <rush att="12" yds="40" gain="50" loss="10" td="1" long="0"></rush>
+    <pass comp="10" att="14" int="0" yds="121" td="0" long="0" sacks="2" sackyds="6"></pass>
+    <rcv no="10" yds="121" td="0" long="0"></rcv>
+    <ko no="1" yds="62" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="2" tot_tack="10" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="22" td="0" long="0"></kr>
+    <fumbles no="3" lost="2"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="URI">
+    <firstdowns no="2" rush="2" pass="0" penalty="0"></firstdowns>
+    <penalties no="3" yds="45"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:39"></misc>
+    <rush att="8" yds="37" gain="38" loss="1" td="0" long="0"></rush>
+    <pass comp="0" att="2" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <punt no="2" yds="86" long="51" blkd="0" tb="2" fc="0" plus50="1" inside20="0" avg="43.0"></punt>
+    <ko no="1" yds="75" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="16" tacka="8" tot_tack="24" tflua="1" tfla="0" tflyds="8" sacks="2" sackyds="6" ff="2" fr="2" fryds="15"></defense>
+    <kr no="1" yds="21" td="0" long="0"></kr>
+    <fr no="1" yds="15" td="1" long="15"></fr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="FOR" down="2" togo="0" spot="URI03" context="V,2,0,H03" playid="20,13,172" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,2,0,H03">
+   </play>
+   <play hasball="FOR" down="2" togo="0" spot="URI03" context="V,2,0,H03" playid="20,14,173" type="P" text="Skelton, John pass complete to Pierre, Brad for loss of 3 yards to the URI6 (Weedon)." newcontext="V,3,0,H06">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Pierre, Brad" gain="-3"></p_pa>
+    <p_tk vh="H" name="Weedon" tfl="Y"></p_tk>
+   </play>
+   <play hasball="FOR" down="3" togo="0" spot="URI06" context="V,3,0,H06" playid="20,15,174" type="R" score="Y" clock="14:33" text="Martin, Xavier rush for 6 yards to the URI0, TOUCHDOWN, clock 14:33." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="Martin, Xavier" gain="6"></p_ru>
+   </play>
+   <play hasball="FOR" down="1" togo="0" spot="URI03" context="V,1,0,H03" playid="20,16,175" type="X" score="Y" text="Heinowitz, Kevi kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Heinowitz, Kevi" qb="Heinowitz, Kevi" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="21" H="41"></score>
+   <drivesum plays="13" yards="80" top="3:32" driveindex="20" complete="Y"></drivesum>
+   <play hasball="FOR" down="1" togo="0" spot="FOR30" context="V,1,0,V30" playid="20,17,176" type="K" text="Heinowitz, Kevi kickoff 50 yards to the URI20, Johnson-Farrell return 20 yards to the URI40 (Robinson, Darry)." newcontext="H,1,10,H40">
+    <p_ko vh="V" name="Heinowitz, Kevi" gain="50"></p_ko>
+    <p_kr vh="H" name="Johnson-Farrell" gain="20"></p_kr>
+    <p_tk vh="V" name="Robinson, Darry"></p_tk>
+   </play>
+   <drivestart poss="H,H40,14:33" vh="H" spot="H40" clock="14:33" driveindex="21,176"></drivestart>
+   <play hasball="URI" down="1" togo="10" spot="URI40" context="H,1,10,H40" playid="21,1,177" clock="14:27" text="RHODE ISLAND drive start at 14:27." newcontext="H,1,10,H40">
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="URI40" context="H,1,10,H40" playid="21,2,178" type="R" text="Lawrence rush for loss of 5 yards to the URI35 (Crockett, James)." newcontext="H,2,15,H35">
+    <p_ru vh="H" name="Lawrence" gain="-5"></p_ru>
+    <p_tk vh="V" name="Crockett, James" tfl="Y"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="15" spot="URI35" context="H,2,15,H35" playid="21,3,179" type="P" text="Stefkovich pass incomplete to Leonard." newcontext="H,3,15,H35">
+    <p_pa vh="H" qb="Stefkovich" result="INC" rcv="Leonard"></p_pa>
+   </play>
+   <play hasball="URI" down="3" togo="15" spot="URI35" context="H,3,15,H35" playid="21,4,180" type="E" text="Stefkovich pass complete to Lang for 14 yards to the URI49 (Haruna, Jamal), PENALTY URI ineligible downfield on pass (Gross) 5 yards to the URI30, NO PLAY." newcontext="H,3,20,H30">
+    <p_pn vh="H" code="ID" type="ineligible downfield on pass" name="Gross" result="ACCEPT" at="H35" yards="5"></p_pn>
+   </play>
+   <play hasball="URI" down="3" togo="20" spot="URI30" context="H,3,20,H30" playid="21,5,181" type="P" text="Stefkovich pass complete to Lang for 7 yards to the URI37 (Crockett, James)." newcontext="H,4,13,H37">
+    <p_pa vh="H" qb="Stefkovich" result="COMP" rcv="Lang" gain="7"></p_pa>
+    <p_tk vh="V" name="Crockett, James"></p_tk>
+   </play>
+   <play hasball="URI" down="4" togo="13" spot="URI37" context="H,4,13,H37" playid="21,6,182" type="U" text="Edger punt 61 yards to the FOR2, Allen, Isiejah return 14 yards to the FOR16 (Hansen)." newcontext="V,1,10,V16">
+    <p_pu vh="H" name="Edger" gain="61" in20="Y"></p_pu>
+    <p_pr vh="V" name="Allen, Isiejah" gain="14"></p_pr>
+    <p_tk vh="H" name="Hansen"></p_tk>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:59" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="V,V16,14:27" vh="V" spot="V16" clock="14:27" driveindex="22,182"></drivestart>
+   <play hasball="FOR" down="1" togo="10" spot="FOR16" context="V,1,10,V16" playid="22,1,183" clock="12:28" text="FORDHAM drive start at 12:28." newcontext="V,1,10,V16">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR16" context="V,1,10,V16" playid="22,2,184" type="R" text="Skelton, John rush for 4 yards to the FOR20, out-of-bounds (Weedon)." ob="Y" newcontext="V,2,6,V20">
+    <p_ru vh="V" name="Skelton, John" gain="4"></p_ru>
+    <p_tk vh="H" name="Weedon"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="6" spot="FOR20" context="V,2,6,V20" playid="22,3,185" type="R" text="Martin, Xavier rush for 4 yards to the FOR24 (Harris)." newcontext="V,3,2,V24">
+    <p_ru vh="V" name="Martin, Xavier" gain="4"></p_ru>
+    <p_tk vh="H" name="Harris"></p_tk>
+   </play>
+   <play hasball="FOR" down="3" togo="2" spot="FOR24" context="V,3,2,V24" playid="22,4,186" type="P" first="P" text="Skelton, John pass complete to Lucas, Asa for 4 yards to the FOR28, 1ST DOWN FOR (Shields)." newcontext="V,1,10,V28">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Lucas, Asa" gain="4"></p_pa>
+    <p_tk vh="H" name="Shields"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR28" context="V,1,10,V28" playid="22,5,187" type="P" text="Skelton, John pass complete to Lucas, Asa for 6 yards to the FOR34 (Shields)." newcontext="V,2,4,V34">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Lucas, Asa" gain="6"></p_pa>
+    <p_tk vh="H" name="Shields"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="4" spot="FOR34" context="V,2,4,V34" playid="22,6,188" type="R" first="R" text="Skelton, John rush for 7 yards to the FOR41, 1ST DOWN FOR (Harris)." newcontext="V,1,10,V41">
+    <p_ru vh="V" name="Skelton, John" gain="7"></p_ru>
+    <p_tk vh="H" name="Harris"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR41" context="V,1,10,V41" playid="22,7,189" type="P" text="Skelton, John pass complete to Miller, Patrick for 6 yards to the FOR47 (Hansen)." newcontext="V,2,4,V47">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Miller, Patrick" gain="6"></p_pa>
+    <p_tk vh="H" name="Hansen"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="4" spot="FOR47" context="V,2,4,V47" playid="22,8,190" text="1st and 10." newcontext="V,1,10,V47">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR47" context="V,1,10,V47" playid="22,9,191" type="E" text="PENALTY FOR false start 5 yards to the FOR42." newcontext="V,1,15,V42">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V47" yards="5"></p_pn>
+   </play>
+   <play hasball="FOR" down="1" togo="15" spot="FOR42" context="V,1,15,V42" playid="22,10,192" type="P" first="P" text="Skelton, John pass complete to Skelton, Stephe for 45 yards to the URI13, 1ST DOWN FOR (Damon)." newcontext="V,1,10,H13">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Skelton, Stephe" gain="45"></p_pa>
+    <p_tk vh="H" name="Damon"></p_tk>
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="URI13" context="V,1,10,H13" playid="22,11,193" type="R" text="Whiting, Darryl rush for 4 yards to the URI9 (Adesanya)." newcontext="V,2,6,H09">
+    <p_ru vh="V" name="Whiting, Darryl" gain="4"></p_ru>
+    <p_tk vh="H" name="Adesanya"></p_tk>
+   </play>
+   <play hasball="FOR" down="2" togo="6" spot="URI09" context="V,2,6,H09" playid="22,12,194" type="P" first="P" score="Y" clock="09:34" text="Skelton, John pass complete to Caldwell, Jason for 9 yards to the URI0, 1ST DOWN FOR, TOUCHDOWN, clock 09:34." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Caldwell, Jason" gain="9"></p_pa>
+   </play>
+   <play hasball="FOR" down="1" togo="0" spot="URI03" context="V,1,0,H03" playid="22,13,195" type="X" score="Y" text="Heinowitz, Kevi kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="Heinowitz, Kevi" qb="Heinowitz, Kevi" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="28" H="41"></score>
+   <drivesum plays="9" yards="84" top="2:54" driveindex="22" complete="Y"></drivesum>
+   <play hasball="FOR" down="1" togo="0" spot="FOR30" context="V,1,0,V30" playid="22,14,196" type="K" text="Heinowitz, Kevi kickoff 54 yards to the URI16, Johnson-Farrell return 3 yards to the URI19, out-of-bounds." ob="Y" newcontext="H,1,10,H19">
+    <p_ko vh="V" name="Heinowitz, Kevi" gain="54"></p_ko>
+    <p_kr vh="H" name="Johnson-Farrell" gain="3"></p_kr>
+   </play>
+   <drivestart poss="H,H19,09:34" vh="H" spot="H19" clock="09:34" driveindex="23,196"></drivestart>
+   <play hasball="URI" down="1" togo="10" spot="URI19" context="H,1,10,H19" playid="23,1,197" clock="09:34" text="RHODE ISLAND drive start at 09:34." newcontext="H,1,10,H19">
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="URI19" context="H,1,10,H19" playid="23,2,198" type="R" text="Ferrer rush for 4 yards to the URI23 (Stuckey, Cliff)." newcontext="H,2,6,H23">
+    <p_ru vh="H" name="Ferrer" gain="4"></p_ru>
+    <p_tk vh="V" name="Stuckey, Cliff"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="6" spot="URI23" context="H,2,6,H23" playid="23,3,199" type="R" text="Law Jr rush for loss of 7 yards to the URI16 (Wright, Darzell)." newcontext="H,3,13,H16">
+    <p_ru vh="H" name="Law Jr" gain="-7"></p_ru>
+    <p_tk vh="V" name="Wright, Darzell" tfl="Y"></p_tk>
+   </play>
+   <play hasball="URI" down="3" togo="13" spot="URI16" context="H,3,13,H16" playid="23,4,200" type="P" first="P" text="Stefkovich pass complete to Johnson-Farrell for 40 yards to the FOR44, 1ST DOWN URI (Abdul El-Quddus)." newcontext="H,1,10,V44">
+    <p_pa vh="H" qb="Stefkovich" result="COMP" rcv="Johnson-Farrell" gain="40"></p_pa>
+    <p_tk vh="V" name="Abdul El-Quddus"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR44" context="H,1,10,V44" playid="23,5,201" type="R" text="Lawrence rush for loss of 3 yards to the FOR47 (Stuckey, Cliff;Delaire, Andre)." newcontext="H,2,13,V47">
+    <p_ru vh="H" name="Lawrence" gain="-3"></p_ru>
+    <p_tk vh="V" name="Stuckey, Cliff" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Delaire, Andre" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="13" spot="FOR47" context="H,2,13,V47" playid="23,6,202" type="P" text="Stefkovich pass complete to Bynum for 10 yards to the FOR37, out-of-bounds." ob="Y" newcontext="H,3,3,V37">
+    <p_pa vh="H" qb="Stefkovich" result="COMP" rcv="Bynum" gain="10"></p_pa>
+   </play>
+   <play hasball="URI" down="3" togo="3" spot="FOR37" context="H,3,3,V37" playid="23,7,203" type="P" first="P" text="Stefkovich pass complete to Johnson-Farrell for 5 yards to the FOR32, 1ST DOWN URI (Delaire, Andre)." newcontext="H,1,10,V32">
+    <p_pa vh="H" qb="Stefkovich" result="COMP" rcv="Johnson-Farrell" gain="5"></p_pa>
+    <p_tk vh="V" name="Delaire, Andre"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR32" context="H,1,10,V32" playid="23,8,204" type="P" text="Stefkovich pass incomplete to Johnson-Farrell." newcontext="H,2,10,V32">
+    <p_pa vh="H" qb="Stefkovich" result="INC" rcv="Johnson-Farrell"></p_pa>
+   </play>
+   <play hasball="URI" down="2" togo="10" spot="FOR32" context="H,2,10,V32" playid="23,9,205" type="R" text="Lawrence rush for 3 yards to the FOR29 (Abdul El-Quddus)." newcontext="H,3,7,V29">
+    <p_ru vh="H" name="Lawrence" gain="3"></p_ru>
+    <p_tk vh="V" name="Abdul El-Quddus"></p_tk>
+   </play>
+   <play hasball="URI" down="3" togo="7" spot="FOR29" context="H,3,7,V29" playid="23,10,206" type="E" text="Lawrence rush for 3 yards to the FOR26 (Leake, Isaiah), PENALTY URI HOLD (Bynum) 7 yards to the FOR36, NO PLAY." newcontext="H,3,14,V36">
+    <p_pn vh="H" code="HOLD" type="HOLD" name="Bynum" result="ACCEPT" at="V29" yards="7"></p_pn>
+   </play>
+   <play hasball="URI" down="3" togo="14" spot="FOR36" context="H,3,14,V36" playid="23,11,207" type="R" text="Lawrence rush for 2 yards to the FOR34 (Womack, Nick)." newcontext="H,4,12,V34">
+    <p_ru vh="H" name="Lawrence" gain="2"></p_ru>
+    <p_tk vh="V" name="Womack, Nick"></p_tk>
+   </play>
+   <play hasball="URI" down="4" togo="12" spot="FOR34" context="H,4,12,V34" playid="23,12,208" type="#" clock="04:37" text="Timeout Fordham, clock 04:37." newcontext="H,4,12,V34">
+    <p_to vh="V" team="Fordham"></p_to>
+   </play>
+   <play hasball="URI" down="4" togo="12" spot="FOR34" context="H,4,12,V34" playid="23,13,209" type="U" text="Feinstein punt 24 yards to the FOR10, out-of-bounds." ob="Y" newcontext="V,1,10,V10">
+    <p_pu vh="H" name="Feinstein" gain="24" in20="Y" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="9" yards="47" top="5:03" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="V,V10,04:37" vh="V" spot="V10" clock="04:37" driveindex="24,209"></drivestart>
+   <play hasball="FOR" down="1" togo="10" spot="FOR10" context="V,1,10,V10" playid="24,1,210" clock="04:31" text="FORDHAM drive start at 04:31." newcontext="V,1,10,V10">
+   </play>
+   <play hasball="FOR" down="1" togo="10" spot="FOR10" context="V,1,10,V10" playid="24,2,211" type="P" text="Skelton, John pass incomplete to Moore, David (Glenn)." newcontext="V,2,10,V10">
+    <p_pa vh="V" qb="Skelton, John" result="BRUP" rcv="Moore, David"></p_pa>
+    <p_bu vh="H" name="Glenn"></p_bu>
+   </play>
+   <play hasball="FOR" down="2" togo="10" spot="FOR10" context="V,2,10,V10" playid="24,3,212" type="P" text="Skelton, John pass incomplete to Skelton, Stephe." newcontext="V,3,10,V10">
+    <p_pa vh="V" qb="Skelton, John" result="INC" rcv="Skelton, Stephe"></p_pa>
+   </play>
+   <play hasball="FOR" down="3" togo="10" spot="FOR10" context="V,3,10,V10" playid="24,4,213" type="P" text="Skelton, John pass incomplete to Caldwell, Jason (Glenn)." newcontext="V,4,10,V10">
+    <p_pa vh="V" qb="Skelton, John" result="INC" rcv="Caldwell, Jason"></p_pa>
+    <p_bu vh="H" name="Glenn"></p_bu>
+   </play>
+   <play hasball="FOR" down="4" togo="10" spot="FOR10" context="V,4,10,V10" playid="24,5,214" type="P" turnover="F" text="Skelton, John pass complete to Caldwell, Jason for 22 yards to the FOR32, fumble forced by Damon, fumble by Caldwell, Jason recovered by URI Rae at FOR29." newcontext="H,1,10,V29">
+    <p_pa vh="V" qb="Skelton, John" result="COMP" rcv="Caldwell, Jason" gain="22"></p_pa>
+    <p_fumb vh="V" name="Caldwell, Jason" at="V29" frvh="H" frname="Rae"></p_fumb>
+    <p_tk vh="H" name="Damon" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="4" yards="19" top="0:33" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="H,V29,04:31" vh="H" spot="V29" clock="04:31" driveindex="25,214"></drivestart>
+   <play hasball="URI" down="1" togo="10" spot="FOR29" context="H,1,10,V29" playid="25,1,215" clock="03:58" text="RHODE ISLAND drive start at 03:58." newcontext="H,1,10,V29">
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR29" context="H,1,10,V29" playid="25,2,216" type="R" text="Ferrer rush for 7 yards to the FOR22 (Allen, Isiejah)." newcontext="H,2,3,V22">
+    <p_ru vh="H" name="Ferrer" gain="7"></p_ru>
+    <p_tk vh="V" name="Allen, Isiejah"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="3" spot="FOR22" context="H,2,3,V22" playid="25,3,217" type="#" clock="03:51" text="Timeout Fordham, clock 03:51." newcontext="H,2,3,V22">
+    <p_to vh="V" team="Fordham"></p_to>
+   </play>
+   <play hasball="URI" down="2" togo="3" spot="FOR22" context="H,2,3,V22" playid="25,4,218" type="R" text="Ferrer rush for loss of 1 yard to the FOR23 (Crockett, James)." newcontext="H,3,4,V23">
+    <p_ru vh="H" name="Ferrer" gain="-1"></p_ru>
+    <p_tk vh="V" name="Crockett, James" tfl="Y"></p_tk>
+   </play>
+   <play hasball="URI" down="3" togo="4" spot="FOR23" context="H,3,4,V23" playid="25,5,219" type="#" clock="03:36" text="Timeout Fordham, clock 03:36." newcontext="H,3,4,V23">
+    <p_to vh="V" team="Fordham"></p_to>
+   </play>
+   <play hasball="URI" down="3" togo="4" spot="FOR23" context="H,3,4,V23" playid="25,6,220" type="R" text="Ferrer rush for loss of 2 yards to the FOR25 (Stuckey, Cliff)." newcontext="H,4,6,V25">
+    <p_ru vh="H" name="Ferrer" gain="-2"></p_ru>
+    <p_tk vh="V" name="Stuckey, Cliff" tfl="Y"></p_tk>
+   </play>
+   <play hasball="URI" down="4" togo="6" spot="FOR25" context="H,4,6,V25" playid="25,7,221" type="R" first="R" text="Ferrer rush for 6 yards to the FOR19, 1ST DOWN URI (Wilson, Bryson)." newcontext="H,1,10,V19">
+    <p_ru vh="H" name="Ferrer" gain="6"></p_ru>
+    <p_tk vh="V" name="Wilson, Bryson"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="10" spot="FOR19" context="H,1,10,V19" playid="25,8,222" type="R" text="Ferrer rush for no gain to the FOR19 (Lloyd, Thomas;Martin, Mike)." newcontext="H,2,10,V19">
+    <p_ru vh="H" name="Ferrer" gain="0"></p_ru>
+    <p_tk vh="V" name="Lloyd, Thomas" assist="Y"></p_tk>
+    <p_tk vh="V" name="Martin, Mike" assist="Y"></p_tk>
+   </play>
+   <play hasball="URI" down="2" togo="10" spot="FOR19" context="H,2,10,V19" playid="25,9,223" type="R" text="Ferrer rush for 9 yards to the FOR10 (Stuckey, Cliff)." newcontext="H,3,1,V10">
+    <p_ru vh="H" name="Ferrer" gain="9"></p_ru>
+    <p_tk vh="V" name="Stuckey, Cliff"></p_tk>
+   </play>
+   <play hasball="URI" down="3" togo="1" spot="FOR10" context="H,3,1,V10" playid="25,10,224" type="R" text="Ferrer rush for no gain to the FOR10 (Allen, Isiejah)." newcontext="H,4,1,V10">
+    <p_ru vh="H" name="Ferrer" gain="0"></p_ru>
+    <p_tk vh="V" name="Allen, Isiejah"></p_tk>
+   </play>
+   <play hasball="URI" down="4" togo="1" spot="FOR10" context="H,4,1,V10" playid="25,11,225" type="R" first="R" text="Ferrer rush for 3 yards to the FOR7, 1ST DOWN URI (Martin, Mike)." newcontext="H,1,0,V07">
+    <p_ru vh="H" name="Ferrer" gain="3"></p_ru>
+    <p_tk vh="V" name="Martin, Mike"></p_tk>
+   </play>
+   <play hasball="URI" down="1" togo="0" spot="FOR07" context="H,1,0,V07" playid="25,12,226" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="H,1,0,V07">
+   </play>
+   <drivesum plays="8" yards="22" top="3:58" driveindex="25" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Rhode Island defeats Fordham by a score of 41 to 28."></play>
+   <score final="Y" V="28" H="41"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="FOR">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="5"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="1" fourthatt="2"></conversions>
+    <fumbles no="1" lost="1"></fumbles>
+    <misc yds="0" top="03:54"></misc>
+    <rush att="5" yds="25" gain="25" loss="0" td="1" long="0"></rush>
+    <pass comp="7" att="10" int="0" yds="86" td="1" long="21" sacks="0" sackyds="0"></pass>
+    <rcv no="7" yds="86" td="1" long="21"></rcv>
+    <ko no="2" yds="104" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="16" tacka="4" tot_tack="20" tflua="6" tfla="0" tflyds="21" sacks="0" sackyds="0"></defense>
+    <pr no="1" yds="14" td="0" long="14"></pr>
+    <fumbles no="1" lost="1"></fumbles>
+    <scoring td="2" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="URI">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="2" yds="12"></penalties>
+    <conversions thirdconv="2" thirdatt="6" fourthconv="2" fourthatt="2"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="11:06"></misc>
+    <rush att="14" yds="16" gain="34" loss="18" td="0" long="0"></rush>
+    <pass comp="4" att="6" int="0" yds="62" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="62" td="0" long="0"></rcv>
+    <punt no="2" yds="85" long="10" blkd="0" tb="0" fc="0" plus50="1" inside20="2" avg="42.5"></punt>
+    <defense tackua="11" tacka="0" tot_tack="11" tflua="1" tfla="0" tflyds="3" sacks="2" sackyds="6" brup="2" ff="1" fr="1" fryds="0"></defense>
+    <kr no="2" yds="23" td="0" long="0"></kr>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="H" id="URI" down="1" togo="0" spot="FOR07" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="0" htor="2" dtgtext="Game Over" ldtext="Drive started: 03:58, 4th Qtr"></downtogo>
+ </plays>

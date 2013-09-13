@@ -1,0 +1,909 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="NU" down="1" togo="10" spot="NU30" context="V,1,10,V30" playid="0,1,0" text="BC wins toss, defers.  BC will kick off and defend the north goal." newcontext="V,1,10,V30">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU30" context="V,1,10,V30" playid="0,2,1" text="BC ball on BC30." newcontext="H,1,10,H30">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="BC30" context="H,1,10,H30" playid="0,3,2" type="K" text="Quigley, R kickoff 59 yards to the NU11, Murray Sesay return 20 yards to the NU31 (LeGrande, D)." newcontext="V,1,10,V31">
+    <p_ko vh="H" name="Quigley, R" gain="59"></p_ko>
+    <p_kr vh="V" name="Murray Sesay" gain="20"></p_kr>
+    <p_tk vh="H" name="LeGrande, D"></p_tk>
+   </play>
+   <drivestart poss="V,V31,15:00" vh="V" spot="V31" clock="15:00" driveindex="1,2"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU31" context="V,1,10,V31" playid="1,1,3" type="R" text="Griffin rush for loss of 2 yards to the NU29 (Albright, A;Kuechly, L)." newcontext="V,2,12,V29">
+    <p_ru vh="V" name="Griffin" gain="-2"></p_ru>
+    <p_tk vh="H" name="Albright, A" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="Kuechly, L" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="12" spot="NU29" context="V,2,12,V29" playid="1,2,4" type="P" text="Dulski pass complete to Abelli for 4 yards to the NU33 (Kuechly, L)." newcontext="V,3,8,V33">
+    <p_pa vh="V" qb="Dulski" result="COMP" rcv="Abelli" gain="4"></p_pa>
+    <p_tk vh="H" name="Kuechly, L"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="8" spot="NU33" context="V,3,8,V33" playid="1,3,5" type="R" text="Dulski rush for 1 yard to the NU34 (Scafe, D)." newcontext="V,4,7,V34">
+    <p_ru vh="V" name="Dulski" gain="1"></p_ru>
+    <p_tk vh="H" name="Scafe, D"></p_tk>
+   </play>
+   <play hasball="NU" down="4" togo="7" spot="NU34" context="V,4,7,V34" playid="1,4,6" type="U" text="Conway punt 14 yards to the NU48, downed." newcontext="H,1,10,V48">
+    <p_pu vh="V" name="Conway" gain="14"></p_pu>
+   </play>
+   <drivesum plays="3" yards="3" top="2:01" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="H,V48,15:00" vh="H" spot="V48" clock="15:00" driveindex="2,6"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="NU48" context="H,1,10,V48" playid="2,1,7" clock="12:59" text="BOSTON COLLEGE drive start at 12:59." newcontext="H,1,10,V48">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU48" context="H,1,10,V48" playid="2,2,8" type="R" first="R" score="Y" clock="12:45" text="Harris, M rush for 48 yards to the NU0, 1ST DOWN BC, TOUCHDOWN, clock 12:45." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Harris, M" gain="48"></p_ru>
+   </play>
+   <play hasball="BC" down="1" togo="0" spot="NU03" context="H,1,0,V03" playid="2,3,9" type="X" score="Y" text="Aponavicius, S kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Aponavicius, S" qb="Aponavicius, S" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="1" yards="48" top="0:14" driveindex="2" complete="Y"></drivesum>
+   <play hasball="BC" down="1" togo="0" spot="BC30" context="H,1,0,H30" playid="2,4,10" type="K" text="Quigley, R kickoff 59 yards to the NU11, Murray Sesay return 20 yards to the NU31 (Rollins, R)." newcontext="V,1,10,V31">
+    <p_ko vh="H" name="Quigley, R" gain="59"></p_ko>
+    <p_kr vh="V" name="Murray Sesay" gain="20"></p_kr>
+    <p_tk vh="H" name="Rollins, R"></p_tk>
+   </play>
+   <drivestart poss="V,V31,12:45" vh="V" spot="V31" clock="12:45" driveindex="3,10"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU31" context="V,1,10,V31" playid="3,1,11" clock="12:45" text="NORTHEASTERN drive start at 12:45." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU31" context="V,1,10,V31" playid="3,2,12" type="P" text="Dulski pass complete to Abelli for 2 yards to the NU33 (LeGrande, D)." newcontext="V,2,8,V33">
+    <p_pa vh="V" qb="Dulski" result="COMP" rcv="Abelli" gain="2"></p_pa>
+    <p_tk vh="H" name="LeGrande, D"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="8" spot="NU33" context="V,2,8,V33" playid="3,3,13" type="R" text="Griffin rush for 5 yards to the NU38 (Giles, A)." newcontext="V,3,3,V38">
+    <p_ru vh="V" name="Griffin" gain="5"></p_ru>
+    <p_tk vh="H" name="Giles, A"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="3" spot="NU38" context="V,3,3,V38" playid="3,4,14" type="R" text="Griffin rush for 2 yards to the NU40 (Kuechly, L)." newcontext="V,4,1,V40">
+    <p_ru vh="V" name="Griffin" gain="2"></p_ru>
+    <p_tk vh="H" name="Kuechly, L"></p_tk>
+   </play>
+   <play hasball="NU" down="4" togo="1" spot="NU40" context="V,4,1,V40" playid="3,5,15" type="U" text="Conway punt 45 yards to the BC15, Gunnell, R return 56 yards to the NU29 (Fears)." newcontext="H,1,10,V29">
+    <p_pu vh="V" name="Conway" gain="45"></p_pu>
+    <p_pr vh="H" name="Gunnell, R" gain="56"></p_pr>
+    <p_tk vh="V" name="Fears"></p_tk>
+   </play>
+   <drivesum plays="3" yards="9" top="2:20" driveindex="3" complete="Y"></drivesum>
+   <drivestart poss="H,V29,12:45" vh="H" spot="V29" clock="12:45" driveindex="4,15"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="NU29" context="H,1,10,V29" playid="4,1,16" clock="10:25" text="BOSTON COLLEGE drive start at 10:25." newcontext="H,1,10,V29">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU29" context="H,1,10,V29" playid="4,2,17" type="R" text="Haden, J rush for 8 yards to the NU21 (Kenney)." newcontext="H,2,2,V21">
+    <p_ru vh="H" name="Haden, J" gain="8"></p_ru>
+    <p_tk vh="V" name="Kenney"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="2" spot="NU21" context="H,2,2,V21" playid="4,3,18" type="P" text="Tuggle, J pass incomplete to Gunnell, R." newcontext="H,3,2,V21">
+    <p_pa vh="H" qb="Tuggle, J" result="INC" rcv="Gunnell, R"></p_pa>
+   </play>
+   <play hasball="BC" down="3" togo="2" spot="NU21" context="H,3,2,V21" playid="4,4,19" type="R" first="R" text="Harris, M rush for 6 yards to the NU15, 1ST DOWN BC (Jones)." newcontext="H,1,10,V15">
+    <p_ru vh="H" name="Harris, M" gain="6"></p_ru>
+    <p_tk vh="V" name="Jones"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU15" context="H,1,10,V15" playid="4,5,20" type="R" first="E" text="Harris, M rush for 1 yard to the NU14 (Romelus), PENALTY NU personal foul 7 yards to the NU7, 1ST DOWN BC." newcontext="H,1,0,V07">
+    <p_ru vh="H" name="Harris, M" gain="1"></p_ru>
+    <p_tk vh="V" name="Romelus"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" result="ACCEPT" at="V14" yards="7"></p_pn>
+   </play>
+   <play hasball="BC" down="1" togo="0" spot="NU07" context="H,1,0,V07" playid="4,6,21" text="1st and 7." newcontext="H,1,0,V07">
+   </play>
+   <play hasball="BC" down="1" togo="0" spot="NU07" context="H,1,0,V07" playid="4,7,22" type="R" score="Y" clock="08:52" text="Haden, J rush for 7 yards to the NU0, TOUCHDOWN, clock 08:52." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Haden, J" gain="7"></p_ru>
+   </play>
+   <play hasball="BC" down="1" togo="0" spot="NU03" context="H,1,0,V03" playid="4,8,23" type="X" score="Y" text="Aponavicius, S kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Aponavicius, S" qb="Aponavicius, S" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="14"></score>
+   <drivesum plays="5" yards="29" top="1:33" driveindex="4" complete="Y"></drivesum>
+   <play hasball="BC" down="1" togo="0" spot="BC30" context="H,1,0,H30" playid="4,9,24" type="K" text="Quigley, R kickoff 55 yards to the NU15, Harris return 21 yards to the NU36 (Fletcher, D)." newcontext="V,1,10,V36">
+    <p_ko vh="H" name="Quigley, R" gain="55"></p_ko>
+    <p_kr vh="V" name="Harris" gain="21"></p_kr>
+    <p_tk vh="H" name="Fletcher, D"></p_tk>
+   </play>
+   <drivestart poss="V,V36,08:52" vh="V" spot="V36" clock="08:52" driveindex="5,24"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU36" context="V,1,10,V36" playid="5,1,25" clock="08:52" text="NORTHEASTERN drive start at 08:52." newcontext="V,1,10,V36">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU36" context="V,1,10,V36" playid="5,2,26" type="R" text="Griffin rush for 4 yards to the NU40 (Rossi, N)." newcontext="V,2,6,V40">
+    <p_ru vh="V" name="Griffin" gain="4"></p_ru>
+    <p_tk vh="H" name="Rossi, N"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="6" spot="NU40" context="V,2,6,V40" playid="5,3,27" type="R" text="Harris rush for 4 yards to the NU44 (Newman, B;Johnson, I)." newcontext="V,3,2,V44">
+    <p_ru vh="V" name="Harris" gain="4"></p_ru>
+    <p_tk vh="H" name="Newman, B" assist="Y"></p_tk>
+    <p_tk vh="H" name="Johnson, I" assist="Y"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="2" spot="NU44" context="V,3,2,V44" playid="5,4,28" type="R" text="Harris rush for 1 yard to the NU45 (Clancy, N)." newcontext="V,4,1,V45">
+    <p_ru vh="V" name="Harris" gain="1"></p_ru>
+    <p_tk vh="H" name="Clancy, N"></p_tk>
+   </play>
+   <play hasball="NU" down="4" togo="1" spot="NU45" context="V,4,1,V45" playid="5,5,29" type="U" text="Conway punt 31 yards to the BC24, downed." newcontext="H,1,10,H24">
+    <p_pu vh="V" name="Conway" gain="31"></p_pu>
+   </play>
+   <drivesum plays="3" yards="9" top="2:00" driveindex="5" complete="Y"></drivesum>
+   <drivestart poss="H,H24,08:52" vh="H" spot="H24" clock="08:52" driveindex="6,29"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="BC24" context="H,1,10,H24" playid="6,1,30" clock="06:52" text="BOSTON COLLEGE drive start at 06:52." newcontext="H,1,10,H24">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="BC24" context="H,1,10,H24" playid="6,2,31" text="BC ball on BC25." newcontext="H,1,10,H25">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="BC25" context="H,1,10,H25" playid="6,3,32" type="P" first="P" text="Shinskie, D pass complete to Pantale, C for 12 yards to the BC37, 1ST DOWN BC (Jones), PENALTY NU personal foul 15 yards to the NU48, 1ST DOWN BC." newcontext="H,1,10,V48">
+    <p_pa vh="H" qb="Shinskie, D" result="COMP" rcv="Pantale, C" gain="12"></p_pa>
+    <p_tk vh="V" name="Jones"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" result="ACCEPT" at="H37" yards="15"></p_pn>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU48" context="H,1,10,V48" playid="6,4,33" text="1st and 10." newcontext="H,1,10,V48">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU48" context="H,1,10,V48" playid="6,5,34" type="R" text="Haden, J rush for 4 yards to the NU44 (Lukenda)." newcontext="H,2,6,V44">
+    <p_ru vh="H" name="Haden, J" gain="4"></p_ru>
+    <p_tk vh="V" name="Lukenda"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="6" spot="NU44" context="H,2,6,V44" playid="6,6,35" type="R" first="R" text="Haden, J rush for 13 yards to the NU31, 1ST DOWN BC (Jones;Thellen)." newcontext="H,1,10,V31">
+    <p_ru vh="H" name="Haden, J" gain="13"></p_ru>
+    <p_tk vh="V" name="Jones" assist="Y"></p_tk>
+    <p_tk vh="V" name="Thellen" assist="Y"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU31" context="H,1,10,V31" playid="6,7,36" type="R" first="R" text="Haden, J rush for 17 yards to the NU14, 1ST DOWN BC (Pollard)." newcontext="H,1,10,V14">
+    <p_ru vh="H" name="Haden, J" gain="17"></p_ru>
+    <p_tk vh="V" name="Pollard"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU14" context="H,1,10,V14" playid="6,8,37" type="R" text="Haden, J rush for 3 yards to the NU11 (Biggs)." newcontext="H,2,7,V11">
+    <p_ru vh="H" name="Haden, J" gain="3"></p_ru>
+    <p_tk vh="V" name="Biggs"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="7" spot="NU11" context="H,2,7,V11" playid="6,9,38" type="P" first="P" text="Shinskie, D pass complete to Flutie, B for 7 yards to the NU4, 1ST DOWN BC (Thellen)." newcontext="H,1,0,V04">
+    <p_pa vh="H" qb="Shinskie, D" result="COMP" rcv="Flutie, B" gain="7"></p_pa>
+    <p_tk vh="V" name="Thellen"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="0" spot="NU04" context="H,1,0,V04" playid="6,10,39" type="R" score="Y" clock="04:01" text="Harris, M rush for 4 yards to the NU0, TOUCHDOWN, clock 04:01." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Harris, M" gain="4"></p_ru>
+   </play>
+   <play hasball="BC" down="1" togo="0" spot="NU03" context="H,1,0,V03" playid="6,11,40" type="X" score="Y" text="Aponavicius, S kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Aponavicius, S" qb="Aponavicius, S" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="21"></score>
+   <drivesum plays="7" yards="75" top="2:51" driveindex="6" complete="Y"></drivesum>
+   <play hasball="BC" down="1" togo="0" spot="BC30" context="H,1,0,H30" playid="6,12,41" type="K" text="Quigley, R kickoff 70 yards to the NU0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="Quigley, R" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,04:01" vh="V" spot="V20" clock="04:01" driveindex="7,41"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU20" context="V,1,10,V20" playid="7,1,42" clock="04:01" text="NORTHEASTERN drive start at 04:01." newcontext="V,1,10,V20">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU20" context="V,1,10,V20" playid="7,2,43" type="P" text="Dulski pass complete to Lott for 5 yards to the NU25 (Fletcher, D)." newcontext="V,2,5,V25">
+    <p_pa vh="V" qb="Dulski" result="COMP" rcv="Lott" gain="5"></p_pa>
+    <p_tk vh="H" name="Fletcher, D"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="5" spot="NU25" context="V,2,5,V25" playid="7,3,44" type="P" first="P" text="Dulski pass complete to Sibert for 10 yards to the NU35, 1ST DOWN NU (Noel, J;LeGrande, D)." newcontext="V,1,10,V35">
+    <p_pa vh="V" qb="Dulski" result="COMP" rcv="Sibert" gain="10"></p_pa>
+    <p_tk vh="H" name="Noel, J" assist="Y"></p_tk>
+    <p_tk vh="H" name="LeGrande, D" assist="Y"></p_tk>
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU35" context="V,1,10,V35" playid="7,4,45" type="R" text="Dulski rush for 3 yards to the NU38 (Ramella, J)." newcontext="V,2,7,V38">
+    <p_ru vh="V" name="Dulski" gain="3"></p_ru>
+    <p_tk vh="H" name="Ramella, J"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="7" spot="NU38" context="V,2,7,V38" playid="7,5,46" type="R" text="Dulski rush for 5 yards to the NU43 (Albright, A)." newcontext="V,3,2,V43">
+    <p_ru vh="V" name="Dulski" gain="5"></p_ru>
+    <p_tk vh="H" name="Albright, A"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="2" spot="NU43" context="V,3,2,V43" playid="7,6,47" type="R" first="R" text="Dulski rush for 4 yards to the NU47, 1ST DOWN NU (Kuechly, L)." newcontext="V,1,10,V47">
+    <p_ru vh="V" name="Dulski" gain="4"></p_ru>
+    <p_tk vh="H" name="Kuechly, L"></p_tk>
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU47" context="V,1,10,V47" playid="7,7,48" type="R" text="Abelli rush for 1 yard to the NU48 (LeGrande, D)." newcontext="V,2,9,V48">
+    <p_ru vh="V" name="Abelli" gain="1"></p_ru>
+    <p_tk vh="H" name="LeGrande, D"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="9" spot="NU48" context="V,2,9,V48" playid="7,8,49" type="R" text="Griffin rush for 1 yard to the NU49 (DiSanzo, A)." newcontext="V,3,8,V49">
+    <p_ru vh="V" name="Griffin" gain="1"></p_ru>
+    <p_tk vh="H" name="DiSanzo, A"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="21"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NU">
+    <firstdowns no="2" rush="1" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="22"></penalties>
+    <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="10:22"></misc>
+    <rush att="12" yds="29" gain="31" loss="2" td="0" long="5"></rush>
+    <pass comp="4" att="4" int="0" yds="21" td="0" long="10" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="21" td="0" long="10"></rcv>
+    <punt no="3" yds="90" long="45" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="30.0"></punt>
+    <defense tackua="9" tacka="2" tot_tack="11" sacks="0" sackyds="0"></defense>
+    <kr no="3" yds="61" td="0" long="21"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="BC">
+    <firstdowns no="8" rush="4" pass="2" penalty="2"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:38"></misc>
+    <rush att="10" yds="111" gain="111" loss="0" td="3" long="48"></rush>
+    <pass comp="2" att="3" int="0" yds="19" td="0" long="12" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="19" td="0" long="12"></rcv>
+    <ko no="4" yds="243" ob="0" tb="1"></ko>
+    <pat kickatt="3" kickmade="3"></pat>
+    <defense tackua="16" tacka="6" tot_tack="22" tflua="2" tfla="0" tflyds="4" sacks="0" sackyds="0"></defense>
+    <pr no="1" yds="56" td="0" long="56"></pr>
+    <scoring td="3" patkick="3"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="NU" down="3" togo="8" spot="NU49" context="V,3,8,V49" playid="7,9,50" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,3,8,V49">
+   </play>
+   <play hasball="NU" down="3" togo="8" spot="NU49" context="V,3,8,V49" playid="7,10,51" type="P" text="Dulski pass incomplete to Abelli (Kuechly, L)." newcontext="V,4,8,V49">
+    <p_pa vh="V" qb="Dulski" result="INC" rcv="Abelli"></p_pa>
+    <p_bu vh="H" name="Kuechly, L"></p_bu>
+   </play>
+   <play hasball="NU" down="4" togo="8" spot="NU49" context="V,4,8,V49" playid="7,11,52" type="U" text="Conway punt 31 yards to the BC20, fair catch by Gunnell, R." newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Conway" gain="31" fc="Gunnell, R"></p_pu>
+   </play>
+   <drivesum plays="8" yards="29" top="4:16" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="H,H20,15:00" vh="H" spot="H20" clock="15:00" driveindex="8,52"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="BC20" context="H,1,10,H20" playid="8,1,53" clock="14:45" text="BOSTON COLLEGE drive start at 14:45." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="BC20" context="H,1,10,H20" playid="8,2,54" type="R" text="Harris, M rush for 9 yards to the BC29 (Thellen)." newcontext="H,2,1,H29">
+    <p_ru vh="H" name="Harris, M" gain="9"></p_ru>
+    <p_tk vh="V" name="Thellen"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="1" spot="BC29" context="H,2,1,H29" playid="8,3,55" type="R" text="Harris, M rush for no gain to the BC29 (Thellen;Vega)." newcontext="H,3,1,H29">
+    <p_ru vh="H" name="Harris, M" gain="0"></p_ru>
+    <p_tk vh="V" name="Thellen" assist="Y"></p_tk>
+    <p_tk vh="V" name="Vega" assist="Y"></p_tk>
+   </play>
+   <play hasball="BC" down="3" togo="1" spot="BC29" context="H,3,1,H29" playid="8,4,56" type="R" first="R" text="Shinskie, D rush for 2 yards to the BC31, 1ST DOWN BC (Akinniyi)." newcontext="H,1,10,H31">
+    <p_ru vh="H" name="Shinskie, D" gain="2"></p_ru>
+    <p_tk vh="V" name="Akinniyi"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="BC31" context="H,1,10,H31" playid="8,5,57" type="P" first="P" text="Shinskie, D pass complete to Megwa, C for 22 yards to the NU47, 1ST DOWN BC (Kenney)." newcontext="H,1,10,V47">
+    <p_pa vh="H" qb="Shinskie, D" result="COMP" rcv="Megwa, C" gain="22"></p_pa>
+    <p_tk vh="V" name="Kenney"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU47" context="H,1,10,V47" playid="8,6,58" type="R" text="Haden, J rush for loss of 2 yards to the NU49 (Laperriere)." newcontext="H,2,12,V49">
+    <p_ru vh="H" name="Haden, J" gain="-2"></p_ru>
+    <p_tk vh="V" name="Laperriere" tfl="Y"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="12" spot="NU49" context="H,2,12,V49" playid="8,7,59" type="P" text="Shinskie, D pass incomplete to Anderson, L." newcontext="H,3,12,V49">
+    <p_pa vh="H" qb="Shinskie, D" result="INC" rcv="Anderson, L"></p_pa>
+   </play>
+   <play hasball="BC" down="3" togo="12" spot="NU49" context="H,3,12,V49" playid="8,8,60" type="P" text="Shinskie, D pass incomplete (Vega)." newcontext="H,4,12,V49">
+    <p_pa vh="H" qb="Shinskie, D" result="INC"></p_pa>
+    <p_bu vh="V" name="Vega"></p_bu>
+   </play>
+   <play hasball="BC" down="4" togo="12" spot="NU49" context="H,4,12,V49" playid="8,9,61" type="U" text="Quigley, R punt 47 yards to the NU2, Abelli return 2 yards to the NU4 (Flaherty, S)." newcontext="V,1,10,V04">
+    <p_pu vh="H" name="Quigley, R" gain="47" in20="Y"></p_pu>
+    <p_pr vh="V" name="Abelli" gain="2"></p_pr>
+    <p_tk vh="H" name="Flaherty, S"></p_tk>
+   </play>
+   <drivesum plays="7" yards="31" top="3:07" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="V,V04,14:45" vh="V" spot="V04" clock="14:45" driveindex="9,61"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU04" context="V,1,10,V04" playid="9,1,62" clock="11:38" text="NORTHEASTERN drive start at 11:38." newcontext="V,1,10,V04">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU04" context="V,1,10,V04" playid="9,2,63" type="P" text="Dulski pass incomplete to Lott." newcontext="V,2,10,V04">
+    <p_pa vh="V" qb="Dulski" result="INC" rcv="Lott"></p_pa>
+   </play>
+   <play hasball="NU" down="2" togo="10" spot="NU04" context="V,2,10,V04" playid="9,3,64" type="R" text="Griffin rush for no gain to the NU4 (Giles, A;Scafe, D)." newcontext="V,3,10,V04">
+    <p_ru vh="V" name="Griffin" gain="0"></p_ru>
+    <p_tk vh="H" name="Giles, A" assist="Y"></p_tk>
+    <p_tk vh="H" name="Scafe, D" assist="Y"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="10" spot="NU04" context="V,3,10,V04" playid="9,4,65" type="R" text="Griffin rush for loss of 3 yards to the NU1 (Morrissey, M)." newcontext="V,4,13,V01">
+    <p_ru vh="V" name="Griffin" gain="-3"></p_ru>
+    <p_tk vh="H" name="Morrissey, M" tfl="Y"></p_tk>
+   </play>
+   <play hasball="NU" down="4" togo="13" spot="NU01" context="V,4,13,V01" playid="9,5,66" type="U" score="Y" clock="10:29" text="Conway punt 45 yards to the NU46, Gunnell, R return 46 yards to the NU0, TOUCHDOWN, clock 10:29." newcontext="H,1,0,V03">
+    <p_pu vh="V" name="Conway" gain="45"></p_pu>
+    <p_pr vh="H" name="Gunnell, R" gain="46"></p_pr>
+   </play>
+   <drivesum plays="3" yards="-3" top="1:09" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="H,V03,10:29" vh="H" spot="V03" clock="10:29" driveindex="10,66"></drivestart>
+   <play hasball="BC" down="1" togo="0" spot="NU03" context="H,1,0,V03" playid="10,1,67" type="X" score="Y" text="Aponavicius, S kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Aponavicius, S" qb="Aponavicius, S" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="28"></score>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="10" complete="Y"></drivesum>
+   <play hasball="BC" down="1" togo="0" spot="BC30" context="H,1,0,H30" playid="10,2,68" type="K" text="Quigley, R kickoff 58 yards to the NU12, Coles return 6 yards to the NU18 (Johnson, I)." newcontext="V,1,10,V18">
+    <p_ko vh="H" name="Quigley, R" gain="58"></p_ko>
+    <p_kr vh="V" name="Coles" gain="6"></p_kr>
+    <p_tk vh="H" name="Johnson, I"></p_tk>
+   </play>
+   <drivestart poss="V,V18,10:29" vh="V" spot="V18" clock="10:29" driveindex="11,68"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU18" context="V,1,10,V18" playid="11,1,69" clock="10:29" text="NORTHEASTERN drive start at 10:29." newcontext="V,1,10,V18">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU18" context="V,1,10,V18" playid="11,2,70" type="R" text="Dulski rush for 6 yards to the NU24 (Bowman, M)." newcontext="V,2,4,V24">
+    <p_ru vh="V" name="Dulski" gain="6"></p_ru>
+    <p_tk vh="H" name="Bowman, M"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="4" spot="NU24" context="V,2,4,V24" playid="11,3,71" type="P" first="P" text="Carroll pass complete to Batts for 8 yards to the NU32, 1ST DOWN NU (Gause, D)." newcontext="V,1,10,V32">
+    <p_pa vh="V" qb="Carroll" result="COMP" rcv="Batts" gain="8"></p_pa>
+    <p_tk vh="H" name="Gause, D"></p_tk>
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU32" context="V,1,10,V32" playid="11,4,72" type="R" text="Carroll rush for no gain to the NU32 (Kuechly, L)." newcontext="V,2,10,V32">
+    <p_ru vh="V" name="Carroll" gain="0"></p_ru>
+    <p_tk vh="H" name="Kuechly, L"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="10" spot="NU32" context="V,2,10,V32" playid="11,5,73" type="R" text="Griffin rush for loss of 1 yard to the NU31 (Rollins, R)." newcontext="V,3,11,V31">
+    <p_ru vh="V" name="Griffin" gain="-1"></p_ru>
+    <p_tk vh="H" name="Rollins, R" tfl="Y"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="11" spot="NU31" context="V,3,11,V31" playid="11,6,74" type="R" text="Sibert rush for 8 yards to the NU39 (Gause, D)." newcontext="V,4,3,V39">
+    <p_ru vh="V" name="Sibert" gain="8"></p_ru>
+    <p_tk vh="H" name="Gause, D"></p_tk>
+   </play>
+   <play hasball="NU" down="4" togo="3" spot="NU39" context="V,4,3,V39" playid="11,7,75" type="U" text="Conway punt 7 yards to the NU46, downed." newcontext="H,1,10,V46">
+    <p_pu vh="V" name="Conway" gain="7"></p_pu>
+   </play>
+   <drivesum plays="5" yards="21" top="2:57" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="H,V46,10:29" vh="H" spot="V46" clock="10:29" driveindex="12,75"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="NU46" context="H,1,10,V46" playid="12,1,76" clock="07:32" text="BOSTON COLLEGE drive start at 07:32." newcontext="H,1,10,V46">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU46" context="H,1,10,V46" playid="12,2,77" type="R" text="Haden, J rush for loss of 1 yard to the NU47 (Higgins)." newcontext="H,2,11,V47">
+    <p_ru vh="H" name="Haden, J" gain="-1"></p_ru>
+    <p_tk vh="V" name="Higgins" tfl="Y"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="11" spot="NU47" context="H,2,11,V47" playid="12,3,78" type="R" text="Tuggle, J rush for 5 yards to the NU42 (Kenney)." newcontext="H,3,6,V42">
+    <p_ru vh="H" name="Tuggle, J" gain="5"></p_ru>
+    <p_tk vh="V" name="Kenney"></p_tk>
+   </play>
+   <play hasball="BC" down="3" togo="6" spot="NU42" context="H,3,6,V42" playid="12,4,79" type="#" clock="06:17" text="Timeout Northeastern, clock 06:17." newcontext="H,3,6,V42">
+    <p_to vh="V" team="Northeastern"></p_to>
+   </play>
+   <play hasball="BC" down="3" togo="6" spot="NU42" context="H,3,6,V42" playid="12,5,80" type="R" first="R" text="Tuggle, J rush for 7 yards to the NU35, 1ST DOWN BC (Higgins)." newcontext="H,1,10,V35">
+    <p_ru vh="H" name="Tuggle, J" gain="7"></p_ru>
+    <p_tk vh="V" name="Higgins"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU35" context="H,1,10,V35" playid="12,6,81" type="R" first="R" text="Harris, M rush for 20 yards to the NU15, 1ST DOWN BC (Higgins)." newcontext="H,1,10,V15">
+    <p_ru vh="H" name="Harris, M" gain="20"></p_ru>
+    <p_tk vh="V" name="Higgins"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU15" context="H,1,10,V15" playid="12,7,82" type="R" text="Harris, M rush for 5 yards to the NU10 (Romelus)." newcontext="H,2,5,V10">
+    <p_ru vh="H" name="Harris, M" gain="5"></p_ru>
+    <p_tk vh="V" name="Romelus"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="5" spot="NU10" context="H,2,5,V10" playid="12,8,83" type="R" text="Harris, M rush for 3 yards to the NU7 (Biggs)." newcontext="H,3,2,V07">
+    <p_ru vh="H" name="Harris, M" gain="3"></p_ru>
+    <p_tk vh="V" name="Biggs"></p_tk>
+   </play>
+   <play hasball="BC" down="3" togo="2" spot="NU07" context="H,3,2,V07" playid="12,9,84" type="P" text="Tuggle, J pass incomplete to Pantale, C." newcontext="H,4,2,V07">
+    <p_pa vh="H" qb="Tuggle, J" result="INC" rcv="Pantale, C"></p_pa>
+   </play>
+   <play hasball="BC" down="4" togo="2" spot="NU07" context="H,4,2,V07" playid="12,10,85" type="F" score="Y" clock="03:51" text="Aponavicius, S field goal attempt from 24 GOOD, clock 03:51." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="Aponavicius, S" distance="24" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="0" H="31"></score>
+   <drivesum plays="8" yards="39" top="3:41" driveindex="12" complete="Y"></drivesum>
+   <play hasball="BC" down="1" togo="0" spot="BC30" context="H,1,0,H30" playid="12,11,86" type="K" text="Quigley, R kickoff 64 yards to the NU6, Murray Sesay return 23 yards to the NU29 (Okoroha, O)." newcontext="V,1,10,V29">
+    <p_ko vh="H" name="Quigley, R" gain="64"></p_ko>
+    <p_kr vh="V" name="Murray Sesay" gain="23"></p_kr>
+    <p_tk vh="H" name="Okoroha, O"></p_tk>
+   </play>
+   <drivestart poss="V,V29,03:51" vh="V" spot="V29" clock="03:51" driveindex="13,86"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU29" context="V,1,10,V29" playid="13,1,87" clock="03:51" text="NORTHEASTERN drive start at 03:51." newcontext="V,1,10,V29">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU29" context="V,1,10,V29" playid="13,2,88" type="R" text="Strunk rush for 2 yards to the NU31 (Johnson, I)." newcontext="V,2,8,V31">
+    <p_ru vh="V" name="Strunk" gain="2"></p_ru>
+    <p_tk vh="H" name="Johnson, I"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="8" spot="NU31" context="V,2,8,V31" playid="13,3,89" type="E" text="PENALTY NU false start 5 yards to the NU26." newcontext="V,2,13,V26">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V31" yards="5"></p_pn>
+   </play>
+   <play hasball="NU" down="2" togo="13" spot="NU26" context="V,2,13,V26" playid="13,4,90" type="E" text="Carroll rush for 1 yard to the NU27 (Scafe, D), PENALTY NU holding 10 yards to the NU16, NO PLAY." newcontext="V,2,23,V16">
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="V26" yards="10"></p_pn>
+   </play>
+   <play hasball="NU" down="2" togo="23" spot="NU16" context="V,2,23,V16" playid="13,5,91" type="P" text="Carroll pass complete to Abelli for 7 yards to the NU23 (Fletcher, D)." newcontext="V,3,16,V23">
+    <p_pa vh="V" qb="Carroll" result="COMP" rcv="Abelli" gain="7"></p_pa>
+    <p_tk vh="H" name="Fletcher, D"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="16" spot="NU23" context="V,3,16,V23" playid="13,6,92" type="P" text="Carroll pass complete to Harris for 9 yards to the NU32 (Williams, D)." newcontext="V,4,7,V32">
+    <p_pa vh="V" qb="Carroll" result="COMP" rcv="Harris" gain="9"></p_pa>
+    <p_tk vh="H" name="Williams, D"></p_tk>
+   </play>
+   <play hasball="NU" down="4" togo="7" spot="NU32" context="V,4,7,V32" playid="13,7,93" type="#" clock="01:32" text="Timeout Boston College, clock 01:32." newcontext="V,4,7,V32">
+    <p_to vh="H" team="Boston College"></p_to>
+   </play>
+   <play hasball="NU" down="4" togo="7" spot="NU32" context="V,4,7,V32" playid="13,8,94" type="U" text="Conway punt 50 yards to the BC18, Gunnell, R return 18 yards to the BC36 (Elwood)." newcontext="H,1,10,H36">
+    <p_pu vh="V" name="Conway" gain="50"></p_pu>
+    <p_pr vh="H" name="Gunnell, R" gain="18"></p_pr>
+    <p_tk vh="V" name="Elwood"></p_tk>
+   </play>
+   <drivesum plays="3" yards="3" top="2:33" driveindex="13" complete="Y"></drivesum>
+   <drivestart poss="H,H36,01:32" vh="H" spot="H36" clock="01:32" driveindex="14,94"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="BC36" context="H,1,10,H36" playid="14,1,95" clock="01:18" text="BOSTON COLLEGE drive start at 01:18." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="BC36" context="H,1,10,H36" playid="14,2,96" type="R" text="Harris, M rush for 8 yards to the BC44 (Biggs)." newcontext="H,2,2,H44">
+    <p_ru vh="H" name="Harris, M" gain="8"></p_ru>
+    <p_tk vh="V" name="Biggs"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="2" spot="BC44" context="H,2,2,H44" playid="14,3,97" type="P" first="P" text="Tuggle, J pass complete to Pantale, C for 8 yards to the NU48, 1ST DOWN BC (Higgins)." newcontext="H,1,10,V48">
+    <p_pa vh="H" qb="Tuggle, J" result="COMP" rcv="Pantale, C" gain="8"></p_pa>
+    <p_tk vh="V" name="Higgins"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU48" context="H,1,10,V48" playid="14,4,98" type="P" first="P" text="Tuggle, J pass complete to Larmond, Jr., C for 42 yards to the NU6, 1ST DOWN BC (Higgins)." newcontext="H,1,0,V06">
+    <p_pa vh="H" qb="Tuggle, J" result="COMP" rcv="Larmond, Jr., C" gain="42"></p_pa>
+    <p_tk vh="V" name="Higgins"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="0" spot="NU06" context="H,1,0,V06" playid="14,5,99" type="#" clock="00:38" text="Timeout Boston College, clock 00:38." newcontext="H,1,0,V06">
+    <p_to vh="H" team="Boston College"></p_to>
+   </play>
+   <play hasball="BC" down="1" togo="0" spot="NU06" context="H,1,0,V06" playid="14,6,100" type="P" score="Y" clock="00:31" text="Tuggle, J pass complete to Harris, M for 6 yards to the NU0, TOUCHDOWN, clock 00:31." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Tuggle, J" result="COMP" rcv="Harris, M" gain="6"></p_pa>
+   </play>
+   <play hasball="BC" down="1" togo="0" spot="NU03" context="H,1,0,V03" playid="14,7,101" type="X" score="Y" text="Aponavicius, S kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Aponavicius, S" qb="Aponavicius, S" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="38"></score>
+   <drivesum plays="4" yards="64" top="0:47" driveindex="14" complete="Y"></drivesum>
+   <play hasball="BC" down="1" togo="0" spot="BC30" context="H,1,0,H30" playid="14,8,102" type="K" text="Quigley, R kickoff 64 yards to the NU6, Jackson return 7 yards to the NU13 (Johnson, I)." newcontext="V,1,10,V13">
+    <p_ko vh="H" name="Quigley, R" gain="64"></p_ko>
+    <p_kr vh="V" name="Jackson" gain="7"></p_kr>
+    <p_tk vh="H" name="Johnson, I"></p_tk>
+   </play>
+   <drivestart poss="V,V13,00:31" vh="V" spot="V13" clock="00:31" driveindex="15,102"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU13" context="V,1,10,V13" playid="15,1,103" clock="00:31" text="NORTHEASTERN drive start at 00:31." newcontext="V,1,10,V13">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU13" context="V,1,10,V13" playid="15,2,104" type="R" text="TEAM rush for loss of 2 yards to the NU11." newcontext="V,2,12,V11">
+    <p_ru vh="V" name="TEAM" gain="-2"></p_ru>
+   </play>
+   <play hasball="NU" down="2" togo="12" spot="NU11" context="V,2,12,V11" playid="15,3,105" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,2,12,V11">
+   </play>
+   <drivesum plays="1" yards="-2" top="0:31" driveindex="15" complete="Y"></drivesum>
+   <score qtr="2" V="0" H="38"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NU">
+    <firstdowns no="1" rush="0" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:25"></misc>
+    <rush att="8" yds="10" gain="16" loss="6" td="0" long="3"></rush>
+    <pass comp="3" att="5" int="0" yds="24" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="3" yds="24" td="0" long="0"></rcv>
+    <punt no="4" yds="133" long="5" blkd="0" tb="0" fc="1" plus50="1" inside20="0" avg="33.2"></punt>
+    <defense tackua="14" tacka="2" tot_tack="16" tflua="2" tfla="0" tflyds="3" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="3" yds="36" td="0" long="2"></kr>
+    <pr no="1" yds="2" td="0" long="2"></pr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="BC">
+    <firstdowns no="6" rush="3" pass="3" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="2" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="07:35"></misc>
+    <rush att="11" yds="56" gain="59" loss="3" td="0" long="0"></rush>
+    <pass comp="4" att="7" int="0" yds="78" td="1" long="30" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="78" td="1" long="30"></rcv>
+    <punt no="1" yds="47" long="47" blkd="0" tb="0" fc="0" plus50="0" inside20="1" avg="47.0"></punt>
+    <ko no="3" yds="186" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="24" blkd="0"></fg>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="13" tacka="2" tot_tack="15" tflua="2" tfla="0" tflyds="4" sacks="0" sackyds="0" brup="1"></defense>
+    <pr no="2" yds="64" td="1" long="0"></pr>
+    <scoring td="2" fg="1" patkick="2"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="NU" down="2" togo="12" spot="NU11" context="V,2,12,V11" playid="15,4,106" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, NU ball on NU30." newcontext="V,2,12,V30">
+   </play>
+   <play hasball="NU" down="2" togo="12" spot="NU30" context="V,2,12,V30" playid="15,5,107" type="K" text="Johnson kickoff 53 yards to the BC17, Fox, C return 26 yards to the BC43 (Matthews)." newcontext="H,1,10,H43">
+    <p_ko vh="V" name="Johnson" gain="53"></p_ko>
+    <p_kr vh="H" name="Fox, C" gain="26"></p_kr>
+    <p_tk vh="V" name="Matthews"></p_tk>
+   </play>
+   <drivestart poss="H,H43,15:00" vh="H" spot="H43" clock="15:00" driveindex="16,107"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="BC43" context="H,1,10,H43" playid="16,1,108" clock="15:00" text="BOSTON COLLEGE drive start at 15:00." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="BC43" context="H,1,10,H43" playid="16,2,109" type="R" first="R" text="Harris, M rush for 13 yards to the NU44, 1ST DOWN BC (Murray Sesay;Higgins)." newcontext="H,1,10,V44">
+    <p_ru vh="H" name="Harris, M" gain="13"></p_ru>
+    <p_tk vh="V" name="Murray Sesay" assist="Y"></p_tk>
+    <p_tk vh="V" name="Higgins" assist="Y"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU44" context="H,1,10,V44" playid="16,3,110" type="R" text="Harris, M rush for loss of 5 yards to the NU49 (Akinniyi)." newcontext="H,2,15,V49">
+    <p_ru vh="H" name="Harris, M" gain="-5"></p_ru>
+    <p_tk vh="V" name="Akinniyi" tfl="Y"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="15" spot="NU49" context="H,2,15,V49" playid="16,4,111" type="R" text="Harris, M rush for loss of 2 yards to the BC49 (Akinniyi)." newcontext="H,3,17,H49">
+    <p_ru vh="H" name="Harris, M" gain="-2"></p_ru>
+    <p_tk vh="V" name="Akinniyi" tfl="Y"></p_tk>
+   </play>
+   <play hasball="BC" down="3" togo="17" spot="BC49" context="H,3,17,H49" playid="16,5,112" type="P" text="Shinskie, D pass incomplete to Larmond, Jr., C." newcontext="H,4,17,H49">
+    <p_pa vh="H" qb="Shinskie, D" result="INC" rcv="Larmond, Jr., C"></p_pa>
+   </play>
+   <play hasball="BC" down="4" togo="17" spot="BC49" context="H,4,17,H49" playid="16,6,113" type="U" text="Quigley, R punt 49 yards to the NU2, downed." newcontext="V,1,10,V02">
+    <p_pu vh="H" name="Quigley, R" gain="49" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="4" yards="6" top="2:15" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="V,V02,15:00" vh="V" spot="V02" clock="15:00" driveindex="17,113"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU02" context="V,1,10,V02" playid="17,1,114" clock="12:45" text="NORTHEASTERN drive start at 12:45." newcontext="V,1,10,V02">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU02" context="V,1,10,V02" playid="17,2,115" type="R" text="Griffin rush for loss of 1 yard to the NU1 (Albright, A)." newcontext="V,2,11,V01">
+    <p_ru vh="V" name="Griffin" gain="-1"></p_ru>
+    <p_tk vh="H" name="Albright, A" tfl="Y"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="11" spot="NU01" context="V,2,11,V01" playid="17,3,116" type="R" score="Y" clock="12:04" text="Harris rush for loss of 1 yard to the NU0 (DiSanzo, A), DiSanzo, A safety, clock 12:04." newcontext="V,1,0,V20">
+    <p_ru vh="V" name="Harris" gain="-1"></p_ru>
+    <p_tk vh="H" name="DiSanzo, A" tfl="Y"></p_tk>
+   </play>
+   <score V="0" H="40"></score>
+   <drivesum plays="2" yards="-2" top="0:41" driveindex="17" complete="Y"></drivesum>
+   <play hasball="NU" down="1" togo="0" spot="NU20" context="V,1,0,V20" playid="17,4,117" type="K" text="Conway kickoff 42 yards to the BC38, fair catch by Anderson, L." newcontext="H,1,10,H38">
+    <p_ko vh="V" name="Conway" gain="42" result="C" fc="Anderson, L"></p_ko>
+   </play>
+   <drivestart poss="H,H38,12:04" vh="H" spot="H38" clock="12:04" driveindex="18,117"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="BC38" context="H,1,10,H38" playid="18,1,118" clock="12:04" text="BOSTON COLLEGE drive start at 12:04." newcontext="H,1,10,H38">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="BC38" context="H,1,10,H38" playid="18,2,119" type="R" text="Harris, M rush for loss of 4 yards to the BC34 (Byrne;Biggs)." newcontext="H,2,14,H34">
+    <p_ru vh="H" name="Harris, M" gain="-4"></p_ru>
+    <p_tk vh="V" name="Byrne" tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="V" name="Biggs" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="14" spot="BC34" context="H,2,14,H34" playid="18,3,120" type="P" text="Shinskie, D pass complete to Haden, J for 9 yards to the BC43 (Murray Sesay)." newcontext="H,3,5,H43">
+    <p_pa vh="H" qb="Shinskie, D" result="COMP" rcv="Haden, J" gain="9"></p_pa>
+    <p_tk vh="V" name="Murray Sesay"></p_tk>
+   </play>
+   <play hasball="BC" down="3" togo="5" spot="BC43" context="H,3,5,H43" playid="18,4,121" type="P" first="P" text="Shinskie, D pass complete to Haden, J for 20 yards to the NU37, 1ST DOWN BC (Murray Sesay)." newcontext="H,1,10,V37">
+    <p_pa vh="H" qb="Shinskie, D" result="COMP" rcv="Haden, J" gain="20"></p_pa>
+    <p_tk vh="V" name="Murray Sesay"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU37" context="H,1,10,V37" playid="18,5,122" type="P" first="P" text="Shinskie, D pass complete to Lee, C for 14 yards to the NU23, 1ST DOWN BC (Jones)." newcontext="H,1,10,V23">
+    <p_pa vh="H" qb="Shinskie, D" result="COMP" rcv="Lee, C" gain="14"></p_pa>
+    <p_tk vh="V" name="Jones"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU23" context="H,1,10,V23" playid="18,6,123" type="R" text="Harris, M rush for 7 yards to the NU16 (Murray Sesay)." newcontext="H,2,3,V16">
+    <p_ru vh="H" name="Harris, M" gain="7"></p_ru>
+    <p_tk vh="V" name="Murray Sesay"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="3" spot="NU16" context="H,2,3,V16" playid="18,7,124" type="E" text="Haden, J rush for loss of 2 yards to the NU18 (Akinniyi;Bradley), PENALTY BC holding 10 yards to the NU26, NO PLAY." newcontext="H,2,13,V26">
+    <p_pn vh="H" code="HO" type="holding" result="ACCEPT" at="V16" yards="10"></p_pn>
+   </play>
+   <play hasball="BC" down="2" togo="13" spot="NU26" context="H,2,13,V26" playid="18,8,125" type="P" first="P" score="Y" clock="08:42" text="Shinskie, D pass complete to Flutie, B for 26 yards to the NU0, 1ST DOWN BC, TOUCHDOWN, clock 08:42." newcontext="H,1,0,V03">
+    <p_pa vh="H" qb="Shinskie, D" result="COMP" rcv="Flutie, B" gain="26"></p_pa>
+   </play>
+   <play hasball="BC" down="1" togo="0" spot="NU03" context="H,1,0,V03" playid="18,9,126" type="X" score="Y" text="Aponavicius, S kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Aponavicius, S" qb="Aponavicius, S" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="47"></score>
+   <drivesum plays="6" yards="62" top="3:22" driveindex="18" complete="Y"></drivesum>
+   <play hasball="BC" down="1" togo="0" spot="BC30" context="H,1,0,H30" playid="18,10,127" type="K" text="Quigley, R kickoff 66 yards to the NU4, Harris return 33 yards to the NU37 (Fox, C)." newcontext="V,1,10,V37">
+    <p_ko vh="H" name="Quigley, R" gain="66"></p_ko>
+    <p_kr vh="V" name="Harris" gain="33"></p_kr>
+    <p_tk vh="H" name="Fox, C"></p_tk>
+   </play>
+   <drivestart poss="V,V37,08:42" vh="V" spot="V37" clock="08:42" driveindex="19,127"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU37" context="V,1,10,V37" playid="19,1,128" clock="08:42" text="NORTHEASTERN drive start at 08:42." newcontext="V,1,10,V37">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU37" context="V,1,10,V37" playid="19,2,129" type="P" text="Carroll pass incomplete to Lott." newcontext="V,2,10,V37">
+    <p_pa vh="V" qb="Carroll" result="INC" rcv="Lott"></p_pa>
+   </play>
+   <play hasball="NU" down="2" togo="10" spot="NU37" context="V,2,10,V37" playid="19,3,130" type="R" text="Carroll rush for no gain to the NU37 (Ramella, J)." newcontext="V,3,10,V37">
+    <p_ru vh="V" name="Carroll" gain="0"></p_ru>
+    <p_tk vh="H" name="Ramella, J"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="10" spot="NU37" context="V,3,10,V37" playid="19,4,131" type="#" clock="07:48" text="Timeout Northeastern, clock 07:48." newcontext="V,3,10,V37">
+    <p_to vh="V" team="Northeastern"></p_to>
+   </play>
+   <play hasball="NU" down="3" togo="10" spot="NU37" context="V,3,10,V37" playid="19,5,132" type="R" first="R" text="Carroll rush for 11 yards to the NU48, 1ST DOWN NU (Kuechly, L)." newcontext="V,1,10,V48">
+    <p_ru vh="V" name="Carroll" gain="11"></p_ru>
+    <p_tk vh="H" name="Kuechly, L"></p_tk>
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU48" context="V,1,10,V48" playid="19,6,133" type="R" text="Griffin rush for 5 yards to the BC47 (DiSanzo, A)." newcontext="V,2,5,H47">
+    <p_ru vh="V" name="Griffin" gain="5"></p_ru>
+    <p_tk vh="H" name="DiSanzo, A"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="5" spot="BC47" context="V,2,5,H47" playid="19,7,134" type="R" text="Carroll rush for 3 yards to the BC44 (Albright, A)." newcontext="V,3,2,H44">
+    <p_ru vh="V" name="Carroll" gain="3"></p_ru>
+    <p_tk vh="H" name="Albright, A"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="2" spot="BC44" context="V,3,2,H44" playid="19,8,135" type="R" text="Carroll rush for loss of 1 yard to the BC45 (Kuechly, L)." newcontext="V,4,3,H45">
+    <p_ru vh="V" name="Carroll" gain="-1"></p_ru>
+    <p_tk vh="H" name="Kuechly, L" tfl="Y"></p_tk>
+   </play>
+   <play hasball="NU" down="4" togo="3" spot="BC45" context="V,4,3,H45" playid="19,9,136" type="U" text="Conway punt 44 yards to the BC1, Gunnell, R return 9 yards to the BC10 (Bornstein)." newcontext="H,1,10,H10">
+    <p_pu vh="V" name="Conway" gain="44" in20="Y"></p_pu>
+    <p_pr vh="H" name="Gunnell, R" gain="9"></p_pr>
+    <p_tk vh="V" name="Bornstein"></p_tk>
+   </play>
+   <drivesum plays="6" yards="18" top="3:22" driveindex="19" complete="Y"></drivesum>
+   <drivestart poss="H,H10,07:48" vh="H" spot="H10" clock="07:48" driveindex="20,136"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="BC10" context="H,1,10,H10" playid="20,1,137" clock="05:20" text="BOSTON COLLEGE drive start at 05:20." newcontext="H,1,10,H10">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="BC10" context="H,1,10,H10" playid="20,2,138" type="R" text="Haden, J rush for loss of 1 yard to the BC9 (CHunte)." newcontext="H,2,11,H09">
+    <p_ru vh="H" name="Haden, J" gain="-1"></p_ru>
+    <p_tk vh="V" name="CHunte" tfl="Y"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="11" spot="BC09" context="H,2,11,H09" playid="20,3,139" type="R" text="Haden, J rush for no gain to the BC9 (Fracalossi)." newcontext="H,3,11,H09">
+    <p_ru vh="H" name="Haden, J" gain="0"></p_ru>
+    <p_tk vh="V" name="Fracalossi"></p_tk>
+   </play>
+   <play hasball="BC" down="3" togo="11" spot="BC09" context="H,3,11,H09" playid="20,4,140" type="R" text="Tuggle, J rush for 4 yards to the BC13 (Parham)." newcontext="H,4,7,H13">
+    <p_ru vh="H" name="Tuggle, J" gain="4"></p_ru>
+    <p_tk vh="V" name="Parham"></p_tk>
+   </play>
+   <play hasball="BC" down="4" togo="7" spot="BC13" context="H,4,7,H13" playid="20,5,141" type="U" text="Quigley, R punt 50 yards to the NU37, Lott return 4 yards to the NU41 (Flaherty, S)." newcontext="V,1,10,V41">
+    <p_pu vh="H" name="Quigley, R" gain="50"></p_pu>
+    <p_pr vh="V" name="Lott" gain="4"></p_pr>
+    <p_tk vh="H" name="Flaherty, S"></p_tk>
+   </play>
+   <drivesum plays="3" yards="3" top="2:01" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="V,V41,05:20" vh="V" spot="V41" clock="05:20" driveindex="21,141"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU41" context="V,1,10,V41" playid="21,1,142" clock="03:19" text="NORTHEASTERN drive start at 03:19." newcontext="V,1,10,V41">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU41" context="V,1,10,V41" playid="21,2,143" type="P" text="Carroll pass incomplete to Lott." newcontext="V,2,10,V41">
+    <p_pa vh="V" qb="Carroll" result="INC" rcv="Lott"></p_pa>
+   </play>
+   <play hasball="NU" down="2" togo="10" spot="NU41" context="V,2,10,V41" playid="21,3,144" type="R" text="Carroll rush for 1 yard to the NU42 (Morrissey, M)." newcontext="V,3,9,V42">
+    <p_ru vh="V" name="Carroll" gain="1"></p_ru>
+    <p_tk vh="H" name="Morrissey, M"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="9" spot="NU42" context="V,3,9,V42" playid="21,4,145" type="P" text="Carroll pass incomplete to Abelli." newcontext="V,4,9,V42">
+    <p_pa vh="V" qb="Carroll" result="INC" rcv="Abelli"></p_pa>
+   </play>
+   <play hasball="NU" down="4" togo="9" spot="NU42" context="V,4,9,V42" playid="21,5,146" type="U" text="Conway punt 50 yards to the BC8, downed." newcontext="H,1,10,H08">
+    <p_pu vh="V" name="Conway" gain="50" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="1" top="1:03" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="H,H08,03:19" vh="H" spot="H08" clock="03:19" driveindex="22,146"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="BC08" context="H,1,10,H08" playid="22,1,147" clock="02:16" text="BOSTON COLLEGE drive start at 02:16." newcontext="H,1,10,H08">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="BC08" context="H,1,10,H08" playid="22,2,148" type="R" text="Finch, R rush for 3 yards to the BC11 (Romelus)." newcontext="H,2,7,H11">
+    <p_ru vh="H" name="Finch, R" gain="3"></p_ru>
+    <p_tk vh="V" name="Romelus"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="7" spot="BC11" context="H,2,7,H11" playid="22,3,149" type="R" text="Finch, R rush for no gain to the BC11 (Akinniyi)." newcontext="H,3,7,H11">
+    <p_ru vh="H" name="Finch, R" gain="0"></p_ru>
+    <p_tk vh="V" name="Akinniyi"></p_tk>
+   </play>
+   <play hasball="BC" down="3" togo="7" spot="BC11" context="H,3,7,H11" playid="22,4,150" type="R" text="Finch, R rush for loss of 2 yards to the BC9 (Higgins)." newcontext="H,4,9,H09">
+    <p_ru vh="H" name="Finch, R" gain="-2"></p_ru>
+    <p_tk vh="V" name="Higgins" tfl="Y"></p_tk>
+   </play>
+   <play hasball="BC" down="4" togo="9" spot="BC09" context="H,4,9,H09" playid="22,5,151" type="U" text="Quigley, R punt 50 yards to the NU41, Lott return 4 yards to the NU45 (Johnson, I)." newcontext="V,1,10,V45">
+    <p_pu vh="H" name="Quigley, R" gain="50"></p_pu>
+    <p_pr vh="V" name="Lott" gain="4"></p_pr>
+    <p_tk vh="H" name="Johnson, I"></p_tk>
+   </play>
+   <drivesum plays="3" yards="1" top="2:07" driveindex="22" complete="Y"></drivesum>
+   <drivestart poss="V,V45,02:16" vh="V" spot="V45" clock="02:16" driveindex="23,151"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU45" context="V,1,10,V45" playid="23,1,152" clock="00:09" text="NORTHEASTERN drive start at 00:09." newcontext="V,1,10,V45">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU45" context="V,1,10,V45" playid="23,2,153" type="R" text="Harris rush for 4 yards to the NU49 (Williams, D;Morrissey, M)." newcontext="V,2,6,V49">
+    <p_ru vh="V" name="Harris" gain="4"></p_ru>
+    <p_tk vh="H" name="Williams, D" assist="Y"></p_tk>
+    <p_tk vh="H" name="Morrissey, M" assist="Y"></p_tk>
+   </play>
+   <score qtr="3" V="0" H="47"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NU">
+    <firstdowns no="1" rush="1" pass="0" penalty="0"></firstdowns>
+    <penalties no="0" yds="0"></penalties>
+    <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="05:15"></misc>
+    <rush att="9" yds="21" gain="24" loss="3" td="0" long="3"></rush>
+    <pass comp="0" att="3" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <punt no="2" yds="94" long="0" blkd="0" tb="0" fc="0" plus50="1" inside20="2" avg="47.0"></punt>
+    <ko no="2" yds="95" ob="0" tb="0"></ko>
+    <defense tackua="14" tacka="4" tot_tack="18" tflua="6" tfla="0" tflyds="18" sacks="0" sackyds="0"></defense>
+    <kr no="1" yds="33" td="0" long="10"></kr>
+    <pr no="2" yds="8" td="0" long="2"></pr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="BC">
+    <firstdowns no="4" rush="1" pass="3" penalty="0"></firstdowns>
+    <penalties no="1" yds="10"></penalties>
+    <conversions thirdconv="1" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="09:45"></misc>
+    <rush att="11" yds="13" gain="27" loss="14" td="0" long="0"></rush>
+    <pass comp="4" att="5" int="0" yds="69" td="1" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="69" td="1" long="0"></rcv>
+    <punt no="3" yds="149" long="3" blkd="0" tb="0" fc="0" plus50="2" inside20="1" avg="49.7"></punt>
+    <ko no="1" yds="66" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="2" tot_tack="13" tflua="3" tfla="0" tflyds="3" sacks="0" sackyds="0" saf="1"></defense>
+    <kr no="1" yds="26" td="0" long="26"></kr>
+    <pr no="1" yds="9" td="0" long="0"></pr>
+    <scoring td="1" saf="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="NU" down="2" togo="6" spot="NU49" context="V,2,6,V49" playid="23,3,154" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,2,6,V49">
+   </play>
+   <play hasball="NU" down="2" togo="6" spot="NU49" context="V,2,6,V49" playid="23,4,155" type="P" text="Carroll pass complete to Batts for 4 yards to the BC47 (Clancy, N)." newcontext="V,3,2,H47">
+    <p_pa vh="V" qb="Carroll" result="COMP" rcv="Batts" gain="4"></p_pa>
+    <p_tk vh="H" name="Clancy, N"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="2" spot="BC47" context="V,3,2,H47" playid="23,5,156" type="R" text="Strunk rush for loss of 2 yards to the BC49 (Giles, A), PENALTY NU holding declined." newcontext="V,4,4,H49">
+    <p_ru vh="V" name="Strunk" gain="-2"></p_ru>
+    <p_tk vh="H" name="Giles, A" tfl="Y"></p_tk>
+    <p_pn vh="V" code="HO" type="holding" result="DECLINE"></p_pn>
+   </play>
+   <play hasball="NU" down="4" togo="4" spot="BC49" context="V,4,4,H49" playid="23,6,157" type="U" text="Conway punt 29 yards to the BC20, out-of-bounds." ob="Y" newcontext="H,1,10,H20">
+    <p_pu vh="V" name="Conway" gain="29" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="3" yards="6" top="1:24" driveindex="23" complete="Y"></drivesum>
+   <drivestart poss="H,H20,15:00" vh="H" spot="H20" clock="15:00" driveindex="24,157"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="BC20" context="H,1,10,H20" playid="24,1,158" clock="13:45" text="BOSTON COLLEGE drive start at 13:45." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="BC20" context="H,1,10,H20" playid="24,2,159" type="R" text="Haden, J rush for loss of 3 yards to the BC17, fumble by Haden, J recovered by BC Haden, J at BC17." newcontext="H,2,13,H17">
+    <p_ru vh="H" name="Haden, J" gain="-3"></p_ru>
+    <p_fumb vh="H" name="Haden, J" at="H17" frvh="H" frname="Haden, J"></p_fumb>
+   </play>
+   <play hasball="BC" down="2" togo="13" spot="BC17" context="H,2,13,H17" playid="24,3,160" type="P" text="Marscovetra, M pass complete to Lee, C for 6 yards to the BC23 (Jones)." newcontext="H,3,7,H23">
+    <p_pa vh="H" qb="Marscovetra, M" result="COMP" rcv="Lee, C" gain="6"></p_pa>
+    <p_tk vh="V" name="Jones"></p_tk>
+   </play>
+   <play hasball="BC" down="3" togo="7" spot="BC23" context="H,3,7,H23" playid="24,4,161" type="E" text="PENALTY BC illegal procedure 5 yards to the BC18." newcontext="H,3,12,H18">
+    <p_pn vh="H" code="PR" type="illegal procedure" result="ACCEPT" at="H23" yards="5"></p_pn>
+   </play>
+   <play hasball="BC" down="3" togo="12" spot="BC18" context="H,3,12,H18" playid="24,5,162" type="P" text="Marscovetra, M pass complete to Lindsey, R for 8 yards to the BC26, out-of-bounds (Murray Sesay)." ob="Y" newcontext="H,4,4,H26">
+    <p_pa vh="H" qb="Marscovetra, M" result="COMP" rcv="Lindsey, R" gain="8"></p_pa>
+    <p_tk vh="V" name="Murray Sesay"></p_tk>
+   </play>
+   <play hasball="BC" down="4" togo="4" spot="BC26" context="H,4,4,H26" playid="24,6,163" type="U" text="Quigley, R punt 51 yards to the NU23, Lott return 9 yards to the NU32 (Clancy, N)." newcontext="V,1,10,V32">
+    <p_pu vh="H" name="Quigley, R" gain="51"></p_pu>
+    <p_pr vh="V" name="Lott" gain="9"></p_pr>
+    <p_tk vh="H" name="Clancy, N"></p_tk>
+   </play>
+   <drivesum plays="3" yards="6" top="2:31" driveindex="24" complete="Y"></drivesum>
+   <drivestart poss="V,V32,13:45" vh="V" spot="V32" clock="13:45" driveindex="25,163"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU32" context="V,1,10,V32" playid="25,1,164" clock="11:14" text="NORTHEASTERN drive start at 11:14." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU32" context="V,1,10,V32" playid="25,2,165" type="E" text="PENALTY NU false start 5 yards to the NU27." newcontext="V,1,15,V27">
+    <p_pn vh="V" code="FS" type="false start" result="ACCEPT" at="V32" yards="5"></p_pn>
+   </play>
+   <play hasball="NU" down="1" togo="15" spot="NU27" context="V,1,15,V27" playid="25,3,166" type="R" text="Strunk rush for 2 yards to the NU29 (O'Neal, C)." newcontext="V,2,13,V29">
+    <p_ru vh="V" name="Strunk" gain="2"></p_ru>
+    <p_tk vh="H" name="O'Neal, C"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="13" spot="NU29" context="V,2,13,V29" playid="25,4,167" type="P" text="Carroll pass incomplete to Batts." newcontext="V,3,13,V29">
+    <p_pa vh="V" qb="Carroll" result="INC" rcv="Batts"></p_pa>
+   </play>
+   <play hasball="NU" down="3" togo="13" spot="NU29" context="V,3,13,V29" playid="25,5,168" type="R" text="Carroll rush for loss of 2 yards to the NU27 (Murray, B)." newcontext="V,4,15,V27">
+    <p_ru vh="V" name="Carroll" gain="-2"></p_ru>
+    <p_tk vh="H" name="Murray, B" tfl="Y"></p_tk>
+   </play>
+   <play hasball="NU" down="4" togo="15" spot="NU27" context="V,4,15,V27" playid="25,6,169" type="E" text="PENALTY NU personal foul 15 yards to the NU12." newcontext="V,4,30,V12">
+    <p_pn vh="V" code="PF" type="personal foul" result="ACCEPT" at="V27" yards="15"></p_pn>
+   </play>
+   <play hasball="NU" down="4" togo="30" spot="NU12" context="V,4,30,V12" playid="25,7,170" type="U" text="Conway punt 27 yards to the NU39, downed." newcontext="H,1,10,V39">
+    <p_pu vh="V" name="Conway" gain="27"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-20" top="1:12" driveindex="25" complete="Y"></drivesum>
+   <drivestart poss="H,V39,11:14" vh="H" spot="V39" clock="11:14" driveindex="26,170"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="NU39" context="H,1,10,V39" playid="26,1,171" clock="10:02" text="BOSTON COLLEGE drive start at 10:02." newcontext="H,1,10,V39">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU39" context="H,1,10,V39" playid="26,2,172" type="P" first="P" text="Boek, C pass complete to Lee, C for 12 yards to the NU27, 1ST DOWN BC (Matthews)." newcontext="H,1,10,V27">
+    <p_pa vh="H" qb="Boek, C" result="COMP" rcv="Lee, C" gain="12"></p_pa>
+    <p_tk vh="V" name="Matthews"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU27" context="H,1,10,V27" playid="26,3,173" type="R" text="Smith, J rush for 2 yards to the NU25 (Laperriere)." newcontext="H,2,8,V25">
+    <p_ru vh="H" name="Smith, J" gain="2"></p_ru>
+    <p_tk vh="V" name="Laperriere"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="8" spot="NU25" context="H,2,8,V25" playid="26,4,174" type="P" text="Boek, C pass complete to McMichael, J for 6 yards to the NU19 (Higgins)." newcontext="H,3,2,V19">
+    <p_pa vh="H" qb="Boek, C" result="COMP" rcv="McMichael, J" gain="6"></p_pa>
+    <p_tk vh="V" name="Higgins"></p_tk>
+   </play>
+   <play hasball="BC" down="3" togo="2" spot="NU19" context="H,3,2,V19" playid="26,5,175" type="E" clock="08:19" text="Smith, J rush for 19 yards to the NU0, clock 08:19, PENALTY BC illegal shift 5 yards to the NU24, NO PLAY." newcontext="H,3,7,V24">
+    <p_pn vh="H" code="SH" type="illegal shift" result="ACCEPT" at="V19" yards="5"></p_pn>
+   </play>
+   <play hasball="BC" down="3" togo="7" spot="NU24" context="H,3,7,V24" playid="26,6,176" type="P" text="Boek, C pass incomplete to Lindsey, R." newcontext="H,4,7,V24">
+    <p_pa vh="H" qb="Boek, C" result="INC" rcv="Lindsey, R"></p_pa>
+   </play>
+   <play hasball="BC" down="4" togo="7" spot="NU24" context="H,4,7,V24" playid="26,7,177" type="P" text="Boek, C pass incomplete to Lee, C (Thellen)." newcontext="V,1,10,V24">
+    <p_pa vh="H" qb="Boek, C" result="INC" rcv="Lee, C"></p_pa>
+    <p_bu vh="V" name="Thellen"></p_bu>
+   </play>
+   <drivesum plays="5" yards="15" top="1:53" driveindex="26" complete="Y"></drivesum>
+   <drivestart poss="V,V24,08:19" vh="V" spot="V24" clock="08:19" driveindex="27,177"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU24" context="V,1,10,V24" playid="27,1,178" clock="08:09" text="NORTHEASTERN drive start at 08:09." newcontext="V,1,10,V24">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU24" context="V,1,10,V24" playid="27,2,179" type="R" text="Harris rush for 6 yards to the NU30 (Murray, B)." newcontext="V,2,4,V30">
+    <p_ru vh="V" name="Harris" gain="6"></p_ru>
+    <p_tk vh="H" name="Murray, B"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="4" spot="NU30" context="V,2,4,V30" playid="27,3,180" type="E" text="Harris rush for 11 yards to the NU41 (Walker, J), PENALTY NU holding 10 yards to the NU20, NO PLAY." newcontext="V,2,14,V20">
+    <p_pn vh="V" code="HO" type="holding" result="ACCEPT" at="V30" yards="10"></p_pn>
+   </play>
+   <play hasball="NU" down="2" togo="14" spot="NU20" context="V,2,14,V20" playid="27,4,181" type="R" text="Bornstein rush for 1 yard to the NU21 (Holloway, M)." newcontext="V,3,13,V21">
+    <p_ru vh="V" name="Bornstein" gain="1"></p_ru>
+    <p_tk vh="H" name="Holloway, M"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="13" spot="NU21" context="V,3,13,V21" playid="27,5,182" type="R" text="Carroll rush for 1 yard to the NU22 (Ferguson, B)." newcontext="V,4,12,V22">
+    <p_ru vh="V" name="Carroll" gain="1"></p_ru>
+    <p_tk vh="H" name="Ferguson, B"></p_tk>
+   </play>
+   <play hasball="NU" down="4" togo="12" spot="NU22" context="V,4,12,V22" playid="27,6,183" type="U" text="Conway punt 42 yards to the BC36, downed." newcontext="H,1,10,H36">
+    <p_pu vh="V" name="Conway" gain="42"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-2" top="2:29" driveindex="27" complete="Y"></drivesum>
+   <drivestart poss="H,H36,08:09" vh="H" spot="H36" clock="08:09" driveindex="28,183"></drivestart>
+   <play hasball="BC" down="1" togo="10" spot="BC36" context="H,1,10,H36" playid="28,1,184" clock="05:40" text="BOSTON COLLEGE drive start at 05:40." newcontext="H,1,10,H36">
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="BC36" context="H,1,10,H36" playid="28,2,185" type="R" first="R" text="Finch, R rush for 48 yards to the NU16, 1ST DOWN BC (Jones)." newcontext="H,1,10,V16">
+    <p_ru vh="H" name="Finch, R" gain="48"></p_ru>
+    <p_tk vh="V" name="Jones"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="10" spot="NU16" context="H,1,10,V16" playid="28,3,186" type="P" text="Marscovetra, M pass complete to Lowell, J for 7 yards to the NU9 (Fears)." newcontext="H,2,3,V09">
+    <p_pa vh="H" qb="Marscovetra, M" result="COMP" rcv="Lowell, J" gain="7"></p_pa>
+    <p_tk vh="V" name="Fears"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="3" spot="NU09" context="H,2,3,V09" playid="28,4,187" type="R" first="R" text="Finch, R rush for 4 yards to the NU5, 1ST DOWN BC (Bradley)." newcontext="H,1,0,V05">
+    <p_ru vh="H" name="Finch, R" gain="4"></p_ru>
+    <p_tk vh="V" name="Bradley"></p_tk>
+   </play>
+   <play hasball="BC" down="1" togo="0" spot="NU05" context="H,1,0,V05" playid="28,5,188" type="R" text="Finch, R rush for 3 yards to the NU2 (CHunte)." newcontext="H,2,0,V02">
+    <p_ru vh="H" name="Finch, R" gain="3"></p_ru>
+    <p_tk vh="V" name="CHunte"></p_tk>
+   </play>
+   <play hasball="BC" down="2" togo="0" spot="NU02" context="H,2,0,V02" playid="28,6,189" type="R" score="Y" clock="03:14" text="Finch, R rush for 2 yards to the NU0, TOUCHDOWN, clock 03:14." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="Finch, R" gain="2"></p_ru>
+   </play>
+   <play hasball="BC" down="1" togo="0" spot="NU03" context="H,1,0,V03" playid="28,7,190" type="X" score="Y" text="Morrissey, M kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="Morrissey, M" qb="Morrissey, M" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="54"></score>
+   <drivesum plays="5" yards="64" top="2:26" driveindex="28" complete="Y"></drivesum>
+   <play hasball="BC" down="1" togo="0" spot="BC30" context="H,1,0,H30" playid="28,8,191" type="K" text="Aponavicius, S kickoff 63 yards to the NU7, Coles return 20 yards to the NU27 (Williams, D)." newcontext="V,1,10,V27">
+    <p_ko vh="H" name="Aponavicius, S" gain="63"></p_ko>
+    <p_kr vh="V" name="Coles" gain="20"></p_kr>
+    <p_tk vh="H" name="Williams, D"></p_tk>
+   </play>
+   <drivestart poss="V,V27,03:14" vh="V" spot="V27" clock="03:14" driveindex="29,191"></drivestart>
+   <play hasball="NU" down="1" togo="10" spot="NU27" context="V,1,10,V27" playid="29,1,192" clock="03:14" text="NORTHEASTERN drive start at 03:14." newcontext="V,1,10,V27">
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU27" context="V,1,10,V27" playid="29,2,193" type="R" text="Carroll rush for 7 yards to the NU34 (Elliott, D)." newcontext="V,2,3,V34">
+    <p_ru vh="V" name="Carroll" gain="7"></p_ru>
+    <p_tk vh="H" name="Elliott, D"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="3" spot="NU34" context="V,2,3,V34" playid="29,3,194" type="R" first="R" text="Strunk rush for 5 yards to the NU39, 1ST DOWN NU (Okpara, U)." newcontext="V,1,10,V39">
+    <p_ru vh="V" name="Strunk" gain="5"></p_ru>
+    <p_tk vh="H" name="Okpara, U"></p_tk>
+   </play>
+   <play hasball="NU" down="1" togo="10" spot="NU39" context="V,1,10,V39" playid="29,4,195" type="R" text="Strunk rush for 6 yards to the NU45 (Ferguson, B)." newcontext="V,2,4,V45">
+    <p_ru vh="V" name="Strunk" gain="6"></p_ru>
+    <p_tk vh="H" name="Ferguson, B"></p_tk>
+   </play>
+   <play hasball="NU" down="2" togo="4" spot="NU45" context="V,2,4,V45" playid="29,5,196" type="R" text="Carroll rush for loss of 3 yards to the NU42 (Morrissey, M)." newcontext="V,3,7,V42">
+    <p_ru vh="V" name="Carroll" gain="-3"></p_ru>
+    <p_tk vh="H" name="Morrissey, M" tfl="Y"></p_tk>
+   </play>
+   <play hasball="NU" down="3" togo="7" spot="NU42" context="V,3,7,V42" playid="29,6,197" type="R" text="Whitworth rush for 1 yard to the NU43 (Holloway, M)." newcontext="V,4,6,V43">
+    <p_ru vh="V" name="Whitworth" gain="1"></p_ru>
+    <p_tk vh="H" name="Holloway, M"></p_tk>
+   </play>
+   <play hasball="NU" down="4" togo="6" spot="NU43" context="V,4,6,V43" playid="29,7,198" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="V,4,6,V43">
+   </play>
+   <drivesum plays="5" yards="16" top="3:14" driveindex="29" complete="Y"></drivesum>
+   <play context="" playid="" clock="" text="Boston College defeats Northeastern by a score of 54 to 0."></play>
+   <score final="Y" V="0" H="54"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="NU">
+    <firstdowns no="1" rush="1" pass="0" penalty="0"></firstdowns>
+    <penalties no="3" yds="30"></penalties>
+    <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:10"></misc>
+    <rush att="11" yds="22" gain="29" loss="7" td="0" long="0"></rush>
+    <pass comp="1" att="2" int="0" yds="4" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="1" yds="4" td="0" long="0"></rcv>
+    <punt no="3" yds="98" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="32.7"></punt>
+    <defense tackua="9" tacka="0" tot_tack="9" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="20" td="0" long="0"></kr>
+    <pr no="1" yds="9" td="0" long="5"></pr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="BC">
+    <firstdowns no="3" rush="2" pass="1" penalty="0"></firstdowns>
+    <penalties no="2" yds="10"></penalties>
+    <conversions thirdconv="0" thirdatt="2" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="1" lost="0"></fumbles>
+    <misc yds="0" top="06:50"></misc>
+    <rush att="6" yds="56" gain="59" loss="3" td="1" long="0"></rush>
+    <pass comp="5" att="7" int="0" yds="39" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="39" td="0" long="0"></rcv>
+    <punt no="1" yds="51" long="1" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="51.0"></punt>
+    <ko no="1" yds="63" ob="0" tb="0"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="14" tacka="0" tot_tack="14" tflua="3" tfla="0" tflyds="7" sacks="0" sackyds="0"></defense>
+    <fumbles no="1" lost="0"></fumbles>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="NU" down="4" togo="6" spot="NU43" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="2" htor="3" dtgtext="Game Over" ldtext="Drive started: 03:14, 4th Qtr"></downtogo>
+ </plays>

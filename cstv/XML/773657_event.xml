@@ -1,0 +1,975 @@
+<plays format="summary">
+  <qtr number="1" text="1st">
+   <play hasball="UB" down="1" togo="10" spot="UB30" context="V,1,10,V30" playid="0,1,0" type="K" text="RACHUNA, John kickoff 70 yards to the UTEP0, BROWN,Cornelius return 31 yards to the UTEP31 (SIZEMORE, Nick)." newcontext="H,1,10,H31">
+    <p_ko vh="V" name="RACHUNA, John" gain="70"></p_ko>
+    <p_kr vh="H" name="BROWN,Cornelius" gain="31"></p_kr>
+    <p_tk vh="V" name="SIZEMORE, Nick"></p_tk>
+   </play>
+   <drivestart poss="H,H31,15:00" vh="H" spot="H31" clock="15:00" driveindex="1,0"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP31" context="H,1,10,H31" playid="1,1,1" type="P" text="VITTATOE,Trevor pass complete to BUCKRAM, Donald for 8 yards to the UTEP39 (JOHNSON, Kevin;MONTANEZ, Anel)." newcontext="H,2,2,H39">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="BUCKRAM, Donald" gain="8"></p_pa>
+    <p_tk vh="V" name="JOHNSON, Kevin" assist="Y"></p_tk>
+    <p_tk vh="V" name="MONTANEZ, Anel" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="2" spot="UTEP39" context="H,2,2,H39" playid="1,2,2" type="R" first="R" text="BUCKRAM, Donald rush for 8 yards to the UTEP47, 1ST DOWN UTEP (LAPOINTE, Bruno;COPELAND, Josh)." newcontext="H,1,10,H47">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="8"></p_ru>
+    <p_tk vh="V" name="LAPOINTE, Bruno" assist="Y"></p_tk>
+    <p_tk vh="V" name="COPELAND, Josh" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP47" context="H,1,10,H47" playid="1,3,3" type="P" text="VITTATOE,Trevor pass incomplete to THOMAS, James (COOK, Domonic)." newcontext="H,2,10,H47">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="THOMAS, James"></p_pa>
+    <p_bu vh="V" name="COOK, Domonic"></p_bu>
+   </play>
+   <play hasball="UTEP" down="2" togo="10" spot="UTEP47" context="H,2,10,H47" playid="1,4,4" type="R" first="R" text="BUCKRAM, Donald rush for 12 yards to the UB41, 1ST DOWN UTEP (LOTT, Sherrod)." newcontext="H,1,10,V41">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="12"></p_ru>
+    <p_tk vh="V" name="LOTT, Sherrod"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB41" context="H,1,10,V41" playid="1,5,5" type="R" first="R" text="MOTURI, Jeff rush for 21 yards to the UB20, 1ST DOWN UTEP (NEWTON, Mike)." newcontext="H,1,10,V20">
+    <p_ru vh="H" name="MOTURI, Jeff" gain="21"></p_ru>
+    <p_tk vh="V" name="NEWTON, Mike"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB20" context="H,1,10,V20" playid="1,6,6" type="P" text="VITTATOE,Trevor pass incomplete to SHADRAWY, T. (COOK, Domonic)." newcontext="H,2,10,V20">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="SHADRAWY, T."></p_pa>
+    <p_bu vh="V" name="COOK, Domonic"></p_bu>
+   </play>
+   <play hasball="UTEP" down="2" togo="10" spot="UB20" context="H,2,10,V20" playid="1,7,7" type="P" text="VITTATOE,Trevor pass incomplete to DAVIS, Evan." newcontext="H,3,10,V20">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="DAVIS, Evan"></p_pa>
+   </play>
+   <play hasball="UTEP" down="3" togo="10" spot="UB20" context="H,3,10,V20" playid="1,8,8" type="E" text="PENALTY UTEP false start 5 yards to the UB25." newcontext="H,3,15,V25">
+    <p_pn vh="H" code="FS" type="false start" result="ACCEPT" at="V20" yards="5"></p_pn>
+   </play>
+   <play hasball="UTEP" down="3" togo="15" spot="UB25" context="H,3,15,V25" playid="1,9,9" type="E" text="VITTATOE,Trevor pass complete to SHADRAWY, T. for 12 yards to the UB13 (DUBOIS, Gordon), PENALTY UTEP holding (ADAMS, Kris) 10 yards to the UB35, NO PLAY." newcontext="H,3,25,V35">
+    <p_pn vh="H" code="HO" type="holding" name="ADAMS, Kris" result="ACCEPT" at="V25" yards="10"></p_pn>
+   </play>
+   <play hasball="UTEP" down="3" togo="25" spot="UB35" context="H,3,25,V35" playid="1,10,10" type="P" text="VITTATOE,Trevor pass complete to BUCKRAM, Donald for 4 yards to the UB31 (THOMAS, Josh)." newcontext="H,4,21,V31">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="BUCKRAM, Donald" gain="4"></p_pa>
+    <p_tk vh="V" name="THOMAS, Josh"></p_tk>
+   </play>
+   <play hasball="UTEP" down="4" togo="21" spot="UB31" context="H,4,21,V31" playid="1,11,11" type="F" clock="10:46" text="BARRETT, Logan field goal attempt from 48 MISSED - short, spot at UB31, clock 10:46." newcontext="V,1,10,V31">
+    <p_fg vh="H" name="BARRETT, Logan" distance="48" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="9" yards="38" top="4:14" driveindex="1" complete="Y"></drivesum>
+   <drivestart poss="V,V31,10:46" vh="V" spot="V31" clock="10:46" driveindex="2,11"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB31" context="V,1,10,V31" playid="2,1,12" clock="10:46" text="BUFFALO drive start at 10:46." newcontext="V,1,10,V31">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB31" context="V,1,10,V31" playid="2,2,13" type="E" text="PENALTY UB offside (OSTROWSKI, Matt) 5 yards to the UB26." newcontext="V,1,15,V26">
+    <p_pn vh="V" code="OS" type="offside" name="OSTROWSKI, Matt" result="ACCEPT" at="V31" yards="5"></p_pn>
+   </play>
+   <play hasball="UB" down="1" togo="15" spot="UB26" context="V,1,15,V26" playid="2,3,14" type="R" text="THERMILUS, Bran rush for 4 yards to the UB30 (SPRINGER,Jeremy)." newcontext="V,2,11,V30">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="4"></p_ru>
+    <p_tk vh="H" name="SPRINGER,Jeremy"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="11" spot="UB30" context="V,2,11,V30" playid="2,4,15" type="R" text="THERMILUS, Bran rush for loss of 1 yard to the UB29 (WARD, Clarence)." newcontext="V,3,12,V29">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="-1"></p_ru>
+    <p_tk vh="H" name="WARD, Clarence" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="12" spot="UB29" context="V,3,12,V29" playid="2,5,16" type="P" text="MAYNARD, Zach pass incomplete to HAMLIN, Brett (BROWN,Cornelius)." newcontext="V,4,12,V29">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="INC" rcv="HAMLIN, Brett"></p_pa>
+    <p_bu vh="H" name="BROWN,Cornelius"></p_bu>
+   </play>
+   <play hasball="UB" down="4" togo="12" spot="UB29" context="V,4,12,V29" playid="2,6,17" type="U" text="FARDON, Peter punt 46 yards to the UTEP25, MOTURI, Jeff return 12 yards to the UTEP37." newcontext="H,1,10,H37">
+    <p_pu vh="V" name="FARDON, Peter" gain="46"></p_pu>
+    <p_pr vh="H" name="MOTURI, Jeff" gain="12"></p_pr>
+   </play>
+   <drivesum plays="3" yards="-2" top="1:23" driveindex="2" complete="Y"></drivesum>
+   <drivestart poss="H,H37,10:46" vh="H" spot="H37" clock="10:46" driveindex="3,17"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP37" context="H,1,10,H37" playid="3,1,18" type="P" clock="09:23" text="UTEP drive start at 09:23, VITTATOE,Trevor pass incomplete to DAVIS, Evan (THOMAS, Josh)." newcontext="H,2,10,H37">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="DAVIS, Evan"></p_pa>
+    <p_bu vh="V" name="THOMAS, Josh"></p_bu>
+   </play>
+   <play hasball="UTEP" down="2" togo="10" spot="UTEP37" context="H,2,10,H37" playid="3,2,19" type="E" first="E" text="VITTATOE,Trevor pass incomplete to ADAMS, Kris, PENALTY UB roughing passer (WHINERY, Graham) 15 yards to the UB48, 1ST DOWN UTEP, NO PLAY." newcontext="H,1,10,V48">
+    <p_pn vh="V" code="RP" type="roughing passer" name="WHINERY, Graham" result="ACCEPT" at="H37" yards="15"></p_pn>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB48" context="H,1,10,V48" playid="3,3,20" type="R" text="THOMAS, James rush for 2 yards to the UB46 (COOK, Domonic;PETTIGREW, Scot)." newcontext="H,2,8,V46">
+    <p_ru vh="H" name="THOMAS, James" gain="2"></p_ru>
+    <p_tk vh="V" name="COOK, Domonic" assist="Y"></p_tk>
+    <p_tk vh="V" name="PETTIGREW, Scot" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="8" spot="UB46" context="H,2,8,V46" playid="3,4,21" type="R" first="R" text="BUCKRAM, Donald rush for 17 yards to the UB29, 1ST DOWN UTEP (SHANNON, Davont)." newcontext="H,1,10,V29">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="17"></p_ru>
+    <p_tk vh="V" name="SHANNON, Davont"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB29" context="H,1,10,V29" playid="3,5,22" type="R" text="VITTATOE,Trevor rush for 7 yards to the UB22 (MEANS, Steven)." newcontext="H,2,3,V22">
+    <p_ru vh="H" name="VITTATOE,Trevor" gain="7"></p_ru>
+    <p_tk vh="V" name="MEANS, Steven"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="3" spot="UB22" context="H,2,3,V22" playid="3,6,23" type="R" first="R" text="VITTATOE,Trevor rush for 17 yards to the UB5, 1ST DOWN UTEP (NEWTON, Mike;LOTT, Sherrod)." newcontext="H,1,0,V05">
+    <p_ru vh="H" name="VITTATOE,Trevor" gain="17"></p_ru>
+    <p_tk vh="V" name="NEWTON, Mike" assist="Y"></p_tk>
+    <p_tk vh="V" name="LOTT, Sherrod" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="0" spot="UB05" context="H,1,0,V05" playid="3,7,24" type="E" first="E" text="VITTATOE,Trevor pass incomplete to MOTURI, Jeff, PENALTY UB holding (THOMAS, Josh) 2 yards to the UB3, 1ST DOWN UTEP, NO PLAY." newcontext="H,1,0,V03">
+    <p_pn vh="V" code="HO" type="holding" name="THOMAS, Josh" result="ACCEPT" at="V05" yards="2"></p_pn>
+   </play>
+   <play hasball="UTEP" down="1" togo="0" spot="UB03" context="H,1,0,V03" playid="3,8,25" type="R" text="BUCKRAM, Donald rush for 2 yards to the UB1 (WHINERY, Graham;HAWKINS, Kendri)." newcontext="H,2,0,V01">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="2"></p_ru>
+    <p_tk vh="V" name="WHINERY, Graham" assist="Y"></p_tk>
+    <p_tk vh="V" name="HAWKINS, Kendri" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="0" spot="UB01" context="H,2,0,V01" playid="3,9,26" type="P" text="VITTATOE,Trevor pass incomplete to GOODWELL,Landon." newcontext="H,3,0,V01">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="GOODWELL,Landon"></p_pa>
+   </play>
+   <play hasball="UTEP" down="3" togo="0" spot="UB01" context="H,3,0,V01" playid="3,10,27" type="R" score="Y" clock="05:07" text="WILLIAMS, Jason rush for 1 yard to the UB0, TOUCHDOWN, clock 05:07." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="WILLIAMS, Jason" gain="1"></p_ru>
+   </play>
+   <play hasball="UTEP" down="1" togo="0" spot="UB03" context="H,1,0,V03" playid="3,11,28" type="X" score="Y" text="BARRETT, Logan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="BARRETT, Logan" qb="BARRETT, Logan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="0" H="7"></score>
+   <drivesum plays="8" yards="63" top="4:16" driveindex="3" complete="Y"></drivesum>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP30" context="H,1,0,H30" playid="3,12,29" type="K" text="PETERSEN, Kyle kickoff 58 yards to the UB12, out-of-bounds, UB ball on UB40." ob="Y" newcontext="V,1,10,V40">
+    <p_ko vh="H" name="PETERSEN, Kyle" gain="58" result="O"></p_ko>
+   </play>
+   <drivestart poss="V,V40,05:07" vh="V" spot="V40" clock="05:07" driveindex="4,29"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB40" context="V,1,10,V40" playid="4,1,30" clock="05:07" text="BUFFALO drive start at 05:07." newcontext="V,1,10,V40">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB40" context="V,1,10,V40" playid="4,2,31" type="R" text="THERMILUS, Bran rush for 6 yards to the UB46 (CROMARTIE-SMITH)." newcontext="V,2,4,V46">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="6"></p_ru>
+    <p_tk vh="H" name="CROMARTIE-SMITH"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="4" spot="UB46" context="V,2,4,V46" playid="4,3,32" type="R" text="THERMILUS, Bran rush for 2 yards to the UB48 (MORROW, Anthony;SPRINGER,Jeremy)." newcontext="V,3,2,V48">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="2"></p_ru>
+    <p_tk vh="H" name="MORROW, Anthony" assist="Y"></p_tk>
+    <p_tk vh="H" name="SPRINGER,Jeremy" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="2" spot="UB48" context="V,3,2,V48" playid="4,4,33" type="P" first="P" text="MAYNARD, Zach pass complete to HAMLIN, Brett for 5 yards to the UTEP47, 1ST DOWN UB (STEPHENSON, M.)." newcontext="V,1,10,H47">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="COMP" rcv="HAMLIN, Brett" gain="5"></p_pa>
+    <p_tk vh="H" name="STEPHENSON, M."></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UTEP47" context="V,1,10,H47" playid="4,5,34" type="R" text="THERMILUS, Bran rush for loss of 4 yards to the UB49 (ROBINSON, Tory)." newcontext="V,2,14,V49">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="-4"></p_ru>
+    <p_tk vh="H" name="ROBINSON, Tory" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="14" spot="UB49" context="V,2,14,V49" playid="4,6,35" type="P" text="MAYNARD, Zach pass complete to ROOSEVELT, Naam for 13 yards to the UTEP38 (AMY, Braxton)." newcontext="V,3,1,H38">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="COMP" rcv="ROOSEVELT, Naam" gain="13"></p_pa>
+    <p_tk vh="H" name="AMY, Braxton"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="1" spot="UTEP38" context="V,3,1,H38" playid="4,7,36" type="R" first="R" text="MAYNARD, Zach rush for 2 yards to the UTEP36, 1ST DOWN UB (HICKMAN, Justin)." newcontext="V,1,10,H36">
+    <p_ru vh="V" name="MAYNARD, Zach" gain="2"></p_ru>
+    <p_tk vh="H" name="HICKMAN, Justin"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UTEP36" context="V,1,10,H36" playid="4,8,37" type="P" text="MAYNARD, Zach pass incomplete to ROOSEVELT, Naam." newcontext="V,2,10,H36">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="INC" rcv="ROOSEVELT, Naam"></p_pa>
+   </play>
+   <play hasball="UB" down="2" togo="10" spot="UTEP36" context="V,2,10,H36" playid="4,9,38" type="P" first="P" text="MAYNARD, Zach pass complete to ROOSEVELT, Naam for 18 yards to the UTEP18, 1ST DOWN UB (STEPHENSON, M.)." newcontext="V,1,10,H18">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="COMP" rcv="ROOSEVELT, Naam" gain="18"></p_pa>
+    <p_tk vh="H" name="STEPHENSON, M."></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UTEP18" context="V,1,10,H18" playid="4,10,39" type="R" text="THERMILUS, Bran rush for loss of 6 yards to the UTEP24 (GOODWELL,Landon)." newcontext="V,2,16,H24">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="-6"></p_ru>
+    <p_tk vh="H" name="GOODWELL,Landon" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="16" spot="UTEP24" context="V,2,16,H24" playid="4,11,40" type="E" text="MAYNARD, Zach pass incomplete to HAMLIN, Brett, PENALTY UB illegal shift 5 yards to the UTEP29, NO PLAY." newcontext="V,2,21,H29">
+    <p_pn vh="V" code="SH" type="illegal shift" result="ACCEPT" at="H24" yards="5"></p_pn>
+   </play>
+   <play hasball="UB" down="2" togo="21" spot="UTEP29" context="V,2,21,H29" playid="4,12,41" type="P" text="MAYNARD, Zach pass complete to RACK, Jesse for 16 yards to the UTEP13 (WARD, Clarence)." newcontext="V,3,5,H13">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="COMP" rcv="RACK, Jesse" gain="16"></p_pa>
+    <p_tk vh="H" name="WARD, Clarence"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="5" spot="UTEP13" context="V,3,5,H13" playid="4,13,42" type="R" first="R" text="HENRY, Mario rush for 5 yards to the UTEP8, 1ST DOWN UB (CROMARTIE-SMITH)." newcontext="V,1,0,H08">
+    <p_ru vh="V" name="HENRY, Mario" gain="5"></p_ru>
+    <p_tk vh="H" name="CROMARTIE-SMITH"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="0" spot="UTEP08" context="V,1,0,H08" playid="4,14,43" type="P" text="MAYNARD, Zach pass complete to HAMLIN, Brett for 6 yards to the UTEP2 (WARD, Clarence;SPRINGER,Jeremy)." newcontext="V,2,0,H02">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="COMP" rcv="HAMLIN, Brett" gain="6"></p_pa>
+    <p_tk vh="H" name="WARD, Clarence" assist="Y"></p_tk>
+    <p_tk vh="H" name="SPRINGER,Jeremy" assist="Y"></p_tk>
+   </play>
+   <score qtr="1" V="0" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UB">
+    <firstdowns no="4" rush="2" pass="2" penalty="0"></firstdowns>
+    <penalties no="4" yds="27"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:30"></misc>
+    <rush att="8" yds="8" gain="19" loss="11" td="0" long="6"></rush>
+    <pass comp="5" att="7" int="0" yds="58" td="0" long="18" sacks="0" sackyds="0"></pass>
+    <rcv no="5" yds="58" td="0" long="18"></rcv>
+    <punt no="1" yds="46" long="46" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="46.0"></punt>
+    <ko no="1" yds="70" ob="0" tb="0"></ko>
+    <defense tackua="6" tacka="10" tot_tack="16" sacks="0" sackyds="0" brup="3"></defense>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UTEP">
+    <firstdowns no="7" rush="5" pass="0" penalty="2"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:30"></misc>
+    <rush att="9" yds="87" gain="87" loss="0" td="1" long="21"></rush>
+    <pass comp="2" att="7" int="0" yds="12" td="0" long="8" sacks="0" sackyds="0"></pass>
+    <rcv no="2" yds="12" td="0" long="8"></rcv>
+    <ko no="1" yds="58" ob="1" tb="0"></ko>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="11" tacka="4" tot_tack="15" tflua="3" tfla="0" tflyds="11" sacks="0" sackyds="0" brup="1"></defense>
+    <kr no="1" yds="31" td="0" long="31"></kr>
+    <pr no="1" yds="12" td="0" long="12"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="2" text="2nd">
+   <play hasball="UB" down="2" togo="0" spot="UTEP02" context="V,2,0,H02" playid="4,15,44" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,2,0,H02">
+   </play>
+   <play hasball="UB" down="2" togo="0" spot="UTEP02" context="V,2,0,H02" playid="4,16,45" type="R" score="Y" clock="14:56" text="THERMILUS, Bran rush for 2 yards to the UTEP0, TOUCHDOWN, clock 14:56." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="2"></p_ru>
+   </play>
+   <play hasball="UB" down="1" togo="0" spot="UTEP03" context="V,1,0,H03" playid="4,17,46" type="X" score="Y" text="PRINCIPE, A.J. kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="PRINCIPE, A.J." qb="PRINCIPE, A.J." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="7" H="7"></score>
+   <drivesum plays="13" yards="60" top="5:11" driveindex="4" complete="Y"></drivesum>
+   <play hasball="UB" down="1" togo="0" spot="UB30" context="V,1,0,V30" playid="4,18,47" type="K" text="RACHUNA, John kickoff 65 yards to the UTEP5, MOTURI, Jeff return -4 yards to the UTEP1 (STORR, Chris)." newcontext="H,1,10,H01">
+    <p_ko vh="V" name="RACHUNA, John" gain="65"></p_ko>
+    <p_kr vh="H" name="MOTURI, Jeff" gain="-4"></p_kr>
+    <p_tk vh="V" name="STORR, Chris"></p_tk>
+   </play>
+   <drivestart poss="H,H01,14:56" vh="H" spot="H01" clock="14:56" driveindex="5,47"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP01" context="H,1,10,H01" playid="5,1,48" clock="14:56" text="UTEP drive start at 14:56." newcontext="H,1,10,H01">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP01" context="H,1,10,H01" playid="5,2,49" type="P" text="VITTATOE,Trevor pass incomplete to ADAMS, Kris, dropped pass." newcontext="H,2,10,H01">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="DROP" rcv="ADAMS, Kris"></p_pa>
+   </play>
+   <play hasball="UTEP" down="2" togo="10" spot="UTEP01" context="H,2,10,H01" playid="5,3,50" type="R" text="WILLIAMS, Jason rush for 1 yard to the UTEP2 (LAPOINTE, Bruno)." newcontext="H,3,9,H02">
+    <p_ru vh="H" name="WILLIAMS, Jason" gain="1"></p_ru>
+    <p_tk vh="V" name="LAPOINTE, Bruno"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="9" spot="UTEP02" context="H,3,9,H02" playid="5,4,51" type="R" text="WILLIAMS, Jason rush for 4 yards to the UTEP6 (COOK, Domonic)." newcontext="H,4,5,H06">
+    <p_ru vh="H" name="WILLIAMS, Jason" gain="4"></p_ru>
+    <p_tk vh="V" name="COOK, Domonic"></p_tk>
+   </play>
+   <play hasball="UTEP" down="4" togo="5" spot="UTEP06" context="H,4,5,H06" playid="5,5,52" type="R" score="Y" text="HIETT, Greg rush for loss of 6 yards to the UTEP0, fumble by HIETT, Greg recovered by UTEP MCNAC, Anthony at UTEP0, TEAM safety." newcontext="H,1,0,H20">
+    <p_ru vh="H" name="HIETT, Greg" gain="-6"></p_ru>
+    <p_fumb vh="H" name="HIETT, Greg" at="H00" frvh="H" frname="MCNAC, Anthony"></p_fumb>
+   </play>
+   <score V="9" H="7"></score>
+   <drivesum plays="4" yards="-1" top="1:46" driveindex="5" complete="Y"></drivesum>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP20" context="H,1,0,H20" playid="5,6,53" type="K" text="PETERSEN, Kyle kickoff 67 yards to the UB13, COOK, Domonic return 62 yards to the UTEP25 (PETERSEN, Kyle)." newcontext="V,1,10,H25">
+    <p_ko vh="H" name="PETERSEN, Kyle" gain="67"></p_ko>
+    <p_kr vh="V" name="COOK, Domonic" gain="62"></p_kr>
+    <p_tk vh="H" name="PETERSEN, Kyle"></p_tk>
+   </play>
+   <drivestart poss="V,H25,14:56" vh="V" spot="H25" clock="14:56" driveindex="6,53"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UTEP25" context="V,1,10,H25" playid="6,1,54" clock="13:10" text="BUFFALO drive start at 13:10." newcontext="V,1,10,H25">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UTEP25" context="V,1,10,H25" playid="6,2,55" type="R" first="R" text="HENRY, Mario rush for 19 yards to the UTEP6, 1ST DOWN UB (AMY, Braxton)." newcontext="V,1,0,H06">
+    <p_ru vh="V" name="HENRY, Mario" gain="19"></p_ru>
+    <p_tk vh="H" name="AMY, Braxton"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="0" spot="UTEP06" context="V,1,0,H06" playid="6,3,56" type="R" score="Y" clock="12:39" text="HENRY, Mario rush for 6 yards to the UTEP0, TOUCHDOWN, clock 12:39." newcontext="V,1,0,H03">
+    <p_ru vh="V" name="HENRY, Mario" gain="6"></p_ru>
+   </play>
+   <play hasball="UB" down="1" togo="0" spot="UTEP03" context="V,1,0,H03" playid="6,4,57" type="X" score="Y" text="PRINCIPE, A.J. kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="PRINCIPE, A.J." qb="PRINCIPE, A.J." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="16" H="7"></score>
+   <drivesum plays="2" yards="25" top="0:31" driveindex="6" complete="Y"></drivesum>
+   <play hasball="UB" down="1" togo="0" spot="UB30" context="V,1,0,V30" playid="6,5,58" type="K" text="RACHUNA, John kickoff 46 yards to the UTEP24, MOTURI, Jeff return 25 yards to the UTEP49 (THOMAS, Josh;PETIT, Joe)." newcontext="H,1,10,H49">
+    <p_ko vh="V" name="RACHUNA, John" gain="46"></p_ko>
+    <p_kr vh="H" name="MOTURI, Jeff" gain="25"></p_kr>
+    <p_tk vh="V" name="THOMAS, Josh" assist="Y"></p_tk>
+    <p_tk vh="V" name="PETIT, Joe" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="H,H49,12:39" vh="H" spot="H49" clock="12:39" driveindex="7,58"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP49" context="H,1,10,H49" playid="7,1,59" clock="12:32" text="UTEP drive start at 12:32." newcontext="H,1,10,H49">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP49" context="H,1,10,H49" playid="7,2,60" type="E" text="PENALTY UTEP false start (HUNTLEY, Rod) 5 yards to the UTEP44." newcontext="H,1,15,H44">
+    <p_pn vh="H" code="FS" type="false start" name="HUNTLEY, Rod" result="ACCEPT" at="H49" yards="5"></p_pn>
+   </play>
+   <play hasball="UTEP" down="1" togo="15" spot="UTEP44" context="H,1,15,H44" playid="7,3,61" type="E" text="VITTATOE,Trevor rush for 5 yards to the UTEP49, PENALTY UTEP holding (HUNTLEY, Rod) 10 yards to the UTEP34, NO PLAY." newcontext="H,1,25,H34">
+    <p_pn vh="H" code="HO" type="holding" name="HUNTLEY, Rod" result="ACCEPT" at="H44" yards="10"></p_pn>
+   </play>
+   <play hasball="UTEP" down="1" togo="25" spot="UTEP34" context="H,1,25,H34" playid="7,4,62" type="R" text="VITTATOE,Trevor rush for 7 yards to the UTEP41 (HAWKINS, Kendri)." newcontext="H,2,18,H41">
+    <p_ru vh="H" name="VITTATOE,Trevor" gain="7"></p_ru>
+    <p_tk vh="V" name="HAWKINS, Kendri"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="18" spot="UTEP41" context="H,2,18,H41" playid="7,5,63" type="E" first="E" text="VITTATOE,Trevor pass incomplete to ADAMS, Kris, PENALTY UB pass interference (HAWKINS, Kendri) 13 yards to the UB46, 1ST DOWN UTEP, NO PLAY." newcontext="H,1,10,V46">
+    <p_pn vh="V" code="PI" type="pass interference" name="HAWKINS, Kendri" result="ACCEPT" at="H41" yards="13"></p_pn>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB46" context="H,1,10,V46" playid="7,6,64" type="P" text="VITTATOE,Trevor pass complete to MOTURI, Jeff for 7 yards to the UB39 (SHANNON, Davont)." newcontext="H,2,3,V39">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="MOTURI, Jeff" gain="7"></p_pa>
+    <p_tk vh="V" name="SHANNON, Davont"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="3" spot="UB39" context="H,2,3,V39" playid="7,7,65" type="P" text="VITTATOE,Trevor pass incomplete to SHADRAWY, T.." newcontext="H,3,3,V39">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="SHADRAWY, T."></p_pa>
+   </play>
+   <play hasball="UTEP" down="3" togo="3" spot="UB39" context="H,3,3,V39" playid="7,8,66" type="P" first="P" text="VITTATOE,Trevor pass complete to ADAMS, Kris for 9 yards to the UB30, 1ST DOWN UTEP (THOMAS, Josh)." newcontext="H,1,10,V30">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="ADAMS, Kris" gain="9"></p_pa>
+    <p_tk vh="V" name="THOMAS, Josh"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB30" context="H,1,10,V30" playid="7,9,67" type="P" text="VITTATOE,Trevor pass complete to BUCKRAM, Donald for 8 yards to the UB22 (HOUSEY, Jerry)." newcontext="H,2,2,V22">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="BUCKRAM, Donald" gain="8"></p_pa>
+    <p_tk vh="V" name="HOUSEY, Jerry"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="2" spot="UB22" context="H,2,2,V22" playid="7,10,68" type="R" text="VITTATOE,Trevor rush for no gain to the UB22 (HOUSEY, Jerry;AKOBUNDU, Rapha)." newcontext="H,3,2,V22">
+    <p_ru vh="H" name="VITTATOE,Trevor" gain="0"></p_ru>
+    <p_tk vh="V" name="HOUSEY, Jerry" assist="Y"></p_tk>
+    <p_tk vh="V" name="AKOBUNDU, Rapha" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="2" spot="UB22" context="H,3,2,V22" playid="7,11,69" type="R" first="R" text="VITTATOE,Trevor rush for 2 yards to the UB20, 1ST DOWN UTEP (SMITH, Richie)." newcontext="H,1,10,V20">
+    <p_ru vh="H" name="VITTATOE,Trevor" gain="2"></p_ru>
+    <p_tk vh="V" name="SMITH, Richie"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB20" context="H,1,10,V20" playid="7,12,70" type="R" text="TEAM rush for loss of 6 yards to the UB26 (DUBOIS, Gordon)." newcontext="H,2,16,V26">
+    <p_ru vh="H" name="TEAM" gain="-6"></p_ru>
+    <p_tk vh="V" name="DUBOIS, Gordon" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="16" spot="UB26" context="H,2,16,V26" playid="7,13,71" type="R" text="BUCKRAM, Donald rush for 4 yards to the UB22 (WINTERS, Justin)." newcontext="H,3,12,V22">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="4"></p_ru>
+    <p_tk vh="V" name="WINTERS, Justin"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="12" spot="UB22" context="H,3,12,V22" playid="7,14,72" type="P" text="VITTATOE,Trevor sacked for loss of 14 yards to the UB36 (WINTERS, Justin)." newcontext="H,4,26,V36">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="SACK" gain="-14"></p_pa>
+    <p_tk vh="V" name="WINTERS, Justin" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="4" togo="26" spot="UB36" context="H,4,26,V36" playid="7,15,73" type="U" text="HIETT, Greg punt 30 yards to the UB6, downed." newcontext="V,1,10,V06">
+    <p_pu vh="H" name="HIETT, Greg" gain="30" in20="Y"></p_pu>
+   </play>
+   <drivesum plays="10" yards="15" top="6:24" driveindex="7" complete="Y"></drivesum>
+   <drivestart poss="V,V06,12:32" vh="V" spot="V06" clock="12:32" driveindex="8,73"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB06" context="V,1,10,V06" playid="8,1,74" clock="06:08" text="BUFFALO drive start at 06:08." newcontext="V,1,10,V06">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB06" context="V,1,10,V06" playid="8,2,75" type="R" text="THERMILUS, Bran rush for 6 yards to the UB12 (CROMARTIE-SMITH;BLAKE, Antwon)." newcontext="V,2,4,V12">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="6"></p_ru>
+    <p_tk vh="H" name="CROMARTIE-SMITH" assist="Y"></p_tk>
+    <p_tk vh="H" name="BLAKE, Antwon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="4" spot="UB12" context="V,2,4,V12" playid="8,3,76" type="R" text="THERMILUS, Bran rush for 2 yards to the UB14 (CROMARTIE-SMITH;AMY, Braxton)." newcontext="V,3,2,V14">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="2"></p_ru>
+    <p_tk vh="H" name="CROMARTIE-SMITH" assist="Y"></p_tk>
+    <p_tk vh="H" name="AMY, Braxton" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="2" spot="UB14" context="V,3,2,V14" playid="8,4,77" type="P" text="MAYNARD, Zach pass incomplete to HAMLIN, Brett." newcontext="V,4,2,V14">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="INC" rcv="HAMLIN, Brett"></p_pa>
+   </play>
+   <play hasball="UB" down="4" togo="2" spot="UB14" context="V,4,2,V14" playid="8,5,78" type="U" text="FARDON, Peter punt 42 yards to the UTEP44, MOTURI, Jeff return 6 yards to the 50 yardline, fumble forced by KELLY, Brian, fumble by MOTURI, Jeff recovered by UTEP SMITH, Royzell at UTEP43." newcontext="H,1,10,H43">
+    <p_pu vh="V" name="FARDON, Peter" gain="42"></p_pu>
+    <p_pr vh="H" name="MOTURI, Jeff" gain="6"></p_pr>
+    <p_fumb vh="H" name="MOTURI, Jeff" at="H43" frvh="H" frname="SMITH, Royzell"></p_fumb>
+    <p_tk vh="V" name="KELLY, Brian" ff="Y"></p_tk>
+   </play>
+   <drivesum plays="3" yards="8" top="1:34" driveindex="8" complete="Y"></drivesum>
+   <drivestart poss="H,H43,06:08" vh="H" spot="H43" clock="06:08" driveindex="9,78"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP43" context="H,1,10,H43" playid="9,1,79" clock="04:34" text="UTEP drive start at 04:34, UTEP ball on UTEP43." newcontext="H,1,10,H43">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP43" context="H,1,10,H43" playid="9,2,80" type="P" text="VITTATOE,Trevor pass complete to MOTURI, Jeff for 6 yards to the UTEP49 (SHANNON, Davont;LOTT, Sherrod)." newcontext="H,2,4,H49">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="MOTURI, Jeff" gain="6"></p_pa>
+    <p_tk vh="V" name="SHANNON, Davont" assist="Y"></p_tk>
+    <p_tk vh="V" name="LOTT, Sherrod" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="4" spot="UTEP49" context="H,2,4,H49" playid="9,3,81" type="P" first="P" text="VITTATOE,Trevor pass complete to ADAMS, Kris for 32 yards to the UB19, 1ST DOWN UTEP (LOTT, Sherrod;SHANNON, Davont)." newcontext="H,1,10,V19">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="ADAMS, Kris" gain="32"></p_pa>
+    <p_tk vh="V" name="LOTT, Sherrod" assist="Y"></p_tk>
+    <p_tk vh="V" name="SHANNON, Davont" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB19" context="H,1,10,V19" playid="9,4,82" type="P" text="VITTATOE,Trevor pass complete to MOTURI, Jeff for 5 yards to the UB14 (JOHNSON, Kevin;PETTIGREW, Scot)." newcontext="H,2,5,V14">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="MOTURI, Jeff" gain="5"></p_pa>
+    <p_tk vh="V" name="JOHNSON, Kevin" assist="Y"></p_tk>
+    <p_tk vh="V" name="PETTIGREW, Scot" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="5" spot="UB14" context="H,2,5,V14" playid="9,5,83" type="R" text="BUCKRAM, Donald rush for 1 yard to the UB13 (LAPOINTE, Bruno)." newcontext="H,3,4,V13">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="1"></p_ru>
+    <p_tk vh="V" name="LAPOINTE, Bruno"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="4" spot="UB13" context="H,3,4,V13" playid="9,6,84" type="#" clock="02:41" text="Timeout UTEP, clock 02:41." newcontext="H,3,4,V13">
+    <p_to vh="H" team="UTEP"></p_to>
+   </play>
+   <play hasball="UTEP" down="3" togo="4" spot="UB13" context="H,3,4,V13" playid="9,7,85" type="P" text="VITTATOE,Trevor pass incomplete to DAVIS, Evan." newcontext="H,4,4,V13">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="DAVIS, Evan"></p_pa>
+   </play>
+   <play hasball="UTEP" down="4" togo="4" spot="UB13" context="H,4,4,V13" playid="9,8,86" type="P" text="VITTATOE,Trevor pass incomplete to MOORE, Jonny." newcontext="V,1,10,V13">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="MOORE, Jonny"></p_pa>
+   </play>
+   <drivesum plays="6" yards="44" top="2:03" driveindex="9" complete="Y"></drivesum>
+   <drivestart poss="V,V13,02:41" vh="V" spot="V13" clock="02:41" driveindex="10,86"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB13" context="V,1,10,V13" playid="10,1,87" clock="02:31" text="BUFFALO drive start at 02:31." newcontext="V,1,10,V13">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB13" context="V,1,10,V13" playid="10,2,88" type="R" text="THERMILUS, Bran rush for loss of 3 yards to the UB10 (KING, Aaron)." newcontext="V,2,13,V10">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="-3"></p_ru>
+    <p_tk vh="H" name="KING, Aaron" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="13" spot="UB10" context="V,2,13,V10" playid="10,3,89" type="R" text="THERMILUS, Bran rush for 2 yards to the UB12 (RIDDICK, Steve;CROMARTIE-SMITH)." newcontext="V,3,11,V12">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="2"></p_ru>
+    <p_tk vh="H" name="RIDDICK, Steve" assist="Y"></p_tk>
+    <p_tk vh="H" name="CROMARTIE-SMITH" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="11" spot="UB12" context="V,3,11,V12" playid="10,4,90" type="P" text="MAYNARD, Zach pass incomplete to ROOSEVELT, Naam." newcontext="V,4,11,V12">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="INC" rcv="ROOSEVELT, Naam"></p_pa>
+   </play>
+   <play hasball="UB" down="4" togo="11" spot="UB12" context="V,4,11,V12" playid="10,5,91" type="U" text="FARDON, Peter punt 33 yards to the UB45, fair catch by MOTURI, Jeff." newcontext="H,1,10,V45">
+    <p_pu vh="V" name="FARDON, Peter" gain="33" fc="MOTURI, Jeff"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-1" top="1:28" driveindex="10" complete="Y"></drivesum>
+   <drivestart poss="H,V45,02:31" vh="H" spot="V45" clock="02:31" driveindex="11,91"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UB45" context="H,1,10,V45" playid="11,1,92" clock="01:03" text="UTEP drive start at 01:03." newcontext="H,1,10,V45">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB45" context="H,1,10,V45" playid="11,2,93" type="R" text="BUCKRAM, Donald rush for 6 yards to the UB39 (DUBOIS, Gordon;SHANNON, Davont)." newcontext="H,2,4,V39">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="6"></p_ru>
+    <p_tk vh="V" name="DUBOIS, Gordon" assist="Y"></p_tk>
+    <p_tk vh="V" name="SHANNON, Davont" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="4" spot="UB39" context="H,2,4,V39" playid="11,3,94" type="#" clock="00:51" text="Timeout UTEP, clock 00:51." newcontext="H,2,4,V39">
+    <p_to vh="H" team="UTEP"></p_to>
+   </play>
+   <play hasball="UTEP" down="2" togo="4" spot="UB39" context="H,2,4,V39" playid="11,4,95" type="R" text="TEAM rush for loss of 22 yards to the UTEP39, fumble by TEAM recovered by UTEP VITTATOE,Trevor at UTEP39." newcontext="H,3,26,H39">
+    <p_ru vh="H" name="TEAM" gain="-22"></p_ru>
+    <p_fumb vh="H" name="TEAM" at="H39" frvh="H" frname="VITTATOE,Trevor"></p_fumb>
+   </play>
+   <play hasball="UTEP" down="3" togo="26" spot="UTEP39" context="H,3,26,H39" playid="11,5,96" type="P" text="VITTATOE,Trevor pass incomplete to MOTURI, Jeff (LOTT, Sherrod)." newcontext="H,4,26,H39">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="MOTURI, Jeff"></p_pa>
+    <p_bu vh="V" name="LOTT, Sherrod"></p_bu>
+   </play>
+   <play hasball="UTEP" down="4" togo="26" spot="UTEP39" context="H,4,26,H39" playid="11,6,97" type="U" text="HIETT, Greg punt 42 yards to the UB19, fair catch by HAMLIN, Brett." newcontext="V,1,10,V19">
+    <p_pu vh="H" name="HIETT, Greg" gain="42" in20="Y" fc="HAMLIN, Brett"></p_pu>
+   </play>
+   <drivesum plays="3" yards="-16" top="0:39" driveindex="11" complete="Y"></drivesum>
+   <drivestart poss="V,V19,00:51" vh="V" spot="V19" clock="00:51" driveindex="12,97"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB19" context="V,1,10,V19" playid="12,1,98" clock="00:24" text="BUFFALO drive start at 00:24." newcontext="V,1,10,V19">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB19" context="V,1,10,V19" playid="12,2,99" type="R" text="TEAM rush for loss of 3 yards to the UB16." newcontext="V,2,13,V16">
+    <p_ru vh="V" name="TEAM" gain="-3"></p_ru>
+   </play>
+   <play hasball="UB" down="2" togo="13" spot="UB16" context="V,2,13,V16" playid="12,3,100" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,2,13,V16">
+   </play>
+   <drivesum plays="1" yards="-3" top="0:24" driveindex="12" complete="Y"></drivesum>
+   <play hasball="UB" down="2" togo="13" spot="UB16" context="V,2,13,V16" playid="12,4,101" text="Change of possession, UTEP ball on UTEP30, 1st and 10." newcontext="H,1,10,H30">
+   </play>
+   <drivestart poss="H,H30,00:00" vh="H" spot="H30" clock="00:00" driveindex="13,101"></drivestart>
+   <score qtr="2" V="16" H="7"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UB">
+    <firstdowns no="1" rush="1" pass="0" penalty="0"></firstdowns>
+    <penalties no="1" yds="13"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="04:01"></misc>
+    <rush att="8" yds="31" gain="37" loss="6" td="2" long="13"></rush>
+    <pass comp="0" att="2" int="0" yds="0" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <punt no="2" yds="75" long="0" blkd="0" tb="0" fc="1" plus50="0" inside20="0" avg="37.5"></punt>
+    <ko no="2" yds="111" ob="0" tb="0"></ko>
+    <pat kickatt="2" kickmade="2"></pat>
+    <defense tackua="13" tacka="12" tot_tack="25" tflua="2" tfla="0" tflyds="20" sacks="1" sackyds="14" brup="1" saf="1" ff="1"></defense>
+    <kr no="1" yds="62" td="0" long="62"></kr>
+    <scoring td="2" saf="1" patkick="2"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UTEP">
+    <firstdowns no="4" rush="1" pass="2" penalty="1"></firstdowns>
+    <penalties no="2" yds="15"></penalties>
+    <conversions thirdconv="2" thirdatt="6" fourthconv="0" fourthatt="2"></conversions>
+    <fumbles no="3" lost="0"></fumbles>
+    <misc yds="0" top="10:52"></misc>
+    <rush att="12" yds="-23" gain="25" loss="48" td="0" long="0"></rush>
+    <pass comp="6" att="11" int="0" yds="67" td="0" long="24" sacks="1" sackyds="14"></pass>
+    <rcv no="6" yds="67" td="0" long="24"></rcv>
+    <punt no="2" yds="72" long="42" blkd="0" tb="0" fc="1" plus50="0" inside20="2" avg="36.0"></punt>
+    <ko no="1" yds="67" ob="0" tb="0"></ko>
+    <defense tackua="3" tacka="6" tot_tack="9" tflua="1" tfla="0" tflyds="3" sacks="0" sackyds="0"></defense>
+    <kr no="2" yds="21" td="0" long="0"></kr>
+    <pr no="1" yds="-1" td="0" long="0"></pr>
+    <fumbles no="3" lost="0"></fumbles>
+   </qtrsummary>
+  </qtr>
+  <qtr number="3" text="3rd">
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP30" context="H,1,10,H30" playid="13,1,102" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00." newcontext="H,1,10,H30">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="13" complete="Y"></drivesum>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP30" context="H,1,10,H30" playid="13,2,103" type="K" text="PETERSEN, Kyle kickoff 70 yards to the UB0, touchback." newcontext="V,1,10,V20">
+    <p_ko vh="H" name="PETERSEN, Kyle" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="V,V20,15:00" vh="V" spot="V20" clock="15:00" driveindex="14,103"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB20" context="V,1,10,V20" playid="14,1,104" type="R" pcode="LL" first="R" text="THERMILUS, Bran rush left for 14 yards to the UB34, 1ST DOWN UB (CROMARTIE-SMITH)." newcontext="V,1,10,V34">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="14"></p_ru>
+    <p_tk vh="H" name="CROMARTIE-SMITH"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB34" context="V,1,10,V34" playid="14,2,105" type="#" clock="14:38" text="Clock 14:38." newcontext="V,1,10,V34">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB34" context="V,1,10,V34" playid="14,3,106" type="R" pcode="RR" text="MAYNARD, Zach rush right for 9 yards to the UB43 (CROMARTIE-SMITH;MORROW, Anthony)." newcontext="V,2,1,V43">
+    <p_ru vh="V" name="MAYNARD, Zach" gain="9"></p_ru>
+    <p_tk vh="H" name="CROMARTIE-SMITH" assist="Y"></p_tk>
+    <p_tk vh="H" name="MORROW, Anthony" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="1" spot="UB43" context="V,2,1,V43" playid="14,4,107" type="R" pcode="RG" first="R" text="THERMILUS, Bran rush over right guard for 4 yards to the UB47, 1ST DOWN UB (STEPHENSON, M.;MORROW, Anthony)." newcontext="V,1,10,V47">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="4"></p_ru>
+    <p_tk vh="H" name="STEPHENSON, M." assist="Y"></p_tk>
+    <p_tk vh="H" name="MORROW, Anthony" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB47" context="V,1,10,V47" playid="14,5,108" type="R" pcode="LL" text="THERMILUS, Bran rush left for 6 yards to the UTEP47 (AMY, Braxton)." newcontext="V,2,4,H47">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="6"></p_ru>
+    <p_tk vh="H" name="AMY, Braxton"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="4" spot="UTEP47" context="V,2,4,H47" playid="14,6,109" type="P" pcode="ST" first="P" text="MAYNARD, Zach ST pass complete to HAMLIN, Brett for 5 yards to the UTEP42, 1ST DOWN UB (STEPHENSON, M.)." newcontext="V,1,10,H42">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="COMP" rcv="HAMLIN, Brett" gain="5"></p_pa>
+    <p_tk vh="H" name="STEPHENSON, M."></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UTEP42" context="V,1,10,H42" playid="14,7,110" type="P" pcode="SC" first="P" score="Y" clock="12:13" text="MAYNARD, Zach screen pass complete to ROOSEVELT, Naam for 42 yards to the UTEP0, 1ST DOWN UB, TOUCHDOWN, clock 12:13." newcontext="V,1,0,H03">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="COMP" rcv="ROOSEVELT, Naam" gain="42"></p_pa>
+   </play>
+   <play hasball="UB" down="1" togo="0" spot="UTEP03" context="V,1,0,H03" playid="14,8,111" type="X" score="Y" text="PRINCIPE, A.J. kick attempt good." newcontext="V,1,0,V30">
+    <p_pat vh="V" name="PRINCIPE, A.J." qb="PRINCIPE, A.J." type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="23" H="7"></score>
+   <drivesum plays="6" yards="80" top="2:25" driveindex="14" complete="Y"></drivesum>
+   <play hasball="UB" down="1" togo="0" spot="UB30" context="V,1,0,V30" playid="14,9,112" type="K" text="RACHUNA, John kickoff 70 yards to the UTEP0, touchback." newcontext="H,1,10,H20">
+    <p_ko vh="V" name="RACHUNA, John" gain="70" result="T"></p_ko>
+   </play>
+   <drivestart poss="H,H20,12:13" vh="H" spot="H20" clock="12:13" driveindex="15,112"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP20" context="H,1,10,H20" playid="15,1,113" clock="12:13" text="UTEP drive start at 12:13." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP20" context="H,1,10,H20" playid="15,2,114" type="P" pcode="ST" text="VITTATOE,Trevor ST pass complete to ADAMS, Kris for 8 yards to the UTEP28 (COOK, Domonic)." newcontext="H,2,2,H28">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="ADAMS, Kris" gain="8"></p_pa>
+    <p_tk vh="V" name="COOK, Domonic"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="2" spot="UTEP28" context="H,2,2,H28" playid="15,3,115" type="R" pcode="RG" first="R" text="BUCKRAM, Donald rush over right guard for 10 yards to the UTEP38, 1ST DOWN UTEP (NEWTON, Mike)." newcontext="H,1,10,H38">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="10"></p_ru>
+    <p_tk vh="V" name="NEWTON, Mike"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP38" context="H,1,10,H38" playid="15,4,116" type="P" pcode="SC" text="VITTATOE,Trevor screen pass complete to BUCKRAM, Donald for 1 yard to the UTEP39 (WINTERS, Justin)." newcontext="H,2,9,H39">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="BUCKRAM, Donald" gain="1"></p_pa>
+    <p_tk vh="V" name="WINTERS, Justin"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="9" spot="UTEP39" context="H,2,9,H39" playid="15,5,117" type="P" pcode="ST" text="VITTATOE,Trevor ST pass complete to KEMP, Donavon for 5 yards to the UTEP44." newcontext="H,3,4,H44">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="KEMP, Donavon" gain="5"></p_pa>
+   </play>
+   <play hasball="UTEP" down="3" togo="4" spot="UTEP44" context="H,3,4,H44" playid="15,6,118" type="P" pcode="SI" first="P" text="VITTATOE,Trevor sideline pass complete to MOORE, Jonny for 5 yards to the UTEP49, 1ST DOWN UTEP (PETTIGREW, Scot)." newcontext="H,1,10,H49">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="MOORE, Jonny" gain="5"></p_pa>
+    <p_tk vh="V" name="PETTIGREW, Scot"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP49" context="H,1,10,H49" playid="15,7,119" type="R" pcode="LL" first="R" text="BUCKRAM, Donald rush left for 10 yards to the UB41, 1ST DOWN UTEP (THOMAS, Josh;MEANS, Steven)." newcontext="H,1,10,V41">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="10"></p_ru>
+    <p_tk vh="V" name="THOMAS, Josh" assist="Y"></p_tk>
+    <p_tk vh="V" name="MEANS, Steven" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB41" context="H,1,10,V41" playid="15,8,120" type="P" pcode="ST" text="VITTATOE,Trevor ST pass complete to ADAMS, Kris for 7 yards to the UB34 (THOMAS, Josh)." newcontext="H,2,3,V34">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="ADAMS, Kris" gain="7"></p_pa>
+    <p_tk vh="V" name="THOMAS, Josh"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="3" spot="UB34" context="H,2,3,V34" playid="15,9,121" type="P" pcode="ST" first="P" text="VITTATOE,Trevor ST pass complete to CARR, Russell for 17 yards to the UB17, 1ST DOWN UTEP (LOTT, Sherrod)." newcontext="H,1,10,V17">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="CARR, Russell" gain="17"></p_pa>
+    <p_tk vh="V" name="LOTT, Sherrod"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB17" context="H,1,10,V17" playid="15,10,122" type="R" pcode="RR" first="R" score="Y" clock="07:37" text="THOMAS, James rush right for 17 yards to the UB0, 1ST DOWN UTEP, TOUCHDOWN, clock 07:37." newcontext="H,1,0,V03">
+    <p_ru vh="H" name="THOMAS, James" gain="17"></p_ru>
+   </play>
+   <play hasball="UTEP" down="1" togo="0" spot="UB03" context="H,1,0,V03" playid="15,11,123" type="X" score="Y" text="BARRETT, Logan kick attempt good." newcontext="H,1,0,H30">
+    <p_pat vh="H" name="BARRETT, Logan" qb="BARRETT, Logan" type="K" result="GOOD" score="Y"></p_pat>
+   </play>
+   <score V="23" H="14"></score>
+   <drivesum plays="9" yards="80" top="4:36" driveindex="15" complete="Y"></drivesum>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP30" context="H,1,0,H30" playid="15,12,124" type="K" text="PETERSEN, Kyle kickoff 66 yards to the UB4, JACKSON, Terrel return 18 yards to the UB22 (JEUNE, Wiston;CROMARTIE-SMITH)." newcontext="V,1,10,V22">
+    <p_ko vh="H" name="PETERSEN, Kyle" gain="66"></p_ko>
+    <p_kr vh="V" name="JACKSON, Terrel" gain="18"></p_kr>
+    <p_tk vh="H" name="JEUNE, Wiston" assist="Y"></p_tk>
+    <p_tk vh="H" name="CROMARTIE-SMITH" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V22,07:37" vh="V" spot="V22" clock="07:37" driveindex="16,124"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB22" context="V,1,10,V22" playid="16,1,125" clock="07:31" text="BUFFALO drive start at 07:31." newcontext="V,1,10,V22">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB22" context="V,1,10,V22" playid="16,2,126" type="R" pcode="LL" text="HENRY, Mario rush left for 5 yards to the UB27 (MORROW, Anthony;JEUNE, Wiston), PENALTY UB holding (RIVERS, Marcus) 10 yards to the UB17." newcontext="V,1,15,V17">
+    <p_ru vh="V" name="HENRY, Mario" gain="5"></p_ru>
+    <p_tk vh="H" name="MORROW, Anthony" assist="Y"></p_tk>
+    <p_tk vh="H" name="JEUNE, Wiston" assist="Y"></p_tk>
+    <p_pn vh="V" code="HO" type="holding" name="RIVERS, Marcus" result="ACCEPT" at="V27" yards="10"></p_pn>
+   </play>
+   <play hasball="UB" down="1" togo="15" spot="UB17" context="V,1,15,V17" playid="16,3,127" type="R" pcode="RG" text="HENRY, Mario rush over right guard for 3 yards to the UB20 (SPRINGER,Jeremy;JEUNE, Wiston)." newcontext="V,2,12,V20">
+    <p_ru vh="V" name="HENRY, Mario" gain="3"></p_ru>
+    <p_tk vh="H" name="SPRINGER,Jeremy" assist="Y"></p_tk>
+    <p_tk vh="H" name="JEUNE, Wiston" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="12" spot="UB20" context="V,2,12,V20" playid="16,4,128" type="P" text="MAYNARD, Zach pass incomplete to ROOSEVELT, Naam (WARD, Clarence)." newcontext="V,3,12,V20">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="INC" rcv="ROOSEVELT, Naam"></p_pa>
+    <p_bu vh="H" name="WARD, Clarence"></p_bu>
+   </play>
+   <play hasball="UB" down="3" togo="12" spot="UB20" context="V,3,12,V20" playid="16,5,129" type="E" first="E" text="PENALTY UTEP personal foul (MOORE, Chris) 15 yards to the UB35, 1ST DOWN UB." newcontext="V,1,10,V35">
+    <p_pn vh="H" code="PF" type="personal foul" name="MOORE, Chris" result="ACCEPT" at="V20" yards="15"></p_pn>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB35" context="V,1,10,V35" playid="16,6,130" type="R" pcode="RG" text="HENRY, Mario rush over right guard for 4 yards to the UB39 (MORROW, Anthony)." newcontext="V,2,6,V39">
+    <p_ru vh="V" name="HENRY, Mario" gain="4"></p_ru>
+    <p_tk vh="H" name="MORROW, Anthony"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="6" spot="UB39" context="V,2,6,V39" playid="16,7,131" type="P" pcode="SL" first="P" text="MAYNARD, Zach slant pass complete to ROOSEVELT, Naam for 11 yards to the 50 yardline, 1ST DOWN UB (BROWN,Cornelius)." newcontext="V,1,10,V50">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="COMP" rcv="ROOSEVELT, Naam" gain="11"></p_pa>
+    <p_tk vh="H" name="BROWN,Cornelius"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB50" context="V,1,10,V50" playid="16,8,132" type="E" text="PENALTY UTEP offside defense (RIDDICK, Steve) 5 yards to the UTEP45." newcontext="V,1,5,H45">
+    <p_pn vh="H" code="OD" type="offside defense" name="RIDDICK, Steve" result="ACCEPT" at="V50" yards="5"></p_pn>
+   </play>
+   <play hasball="UB" down="1" togo="5" spot="UTEP45" context="V,1,5,H45" playid="16,9,133" type="R" pcode="LL" text="HENRY, Mario rush left for 6 yards to the UTEP39 (WILKINS, Brian), PENALTY UB personal foul (BITTNER, Peter) 15 yards to the UB46." newcontext="V,1,14,V46">
+    <p_ru vh="V" name="HENRY, Mario" gain="6"></p_ru>
+    <p_tk vh="H" name="WILKINS, Brian"></p_tk>
+    <p_pn vh="V" code="PF" type="personal foul" name="BITTNER, Peter" result="ACCEPT" at="H39" yards="15"></p_pn>
+   </play>
+   <play hasball="UB" down="1" togo="14" spot="UB46" context="V,1,14,V46" playid="16,10,134" text="1st and 10." newcontext="V,1,10,V46">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB46" context="V,1,10,V46" playid="16,11,135" type="#" clock="04:39" text="Timeout Buffalo, clock 04:39." newcontext="V,1,10,V46">
+    <p_to vh="V" team="Buffalo"></p_to>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB46" context="V,1,10,V46" playid="16,12,136" type="R" pcode="RR" text="HENRY, Mario rush right for 2 yards to the UB48 (KING, Aaron;CROMARTIE-SMITH)." newcontext="V,2,8,V48">
+    <p_ru vh="V" name="HENRY, Mario" gain="2"></p_ru>
+    <p_tk vh="H" name="KING, Aaron" assist="Y"></p_tk>
+    <p_tk vh="H" name="CROMARTIE-SMITH" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="8" spot="UB48" context="V,2,8,V48" playid="16,13,137" type="P" pcode="SW" first="P" text="MAYNARD, Zach SW pass complete to ROLLE, Lawrence for 23 yards to the UTEP29, 1ST DOWN UB (WARD, Clarence;BLAKE, Antwon)." newcontext="V,1,10,H29">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="COMP" rcv="ROLLE, Lawrence" gain="23"></p_pa>
+    <p_tk vh="H" name="WARD, Clarence" assist="Y"></p_tk>
+    <p_tk vh="H" name="BLAKE, Antwon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UTEP29" context="V,1,10,H29" playid="16,14,138" type="E" text="MAYNARD, Zach pass incomplete to JACKSON, Terrel, PENALTY UTEP offside defense 3 yards to the UTEP32, NO PLAY." newcontext="V,1,7,H32">
+    <p_pn vh="H" code="OD" type="offside defense" result="ACCEPT" at="H29" yards="3"></p_pn>
+   </play>
+   <play hasball="UB" down="1" togo="7" spot="UTEP32" context="V,1,7,H32" playid="16,15,139" type="R" pcode="RT" text="HENRY, Mario rush over right tackle for loss of 1 yard to the UTEP33 (CROMARTIE-SMITH)." newcontext="V,2,8,H33">
+    <p_ru vh="V" name="HENRY, Mario" gain="-1"></p_ru>
+    <p_tk vh="H" name="CROMARTIE-SMITH" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="8" spot="UTEP33" context="V,2,8,H33" playid="16,16,140" type="P" pcode="SI" text="MAYNARD, Zach sideline pass incomplete to HAMLIN, Brett." newcontext="V,3,8,H33">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="INC" rcv="HAMLIN, Brett"></p_pa>
+   </play>
+   <play hasball="UB" down="3" togo="8" spot="UTEP33" context="V,3,8,H33" playid="16,17,141" text="3rd and 6." newcontext="V,3,6,H33">
+   </play>
+   <play hasball="UB" down="3" togo="6" spot="UTEP33" context="V,3,6,H33" playid="16,18,142" type="P" pcode="MI" text="MAYNARD, Zach middle pass incomplete to ROOSEVELT, Naam." newcontext="V,4,6,H33">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="INC" rcv="ROOSEVELT, Naam"></p_pa>
+   </play>
+   <play hasball="UB" down="4" togo="6" spot="UTEP33" context="V,4,6,H33" playid="16,19,143" type="U" text="FARDON, Peter punt 12 yards to the UTEP21, downed." newcontext="H,1,10,H21">
+    <p_pu vh="V" name="FARDON, Peter" gain="12"></p_pu>
+   </play>
+   <drivesum plays="11" yards="51" top="4:58" driveindex="16" complete="Y"></drivesum>
+   <drivestart poss="H,H21,04:39" vh="H" spot="H21" clock="04:39" driveindex="17,143"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP21" context="H,1,10,H21" playid="17,1,144" clock="02:33" text="UTEP drive start at 02:33." newcontext="H,1,10,H21">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP21" context="H,1,10,H21" playid="17,2,145" type="R" pcode="RR" text="BUCKRAM, Donald rush right for 6 yards to the UTEP27 (AKOBUNDU, Rapha), PENALTY UTEP holding (GOLDTRAP,Elijah) 16 yards to the UTEP11." newcontext="H,1,20,H11">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="6"></p_ru>
+    <p_tk vh="V" name="AKOBUNDU, Rapha"></p_tk>
+    <p_pn vh="H" code="HO" type="holding" name="GOLDTRAP,Elijah" result="ACCEPT" at="H27" yards="16"></p_pn>
+   </play>
+   <play hasball="UTEP" down="1" togo="20" spot="UTEP11" context="H,1,20,H11" playid="17,3,146" text="1st and 20." newcontext="H,1,20,H11">
+   </play>
+   <play hasball="UTEP" down="1" togo="20" spot="UTEP11" context="H,1,20,H11" playid="17,4,147" type="P" pcode="SL" text="VITTATOE,Trevor slant pass incomplete to ADAMS, Kris (LOTT, Sherrod)." newcontext="H,2,20,H11">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="ADAMS, Kris"></p_pa>
+    <p_bu vh="V" name="LOTT, Sherrod"></p_bu>
+   </play>
+   <play hasball="UTEP" down="2" togo="20" spot="UTEP11" context="H,2,20,H11" playid="17,5,148" type="R" pcode="RR" text="BUCKRAM, Donald rush right for 14 yards to the UTEP25 (NEWTON, Mike)." newcontext="H,3,6,H25">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="14"></p_ru>
+    <p_tk vh="V" name="NEWTON, Mike"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="6" spot="UTEP25" context="H,3,6,H25" playid="17,6,149" type="P" pcode="SC" text="VITTATOE,Trevor screen pass incomplete to ADAMS, Kris." newcontext="H,4,6,H25">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="ADAMS, Kris"></p_pa>
+   </play>
+   <play hasball="UTEP" down="4" togo="6" spot="UTEP25" context="H,4,6,H25" playid="17,7,150" type="U" text="HIETT, Greg punt 55 yards to the UB20, HAMLIN, Brett return 12 yards to the UB32 (MCNAC, Anthony;CROMARTIE-SMITH)." newcontext="V,1,10,V32">
+    <p_pu vh="H" name="HIETT, Greg" gain="55"></p_pu>
+    <p_pr vh="V" name="HAMLIN, Brett" gain="12"></p_pr>
+    <p_tk vh="H" name="MCNAC, Anthony" assist="Y"></p_tk>
+    <p_tk vh="H" name="CROMARTIE-SMITH" assist="Y"></p_tk>
+   </play>
+   <drivesum plays="4" yards="4" top="1:29" driveindex="17" complete="Y"></drivesum>
+   <drivestart poss="V,V32,02:33" vh="V" spot="V32" clock="02:33" driveindex="18,150"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB32" context="V,1,10,V32" playid="18,1,151" clock="01:04" text="BUFFALO drive start at 01:04." newcontext="V,1,10,V32">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB32" context="V,1,10,V32" playid="18,2,152" type="R" pcode="LL" text="THERMILUS, Bran rush left for 8 yards to the UB40." newcontext="V,2,2,V40">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="8"></p_ru>
+   </play>
+   <play hasball="UB" down="2" togo="2" spot="UB40" context="V,2,2,V40" playid="18,3,153" type="R" pcode="LT" first="R" text="THERMILUS, Bran rush over left tackle for 6 yards to the UB46, 1ST DOWN UB (WARD, Clarence;JEUNE, Wiston)." newcontext="V,1,10,V46">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="6"></p_ru>
+    <p_tk vh="H" name="WARD, Clarence" assist="Y"></p_tk>
+    <p_tk vh="H" name="JEUNE, Wiston" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB46" context="V,1,10,V46" playid="18,4,154" type="E" text="PENALTY UTEP offside defense (ROBINSON, Tory) 5 yards to the UTEP49." newcontext="V,1,5,H49">
+    <p_pn vh="H" code="OD" type="offside defense" name="ROBINSON, Tory" result="ACCEPT" at="V46" yards="5"></p_pn>
+   </play>
+   <score qtr="3" V="23" H="14"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UB">
+    <firstdowns no="8" rush="3" pass="4" penalty="1"></firstdowns>
+    <penalties no="2" yds="25"></penalties>
+    <conversions thirdconv="0" thirdatt="1" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:27"></misc>
+    <rush att="12" yds="66" gain="67" loss="1" td="0" long="0"></rush>
+    <pass comp="4" att="7" int="0" yds="81" td="1" long="24" sacks="0" sackyds="0"></pass>
+    <rcv no="4" yds="81" td="1" long="24"></rcv>
+    <punt no="1" yds="12" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="12.0"></punt>
+    <ko no="1" yds="70" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="8" tacka="2" tot_tack="10" sacks="1" sackyds="14" brup="1"></defense>
+    <kr no="1" yds="18" td="0" long="0"></kr>
+    <pr no="1" yds="12" td="0" long="12"></pr>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UTEP">
+    <firstdowns no="5" rush="3" pass="2" penalty="0"></firstdowns>
+    <penalties no="5" yds="44"></penalties>
+    <conversions thirdconv="1" thirdatt="2" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:05"></misc>
+    <rush att="5" yds="57" gain="57" loss="0" td="1" long="0"></rush>
+    <pass comp="6" att="8" int="0" yds="43" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="6" yds="43" td="0" long="0"></rcv>
+    <punt no="1" yds="55" long="13" blkd="0" tb="0" fc="0" plus50="1" inside20="0" avg="55.0"></punt>
+    <ko no="2" yds="136" ob="0" tb="1"></ko>
+    <pat kickatt="1" kickmade="1"></pat>
+    <defense tackua="7" tacka="18" tot_tack="25" tflua="1" tfla="0" tflyds="1" sacks="0" sackyds="0" brup="1"></defense>
+    <scoring td="1" patkick="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <qtr number="4" text="4th">
+   <play hasball="UB" down="1" togo="5" spot="UTEP49" context="V,1,5,H49" playid="18,5,155" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,1,5,H49">
+   </play>
+   <play hasball="UB" down="1" togo="5" spot="UTEP49" context="V,1,5,H49" playid="18,6,156" type="R" pcode="LG" first="R" text="THERMILUS, Bran rush over left guard for 6 yards to the UTEP43, 1ST DOWN UB (CROMARTIE-SMITH)." newcontext="V,1,10,H43">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="6"></p_ru>
+    <p_tk vh="H" name="CROMARTIE-SMITH"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UTEP43" context="V,1,10,H43" playid="18,7,157" text="1st and 10." newcontext="V,1,10,H43">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UTEP43" context="V,1,10,H43" playid="18,8,158" type="R" pcode="MI" text="THERMILUS, Bran rush up middle for 4 yards to the UTEP39 (WARD, Clarence)." newcontext="V,2,6,H39">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="4"></p_ru>
+    <p_tk vh="H" name="WARD, Clarence"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="6" spot="UTEP39" context="V,2,6,H39" playid="18,9,159" type="R" pcode="LT" text="THERMILUS, Bran rush over left tackle for 3 yards to the UTEP36 (GOODWELL,Landon)." newcontext="V,3,3,H36">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="3"></p_ru>
+    <p_tk vh="H" name="GOODWELL,Landon"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="3" spot="UTEP36" context="V,3,3,H36" playid="18,10,160" type="P" pcode="ST" first="P" text="MAYNARD, Zach ST pass complete to ROOSEVELT, Naam for 7 yards to the UTEP29, 1ST DOWN UB (BROWN,Cornelius)." newcontext="V,1,10,H29">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="COMP" rcv="ROOSEVELT, Naam" gain="7"></p_pa>
+    <p_tk vh="H" name="BROWN,Cornelius"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UTEP29" context="V,1,10,H29" playid="18,11,161" type="E" pcode="SI" text="MAYNARD, Zach sideline pass complete to RACK, Jesse for 6 yards to the UTEP23, PENALTY UB illegal formation 5 yards to the UTEP34, NO PLAY." newcontext="V,1,15,H34">
+    <p_pn vh="V" code="FO" type="illegal formation" result="ACCEPT" at="H29" yards="5"></p_pn>
+   </play>
+   <play hasball="UB" down="1" togo="15" spot="UTEP34" context="V,1,15,H34" playid="18,12,162" type="P" pcode="SW" text="MAYNARD, Zach SW pass complete to THERMILUS, Bran for 5 yards to the UTEP29 (SPRINGER,Jeremy)." newcontext="V,2,10,H29">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="COMP" rcv="THERMILUS, Bran" gain="5"></p_pa>
+    <p_tk vh="H" name="SPRINGER,Jeremy"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="10" spot="UTEP29" context="V,2,10,H29" playid="18,13,163" type="P" pcode="SI" text="MAYNARD, Zach sideline pass complete to JACKSON, Terrel for 8 yards to the UTEP21 (CROMARTIE-SMITH)." newcontext="V,3,2,H21">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="COMP" rcv="JACKSON, Terrel" gain="8"></p_pa>
+    <p_tk vh="H" name="CROMARTIE-SMITH"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="2" spot="UTEP21" context="V,3,2,H21" playid="18,14,164" type="R" pcode="LG" first="R" text="HENRY, Mario rush over left guard for 2 yards to the UTEP19, 1ST DOWN UB (CROMARTIE-SMITH;GOODWELL,Landon)." newcontext="V,1,10,H19">
+    <p_ru vh="V" name="HENRY, Mario" gain="2"></p_ru>
+    <p_tk vh="H" name="CROMARTIE-SMITH" assist="Y"></p_tk>
+    <p_tk vh="H" name="GOODWELL,Landon" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UTEP19" context="V,1,10,H19" playid="18,15,165" type="R" pcode="LL" text="HENRY, Mario rush left for 4 yards to the UTEP15 (SPRINGER,Jeremy)." newcontext="V,2,6,H15">
+    <p_ru vh="V" name="HENRY, Mario" gain="4"></p_ru>
+    <p_tk vh="H" name="SPRINGER,Jeremy"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="6" spot="UTEP15" context="V,2,6,H15" playid="18,16,166" type="P" text="MAYNARD, Zach sacked for loss of 12 yards to the UTEP27 (KING, Aaron)." newcontext="V,3,18,H27">
+    <p_pa vh="V" qb="MAYNARD, Zach" result="SACK" gain="-12"></p_pa>
+    <p_tk vh="H" name="KING, Aaron" sack="Y" tfl="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="18" spot="UTEP27" context="V,3,18,H27" playid="18,17,167" type="#" clock="10:07" text="Timeout Buffalo, clock 10:07." newcontext="V,3,18,H27">
+    <p_to vh="V" team="Buffalo"></p_to>
+   </play>
+   <play hasball="UB" down="3" togo="18" spot="UTEP27" context="V,3,18,H27" playid="18,18,168" type="E" text="PENALTY UB false start (OSTROWSKI, Matt) 5 yards to the UTEP32." newcontext="V,3,23,H32">
+    <p_pn vh="V" code="FS" type="false start" name="OSTROWSKI, Matt" result="ACCEPT" at="H27" yards="5"></p_pn>
+   </play>
+   <play hasball="UB" down="3" togo="23" spot="UTEP32" context="V,3,23,H32" playid="18,19,169" type="R" pcode="DR" text="MAYNARD, Zach rush draw play for 10 yards to the UTEP22 (SMITH, Royzell;CROMARTIE-SMITH)." newcontext="V,4,13,H22">
+    <p_ru vh="V" name="MAYNARD, Zach" gain="10"></p_ru>
+    <p_tk vh="H" name="SMITH, Royzell" assist="Y"></p_tk>
+    <p_tk vh="H" name="CROMARTIE-SMITH" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="4" togo="13" spot="UTEP22" context="V,4,13,H22" playid="18,20,170" type="F" clock="09:24" text="PRINCIPE, A.J. field goal attempt from 40 MISSED - wide left, spot at UTEP22, clock 09:24." newcontext="H,1,10,H22">
+    <p_fg vh="V" name="PRINCIPE, A.J." distance="40" result="MISSED"></p_fg>
+   </play>
+   <drivesum plays="13" yards="46" top="6:40" driveindex="18" complete="Y"></drivesum>
+   <drivestart poss="H,H22,09:24" vh="H" spot="H22" clock="09:24" driveindex="19,170"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP22" context="H,1,10,H22" playid="19,1,171" clock="09:24" text="UTEP drive start at 09:24." newcontext="H,1,10,H22">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP22" context="H,1,10,H22" playid="19,2,172" type="R" pcode="RR" text="BUCKRAM, Donald rush right for 7 yards to the UTEP29 (WINTERS, Justin)." newcontext="H,2,3,H29">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="7"></p_ru>
+    <p_tk vh="V" name="WINTERS, Justin"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="3" spot="UTEP29" context="H,2,3,H29" playid="19,3,173" type="P" pcode="SL" first="P" text="VITTATOE,Trevor slant pass complete to DAVIS, Evan for 15 yards to the UTEP44, 1ST DOWN UTEP (THOMAS, Josh)." newcontext="H,1,10,H44">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="DAVIS, Evan" gain="15"></p_pa>
+    <p_tk vh="V" name="THOMAS, Josh"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP44" context="H,1,10,H44" playid="19,4,174" type="R" pcode="LT" first="R" text="BUCKRAM, Donald rush over left tackle for 10 yards to the UB46, 1ST DOWN UTEP (NEWTON, Mike;WINTERS, Justin)." newcontext="H,1,10,V46">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="10"></p_ru>
+    <p_tk vh="V" name="NEWTON, Mike" assist="Y"></p_tk>
+    <p_tk vh="V" name="WINTERS, Justin" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB46" context="H,1,10,V46" playid="19,5,175" type="P" pcode="MI" first="P" text="VITTATOE,Trevor middle pass complete to MOORE, Jonny for 11 yards to the UB35, 1ST DOWN UTEP (NEWTON, Mike)." newcontext="H,1,10,V35">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="MOORE, Jonny" gain="11"></p_pa>
+    <p_tk vh="V" name="NEWTON, Mike"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB35" context="H,1,10,V35" playid="19,6,176" type="R" pcode="LL" text="BUCKRAM, Donald rush left for 1 yard to the UB34 (LAPOINTE, Bruno;PETTIGREW, Scot)." newcontext="H,2,9,V34">
+    <p_ru vh="H" name="BUCKRAM, Donald" gain="1"></p_ru>
+    <p_tk vh="V" name="LAPOINTE, Bruno" assist="Y"></p_tk>
+    <p_tk vh="V" name="PETTIGREW, Scot" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="9" spot="UB34" context="H,2,9,V34" playid="19,7,177" type="P" pcode="MI" text="VITTATOE,Trevor middle pass complete to ADAMS, Kris for 5 yards to the UB29 (LOTT, Sherrod)." newcontext="H,3,4,V29">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="ADAMS, Kris" gain="5"></p_pa>
+    <p_tk vh="V" name="LOTT, Sherrod"></p_tk>
+   </play>
+   <play hasball="UTEP" down="3" togo="4" spot="UB29" context="H,3,4,V29" playid="19,8,178" type="#" clock="07:05" text="Timeout UTEP, clock 07:05." newcontext="H,3,4,V29">
+    <p_to vh="H" team="UTEP"></p_to>
+   </play>
+   <play hasball="UTEP" down="3" togo="4" spot="UB29" context="H,3,4,V29" playid="19,9,179" type="P" pcode="ST" first="P" text="VITTATOE,Trevor ST pass complete to MOTURI, Jeff for 8 yards to the UB21, 1ST DOWN UTEP (PETTIGREW, Scot)." newcontext="H,1,10,V21">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="MOTURI, Jeff" gain="8"></p_pa>
+    <p_tk vh="V" name="PETTIGREW, Scot"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB21" context="H,1,10,V21" playid="19,10,180" type="P" text="VITTATOE,Trevor pass incomplete to ADAMS, Kris, QB hurry by LOTT, Sherrod." newcontext="H,2,10,V21">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="ADAMS, Kris"></p_pa>
+    <p_qbh vh="V" name="LOTT, Sherrod"></p_qbh>
+   </play>
+   <play hasball="UTEP" down="2" togo="10" spot="UB21" context="H,2,10,V21" playid="19,11,181" type="P" pcode="SI" text="VITTATOE,Trevor sideline pass incomplete to BUCKRAM, Donald." newcontext="H,3,10,V21">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="BUCKRAM, Donald"></p_pa>
+   </play>
+   <play hasball="UTEP" down="3" togo="10" spot="UB21" context="H,3,10,V21" playid="19,12,182" type="E" text="PENALTY UTEP false start (HUNTLEY, Rod) 5 yards to the UB26." newcontext="H,3,15,V26">
+    <p_pn vh="H" code="FS" type="false start" name="HUNTLEY, Rod" result="ACCEPT" at="V21" yards="5"></p_pn>
+   </play>
+   <play hasball="UTEP" down="3" togo="15" spot="UB26" context="H,3,15,V26" playid="19,13,183" type="P" pcode="CR" text="VITTATOE,Trevor crossing pass complete to THOMAS, James for 12 yards to the UB14 (AKOBUNDU, Rapha;WINTERS, Justin)." newcontext="H,4,3,V14">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="THOMAS, James" gain="12"></p_pa>
+    <p_tk vh="V" name="AKOBUNDU, Rapha" assist="Y"></p_tk>
+    <p_tk vh="V" name="WINTERS, Justin" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="4" togo="3" spot="UB14" context="H,4,3,V14" playid="19,14,184" type="F" score="Y" clock="05:45" text="BARRETT, Logan field goal attempt from 31 GOOD, clock 05:45." newcontext="H,1,0,H30">
+    <p_fg vh="H" name="BARRETT, Logan" distance="31" result="GOOD" score="Y"></p_fg>
+   </play>
+   <score V="23" H="17"></score>
+   <drivesum plays="11" yards="64" top="3:39" driveindex="19" complete="Y"></drivesum>
+   <play hasball="UTEP" down="1" togo="0" spot="UTEP30" context="H,1,0,H30" playid="19,15,185" type="K" text="PETERSEN, Kyle kickoff 64 yards to the UB6, JACKSON, Terrel return 22 yards to the UB28 (CROMARTIE-SMITH;BELL, Dustin)." newcontext="V,1,10,V28">
+    <p_ko vh="H" name="PETERSEN, Kyle" gain="64"></p_ko>
+    <p_kr vh="V" name="JACKSON, Terrel" gain="22"></p_kr>
+    <p_tk vh="H" name="CROMARTIE-SMITH" assist="Y"></p_tk>
+    <p_tk vh="H" name="BELL, Dustin" assist="Y"></p_tk>
+   </play>
+   <drivestart poss="V,V28,05:45" vh="V" spot="V28" clock="05:45" driveindex="20,185"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB28" context="V,1,10,V28" playid="20,1,186" clock="05:39" text="BUFFALO drive start at 05:39." newcontext="V,1,10,V28">
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB28" context="V,1,10,V28" playid="20,2,187" type="R" pcode="RT" text="THERMILUS, Bran rush over right tackle for 7 yards to the UB35 (AMY, Braxton;CROMARTIE-SMITH)." newcontext="V,2,3,V35">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="7"></p_ru>
+    <p_tk vh="H" name="AMY, Braxton" assist="Y"></p_tk>
+    <p_tk vh="H" name="CROMARTIE-SMITH" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="3" spot="UB35" context="V,2,3,V35" playid="20,3,188" type="R" pcode="RG" text="THERMILUS, Bran rush over right guard for 2 yards to the UB37 (SPRINGER,Jeremy)." newcontext="V,3,1,V37">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="2"></p_ru>
+    <p_tk vh="H" name="SPRINGER,Jeremy"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="1" spot="UB37" context="V,3,1,V37" playid="20,4,189" type="R" pcode="LG" first="R" text="THERMILUS, Bran rush over left guard for 2 yards to the UB39, 1ST DOWN UB (SPRINGER,Jeremy;CROMARTIE-SMITH)." newcontext="V,1,10,V39">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="2"></p_ru>
+    <p_tk vh="H" name="SPRINGER,Jeremy" assist="Y"></p_tk>
+    <p_tk vh="H" name="CROMARTIE-SMITH" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB39" context="V,1,10,V39" playid="20,5,190" type="R" pcode="RR" first="R" text="MAYNARD, Zach rush right for 10 yards to the UB49, 1ST DOWN UB (WARD, Clarence)." newcontext="V,1,10,V49">
+    <p_ru vh="V" name="MAYNARD, Zach" gain="10"></p_ru>
+    <p_tk vh="H" name="WARD, Clarence"></p_tk>
+   </play>
+   <play hasball="UB" down="1" togo="10" spot="UB49" context="V,1,10,V49" playid="20,6,191" type="R" pcode="MI" text="THERMILUS, Bran rush up middle for 4 yards to the UTEP47 (SPRINGER,Jeremy)." newcontext="V,2,6,H47">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="4"></p_ru>
+    <p_tk vh="H" name="SPRINGER,Jeremy"></p_tk>
+   </play>
+   <play hasball="UB" down="2" togo="6" spot="UTEP47" context="V,2,6,H47" playid="20,7,192" type="#" clock="03:23" text="Timeout UTEP, clock 03:23." newcontext="V,2,6,H47">
+    <p_to vh="H" team="UTEP"></p_to>
+   </play>
+   <play hasball="UB" down="2" togo="6" spot="UTEP47" context="V,2,6,H47" playid="20,8,193" type="R" pcode="LG" text="THERMILUS, Bran rush over left guard for 4 yards to the UTEP43 (KING, Aaron;SMITH, Royzell)." newcontext="V,3,2,H43">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="4"></p_ru>
+    <p_tk vh="H" name="KING, Aaron" assist="Y"></p_tk>
+    <p_tk vh="H" name="SMITH, Royzell" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="3" togo="2" spot="UTEP43" context="V,3,2,H43" playid="20,9,194" type="#" clock="03:22" text="Timeout UTEP, clock 03:22." newcontext="V,3,2,H43">
+    <p_to vh="H" team="UTEP"></p_to>
+   </play>
+   <play hasball="UB" down="3" togo="2" spot="UTEP43" context="V,3,2,H43" playid="20,10,195" type="R" pcode="LT" text="THERMILUS, Bran rush over left tackle for loss of 1 yard to the UTEP44 (SOLEYJACKS, R.;ROBINSON, Tory)." newcontext="V,4,3,H44">
+    <p_ru vh="V" name="THERMILUS, Bran" gain="-1"></p_ru>
+    <p_tk vh="H" name="SOLEYJACKS, R." tfl="Y" assist="Y"></p_tk>
+    <p_tk vh="H" name="ROBINSON, Tory" tfl="Y" assist="Y"></p_tk>
+   </play>
+   <play hasball="UB" down="4" togo="3" spot="UTEP44" context="V,4,3,H44" playid="20,11,196" type="E" text="PENALTY UB delay of game 5 yards to the UTEP49." newcontext="V,4,8,H49">
+    <p_pn vh="V" code="DG" type="delay of game" result="ACCEPT" at="H44" yards="5"></p_pn>
+   </play>
+   <play hasball="UB" down="4" togo="8" spot="UTEP49" context="V,4,8,H49" playid="20,12,197" type="U" text="FARDON, Peter punt 29 yards to the UTEP20, out-of-bounds." ob="Y" newcontext="H,1,10,H20">
+    <p_pu vh="V" name="FARDON, Peter" gain="29" ob="Y"></p_pu>
+   </play>
+   <drivesum plays="7" yards="23" top="3:10" driveindex="20" complete="Y"></drivesum>
+   <drivestart poss="H,H20,03:22" vh="H" spot="H20" clock="03:22" driveindex="21,197"></drivestart>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP20" context="H,1,10,H20" playid="21,1,198" clock="02:29" text="UTEP drive start at 02:29." newcontext="H,1,10,H20">
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP20" context="H,1,10,H20" playid="21,2,199" type="P" pcode="SI" text="VITTATOE,Trevor sideline pass complete to ADAMS, Kris for 9 yards to the UTEP29, out-of-bounds." ob="Y" newcontext="H,2,1,H29">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="ADAMS, Kris" gain="9"></p_pa>
+   </play>
+   <play hasball="UTEP" down="2" togo="1" spot="UTEP29" context="H,2,1,H29" playid="21,3,200" type="P" pcode="CR" first="P" text="VITTATOE,Trevor crossing pass complete to ADAMS, Kris for 7 yards to the UTEP36, 1ST DOWN UTEP (WINTERS, Justin)." newcontext="H,1,10,H36">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="ADAMS, Kris" gain="7"></p_pa>
+    <p_tk vh="V" name="WINTERS, Justin"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP36" context="H,1,10,H36" playid="21,4,201" type="P" pcode="CR" text="VITTATOE,Trevor crossing pass complete to ADAMS, Kris for 8 yards to the UTEP44 (COOK, Domonic;WINTERS, Justin)." newcontext="H,2,2,H44">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="ADAMS, Kris" gain="8"></p_pa>
+    <p_tk vh="V" name="COOK, Domonic" assist="Y"></p_tk>
+    <p_tk vh="V" name="WINTERS, Justin" assist="Y"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="2" spot="UTEP44" context="H,2,2,H44" playid="21,5,202" type="P" pcode="DP" text="VITTATOE,Trevor deep pass incomplete to ADAMS, Kris." newcontext="H,3,2,H44">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="ADAMS, Kris"></p_pa>
+   </play>
+   <play hasball="UTEP" down="3" togo="2" spot="UTEP44" context="H,3,2,H44" playid="21,6,203" type="P" pcode="SI" first="P" text="VITTATOE,Trevor sideline pass complete to MOTURI, Jeff for 4 yards to the UTEP48, 1ST DOWN UTEP (SHANNON, Davont)." newcontext="H,1,10,H48">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="MOTURI, Jeff" gain="4"></p_pa>
+    <p_tk vh="V" name="SHANNON, Davont"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UTEP48" context="H,1,10,H48" playid="21,7,204" type="P" pcode="MI" text="VITTATOE,Trevor middle pass complete to MOTURI, Jeff for 8 yards to the UB44 (LOTT, Sherrod)." newcontext="H,2,2,V44">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="MOTURI, Jeff" gain="8"></p_pa>
+    <p_tk vh="V" name="LOTT, Sherrod"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="2" spot="UB44" context="H,2,2,V44" playid="21,8,205" type="P" pcode="DP" text="VITTATOE,Trevor deep pass incomplete to THOMAS, James (AKOBUNDU, Rapha)." newcontext="H,3,2,V44">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="THOMAS, James"></p_pa>
+    <p_bu vh="V" name="AKOBUNDU, Rapha"></p_bu>
+   </play>
+   <play hasball="UTEP" down="3" togo="2" spot="UB44" context="H,3,2,V44" playid="21,9,206" type="P" pcode="SI" first="P" text="VITTATOE,Trevor sideline pass complete to DAVIS, Evan for 6 yards to the UB38, 1ST DOWN UTEP, out-of-bounds." ob="Y" newcontext="H,1,10,V38">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="DAVIS, Evan" gain="6"></p_pa>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB38" context="H,1,10,V38" playid="21,10,207" type="P" pcode="CR" first="P" text="VITTATOE,Trevor crossing pass complete to ADAMS, Kris for 13 yards to the UB25, 1ST DOWN UTEP (MONTANEZ, Anel)." newcontext="H,1,10,V25">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="ADAMS, Kris" gain="13"></p_pa>
+    <p_tk vh="V" name="MONTANEZ, Anel"></p_tk>
+   </play>
+   <play hasball="UTEP" down="1" togo="10" spot="UB25" context="H,1,10,V25" playid="21,11,208" type="P" pcode="SI" text="VITTATOE,Trevor sideline pass complete to SHADRAWY, T. for 5 yards to the UB20 (THOMAS, Josh)." newcontext="H,2,5,V20">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="COMP" rcv="SHADRAWY, T." gain="5"></p_pa>
+    <p_tk vh="V" name="THOMAS, Josh"></p_tk>
+   </play>
+   <play hasball="UTEP" down="2" togo="5" spot="UB20" context="H,2,5,V20" playid="21,12,209" type="P" text="TEAM pass incomplete." newcontext="H,3,5,V20">
+    <p_pa vh="H" qb="TEAM" result="INC"></p_pa>
+   </play>
+   <play hasball="UTEP" down="3" togo="5" spot="UB20" context="H,3,5,V20" playid="21,13,210" type="E" pcode="FL" clock="00:14" text="VITTATOE,Trevor flag pass complete to THOMAS, James for 20 yards to the UB0, clock 00:14, PENALTY UTEP holding (HUNTLEY, Rod) 7 yards to the UB27, NO PLAY, PENALTY UTEP unsportsmanlike conduct (EVBUOMWAN, L.) 15 yards to the UB42, NO PLAY." newcontext="H,3,27,V42">
+    <p_pn vh="H" code="HO" type="holding" name="HUNTLEY, Rod" result="ACCEPT" at="V20" yards="7"></p_pn>
+    <p_pn vh="H" code="UC" type="unsportsmanlike conduct" name="EVBUOMWAN, L." result="ACCEPT" at="V27" yards="15"></p_pn>
+   </play>
+   <play hasball="UTEP" down="3" togo="27" spot="UB42" context="H,3,27,V42" playid="21,14,211" type="P" text="VITTATOE,Trevor pass incomplete to ADAMS, Kris." newcontext="H,4,27,V42">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="ADAMS, Kris"></p_pa>
+   </play>
+   <play hasball="UTEP" down="4" togo="27" spot="UB42" context="H,4,27,V42" playid="21,15,212" type="P" text="VITTATOE,Trevor pass incomplete to ADAMS, Kris (LOTT, Sherrod)." newcontext="V,1,10,V42">
+    <p_pa vh="H" qb="VITTATOE,Trevor" result="INC" rcv="ADAMS, Kris"></p_pa>
+    <p_bu vh="V" name="LOTT, Sherrod"></p_bu>
+   </play>
+   <drivesum plays="13" yards="38" top="2:29" driveindex="21" complete="Y"></drivesum>
+   <drivestart poss="V,V42,00:14" vh="V" spot="V42" clock="00:14" driveindex="22,212"></drivestart>
+   <play hasball="UB" down="1" togo="10" spot="UB42" context="V,1,10,V42" playid="22,1,213" clock="00:00" text="BUFFALO drive start at 00:00." newcontext="V,1,10,V42">
+   </play>
+   <drivesum plays="0" yards="0" top="0:00" driveindex="22"></drivesum>
+   <play context="" playid="" clock="" text="Buffalo defeats UTEP by a score of 23 to 17."></play>
+   <score final="Y" V="23" H="17"></score>
+   <endqtr></endqtr>
+   <qtrsummary vh="V" id="UB">
+    <firstdowns no="5" rush="4" pass="1" penalty="0"></firstdowns>
+    <penalties no="3" yds="15"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="08:46"></misc>
+    <rush att="14" yds="45" gain="58" loss="13" td="0" long="0"></rush>
+    <pass comp="3" att="3" int="0" yds="20" td="0" long="0" sacks="1" sackyds="12"></pass>
+    <rcv no="3" yds="20" td="0" long="0"></rcv>
+    <punt no="1" yds="29" long="0" blkd="0" tb="0" fc="0" plus50="0" inside20="0" avg="29.0"></punt>
+    <fg made="0" att="1" long="0" blkd="0"></fg>
+    <defense tackua="10" tacka="8" tot_tack="18" sacks="1" sackyds="14" brup="2" qbh="1"></defense>
+    <kr no="1" yds="22" td="0" long="0"></kr>
+   </qtrsummary>
+   <qtrsummary vh="H" id="UTEP">
+    <firstdowns no="8" rush="1" pass="7" penalty="0"></firstdowns>
+    <penalties no="3" yds="27"></penalties>
+    <conversions thirdconv="3" thirdatt="5" fourthconv="0" fourthatt="1"></conversions>
+    <fumbles no="0" lost="0"></fumbles>
+    <misc yds="0" top="06:08"></misc>
+    <rush att="3" yds="18" gain="18" loss="0" td="0" long="0"></rush>
+    <pass comp="13" att="20" int="0" yds="111" td="0" long="0" sacks="0" sackyds="0"></pass>
+    <rcv no="13" yds="111" td="0" long="0"></rcv>
+    <ko no="1" yds="64" ob="0" tb="0"></ko>
+    <fg made="1" att="1" long="31" blkd="0"></fg>
+    <defense tackua="11" tacka="14" tot_tack="25" tflua="3" tfla="0" tflyds="14" sacks="1" sackyds="12"></defense>
+    <scoring fg="1"></scoring>
+   </qtrsummary>
+  </qtr>
+  <downtogo hasball="V" id="UB" down="1" togo="10" spot="UB42" qtr="F" clock="00:00" lastplay="BUFFALO drive start at 00:00." final="Y" halftime="N" vtor="1" htor="0" dtgtext="Game Over" ldtext="Drive started: 02:29, 4th Qtr"></downtogo>
+ </plays>

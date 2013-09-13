@@ -1,0 +1,950 @@
+<plays format="summary">
+    <qtr number="1" text="1st">
+      <play hasball="UVa" down="1" togo="10" spot="UVa30" context="H,1,10,H30" playid="0,1,0" text="UVa ball on UVa30." newcontext="H,1,10,H30">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa30" context="H,1,10,H30" playid="0,2,1" type="K" text="UVa kickoff to the W&amp;&amp;M12, Jonathan Grimes return 13 yards to the W&amp;&amp;M25." newcontext="V,1,10,V25">
+        <p_kr vh="V" name="Jonathan Grimes" gain="13"></p_kr>
+      </play>
+      <drivestart poss="V,V05,15:00" vh="V" spot="V05" clock="15:00" driveindex="1,1"></drivestart>
+      <play hasball="W&amp;&amp;M" down="0" togo="0" spot="UVa00" context="V,0,0,H00" playid="1,1,2" type="E" clock="14:54" text="PENALTY W&amp;&amp;M 15 yards to the UVa15, clock 14:54." newcontext="V,0,0,H15">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H00" yards="15"></p_pn>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M10" context="V,1,10,V10" playid="1,2,3" type="E" clock="14:54" text="PENALTY W&amp;&amp;M 5 yards to the W&amp;&amp;M5, clock 14:54." newcontext="V,1,15,V05">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V10" yards="5"></p_pn>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="15" spot="W&amp;&amp;M05" context="V,1,15,V05" playid="1,3,4" type="R" clock="14:54" text="Jonathan Grimes rush for 3 yards to the W&amp;&amp;M8, clock 14:54." newcontext="V,2,12,V08">
+        <p_ru vh="V" name="Jonathan Grimes" gain="3"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="12" spot="W&amp;&amp;M08" context="V,2,12,V08" playid="1,4,5" type="P" clock="14:40" text="R.J. Archer pass complete to Ryan Moody for 10 yards to the W&amp;&amp;M18, clock 14:40." newcontext="V,3,2,V18">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Ryan Moody" gain="10"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="2" spot="W&amp;&amp;M18" context="V,3,2,V18" playid="1,5,6" type="P" clock="14:40" text="R.J. Archer pass complete to Jonathan Grimes for loss of 4 yards to the W&amp;&amp;M14, clock 14:40." newcontext="V,4,6,V14">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Jonathan Grimes" gain="-4"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="6" spot="W&amp;&amp;M14" context="V,4,6,V14" playid="1,6,7" type="U" text="David Miller punt 41 yards to the UVa45." newcontext="H,1,10,H45">
+        <p_pu vh="V" name="David Miller" gain="41"></p_pu>
+      </play>
+      <drivesum plays="3" yards="-11" top="0:20" driveindex="1" complete="Y"></drivesum>
+      <drivestart poss="H,V40,14:40" vh="H" spot="V40" clock="14:40" driveindex="2,7"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="W&amp;&amp;M40" context="H,1,10,V40" playid="2,1,8" clock="14:40" text="VIRGINIA drive start at 14:40." newcontext="H,1,10,V40">
+      </play>
+      <play hasball="UVa" down="4" togo="6" spot="UVa14" context="H,4,6,H14" playid="2,2,9" type="E" first="E" clock="14:40" text="PENALTY W&amp;&amp;M 15 yards to the UVa29, 1ST DOWN UVa, clock 14:40." newcontext="H,1,10,H29">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H14" yards="15"></p_pn>
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="W&amp;&amp;M40" context="H,1,10,V40" playid="2,3,10" type="P" clock="14:40" text="Vic Hall pass complete to Mikell Simpson for 5 yards to the W&amp;&amp;M35, clock 14:40." newcontext="H,2,5,V35">
+        <p_pa vh="H" qb="Vic Hall" result="COMP" rcv="Mikell Simpson" gain="5"></p_pa>
+      </play>
+      <play hasball="UVa" down="2" togo="5" spot="W&amp;&amp;M35" context="H,2,5,V35" playid="2,4,11" type="R" clock="14:40" text="Mikell Simpson rush for no gain to the W&amp;&amp;M35, clock 14:40." newcontext="H,3,5,V35">
+        <p_ru vh="H" name="Mikell Simpson" gain="0"></p_ru>
+      </play>
+      <play hasball="UVa" down="3" togo="5" spot="W&amp;&amp;M35" context="H,3,5,V35" playid="2,5,12" type="R" score="Y" clock="12:15" text="Vic Hall rush for 35 yards to the W&amp;&amp;M0, TOUCHDOWN, clock 12:15." newcontext="H,1,0,V03">
+        <p_ru vh="H" name="Vic Hall" gain="35"></p_ru>
+      </play>
+      <play hasball="UVa" down="1" togo="0" spot="W&amp;&amp;M03" context="H,1,0,V03" playid="2,6,13" type="X" score="Y" text="Robert Randolph kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Robert Randolph" qb="Robert Randolph" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="3" yards="55" top="2:25" driveindex="2" complete="Y"></drivesum>
+      <score V="0" H="7"></score>
+      <play hasball="UVa" down="1" togo="0" spot="UVa30" context="H,1,0,H30" playid="2,7,14" type="K" text="UVa kickoff to the W&amp;&amp;M3, Jonathan Grimes return 28 yards to the W&amp;&amp;M31." newcontext="V,1,10,V31">
+        <p_kr vh="V" name="Jonathan Grimes" gain="28"></p_kr>
+      </play>
+      <drivestart poss="V,V31,12:15" vh="V" spot="V31" clock="12:15" driveindex="3,14"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M31" context="V,1,10,V31" playid="3,1,15" clock="12:15" text="WILLIAM &amp;&amp; MARY drive start at 12:15." newcontext="V,1,10,V31">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M31" context="V,1,10,V31" playid="3,2,16" type="R" clock="12:06" text="R.J. Archer rush for no gain to the W&amp;&amp;M31, clock 12:06." newcontext="V,2,10,V31">
+        <p_ru vh="V" name="R.J. Archer" gain="0"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="W&amp;&amp;M31" context="V,2,10,V31" playid="3,3,17" type="P" clock="11:50" text="R.J. Archer pass incomplete, clock 11:50." newcontext="V,3,10,V31">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="10" spot="W&amp;&amp;M31" context="V,3,10,V31" playid="3,4,18" type="P" clock="11:39" text="R.J. Archer pass incomplete, clock 11:39." newcontext="V,4,10,V31">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="10" spot="W&amp;&amp;M31" context="V,4,10,V31" playid="3,5,19" type="U" text="David Miller punt 47 yards to the UVa22." newcontext="H,1,10,H22">
+        <p_pu vh="V" name="David Miller" gain="47"></p_pu>
+      </play>
+      <drivesum plays="3" yards="0" top="0:40" driveindex="3" complete="Y"></drivesum>
+      <drivestart poss="H,H22,11:35" vh="H" spot="H22" clock="11:35" driveindex="4,19"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa22" context="H,1,10,H22" playid="4,1,20" clock="11:35" text="VIRGINIA drive start at 11:35." newcontext="H,1,10,H22">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa22" context="H,1,10,H22" playid="4,2,21" type="R" clock="11:27" text="Vic Hall rush for loss of 1 yard to the UVa21, clock 11:27." newcontext="H,2,11,H21">
+        <p_ru vh="H" name="Vic Hall" gain="-1"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="11" spot="UVa21" context="H,2,11,H21" playid="4,3,22" type="R" clock="11:10" text="Vic Hall rush for 6 yards to the UVa27, clock 11:10." newcontext="H,3,5,H27">
+        <p_ru vh="H" name="Vic Hall" gain="6"></p_ru>
+      </play>
+      <play hasball="UVa" down="3" togo="5" spot="UVa27" context="H,3,5,H27" playid="4,4,23" type="P" clock="11:10" text="Vic Hall pass incomplete, clock 11:10." newcontext="H,4,5,H27">
+        <p_pa vh="H" qb="Vic Hall" result="INC"></p_pa>
+      </play>
+      <play hasball="UVa" down="4" togo="5" spot="UVa27" context="H,4,5,H27" playid="4,5,24" type="U" text="Jimmy Howell punt 45 yards to the W&amp;&amp;M28, B.W. Webb return -2 yards to the W&amp;&amp;M26." newcontext="V,1,10,V26">
+        <p_pu vh="H" name="Jimmy Howell" gain="45"></p_pu>
+        <p_pr vh="V" name="B.W. Webb" gain="-2"></p_pr>
+      </play>
+      <drivesum plays="3" yards="5" top="1:01" driveindex="4" complete="Y"></drivesum>
+      <drivestart poss="V,V26,10:34" vh="V" spot="V26" clock="10:34" driveindex="5,24"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M26" context="V,1,10,V26" playid="5,1,25" clock="10:34" text="WILLIAM &amp;&amp; MARY drive start at 10:34." newcontext="V,1,10,V26">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M26" context="V,1,10,V26" playid="5,2,26" type="P" clock="10:23" text="R.J. Archer pass incomplete, clock 10:23." newcontext="V,2,10,V26">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="W&amp;&amp;M26" context="V,2,10,V26" playid="5,3,27" type="R" clock="10:18" text="Jonathan Grimes rush for no gain to the W&amp;&amp;M26, clock 10:18." newcontext="V,3,10,V26">
+        <p_ru vh="V" name="Jonathan Grimes" gain="0"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="10" spot="W&amp;&amp;M26" context="V,3,10,V26" playid="5,4,28" type="P" clock="10:00" text="R.J. Archer pass complete to Courtland Marriner for loss of 1 yard to the W&amp;&amp;M25, clock 10:00." newcontext="V,4,11,V25">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Courtland Marriner" gain="-1"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="11" spot="W&amp;&amp;M25" context="V,4,11,V25" playid="5,5,29" type="U" text="David Miller punt 50 yards to the UVa25." newcontext="H,1,10,H25">
+        <p_pu vh="V" name="David Miller" gain="50"></p_pu>
+      </play>
+      <drivesum plays="3" yards="-1" top="1:19" driveindex="5" complete="Y"></drivesum>
+      <drivestart poss="H,H15,09:15" vh="H" spot="H15" clock="09:15" driveindex="6,29"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa15" context="H,1,10,H15" playid="6,1,30" clock="09:15" text="VIRGINIA drive start at 09:15." newcontext="H,1,10,H15">
+      </play>
+      <play hasball="UVa" down="4" togo="11" spot="UVa25" context="H,4,11,H25" playid="6,2,31" type="E" clock="09:15" text="PENALTY UVa 10 yards to the UVa15, clock 09:15." newcontext="H,4,21,H15">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="H25" yards="10"></p_pn>
+      </play>
+      <play hasball="UVa" down="1" togo="20" spot="UVa15" context="H,1,20,H15" playid="6,3,32" type="R" clock="08:58" text="Vic Hall rush for 1 yard to the UVa16, clock 08:58." newcontext="H,2,19,H16">
+        <p_ru vh="H" name="Vic Hall" gain="1"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="9" spot="UVa27" context="H,2,9,H27" playid="6,4,33" type="P" clock="08:45" text="Vic Hall pass complete to Kris Burd for 4 yards to the UVa31, clock 08:45." newcontext="H,3,5,H31">
+        <p_pa vh="H" qb="Vic Hall" result="COMP" rcv="Kris Burd" gain="4"></p_pa>
+      </play>
+      <play hasball="UVa" down="3" togo="5" spot="UVa31" context="H,3,5,H31" playid="6,5,34" type="R" clock="08:30" text="Vic Hall rush for 4 yards to the UVa35, clock 08:30." newcontext="H,4,1,H35">
+        <p_ru vh="H" name="Vic Hall" gain="4"></p_ru>
+      </play>
+      <play hasball="UVa" down="4" togo="1" spot="UVa35" context="H,4,1,H35" playid="6,6,35" type="U" text="Jimmy Howell punt 46 yards to the W&amp;&amp;M19." newcontext="V,1,10,V19">
+        <p_pu vh="H" name="Jimmy Howell" gain="46" in20="Y"></p_pu>
+      </play>
+      <drivesum plays="3" yards="-1" top="1:25" driveindex="6" complete="Y"></drivesum>
+      <drivestart poss="V,V19,07:50" vh="V" spot="V19" clock="07:50" driveindex="7,35"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M19" context="V,1,10,V19" playid="7,1,36" clock="07:50" text="WILLIAM &amp;&amp; MARY drive start at 07:50." newcontext="V,1,10,V19">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M19" context="V,1,10,V19" playid="7,2,37" type="P" clock="07:40" text="R.J. Archer pass incomplete, clock 07:40." newcontext="V,2,10,V19">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="W&amp;&amp;M19" context="V,2,10,V19" playid="7,3,38" type="P" clock="07:36" text="R.J. Archer pass complete to Jonathan Grimes for 3 yards to the W&amp;&amp;M22, clock 07:36." newcontext="V,3,7,V22">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Jonathan Grimes" gain="3"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="7" spot="W&amp;&amp;M22" context="V,3,7,V22" playid="7,4,39" type="R" first="R" clock="07:36" text="Terrence Riggins rush for 12 yards to the W&amp;&amp;M34, 1ST DOWN W&amp;&amp;M, clock 07:36." newcontext="V,1,10,V34">
+        <p_ru vh="V" name="Terrence Riggins" gain="12"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M34" context="V,1,10,V34" playid="7,5,40" type="R" clock="06:35" text="Terrence Riggins rush for 4 yards to the W&amp;&amp;M38, clock 06:35." newcontext="V,2,6,V38">
+        <p_ru vh="V" name="Terrence Riggins" gain="4"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="6" spot="W&amp;&amp;M38" context="V,2,6,V38" playid="7,6,41" type="P" first="P" clock="06:10" text="R.J. Archer pass complete to D.J. McAulay for 9 yards to the W&amp;&amp;M47, 1ST DOWN W&amp;&amp;M, clock 06:10." newcontext="V,1,10,V47">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="D.J. McAulay" gain="9"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M47" context="V,1,10,V47" playid="7,7,42" type="P" first="P" clock="05:40" text="R.J. Archer pass complete to Ryan Moody for 48 yards to the UVa5, 1ST DOWN W&amp;&amp;M, clock 05:40." newcontext="V,1,0,H05">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Ryan Moody" gain="48"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="UVa05" context="V,1,0,H05" playid="7,8,43" type="P" score="Y" clock="04:57" text="R.J. Archer pass complete to Rob Varno for 5 yards to the UVa0, TOUCHDOWN, clock 04:57." newcontext="V,1,0,H03">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Rob Varno" gain="5"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="UVa03" context="V,1,0,H03" playid="7,9,44" type="X" score="Y" text="Brian Pate kick attempt good." newcontext="V,1,0,V30">
+        <p_pat vh="V" name="Brian Pate" qb="Brian Pate" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <drivesum plays="7" yards="81" top="2:53" driveindex="7" complete="Y"></drivesum>
+      <score V="7" H="7"></score>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="W&amp;&amp;M30" context="V,1,0,V30" playid="7,10,45" type="K" text="W&amp;&amp;M kickoff to the UVa21, Corey Mosley return 15 yards to the UVa36." newcontext="H,1,10,H36">
+        <p_kr vh="H" name="Corey Mosley" gain="15"></p_kr>
+      </play>
+      <drivestart poss="H,H36,04:57" vh="H" spot="H36" clock="04:57" driveindex="8,45"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa36" context="H,1,10,H36" playid="8,1,46" clock="04:57" text="VIRGINIA drive start at 04:57." newcontext="H,1,10,H36">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa36" context="H,1,10,H36" playid="8,2,47" type="R" clock="04:51" text="Jameel Sewell rush for loss of 9 yards to the UVa27, clock 04:51." newcontext="H,2,19,H27">
+        <p_ru vh="H" name="Jameel Sewell" gain="-9"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="19" spot="UVa27" context="H,2,19,H27" playid="8,3,48" type="R" clock="04:51" text="Mikell Simpson rush for 2 yards to the UVa29, clock 04:51." newcontext="H,3,17,H29">
+        <p_ru vh="H" name="Mikell Simpson" gain="2"></p_ru>
+      </play>
+      <play hasball="UVa" down="3" togo="17" spot="UVa29" context="H,3,17,H29" playid="8,4,49" type="P" first="P" clock="04:51" text="Jameel Sewell pass complete to Kris Burd for 27 yards to the W&amp;&amp;M44, 1ST DOWN UVa, clock 04:51." newcontext="H,1,10,V44">
+        <p_pa vh="H" qb="Jameel Sewell" result="COMP" rcv="Kris Burd" gain="27"></p_pa>
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="W&amp;&amp;M44" context="H,1,10,V44" playid="8,5,50" type="R" clock="04:51" text="Jameel Sewell rush for loss of 7 yards to the UVa49, clock 04:51." newcontext="H,2,17,H49">
+        <p_ru vh="H" name="Jameel Sewell" gain="-7"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="17" spot="UVa49" context="H,2,17,H49" playid="8,6,51" type="P" clock="04:51" text="Jameel Sewell sacked for loss of 7 yards to the UVa42 (Jake Trantin), clock 04:51." newcontext="H,3,24,H42">
+        <p_pa vh="H" qb="Jameel Sewell" result="SACK" gain="-7"></p_pa>
+        <p_tk vh="V" name="Jake Trantin" sack="Y" tfl="Y"></p_tk>
+      </play>
+      <play hasball="UVa" down="3" togo="24" spot="UVa42" context="H,3,24,H42" playid="8,7,52" type="P" turnover="I" text="Jameel Sewell pass intercepted by B.W. Webb at the UVa42, B.W. Webb return 18 yards to the UVa24." newcontext="V,1,10,H24">
+        <p_pa vh="H" qb="Jameel Sewell" result="INT"></p_pa>
+        <p_ir vh="V" name="B.W. Webb" at="H42" gain="18"></p_ir>
+      </play>
+      <drivesum plays="6" yards="6" top="0:06" driveindex="8" complete="Y"></drivesum>
+      <drivestart poss="V,V43,04:51" vh="V" spot="V43" clock="04:51" driveindex="9,52"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M43" context="V,1,10,V43" playid="9,1,53" clock="04:51" text="WILLIAM &amp;&amp; MARY drive start at 04:51." newcontext="V,1,10,V43">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M43" context="V,1,10,V43" playid="9,2,54" type="P" clock="04:51" text="R.J. Archer pass incomplete, clock 04:51." newcontext="V,2,10,V43">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="W&amp;&amp;M42" context="V,2,10,V42" playid="9,3,55" type="R" clock="04:51" text="R.J. Archer rush for 3 yards to the W&amp;&amp;M45, clock 04:51." newcontext="V,3,7,V45">
+        <p_ru vh="V" name="R.J. Archer" gain="3"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="7" spot="W&amp;&amp;M45" context="V,3,7,V45" playid="9,4,56" type="P" first="P" clock="02:30" text="R.J. Archer pass complete to Jonathan Grimes for 8 yards to the UVa47, 1ST DOWN W&amp;&amp;M, clock 02:30." newcontext="V,1,10,H47">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Jonathan Grimes" gain="8"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa45" context="V,1,10,H45" playid="9,5,57" type="R" clock="02:00" text="Jonathan Grimes rush for 6 yards to the UVa39, clock 02:00." newcontext="V,2,4,H39">
+        <p_ru vh="V" name="Jonathan Grimes" gain="6"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="4" spot="UVa39" context="V,2,4,H39" playid="9,6,58" type="P" clock="01:35" text="R.J. Archer pass complete to Courtland Marriner for 3 yards to the UVa36, clock 01:35." newcontext="V,3,1,H36">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Courtland Marriner" gain="3"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="1" spot="UVa36" context="V,3,1,H36" playid="9,7,59" type="R" first="R" clock="00:40" text="Jonathan Grimes rush for 3 yards to the UVa33, 1ST DOWN W&amp;&amp;M, clock 00:40." newcontext="V,1,10,H33">
+        <p_ru vh="V" name="Jonathan Grimes" gain="3"></p_ru>
+      </play>
+      <score qtr="1" V="7" H="7"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="W&amp;&amp;M">
+        <firstdowns no="6" rush="2" pass="4" penalty="0"></firstdowns>
+        <penalties no="3" yds="35"></penalties>
+        <conversions thirdconv="3" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="10:03"></misc>
+        <rush att="8" yds="31" gain="31" loss="0" td="0" long="12"></rush>
+        <pass comp="9" att="14" int="0" yds="81" td="1" long="48" sacks="0" sackyds="0"></pass>
+        <rcv no="9" yds="81" td="1" long="48"></rcv>
+        <punt no="3" yds="138" long="50" blkd="0" tb="0" fc="" plus50="1" inside20="0" avg="46.0"></punt>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <pat kickatt="1" kickmade="1"></pat>
+        <defense sacks="1" sackyds="7" int="1" intyds="18"></defense>
+        <kr no="2" yds="41" td="0" long="28"></kr>
+        <pr no="1" yds="-2" td="0" long="-2"></pr>
+        <ir no="1" yds="18" td="0" long="18"></ir>
+        <scoring td="1" patkick="1"></scoring>
+      </qtrsummary>
+      <qtrsummary vh="H" id="UVa">
+        <firstdowns no="3" rush="1" pass="1" penalty="1"></firstdowns>
+        <penalties no="1" yds="10"></penalties>
+        <conversions thirdconv="2" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="04:57"></misc>
+        <rush att="10" yds="24" gain="48" loss="24" td="1" long="35"></rush>
+        <pass comp="3" att="5" int="1" yds="36" td="0" long="27" sacks="1" sackyds="7"></pass>
+        <rcv no="3" yds="36" td="0" long="27"></rcv>
+        <punt no="2" yds="91" long="46" blkd="0" tb="0" fc="" plus50="0" inside20="1" avg="45.5"></punt>
+        <ko no="2" yds="" ob="" tb=""></ko>
+        <pat kickatt="1" kickmade="1"></pat>
+        <kr no="1" yds="15" td="0" long="15"></kr>
+        <scoring td="1" patkick="1"></scoring>
+      </qtrsummary>
+    </qtr>
+    <qtr number="2" text="2nd">
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa33" context="V,1,10,H33" playid="9,8,60" type="#" clock="15:00" text="Start of 2nd quarter, clock 15:00." newcontext="V,1,10,H33">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa33" context="V,1,10,H33" playid="9,9,61" type="P" clock="15:00" text="R.J. Archer pass complete to Courtland Marriner for 4 yards to the UVa29, clock 15:00." newcontext="V,2,6,H29">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Courtland Marriner" gain="4"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="6" spot="UVa29" context="V,2,6,H29" playid="9,10,62" type="R" clock="14:30" text="Jonathan Grimes rush for 1 yard to the UVa28, clock 14:30." newcontext="V,3,5,H28">
+        <p_ru vh="V" name="Jonathan Grimes" gain="1"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="5" spot="UVa28" context="V,3,5,H28" playid="9,11,63" type="P" clock="14:10" text="R.J. Archer pass complete to Rob Varno for 4 yards to the UVa24, clock 14:10." newcontext="V,4,1,H24">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Rob Varno" gain="4"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="1" spot="UVa24" context="V,4,1,H24" playid="9,12,64" type="F" clock="13:00" text="Brian Pate field goal attempt from 42 MISSED, clock 13:00." newcontext="H,1,10,H32">
+        <p_fg vh="V" name="Brian Pate" distance="42" result="MISSED"></p_fg>
+      </play>
+      <drivesum plays="10" yards="32" top="6:51" driveindex="9" complete="Y"></drivesum>
+      <score V="7" H="7"></score>
+      <drivestart poss="H,H43,13:00" vh="H" spot="H43" clock="13:00" driveindex="10,64"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa43" context="H,1,10,H43" playid="10,1,65" clock="13:00" text="VIRGINIA drive start at 13:00." newcontext="H,1,10,H43">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa37" context="H,1,10,H37" playid="10,2,66" type="R" clock="13:00" text="Mikell Simpson rush for 6 yards to the UVa43, clock 13:00." newcontext="H,2,4,H43">
+        <p_ru vh="H" name="Mikell Simpson" gain="6"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="4" spot="UVa43" context="H,2,4,H43" playid="10,3,67" type="R" clock="13:00" text="Mikell Simpson rush for 3 yards to the UVa46, clock 13:00." newcontext="H,3,1,H46">
+        <p_ru vh="H" name="Mikell Simpson" gain="3"></p_ru>
+      </play>
+      <play hasball="UVa" down="3" togo="1" spot="UVa46" context="H,3,1,H46" playid="10,4,68" type="P" clock="13:00" text="Jameel Sewell pass incomplete, clock 13:00." newcontext="H,4,1,H46">
+        <p_pa vh="H" qb="Jameel Sewell" result="INC"></p_pa>
+      </play>
+      <play hasball="UVa" down="4" togo="1" spot="UVa46" context="H,4,1,H46" playid="10,5,69" type="E" clock="13:00" text="PENALTY UVa 5 yards to the UVa41, clock 13:00." newcontext="H,4,6,H41">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="H46" yards="5"></p_pn>
+      </play>
+      <play hasball="UVa" down="4" togo="6" spot="UVa41" context="H,4,6,H41" playid="10,6,70" type="U" text="Jimmy Howell punt 23 yards to the W&amp;&amp;M36." newcontext="V,1,10,V36">
+        <p_pu vh="H" name="Jimmy Howell" gain="23"></p_pu>
+      </play>
+      <drivesum plays="3" yards="4" top="0:00" driveindex="10" complete="Y"></drivesum>
+      <drivestart poss="V,V36,13:00" vh="V" spot="V36" clock="13:00" driveindex="11,70"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M36" context="V,1,10,V36" playid="11,1,71" clock="13:00" text="WILLIAM &amp;&amp; MARY drive start at 13:00." newcontext="V,1,10,V36">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M36" context="V,1,10,V36" playid="11,2,72" type="P" clock="11:51" text="R.J. Archer pass incomplete, clock 11:51." newcontext="V,2,10,V36">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="W&amp;&amp;M38" context="V,2,10,V38" playid="11,3,73" type="P" clock="11:48" text="R.J. Archer pass complete to Cameron Dohse for 3 yards to the W&amp;&amp;M41, clock 11:48." newcontext="V,3,7,V41">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Cameron Dohse" gain="3"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="7" spot="W&amp;&amp;M41" context="V,3,7,V41" playid="11,4,74" type="R" clock="11:20" text="Courtland Marriner rush for 1 yard to the W&amp;&amp;M42, clock 11:20." newcontext="V,4,6,V42">
+        <p_ru vh="V" name="Courtland Marriner" gain="1"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="6" spot="W&amp;&amp;M42" context="V,4,6,V42" playid="11,5,75" type="U" text="David Miller punt 43 yards to the UVa15, Javaris Brown return 1 yard to the UVa16." newcontext="H,1,10,H16">
+        <p_pu vh="V" name="David Miller" gain="43" in20="Y"></p_pu>
+        <p_pr vh="H" name="Javaris Brown" gain="1"></p_pr>
+      </play>
+      <drivesum plays="3" yards="4" top="2:10" driveindex="11" complete="Y"></drivesum>
+      <drivestart poss="H,H16,10:50" vh="H" spot="H16" clock="10:50" driveindex="12,75"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa16" context="H,1,10,H16" playid="12,1,76" clock="10:50" text="VIRGINIA drive start at 10:50." newcontext="H,1,10,H16">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa16" context="H,1,10,H16" playid="12,2,77" type="R" clock="10:22" text="Vic Hall rush for 4 yards to the UVa20, clock 10:22." newcontext="H,2,6,H20">
+        <p_ru vh="H" name="Vic Hall" gain="4"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="6" spot="UVa20" context="H,2,6,H20" playid="12,3,78" type="P" clock="10:22" text="Jameel Sewell pass complete to Vic Hall for 3 yards to the UVa23, clock 10:22." newcontext="H,3,3,H23">
+        <p_pa vh="H" qb="Jameel Sewell" result="COMP" rcv="Vic Hall" gain="3"></p_pa>
+      </play>
+      <play hasball="UVa" down="3" togo="3" spot="UVa23" context="H,3,3,H23" playid="12,4,79" type="P" first="P" clock="09:45" text="Jameel Sewell pass complete to Kris Burd for 8 yards to the UVa31, 1ST DOWN UVa, clock 09:45." newcontext="H,1,10,H31">
+        <p_pa vh="H" qb="Jameel Sewell" result="COMP" rcv="Kris Burd" gain="8"></p_pa>
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa31" context="H,1,10,H31" playid="12,5,80" type="R" clock="09:45" text="Jameel Sewell rush for 9 yards to the UVa40, clock 09:45." newcontext="H,2,1,H40">
+        <p_ru vh="H" name="Jameel Sewell" gain="9"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="1" spot="UVa40" context="H,2,1,H40" playid="12,6,81" type="P" first="P" clock="09:45" text="Jameel Sewell pass complete to Jared Green for 6 yards to the UVa46, 1ST DOWN UVa, clock 09:45." newcontext="H,1,10,H46">
+        <p_pa vh="H" qb="Jameel Sewell" result="COMP" rcv="Jared Green" gain="6"></p_pa>
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa46" context="H,1,10,H46" playid="12,7,82" type="P" first="P" clock="09:45" text="Jameel Sewell pass complete to Raynard Horne for 11 yards to the W&amp;&amp;M43, 1ST DOWN UVa, clock 09:45." newcontext="H,1,10,V43">
+        <p_pa vh="H" qb="Jameel Sewell" result="COMP" rcv="Raynard Horne" gain="11"></p_pa>
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="W&amp;&amp;M43" context="H,1,10,V43" playid="12,8,83" type="P" first="P" clock="09:45" text="Jameel Sewell pass complete to Torrey Mack for 15 yards to the W&amp;&amp;M28, 1ST DOWN UVa, clock 09:45." newcontext="H,1,10,V28">
+        <p_pa vh="H" qb="Jameel Sewell" result="COMP" rcv="Torrey Mack" gain="15"></p_pa>
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="W&amp;&amp;M26" context="H,1,10,V26" playid="12,9,84" type="R" clock="09:45" text="Jameel Sewell rush for 7 yards to the W&amp;&amp;M19, clock 09:45." newcontext="H,2,3,V19">
+        <p_ru vh="H" name="Jameel Sewell" gain="7"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="3" spot="W&amp;&amp;M19" context="H,2,3,V19" playid="12,10,85" type="R" first="R" clock="07:50" text="Jameel Sewell rush for 11 yards to the W&amp;&amp;M8, 1ST DOWN UVa, clock 07:50." newcontext="H,1,0,V08">
+        <p_ru vh="H" name="Jameel Sewell" gain="11"></p_ru>
+      </play>
+      <play hasball="UVa" down="1" togo="0" spot="W&amp;&amp;M08" context="H,1,0,V08" playid="12,11,86" type="R" score="Y" clock="07:29" text="Jameel Sewell rush for 8 yards to the W&amp;&amp;M0, TOUCHDOWN, clock 07:29." newcontext="H,1,0,V03">
+        <p_ru vh="H" name="Jameel Sewell" gain="8"></p_ru>
+      </play>
+      <play hasball="UVa" down="1" togo="0" spot="W&amp;&amp;M03" context="H,1,0,V03" playid="12,12,87" type="X" score="Y" text="Robert Randolph kick attempt good." newcontext="H,1,0,H30">
+        <p_pat vh="H" name="Robert Randolph" qb="Robert Randolph" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <play hasball="UVa" down="1" togo="0" spot="W&amp;&amp;M00" context="H,1,0,V00" playid="12,13,88" type="E" clock="07:29" text="PENALTY UVa 15 yards to the W&amp;&amp;M15, clock 07:29." newcontext="H,1,0,V15">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V00" yards="15"></p_pn>
+      </play>
+      <drivesum plays="10" yards="67" top="3:21" driveindex="12" complete="Y"></drivesum>
+      <score V="7" H="14"></score>
+      <play hasball="UVa" down="1" togo="0" spot="W&amp;&amp;M15" context="H,1,0,V15" playid="12,14,89" type="K" text="UVa kickoff to the W&amp;&amp;M18, Jonathan Grimes return 25 yards to the W&amp;&amp;M43." newcontext="V,1,10,V43">
+        <p_kr vh="V" name="Jonathan Grimes" gain="25"></p_kr>
+      </play>
+      <drivestart poss="V,V43,07:29" vh="V" spot="V43" clock="07:29" driveindex="13,89"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M43" context="V,1,10,V43" playid="13,1,90" clock="07:29" text="WILLIAM &amp;&amp; MARY drive start at 07:29." newcontext="V,1,10,V43">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M43" context="V,1,10,V43" playid="13,2,91" type="P" first="P" clock="07:22" text="R.J. Archer pass complete to D.J. McAulay for 27 yards to the UVa30, 1ST DOWN W&amp;&amp;M, clock 07:22." newcontext="V,1,10,H30">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="D.J. McAulay" gain="27"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa30" context="V,1,10,H30" playid="13,3,92" type="R" clock="07:14" text="R.J. Archer rush for 3 yards to the UVa27, clock 07:14." newcontext="V,2,7,H27">
+        <p_ru vh="V" name="R.J. Archer" gain="3"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="7" spot="UVa27" context="V,2,7,H27" playid="13,4,93" type="R" clock="06:45" text="R.J. Archer rush for 6 yards to the UVa21, clock 06:45." newcontext="V,3,1,H21">
+        <p_ru vh="V" name="R.J. Archer" gain="6"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="1" spot="UVa21" context="V,3,1,H21" playid="13,5,94" type="P" clock="06:00" text="R.J. Archer pass incomplete, clock 06:00." newcontext="V,4,1,H21">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="1" spot="UVa21" context="V,4,1,H21" playid="13,6,95" type="E" clock="05:41" text="PENALTY W&amp;&amp;M 5 yards to the UVa26, clock 05:41." newcontext="V,4,6,H26">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H21" yards="5"></p_pn>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="6" spot="UVa26" context="V,4,6,H26" playid="13,7,96" type="F" clock="05:41" text="Brian Pate field goal attempt from 43 MISSED, clock 05:41." newcontext="H,1,10,H33">
+        <p_fg vh="V" name="Brian Pate" distance="43" result="MISSED"></p_fg>
+      </play>
+      <drivesum plays="5" yards="31" top="1:48" driveindex="13" complete="Y"></drivesum>
+      <score V="7" H="14"></score>
+      <drivestart poss="H,V25,05:34" vh="H" spot="V25" clock="05:34" driveindex="14,96"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="W&amp;&amp;M25" context="H,1,10,V25" playid="14,1,97" clock="05:34" text="VIRGINIA drive start at 05:34." newcontext="H,1,10,V25">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="W&amp;&amp;M26" context="H,1,10,V26" playid="14,2,98" type="R" clock="05:34" text="Torrey Mack rush for 1 yard to the W&amp;&amp;M25, clock 05:34." newcontext="H,2,9,V25">
+        <p_ru vh="H" name="Torrey Mack" gain="1"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="9" spot="W&amp;&amp;M25" context="H,2,9,V25" playid="14,3,99" type="P" clock="05:34" text="Jameel Sewell pass complete to Kris Burd for 4 yards to the W&amp;&amp;M21, clock 05:34." newcontext="H,3,5,V21">
+        <p_pa vh="H" qb="Jameel Sewell" result="COMP" rcv="Kris Burd" gain="4"></p_pa>
+      </play>
+      <play hasball="UVa" down="3" togo="5" spot="W&amp;&amp;M21" context="H,3,5,V21" playid="14,4,100" type="P" turnover="I" text="Jameel Sewell pass intercepted by B.W. Webb at the W&amp;&amp;M21, B.W. Webb return 0 yards to the W&amp;&amp;M21." newcontext="V,1,10,V21">
+        <p_pa vh="H" qb="Jameel Sewell" result="INT"></p_pa>
+        <p_ir vh="V" name="B.W. Webb" at="V21" gain="0"></p_ir>
+      </play>
+      <drivesum plays="3" yards="5" top="0:00" driveindex="14" complete="Y"></drivesum>
+      <drivestart poss="V,H45,05:34" vh="V" spot="H45" clock="05:34" driveindex="15,100"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa45" context="V,1,10,H45" playid="15,1,101" clock="05:34" text="WILLIAM &amp;&amp; MARY drive start at 05:34." newcontext="V,1,10,H45">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa45" context="V,1,10,H45" playid="15,2,102" type="P" first="P" clock="04:32" text="R.J. Archer pass complete to Rob Varno for 18 yards to the UVa27, 1ST DOWN W&amp;&amp;M, clock 04:32." newcontext="V,1,10,H27">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Rob Varno" gain="18"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa27" context="V,1,10,H27" playid="15,3,103" type="P" clock="04:32" text="R.J. Archer pass incomplete, clock 04:32." newcontext="V,2,10,H27">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="UVa27" context="V,2,10,H27" playid="15,4,104" type="R" clock="04:05" text="Terrence Riggins rush for 3 yards to the UVa24, clock 04:05." newcontext="V,3,7,H24">
+        <p_ru vh="V" name="Terrence Riggins" gain="3"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="7" spot="UVa24" context="V,3,7,H24" playid="15,5,105" type="P" clock="04:05" text="R.J. Archer pass incomplete, clock 04:05." newcontext="V,4,7,H24">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="7" spot="UVa24" context="V,4,7,H24" playid="15,6,106" type="F" score="Y" clock="03:21" text="Brian Pate field goal attempt from 40 GOOD, clock 03:21." newcontext="V,1,0,V30">
+        <p_fg vh="V" name="Brian Pate" distance="40" result="GOOD" score="Y"></p_fg>
+      </play>
+      <drivesum plays="5" yards="21" top="2:13" driveindex="15" complete="Y"></drivesum>
+      <score V="10" H="14"></score>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="W&amp;&amp;M30" context="V,1,0,V30" playid="15,7,107" type="K" text="W&amp;&amp;M kickoff to the UVa33." newcontext="H,1,10,H33">
+      </play>
+      <drivestart poss="H,H33,03:21" vh="H" spot="H33" clock="03:21" driveindex="16,107"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa33" context="H,1,10,H33" playid="16,1,108" clock="03:21" text="VIRGINIA drive start at 03:21." newcontext="H,1,10,H33">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa33" context="H,1,10,H33" playid="16,2,109" type="P" clock="03:18" text="Vic Hall pass incomplete, clock 03:18." newcontext="H,2,10,H33">
+        <p_pa vh="H" qb="Vic Hall" result="INC"></p_pa>
+      </play>
+      <play hasball="UVa" down="2" togo="10" spot="UVa33" context="H,2,10,H33" playid="16,3,110" type="R" turnover="F" clock="03:15" text="Vic Hall rush for 6 yards to the UVa39, fumble by Vic Hall recovered by W&amp;&amp;M Evan Francks at UVa39, clock 03:15." newcontext="V,1,10,H39">
+        <p_ru vh="H" name="Vic Hall" gain="6"></p_ru>
+        <p_fumb vh="H" name="Vic Hall" at="H33" frvh="V" frname="Evan Francks"></p_fumb>
+      </play>
+      <drivesum plays="2" yards="6" top="0:06" driveindex="16" complete="Y"></drivesum>
+      <drivestart poss="V,H39,03:15" vh="V" spot="H39" clock="03:15" driveindex="17,110"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa39" context="V,1,10,H39" playid="17,1,111" clock="03:15" text="WILLIAM &amp;&amp; MARY drive start at 03:15." newcontext="V,1,10,H39">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa39" context="V,1,10,H39" playid="17,2,112" type="R" clock="03:15" text="Courtland Marriner rush for 4 yards to the UVa35, clock 03:15." newcontext="V,2,6,H35">
+        <p_ru vh="V" name="Courtland Marriner" gain="4"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="6" spot="UVa35" context="V,2,6,H35" playid="17,3,113" type="P" first="P" clock="03:15" text="R.J. Archer pass complete to D.J. McAulay for 6 yards to the UVa29, 1ST DOWN W&amp;&amp;M, clock 03:15." newcontext="V,1,10,H29">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="D.J. McAulay" gain="6"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa29" context="V,1,10,H29" playid="17,4,114" type="P" clock="03:15" text="R.J. Archer pass incomplete, clock 03:15." newcontext="V,2,10,H29">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="UVa29" context="V,2,10,H29" playid="17,5,115" type="R" clock="02:02" text="Courtland Marriner rush for 2 yards to the UVa27, clock 02:02." newcontext="V,3,8,H27">
+        <p_ru vh="V" name="Courtland Marriner" gain="2"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="8" spot="UVa27" context="V,3,8,H27" playid="17,6,116" type="P" clock="01:30" text="R.J. Archer pass complete to Chase Hill for 7 yards to the UVa20, clock 01:30." newcontext="V,4,1,H20">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Chase Hill" gain="7"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="1" spot="UVa20" context="V,4,1,H20" playid="17,7,117" type="#" clock="01:21" text="Timeout WILLIAM &amp;&amp; MARY, clock 01:21." newcontext="V,4,1,H20">
+        <p_to vh="V" team="WILLIAM &amp;&amp; MARY"></p_to>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="1" spot="UVa20" context="V,4,1,H20" playid="17,8,118" type="E" clock="01:21" text="PENALTY W&amp;&amp;M 5 yards to the UVa25, clock 01:21." newcontext="V,4,6,H25">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H20" yards="5"></p_pn>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="6" spot="UVa25" context="V,4,6,H25" playid="17,9,119" type="F" clock="01:21" text="Brian Pate field goal attempt from 42 MISSED, clock 01:21." newcontext="H,1,10,H32">
+        <p_fg vh="V" name="Brian Pate" distance="42" result="MISSED"></p_fg>
+      </play>
+      <drivesum plays="6" yards="14" top="1:54" driveindex="17" complete="Y"></drivesum>
+      <score V="10" H="14"></score>
+      <drivestart poss="H,V25,01:16" vh="H" spot="V25" clock="01:16" driveindex="18,119"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="W&amp;&amp;M25" context="H,1,10,V25" playid="18,1,120" clock="01:16" text="VIRGINIA drive start at 01:16." newcontext="H,1,10,V25">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="W&amp;&amp;M25" context="H,1,10,V25" playid="18,2,121" type="P" clock="01:16" text="Vic Hall pass incomplete, clock 01:16." newcontext="H,2,10,V25">
+        <p_pa vh="H" qb="Vic Hall" result="INC"></p_pa>
+      </play>
+      <play hasball="UVa" down="2" togo="10" spot="UVa25" context="H,2,10,H25" playid="18,3,122" type="R" first="R" clock="01:16" text="Mikell Simpson rush for 20 yards to the UVa45, 1ST DOWN UVa, clock 01:16." newcontext="H,1,10,H45">
+        <p_ru vh="H" name="Mikell Simpson" gain="20"></p_ru>
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa45" context="H,1,10,H45" playid="18,4,123" type="R" clock="01:16" text="Mikell Simpson rush for 1 yard to the UVa46, clock 01:16." newcontext="H,2,9,H46">
+        <p_ru vh="H" name="Mikell Simpson" gain="1"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="9" spot="UVa46" context="H,2,9,H46" playid="18,5,124" type="#" clock="00:55" text="Timeout VIRGINIA, clock 00:55." newcontext="H,2,9,H46">
+        <p_to vh="H" team="VIRGINIA"></p_to>
+      </play>
+      <play hasball="UVa" down="2" togo="9" spot="UVa46" context="H,2,9,H46" playid="18,6,125" type="R" turnover="F" clock="00:55" text="TEAM rush for no gain to the UVa46, fumble by TEAM recovered by W&amp;&amp;M Jake Trantin at UVa46, clock 00:55." newcontext="V,1,10,H46">
+        <p_ru vh="H" name="TEAM" gain="0"></p_ru>
+        <p_fumb vh="H" name="TEAM" at="H46" frvh="V" frname="Jake Trantin"></p_fumb>
+      </play>
+      <drivesum plays="4" yards="21" top="0:21" driveindex="18" complete="Y"></drivesum>
+      <drivestart poss="V,H46,00:55" vh="V" spot="H46" clock="00:55" driveindex="19,125"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa46" context="V,1,10,H46" playid="19,1,126" clock="00:55" text="WILLIAM &amp;&amp; MARY drive start at 00:55." newcontext="V,1,10,H46">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa46" context="V,1,10,H46" playid="19,2,127" type="P" first="P" clock="00:47" text="R.J. Archer pass complete to Ryan Moody for 13 yards to the UVa33, 1ST DOWN W&amp;&amp;M, clock 00:47." newcontext="V,1,10,H33">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Ryan Moody" gain="13"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa33" context="V,1,10,H33" playid="19,3,128" type="P" clock="00:42" text="R.J. Archer pass incomplete, clock 00:42." newcontext="V,2,10,H33">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="UVa33" context="V,2,10,H33" playid="19,4,129" type="E" clock="00:36" text="PENALTY W&amp;&amp;M 5 yards to the UVa38, clock 00:36." newcontext="V,2,15,H38">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H33" yards="5"></p_pn>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="UVa33" context="V,2,10,H33" playid="19,5,130" type="E" first="E" clock="00:36" text="PENALTY UVa 15 yards to the UVa18, 1ST DOWN W&amp;&amp;M, clock 00:36." newcontext="V,1,10,H18">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="H33" yards="15"></p_pn>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa23" context="V,1,10,H23" playid="19,6,131" type="P" clock="00:36" text="R.J. Archer pass complete to D.J. McAulay for 4 yards to the UVa19, clock 00:36." newcontext="V,2,6,H19">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="D.J. McAulay" gain="4"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="6" spot="UVa19" context="V,2,6,H19" playid="19,7,132" type="R" clock="00:29" text="Jonathan Grimes rush for 2 yards to the UVa17, clock 00:29." newcontext="V,3,4,H17">
+        <p_ru vh="V" name="Jonathan Grimes" gain="2"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="4" spot="UVa17" context="V,3,4,H17" playid="19,8,133" type="#" clock="00:22" text="Timeout WILLIAM &amp;&amp; MARY, clock 00:22." newcontext="V,3,4,H17">
+        <p_to vh="V" team="WILLIAM &amp;&amp; MARY"></p_to>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="4" spot="UVa17" context="V,3,4,H17" playid="19,9,134" type="#" clock="00:22" text="Timeout VIRGINIA, clock 00:22." newcontext="V,3,4,H17">
+        <p_to vh="H" team="VIRGINIA"></p_to>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="4" spot="UVa17" context="V,3,4,H17" playid="19,10,135" type="R" first="R" clock="00:22" text="R.J. Archer rush for 8 yards to the UVa9, 1ST DOWN W&amp;&amp;M, clock 00:22." newcontext="V,1,0,H09">
+        <p_ru vh="V" name="R.J. Archer" gain="8"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="UVa09" context="V,1,0,H09" playid="19,11,136" type="P" clock="00:22" text="R.J. Archer pass incomplete, clock 00:22." newcontext="V,2,0,H09">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="0" spot="UVa09" context="V,2,0,H09" playid="19,12,137" type="#" clock="00:08" text="Timeout VIRGINIA, clock 00:08." newcontext="V,2,0,H09">
+        <p_to vh="H" team="VIRGINIA"></p_to>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="0" spot="UVa09" context="V,2,0,H09" playid="19,13,138" type="P" clock="00:08" text="R.J. Archer pass incomplete, clock 00:08." newcontext="V,3,0,H09">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="0" spot="UVa09" context="V,3,0,H09" playid="19,14,139" type="F" score="Y" clock="00:00" text="Brian Pate field goal attempt from 27 GOOD, clock 00:00." newcontext="V,1,0,V30">
+        <p_fg vh="V" name="Brian Pate" distance="27" result="GOOD" score="Y"></p_fg>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="W&amp;&amp;M30" context="V,1,0,V30" playid="19,15,140" type="#" clock="00:00" text="End of half, clock 00:00." newcontext="V,1,0,V30">
+      </play>
+      <drivesum plays="8" yards="37" top="0:55" driveindex="19" complete="Y"></drivesum>
+      <score V="13" H="14"></score>
+      <score qtr="2" V="13" H="14"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="W&amp;&amp;M">
+        <firstdowns no="6" rush="1" pass="4" penalty="1"></firstdowns>
+        <penalties no="3" yds="15"></penalties>
+        <conversions thirdconv="1" thirdatt="6" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="11:00"></misc>
+        <rush att="9" yds="30" gain="30" loss="0" td="0" long="8"></rush>
+        <pass comp="9" att="17" int="0" yds="86" td="0" long="27" sacks="0" sackyds="0"></pass>
+        <rcv no="9" yds="86" td="0" long="27"></rcv>
+        <punt no="1" yds="43" long="43" blkd="0" tb="0" fc="" plus50="0" inside20="1" avg="43.0"></punt>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <fg made="2" att="5" long="40" blkd="0"></fg>
+        <defense sacks="0" sackyds="0" fr="2" fryds="0" int="1" intyds="0"></defense>
+        <kr no="1" yds="25" td="0" long="25"></kr>
+        <ir no="1" yds="0" td="0" long="0"></ir>
+        <scoring fg="2"></scoring>
+      </qtrsummary>
+      <qtrsummary vh="H" id="UVa">
+        <firstdowns no="7" rush="3" pass="4" penalty="0"></firstdowns>
+        <penalties no="3" yds="35"></penalties>
+        <conversions thirdconv="1" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="2" lost="2"></fumbles>
+        <misc yds="" top="03:48"></misc>
+        <rush att="12" yds="76" gain="76" loss="0" td="1" long="20"></rush>
+        <pass comp="6" att="10" int="1" yds="47" td="0" long="15" sacks="0" sackyds="0"></pass>
+        <rcv no="6" yds="47" td="0" long="15"></rcv>
+        <punt no="1" yds="23" long="23" blkd="0" tb="0" fc="" plus50="0" inside20="0" avg="23.0"></punt>
+        <ko no="1" yds="" ob="" tb=""></ko>
+        <pat kickatt="1" kickmade="1"></pat>
+        <kr no="1" yds="0" td="0" long="0"></kr>
+        <pr no="1" yds="1" td="0" long="1"></pr>
+        <scoring td="1" patkick="1"></scoring>
+      </qtrsummary>
+    </qtr>
+    <qtr number="3" text="3rd">
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="W&amp;&amp;M30" context="V,1,0,V30" playid="19,16,141" type="#" clock="15:00" text="Start of 3rd quarter, clock 15:00, W&amp;&amp;M ball on W&amp;&amp;M30." newcontext="V,1,10,V30">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M30" context="V,1,10,V30" playid="19,17,142" type="K" text="W&amp;&amp;M kickoff to the UVa18, Chris Cook return 15 yards to the UVa33." newcontext="H,1,10,H33">
+        <p_kr vh="H" name="Chris Cook" gain="15"></p_kr>
+      </play>
+      <drivestart poss="H,H33,15:00" vh="H" spot="H33" clock="15:00" driveindex="20,142"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa33" context="H,1,10,H33" playid="20,1,143" clock="15:00" text="VIRGINIA drive start at 15:00." newcontext="H,1,10,H33">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa33" context="H,1,10,H33" playid="20,2,144" type="P" clock="14:54" text="Jameel Sewell pass incomplete, clock 14:54." newcontext="H,2,10,H33">
+        <p_pa vh="H" qb="Jameel Sewell" result="INC"></p_pa>
+      </play>
+      <play hasball="UVa" down="2" togo="10" spot="UVa33" context="H,2,10,H33" playid="20,3,145" type="P" clock="14:54" text="Jameel Sewell pass incomplete, clock 14:54." newcontext="H,3,10,H33">
+        <p_pa vh="H" qb="Jameel Sewell" result="INC"></p_pa>
+      </play>
+      <play hasball="UVa" down="3" togo="10" spot="UVa33" context="H,3,10,H33" playid="20,4,146" type="P" clock="14:47" text="Jameel Sewell pass complete to Mikell Simpson for 2 yards to the UVa35, clock 14:47." newcontext="H,4,8,H35">
+        <p_pa vh="H" qb="Jameel Sewell" result="COMP" rcv="Mikell Simpson" gain="2"></p_pa>
+      </play>
+      <play hasball="UVa" down="4" togo="8" spot="UVa35" context="H,4,8,H35" playid="20,5,147" type="U" text="Jimmy Howell punt 38 yards to the W&amp;&amp;M27." newcontext="V,1,10,V27">
+        <p_pu vh="H" name="Jimmy Howell" gain="38"></p_pu>
+      </play>
+      <drivesum plays="3" yards="2" top="0:40" driveindex="20" complete="Y"></drivesum>
+      <drivestart poss="V,V27,14:20" vh="V" spot="V27" clock="14:20" driveindex="21,147"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M27" context="V,1,10,V27" playid="21,1,148" clock="14:20" text="WILLIAM &amp;&amp; MARY drive start at 14:20." newcontext="V,1,10,V27">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M27" context="V,1,10,V27" playid="21,2,149" type="R" clock="14:04" text="Jonathan Grimes rush for no gain to the W&amp;&amp;M27, clock 14:04." newcontext="V,2,10,V27">
+        <p_ru vh="V" name="Jonathan Grimes" gain="0"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="W&amp;&amp;M27" context="V,2,10,V27" playid="21,3,150" type="P" clock="13:35" text="R.J. Archer pass complete to Chase Hill for 8 yards to the W&amp;&amp;M35, clock 13:35." newcontext="V,3,2,V35">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Chase Hill" gain="8"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="2" spot="W&amp;&amp;M35" context="V,3,2,V35" playid="21,4,151" type="P" first="P" clock="12:55" text="R.J. Archer pass complete to D.J. McAulay for 4 yards to the W&amp;&amp;M39, 1ST DOWN W&amp;&amp;M, clock 12:55." newcontext="V,1,10,V39">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="D.J. McAulay" gain="4"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M39" context="V,1,10,V39" playid="21,5,152" type="R" clock="12:30" text="Jonathan Grimes rush for 2 yards to the W&amp;&amp;M41, clock 12:30." newcontext="V,2,8,V41">
+        <p_ru vh="V" name="Jonathan Grimes" gain="2"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="8" spot="W&amp;&amp;M41" context="V,2,8,V41" playid="21,6,153" type="P" clock="12:00" text="R.J. Archer pass incomplete, clock 12:00." newcontext="V,3,8,V41">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="8" spot="W&amp;&amp;M41" context="V,3,8,V41" playid="21,7,154" type="R" clock="11:44" text="Courtland Marriner rush for 2 yards to the W&amp;&amp;M43, clock 11:44." newcontext="V,4,6,V43">
+        <p_ru vh="V" name="Courtland Marriner" gain="2"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="6" spot="W&amp;&amp;M43" context="V,4,6,V43" playid="21,8,155" type="U" first="E" text="David Miller punt 30 yards to the UVa27, PENALTY W&amp;&amp;M 5 yards to the UVa32, 1ST DOWN UVa." newcontext="H,2,5,H32">
+        <p_pu vh="V" name="David Miller" gain="30"></p_pu>
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H27" yards="5"></p_pn>
+      </play>
+      <drivesum plays="6" yards="16" top="2:36" driveindex="21" complete="Y"></drivesum>
+      <drivestart poss="H,H32,11:44" vh="H" spot="H32" clock="11:44" driveindex="22,155"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa32" context="H,1,10,H32" playid="22,1,156" clock="11:44" text="VIRGINIA drive start at 11:44." newcontext="H,1,10,H32">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa32" context="H,1,10,H32" playid="22,2,157" type="R" clock="11:03" text="Jameel Sewell rush for 6 yards to the UVa38, clock 11:03." newcontext="H,2,4,H38">
+        <p_ru vh="H" name="Jameel Sewell" gain="6"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="4" spot="UVa38" context="H,2,4,H38" playid="22,3,158" type="P" clock="10:30" text="Jameel Sewell pass incomplete, clock 10:30." newcontext="H,3,4,H38">
+        <p_pa vh="H" qb="Jameel Sewell" result="INC"></p_pa>
+      </play>
+      <play hasball="UVa" down="3" togo="4" spot="UVa38" context="H,3,4,H38" playid="22,4,159" type="P" clock="10:27" text="Jameel Sewell pass incomplete, clock 10:27." newcontext="H,4,4,H38">
+        <p_pa vh="H" qb="Jameel Sewell" result="INC"></p_pa>
+      </play>
+      <play hasball="UVa" down="4" togo="4" spot="UVa38" context="H,4,4,H38" playid="22,5,160" type="U" text="Jimmy Howell punt 38 yards to the W&amp;&amp;M24." newcontext="V,1,10,V24">
+        <p_pu vh="H" name="Jimmy Howell" gain="38"></p_pu>
+      </play>
+      <drivesum plays="3" yards="11" top="1:20" driveindex="22" complete="Y"></drivesum>
+      <drivestart poss="V,V24,10:24" vh="V" spot="V24" clock="10:24" driveindex="23,160"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M24" context="V,1,10,V24" playid="23,1,161" clock="10:24" text="WILLIAM &amp;&amp; MARY drive start at 10:24." newcontext="V,1,10,V24">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M24" context="V,1,10,V24" playid="23,2,162" type="P" clock="10:11" text="R.J. Archer pass incomplete, clock 10:11." newcontext="V,2,10,V24">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="W&amp;&amp;M24" context="V,2,10,V24" playid="23,3,163" type="P" clock="10:06" text="R.J. Archer pass complete to Cameron Dohse for 4 yards to the W&amp;&amp;M28, clock 10:06." newcontext="V,3,6,V28">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Cameron Dohse" gain="4"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="6" spot="W&amp;&amp;M28" context="V,3,6,V28" playid="23,4,164" type="E" first="E" clock="09:40" text="PENALTY UVa 15 yards to the W&amp;&amp;M43, 1ST DOWN W&amp;&amp;M, clock 09:40." newcontext="V,1,10,V43">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V28" yards="15"></p_pn>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M43" context="V,1,10,V43" playid="23,5,165" type="R" clock="09:40" text="Jonathan Grimes rush for 3 yards to the W&amp;&amp;M46, clock 09:40." newcontext="V,2,7,V46">
+        <p_ru vh="V" name="Jonathan Grimes" gain="3"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="7" spot="W&amp;&amp;M46" context="V,2,7,V46" playid="23,6,166" type="P" clock="09:00" text="R.J. Archer pass incomplete, clock 09:00." newcontext="V,3,7,V46">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="7" spot="W&amp;&amp;M46" context="V,3,7,V46" playid="23,7,167" type="R" clock="08:37" text="Jonathan Grimes rush for no gain to the W&amp;&amp;M46, clock 08:37." newcontext="V,4,7,V46">
+        <p_ru vh="V" name="Jonathan Grimes" gain="0"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="7" spot="W&amp;&amp;M46" context="V,4,7,V46" playid="23,8,168" type="U" turnover="F" text="David Miller punt 45 yards to the UVa9, fumble by Vic Hall recovered by W&amp;&amp;M Dante Cook at UVa9." newcontext="V,1,0,H09">
+        <p_pu vh="V" name="David Miller" gain="45" in20="Y"></p_pu>
+        <p_fumb vh="H" name="Vic Hall" at="H46" frvh="V" frname="Dante Cook"></p_fumb>
+      </play>
+      <drivesum plays="5" yards="22" top="2:04" driveindex="23" complete="Y"></drivesum>
+      <drivestart poss="V,H09,08:20" vh="V" spot="H09" clock="08:20" driveindex="25,168"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="UVa09" context="V,1,0,H09" playid="25,1,169" clock="08:20" text="WILLIAM &amp;&amp; MARY drive start at 08:20." newcontext="V,1,0,H09">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="UVa09" context="V,1,0,H09" playid="25,2,170" type="R" clock="07:51" text="Jonathan Grimes rush for 3 yards to the UVa6, clock 07:51." newcontext="V,2,0,H06">
+        <p_ru vh="V" name="Jonathan Grimes" gain="3"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="0" spot="UVa06" context="V,2,0,H06" playid="25,3,171" type="R" clock="07:51" text="Courtland Marriner rush for 2 yards to the UVa4, clock 07:51." newcontext="V,3,0,H04">
+        <p_ru vh="V" name="Courtland Marriner" gain="2"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="0" spot="UVa04" context="V,3,0,H04" playid="25,4,172" type="R" clock="06:40" text="R.J. Archer rush for 1 yard to the UVa3, clock 06:40." newcontext="V,4,0,H03">
+        <p_ru vh="V" name="R.J. Archer" gain="1"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="0" spot="UVa03" context="V,4,0,H03" playid="25,5,173" type="F" score="Y" clock="05:35" text="Brian Pate field goal attempt from 20 GOOD, clock 05:35." newcontext="V,1,0,V30">
+        <p_fg vh="V" name="Brian Pate" distance="20" result="GOOD" score="Y"></p_fg>
+      </play>
+      <drivesum plays="4" yards="6" top="2:45" driveindex="25" complete="Y"></drivesum>
+      <score V="16" H="14"></score>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="W&amp;&amp;M30" context="V,1,0,V30" playid="25,6,174" type="K" text="W&amp;&amp;M kickoff to the UVa28." newcontext="H,1,10,H28">
+      </play>
+      <drivestart poss="H,H28,05:35" vh="H" spot="H28" clock="05:35" driveindex="26,174"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa28" context="H,1,10,H28" playid="26,1,175" clock="05:35" text="VIRGINIA drive start at 05:35." newcontext="H,1,10,H28">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa28" context="H,1,10,H28" playid="26,2,176" type="R" clock="05:25" text="Jameel Sewell rush for 6 yards to the UVa34, clock 05:25." newcontext="H,2,4,H34">
+        <p_ru vh="H" name="Jameel Sewell" gain="6"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="4" spot="UVa34" context="H,2,4,H34" playid="26,3,177" type="R" first="R" clock="05:00" text="Jameel Sewell rush for 11 yards to the UVa45, 1ST DOWN UVa, clock 05:00." newcontext="H,1,10,H45">
+        <p_ru vh="H" name="Jameel Sewell" gain="11"></p_ru>
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa45" context="H,1,10,H45" playid="26,4,178" type="R" clock="05:00" text="Dominique Wallace rush for 3 yards to the UVa48, clock 05:00." newcontext="H,2,7,H48">
+        <p_ru vh="H" name="Dominique Wallace" gain="3"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="7" spot="UVa48" context="H,2,7,H48" playid="26,5,179" type="R" clock="05:00" text="Jameel Sewell rush for 4 yards to the W&amp;&amp;M48, clock 05:00." newcontext="H,3,3,V48">
+        <p_ru vh="H" name="Jameel Sewell" gain="4"></p_ru>
+      </play>
+      <play hasball="UVa" down="3" togo="3" spot="W&amp;&amp;M48" context="H,3,3,V48" playid="26,6,180" type="R" clock="03:45" text="Jameel Sewell rush for loss of 2 yards to the 50 yardline, clock 03:45." newcontext="H,4,5,H50">
+        <p_ru vh="H" name="Jameel Sewell" gain="-2"></p_ru>
+      </play>
+      <play hasball="UVa" down="4" togo="5" spot="UVa50" context="H,4,5,H50" playid="26,7,181" type="U" text="Jimmy Howell punt 32 yards to the W&amp;&amp;M18." newcontext="V,1,10,V18">
+        <p_pu vh="H" name="Jimmy Howell" gain="32" in20="Y"></p_pu>
+      </play>
+      <drivesum plays="5" yards="22" top="2:25" driveindex="26" complete="Y"></drivesum>
+      <drivestart poss="V,V18,03:10" vh="V" spot="V18" clock="03:10" driveindex="27,181"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M18" context="V,1,10,V18" playid="27,1,182" clock="03:10" text="WILLIAM &amp;&amp; MARY drive start at 03:10." newcontext="V,1,10,V18">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M18" context="V,1,10,V18" playid="27,2,183" type="P" clock="02:52" text="R.J. Archer pass incomplete, clock 02:52." newcontext="V,2,10,V18">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="W&amp;&amp;M18" context="V,2,10,V18" playid="27,3,184" type="R" clock="02:18" text="Terrence Riggins rush for 4 yards to the W&amp;&amp;M22, clock 02:18." newcontext="V,3,6,V22">
+        <p_ru vh="V" name="Terrence Riggins" gain="4"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="6" spot="W&amp;&amp;M22" context="V,3,6,V22" playid="27,4,185" type="E" clock="02:12" text="PENALTY UVa 5 yards to the W&amp;&amp;M27, clock 02:12." newcontext="V,3,1,V27">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V22" yards="5"></p_pn>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="1" spot="W&amp;&amp;M27" context="V,3,1,V27" playid="27,5,186" type="P" clock="02:12" text="R.J. Archer pass complete to Courtland Marriner for loss of 2 yards to the W&amp;&amp;M25, clock 02:12." newcontext="V,4,3,V25">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Courtland Marriner" gain="-2"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="3" spot="W&amp;&amp;M25" context="V,4,3,V25" playid="27,6,187" type="E" first="E" clock="02:12" text="PENALTY UVa 5 yards to the W&amp;&amp;M30, 1ST DOWN W&amp;&amp;M, clock 02:12." newcontext="V,1,10,V30">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V25" yards="5"></p_pn>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M30" context="V,1,10,V30" playid="27,7,188" type="E" clock="01:24" text="PENALTY W&amp;&amp;M 10 yards to the W&amp;&amp;M20, clock 01:24." newcontext="V,1,20,V20">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V30" yards="10"></p_pn>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="20" spot="W&amp;&amp;M20" context="V,1,20,V20" playid="27,8,189" type="E" clock="01:10" text="PENALTY W&amp;&amp;M 10 yards to the W&amp;&amp;M10, clock 01:10." newcontext="V,1,30,V10">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="V20" yards="10"></p_pn>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="29" spot="W&amp;&amp;M11" context="V,1,29,V11" playid="27,9,190" type="R" clock="01:10" text="Jonathan Grimes rush for 2 yards to the W&amp;&amp;M13, clock 01:10." newcontext="V,2,27,V13">
+        <p_ru vh="V" name="Jonathan Grimes" gain="2"></p_ru>
+      </play>
+      <score qtr="3" V="16" H="14"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="W&amp;&amp;M">
+        <firstdowns no="3" rush="0" pass="1" penalty="2"></firstdowns>
+        <penalties no="3" yds="25"></penalties>
+        <conversions thirdconv="1" thirdatt="5" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="10:35"></misc>
+        <rush att="10" yds="19" gain="19" loss="0" td="0" long="4"></rush>
+        <pass comp="4" att="8" int="0" yds="14" td="0" long="8" sacks="0" sackyds="0"></pass>
+        <rcv no="4" yds="14" td="0" long="8"></rcv>
+        <punt no="2" yds="75" long="45" blkd="0" tb="0" fc="" plus50="0" inside20="1" avg="37.5"></punt>
+        <ko no="2" yds="" ob="" tb=""></ko>
+        <fg made="1" att="1" long="20" blkd="0"></fg>
+        <defense sacks="0" sackyds="0" fr="1" fryds="0"></defense>
+        <scoring fg="1"></scoring>
+      </qtrsummary>
+      <qtrsummary vh="H" id="UVa">
+        <firstdowns no="2" rush="1" pass="0" penalty="1"></firstdowns>
+        <penalties no="3" yds="25"></penalties>
+        <conversions thirdconv="0" thirdatt="4" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="1" lost="1"></fumbles>
+        <misc yds="" top="04:25"></misc>
+        <rush att="6" yds="28" gain="30" loss="2" td="0" long="11"></rush>
+        <pass comp="1" att="5" int="0" yds="2" td="0" long="2" sacks="0" sackyds="0"></pass>
+        <rcv no="1" yds="2" td="0" long="2"></rcv>
+        <punt no="3" yds="108" long="38" blkd="0" tb="0" fc="" plus50="0" inside20="1" avg="36.0"></punt>
+        <kr no="2" yds="15" td="0" long="15"></kr>
+      </qtrsummary>
+    </qtr>
+    <qtr number="4" text="4th">
+      <play hasball="W&amp;&amp;M" down="2" togo="27" spot="W&amp;&amp;M13" context="V,2,27,V13" playid="27,10,191" type="#" clock="15:00" text="Start of 4th quarter, clock 15:00." newcontext="V,2,27,V13">
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="30" spot="W&amp;&amp;M14" context="V,2,30,V14" playid="27,11,192" type="P" turnover="I" text="R.J. Archer pass intercepted by Chris Cook at the W&amp;&amp;M14, Chris Cook return 0 yards to the W&amp;&amp;M14." newcontext="H,1,10,V14">
+        <p_pa vh="V" qb="R.J. Archer" result="INT"></p_pa>
+        <p_ir vh="H" name="Chris Cook" at="V14" gain="0"></p_ir>
+      </play>
+      <drivesum plays="5" yards="-6" top="3:10" driveindex="27" complete="Y"></drivesum>
+      <drivestart poss="H,H50,15:00" vh="H" spot="H50" clock="15:00" driveindex="28,192"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa50" context="H,1,10,H50" playid="28,1,193" clock="15:00" text="VIRGINIA drive start at 15:00." newcontext="H,1,10,H50">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa50" context="H,1,10,H50" playid="28,2,194" type="R" clock="15:00" text="Jameel Sewell rush for no gain to the 50 yardline, clock 15:00." newcontext="H,2,10,H50">
+        <p_ru vh="H" name="Jameel Sewell" gain="0"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="10" spot="UVa50" context="H,2,10,H50" playid="28,3,195" type="R" clock="14:40" text="Jameel Sewell rush for loss of 2 yards to the UVa48, clock 14:40." newcontext="H,3,12,H48">
+        <p_ru vh="H" name="Jameel Sewell" gain="-2"></p_ru>
+      </play>
+      <play hasball="UVa" down="3" togo="12" spot="UVa49" context="H,3,12,H49" playid="28,4,196" type="P" clock="14:00" text="Jameel Sewell pass complete to Tim Smith for 4 yards to the W&amp;&amp;M47, clock 14:00." newcontext="H,4,8,V47">
+        <p_pa vh="H" qb="Jameel Sewell" result="COMP" rcv="Tim Smith" gain="4"></p_pa>
+      </play>
+      <play hasball="UVa" down="4" togo="8" spot="W&amp;&amp;M47" context="H,4,8,V47" playid="28,5,197" type="E" clock="13:50" text="PENALTY UVa 5 yards to the UVa48, clock 13:50." newcontext="H,4,13,H48">
+        <p_pn vh="H" code="" type="" result="ACCEPT" at="V47" yards="5"></p_pn>
+      </play>
+      <play hasball="UVa" down="4" togo="13" spot="UVa48" context="H,4,13,H48" playid="28,6,198" type="U" text="Jimmy Howell punt 40 yards to the W&amp;&amp;M12." newcontext="V,1,10,V12">
+        <p_pu vh="H" name="Jimmy Howell" gain="40" in20="Y"></p_pu>
+      </play>
+      <drivesum plays="3" yards="-3" top="1:42" driveindex="28" complete="Y"></drivesum>
+      <drivestart poss="V,V12,13:18" vh="V" spot="V12" clock="13:18" driveindex="29,198"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M12" context="V,1,10,V12" playid="29,1,199" clock="13:18" text="WILLIAM &amp;&amp; MARY drive start at 13:18." newcontext="V,1,10,V12">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M12" context="V,1,10,V12" playid="29,2,200" type="R" clock="13:11" text="Jonathan Grimes rush for 2 yards to the W&amp;&amp;M14, clock 13:11." newcontext="V,2,8,V14">
+        <p_ru vh="V" name="Jonathan Grimes" gain="2"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="8" spot="W&amp;&amp;M14" context="V,2,8,V14" playid="29,3,201" type="R" clock="13:11" text="Jonathan Grimes rush for 3 yards to the W&amp;&amp;M17, clock 13:11." newcontext="V,3,5,V17">
+        <p_ru vh="V" name="Jonathan Grimes" gain="3"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="5" spot="W&amp;&amp;M17" context="V,3,5,V17" playid="29,4,202" type="R" clock="13:11" text="R.J. Archer rush for loss of 4 yards to the W&amp;&amp;M13, clock 13:11." newcontext="V,4,9,V13">
+        <p_ru vh="V" name="R.J. Archer" gain="-4"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="9" spot="W&amp;&amp;M13" context="V,4,9,V13" playid="29,5,203" type="U" text="David Miller punt 57 yards to the UVa30, Vic Hall return 10 yards to the UVa40." newcontext="H,1,10,H40">
+        <p_pu vh="V" name="David Miller" gain="57"></p_pu>
+        <p_pr vh="H" name="Vic Hall" gain="10"></p_pr>
+      </play>
+      <drivesum plays="3" yards="1" top="0:07" driveindex="29" complete="Y"></drivesum>
+      <drivestart poss="H,H40,13:11" vh="H" spot="H40" clock="13:11" driveindex="30,203"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa40" context="H,1,10,H40" playid="30,1,204" clock="13:11" text="VIRGINIA drive start at 13:11." newcontext="H,1,10,H40">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa40" context="H,1,10,H40" playid="30,2,205" type="P" clock="13:11" text="Marc Verica pass complete to Mikell Simpson for 4 yards to the UVa44, clock 13:11." newcontext="H,2,6,H44">
+        <p_pa vh="H" qb="Marc Verica" result="COMP" rcv="Mikell Simpson" gain="4"></p_pa>
+      </play>
+      <play hasball="UVa" down="2" togo="6" spot="UVa44" context="H,2,6,H44" playid="30,3,206" type="R" clock="11:15" text="Marc Verica rush for 5 yards to the UVa49, clock 11:15." newcontext="H,3,1,H49">
+        <p_ru vh="H" name="Marc Verica" gain="5"></p_ru>
+      </play>
+      <play hasball="UVa" down="3" togo="1" spot="UVa49" context="H,3,1,H49" playid="30,4,207" type="R" clock="10:55" text="Marc Verica rush for no gain to the UVa49, clock 10:55." newcontext="H,4,1,H49">
+        <p_ru vh="H" name="Marc Verica" gain="0"></p_ru>
+      </play>
+      <play hasball="UVa" down="4" togo="1" spot="UVa49" context="H,4,1,H49" playid="30,5,208" type="R" clock="10:00" text="Marc Verica rush for loss of 1 yard to the UVa48, clock 10:00." newcontext="V,1,10,H48">
+        <p_ru vh="H" name="Marc Verica" gain="-1"></p_ru>
+      </play>
+      <drivesum plays="4" yards="8" top="3:11" driveindex="30" complete="Y"></drivesum>
+      <drivestart poss="V,H48,09:48" vh="V" spot="H48" clock="09:48" driveindex="31,208"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa48" context="V,1,10,H48" playid="31,1,209" clock="09:48" text="WILLIAM &amp;&amp; MARY drive start at 09:48." newcontext="V,1,10,H48">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa48" context="V,1,10,H48" playid="31,2,210" type="P" clock="09:48" text="R.J. Archer pass incomplete, clock 09:48." newcontext="V,2,10,H48">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="10" spot="UVa48" context="V,2,10,H48" playid="31,3,211" type="E" clock="09:39" text="PENALTY W&amp;&amp;M 10 yards to the W&amp;&amp;M42, clock 09:39." newcontext="V,2,20,V42">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H48" yards="10"></p_pn>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="20" spot="W&amp;&amp;M42" context="V,2,20,V42" playid="31,4,212" type="P" clock="09:39" text="R.J. Archer pass complete to Jonathan Grimes for 2 yards to the W&amp;&amp;M44, clock 09:39." newcontext="V,3,18,V44">
+        <p_pa vh="V" qb="R.J. Archer" result="COMP" rcv="Jonathan Grimes" gain="2"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="18" spot="W&amp;&amp;M44" context="V,3,18,V44" playid="31,5,213" type="R" clock="09:20" text="R.J. Archer rush for 3 yards to the W&amp;&amp;M47, clock 09:20." newcontext="V,4,15,V47">
+        <p_ru vh="V" name="R.J. Archer" gain="3"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="15" spot="W&amp;&amp;M47" context="V,4,15,V47" playid="31,6,214" type="U" text="David Miller punt 53 yards to the UVa0, touchback." newcontext="H,1,10,H20">
+        <p_pu vh="V" name="David Miller" gain="53" tb="Y"></p_pu>
+      </play>
+      <drivesum plays="3" yards="-5" top="0:44" driveindex="31" complete="Y"></drivesum>
+      <drivestart poss="H,H20,09:04" vh="H" spot="H20" clock="09:04" driveindex="32,214"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa20" context="H,1,10,H20" playid="32,1,215" clock="09:04" text="VIRGINIA drive start at 09:04." newcontext="H,1,10,H20">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa20" context="H,1,10,H20" playid="32,2,216" type="P" clock="08:43" text="Marc Verica pass complete to Kris Burd for 5 yards to the UVa25, clock 08:43." newcontext="H,2,5,H25">
+        <p_pa vh="H" qb="Marc Verica" result="COMP" rcv="Kris Burd" gain="5"></p_pa>
+      </play>
+      <play hasball="UVa" down="2" togo="5" spot="UVa25" context="H,2,5,H25" playid="32,3,217" type="R" clock="08:43" text="Marc Verica rush for loss of 1 yard to the UVa24, clock 08:43." newcontext="H,3,6,H24">
+        <p_ru vh="H" name="Marc Verica" gain="-1"></p_ru>
+      </play>
+      <play hasball="UVa" down="3" togo="6" spot="UVa24" context="H,3,6,H24" playid="32,4,218" type="P" first="P" clock="07:48" text="Marc Verica pass complete to Jared Green for 33 yards to the W&amp;&amp;M43, 1ST DOWN UVa, clock 07:48." newcontext="H,1,10,V43">
+        <p_pa vh="H" qb="Marc Verica" result="COMP" rcv="Jared Green" gain="33"></p_pa>
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="W&amp;&amp;M43" context="H,1,10,V43" playid="32,5,219" type="P" clock="07:48" text="Marc Verica pass complete to Jared Green for 5 yards to the W&amp;&amp;M38, clock 07:48." newcontext="H,2,5,V38">
+        <p_pa vh="H" qb="Marc Verica" result="COMP" rcv="Jared Green" gain="5"></p_pa>
+      </play>
+      <play hasball="UVa" down="2" togo="5" spot="W&amp;&amp;M38" context="H,2,5,V38" playid="32,6,220" type="P" clock="06:50" text="Marc Verica pass complete to Mikell Simpson for 4 yards to the W&amp;&amp;M34, clock 06:50." newcontext="H,3,1,V34">
+        <p_pa vh="H" qb="Marc Verica" result="COMP" rcv="Mikell Simpson" gain="4"></p_pa>
+      </play>
+      <play hasball="UVa" down="3" togo="1" spot="W&amp;&amp;M34" context="H,3,1,V34" playid="32,7,221" type="R" turnover="F" first="R" clock="06:50" text="Marc Verica rush for 1 yard to the W&amp;&amp;M33, 1ST DOWN UVa, fumble by Marc Verica recovered by W&amp;&amp;M Evan Francks at UVa36, clock 06:50." newcontext="V,1,10,H36">
+        <p_ru vh="H" name="Marc Verica" gain="1"></p_ru>
+        <p_fumb vh="H" name="Marc Verica" at="V34" frvh="V" frname="Evan Francks"></p_fumb>
+      </play>
+      <drivesum plays="6" yards="47" top="3:09" driveindex="32" complete="Y"></drivesum>
+      <drivestart poss="V,H36,05:55" vh="V" spot="H36" clock="05:55" driveindex="33,221"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa36" context="V,1,10,H36" playid="33,1,222" clock="05:55" text="WILLIAM &amp;&amp; MARY drive start at 05:55." newcontext="V,1,10,H36">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa36" context="V,1,10,H36" playid="33,2,223" type="R" first="R" clock="05:46" text="R.J. Archer rush for 23 yards to the UVa13, 1ST DOWN W&amp;&amp;M, clock 05:46." newcontext="V,1,10,H13">
+        <p_ru vh="V" name="R.J. Archer" gain="23"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="UVa13" context="V,1,10,H13" playid="33,3,224" type="R" clock="05:30" text="Jonathan Grimes rush for 2 yards to the UVa11, clock 05:30." newcontext="V,2,8,H11">
+        <p_ru vh="V" name="Jonathan Grimes" gain="2"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="8" spot="UVa11" context="V,2,8,H11" playid="33,4,225" type="P" clock="05:00" text="R.J. Archer pass incomplete, clock 05:00." newcontext="V,3,8,H11">
+        <p_pa vh="V" qb="R.J. Archer" result="INC"></p_pa>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="8" spot="UVa11" context="V,3,8,H11" playid="33,5,226" type="R" clock="04:39" text="Jonathan Grimes rush for 3 yards to the UVa8, clock 04:39." newcontext="V,4,5,H08">
+        <p_ru vh="V" name="Jonathan Grimes" gain="3"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="4" togo="5" spot="UVa08" context="V,4,5,H08" playid="33,6,227" type="F" score="Y" clock="03:50" text="Brian Pate field goal attempt from 25 GOOD, clock 03:50." newcontext="V,1,0,V30">
+        <p_fg vh="V" name="Brian Pate" distance="25" result="GOOD" score="Y"></p_fg>
+      </play>
+      <drivesum plays="5" yards="28" top="2:05" driveindex="33" complete="Y"></drivesum>
+      <score V="19" H="14"></score>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="W&amp;&amp;M30" context="V,1,0,V30" playid="33,7,228" type="K" text="W&amp;&amp;M kickoff to the UVa40." newcontext="H,1,10,H40">
+      </play>
+      <drivestart poss="H,H40,03:50" vh="H" spot="H40" clock="03:50" driveindex="34,228"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa40" context="H,1,10,H40" playid="34,1,229" clock="03:50" text="VIRGINIA drive start at 03:50." newcontext="H,1,10,H40">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa40" context="H,1,10,H40" playid="34,2,230" type="P" clock="03:45" text="Jameel Sewell pass complete to Javaris Brown for 4 yards to the UVa44, clock 03:45." newcontext="H,2,6,H44">
+        <p_pa vh="H" qb="Jameel Sewell" result="COMP" rcv="Javaris Brown" gain="4"></p_pa>
+      </play>
+      <play hasball="UVa" down="2" togo="6" spot="UVa44" context="H,2,6,H44" playid="34,3,231" type="R" clock="03:20" text="Jameel Sewell rush for 1 yard to the UVa45, clock 03:20." newcontext="H,3,5,H45">
+        <p_ru vh="H" name="Jameel Sewell" gain="1"></p_ru>
+      </play>
+      <play hasball="UVa" down="3" togo="5" spot="UVa45" context="H,3,5,H45" playid="34,4,232" type="P" turnover="I" score="Y" text="Jameel Sewell pass intercepted by B.W. Webb at the UVa45, B.W. Webb return 50 yards to the UVa0, TOUCHDOWN." newcontext="V,1,0,H03">
+        <p_pa vh="H" qb="Jameel Sewell" result="INT"></p_pa>
+        <p_ir vh="V" name="B.W. Webb" at="H45" gain="50"></p_ir>
+      </play>
+      <drivesum plays="3" yards="5" top="0:30" driveindex="34" complete="Y"></drivesum>
+      <drivestart poss="V,H00,02:39" vh="V" spot="H00" clock="02:39" driveindex="35,232"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="UVa00" context="V,1,0,H00" playid="35,1,233" clock="02:39" text="WILLIAM &amp;&amp; MARY drive start at 02:39." newcontext="V,1,0,H00">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="UVa03" context="V,1,0,H03" playid="35,2,234" type="X" score="Y" text="Brian Pate kick attempt good." newcontext="V,1,0,V30">
+        <p_pat vh="V" name="Brian Pate" qb="Brian Pate" type="K" result="GOOD" score="Y"></p_pat>
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="UVa00" context="V,1,0,H00" playid="35,3,235" type="E" clock="02:39" text="PENALTY W&amp;&amp;M 15 yards to the UVa15, clock 02:39." newcontext="V,1,0,H15">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H00" yards="15"></p_pn>
+      </play>
+      <drivesum plays="0" yards="-15" top="0:00" driveindex="35" complete="Y"></drivesum>
+      <score V="26" H="14"></score>
+      <play hasball="W&amp;&amp;M" down="1" togo="0" spot="UVa15" context="V,1,0,H15" playid="35,4,236" type="K" text="W&amp;&amp;M kickoff to the UVa39, Vic Hall return 4 yards to the UVa43." newcontext="H,1,10,H43">
+        <p_kr vh="H" name="Vic Hall" gain="4"></p_kr>
+      </play>
+      <drivestart poss="H,H48,02:39" vh="H" spot="H48" clock="02:39" driveindex="36,236"></drivestart>
+      <play hasball="UVa" down="1" togo="10" spot="UVa48" context="H,1,10,H48" playid="36,1,237" clock="02:39" text="VIRGINIA drive start at 02:39." newcontext="H,1,10,H48">
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="UVa43" context="H,1,10,H43" playid="36,2,238" type="E" clock="02:33" text="PENALTY W&amp;&amp;M 5 yards to the UVa48, clock 02:33." newcontext="H,1,5,H48">
+        <p_pn vh="V" code="" type="" result="ACCEPT" at="H43" yards="5"></p_pn>
+      </play>
+      <play hasball="UVa" down="1" togo="5" spot="UVa48" context="H,1,5,H48" playid="36,3,239" type="R" clock="02:25" text="Marc Verica rush for 4 yards to the W&amp;&amp;M48, clock 02:25." newcontext="H,2,1,V48">
+        <p_ru vh="H" name="Marc Verica" gain="4"></p_ru>
+      </play>
+      <play hasball="UVa" down="2" togo="1" spot="W&amp;&amp;M48" context="H,2,1,V48" playid="36,4,240" type="P" clock="02:05" text="Marc Verica pass incomplete, clock 02:05." newcontext="H,3,1,V48">
+        <p_pa vh="H" qb="Marc Verica" result="INC"></p_pa>
+      </play>
+      <play hasball="UVa" down="3" togo="1" spot="W&amp;&amp;M48" context="H,3,1,V48" playid="36,5,241" type="P" first="P" clock="01:54" text="Marc Verica pass complete to Mikell Simpson for 11 yards to the W&amp;&amp;M37, 1ST DOWN UVa, clock 01:54." newcontext="H,1,10,V37">
+        <p_pa vh="H" qb="Marc Verica" result="COMP" rcv="Mikell Simpson" gain="11"></p_pa>
+      </play>
+      <play hasball="UVa" down="1" togo="10" spot="W&amp;&amp;M37" context="H,1,10,V37" playid="36,6,242" type="P" clock="01:54" text="Marc Verica pass complete to Mikell Simpson for 2 yards to the W&amp;&amp;M35, clock 01:54." newcontext="H,2,8,V35">
+        <p_pa vh="H" qb="Marc Verica" result="COMP" rcv="Mikell Simpson" gain="2"></p_pa>
+      </play>
+      <play hasball="UVa" down="2" togo="8" spot="W&amp;&amp;M35" context="H,2,8,V35" playid="36,7,243" type="#" clock="01:35" text="Timeout VIRGINIA, clock 01:35." newcontext="H,2,8,V35">
+        <p_to vh="H" team="VIRGINIA"></p_to>
+      </play>
+      <play hasball="UVa" down="2" togo="8" spot="W&amp;&amp;M35" context="H,2,8,V35" playid="36,8,244" type="P" clock="01:35" text="Marc Verica pass incomplete, clock 01:35." newcontext="H,3,8,V35">
+        <p_pa vh="H" qb="Marc Verica" result="INC"></p_pa>
+      </play>
+      <play hasball="UVa" down="3" togo="8" spot="W&amp;&amp;M35" context="H,3,8,V35" playid="36,9,245" type="P" clock="01:30" text="Marc Verica pass incomplete, clock 01:30." newcontext="H,4,8,V35">
+        <p_pa vh="H" qb="Marc Verica" result="INC"></p_pa>
+      </play>
+      <play hasball="UVa" down="4" togo="8" spot="W&amp;&amp;M35" context="H,4,8,V35" playid="36,10,246" type="P" clock="01:27" text="Marc Verica pass incomplete, clock 01:27." newcontext="V,1,10,V35">
+        <p_pa vh="H" qb="Marc Verica" result="INC"></p_pa>
+      </play>
+      <drivesum plays="7" yards="22" top="1:12" driveindex="36" complete="Y"></drivesum>
+      <drivestart poss="V,V35,01:20" vh="V" spot="V35" clock="01:20" driveindex="37,246"></drivestart>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M35" context="V,1,10,V35" playid="37,1,247" clock="01:20" text="WILLIAM &amp;&amp; MARY drive start at 01:20." newcontext="V,1,10,V35">
+      </play>
+      <play hasball="W&amp;&amp;M" down="1" togo="10" spot="W&amp;&amp;M35" context="V,1,10,V35" playid="37,2,248" type="R" clock="01:20" text="Jonathan Grimes rush for 9 yards to the W&amp;&amp;M44, clock 01:20." newcontext="V,2,1,V44">
+        <p_ru vh="V" name="Jonathan Grimes" gain="9"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="2" togo="1" spot="W&amp;&amp;M44" context="V,2,1,V44" playid="37,3,249" type="R" clock="01:00" text="Jonathan Grimes rush for no gain to the W&amp;&amp;M44, clock 01:00." newcontext="V,3,1,V44">
+        <p_ru vh="V" name="Jonathan Grimes" gain="0"></p_ru>
+      </play>
+      <play hasball="W&amp;&amp;M" down="3" togo="1" spot="W&amp;&amp;M44" context="V,3,1,V44" playid="37,4,250" type="#" clock="00:00" text="End of game, clock 00:00." newcontext="V,3,1,V44">
+      </play>
+      <drivesum plays="2" yards="9" top="1:20" driveindex="37" complete="Y"></drivesum>
+      <play context="" playid="" clock="" text="William and Mary defeats Virginia by a score of 26 to 14."></play>
+      <score final="Y" V="26" H="14"></score>
+      <endqtr></endqtr>
+      <qtrsummary vh="V" id="W&amp;&amp;M">
+        <firstdowns no="1" rush="1" pass="0" penalty="0"></firstdowns>
+        <penalties no="3" yds="30"></penalties>
+        <conversions thirdconv="0" thirdatt="3" fourthconv="0" fourthatt="0"></conversions>
+        <fumbles no="0" lost="0"></fumbles>
+        <misc yds="" top="04:16"></misc>
+        <rush att="9" yds="41" gain="45" loss="4" td="0" long="23"></rush>
+        <pass comp="1" att="4" int="1" yds="2" td="0" long="2" sacks="0" sackyds="0"></pass>
+        <rcv no="1" yds="2" td="0" long="2"></rcv>
+        <punt no="2" yds="110" long="57" blkd="0" tb="1" fc="" plus50="2" inside20="0" avg="55.0"></punt>
+        <ko no="2" yds="" ob="" tb=""></ko>
+        <fg made="1" att="1" long="25" blkd="0"></fg>
+        <pat kickatt="1" kickmade="1"></pat>
+        <defense sacks="0" sackyds="0" fr="1" fryds="0" int="1" intyds="50"></defense>
+        <ir no="1" yds="50" td="1" long="50"></ir>
+        <scoring td="1" fg="1" patkick="1"></scoring>
+      </qtrsummary>
+      <qtrsummary vh="H" id="UVa">
+        <firstdowns no="3" rush="1" pass="2" penalty="0"></firstdowns>
+        <penalties no="1" yds="5"></penalties>
+        <conversions thirdconv="2" thirdatt="7" fourthconv="0" fourthatt="2"></conversions>
+        <fumbles no="1" lost="1"></fumbles>
+        <misc yds="" top="09:44"></misc>
+        <rush att="9" yds="7" gain="11" loss="4" td="0" long="5"></rush>
+        <pass comp="9" att="14" int="1" yds="72" td="0" long="33" sacks="0" sackyds="0"></pass>
+        <rcv no="9" yds="72" td="0" long="33"></rcv>
+        <punt no="1" yds="40" long="40" blkd="0" tb="0" fc="" plus50="0" inside20="1" avg="40.0"></punt>
+        <defense sacks="0" sackyds="0" int="1" intyds="0"></defense>
+        <kr no="2" yds="4" td="0" long="4"></kr>
+        <pr no="1" yds="10" td="0" long="10"></pr>
+        <ir no="1" yds="0" td="0" long="0"></ir>
+      </qtrsummary>
+    </qtr>
+    <downtogo hasball="V" id="W&amp;&amp;M" down="3" togo="1" spot="W&amp;&amp;M44" qtr="F" clock="00:00" lastplay="End of game, clock 00:00." final="Y" halftime="N" vtor="3" htor="2" dtgtext="Game Over" ldtext="Drive started: 01:20, 4th Qtr"></downtogo>
+  </plays>
