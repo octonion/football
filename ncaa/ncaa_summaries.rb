@@ -7,7 +7,7 @@ require 'open-uri'
 
 base_sleep = 0
 sleep_increment = 3
-retries = 4
+retries = 2
 
 ncaa_teams = CSV.open("csv/ncaa_teams.csv","r",{:col_sep => "\t", :headers => TRUE})
 ncaa_player_summaries = CSV.open("csv/ncaa_player_summaries.csv","w",{:col_sep => "\t"})

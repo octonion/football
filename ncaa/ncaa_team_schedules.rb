@@ -7,7 +7,7 @@ require 'open-uri'
 
 base_sleep = 0
 sleep_increment = 3
-retries = 4
+retries = 2
 
 ncaa_teams = CSV.open("csv/ncaa_teams.csv","r",{:col_sep => "\t", :headers => TRUE})
 ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules.csv","w",{:col_sep => "\t"})
@@ -20,9 +20,9 @@ ncaa_team_schedules << ["year", "year_id", "team_id", "team_name", "game_date", 
 
 base_url = 'http://stats.ncaa.org'
 
-sleep_time = base_sleep
-
 ncaa_teams.each do |team|
+
+  sleep_time = base_sleep
 
   year = team[0]
   year_id = team[1]
