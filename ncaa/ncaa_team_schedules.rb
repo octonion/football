@@ -146,18 +146,22 @@ ncaa_teams.each do |team|
           game_id = nil
           game_url = nil
         else
-          link_url = link.attributes["href"].text
-          parameters = link_url.split("/")[-1]
+          link_url = link.attributes["href"].text.split("#")[0]
+          game_id = link_url.split("football/")[1]
 
+          #parameters = link_url.split("/")[-1]
+
+#http://data.ncaa.com/game/football/fbs/2014/09/06/air-force-wyoming/pbp.json
+#http://www.ncaa.com/game/football/fbs/2014/08/30/nicholls-st-air-force#boxscore
           # NCAA game_id
-          game_id = parameters.split("?")[0]
+          #game_id = parameters.split("?")[0]
 
           # NCAA team_id
           #opponent_id = parameters.split("=")[1]
 
           # opponent URL
 
-          game_url = base_url+link_url
+          game_url = link_url
         end
 
         found_games += 1
