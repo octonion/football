@@ -25,3 +25,5 @@ raw.each_with_index do |r,i|
     lines << raw[i]
   end
 end
+
+puts lines
