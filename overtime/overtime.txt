@@ -1,2 +1,2 @@
 Sudden death winning probility = 0.589
-Overall winning probility = 0.520
+Overall winning probility = 0.560
