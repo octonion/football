@@ -22,109 +22,103 @@ Type 'q()' to quit R.
 > 
 > psi <- read.csv("psi.csv")
 > 
-> model0 <- delta ~ gauge + team:gauge + (1|ball)
+> model0 <- delta ~ gauge + (1|ball)
 > model <- delta ~ team + gauge + team:gauge + (1|ball)
 > 
 > fit0 <- lmer(model0, data=psi)
 > fit0
 Linear mixed model fit by REML ['lmerMod']
-Formula: delta ~ gauge + team:gauge + (1 | ball)
+Formula: delta ~ gauge + (1 | ball)
    Data: psi
-REML criterion at convergence: 49.3427
+REML criterion at convergence: 33.4676
 Random effects:
  Groups   Name        Std.Dev.
- ball     (Intercept) 0.2891  
- Residual             0.4691  
+ ball     (Intercept) 0.4561  
+ Residual             0.2326  
 Number of obs: 30, groups:  ball, 15
 Fixed Effects:
-        (Intercept)               gaugeB  gaugeA:teamPatriots  
-            -0.3750              -0.1875              -1.0159  
-gaugeB:teamPatriots  
-            -0.2420  
+(Intercept)       gaugeB  
+    -1.1200       0.2267  
 > summary(fit0)
 Linear mixed model fit by REML ['lmerMod']
-Formula: delta ~ gauge + team:gauge + (1 | ball)
+Formula: delta ~ gauge + (1 | ball)
    Data: psi
 
-REML criterion at convergence: 49.3
+REML criterion at convergence: 33.5
 
 Scaled residuals: 
-    Min      1Q  Median      3Q     Max 
--1.2488 -0.4351 -0.1439  0.1911  3.3632 
+     Min       1Q   Median       3Q      Max 
+-1.19181 -0.49163 -0.09918  0.28225  1.71786 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- ball     (Intercept) 0.08359  0.2891  
- Residual             0.22009  0.4691  
+ ball     (Intercept) 0.20800  0.4561  
+ Residual             0.05408  0.2326  
 Number of obs: 30, groups:  ball, 15
 
 Fixed effects:
-                    Estimate Std. Error t value
-(Intercept)          -0.3750     0.2755  -1.361
-gaugeB               -0.1875     0.3317  -0.565
-gaugeA:teamPatriots  -1.0159     0.3218  -3.157
-gaugeB:teamPatriots  -0.2420     0.3218  -0.752
+            Estimate Std. Error t value
+(Intercept) -1.12000    0.13218  -8.473
+gaugeB       0.22667    0.08492   2.669
 
 Correlation of Fixed Effects:
-            (Intr) gaugeB ggA:tP
-gaugeB      -0.602              
-ggA:tmPtrts -0.856  0.515       
-ggB:tmPtrts -0.236 -0.515  0.275
+       (Intr)
+gaugeB -0.321
 > 
 > fit <- lmer(model, data=psi)
 > fit
 Linear mixed model fit by REML ['lmerMod']
 Formula: delta ~ team + gauge + team:gauge + (1 | ball)
    Data: psi
-REML criterion at convergence: 49.3427
+REML criterion at convergence: 14.5455
 Random effects:
  Groups   Name        Std.Dev.
- ball     (Intercept) 0.2891  
- Residual             0.4691  
+ ball     (Intercept) 0.3473  
+ Residual             0.1492  
 Number of obs: 30, groups:  ball, 15
 Fixed Effects:
         (Intercept)         teamPatriots               gaugeB  
             -0.3750              -1.0159              -0.1875  
 teamPatriots:gaugeB  
-             0.7739  
+             0.5648  
 > summary(fit)
 Linear mixed model fit by REML ['lmerMod']
 Formula: delta ~ team + gauge + team:gauge + (1 | ball)
    Data: psi
 
-REML criterion at convergence: 49.3
+REML criterion at convergence: 14.5
 
 Scaled residuals: 
-    Min      1Q  Median      3Q     Max 
--1.2488 -0.4351 -0.1439  0.1911  3.3632 
+     Min       1Q   Median       3Q      Max 
+-2.02682 -0.25822 -0.03348  0.24350  2.24628 
 
 Random effects:
  Groups   Name        Variance Std.Dev.
- ball     (Intercept) 0.08359  0.2891  
- Residual             0.22009  0.4691  
+ ball     (Intercept) 0.12059  0.3473  
+ Residual             0.02226  0.1492  
 Number of obs: 30, groups:  ball, 15
 
 Fixed effects:
                     Estimate Std. Error t value
-(Intercept)          -0.3750     0.2755  -1.361
-teamPatriots         -1.0159     0.3218  -3.157
-gaugeB               -0.1875     0.3317  -0.565
-teamPatriots:gaugeB   0.7739     0.3874   1.998
+(Intercept)          -0.3750     0.1890  -1.984
+teamPatriots         -1.0159     0.2207  -4.604
+gaugeB               -0.1875     0.1055  -1.777
+teamPatriots:gaugeB   0.5648     0.1232   4.585
 
 Correlation of Fixed Effects:
             (Intr) tmPtrt gaugeB
 teamPatrits -0.856              
-gaugeB      -0.602  0.515       
-tmPtrts:ggB  0.515 -0.602 -0.856
+gaugeB      -0.279  0.239       
+tmPtrts:ggB  0.239 -0.279 -0.856
 > 
 > anova(fit0,fit)
 Data: psi
 Models:
-fit0: delta ~ gauge + team:gauge + (1 | ball)
+fit0: delta ~ gauge + (1 | ball)
 fit: delta ~ team + gauge + team:gauge + (1 | ball)
-     Df    AIC    BIC  logLik deviance Chisq Chi Df Pr(>Chisq)    
-fit0  6 55.908 64.315 -21.954   43.908                            
-fit   6 55.908 64.315 -21.954   43.908     0      0  < 2.2e-16 ***
+     Df    AIC    BIC   logLik deviance  Chisq Chi Df Pr(>Chisq)    
+fit0  4 35.985 41.590 -13.9927  27.9854                             
+fit   6 15.758 24.165  -1.8788   3.7575 24.228      2  5.483e-06 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 > 
