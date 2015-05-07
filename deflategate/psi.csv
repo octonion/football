@@ -1,4 +1,4 @@
-team,ball_id,gauge_official,halftime_psi,start_psi,delta
+team,ball,gauge,halftime_psi,start_psi,delta
 Patriots,P1,A,11.50,12.5,-1.00
 Patriots,P2,A,10.85,12.5,-1.65
 Patriots,P3,A,11.15,12.5,-1.35
