@@ -24,10 +24,35 @@ Type 'q()' to quit R.
 > 
 > patriots <- subset(psi, team=="Patriots")
 > colts <- subset(psi, team=="Colts")
-> colts$delta <- colts$delta - 0.50
 > 
+> # Colts at 13.0 PSI
+> 
+> wilcox.test(delta ~ team, data=psi)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  delta by team
+W = 162, p-value = 0.000562
+alternative hypothesis: true location shift is not equal to 0
+
+> 
+> # Colts at 13.25 PSI
+> 
+> colts$delta <- colts$delta - 0.25
 > psi <- rbind(patriots, colts)
+> wilcox.test(delta ~ team, data=psi)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  delta by team
+W = 146, p-value = 0.006954
+alternative hypothesis: true location shift is not equal to 0
+
 > 
+> # Colts at 13.50 PSI
+> 
+> colts$delta <- colts$delta - 0.25
+> psi <- rbind(patriots, colts)
 > wilcox.test(delta ~ team, data=psi) 
 
 	Wilcoxon rank sum test with continuity correction
