@@ -1,0 +1,174 @@
+
+R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> library(lme4)
+> 
+> psi <- read.csv("psi_patched.csv")
+> 
+> model0 <- delta ~ gauge + (1|ball)
+> fit0 <- lmer(model0, data=psi)
+> fit0
+Linear mixed model fit by REML ['lmerMod']
+Formula: delta ~ gauge + (1 | ball)
+   Data: psi
+REML criterion at convergence: -16.6126
+Random effects:
+ Groups   Name        Std.Dev.
+ ball     (Intercept) 0.48403 
+ Residual             0.03888 
+Number of obs: 30, groups:  ball, 15
+Fixed Effects:
+(Intercept)       gaugeB  
+    -1.2000       0.3867  
+> summary(fit0)
+Linear mixed model fit by REML ['lmerMod']
+Formula: delta ~ gauge + (1 | ball)
+   Data: psi
+
+REML criterion at convergence: -16.6
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-1.16766 -0.50507 -0.01806  0.51030  1.12741 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ ball     (Intercept) 0.234286 0.48403 
+ Residual             0.001512 0.03888 
+Number of obs: 30, groups:  ball, 15
+
+Fixed effects:
+            Estimate Std. Error t value
+(Intercept)  -1.2000     0.1254  -9.571
+gaugeB        0.3867     0.0142  27.234
+
+Correlation of Fixed Effects:
+       (Intr)
+gaugeB -0.057
+> 
+> model1 <- delta ~ team + gauge + (1|ball)
+> fit1 <- lmer(model1, data=psi)
+> fit1
+Linear mixed model fit by REML ['lmerMod']
+Formula: delta ~ team + gauge + (1 | ball)
+   Data: psi
+REML criterion at convergence: -24.455
+Random effects:
+ Groups   Name        Std.Dev.
+ ball     (Intercept) 0.36188 
+ Residual             0.03888 
+Number of obs: 30, groups:  ball, 15
+Fixed Effects:
+ (Intercept)  teamPatriots        gaugeB  
+     -0.6621       -0.7335        0.3867  
+> summary(fit1)
+Linear mixed model fit by REML ['lmerMod']
+Formula: delta ~ team + gauge + (1 | ball)
+   Data: psi
+
+REML criterion at convergence: -24.5
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-1.18053 -0.50253 -0.05502  0.52534  1.16645 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ ball     (Intercept) 0.130958 0.36188 
+ Residual             0.001512 0.03888 
+Number of obs: 30, groups:  ball, 15
+
+Fixed effects:
+             Estimate Std. Error t value
+(Intercept)   -0.6621     0.1816  -3.646
+teamPatriots  -0.7335     0.2119  -3.462
+gaugeB         0.3867     0.0142  27.234
+
+Correlation of Fixed Effects:
+            (Intr) tmPtrt
+teamPatrits -0.856       
+gaugeB      -0.039  0.000
+> 
+> model2 <- delta ~ team + gauge + team:gauge + (1|ball)
+> fit2 <- lmer(model2, data=psi)
+> fit2
+Linear mixed model fit by REML ['lmerMod']
+Formula: delta ~ team + gauge + team:gauge + (1 | ball)
+   Data: psi
+REML criterion at convergence: -20.6209
+Random effects:
+ Groups   Name        Std.Dev.
+ ball     (Intercept) 0.36190 
+ Residual             0.03858 
+Number of obs: 30, groups:  ball, 15
+Fixed Effects:
+        (Intercept)         teamPatriots               gaugeB  
+           -0.67500             -0.71591              0.41250  
+teamPatriots:gaugeB  
+           -0.03523  
+> summary(fit2)
+Linear mixed model fit by REML ['lmerMod']
+Formula: delta ~ team + gauge + team:gauge + (1 | ball)
+   Data: psi
+
+REML criterion at convergence: -20.6
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-1.06710 -0.44160 -0.02654  0.46969  1.05645 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ ball     (Intercept) 0.130970 0.36190 
+ Residual             0.001488 0.03858 
+Number of obs: 30, groups:  ball, 15
+
+Fixed effects:
+                    Estimate Std. Error t value
+(Intercept)         -0.67500    0.18197  -3.709
+teamPatriots        -0.71591    0.21250  -3.369
+gaugeB               0.41250    0.02728  15.122
+teamPatriots:gaugeB -0.03523    0.03185  -1.106
+
+Correlation of Fixed Effects:
+            (Intr) tmPtrt gaugeB
+teamPatrits -0.856              
+gaugeB      -0.075  0.064       
+tmPtrts:ggB  0.064 -0.075 -0.856
+> 
+> anova(fit0,fit1)
+Data: psi
+Models:
+fit0: delta ~ gauge + (1 | ball)
+fit1: delta ~ team + gauge + (1 | ball)
+     Df     AIC     BIC logLik deviance  Chisq Chi Df Pr(>Chisq)   
+fit0  4 -17.672 -12.067 12.836  -25.672                            
+fit1  5 -25.471 -18.465 17.735  -35.470 9.7985      1   0.001747 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+> anova(fit1,fit2)
+Data: psi
+Models:
+fit1: delta ~ team + gauge + (1 | ball)
+fit2: delta ~ team + gauge + team:gauge + (1 | ball)
+     Df     AIC     BIC logLik deviance  Chisq Chi Df Pr(>Chisq)
+fit1  5 -25.471 -18.465 17.735  -35.470                         
+fit2  6 -24.819 -16.412 18.410  -36.819 1.3487      1     0.2455
+> 
