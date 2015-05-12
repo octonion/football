@@ -49,6 +49,19 @@ W = 146, p-value = 0.006954
 alternative hypothesis: true location shift is not equal to 0
 
 > 
+> # Colts at 13.35 PSI
+> 
+> colts$delta <- colts$delta - 0.10
+> psi <- rbind(patriots, colts)
+> wilcox.test(delta ~ team, data=psi)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  delta by team
+W = 136, p-value = 0.02576
+alternative hypothesis: true location shift is not equal to 0
+
+> 
 > # Colts at 13.50 PSI
 > 
 > colts$delta <- colts$delta - 0.25
@@ -58,7 +71,7 @@ alternative hypothesis: true location shift is not equal to 0
 	Wilcoxon rank sum test with continuity correction
 
 data:  delta by team
-W = 120.5, p-value = 0.1329
+W = 110.5, p-value = 0.3018
 alternative hypothesis: true location shift is not equal to 0
 
 > 
