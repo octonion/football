@@ -1,0 +1,81 @@
+
+R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> library(lme4)
+> 
+> psi <- read.csv("psi_switched.csv")
+> 
+> model0 <- delta ~ gauge + (1|ball)
+> model1 <- delta ~ team + gauge + (1|ball)
+> model2 <- delta ~ team + gauge + team:gauge + (1|ball)
+> 
+> #fit0 <- lmer(model0, data=psi)
+> #fit0
+> #summary(fit0)
+> 
+> fit1 <- lmer(model1, data=psi)
+> fit1
+Linear mixed model fit by REML ['lmerMod']
+Formula: delta ~ team + gauge + (1 | ball)
+   Data: psi
+REML criterion at convergence: 14.5052
+Random effects:
+ Groups   Name        Std.Dev.
+ ball     (Intercept) 0.3457  
+ Residual             0.1563  
+Number of obs: 30, groups:  ball, 15
+Fixed Effects:
+ (Intercept)  teamPatriots        gaugeB  
+     -0.6321       -0.7335        0.3267  
+> summary(fit1)
+Linear mixed model fit by REML ['lmerMod']
+Formula: delta ~ team + gauge + (1 | ball)
+   Data: psi
+
+REML criterion at convergence: 14.5
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-2.36901 -0.30078  0.00135  0.19318  2.59897 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ ball     (Intercept) 0.11949  0.3457  
+ Residual             0.02444  0.1563  
+Number of obs: 30, groups:  ball, 15
+
+Fixed effects:
+             Estimate Std. Error t value
+(Intercept)  -0.63208    0.18369  -3.441
+teamPatriots -0.73352    0.21190  -3.462
+gaugeB        0.32667    0.05709   5.722
+
+Correlation of Fixed Effects:
+            (Intr) tmPtrt
+teamPatrits -0.846       
+gaugeB      -0.155  0.000
+> 
+> #fit2 <- lmer(model2, data=psi)
+> #fit2
+> #summary(fit2)
+> 
+> #anova(fit0,fit1)
+> #anova(fit1,fit2)
+> 
