@@ -22,8 +22,8 @@ base_url = 'http://stats.ncaa.org'
 
 game_xpath = '//*[@id="contentArea"]/table/tr[2]/td[1]/table/tr[position()>2]'
 
-ncaa_teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.tsv","r",{:col_sep => "\t", :headers => TRUE})
-ncaa_team_schedules = CSV.open("csv/ncaa_team_schedules_#{year}_#{division}.tsv","w",{:col_sep => "\t"})
+ncaa_teams = CSV.read("tsv/ncaa_teams_#{year}_#{division}.tsv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_team_schedules = CSV.open("tsv/ncaa_team_schedules_#{year}_#{division}.tsv","w",{:col_sep => "\t"})
 
 # Header for team file
 

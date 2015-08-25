@@ -9,9 +9,9 @@ base_sleep = 0
 sleep_increment = 3
 retries = 2
 
-ncaa_teams = CSV.open("csv/ncaa_teams.tsv","r",{:col_sep => "\t", :headers => TRUE})
-ncaa_player_summaries = CSV.open("csv/ncaa_player_summaries.tsv","w",{:col_sep => "\t"})
-ncaa_team_summaries = CSV.open("csv/ncaa_team_summaries.tsv","w",{:col_sep => "\t"})
+ncaa_teams = CSV.open("tsv/ncaa_teams.tsv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_player_summaries = CSV.open("tsv/ncaa_player_summaries.tsv","w",{:col_sep => "\t"})
+ncaa_team_summaries = CSV.open("tsv/ncaa_team_summaries.tsv","w",{:col_sep => "\t"})
 
 #http://stats.ncaa.org/team/roster/11540?org_id=2
 

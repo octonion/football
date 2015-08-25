@@ -18,7 +18,7 @@ names["play-by-play"] = "pbp"
 
 base_url = "http://data.ncaa.com/game/football"
 
-ncaa_games = CSV.open("csv/ncaa_team_schedules.tsv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_games = CSV.open("tsv/ncaa_team_schedules.tsv","r",{:col_sep => "\t", :headers => TRUE})
 
 ncaa_games.each do |game|
 

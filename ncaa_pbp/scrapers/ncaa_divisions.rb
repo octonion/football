@@ -12,9 +12,9 @@ agent.user_agent = 'Mozilla/5.0'
 
 sport_code = "MFB"
 
-stats = CSV.open("csv/ncaa_divisions.tsv","w",{:col_sep => "\t"})
+stats = CSV.open("tsv/ncaa_divisions.tsv","w",{:col_sep => "\t"})
 
-teams = CSV.read("csv/ncaa_teams.tsv","r",{:col_sep => "\t", :headers => TRUE})
+teams = CSV.read("tsv/ncaa_teams.tsv","r",{:col_sep => "\t", :headers => TRUE})
 
 teams.each do |team|
 # Needed for referer

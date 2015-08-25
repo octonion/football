@@ -5,7 +5,7 @@ require 'csv'
 require 'nokogiri'
 require 'open-uri'
 
-ncaa_teams = CSV.open("csv/ncaa_teams.tsv","w",{:col_sep => "\t"})
+ncaa_teams = CSV.open("tsv/ncaa_teams.tsv","w",{:col_sep => "\t"})
 
 # Header for team file
 
