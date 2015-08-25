@@ -2,16 +2,21 @@
 
 require 'csv'
 
-require 'nokogiri'
-require 'open-uri'
+require 'mechanize'
+
+agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+agent.user_agent = 'Mozilla/5.0'
 
 base_sleep = 0
 sleep_increment = 3
-retries = 2
+retries = 4
 
-ncaa_teams = CSV.open("tsv/ncaa_teams.tsv","r",{:col_sep => "\t", :headers => TRUE})
-ncaa_player_summaries = CSV.open("tsv/ncaa_player_summaries.tsv","w",{:col_sep => "\t"})
-ncaa_team_summaries = CSV.open("tsv/ncaa_team_summaries.tsv","w",{:col_sep => "\t"})
+year = ARGV[0].to_i
+division = ARGV[1]
+
+ncaa_teams = CSV.open("tsv/ncaa_teams_#{year}_#{division}.tsv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_player_summaries = CSV.open("tsv/ncaa_player_summaries_#{year}_#{division}.tsv","w",{:col_sep => "\t"})
+ncaa_team_summaries = CSV.open("tsv/ncaa_team_summaries_#{year}_#{division}.tsv","w",{:col_sep => "\t"})
 
 #http://stats.ncaa.org/team/roster/11540?org_id=2
 
@@ -29,10 +34,10 @@ sleep_time = base_sleep
 
 ncaa_teams.each do |team|
 
-  year = team[0]
-  year_id = team[1]
-  team_id = team[2]
-  team_name = team[3]
+  year = team[1]
+  year_id = team[2]
+  team_id = team[4]
+  team_name = team[5]
 
   players_xpath = '//*[@id="stat_grid"]/tbody/tr'
 
@@ -40,7 +45,7 @@ ncaa_teams.each do |team|
 
   stat_url = "http://stats.ncaa.org/team/stats?org_id=#{team_id}&sport_year_ctl_id=#{year_id}"
 
-  print "Sleep #{sleep_time} ... "
+  #print "Sleep #{sleep_time} ... "
   sleep sleep_time
 
   found_players = 0
@@ -48,7 +53,7 @@ ncaa_teams.each do |team|
 
   tries = 0
   begin
-    doc = Nokogiri::HTML(open(stat_url))
+    doc = agent.get(stat_url)
   rescue
     sleep_time += sleep_increment
     print "sleep #{sleep_time} ... "
@@ -65,10 +70,10 @@ ncaa_teams.each do |team|
 
   print "#{year} #{team_name} ..."
 
-  doc.xpath(players_xpath).each do |player|
+  doc.search(players_xpath).each do |player|
 
     row = [year, year_id, team_id, team_name]
-    player.xpath("td").each_with_index do |element,i|
+    player.search("td").each_with_index do |element,i|
       case i
       when 1
         player_name = element.text.strip
@@ -108,10 +113,10 @@ ncaa_teams.each do |team|
   print " #{found_players} players, #{missing_id} missing ID"
 
   found_summaries = 0
-  doc.xpath(teams_xpath).each do |team|
+  doc.search(teams_xpath).each do |team|
 
     row = [year, year_id, team_id, team_name]
-    team.xpath("td").each_with_index do |element,i|
+    team.search("td").each_with_index do |element,i|
         field_string = element.text.strip
         row += [field_string]
     end
