@@ -1,9 +1,10 @@
 #!/usr/bin/env ruby
 
 require 'csv'
+require 'mechanize'
 
-require 'nokogiri'
-require 'open-uri'
+agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+agent.user_agent = 'Mozilla/5.0'
 
 # Base URL for relative school links
 
@@ -16,12 +17,12 @@ divisions = [11, 12, 2, 3]
 schools_header = ["year", "year_id", "division_id", "school_id",
                   "school_name", "school_url"]
 
-first_year = 2014
-last_year = 2015
+first_year = ARGV[0].to_i
+last_year = ARGV[1].to_i
 
 (first_year..last_year).each do |year|
 
-  ncaa_schools = CSV.open("csv/ncaa_schools_#{year}.csv", "w",
+  ncaa_schools = CSV.open("tsv/ncaa_schools_#{year}.tsv", "w",
                           {:col_sep => "\t"})
 
   ncaa_schools << schools_header
@@ -36,7 +37,7 @@ last_year = 2015
 
     print "\nRetrieving division #{division} schools for #{year} ... "
 
-    doc = Nokogiri::HTML(open(year_division_url))
+    doc = agent.get(year_division_url)
 
     doc.search("a").each do |link|
 

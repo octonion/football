@@ -8,8 +8,11 @@ agent.user_agent = 'Mozilla/5.0'
 
 url = "http://web1.ncaa.org/stats/exec/records"
 
-first_year = 2014
-last_year = 2015
+first_year = ARGV[0].to_i
+last_year = ARGV[1].to_i
+
+#first_year = 2015
+#last_year = 2015
 
 games_header = ["year","school_name","school_id","opponent_name","opponent_id",
                 "game_date","school_score","opponent_score","location",
@@ -20,13 +23,13 @@ records_header = ["year","school_id","school_name","wins","losses","ties",
 
 (first_year..last_year).each do |year|
 
-  games = CSV.open("csv/ncaa_games_#{year}.csv", "w",
+  games = CSV.open("tsv/ncaa_games_#{year}.tsv", "w",
                    {:col_sep => "\t"})
-  records = CSV.open("csv/ncaa_records_#{year}.csv", "w",
+  records = CSV.open("tsv/ncaa_records_#{year}.tsv", "w",
                      {:col_sep => "\t"})
 
   
-  schools = CSV.read("csv/ncaa_schools_#{year}.csv", "r",
+  schools = CSV.read("tsv/ncaa_schools_#{year}.tsv", "r",
                      {:col_sep => "\t", :headers => TRUE})
 
   school_count = 0
