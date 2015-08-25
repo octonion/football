@@ -2,8 +2,10 @@
 
 require 'csv'
 
-require 'nokogiri'
-require 'open-uri'
+require 'mechanize'
+
+agent = Mechanize.new{ |agent| agent.history.max_size=0 }
+agent.user_agent = 'Mozilla/5.0'
 
 nthreads = 10
 
@@ -11,27 +13,32 @@ base_sleep = 0
 sleep_increment = 3
 retries = 4
 
+year = ARGV[0].to_i
+division = ARGV[1].to_i
+
 # Base URL for relative team links
 
 base_url = 'http://stats.ncaa.org'
 
 roster_xpath = '//*[@id="stat_grid"]/tbody/tr'
 
-ncaa_teams = CSV.open("csv/ncaa_teams.csv","r",{:col_sep => "\t", :headers => TRUE})
-ncaa_team_rosters = CSV.open("csv/ncaa_team_rosters.csv","w",{:col_sep => "\t"})
-
-#http://stats.ncaa.org/team/roster/11540?org_id=2
+teams = CSV.read("csv/ncaa_teams_#{year}_#{division}.csv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_team_rosters = CSV.open("csv/ncaa_team_rosters_#{year}_#{division}.csv","w",{:col_sep => "\t"})
 
 # Header for team file
 
-ncaa_team_rosters << ["year","year_id","team_id","team_name","jersey_number","player_id","player_name","player_url","position","class_year","games_played","games_started"]
+ncaa_team_rosters << ["year", "year_id", "division_id",
+                      "team_id", "team_name", "jersey_number",
+                      "player_id", "player_last", "player_first", "player_url",
+                      "position", "class_year",
+                      "games_played", "games_started"]
 
 # Get team IDs
 
-teams = []
-ncaa_teams.each do |team|
-  teams << team
-end
+#teams = []
+#ncaa_teams.each do |team|
+#  teams << team
+#end
 
 n = teams.size
 
@@ -47,10 +54,10 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
       sleep_time = base_sleep
 
-      year = team[0]
-      year_id = team[1]
-      team_id = team[2]
-      team_name = team[3]
+      year = team["year"]
+      year_id = team["year_id"]
+      team_id = team["team_id"]
+      team_name = team["team_name"]
 
       team_roster_url = "http://stats.ncaa.org/team/roster/#{year_id}?org_id=#{team_id}"
 
@@ -62,7 +69,8 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
       tries = 0
       begin
-        doc = Nokogiri::HTML(open(team_roster_url))
+        #doc = Nokogiri::HTML(open(team_roster_url))
+        doc = agent.get(team_roster_url)
       rescue
         sleep_time += sleep_increment
         #print "sleep #{sleep_time} ... "
@@ -79,10 +87,10 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
 
       print "#{i} #{year} #{team_name} ..."
 
-      doc.xpath(roster_xpath).each do |player|
+      doc.search(roster_xpath).each do |player|
 
-        row = [year, year_id, team_id, team_name]
-        player.xpath("td").each_with_index do |element,k|
+        row = [year, year_id, division, team_id, team_name]
+        player.search("td").each_with_index do |element,k|
           case k
           when 1
             player_name = element.text.strip
