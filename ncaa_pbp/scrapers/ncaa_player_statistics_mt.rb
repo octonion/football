@@ -19,7 +19,7 @@ base_sleep = 0
 sleep_increment = 3
 retries = 4
 
-ncaa_teams = CSV.open("csv/ncaa_teams.csv","r",{:col_sep => "\t", :headers => TRUE})
+ncaa_teams = CSV.open("csv/ncaa_teams.tsv","r",{:col_sep => "\t", :headers => TRUE})
 
 teams = []
 ncaa_teams.each do |team|
@@ -34,7 +34,7 @@ last_year = 2015
 
 (first_year..last_year).each do |year|
 
-  ncaa_player_statistics = CSV.open("csv/ncaa_player_statistics_#{year}.csv","w",{:col_sep => "\t"})
+  ncaa_player_statistics = CSV.open("csv/ncaa_player_statistics_#{year}.tsv","w",{:col_sep => "\t"})
 
   #header = []
 

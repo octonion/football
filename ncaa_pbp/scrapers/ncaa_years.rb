@@ -19,8 +19,8 @@ division_path = '//*[@id="root"]/li[5]/ul/li/a'
 
 team_path = '//*[@id="contentArea"]/div[4]/div/table/tr/td/table/tr/td/a'
 
-ncaa_years = CSV.open("csv/ncaa_years.csv","w",{:col_sep => "\t"})
-ncaa_years_divisions = CSV.open("csv/ncaa_years_divisions.csv","w",{:col_sep => "\t"})
+ncaa_years = CSV.open("csv/ncaa_years.tsv","w",{:col_sep => "\t"})
+ncaa_years_divisions = CSV.open("csv/ncaa_years_divisions.tsv","w",{:col_sep => "\t"})
 
 # Headers
 
@@ -66,7 +66,7 @@ years.each do |year|
     ncaa_years_divisions << [sport_code, year, division]
     found_divisions += 1
 
-    ncaa_teams = CSV.open("csv/ncaa_teams_#{year}_#{division}.csv","w",{:col_sep => "\t"})
+    ncaa_teams = CSV.open("csv/ncaa_teams_#{year}_#{division}.tsv","w",{:col_sep => "\t"})
     ncaa_teams << ["sport_code", "year", "year_id", "division_id",
                    "team_id", "team_name", "team_url"]
 
