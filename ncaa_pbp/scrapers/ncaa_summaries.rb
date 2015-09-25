@@ -19,6 +19,9 @@ retries = 4
 year = ARGV[0].to_i
 division = ARGV[1]
 
+#offset = 10761-10820
+offset = 0
+
 yscs = [
   [10820,'rushing'],
   [10821,'passing'],
@@ -56,7 +59,7 @@ sleep_time = base_sleep
 
 yscs.each do |ysc|
 
-  ysc_id = ysc[0]
+  ysc_id = ysc[0]+offset
   ysc_type = ysc[1]
 
   ncaa_player_summaries = CSV.open(
