@@ -1,87 +1,808 @@
-2016	12240	29	Arizona	2H	1587360	Wilson, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1587360	So	RB	1	1	 	1	 	 
-2016	12240	29	Arizona	28	1401068	Lopez, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1401068	Sr	DB	1	1	 	 	1	 
-2016	12240	29	Arizona	7	1361460	Allah, Jamar	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1361460	Sr	DB	1	1	1	 	 	 
-2016	12240	47	Ball St.	30	1719650	Peyton, Rontrell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1719650	Jr	DB	1	0	1	 	 	 
-2016	12240	47	Ball St.	14	1472587	Milas, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1472587	So	QB	1	1	 	 	 	1
-2016	12240	47	Ball St.	94	1345422	Igbinosun, Osazuwamen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1345422	Sr	DL	1	0	1	 	 	 
-2016	12240	51	Baylor	3A	1593556	Wright, Tion	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1593556	Jr	DB	1	0	 	 	1	 
-2016	12240	51	Baylor	26	1479248	Sells, Taion	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1479248	Jr	DB	1	1	 	 	1	 
-2016	12240	51	Baylor	17	1376690	Russell, Seth	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1376690	Jr	QB	1	1	 	 	 	1
-2016	12240	129	Central Mich.	10	1395656	Rush, Cooper	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1395656	Jr	QB	1	1	 	 	 	1
-2016	12240	458	Charlotte	6	1567022	Cook, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567022	Jr	LB	1	1	1	 	 	 
-2016	12240	458	Charlotte	27	1473875	Winchester, Terrance	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473875	Jr	DB	1	1	1	 	1	 
-2016	12240	458	Charlotte	8	1473841	Johnson, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473841	Jr	QB	1	1	 	2	 	2
-2016	12240	157	Colorado	5	1560290	Fields, Shay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560290	So	WR	1	1	 	1	 	 
-2016	12240	157	Colorado	4A	1451477	Awuzie, Chidobe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451477	Jr	DB	1	1	 	 	1	 
-2016	12240	157	Colorado	13	1451474	Liufau, Sefo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451474	Jr	QB	1	1	 	 	 	1
-2016	12240	157	Colorado	95	1451473	McCartney, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451473	So	DL	1	1	 	 	1	 
-2016	12240	157	Colorado	46	1342549	Powell, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1342549	Sr	RB	1	1	 	1	 	 
-2016	12240	193	Duke	24	1579588	Carmichael, Zavier	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1579588	So	LB	1	1	 	 	1	 
-2016	12240	193	Duke	4	1461316	Barnes, Johnell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1461316	Jr	WR	1	1	 	1	 	 
-2016	12240	193	Duke	1	1381064	Sirk, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1381064	Jr	QB	1	1	 	1	 	 
-2016	12240	231	FIU	1	1601566	Gardner, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1601566	So	RB	1	0	 	1	 	 
-2016	12240	96	Fresno St.	5Q	1676195	Virgil, Chason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1676195	Fr	QB	1	0	 	 	 	1
-2016	12240	96	Fresno St.	4A	1581501	Williams, Keyan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1581501	Fr	WR	1	0	 	1	 	 
-2016	12240	96	Fresno St.	42	1471504	Camilli, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471504	Jr	LB	1	1	 	 	1	 
-2016	12240	96	Fresno St.	1Q	1471490	Greenlee, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471490	So	QB	1	1	 	 	 	1
-2016	12240	96	Fresno St.	31	1342315	Ederaine, Ejiro	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1342315	Sr	LB	1	1	 	 	1	 
-2016	12240	254	Georgia St.	2	1716290	Baker, Bobby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1716290	Jr	DB	1	1	3	 	2	 
-2016	12240	254	Georgia St.	17	1588448	Smith, Glenn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588448	So	WR	1	1	 	1	 	 
-2016	12240	254	Georgia St.	4	1588435	Arbuckle, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588435	Sr	QB	1	1	 	 	 	1
-2016	12240	254	Georgia St.	25	1468689	Neal, Kyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468689	So	RB	1	1	 	1	 	 
-2016	12240	255	Georgia Tech	34	1689660	Marshall, Marcus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1689660	Fr	RB	1	0	 	1	 	 
-2016	12240	255	Georgia Tech	15	1689657	Gray, A.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1689657	Fr	DB	1	0	1	 	 	 
-2016	12240	255	Georgia Tech	44	1564077	Kagawa, Shaun	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564077	So	DB	1	0	1	 	 	 
-2016	12240	255	Georgia Tech	6	1231312	Milton, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1231312	Sr	DB	1	1	 	 	1	 
-2016	12240	277	Hawaii	13	1676563	Wittek, Max	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1676563	Sr	QB	1	1	 	 	 	2
-2016	12240	277	Hawaii	75	1560711	Rasmussen, Kory	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560711	Jr	OL	1	0	1	 	 	 
+2016	12240	721	Air Force	34	1566178	Dunn, D.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1566178	Jr	LB	2	0	1	 	 	 
+2016	12240	721	Air Force	25	1489313	Ladipo, Roland	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1489313	Jr	DB	2	2	 	 	1	 
+2016	12240	721	Air Force	6	1489309	Romine, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1489309	Jr	QB	2	2	 	 	 	1
+2016	12240	721	Air Force	8	1480803	Steelhammer, Weston	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1480803	Jr	DB	2	2	 	 	1	 
+2016	12240	721	Air Force	4	1456249	Baker, Kalon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1456249	Sr	DB	2	2	 	 	1	 
+2016	12240	5	Akron	2D	1703989	Means, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1703989	Jr	WR	3	0	 	1	 	 
+2016	12240	5	Akron	12	1385821	Davis, Imani	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1385821	Sr	WR	3	3	 	1	 	 
+2016	12240	5	Akron	5	1703965	Chapman, Tra'Von	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1703965	So	QB	3	3	 	 	 	1
+2016	12240	5	Akron	13	1479464	Woodson, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1479464	So	QB	3	0	 	 	 	1
+2016	12240	5	Akron	6	1387206	Scott, Deandre	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1387206	Jr	DB	3	3	 	 	2	 
+2016	12240	5	Akron	49	1387182	Allen, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1387182	Jr	RB	3	0	1	 	 	 
+2016	12240	5	Akron	98	1592093	Spruill, Christopher	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1592093	So	DL	2	0	1	 	 	 
+2016	12240	8	Alabama	90	1568907	Reed, Jarran	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1568907	Sr	DL	3	3	1	 	 	 
+2016	12240	8	Alabama	14	1568871	Coker, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1568871	Sr	QB	3	2	 	 	 	3
+2016	12240	8	Alabama	13	1478909	Stewart, Ardarius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1478909	So	WR	3	3	 	1	 	 
+2016	12240	8	Alabama	4	1477299	Jackson, Eddie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1477299	Jr	DB	3	3	1	 	1	 
+2016	12240	8	Alabama	18	1475183	Bateman, Cooper	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1475183	So	QB	3	1	 	 	 	2
+2016	12240	8	Alabama	24	1349083	Matias-Smith, Geno	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1349083	Sr	DB	3	3	1	 	 	 
+2016	12240	8	Alabama	5	1349071	Jones, Cyrus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1349071	Sr	DB	3	3	 	 	1	 
+2016	12240	8	Alabama	17	1349065	Drake, Kenyan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1349065	Sr	RB	3	1	 	1	 	 
+2016	12240	27	Appalachian St.	88a	1726900	Law, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726900	Jr	LB	2	2	 	 	1	 
+2016	12240	27	Appalachian St.	11	1726899	Lamb, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726899	So	QB	2	2	 	 	 	3
+2016	12240	27	Appalachian St.	5a	1726880	Gibbs, Latrell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726880	So	DB	2	2	 	 	2	 
+2016	12240	27	Appalachian St.	8	1726841	Boyd, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726841	Fr	RB	2	0	 	1	 	 
+2016	12240	27	Appalachian St.	4	1726836	Barbour, Jaylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726836	Fr	WR	2	0	 	1	 	 
+2016	12240	29	Arizona	12	1715990	Flannigan-Fowles, Demetrius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1715990	Fr	DB	3	0	 	 	1	 
+2016	12240	29	Arizona	2H	1587360	Wilson, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1587360	So	RB	3	3	 	2	 	 
+2016	12240	29	Arizona	19	1587330	Neal, Davonte'	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1587330	Jr	WR	3	3	 	 	1	 
+2016	12240	29	Arizona	3	1587304	Denson, Cam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1587304	So	DB	3	1	 	 	1	 
+2016	12240	29	Arizona	28	1401068	Lopez, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1401068	Sr	DB	3	1	 	 	1	 
+2016	12240	29	Arizona	7	1361460	Allah, Jamar	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1361460	Sr	DB	3	3	1	 	1	 
+2016	12240	28	Arizona St.	2	1249193	Bercovici, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1249193	Sr	QB	3	3	 	1	 	1
+2016	12240	28	Arizona St.	83	1358857	Kohl, Kody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1358857	Jr	TE	3	3	 	1	 	 
+2016	12240	28	Arizona St.	94	1463949	Cherry, Demetrius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463949	Sr	DL	3	3	1	 	 	 
+2016	12240	28	Arizona St.	38	1463976	Simone, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463976	Sr	DB	3	3	 	 	2	 
+2016	12240	28	Arizona St.	12	1689008	White, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1689008	Jr	WR	3	2	 	1	 	 
+2016	12240	28	Arizona St.	4	1598971	Richard, Demario	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1598971	So	RB	3	3	 	1	 	 
+2016	12240	28	Arizona St.	10	1581255	Brown, Kweishi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1581255	Sr	DB	3	3	 	 	1	 
+2016	12240	31	Arkansas	21	1567763	Williams, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567763	Jr	LB	3	2	1	 	 	 
+2016	12240	31	Arkansas	5	1567759	Toliver, Henre'	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567759	So	DB	3	2	 	 	1	 
+2016	12240	31	Arkansas	2	1483912	Dean, D.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1483912	Jr	DB	3	3	 	 	1	 
+2016	12240	31	Arkansas	3	1483886	Collins, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1483886	Jr	RB	3	3	 	1	 	 
+2016	12240	31	Arkansas	29A	1385201	Collins, Jared	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1385201	Jr	DB	3	3	 	 	1	 
+2016	12240	31	Arkansas	13	1235606	McKinney, Davyon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1235606	Sr	DB	3	0	1	 	 	 
+2016	12240	31	Arkansas	10	1235201	Allen, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1235201	Sr	QB	3	3	 	 	 	2
+2016	12240	30	Arkansas St.	42	1249949	Stone, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1249949	Sr	DL	3	3	 	 	1	 
+2016	12240	30	Arkansas St.	29	1381381	Humes, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1381381	Jr	DB	3	1	 	 	1	 
+2016	12240	30	Arkansas St.	34	1381384	Gordon, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1381384	Sr	RB	3	3	 	2	 	 
+2016	12240	30	Arkansas St.	3	1381400	Hayes, Rocky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1381400	Sr	DB	3	3	 	 	1	 
+2016	12240	30	Arkansas St.	3C	1568542	Tabary, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1568542	Fr	QB	3	1	 	 	 	2
+2016	12240	30	Arkansas St.	9B	1568539	Lain, Khari	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1568539	So	DB	3	1	 	 	1	 
+2016	12240	30	Arkansas St.	22	1479642	Hart, Jamaris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1479642	So	DB	3	2	 	 	1	 
+2016	12240	30	Arkansas St.	20	1686399	Sentimore, Bo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1686399	Jr	DB	2	2	 	 	1	 
+2016	12240	30	Arkansas St.	9	1381375	Knighten, Fredi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1381375	Sr	QB	2	2	 	 	 	3
+2016	12240	30	Arkansas St.	44	1686415	Moragne, Logan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1686415	Fr	RB	2	0	 	1	 	 
+2016	12240	725	Army West Point	28	1713979	Jackson, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1713979	Fr	DB	3	1	 	 	2	 
+2016	12240	725	Army West Point	39	1586220	Timpf, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1586220	Jr	LB	3	3	 	 	1	 
+2016	12240	725	Army West Point	17	1586161	Bradshaw, Ahmad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1586161	So	QB	3	3	 	 	 	1
+2016	12240	725	Army West Point	11	1520944	King, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1520944	Jr	LB	3	3	2	 	 	 
+2016	12240	725	Army West Point	82	1473763	Poe, Edgar	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473763	Jr	WR	3	3	 	1	 	 
+2016	12240	725	Army West Point	1B	1390053	Schurr, A.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1390053	Sr	QB	2	0	 	 	 	1
+2016	12240	37	Auburn	9	1569939	Thomas, Roc	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1569939	So	RB	3	1	 	1	 	 
+2016	12240	37	Auburn	6	1459459	Johnson, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1459459	Jr	QB	3	3	 	1	 	6
+2016	12240	37	Auburn	23	1459437	Ford, Johnathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1459437	Jr	DB	3	3	 	 	1	 
+2016	12240	37	Auburn	26	1235876	Garrett, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1235876	Sr	DB	2	2	1	 	 	 
+2016	12240	37	Auburn	28	1569976	Matthews, Tray	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1569976	So	DB	2	2	 	 	1	 
+2016	12240	77	BYU	12A	1708370	Mangum, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1708370	Fr	QB	3	2	 	 	 	3
+2016	12240	77	BYU	7	1708368	Hannemann, Micah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1708368	So	DB	3	3	 	 	1	 
+2016	12240	77	BYU	4A	1581342	Warner, Fred	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1581342	So	LB	3	3	1	 	 	 
+2016	12240	77	BYU	21	1581322	Langi, Harvey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1581322	Jr	LB	3	3	 	 	2	 
+2016	12240	77	BYU	12	1477533	Nacua, Kai	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1477533	Jr	DB	2	2	 	 	4	 
+2016	12240	77	BYU	4	1372980	Hill, Taysom	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1372980	Sr	QB	1	1	 	 	 	1
+2016	12240	47	Ball St.	5	1560918	Lacanaria, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560918	So	WR	3	3	 	1	 	 
+2016	12240	47	Ball St.	98	1472608	Winbush, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1472608	So	DL	3	0	1	 	 	 
+2016	12240	47	Ball St.	3	1472606	Wiggins, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1472606	Jr	LB	3	3	 	 	2	 
+2016	12240	47	Ball St.	14	1472587	Milas, Jack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1472587	So	QB	3	3	 	 	 	2
+2016	12240	47	Ball St.	94	1345422	Igbinosun, Osazuwamen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1345422	Sr	DL	3	0	1	 	 	 
+2016	12240	47	Ball St.	30	1719650	Peyton, Rontrell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1719650	Jr	DB	2	0	1	 	 	 
+2016	12240	51	Baylor	3A	1593556	Wright, Tion	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1593556	Jr	DB	2	0	 	 	1	 
+2016	12240	51	Baylor	26	1479248	Sells, Taion	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1479248	Jr	DB	2	1	 	 	1	 
+2016	12240	51	Baylor	20	1479234	Edwards, Aiavion	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1479234	Jr	LB	2	1	1	 	 	 
+2016	12240	51	Baylor	4A	1403378	Howard, Xavien	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1403378	Jr	DB	2	2	 	 	1	 
+2016	12240	51	Baylor	17	1376690	Russell, Seth	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1376690	Jr	QB	2	2	 	1	 	4
+2016	12240	66	Boise St.	39	1701322	Young, Kelsey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1701322	Sr	RB	3	1	 	1	 	 
+2016	12240	66	Boise St.	2	1459769	Moxey, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1459769	Jr	DB	3	3	 	 	1	 
+2016	12240	66	Boise St.	15	1459761	Finley, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1459761	So	QB	3	3	 	 	 	4
+2016	12240	66	Boise St.	5	1349969	Deayon, Donte	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1349969	Sr	DB	3	3	 	 	2	 
+2016	12240	66	Boise St.	4	1233993	Thompson, Darian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1233993	Sr	DB	3	3	 	 	1	 
+2016	12240	67	Boston College	30	1339282	Strizak, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339282	Sr	LB	3	0	1	 	 	 
+2016	12240	67	Boston College	41	1678555	Harris, William	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1678555	Fr	DB	3	0	 	 	1	 
+2016	12240	67	Boston College	4	1567873	Wade, Darius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567873	So	QB	3	3	 	 	 	1
+2016	12240	67	Boston College	32	1567841	Hilliman, Jon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567841	So	RB	3	2	 	1	 	 
+2016	12240	67	Boston College	13	1567869	Strachan, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567869	So	LB	2	0	 	 	1	 
+2016	12240	71	Bowling Green	11	1233281	Johnson, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1233281	Sr	QB	3	3	 	1	 	1
+2016	12240	71	Bowling Green	26	1343052	Mack, Alfonso	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1343052	Jr	DB	3	1	1	 	 	 
+2016	12240	71	Bowling Green	18	1574886	Turner, Dernard	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1574886	Sr	DB	3	3	 	 	2	 
+2016	12240	71	Bowling Green	2	1574884	Stephens, Clint	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1574884	So	DB	3	3	 	 	1	 
+2016	12240	86	Buffalo	26	1599416	Williamson, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1599416	So	DB	3	3	1	 	1	 
+2016	12240	86	Buffalo	55	1481804	Crawford, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1481804	Jr	LB	3	3	1	 	 	 
+2016	12240	86	Buffalo	87	1481800	Ross, Boise	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1481800	Jr	WR	3	3	 	 	2	 
+2016	12240	86	Buffalo	16	1395382	Licata, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1395382	Sr	QB	3	3	 	 	 	2
+2016	12240	86	Buffalo	52	1378679	Pitzonka, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1378679	Sr	LB	3	0	1	 	 	 
+2016	12240	86	Buffalo	43	1378608	Gilbo, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1378608	Sr	LB	3	3	 	 	1	 
+2016	12240	86	Buffalo	12	1726648	Stanback, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726648	Fr	DB	2	1	1	 	 	 
+2016	12240	107	California	1A	1583053	Johnson, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583053	Sr	DL	3	0	1	 	 	 
+2016	12240	107	California	0F	1583051	White, Darius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583051	Sr	DB	3	3	 	 	1	 
+2016	12240	107	California	0A	1583050	Downs, Devante	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583050	So	LB	3	0	 	 	1	 
+2016	12240	107	California	23	1583040	Enwere, Vic	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583040	So	RB	3	1	 	1	 	 
+2016	12240	107	California	17	1583036	Rubenzer, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583036	So	DB	3	0	 	 	1	 
+2016	12240	107	California	0C	1451402	Walker, Cameron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451402	Jr	DB	3	1	 	 	1	 
+2016	12240	107	California	29	1451394	Muhammad, Khalfani	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451394	Jr	RB	3	0	 	1	 	 
+2016	12240	107	California	16	1451383	Goff, Jared	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451383	Jr	QB	3	3	 	1	 	2
+2016	12240	107	California	0B	1451370	Allensworth, Darius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451370	So	DB	3	3	 	 	1	 
+2016	12240	107	California	8	1373208	Barton, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1373208	Jr	LB	3	0	 	 	1	 
+2016	12240	107	California	7	1268910	Jefferson, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1268910	Sr	LB	3	3	 	 	1	 
+2016	12240	107	California	89	1268896	Anderson, Stephen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1268896	Sr	TE	3	3	1	 	 	 
+2016	12240	107	California	14	1583037	Forrest, Chase	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583037	Fr	QB	2	0	 	 	 	1
+2016	12240	129	Central Mich.	7	1571580	Coleman, Amari	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1571580	So	DB	3	3	 	 	1	 
+2016	12240	129	Central Mich.	18	1456926	Annese, Tony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1456926	Jr	DB	3	3	 	 	1	 
+2016	12240	129	Central Mich.	10	1395656	Rush, Cooper	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1395656	Jr	QB	3	3	 	1	 	3
+2016	12240	458	Charlotte	6	1567022	Cook, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567022	Jr	LB	3	3	1	 	 	 
+2016	12240	458	Charlotte	3A	1567021	Dozier, Branden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567021	Sr	DB	3	3	 	 	1	 
+2016	12240	458	Charlotte	50	1473925	King, Karrington	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473925	So	LB	3	0	1	 	 	 
+2016	12240	458	Charlotte	27	1473875	Winchester, Terrance	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473875	Jr	DB	3	3	1	 	1	 
+2016	12240	458	Charlotte	3	1473873	Phillips, Kalif	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473873	Jr	RB	3	2	 	2	 	 
+2016	12240	458	Charlotte	8	1473841	Johnson, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473841	Jr	QB	3	1	 	3	 	4
+2016	12240	458	Charlotte	7	1473840	Holt, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473840	Jr	LB	3	0	1	 	 	 
+2016	12240	458	Charlotte	5	1473838	McNeill, Lee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473838	Jr	QB	3	0	 	 	 	1
+2016	12240	458	Charlotte	12	1567023	Barden, Brooks	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567023	Fr	QB	2	2	 	1	 	1
+2016	12240	140	Cincinnati	4	1705397	Williams, Hosey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1705397	Sr	RB	4	1	 	1	 	 
+2016	12240	140	Cincinnati	5b	1623677	Boone, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1623677	So	RB	4	0	 	1	 	 
+2016	12240	140	Cincinnati	11	1617084	Kiel, Gunner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1617084	Jr	QB	4	4	 	1	 	5
+2016	12240	140	Cincinnati	2E	1617079	Wilson, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1617079	Jr	LB	4	4	1	 	 	 
+2016	12240	140	Cincinnati	29	1463995	Jones, Andre	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463995	Jr	DB	4	3	 	 	1	 
+2016	12240	140	Cincinnati	4D	1463991	Edwards, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463991	Jr	DB	4	4	 	 	1	 
+2016	12240	140	Cincinnati	9	1390727	Payne, Leviticus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1390727	Sr	DB	3	3	1	 	 	 
+2016	12240	140	Cincinnati	8	1705390	Moore, Hayden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1705390	Fr	QB	3	0	 	2	 	4
+2016	12240	147	Clemson	4	1583231	Watson, Deshaun	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583231	So	QB	3	3	 	 	 	3
+2016	12240	147	Clemson	13	1583223	Renfrow, Hunter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583223	Fr	WR	3	0	 	1	 	 
+2016	12240	147	Clemson	25	1469080	Tankersley, Cordrea	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469080	Jr	DB	3	3	 	 	1	 
+2016	12240	147	Clemson	1	1469072	Kearse, Jayron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469072	Jr	DB	3	3	 	 	1	 
+2016	12240	147	Clemson	18	1469071	Johnson, Jadar	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469071	Jr	DB	3	0	 	 	1	 
+2016	12240	147	Clemson	31	1469064	Carter, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469064	So	DB	3	0	1	 	 	 
+2016	12240	147	Clemson	10	1469063	Boulware, Ben	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469063	Jr	LB	3	3	 	 	1	 
+2016	12240	147	Clemson	94	1364691	Watkins, Carlos	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1364691	Jr	DL	3	3	 	 	1	 
+2016	12240	147	Clemson	12	1469090	Schuessler, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469090	Jr	QB	2	0	 	1	 	1
+2016	12240	157	Colorado	2	1342531	Crawley, Ken	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1342531	Sr	DB	3	3	1	 	1	 
+2016	12240	157	Colorado	46	1342549	Powell, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1342549	Sr	RB	3	1	 	1	 	 
+2016	12240	157	Colorado	5	1560290	Fields, Shay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560290	So	WR	3	3	 	1	 	 
+2016	12240	157	Colorado	31	1490492	Olugbode, Kenneth	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1490492	Jr	LB	3	3	 	 	1	 
+2016	12240	157	Colorado	4A	1451477	Awuzie, Chidobe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451477	Jr	DB	3	3	 	 	1	 
+2016	12240	157	Colorado	13	1451474	Liufau, Sefo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451474	Jr	QB	3	3	 	 	 	1
+2016	12240	157	Colorado	95	1451473	McCartney, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451473	So	DL	3	3	 	 	1	 
+2016	12240	157	Colorado	2A	1342554	Moeller, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1342554	So	DB	3	3	 	 	1	 
+2016	12240	156	Colorado St.	33	1385087	Davis, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1385087	Jr	LB	3	3	1	 	 	 
+2016	12240	156	Colorado St.	22	1385094	Januska, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1385094	Sr	DB	3	1	1	 	 	 
+2016	12240	156	Colorado St.	1	1683292	Dawkins, Dalyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1683292	So	RB	3	3	 	2	 	 
+2016	12240	156	Colorado St.	7	1481086	Stevens, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1481086	So	QB	3	3	 	 	 	4
+2016	12240	156	Colorado St.	92	1481055	Lovingood, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1481055	So	DL	3	3	1	 	 	 
+2016	12240	156	Colorado St.	6	1385104	Oden Jr., Jasen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1385104	Sr	RB	3	0	 	1	 	 
+2016	12240	156	Colorado St.	11	1385122	Vaden, Jordon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1385122	Jr	WR	2	1	 	1	 	 
+2016	12240	156	Colorado St.	13	1271664	Elliott, Deandre	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1271664	Sr	DB	2	2	 	 	1	 
+2016	12240	156	Colorado St.	1B	1597440	Key, Coleman	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1597440	Fr	QB	2	0	 	2	 	1
+2016	12240	193	Duke	29	1579634	Wilson, Shaun	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1579634	So	RB	3	1	 	1	 	 
+2016	12240	193	Duke	21	1579629	Saxton II, Alonzo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1579629	So	DB	3	3	 	 	1	 
+2016	12240	193	Duke	24	1579588	Carmichael, Zavier	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1579588	So	LB	3	3	 	 	1	 
+2016	12240	193	Duke	10	1461352	Smith, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1461352	Jr	WR	3	0	 	1	 	 
+2016	12240	193	Duke	4	1461316	Barnes, Johnell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1461316	Jr	WR	3	3	 	1	 	 
+2016	12240	193	Duke	1	1381064	Sirk, Thomas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1381064	Jr	QB	3	3	 	1	 	1
+2016	12240	193	Duke	27	1380895	Edwards, Devon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1380895	Jr	DB	3	3	 	 	1	 
+2016	12240	196	East Carolina	1Q	1718077	Kemp, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1718077	Jr	QB	3	3	 	2	 	2
+2016	12240	196	East Carolina	99	1487063	Presley, Fred	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1487063	Jr	DL	3	0	1	 	 	 
+2016	12240	196	East Carolina	56	1487062	McGill, Demetri	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1487062	Jr	DL	3	2	1	 	 	 
+2016	12240	196	East Carolina	85	1487056	Grayson, Davon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1487056	Jr	WR	3	3	 	1	 	 
+2016	12240	196	East Carolina	6	1487015	Fulp, Bobby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1487015	So	DB	3	0	 	 	1	 
+2016	12240	196	East Carolina	28	1257747	Hawkins, Joshua	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1257747	Sr	DB	3	3	 	 	1	 
+2016	12240	204	Eastern Mich.	51	1581441	Rachwal, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1581441	Fr	LB	3	0	1	 	 	 
+2016	12240	204	Eastern Mich.	15	1581427	Dawson, Clay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1581427	Sr	LB	3	0	1	 	 	 
+2016	12240	204	Eastern Mich.	4	1455068	Roback, Brogan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1455068	So	QB	3	2	 	 	 	3
+2016	12240	204	Eastern Mich.	1Q	1454946	Bell, Reginald	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1454946	So	QB	1	1	 	1	 	1
+2016	12240	231	FIU	7	1415119	McKinnon, Jeremiah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1415119	Sr	DB	3	3	 	 	1	 
+2016	12240	231	FIU	53	1601583	Wint, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1601583	So	LB	3	3	 	 	1	 
+2016	12240	231	FIU	33	1601579	Gonzalez, Niko	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1601579	So	DB	3	3	 	 	1	 
+2016	12240	231	FIU	12	1601575	McGough, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1601575	So	QB	3	3	 	2	 	2
+2016	12240	231	FIU	1	1601566	Gardner, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1601566	So	RB	3	2	 	1	 	 
+2016	12240	231	FIU	87	1454957	Smith, Jonnu	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1454957	Jr	TE	3	3	 	1	 	 
+2016	12240	231	FIU	18	1386696	Davis, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1386696	Jr	DB	1	0	 	 	1	 
+2016	12240	229	Fla. Atlantic	34	1374832	Whitfield, Freedom	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1374832	Sr	LB	3	2	1	 	 	 
+2016	12240	229	Fla. Atlantic	11	1374854	Coley, Trevon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1374854	Sr	DL	3	3	1	 	 	 
+2016	12240	229	Fla. Atlantic	88	1374873	Stoshak, Jenson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1374873	Sr	WR	3	3	 	1	 	 
+2016	12240	229	Fla. Atlantic	7	1393860	LeBlanc, Cre'Von	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1393860	Sr	DB	3	3	 	 	1	 
+2016	12240	229	Fla. Atlantic	18	1715809	Young, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1715809	Fr	DB	3	2	 	 	1	 
+2016	12240	229	Fla. Atlantic	0D	1715790	Miller, Herb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1715790	Fr	DB	3	2	 	 	1	 
+2016	12240	229	Fla. Atlantic	9	1572164	Howell, Greg	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1572164	So	RB	3	1	 	2	 	 
+2016	12240	229	Fla. Atlantic	25	1499728	Warren, Jay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1499728	Jr	RB	3	2	 	2	 	 
+2016	12240	229	Fla. Atlantic	83	1394727	Thomas, Tony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1394727	Jr	WR	2	0	 	 	 	1
+2016	12240	229	Fla. Atlantic	16	1572168	Driskel, Jason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1572168	So	QB	2	1	 	1	 	3
+2016	12240	235	Florida	6	1567431	Wilson, Quincy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567431	So	DB	3	3	 	 	1	 
+2016	12240	235	Florida	31	1567429	Tabor, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567429	So	DB	3	2	 	 	1	 
+2016	12240	235	Florida	7	1567393	Grier, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567393	Fr	QB	3	2	 	1	 	2
+2016	12240	235	Florida	24	1337333	Poole, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1337333	Sr	DB	3	3	1	 	 	 
+2016	12240	235	Florida	37	1337312	Herndon, Mark	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1337312	Sr	RB	3	0	 	1	 	 
+2016	12240	235	Florida	14	1337318	McCalister, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1337318	Jr	DL	2	0	1	 	 	 
+2016	12240	235	Florida	1	1475475	Hargreaves, Vernon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1475475	Jr	DB	2	2	 	 	2	 
+2016	12240	234	Florida St.	42	1236343	Brutus, Lamarcus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1236343	Sr	DB	3	3	 	 	1	 
+2016	12240	234	Florida St.	31	1724354	James, Derwin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1724354	Fr	DB	3	0	1	 	 	 
+2016	12240	234	Florida St.	27	1472785	White, Marquez	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1472785	Jr	DB	3	3	 	1	1	 
+2016	12240	234	Florida St.	8	1472749	Ramsey, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1472749	Jr	DB	3	3	1	 	 	 
+2016	12240	96	Fresno St.	25	1686550	Glass, Tyquwan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1686550	Jr	DB	3	0	 	 	1	 
+2016	12240	96	Fresno St.	31	1342315	Ederaine, Ejiro	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1342315	Sr	LB	3	3	 	 	1	 
+2016	12240	96	Fresno St.	4	1342316	Edwards, Shannon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1342316	Sr	DB	3	3	 	 	1	 
+2016	12240	96	Fresno St.	19	1342319	Hughes, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1342319	Jr	LB	3	1	1	 	 	 
+2016	12240	96	Fresno St.	5Q	1676195	Virgil, Chason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1676195	Fr	QB	3	1	 	2	 	3
+2016	12240	96	Fresno St.	10	1676183	Otukolo, Nela	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1676183	Fr	LB	3	0	1	 	 	 
+2016	12240	96	Fresno St.	34	1581517	Helmuth, George	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1581517	Fr	LB	3	0	1	 	 	 
+2016	12240	96	Fresno St.	90	1471511	Louis, Claudell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471511	Sr	DL	3	3	1	 	 	 
+2016	12240	96	Fresno St.	42	1471504	Camilli, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471504	Jr	LB	3	3	 	 	1	 
+2016	12240	96	Fresno St.	1Q	1471490	Greenlee, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471490	So	QB	3	2	 	 	 	1
+2016	12240	96	Fresno St.	8	1471495	Scott, Da'Mari	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471495	Jr	WR	2	1	 	1	 	 
+2016	12240	96	Fresno St.	4A	1581501	Williams, Keyan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1581501	Fr	WR	2	0	 	1	 	 
+2016	12240	96	Fresno St.	1A	1686540	Childress, Ford	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1686540	Jr	QB	1	0	 	 	 	1
+2016	12240	253	Ga. Southern	24	1726905	Jones, R.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726905	N/A	""	3	0	1	 	 	 
+2016	12240	253	Ga. Southern	52	1704408	Alexander, Ross	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1704408	So	DL	3	1	 	 	1	 
+2016	12240	253	Ga. Southern	43	1682701	Thornton, Chaz	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1682701	So	RB	3	0	 	1	 	 
+2016	12240	253	Ga. Southern	4F	1594079	Flowe, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1594079	Sr	LB	3	0	1	 	 	 
+2016	12240	253	Ga. Southern	6	1594069	White, Darrius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1594069	Sr	DB	3	2	 	 	1	 
+2016	12240	253	Ga. Southern	1U	1487274	Upshaw, Favian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1487274	Jr	QB	3	2	 	1	 	4
+2016	12240	253	Ga. Southern	33	1351334	Dean, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1351334	Jr	RB	3	1	1	 	 	 
+2016	12240	253	Ga. Southern	16	1268978	Glover, Antonio	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1268978	Sr	DB	3	3	1	 	3	 
+2016	12240	257	Georgia	51	1714060	Ganus, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1714060	Sr	LB	3	3	 	 	1	 
+2016	12240	257	Georgia	35	1585473	Davis, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1585473	So	DB	3	3	 	 	1	 
+2016	12240	257	Georgia	24	1585452	Sanders, Dominick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1585452	So	DB	3	3	 	 	2	 
+2016	12240	257	Georgia	9	1585431	Wilkerson, Reggie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1585431	So	DB	3	0	 	 	1	 
+2016	12240	254	Georgia St.	19	1468680	Davis, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468680	Jr	WR	3	3	 	1	 	 
+2016	12240	254	Georgia St.	25	1468689	Neal, Kyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468689	So	RB	3	2	 	1	 	 
+2016	12240	254	Georgia St.	2	1716290	Baker, Bobby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1716290	Jr	DB	3	3	3	 	2	 
+2016	12240	254	Georgia St.	47	1716313	Curney, Ed	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1716313	Fr	LB	3	0	1	 	 	 
+2016	12240	254	Georgia St.	5	1716304	Height, Nyiakki	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1716304	Sr	WR	3	3	 	1	 	 
+2016	12240	254	Georgia St.	17	1588448	Smith, Glenn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588448	So	WR	3	1	 	1	 	 
+2016	12240	254	Georgia St.	4	1588435	Arbuckle, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588435	Sr	QB	3	3	 	1	 	4
+2016	12240	254	Georgia St.	1	1588433	Simon, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588433	Sr	DB	3	0	 	 	1	 
+2016	12240	254	Georgia St.	24	1588452	Caffey, Marcus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588452	Sr	RB	2	0	 	1	 	 
+2016	12240	255	Georgia Tech	34	1689660	Marshall, Marcus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1689660	Fr	RB	3	0	 	1	 	 
+2016	12240	255	Georgia Tech	15	1689657	Gray, A.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1689657	Fr	DB	3	0	1	 	 	 
+2016	12240	255	Georgia Tech	44	1564077	Kagawa, Shaun	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564077	So	DB	3	0	1	 	 	 
+2016	12240	255	Georgia Tech	5	1461484	Thomas, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1461484	Jr	QB	3	3	 	1	 	 
+2016	12240	255	Georgia Tech	96	1408315	Gotsis, Adam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1408315	Sr	DL	3	3	1	 	 	 
+2016	12240	255	Georgia Tech	28	1403956	White, D.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1403956	Sr	DB	3	3	 	 	2	 
+2016	12240	255	Georgia Tech	22	1231627	Snoddy, Broderick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1231627	Sr	RB	3	3	 	1	 	 
+2016	12240	255	Georgia Tech	6	1231312	Milton, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1231312	Sr	DB	3	3	 	 	1	 
+2016	12240	255	Georgia Tech	94	1689674	Saint-Amour, Anree	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1689674	Fr	DL	2	0	1	 	 	 
+2016	12240	277	Hawaii	13	1676563	Wittek, Max	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1676563	Sr	QB	2	2	 	2	 	4
+2016	12240	277	Hawaii	75	1560711	Rasmussen, Kory	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560711	Jr	OL	2	0	1	 	 	 
+2016	12240	277	Hawaii	10	1347962	Jackson, Marrell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1347962	Sr	DB	2	2	1	 	 	 
 2016	12240	277	Hawaii	8	1474949	Gener, Julian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1474949	Sr	LB	1	1	 	 	1	 
-2016	12240	277	Hawaii	10	1347962	Jackson, Marrell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1347962	Sr	DB	1	1	1	 	 	 
-2016	12240	295	Idaho	33	1568662	Lashley, Tony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1568662	So	LB	1	0	1	 	 	 
-2016	12240	295	Idaho	1A	1464622	Linehan, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1464622	So	QB	1	1	 	1	 	2
-2016	12240	418	Michigan	15B	1684571	Rudock, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1684571	Sr	QB	1	1	 	 	 	3
-2016	12240	418	Michigan	34B	1340659	Clark, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1340659	Sr	DB	1	0	 	 	1	 
-2016	12240	416	Michigan St.	13	1710058	Copeland, Vayante	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1710058	Fr	DB	1	1	 	 	1	 
-2016	12240	416	Michigan St.	9	1601626	Nicholson, Montae	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1601626	So	DB	1	1	 	 	1	 
-2016	12240	416	Michigan St.	12	1461249	Shelton, R.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1461249	Jr	WR	1	0	 	1	 	 
-2016	12240	428	Minnesota	35	1339514	Williams Jr., Rodrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339514	Sr	RB	1	1	 	1	 	 
-2016	12240	428	Minnesota	31	1339481	Murray, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339481	Sr	DB	1	1	 	 	1	 
-2016	12240	428	Minnesota	7	1339457	Leidner, Mitch	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339457	Jr	QB	1	1	 	1	 	 
-2016	12240	428	Minnesota	11	1339427	Johnson, Antonio	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339427	Sr	DB	1	1	1	 	 	 
-2016	12240	457	North Carolina	12	1255197	Williams, Marquise	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1255197	Sr	QB	1	1	 	 	 	3
+2016	12240	288	Houston	52	1587223	Carter, Jerard	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1587223	Fr	DL	1	0	1	 	 	 
+2016	12240	288	Houston	1	1469746	Ward, Jr., Greg	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469746	Jr	WR	1	1	 	 	 	1
+2016	12240	288	Houston	23	1377395	Stewart, Trevon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1377395	Sr	DB	1	1	1	 	1	 
+2016	12240	288	Houston	16	1377352	McDonald, Adrian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1377352	Sr	DB	1	1	 	 	1	 
+2016	12240	295	Idaho	11	1374748	Siavii, Russell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1374748	Jr	DB	3	3	1	 	 	 
+2016	12240	295	Idaho	1A	1464622	Linehan, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1464622	So	QB	3	3	 	 	 	4
+2016	12240	295	Idaho	33	1568662	Lashley, Tony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1568662	So	LB	3	0	1	 	 	 
+2016	12240	295	Idaho	1	1705027	Epps, Dezman	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1705027	Sr	WR	2	2	 	1	 	 
+2016	12240	295	Idaho	20	1576633	Clark, Dorian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1576633	So	DB	2	2	1	 	 	 
+2016	12240	301	Illinois	5	1725015	Vaughn, Ke'Shawn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1725015	Fr	RB	3	1	 	1	 	 
+2016	12240	301	Illinois	2K	1724995	Kwaaning, Davontay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1724995	Sr	DB	3	0	1	 	 	 
+2016	12240	301	Illinois	7C	1579496	Crouch, Chayce	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1579496	Fr	QB	3	0	 	 	 	1
+2016	12240	301	Illinois	87	1483239	White, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1483239	Jr	TE	3	1	 	1	 	 
+2016	12240	301	Illinois	12	1483201	Lunt, Wes	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1483201	Jr	QB	3	3	 	 	 	2
+2016	12240	301	Illinois	43	1380508	Monheim, Mason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1380508	Sr	LB	3	3	 	 	1	 
+2016	12240	301	Illinois	3	1380075	Barton, Taylor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1380075	Jr	DB	3	3	 	 	3	 
+2016	12240	301	Illinois	2	1380049	Bentley, V'Angelo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1380049	Sr	DB	3	3	 	1	 	 
+2016	12240	301	Illinois	27	1232452	Spence, Eaton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1232452	Sr	DB	3	3	 	 	2	 
+2016	12240	306	Indiana	20	1674604	Cook Jr., Jameel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1674604	Fr	DB	3	1	 	 	1	 
+2016	12240	306	Indiana	1B	1674602	Brown Jr., Andre	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1674602	Fr	DB	3	2	1	 	 	 
+2016	12240	306	Indiana	9	1674598	Crawford, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1674598	Fr	WR	3	3	 	 	2	 
+2016	12240	306	Indiana	44	1453086	Oliver, Marcus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1453086	So	LB	3	3	1	 	 	 
+2016	12240	306	Indiana	7	1393846	Sudfeld, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1393846	Sr	QB	3	3	 	1	 	1
+2016	12240	306	Indiana	56	1353993	Mangieri, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1353993	Sr	DL	3	3	1	 	 	 
+2016	12240	306	Indiana	29	1353956	Fletcher, Dawson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1353956	Jr	LB	3	0	1	 	 	 
+2016	12240	312	Iowa	14	1459950	King, Desmond	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1459950	Jr	DB	3	3	 	 	3	 
+2016	12240	312	Iowa	16	1374599	Beathard, C.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1374599	Jr	QB	3	3	 	 	 	1
+2016	12240	312	Iowa	33	1224741	Canzeri, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1224741	Sr	RB	3	1	 	1	 	 
+2016	12240	312	Iowa	25	1459993	Wadley, Akrum	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1459993	So	RB	1	0	 	1	 	 
+2016	12240	311	Iowa St.	9	1247293	Bundrage, Quenton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1247293	Sr	WR	3	3	 	2	 	 
+2016	12240	311	Iowa St.	12	1247309	Richardson, Sam B.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1247309	Sr	QB	3	3	 	 	 	1
+2016	12240	311	Iowa St.	2	1570375	Warren, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1570375	Fr	RB	3	1	 	1	 	 
+2016	12240	311	Iowa St.	45	1570362	Pierson, Dale	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1570362	Sr	DL	3	3	 	 	1	 
+2016	12240	311	Iowa St.	1P	1570360	Peavy, Brian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1570360	Fr	DB	3	2	 	 	1	 
+2016	12240	311	Iowa St.	2H	1570344	Harris, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1570344	Jr	LB	3	3	1	 	 	 
+2016	12240	311	Iowa St.	31	1458999	Jahlas, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1458999	Jr	DB	3	0	1	 	 	 
+2016	12240	328	Kansas	5	1680531	Roberts, Marcquis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1680531	Jr	LB	2	2	1	 	 	 
+2016	12240	328	Kansas	13	1563864	Mosby, Damani	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1563864	Jr	DL	2	2	1	 	 	 
+2016	12240	328	Kansas	39	1563857	Glatczak, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1563857	Sr	DB	2	1	1	 	 	 
+2016	12240	328	Kansas	2	1461797	Cozart, Montell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1461797	Jr	QB	2	2	 	1	 	1
+2016	12240	327	Kansas St.	38	1694154	Dimel, Winston	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1694154	Fr	RB	3	3	 	1	 	 
+2016	12240	327	Kansas St.	75	1469709	Willis, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469709	Jr	DL	3	3	1	 	 	 
+2016	12240	327	Kansas St.	8	1469652	Hubener, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469652	Jr	QB	3	2	 	1	 	 
+2016	12240	327	Kansas St.	59	1694160	Kirby, Jayd	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1694160	So	LB	2	0	1	 	 	 
+2016	12240	327	Kansas St.	12	1365162	Weber, Stanton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1365162	Sr	WR	2	0	1	 	 	 
+2016	12240	331	Kent St.	45	1564129	Moore, Marques	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564129	So	LB	3	0	1	 	 	 
+2016	12240	331	Kent St.	22H	1564104	Hibbler, Miles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564104	So	RB	3	0	 	1	 	 
+2016	12240	331	Kent St.	2	1564101	Bollas, George	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564101	Fr	QB	3	0	 	1	 	 
+2016	12240	331	Kent St.	21M	1479988	Monday, Demetrius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1479988	So	DB	3	3	1	 	3	 
+2016	12240	331	Kent St.	18	1479932	Holley, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1479932	Jr	DB	3	3	 	 	1	 
+2016	12240	331	Kent St.	25E	1479874	Calhoun, Ernest	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1479874	Jr	WR	3	2	 	1	 	 
+2016	12240	331	Kent St.	10	1343893	Reardon, Colin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1343893	Jr	QB	3	3	 	1	 	3
+2016	12240	331	Kent St.	69	1228672	Terhune, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1228672	Sr	DL	3	3	1	 	 	 
+2016	12240	334	Kentucky	45	1241298	Forrest, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1241298	Sr	LB	3	3	 	 	1	 
+2016	12240	334	Kentucky	59	1241307	Mason, Kelly	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1241307	Sr	OL	3	0	1	 	 	 
+2016	12240	334	Kentucky	14	1373078	Towles, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1373078	Jr	QB	3	3	 	 	 	4
+2016	12240	334	Kentucky	16	1373080	Quinn, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1373080	Sr	DB	3	3	1	 	 	 
+2016	12240	334	Kentucky	21	1693118	Westry, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1693118	Fr	DB	3	3	 	 	1	 
+2016	12240	334	Kentucky	1B	1598473	Harmon, J.D.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1598473	Jr	DB	3	0	 	 	2	 
+2016	12240	671	La.-Lafayette	4	1716245	Robinson, Jamal	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1716245	Sr	WR	2	1	 	1	 	 
+2016	12240	671	La.-Lafayette	23	1452550	Walker, Tracy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1452550	So	DB	2	1	 	 	1	 
+2016	12240	671	La.-Lafayette	15	1452543	McGuire, Elijah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1452543	Jr	RB	2	2	 	1	 	 
+2016	12240	671	La.-Lafayette	9	1404728	Haack, Brooks	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1404728	Jr	QB	2	2	 	 	 	2
+2016	12240	498	La.-Monroe	87	1672866	Perrier, Tre'	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1672866	Jr	WR	2	1	1	 	 	 
+2016	12240	498	La.-Monroe	13	1568329	Smith, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1568329	Fr	QB	2	2	 	 	 	1
+2016	12240	498	La.-Monroe	15	1459853	Moore, Braxton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1459853	Jr	LB	2	2	1	 	 	 
+2016	12240	366	Louisiana Tech	6	1685767	Driskel, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1685767	Sr	QB	3	3	 	 	 	1
+2016	12240	366	Louisiana Tech	90	1683844	Wallace, Courtney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1683844	Fr	DL	3	0	1	 	 	 
+2016	12240	366	Louisiana Tech	24	1506070	Thomason, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1506070	Sr	LB	3	3	 	 	1	 
+2016	12240	366	Louisiana Tech	7	1472340	Woods, Xavier	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1472340	Jr	DB	3	3	 	 	1	 
+2016	12240	366	Louisiana Tech	5	1472337	Taylor, Trent	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1472337	Jr	WR	3	3	 	1	 	 
+2016	12240	366	Louisiana Tech	1	1472320	Henderson, Carlos	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1472320	So	WR	3	2	 	1	 	 
+2016	12240	366	Louisiana Tech	28	1390710	Dixon, Kenneth	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1390710	Sr	RB	3	3	 	1	 	 
+2016	12240	366	Louisiana Tech	23	1390708	Brice, Kentrell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1390708	Sr	DB	3	3	1	 	 	 
+2016	12240	366	Louisiana Tech	9Z	1390679	Butler, Vernon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1390679	Sr	DL	3	3	1	 	 	 
+2016	12240	366	Louisiana Tech	14	1390684	Higgins, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1390684	Jr	QB	1	0	 	 	 	2
+2016	12240	367	Louisville	34	1726942	Smith, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726942	N/A	""	3	0	 	1	 	 
+2016	12240	367	Louisville	25	1723899	Harvey-Clemons, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1723899	Jr	DB	3	3	 	 	2	 
+2016	12240	367	Louisville	15	1723867	Washington, Trumaine	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1723867	So	DB	3	3	 	 	1	 
+2016	12240	367	Louisville	6	1723858	Wiggins, Shaq	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1723858	So	DB	3	3	 	 	1	 
+2016	12240	367	Louisville	8	1723843	Jackson, Lamar	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1723843	Fr	QB	3	2	 	1	 	3
+2016	12240	367	Louisville	22	1454921	Williams, Chucky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1454921	Jr	DB	3	3	 	 	1	 
+2016	12240	367	Louisville	13	1339540	Burgess, James	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339540	Sr	LB	3	3	 	 	1	 
+2016	12240	367	Louisville	6A	1454892	Bolin, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1454892	So	QB	2	1	 	 	 	2
+2016	12240	367	Louisville	7	1560147	Bonnafon, Reggie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560147	So	QB	1	1	 	1	 	 
+2016	12240	388	Marshall	5	1266336	Baxter, Keith	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1266336	Sr	DB	3	3	 	 	1	 
+2016	12240	388	Marshall	2	1593951	Foster, Hyleck	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1593951	So	WR	3	2	 	1	 	 
+2016	12240	388	Marshall	17	1483073	Letman, Taj	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1483073	Sr	DB	3	3	 	 	3	 
+2016	12240	388	Marshall	21	1483059	Lang, Tiquan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1483059	Jr	DB	3	2	 	 	2	 
+2016	12240	388	Marshall	47	1377583	Johnson, Devon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1377583	Sr	RB	3	3	 	2	 	 
+2016	12240	388	Marshall	88	1377518	Cincotta, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1377518	Sr	LB	3	0	1	 	 	 
+2016	12240	388	Marshall	11	1727294	Birdsong, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1727294	Jr	QB	2	2	 	2	 	3
+2016	12240	388	Marshall	1H	1377582	Holcombe, Gunnar	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1377582	Jr	QB	1	0	 	 	 	1
+2016	12240	392	Maryland	7Q	1367953	Rowe, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1367953	Sr	QB	3	1	 	 	 	5
+2016	12240	392	Maryland	21	1367969	Davis, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1367969	Sr	DB	3	3	 	 	2	 
+2016	12240	392	Maryland	43	1474496	Brooks, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1474496	So	LB	3	3	 	 	1	 
+2016	12240	392	Maryland	4	1474423	Likely, William	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1474423	Jr	DB	3	3	 	1	 	 
+2016	12240	392	Maryland	11	1367964	Hills, Perry	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1367964	Jr	QB	2	2	 	 	 	2
+2016	12240	400	Massachusetts	7	1681143	Frohnapfel, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1681143	Sr	QB	2	2	 	 	 	2
+2016	12240	400	Massachusetts	1A	1681133	Brackett, Kelton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1681133	Sr	DB	2	2	1	 	1	 
+2016	12240	400	Massachusetts	10	1565455	Michel, Marken	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1565455	Sr	WR	2	1	 	1	 	 
+2016	12240	400	Massachusetts	21	1368032	Bailey-Smith, Khary	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1368032	Sr	DB	2	2	 	 	1	 
+2016	12240	400	Massachusetts	22	1479274	Abrokwah, Shadrach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1479274	Jr	RB	1	0	 	1	 	 
+2016	12240	404	Memphis	8	1711041	Maulet, Arthur	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1711041	Jr	DB	4	4	 	 	1	 
+2016	12240	404	Memphis	34	1480615	Dillon, Jackson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1480615	Jr	LB	4	4	1	 	 	 
+2016	12240	404	Memphis	11	1480611	Craft, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1480611	Jr	WR	4	4	 	1	 	 
+2016	12240	404	Memphis	16	1364910	McManis, Wynton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1364910	Sr	LB	4	4	1	 	 	 
+2016	12240	404	Memphis	5	1364885	Frazier, Mose	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1364885	Sr	WR	4	4	 	1	 	 
+2016	12240	404	Memphis	87	1244696	Jones, Tevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1244696	Sr	WR	4	4	 	1	 	 
+2016	12240	404	Memphis	39	1244671	Ball, Reggis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1244671	Sr	LB	4	1	 	 	1	 
+2016	12240	404	Memphis	26	1711047	Henderson, Jamarius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1711047	Fr	RB	3	0	 	1	 	 
+2016	12240	404	Memphis	2	1711039	Northern, Ty	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1711039	Jr	DB	3	0	1	 	 	 
+2016	12240	404	Memphis	53	1364917	Pegues, Leonard	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1364917	Sr	LB	3	2	 	 	1	 
+2016	12240	415	Miami (FL)	15	1567584	Kaaya, Brad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567584	So	QB	3	3	 	1	 	1
+2016	12240	415	Miami (FL)	29	1458099	Elder, Corn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1458099	Jr	DB	3	0	1	 	1	 
+2016	12240	415	Miami (FL)	1	1458087	Burns, Artie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1458087	Jr	WR	3	3	 	 	3	 
+2016	12240	415	Miami (FL)	26	1339921	Jenkins, Rayshawn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339921	Sr	DB	3	0	 	 	2	 
+2016	12240	415	Miami (FL)	2	1339895	Bush, Deon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339895	Sr	DB	3	3	1	 	1	 
+2016	12240	415	Miami (FL)	25	1235934	Crawford, Dallas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1235934	Sr	DB	3	3	1	 	 	 
+2016	12240	414	Miami (OH)	5	1681233	Bahl, Billy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1681233	Fr	QB	3	0	 	 	 	2
+2016	12240	414	Miami (OH)	14	1602166	Reid, Tony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1602166	So	DB	3	0	1	 	1	 
+2016	12240	414	Miami (OH)	3	1566257	Young, Kenny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1566257	Fr	RB	3	1	 	2	 	 
+2016	12240	414	Miami (OH)	83A	1566234	Martin, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1566234	So	WR	3	3	 	1	 	 
+2016	12240	414	Miami (OH)	9A	1566225	Earnest, Brad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1566225	Fr	LB	3	0	 	 	1	 
+2016	12240	414	Miami (OH)	30	1468520	Okafor, Buchi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468520	Jr	DB	3	3	 	 	1	 
+2016	12240	414	Miami (OH)	95	1393761	Albright, Bryson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1393761	Sr	DL	3	3	2	 	 	 
+2016	12240	414	Miami (OH)	21	1391624	Taylor, Marshall	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1391624	Jr	DB	3	3	 	 	1	 
+2016	12240	414	Miami (OH)	8	1230986	Kummer, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1230986	Sr	QB	3	3	 	 	 	2
+2016	12240	418	Michigan	15B	1684571	Rudock, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1684571	Sr	QB	3	3	 	1	 	5
+2016	12240	418	Michigan	8	1455869	Stribling, Channing	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1455869	Jr	DB	3	2	 	 	1	 
+2016	12240	418	Michigan	35	1386690	Bolden, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1386690	Sr	LB	3	3	1	 	 	 
+2016	12240	418	Michigan	34B	1340659	Clark, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1340659	Sr	DB	3	0	 	 	2	 
+2016	12240	416	Michigan St.	26	1710095	Williamson, RJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1710095	Sr	DB	3	3	1	 	2	 
+2016	12240	416	Michigan St.	18	1266966	Cook, Connor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1266966	Sr	QB	3	3	 	 	 	1
+2016	12240	416	Michigan St.	5D	1710046	Dowell, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1710046	Fr	LB	3	0	1	 	 	 
+2016	12240	416	Michigan St.	9	1601626	Nicholson, Montae	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1601626	So	DB	3	3	 	 	2	 
+2016	12240	416	Michigan St.	12	1461249	Shelton, R.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1461249	Jr	WR	3	1	 	1	 	 
+2016	12240	416	Michigan St.	13	1710058	Copeland, Vayante	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1710058	Fr	DB	2	2	 	 	1	 
+2016	12240	419	Middle Tenn.	9	1705099	Cutrer, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1705099	Jr	DB	3	3	1	 	3	 
+2016	12240	419	Middle Tenn.	31	1571919	Sanders, DJ	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1571919	So	LB	3	0	 	 	1	 
+2016	12240	419	Middle Tenn.	30	1571918	Harris, Darius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1571918	So	LB	3	0	 	 	1	 
+2016	12240	419	Middle Tenn.	22	1571915	Watt, Quay	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1571915	Sr	DB	3	1	1	 	 	 
+2016	12240	419	Middle Tenn.	80	1471680	Batties, Ed'Marques	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471680	Sr	WR	3	3	 	1	 	 
+2016	12240	419	Middle Tenn.	49	1471675	Rhodes, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471675	Jr	DL	3	3	1	 	 	 
+2016	12240	419	Middle Tenn.	13	1471664	Frazier, Demetrius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471664	Jr	WR	3	0	 	1	 	 
+2016	12240	419	Middle Tenn.	12	1471663	Stockstill, Brent	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471663	Fr	QB	3	3	 	1	 	2
+2016	12240	419	Middle Tenn.	1	1471661	Tucker, Shane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471661	Jr	RB	3	0	 	1	 	 
+2016	12240	419	Middle Tenn.	20	1229534	Byard, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1229534	Sr	DB	3	2	 	 	1	 
+2016	12240	419	Middle Tenn.	6B	1726666	Genovese, Nolan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726666	Sr	QB	2	0	 	1	 	 
+2016	12240	419	Middle Tenn.	81	1229560	Collis, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1229560	Sr	WR	2	2	 	1	 	 
+2016	12240	419	Middle Tenn.	33	1705108	Harges, Myles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1705108	Jr	LB	2	0	 	 	1	 
+2016	12240	428	Minnesota	88	1687195	Still, Rashad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1687195	Fr	WR	3	0	 	1	 	 
+2016	12240	428	Minnesota	96	1575698	Richardson, Steven	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1575698	So	DL	3	3	1	 	 	 
+2016	12240	428	Minnesota	5	1468395	Myrick, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468395	Jr	DB	3	1	 	 	1	 
+2016	12240	428	Minnesota	35	1339514	Williams Jr., Rodrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339514	Sr	RB	3	1	 	1	 	 
+2016	12240	428	Minnesota	31	1339481	Murray, Eric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339481	Sr	DB	3	3	 	 	1	 
+2016	12240	428	Minnesota	7	1339457	Leidner, Mitch	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339457	Jr	QB	3	3	 	3	 	2
+2016	12240	428	Minnesota	11	1339427	Johnson, Antonio	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339427	Sr	DB	3	3	1	 	 	 
+2016	12240	428	Minnesota	97	1339388	Ekpe, Scott	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339388	Jr	DL	3	2	1	 	 	 
+2016	12240	428	Minnesota	29	1339371	Boddy-Calhoun, Briean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339371	Sr	DB	3	3	 	 	1	 
+2016	12240	430	Mississippi St.	15	1258030	Prescott, Dak	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1258030	Sr	QB	3	3	 	1	 	 
+2016	12240	430	Mississippi St.	2	1258033	Redmond, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1258033	Sr	DB	3	3	 	 	1	 
+2016	12240	430	Mississippi St.	32	1463528	Shumpert, Ashton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463528	Jr	RB	3	3	 	1	 	 
+2016	12240	430	Mississippi St.	8	1463526	Ross, Fred	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463526	Jr	WR	3	3	 	2	 	 
+2016	12240	430	Mississippi St.	39	1342344	Brown, Richie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1342344	Jr	LB	3	3	 	 	1	 
+2016	12240	434	Missouri	1Z	1254332	Simon, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1254332	Sr	DB	3	3	1	 	 	 
+2016	12240	434	Missouri	7	1363725	Mauk, Maty	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1363725	Jr	QB	3	3	 	 	 	4
+2016	12240	434	Missouri	3	1725103	Lock, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1725103	Fr	QB	3	0	 	 	 	1
+2016	12240	434	Missouri	22	1482792	Sherrils, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1482792	So	DB	3	3	1	 	1	 
+2016	12240	434	Missouri	1X	1393185	Brothers, Kentrell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1393185	Sr	LB	3	3	 	 	2	 
+2016	12240	434	Missouri	5X	1363747	Gibson, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1363747	Jr	DB	3	0	 	 	1	 
+2016	12240	434	Missouri	6X	1725126	Ross, Tavon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1725126	Fr	DB	2	0	 	1	 	 
+2016	12240	726	Navy	40	1588765	McCoy, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588765	So	LB	2	1	1	 	 	 
+2016	12240	726	Navy	68	1588694	Forrestal, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588694	Jr	DL	2	0	1	 	 	 
+2016	12240	726	Navy	54	1486694	Goble, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1486694	Sr	LB	2	0	 	 	1	 
+2016	12240	726	Navy	90	1385573	Anthony, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1385573	Sr	DL	2	2	1	 	 	 
+2016	12240	726	Navy	37	1345718	Swain, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1345718	Sr	RB	2	2	 	1	 	 
+2016	12240	463	Nebraska	40	1705646	Ober, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1705646	Fr	OL	3	0	1	 	 	 
+2016	12240	463	Nebraska	1B	1565722	Kalu, Joshua	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1565722	So	DB	3	3	 	 	1	 
+2016	12240	463	Nebraska	25	1461540	Gerry, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1461540	Jr	DB	3	3	 	 	2	 
+2016	12240	463	Nebraska	4	1357915	Armstrong Jr., Tommy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1357915	Jr	QB	3	3	 	1	 	4
+2016	12240	463	Nebraska	49	1461588	Weber, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1461588	So	LB	2	1	1	 	 	 
+2016	12240	463	Nebraska	17	1461539	Fyfe, Ryker	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1461539	Jr	QB	1	0	 	 	 	1
+2016	12240	466	Nevada	94	1276750	Jones, Lenny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1276750	Sr	DL	3	2	1	 	 	 
+2016	12240	466	Nevada	18	1570345	Moody, Elijah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1570345	Fr	DB	3	0	1	 	 	 
+2016	12240	466	Nevada	16	1483869	Sawyer, Jaden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1483869	So	DB	3	0	 	 	1	 
+2016	12240	466	Nevada	15	1392913	Stewart, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1392913	Jr	QB	3	3	 	 	 	2
+2016	12240	473	New Mexico	6G	1710739	Green, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1710739	Sr	DB	3	0	 	 	1	 
+2016	12240	473	New Mexico	10	1710718	Apodoca, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1710718	Jr	QB	3	0	 	 	 	1
+2016	12240	473	New Mexico	59	1568702	Lee, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1568702	Sr	DL	3	0	1	 	 	 
+2016	12240	473	New Mexico	46	1459631	Walsh, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1459631	Jr	TE	3	0	1	 	 	 
+2016	12240	473	New Mexico	13	1459599	Jordan, Lamar	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1459599	So	QB	3	3	 	 	 	1
+2016	12240	473	New Mexico	91	1459585	D'Avanzo, Nik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1459585	Jr	DL	3	3	1	 	 	 
+2016	12240	473	New Mexico	6	1386410	Pressley, Jhurell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1386410	Sr	RB	3	3	1	 	 	 
+2016	12240	473	New Mexico	7	1459591	Gipson, Teriyon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1459591	Jr	RB	2	1	 	1	 	 
+2016	12240	472	New Mexico St.	91	1700591	Benegas, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1700591	So	DL	3	3	1	 	 	 
+2016	12240	472	New Mexico St.	53	1459645	Butler, Rodney	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1459645	Jr	LB	3	3	1	 	 	 
+2016	12240	472	New Mexico St.	2D	1700370	Hanks, Terrill	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1700370	Fr	DB	3	2	1	 	 	 
+2016	12240	472	New Mexico St.	1	1560188	Morgan, Teldrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560188	Jr	WR	3	3	 	 	 	1
+2016	12240	472	New Mexico St.	17	1560159	Rogers, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560159	Sr	QB	3	3	 	 	 	2
+2016	12240	472	New Mexico St.	21	1560157	Wright, Jaden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560157	So	DB	3	3	1	 	1	 
+2016	12240	472	New Mexico St.	1D	1560151	Nwangwa, Jacob	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560151	So	DB	3	1	 	 	1	 
+2016	12240	457	North Carolina	6	1565578	Stewart, M.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1565578	So	DB	3	3	 	 	2	 
+2016	12240	457	North Carolina	42	1351890	Rashad, Shakeel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1351890	Sr	LB	3	3	 	 	1	 
+2016	12240	457	North Carolina	12	1255197	Williams, Marquise	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1255197	Sr	QB	3	3	 	 	 	4
+2016	12240	457	North Carolina	3A	1255171	Smiley, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1255171	Sr	DB	3	3	1	 	 	 
+2016	12240	490	North Carolina St.	20	1563722	Stevens, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1563722	So	DB	3	2	 	 	1	 
+2016	12240	490	North Carolina St.	27	1465592	Nichols, Dakwa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1465592	So	RB	3	0	 	1	 	 
+2016	12240	490	North Carolina St.	8	1465583	Wright, Dravious	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1465583	Jr	DB	3	3	1	 	 	 
+2016	12240	497	North Texas	3C	1582583	Goree, Tee	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1582583	Fr	WR	2	2	 	1	 	 
+2016	12240	497	North Texas	32	1474722	Scott, Fred	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1474722	Jr	LB	2	2	1	 	 	 
+2016	12240	497	North Texas	25	1474721	Tucker, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1474721	Jr	RB	2	1	 	1	 	 
+2016	12240	497	North Texas	19	1474720	Schilleci, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1474720	Jr	DB	2	0	1	 	 	 
+2016	12240	497	North Texas	4	1474714	Kidsy, Darvin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1474714	Jr	WR	2	1	 	1	 	 
+2016	12240	497	North Texas	91	1337148	Orr, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1337148	Sr	DL	2	2	1	 	 	 
+2016	12240	497	North Texas	5	1245867	McNulty, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1245867	Sr	QB	2	2	 	 	 	3
+2016	12240	497	North Texas	29	1582610	Ivery, Willy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1582610	So	RB	1	0	 	1	 	 
+2016	12240	503	Northern Ill.	1D	1586380	Lurry, Shawun	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1586380	So	DB	3	1	 	 	3	 
+2016	12240	503	Northern Ill.	40	1481182	Folliard, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1481182	Jr	LB	3	3	1	 	1	 
+2016	12240	503	Northern Ill.	23	1481118	Huff, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1481118	So	RB	3	1	 	1	 	 
+2016	12240	503	Northern Ill.	6	1481117	Jones, Bobby	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1481117	So	LB	3	0	1	 	 	 
+2016	12240	503	Northern Ill.	2A	1481101	Allen, Mycial	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1481101	Jr	DB	3	0	 	 	1	 
+2016	12240	503	Northern Ill.	12	1374373	Hare, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1374373	Jr	QB	3	3	 	 	 	2
+2016	12240	503	Northern Ill.	29	1264391	Logan, Paris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1264391	Sr	DB	3	3	 	 	1	 
+2016	12240	503	Northern Ill.	5	1598638	Olootu, Mayomi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1598638	So	DB	2	0	 	 	1	 
+2016	12240	503	Northern Ill.	17	1586379	Graham, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1586379	So	QB	1	0	 	1	 	 
+2016	12240	509	Northwestern	18	1573108	Thorson, Clayton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1573108	Fr	QB	3	3	 	 	 	2
+2016	12240	509	Northwestern	16	1469820	Igwebuike, Godwin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469820	So	DB	3	3	1	 	 	 
+2016	12240	509	Northwestern	1B	1469819	Walker, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469819	So	LB	3	3	1	 	 	 
+2016	12240	509	Northwestern	13	1469792	Long, Warren	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469792	Jr	RB	3	0	1	 	 	 
+2016	12240	509	Northwestern	2A	1469789	Queiro, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469789	Jr	DB	3	0	 	 	1	 
+2016	12240	509	Northwestern	27	1469788	Harris, Matthew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1469788	Jr	DB	3	3	 	 	2	 
+2016	12240	509	Northwestern	94	1339048	Lowry, Dean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339048	Sr	DL	3	3	 	 	1	 
+2016	12240	509	Northwestern	12	1573115	Anderson, Auston	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1573115	Fr	RB	2	0	 	1	 	 
+2016	12240	513	Notre Dame	45	1383416	Okwara, Romeo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1383416	Sr	DL	2	2	1	 	 	 
+2016	12240	519	Ohio	44	1713669	Sayles, Casey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1713669	Jr	DL	3	3	1	 	 	 
+2016	12240	519	Ohio	35	1713624	Carpenter, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1713624	Sr	DB	3	1	2	 	2	 
+2016	12240	519	Ohio	15	1713483	Vick, Derrius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1713483	Sr	QB	3	3	 	1	 	2
+2016	12240	519	Ohio	13	1713480	Jones, Devin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1713480	Sr	DB	3	3	1	 	 	 
+2016	12240	519	Ohio	4A	1713322	White, Papi	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1713322	Fr	RB	3	1	 	1	 	 
+2016	12240	519	Ohio	99	1713929	Laseak, Kurt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1713929	Jr	DL	2	2	1	 	 	 
+2016	12240	519	Ohio	41	1713629	Wells, Ian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1713629	Sr	DB	2	2	 	 	1	 
 2016	12240	519	Ohio	51	1713677	Johnson, Jovon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1713677	Sr	LB	1	1	 	 	1	 
-2016	12240	519	Ohio	35	1713624	Carpenter, Nathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1713624	Sr	DB	1	0	1	 	1	 
-2016	12240	519	Ohio	15	1713483	Vick, Derrius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1713483	Sr	QB	1	1	 	1	 	 
-2016	12240	521	Oklahoma St.	31	1473026	Flowers, Tre	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473026	So	DB	1	1	 	 	1	 
-2016	12240	663	SMU	4	1562721	Davis, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1562721	Jr	QB	1	1	 	 	 	2
-2016	12240	663	SMU	29	1455272	Richardson, Darrion	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1455272	Jr	DB	1	1	 	 	1	 
-2016	12240	648	South Carolina	10	1468227	Moore, Skai	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468227	Jr	LB	1	1	 	 	2	 
-2016	12240	648	South Carolina	42	1353193	Diggs, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1353193	Jr	DB	1	1	 	 	1	 
-2016	12240	688	Syracuse	18	1677889	Strickland, Dontae	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1677889	Fr	RB	1	0	1	 	 	 
+2016	12240	518	Ohio St.	6	1594575	Hubbard, Sam	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1594575	Fr	DL	3	1	1	 	 	 
+2016	12240	518	Ohio St.	4	1594270	Samuel, Curtis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1594270	So	RB	3	1	 	1	 	 
+2016	12240	518	Ohio St.	11	1464887	Bell, Vonn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1464887	Jr	DB	3	3	1	 	1	 
+2016	12240	518	Ohio St.	43	1464869	Lee, Darron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1464869	So	LB	3	3	 	 	1	 
+2016	12240	518	Ohio St.	8	1464867	Conley, Gareon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1464867	So	DB	3	3	 	 	1	 
+2016	12240	518	Ohio St.	16	1464863	Barrett, J.T.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1464863	So	QB	3	0	 	 	 	1
+2016	12240	518	Ohio St.	15	1464862	Elliott, Ezekiel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1464862	Jr	RB	3	3	 	2	 	 
+2016	12240	518	Ohio St.	13	1464860	Apple, Eli	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1464860	So	DB	3	3	1	 	1	 
+2016	12240	518	Ohio St.	23	1346126	Powell, Tyvis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1346126	Jr	DB	3	3	 	 	1	 
+2016	12240	518	Ohio St.	12	1346095	Jones, Cardale	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1346095	Jr	QB	3	3	 	 	 	3
+2016	12240	518	Ohio St.	25	1346082	Dunn, Bri'Onte	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1346082	Jr	RB	3	0	 	1	 	 
+2016	12240	522	Oklahoma	3	1341651	Shepard, Sterling	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1341651	Sr	WR	3	3	 	1	 	 
+2016	12240	522	Oklahoma	15	1341659	Sanchez, Zack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1341659	Jr	DB	3	3	 	 	1	 
+2016	12240	522	Oklahoma	93	1341703	Wade, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1341703	Jr	DL	3	0	1	 	 	 
+2016	12240	522	Oklahoma	25	1679290	Mixon, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1679290	Fr	RB	3	1	 	1	 	 
+2016	12240	522	Oklahoma	32	1563943	Perine, Samaje	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1563943	So	RB	3	3	 	1	 	 
+2016	12240	522	Oklahoma	6	1563903	Mayfield, Baker	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1563903	Jr	QB	3	3	 	 	 	2
+2016	12240	522	Oklahoma	9	1341652	Knight, Trevor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1341652	Jr	QB	1	0	 	 	 	1
+2016	12240	521	Oklahoma St.	84	1697066	McCleskey, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1697066	Fr	WR	3	0	 	1	 	 
+2016	12240	521	Oklahoma St.	2j	1697011	Burton, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1697011	Jr	LB	3	3	1	 	 	 
+2016	12240	521	Oklahoma St.	2x	1577483	Rudolph, Mason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1577483	So	QB	3	3	 	 	 	1
+2016	12240	521	Oklahoma St.	18	1577481	Richards, Ramon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1577481	So	DB	3	1	 	 	1	 
+2016	12240	521	Oklahoma St.	40	1577461	Averette, Devante	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1577461	Jr	LB	3	0	1	 	 	 
+2016	12240	521	Oklahoma St.	31	1473026	Flowers, Tre	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473026	So	DB	3	3	 	 	1	 
+2016	12240	521	Oklahoma St.	48	1472993	Bassett, Dawson	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1472993	So	TE	3	0	1	 	 	 
+2016	12240	521	Oklahoma St.	1	1366229	Peterson, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1366229	Sr	DB	2	2	 	 	1	 
+2016	12240	521	Oklahoma St.	16	1473120	Robertson, Deric	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473120	Jr	DB	2	0	2	 	 	 
+2016	12240	523	Old Dominion	93	1726729	Ward, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726729	Fr	DL	3	0	 	 	1	 
+2016	12240	523	Old Dominion	27	1456708	Young, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1456708	Jr	DB	3	3	 	 	1	 
+2016	12240	523	Old Dominion	37	1726675	Branch, Marvin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726675	Fr	LB	3	0	1	 	 	 
+2016	12240	523	Old Dominion	19a	1726671	Bentley, Shuler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726671	Fr	QB	3	3	 	 	 	1
+2016	12240	523	Old Dominion	98	1617382	Ximines, Oshane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1617382	Fr	DL	3	3	1	 	 	 
+2016	12240	433	Ole Miss	10	1724327	Kelly, Chad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1724327	Jr	QB	3	3	 	 	 	1
+2016	12240	433	Ole Miss	1B	1724319	Bridges, Tony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1724319	Jr	DB	3	3	 	 	1	 
+2016	12240	433	Ole Miss	30	1588063	Moore, A.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588063	So	DB	3	0	2	 	 	 
+2016	12240	433	Ole Miss	9A	1475048	Buchanan, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1475048	So	QB	3	0	 	 	 	1
+2016	12240	433	Ole Miss	23	1377021	Davis, Carlos	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1377021	Sr	DB	3	0	1	1	 	 
+2016	12240	433	Ole Miss	7B	1377002	Elston, Trae	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1377002	Sr	DB	3	3	 	 	3	 
+2016	12240	433	Ole Miss	8B	1247433	Brown, Chief	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1247433	Sr	DB	3	0	 	 	1	 
+2016	12240	433	Ole Miss	1J	1247415	Johnson, C.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1247415	Sr	LB	2	2	 	 	2	 
+2016	12240	433	Ole Miss	13	1475047	Brazley, Eugene	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1475047	So	RB	2	0	 	1	 	 
+2016	12240	529	Oregon	14	1687435	Amadi, Ugo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1687435	Fr	DB	2	0	 	 	1	 
+2016	12240	529	Oregon	0C	1687434	Adams Jr., Vernon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1687434	Sr	QB	2	2	 	1	 	2
+2016	12240	529	Oregon	17	1463252	Williams, Juwaan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463252	So	DB	2	0	 	 	1	 
+2016	12240	529	Oregon	12	1463217	Seisay, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463217	So	DB	2	2	 	 	1	 
+2016	12240	528	Oregon St.	0D	1701896	Collins, Seth	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1701896	Fr	QB	3	3	 	 	 	1
+2016	12240	528	Oregon St.	88	1583029	Dockery, Rahmel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583029	Jr	WR	3	0	 	1	 	 
+2016	12240	528	Oregon St.	55	1483188	Hungalu, Manase	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1483188	So	LB	3	1	 	 	1	 
+2016	12240	528	Oregon St.	6	1462994	Bolden, Victor	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1462994	Jr	WR	3	3	 	1	 	 
+2016	12240	528	Oregon St.	8	1356714	Mageo, Rommel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1356714	Jr	LB	3	2	1	 	1	 
+2016	12240	528	Oregon St.	35	1356711	Saulo, Caleb	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1356711	Jr	LB	3	3	 	 	1	 
+2016	12240	528	Oregon St.	42	1356725	Ortiz, Ricky	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1356725	Jr	TE	2	0	 	 	1	 
+2016	12240	528	Oregon St.	0C	1582998	McMaryion, Marcus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1582998	Fr	QB	2	0	 	 	 	1
+2016	12240	539	Penn St.	29A	1683403	Reid, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1683403	Fr	DB	3	1	1	 	1	 
+2016	12240	539	Penn St.	96	1564409	Brown, Torrence	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564409	Fr	DL	3	0	1	 	 	 
+2016	12240	539	Penn St.	95	1463917	Nassib, Carl	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463917	Sr	DL	3	3	 	 	1	 
+2016	12240	539	Penn St.	14	1463897	Hackenberg, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463897	Jr	QB	3	3	 	 	 	2
+2016	12240	539	Penn St.	1H	1564419	Haley, Grant	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564419	So	DB	1	1	 	 	1	 
+2016	12240	545	Pittsburgh	4P	1703995	Peterman, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1703995	Jr	QB	3	1	 	 	 	3
+2016	12240	545	Pittsburgh	2	1462534	Webb, Terrish	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1462534	Jr	DB	3	2	 	 	1	 
+2016	12240	545	Pittsburgh	16	1368667	Voytik, Chad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1368667	Jr	QB	3	2	 	1	 	1
+2016	12240	545	Pittsburgh	6	1262404	Pitts, Lafayette	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1262404	Sr	DB	3	3	1	 	 	 
+2016	12240	559	Purdue	59	1594360	Newton, Langston	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1594360	Jr	DL	3	0	1	 	 	 
+2016	12240	559	Purdue	1O	1594336	Knox, D.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1594336	So	RB	3	3	 	2	 	 
+2016	12240	559	Purdue	14	1470392	Howard, Ra'Zahn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1470392	Jr	DL	3	0	1	 	 	 
+2016	12240	559	Purdue	36	1470389	Ezechukwu, Danny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1470389	So	LB	3	3	1	 	 	 
+2016	12240	559	Purdue	3D	1470383	Clark, Leroy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1470383	Jr	DB	3	3	 	 	1	 
+2016	12240	559	Purdue	12	1470377	Appleby, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1470377	Jr	QB	3	3	 	1	 	6
+2016	12240	559	Purdue	9D	1374039	Brown, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1374039	Sr	DB	3	3	1	 	1	 
+2016	12240	559	Purdue	7D	1374037	Gregory, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1374037	Jr	DB	3	3	 	 	1	 
+2016	12240	574	Rice	24	1567146	Stewart, Samuel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567146	Fr	RB	3	0	 	1	 	 
+2016	12240	574	Rice	42	1567130	Ellerbe, Emmanuel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567130	So	LB	3	0	3	 	 	 
+2016	12240	574	Rice	51	1475714	Godber, Peter	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1475714	So	OL	3	3	1	 	 	 
+2016	12240	574	Rice	1	1354293	Dillard, Darik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1354293	Jr	RB	3	1	 	1	 	 
+2016	12240	574	Rice	6a	1354288	Espinosa, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1354288	Sr	DB	3	3	 	 	2	 
+2016	12240	574	Rice	6	1240730	Jackson, Driphus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1240730	Sr	QB	3	3	 	1	 	3
+2016	12240	574	Rice	10	1354282	Stehling, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1354282	Jr	QB	1	0	 	 	 	1
+2016	12240	587	Rutgers	7	1565651	Martin, Robert	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1565651	So	RB	3	0	 	1	 	 
+2016	12240	587	Rutgers	8	1563765	Hicks, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1563765	So	RB	3	0	 	1	 	 
+2016	12240	587	Rutgers	31	1453342	Cioffi, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1453342	Jr	DB	3	3	 	 	2	 
+2016	12240	587	Rutgers	5	1453325	Laviano, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1453325	So	QB	3	2	 	1	 	3
+2016	12240	587	Rutgers	13	1346968	Agudosi, Carlton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1346968	Jr	WR	2	1	 	1	 	 
+2016	12240	663	SMU	4J	1685844	Johnson, David	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1685844	N/A	DB	3	0	1	 	1	 
+2016	12240	663	SMU	6	1677377	West, Braeden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1677377	Fr	RB	3	1	 	1	 	 
+2016	12240	663	SMU	10	1677362	Jones, Xavier	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1677362	Fr	RB	3	1	 	1	 	 
+2016	12240	663	SMU	4	1562721	Davis, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1562721	Jr	QB	3	3	 	1	 	2
+2016	12240	663	SMU	29	1455272	Richardson, Darrion	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1455272	Jr	DB	3	3	 	 	1	 
+2016	12240	663	SMU	9	1361265	Richardson, Horace	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1361265	Jr	DB	3	3	 	 	2	 
+2016	12240	663	SMU	1	1224871	Yenga, Jonathan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1224871	Sr	LB	3	3	1	 	 	 
+2016	12240	626	San Diego St.	7	1685003	Whittaker, J.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1685003	Sr	DB	3	3	 	 	1	 
+2016	12240	626	San Diego St.	22	1242397	Price, Chase	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1242397	Sr	RB	3	1	 	1	 	 
+2016	12240	626	San Diego St.	23	1357013	Kazee, Damontae	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1357013	Jr	DB	3	3	 	 	3	 
+2016	12240	626	San Diego St.	17	1684995	Smith, Maxwell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1684995	Sr	QB	3	3	 	 	 	2
+2016	12240	626	San Diego St.	54	1462288	Munson, Calvin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1462288	Jr	LB	3	3	1	 	2	 
+2016	12240	626	San Diego St.	10	1579177	Chapman, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1579177	Fr	QB	2	0	 	 	 	1
+2016	12240	630	San Jose St.	8	1342623	Pruitt, Jimmy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1342623	Sr	DB	3	3	 	 	1	 
+2016	12240	630	San Jose St.	5	1678355	Potter, Kenny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1678355	Jr	QB	3	2	 	 	 	1
+2016	12240	630	San Jose St.	6W	1562634	Wallace III, Cleveland	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1562634	Jr	DB	3	3	 	 	1	 
+2016	12240	630	San Jose St.	49	1348469	Smith, Shane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1348469	Jr	RB	3	1	1	 	 	 
+2016	12240	630	San Jose St.	6	1342626	Gray, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1342626	Sr	QB	3	1	 	 	 	2
+2016	12240	630	San Jose St.	8W	1562635	Watson, Malik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1562635	Jr	QB	2	0	 	 	 	1
+2016	12240	646	South Ala.	15	1254206	May, E.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1254206	Sr	DB	3	2	 	 	1	 
+2016	12240	646	South Ala.	9	1723120	Thomas, Tyreis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1723120	Jr	RB	3	1	 	1	 	 
+2016	12240	646	South Ala.	7	1723117	Clements, Cody	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1723117	Sr	QB	3	3	 	 	 	3
+2016	12240	646	South Ala.	4	1723114	Thompson, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1723114	Fr	DB	3	1	 	1	 	 
+2016	12240	646	South Ala.	94	1609413	Chanet, Dondre	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1609413	Sr	DL	3	1	1	 	 	 
+2016	12240	646	South Ala.	9A	1609383	Reaves, Jeremy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1609383	So	DB	3	3	 	 	1	 
+2016	12240	646	South Ala.	55	1471766	Harper, Demarion	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471766	Sr	DL	3	3	1	 	 	 
+2016	12240	646	South Ala.	23	1471758	Buchanan, Roman	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471758	Jr	DB	3	3	 	 	1	 
+2016	12240	646	South Ala.	19	1723130	Davis, Dallas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1723130	Fr	QB	2	0	 	1	 	 
+2016	12240	648	South Carolina	1P	1468228	Orth, Perry	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468228	Jr	QB	2	0	 	 	 	1
+2016	12240	648	South Carolina	10	1468227	Moore, Skai	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468227	Jr	LB	2	2	 	 	3	 
+2016	12240	648	South Carolina	42	1353193	Diggs, Jordan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1353193	Jr	DB	2	2	 	 	1	 
+2016	12240	651	South Fla.	19	1701790	Hoggins, Ronnie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1701790	Fr	DB	2	0	 	 	1	 
+2016	12240	651	South Fla.	9	1570915	Flowers, Quinton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1570915	So	QB	2	2	 	 	 	2
+2016	12240	651	South Fla.	30	1357558	Spencer, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1357558	Jr	DB	1	0	 	 	1	 
+2016	12240	657	Southern California	58	1673508	Masina, Osa	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1673508	Fr	LB	3	0	1	 	 	 
+2016	12240	657	Southern California	4	1673500	Hawkins, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1673500	So	DB	3	3	1	 	1	 
+2016	12240	657	Southern California	21	1451358	Cravens, Su'A	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451358	Jr	LB	3	3	 	 	1	 
+2016	12240	664	Southern Miss.	25	1583355	Smith, Ito	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583355	So	RB	3	1	 	1	 	 
+2016	12240	664	Southern Miss.	19	1583331	Mikell, Curtis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583331	So	DB	3	0	1	 	 	 
+2016	12240	664	Southern Miss.	9	1479754	Mullens, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1479754	Jr	QB	3	3	 	 	 	3
+2016	12240	664	Southern Miss.	11	1381465	Reed, Kalan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1381465	Sr	DL	3	3	 	 	1	 
+2016	12240	664	Southern Miss.	15	1716512	Foster, Devonta	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1716512	Jr	DB	1	1	1	 	 	 
+2016	12240	674	Stanford	17	1683149	Scarlett, Brennan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1683149	Sr	DL	3	2	1	 	 	 
+2016	12240	674	Stanford	0H	1683138	Hogan, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1683138	Sr	QB	3	3	 	 	 	1
+2016	12240	674	Stanford	0E	1566077	McCaffrey, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1566077	So	RB	3	3	 	1	 	 
+2016	12240	674	Stanford	4	1391854	Martinez, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1391854	Sr	LB	3	3	 	 	1	 
+2016	12240	688	Syracuse	18	1677889	Strickland, Dontae	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1677889	Fr	RB	3	0	1	 	 	 
+2016	12240	688	Syracuse	51	1677810	Simmons, Donnie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1677810	Sr	DL	3	3	 	 	1	 
+2016	12240	688	Syracuse	52	1564148	Samuels, Kayton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564148	Fr	DL	3	3	1	 	 	 
+2016	12240	688	Syracuse	4	1564110	Franklin, Zaire	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564110	So	LB	3	3	 	 	1	 
+2016	12240	688	Syracuse	8C	1564095	Cordy, Antwan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564095	So	DB	3	3	1	 	 	 
+2016	12240	688	Syracuse	30	1564093	Bennett, Parris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564093	So	LB	3	3	1	 	1	 
+2016	12240	688	Syracuse	11	1475216	Winfield, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1475216	So	DB	3	3	 	 	2	 
+2016	12240	688	Syracuse	5W	1475215	Wilson, Austin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1475215	So	QB	2	0	 	 	 	1
 2016	12240	688	Syracuse	10	1677796	Hunt, Terrel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1677796	Sr	QB	1	1	 	 	 	1
-2016	12240	688	Syracuse	52	1564148	Samuels, Kayton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564148	Fr	DL	1	1	1	 	 	 
-2016	12240	688	Syracuse	8C	1564095	Cordy, Antwan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1564095	So	DB	1	1	1	 	 	 
-2016	12240	688	Syracuse	11	1475216	Winfield, Corey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1475216	So	DB	1	1	 	 	1	 
-2016	12240	698	TCU	18	1579437	Orr, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1579437	So	DB	1	1	1	 	 	 
-2016	12240	698	TCU	22	1468461	Green, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468461	Sr	RB	1	1	 	1	 	 
-2016	12240	698	TCU	94	1388722	Carraway, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1388722	Jr	DL	1	1	1	 	 	 
-2016	12240	698	TCU	2	1263231	Boykin, Trevone	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1263231	Sr	QB	1	1	 	 	 	1
-2016	12240	718	Tulane	12	1463123	Lee, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463123	So	QB	1	1	 	 	 	1
-2016	12240	718	Tulane	6	1463106	Franklin, Jarrod	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463106	So	LB	1	1	1	 	 	 
-2016	12240	718	Tulane	2	1340005	Monroe, Darion	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1340005	Sr	DB	1	1	1	 	 	 
-2016	12240	128	UCF	2A	1339325	Johnson, Drico	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339325	Jr	DB	1	1	1	 	 	 
-2016	12240	706	UTSA	4	1593976	Bogenschutz, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1593976	Fr	QB	1	1	 	 	 	1
-2016	12240	706	UTSA	88	1351088	Grubb, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1351088	Sr	WR	1	1	 	1	 	 
-2016	12240	706	UTSA	25	1257025	Sanchez, Mauricio	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1257025	Sr	DB	1	1	1	 	 	 
-2016	12240	732	Utah	16	1710295	Butler-Byrd, Cory	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1710295	Jr	DB	1	1	 	 	1	 
-2016	12240	732	Utah	20	1588295	Williams, Marcus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588295	So	DB	1	1	 	 	1	 
-2016	12240	732	Utah	12	1372967	Thomas, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1372967	Jr	DB	1	0	 	 	1	 
-2016	12240	732	Utah	7A	1372966	Wilson, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1372966	Sr	QB	1	1	 	 	 	1
-2016	12240	731	Utah St.	16	1274598	Keeton, Chuckie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1274598	Sr	QB	1	1	 	 	 	1
-2016	12240	736	Vanderbilt	31	1594609	Herndon, Tre	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1594609	So	DB	1	1	 	1	 	 
-2016	12240	736	Vanderbilt	2	1455342	McCrary, Johnny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1455342	So	QB	1	1	 	 	 	2
-2016	12240	772	Western Ky.	13	1702617	Newton, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1702617	Sr	LB	1	1	 	 	1	 
-2016	12240	772	Western Ky.	10	1593882	Holt, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1593882	Sr	LB	1	1	 	 	1	 
-2016	12240	772	Western Ky.	34	1475570	Davis, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1475570	Jr	LB	1	0	1	 	 	 
-2016	12240	774	Western Mich.	1	1716171	Atkins, Rontavious	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1716171	Sr	DB	1	1	1	 	 	 
-2016	12240	774	Western Mich.	1A	1348997	Terrell, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1348997	Jr	QB	1	1	 	 	 	2
+2016	12240	698	TCU	97	1579474	Bradley, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1579474	So	DL	3	3	1	 	 	 
+2016	12240	698	TCU	18	1579437	Orr, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1579437	So	DB	3	3	1	 	 	 
+2016	12240	698	TCU	30	1468465	Johnson, Denzel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468465	Jr	DB	3	3	 	 	1	 
+2016	12240	698	TCU	16	1468463	Downing, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468463	So	DB	3	0	 	 	1	 
+2016	12240	698	TCU	22	1468461	Green, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468461	Sr	RB	3	2	 	1	 	 
+2016	12240	698	TCU	94	1388722	Carraway, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1388722	Jr	DL	3	3	1	 	 	 
+2016	12240	698	TCU	2	1263231	Boykin, Trevone	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1263231	Sr	QB	3	3	 	 	 	3
+2016	12240	690	Temple	6	1348688	Marshall, Stephaun	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1348688	Jr	LB	3	2	 	 	1	 
+2016	12240	690	Temple	8	1348691	Matakevich, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1348691	Sr	LB	3	3	 	 	2	 
+2016	12240	690	Temple	21	1576504	Wells, Alex	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1576504	Sr	DB	3	3	 	 	1	 
+2016	12240	690	Temple	11	1478416	Walker, P.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1478416	Jr	QB	3	3	 	1	 	2
+2016	12240	690	Temple	5	1478407	Thomas, Jahad	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1478407	Jr	RB	3	3	 	2	 	 
+2016	12240	690	Temple	32	1478343	Hayes, Will	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1478343	Sr	DB	3	3	1	 	1	 
+2016	12240	690	Temple	56	1478305	Finch, Sharif	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1478305	Jr	DL	3	0	 	 	1	 
+2016	12240	690	Temple	9	1407007	Ioannidis, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1407007	Sr	DL	3	3	1	 	 	 
+2016	12240	694	Tennessee	0C	1723780	Tuttle, Shy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1723780	Fr	DL	3	0	1	 	 	 
+2016	12240	694	Tennessee	0G	1723782	Kelly Jr., Todd	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1723782	So	DB	3	2	 	 	2	 
+2016	12240	694	Tennessee	21	1725654	Reeves-Maybin, Jalen	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1725654	Jr	LB	3	3	1	 	 	 
+2016	12240	694	Tennessee	11	1725643	Dobbs, Joshua	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1725643	Jr	QB	3	3	 	 	 	1
+2016	12240	694	Tennessee	9	1725641	Barnett, Derek	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1725641	So	DL	3	3	1	 	 	 
+2016	12240	694	Tennessee	33	1725664	McNeil, Ladarrell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1725664	Sr	DB	1	0	 	 	1	 
+2016	12240	703	Texas	99	1724362	Jackson, Desmond	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1724362	Sr	DL	3	3	1	 	 	 
+2016	12240	703	Texas	46	1724177	Jefferson, Malik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1724177	Fr	LB	3	3	1	 	 	 
+2016	12240	703	Texas	44	1724173	Hager, Breckyn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1724173	Fr	LB	3	0	 	 	1	 
+2016	12240	703	Texas	13	1630499	Heard, Jerrod	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1630499	Fr	QB	3	2	 	1	 	1
+2016	12240	703	Texas	31	1602449	Hall, Jason	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1602449	So	DB	3	3	 	1	1	 
+2016	12240	703	Texas	14	1483363	Haines, Dylan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1483363	Jr	DB	3	3	 	 	1	 
+2016	12240	703	Texas	2D	1483358	Davis, Antwuan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1483358	So	DB	3	3	1	 	 	 
+2016	12240	703	Texas	93	1483354	Boyette Jr., Paul	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1483354	Jr	DL	3	0	1	 	 	 
+2016	12240	697	Texas A&M	1	1726191	Murray, Kyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726191	Fr	QB	3	0	 	1	 	1
+2016	12240	697	Texas A&M	6	1614660	Wilson, Donovan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1614660	So	DB	3	2	 	 	1	 
+2016	12240	697	Texas A&M	10	1598649	Allen, Kyle	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1598649	So	QB	3	3	 	1	 	2
+2016	12240	697	Texas A&M	33	1485867	Washington, Shaan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1485867	Jr	LB	3	3	1	 	 	 
+2016	12240	697	Texas A&M	4X	1485832	Ellis, Noel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1485832	Jr	DB	3	0	1	 	 	 
+2016	12240	697	Texas A&M	5	1379559	Carson, Tra	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1379559	Sr	RB	3	3	 	1	 	 
+2016	12240	697	Texas A&M	1X	1379552	Harris, De'Vante	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1379552	Sr	DB	3	3	 	 	1	 
+2016	12240	670	Texas St.	20	1563837	Johnson, Stephan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1563837	So	DB	3	0	 	1	 	 
+2016	12240	670	Texas St.	52	1525444	McGowen, Trey	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1525444	Sr	LB	3	3	1	 	 	 
+2016	12240	670	Texas St.	6	1462465	McDowell, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1462465	So	DB	3	3	1	1	 	 
+2016	12240	670	Texas St.	63	1462464	McClarty, Dallas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1462464	Jr	DL	3	3	1	 	 	 
+2016	12240	670	Texas St.	30	1278568	Nutall, Chris	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1278568	Sr	RB	3	0	 	1	 	 
+2016	12240	670	Texas St.	21	1687422	Clanton, Donta	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1687422	Sr	DB	2	0	1	 	 	 
+2016	12240	700	Texas Tech	52	1720156	Mitchell, Mike	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1720156	So	LB	3	0	1	 	 	 
+2016	12240	700	Texas Tech	3	1259004	Gaines, J.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1259004	Sr	DB	3	2	1	 	1	 
+2016	12240	700	Texas Tech	90	1592249	McElrath, Keland	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1592249	Sr	DL	3	0	1	 	 	 
+2016	12240	700	Texas Tech	20	1592201	Madison, Tevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1592201	So	DB	3	3	 	 	1	 
+2016	12240	700	Texas Tech	5	1592195	Mahomes, Patrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1592195	So	QB	3	3	 	 	 	3
+2016	12240	700	Texas Tech	7A	1592166	Johnson, Jah'Shawn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1592166	Fr	DB	3	3	2	 	 	 
+2016	12240	700	Texas Tech	17	1358974	Nguema, Thierry	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1358974	Jr	DB	2	0	 	 	1	 
+2016	12240	709	Toledo	23	1473326	Rogers, Dejuan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1473326	Jr	DB	2	2	 	 	1	 
+2016	12240	709	Toledo	3C	1565211	Swift, Connery	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1565211	Jr	DB	2	0	1	 	 	 
+2016	12240	709	Toledo	12	1565208	Ely, Phillip	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1565208	Sr	QB	2	2	 	 	 	1
+2016	12240	716	Troy	12	1468576	Silvers, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1468576	So	QB	3	3	 	2	 	 
+2016	12240	716	Troy	92	1357831	Peek, Garrett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1357831	Jr	DL	3	3	1	 	 	 
+2016	12240	716	Troy	11	1245151	Tidwell, Dallas	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1245151	Sr	QB	3	0	 	 	 	1
+2016	12240	718	Tulane	77	1463144	Smart, Tanzel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463144	Jr	DL	3	3	1	 	 	 
+2016	12240	718	Tulane	12	1463123	Lee, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463123	So	QB	3	3	 	 	 	2
+2016	12240	718	Tulane	6	1463106	Franklin, Jarrod	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463106	So	LB	3	3	1	 	 	 
+2016	12240	718	Tulane	25	1340008	Rounds, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1340008	Jr	RB	3	0	 	1	 	 
+2016	12240	718	Tulane	2	1340005	Monroe, Darion	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1340005	Sr	DB	2	2	1	 	1	 
+2016	12240	718	Tulane	16	1731934	Joseph, Jordy	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1731934	N/A	""	1	0	 	 	 	1
+2016	12240	718	Tulane	11	1681443	Shy, Dedrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1681443	Fr	DB	1	0	 	 	1	 
+2016	12240	719	Tulsa	7	1577858	Louie, Bishop	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1577858	So	WR	3	0	 	1	 	 
+2016	12240	719	Tulsa	4	1577849	Brewer, D'Angelo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1577849	So	RB	3	3	 	1	 	 
+2016	12240	719	Tulsa	2T	1471959	Thomas, Kerwin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471959	So	DB	3	3	 	 	1	 
+2016	12240	719	Tulsa	8B	1471933	Brubaker, Jesse	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1471933	So	DL	3	3	1	 	 	 
+2016	12240	719	Tulsa	9	1348011	Evans, Dane	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1348011	Jr	QB	3	3	 	1	 	2
+2016	12240	719	Tulsa	54	1233043	Alexander, Derrick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1233043	Sr	DL	3	3	2	 	 	 
+2016	12240	128	UCF	2A	1339325	Johnson, Drico	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339325	Jr	DB	3	3	1	 	 	 
+2016	12240	128	UCF	35	1339340	Straubel, Brendin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339340	Sr	DB	3	0	1	 	 	 
+2016	12240	128	UCF	29	1562088	Jones, C.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1562088	Fr	RB	3	0	 	1	 	 
+2016	12240	128	UCF	28	1451097	Stanback, William	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451097	Jr	RB	2	0	 	1	 	 
+2016	12240	128	UCF	8	1562083	Harris, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1562083	Fr	QB	2	0	 	 	 	2
+2016	12240	128	UCF	9	1687790	Schneider, Bo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1687790	Fr	QB	2	1	 	 	 	2
+2016	12240	110	UCLA	3	1677444	Rosen, Josh	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1677444	Fr	QB	3	3	 	 	 	4
+2016	12240	110	UCLA	0E	1677435	Pickett, Adarius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1677435	So	DB	3	0	 	 	1	 
+2016	12240	110	UCLA	42	1560251	Young, Kenneth	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560251	So	LB	3	3	 	 	1	 
+2016	12240	110	UCLA	30	1451457	Jack, Myles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451457	Jr	LB	3	3	 	 	1	 
+2016	12240	110	UCLA	96	1451428	Ankou, Eli	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1451428	Sr	DL	3	2	1	 	 	 
+2016	12240	110	UCLA	11	1342508	Neuheisel, Jerry	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1342508	Sr	QB	2	0	 	 	 	2
+2016	12240	164	UConn	1H	1241498	Adams, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1241498	Sr	DB	3	3	 	 	2	 
+2016	12240	164	UConn	6	1349206	Williams, Jhavon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1349206	Jr	DB	3	3	 	 	1	 
+2016	12240	164	UConn	4	1571940	Shierreffs, Bryant	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1571940	So	QB	3	3	 	1	 	1
+2016	12240	164	UConn	16	1571932	McAllister, Brice	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1571932	So	DB	3	0	1	 	 	 
+2016	12240	164	UConn	3	1571898	Johnson, Ron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1571898	So	RB	3	2	 	1	 	 
+2016	12240	164	UConn	15	1571880	Carrezola, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1571880	So	LB	3	2	1	 	 	 
+2016	12240	164	UConn	14	1454965	Boyle, Tim	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1454965	Jr	QB	3	0	 	 	 	1
+2016	12240	465	UNLV	24	1257878	Wilson, Fred	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1257878	Sr	DB	3	3	 	 	1	 
+2016	12240	465	UNLV	44	1368532	Keys, Kenny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1368532	Sr	DB	3	0	 	 	1	 
+2016	12240	465	UNLV	50	1368533	Langham, Trent	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1368533	Jr	LB	3	0	 	 	1	 
+2016	12240	465	UNLV	14	1705952	Palandech, Kurt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1705952	So	QB	3	0	 	1	 	1
+2016	12240	465	UNLV	2	1567807	Richmond, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567807	Sr	DB	3	3	 	 	1	 
+2016	12240	465	UNLV	5	1567790	Decker, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1567790	Sr	QB	3	3	 	 	 	3
+2016	12240	704	UTEP	14	1701856	Johnson, Kavika	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1701856	Fr	QB	3	0	 	1	 	 
+2016	12240	704	UTEP	5R	1701985	Redix, Warren	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1701985	Fr	WR	3	0	 	1	 	 
+2016	12240	704	UTEP	11	1454585	Leftwich, Mack	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1454585	So	QB	3	3	 	1	 	1
+2016	12240	704	UTEP	20	1572781	Needham, Nik	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1572781	Fr	DB	3	3	 	1	 	 
+2016	12240	704	UTEP	1M	1572775	Metz, Ryan	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1572775	Fr	QB	3	0	 	 	 	1
+2016	12240	704	UTEP	8F	1572773	Fisher Jr., Kelvin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1572773	Sr	DB	3	1	 	 	1	 
+2016	12240	706	UTSA	20	1721492	Winnegan, Brett	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1721492	Fr	RB	3	0	 	1	 	 
+2016	12240	706	UTSA	83	1721482	Taylor, Jabryce	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1721482	Jr	WR	3	0	 	1	 	 
+2016	12240	706	UTSA	4	1593976	Bogenschutz, Blake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1593976	Fr	QB	3	3	 	2	 	3
+2016	12240	706	UTSA	11	1593968	Gaines, Nate	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1593968	So	DB	3	3	1	 	 	 
+2016	12240	706	UTSA	88	1351088	Grubb, Aaron	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1351088	Sr	WR	3	3	 	1	 	 
+2016	12240	706	UTSA	25	1257025	Sanchez, Mauricio	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1257025	Sr	DB	3	3	1	 	 	 
+2016	12240	706	UTSA	5	1721488	White, Corbin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1721488	Jr	RB	1	0	 	1	 	 
+2016	12240	732	Utah	16	1710295	Butler-Byrd, Cory	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1710295	Jr	DB	3	3	 	 	1	 
+2016	12240	732	Utah	20	1588295	Williams, Marcus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588295	So	DB	3	3	 	 	2	 
+2016	12240	732	Utah	1	1588193	Hobbs, Boobie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588193	So	DB	3	0	 	1	 	 
+2016	12240	732	Utah	37	1588181	Drews, Christian	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588181	So	LB	3	0	1	 	 	 
+2016	12240	732	Utah	90	1479048	Tu'ikolovatu, Stevie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1479048	Jr	DL	3	0	1	 	 	 
+2016	12240	732	Utah	13	1479024	Paul, Gionni	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1479024	Sr	LB	3	3	1	 	1	 
+2016	12240	732	Utah	12	1372967	Thomas, Justin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1372967	Jr	DB	3	2	 	 	1	 
+2016	12240	732	Utah	1A	1588292	Thompson, Kendal	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1588292	Sr	QB	2	1	 	1	 	1
+2016	12240	732	Utah	7A	1372966	Wilson, Travis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1372966	Sr	QB	2	2	 	 	 	1
+2016	12240	731	Utah St.	15	1573886	Floyd, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1573886	Sr	DB	3	3	1	 	 	 
+2016	12240	731	Utah St.	16	1274598	Keeton, Chuckie	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1274598	Sr	QB	3	3	 	1	 	5
+2016	12240	731	Utah St.	37	1573932	Centers, Devin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1573932	Jr	DB	3	3	 	 	1	 
+2016	12240	731	Utah St.	27	1573901	Rocquemore, Jontrell	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1573901	Fr	DB	3	0	1	 	 	 
+2016	12240	736	Vanderbilt	31	1594609	Herndon, Tre	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1594609	So	DB	2	2	 	1	 	 
+2016	12240	736	Vanderbilt	2	1455342	McCrary, Johnny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1455342	So	QB	2	2	 	 	 	5
+2016	12240	736	Vanderbilt	20	1455333	Burks, Oren	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1455333	So	DB	2	2	1	 	 	 
+2016	12240	746	Virginia	15	1340886	Johns, Matt	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1340886	Jr	QB	2	2	 	1	 	1
+2016	12240	742	Virginia Tech	36	1724709	Alexander, Adonis	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1724709	Fr	DB	3	1	 	 	2	 
+2016	12240	742	Virginia Tech	24	1560417	Shegog, Anthony	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560417	So	DB	3	0	1	 	 	 
+2016	12240	742	Virginia Tech	19	1475011	Clark, Chuck	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1475011	Jr	DB	3	3	1	 	 	 
+2016	12240	742	Virginia Tech	9	1453026	Motley, Brenden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1453026	Jr	QB	3	2	 	1	 	1
+2016	12240	742	Virginia Tech	26	1356040	Frye, Desmond	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1356040	Jr	DB	3	2	 	 	1	 
+2016	12240	742	Virginia Tech	4	1339242	Coleman, J.C.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1339242	Sr	RB	3	2	 	1	 	 
+2016	12240	742	Virginia Tech	37	1252961	Vandyke, Ronny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1252961	Sr	DB	3	2	1	 	 	 
+2016	12240	742	Virginia Tech	6	1724727	Reynolds, Mook	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1724727	Fr	DB	2	0	1	 	 	 
+2016	12240	742	Virginia Tech	56	1560428	Huelskamp, Sean	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560428	So	LB	2	1	 	 	1	 
+2016	12240	742	Virginia Tech	54	1560427	Motuapuaka, Andrew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1560427	So	LB	2	2	 	 	1	 
+2016	12240	749	Wake Forest	10	1575000	Wolford, John	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1575000	So	QB	3	3	 	 	 	4
+2016	12240	749	Wake Forest	2H	1700810	Hinton, Kendall	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1700810	Fr	QB	2	0	 	 	 	2
+2016	12240	756	Washington	5A	1349367	Lindquist, Jeff	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1349367	Jr	QB	3	0	 	1	 	 
+2016	12240	756	Washington	9	1349370	Beaver, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1349370	Jr	DB	3	0	 	 	1	 
+2016	12240	756	Washington	3A	1680269	Browning, Jake	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1680269	Fr	QB	3	3	 	 	 	2
+2016	12240	756	Washington	81	1563168	Lenius, Brayden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1563168	So	WR	3	1	 	1	 	 
+2016	12240	756	Washington	5	1463714	Mathis, Joe	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463714	Jr	DL	3	3	1	 	 	 
+2016	12240	756	Washington	20	1463712	King, Kevin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1463712	Jr	DB	3	2	 	 	3	 
+2016	12240	756	Washington	11	1563154	Carta-Samuels, K.J.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1563154	Fr	QB	2	0	 	1	 	 
+2016	12240	754	Washington St.	8	1373338	Allison, Jeremiah	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1373338	Sr	LB	3	3	 	 	1	 
+2016	12240	754	Washington St.	97	1373362	Vaeao, Destiny	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1373362	Sr	DL	3	3	1	 	 	 
+2016	12240	754	Washington St.	1	1680673	Priester, Kyrin	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1680673	Fr	WR	3	0	 	1	 	 
+2016	12240	754	Washington St.	50	1583803	Mata'afa, Hercules	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583803	Fr	DL	3	0	1	 	 	 
+2016	12240	754	Washington St.	27	1583792	Pippins, Marcellus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583792	So	DB	3	2	 	 	1	 
+2016	12240	754	Washington St.	4	1464481	Falk, Luke	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1464481	So	QB	3	3	 	 	 	1
+2016	12240	754	Washington St.	31	1464479	Dotson, Isaac	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1464479	So	DB	2	2	1	 	 	 
+2016	12240	754	Washington St.	6	1583787	Bender, Peyton	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1583787	Fr	QB	1	0	 	 	 	1
+2016	12240	768	West Virginia	6D	1562472	Askew-Henry, Dravon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1562472	So	DB	2	2	 	 	1	 
+2016	12240	768	West Virginia	8D	1338531	Joseph, Karl	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1338531	Sr	DB	2	2	1	 	3	 
+2016	12240	772	Western Ky.	13	1702617	Newton, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1702617	Sr	LB	3	3	 	 	1	 
+2016	12240	772	Western Ky.	12	1132673	Doughty, Brandon	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1132673	Sr	QB	3	3	 	 	 	2
+2016	12240	772	Western Ky.	82	1251380	Higbee, Tyler	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1251380	Sr	TE	3	3	 	1	 	 
+2016	12240	772	Western Ky.	30	1393476	Iworah, Prince Charles	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1393476	Sr	DB	3	3	 	 	1	 
+2016	12240	772	Western Ky.	10	1593882	Holt, Nick	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1593882	Sr	LB	3	3	1	 	1	 
+2016	12240	772	Western Ky.	31	1475592	Leston, Branden	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1475592	Jr	DB	3	2	1	 	 	 
+2016	12240	772	Western Ky.	34	1475570	Davis, Drew	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1475570	Jr	LB	3	0	1	 	 	 
+2016	12240	774	Western Mich.	5A	1725399	Bellamy, L	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1725399	N/A	""	3	0	 	1	 	 
+2016	12240	774	Western Mich.	1B	1716180	Thompson, Carrington	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1716180	Jr	WR	3	0	 	1	 	 
+2016	12240	774	Western Mich.	1	1716171	Atkins, Rontavious	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1716171	Sr	DB	3	3	1	 	 	 
+2016	12240	774	Western Mich.	14	1481961	Phillips, Darius	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1481961	So	DB	3	3	 	 	1	 
+2016	12240	774	Western Mich.	1A	1348997	Terrell, Zach	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1348997	Jr	QB	3	3	 	1	 	5
+2016	12240	796	Wisconsin	7	1225308	Caputo, Michael	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1225308	Sr	DB	3	3	1	 	 	 
+2016	12240	796	Wisconsin	2	1225497	Stave, Joel	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1225497	Sr	QB	3	3	 	 	 	2
+2016	12240	796	Wisconsin	60	1490493	Udelhoven, Conn	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1490493	Jr	OL	3	0	1	 	 	 
+2016	12240	796	Wisconsin	3	1464083	McEvoy, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1464083	Sr	WR	3	2	 	 	1	 
+2016	12240	796	Wisconsin	19	1344465	Musso, Leo	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1344465	Jr	DB	3	1	 	 	2	 
+2016	12240	811	Wyoming	4	1457482	Gentry, Tanner	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1457482	Jr	WR	3	3	 	1	 	 
+2016	12240	811	Wyoming	20	1679200	Murphy, Justice	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1679200	Fr	WR	3	0	 	1	 	 
+2016	12240	811	Wyoming	22D	1579948	Epps, Marcus	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1579948	So	DB	2	2	 	 	1	 
+2016	12240	811	Wyoming	2	1726383	Coffman, C.	http://stats.ncaa.org/player?game_sport_year_ctl_id=12240&stats_player_seq=1726383	N/A	QB	2	2	 	 	 	1
