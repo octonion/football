@@ -1,0 +1,27 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1974	PIT	Pittsburgh Steelers		http://www.nfl.com/teams/profile?team=PIT	10	3	1	.750	305	189	116	35	5-2	5-1-1	4-2	.667	7-3-1	.682	3-0	2W	4-1
+1974	CIN	Cincinnati Bengals		http://www.nfl.com/teams/profile?team=CIN	7	7	0	.500	283	259	24	36	4-3	3-4	3-3	.500	5-6	.455	2-1	3L	1-4
+1974	TEN	Houston Oilers		http://www.nfl.com/teams/profile?team=TEN	7	7	0	.500	236	282	-46	30	3-4	4-3	4-2	.667	7-4	.636	0-3	1W	3-2
+1974	CLE	Cleveland Browns		http://www.nfl.com/teams/profile?team=CLE	4	10	0	.286	251	344	-93	30	3-4	1-6	1-5	.167	3-8	.273	1-2	2L	1-4
+1974	MIA	Miami Dolphins		http://www.nfl.com/teams/profile?team=MIA	11	3	0	.786	327	216	111	43	7-0	4-3	6-2	.750	9-2	.818	2-1	3W	4-1
+1974	BUF	Buffalo Bills		http://www.nfl.com/teams/profile?team=BUF	9	5	0	.643	264	244	20	30	5-2	4-3	5-3	.625	7-4	.636	2-1	2L	2-3
+1974	NE	New England Patriots		http://www.nfl.com/teams/profile?team=NE	7	7	0	.500	348	289	59	43	3-4	4-3	4-4	.500	4-7	.364	3-0	3L	1-4
+1974	NYJ	New York Jets		http://www.nfl.com/teams/profile?team=NYJ	7	7	0	.500	279	300	-21	36	3-4	4-3	4-4	.500	5-6	.455	2-1	6W	5-0
+1974	IND	Baltimore Colts		http://www.nfl.com/teams/profile?team=IND	2	12	0	.143	190	329	-139	22	0-7	2-5	1-7	.125	1-10	.091	1-2	4L	1-4
+1974	OAK	Oakland Raiders		http://www.nfl.com/teams/profile?team=OAK	12	2	0	.857	355	228	127	46	6-1	6-1	5-1	.833	9-2	.818	3-0	3W	4-1
+1974	DEN	Denver Broncos		http://www.nfl.com/teams/profile?team=DEN	7	6	1	.536	302	294	8	39	3-3-1	4-3	3-3	.500	5-4-1	.550	2-2	1L	3-2
+1974	SD	San Diego Chargers		http://www.nfl.com/teams/profile?team=SD	5	9	0	.357	212	285	-73	28	3-4	2-5	2-4	.333	4-7	.364	1-2	2W	2-3
+1974	KC	Kansas City Chiefs		http://www.nfl.com/teams/profile?team=KC	5	9	0	.357	233	293	-60	26	1-6	4-3	2-4	.333	4-7	.364	1-2	2L	2-3
+1974	MIN	Minnesota Vikings		http://www.nfl.com/teams/profile?team=MIN	10	4	0	.714	310	195	115	40	4-3	6-1	4-2	.667	8-3	.727	2-1	3W	3-2
+1974	DET	Detroit Lions		http://www.nfl.com/teams/profile?team=DET	7	7	0	.500	256	270	-14	27	5-2	2-5	3-3	.500	6-5	.545	1-2	1L	3-2
+1974	GB	Green Bay Packers		http://www.nfl.com/teams/profile?team=GB	6	8	0	.429	210	206	4	19	4-3	2-5	3-3	.500	4-7	.364	2-1	3L	2-3
+1974	CHI	Chicago Bears		http://www.nfl.com/teams/profile?team=CHI	4	10	0	.286	152	279	-127	18	4-3	0-7	2-4	.333	4-7	.364	0-3	2L	1-4
+1974	ARI	St. Louis Cardinals		http://www.nfl.com/teams/profile?team=ARI	10	4	0	.714	285	218	67	36	5-2	5-2	7-1	.875	8-3	.727	2-1	1W	3-2
+1974	WAS	Washington Redskins		http://www.nfl.com/teams/profile?team=WAS	10	4	0	.714	320	196	124	38	6-1	4-3	5-3	.625	8-3	.727	2-1	2W	4-1
+1974	DAL	Dallas Cowboys		http://www.nfl.com/teams/profile?team=DAL	8	6	0	.571	297	235	62	38	5-2	3-4	4-4	.500	6-5	.545	2-1	1L	3-2
+1974	PHI	Philadelphia Eagles		http://www.nfl.com/teams/profile?team=PHI	7	7	0	.500	242	217	25	31	5-2	2-5	3-5	.375	5-6	.455	2-1	3W	3-2
+1974	NYG	New York Giants		http://www.nfl.com/teams/profile?team=NYG	2	12	0	.143	195	299	-104	24	0-7	2-5	1-7	.125	1-10	.091	1-2	6L	0-5
+1974	STL	Los Angeles Rams		http://www.nfl.com/teams/profile?team=STL	10	4	0	.714	263	181	82	35	6-1	4-3	5-1	.833	7-3	.700	3-1	1W	3-2
+1974	SF	San Francisco 49ers		http://www.nfl.com/teams/profile?team=SF	6	8	0	.429	226	236	-10	28	3-4	3-4	4-2	.667	6-5	.545	0-3	2W	4-1
+1974	NO	New Orleans Saints		http://www.nfl.com/teams/profile?team=NO	5	9	0	.357	166	263	-97	20	4-3	1-6	3-3	.500	5-6	.455	0-3	1L	2-3
+1974	ATL	Atlanta Falcons		http://www.nfl.com/teams/profile?team=ATL	3	11	0	.214	111	271	-160	12	2-5	1-6	0-6	.000	3-8	.273	0-3	1W	1-4

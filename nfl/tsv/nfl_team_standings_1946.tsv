@@ -1,0 +1,19 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1946	CHI	Chicago Bears		http://www.nfl.com/teams/profile?team=CHI	8	2	1	.800	289	193	96	40	4-1-1	4-1	0-0	.000	6-1-1	.857	2-1	1W	4-1
+1946	NYG	New York Giants		http://www.nfl.com/teams/profile?team=NYG	7	3	1	.700	236	162	74	32	5-1-1	2-2	0-0	.000	5-2-1	.714	2-1	1W	3-1-1
+1946	STL	Los Angeles Rams		http://www.nfl.com/teams/profile?team=STL	6	4	1	.600	277	257	20	37	3-2	3-2-1	0-0	.000	5-2-1	.714	1-2	2W	3-2
+1946	GB	Green Bay Packers		http://www.nfl.com/teams/profile?team=GB	6	5	0	.545	148	158	-10	17	2-3	4-2	0-0	.000	3-5	.375	3-0	1L	3-2
+1946	PHI	Philadelphia Eagles		http://www.nfl.com/teams/profile?team=PHI	6	5	0	.545	231	220	11	29	3-2	3-3	0-0	.000	5-3	.625	1-2	2W	2-3
+1946	ARI	Chicago Cardinals		http://www.nfl.com/teams/profile?team=ARI	6	5	0	.545	260	198	62	35	2-2	4-3	0-0	.000	5-3	.625	1-2	2W	3-2
+1946	PIT	Pittsburgh Steelers		http://www.nfl.com/teams/profile?team=PIT	5	5	1	.500	136	117	19	19	4-1	1-4-1	0-0	.000	4-3-1	.571	1-2	2L	2-3
+1946	WAS	Washington Redskins		http://www.nfl.com/teams/profile?team=WAS	5	5	1	.500	171	191	-20	22	3-2-1	2-3	0-0	.000	4-3-1	.571	1-2	2L	2-3
+1946	IND	Boston Yanks		http://www.nfl.com/teams/profile?team=IND	2	8	1	.200	189	273	-84	28	1-5	1-3-1	0-0	.000	0-7-1	.000	2-1	1L	2-2-1
+1946	DET	Detroit Lions		http://www.nfl.com/teams/profile?team=DET	1	10	0	.091	142	310	-168	19	1-5	0-5	0-0	.000	0-8	.000	1-2	4L	1-4
+1946		Buffalo Bisons			0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1946	CLE	Cleveland Browns		http://www.nfl.com/teams/profile?team=CLE	0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1946		Miami Seahawks			0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1946	SF	San Francisco 49ers		http://www.nfl.com/teams/profile?team=SF	0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1946		Los Angeles Dons			0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1946		Chicago Rockets			0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1946		New York Yankees			0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1946		Brooklyn Dodgers			0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0

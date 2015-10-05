@@ -1,0 +1,23 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1965	SD	San Diego Chargers		http://www.nfl.com/teams/profile?team=SD	9	2	3	.818	340	227	113	41	4-1-2	5-1-1	0-0	.000	4-1-1	.800	5-1-2	3W	3-1-1
+1965	CLE	Cleveland Browns		http://www.nfl.com/teams/profile?team=CLE	11	3	0	.786	363	325	38	45	5-2	6-1	0-0	.000	11-1	.917	0-2	1W	4-1
+1965	BUF	Buffalo Bills		http://www.nfl.com/teams/profile?team=BUF	10	3	1	.769	313	226	87	33	5-2	5-1-1	0-0	.000	4-2	.667	6-1-1	1L	3-1-1
+1965	GB	Green Bay Packers		http://www.nfl.com/teams/profile?team=GB	10	3	1	.769	316	224	92	38	6-1	4-2-1	0-0	.000	8-3-1	.727	2-0	1T	3-1-1
+1965	IND	Baltimore Colts		http://www.nfl.com/teams/profile?team=IND	10	3	1	.769	389	284	105	48	5-2	5-1-1	0-0	.000	8-3-1	.727	2-0	1W	2-2-1
+1965	CHI	Chicago Bears		http://www.nfl.com/teams/profile?team=CHI	9	5	0	.643	409	275	134	54	5-2	4-3	0-0	.000	7-5	.583	2-0	1L	4-1
+1965	OAK	Oakland Raiders		http://www.nfl.com/teams/profile?team=OAK	8	5	1	.615	298	239	59	35	5-2	3-3-1	0-0	.000	3-3	.500	5-2-1	1L	3-2
+1965	KC	Kansas City Chiefs		http://www.nfl.com/teams/profile?team=KC	7	5	2	.583	322	285	37	40	5-2	2-3-2	0-0	.000	4-1-1	.800	3-4-1	1W	3-1-1
+1965	SF	San Francisco 49ers		http://www.nfl.com/teams/profile?team=SF	7	6	1	.538	421	402	19	53	4-2-1	3-4	0-0	.000	6-5-1	.545	1-1	1T	3-1-1
+1965	DAL	Dallas Cowboys		http://www.nfl.com/teams/profile?team=DAL	7	7	0	.500	325	280	45	40	5-2	2-5	0-0	.000	6-6	.500	1-1	3W	3-2
+1965	MIN	Minnesota Vikings		http://www.nfl.com/teams/profile?team=MIN	7	7	0	.500	383	403	-20	44	2-5	5-2	0-0	.000	5-7	.417	2-0	2W	2-3
+1965	NYG	New York Giants		http://www.nfl.com/teams/profile?team=NYG	7	7	0	.500	270	338	-68	37	3-4	4-3	0-0	.000	7-5	.583	0-2	1L	3-2
+1965	DET	Detroit Lions		http://www.nfl.com/teams/profile?team=DET	6	7	1	.462	257	295	-38	33	2-4-1	4-3	0-0	.000	4-7-1	.364	2-0	1W	1-3-1
+1965	WAS	Washington Redskins		http://www.nfl.com/teams/profile?team=WAS	6	8	0	.429	257	301	-44	33	3-4	3-4	0-0	.000	6-6	.500	0-2	1W	3-2
+1965	NYJ	New York Jets		http://www.nfl.com/teams/profile?team=NYJ	5	8	1	.385	285	303	-18	32	3-3-1	2-5	0-0	.000	3-3	.500	2-5-1	1W	2-3
+1965	PHI	Philadelphia Eagles		http://www.nfl.com/teams/profile?team=PHI	5	9	0	.357	363	359	4	48	2-5	3-4	0-0	.000	5-7	.417	0-2	1L	2-3
+1965	ARI	St. Louis Cardinals		http://www.nfl.com/teams/profile?team=ARI	5	9	0	.357	296	309	-13	33	2-5	3-4	0-0	.000	5-7	.417	0-2	6L	0-5
+1965	NE	Boston Patriots		http://www.nfl.com/teams/profile?team=NE	4	8	2	.333	244	302	-58	27	1-4-2	3-4	0-0	.000	2-4	.333	2-4-2	3W	3-1-1
+1965	TEN	Houston Oilers		http://www.nfl.com/teams/profile?team=TEN	4	10	0	.286	298	429	-131	37	3-4	1-6	0-0	.000	3-3	.500	1-7	7L	0-5
+1965	DEN	Denver Broncos		http://www.nfl.com/teams/profile?team=DEN	4	10	0	.286	303	392	-89	38	2-5	2-5	0-0	.000	0-6	.000	4-4	4L	1-4
+1965	STL	Los Angeles Rams		http://www.nfl.com/teams/profile?team=STL	4	10	0	.286	269	328	-59	32	3-4	1-6	0-0	.000	2-10	.167	2-0	1L	3-2
+1965	PIT	Pittsburgh Steelers		http://www.nfl.com/teams/profile?team=PIT	2	12	0	.143	202	397	-195	25	1-6	1-6	0-0	.000	2-10	.167	0-2	7L	0-5

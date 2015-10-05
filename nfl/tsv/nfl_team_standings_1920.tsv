@@ -1,0 +1,15 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1920		Akron Pros			8	0	3	1.000	151	7	144	21	6-0	2-0-3	0-0	.000	0-0	.000	8-0-3	2T	3-0-2
+1920	CHI	Decatur Staleys		http://www.nfl.com/teams/profile?team=CHI	10	1	2	.909	164	21	143	22	3-0-1	7-1-1	0-0	.000	0-0	.000	10-1-2	1T	3-1-1
+1920		Buffalo All-Americans			9	1	1	.900	258	32	226	36	9-1-1	0-0	0-0	.000	0-0	.000	9-1-1	1T	3-1-1
+1920	ARI	Chicago (Racine) Cardinals		http://www.nfl.com/teams/profile?team=ARI	6	2	1	.750	101	29	72	10	5-1	1-1-1	0-0	.000	0-0	.000	6-2-1	1L	4-1
+1920		Rock Island Independents			6	2	2	.750	201	49	152	29	6-2-1	0-0-1	0-0	.000	0-0	.000	6-2-2	1W	2-1-2
+1920		Dayton Triangles			5	2	2	.714	150	54	96	21	4-1-2	1-1	0-0	.000	0-0	.000	5-2-2	1L	3-2
+1920		Rochester Jeffersons			6	3	2	.667	156	57	99	21	6-2-2	0-1	0-0	.000	0-0	.000	6-3-2	1T	2-2-1
+1920		Canton Bulldogs			7	4	2	.636	208	57	151	28	4-1	3-3-2	0-0	.000	0-0	.000	7-4-2	1W	1-3-1
+1920		Detroit Heralds			2	3	3	.400	53	82	-29	8	2-0-2	0-3-1	0-0	.000	0-0	.000	2-3-3	2T	0-2-3
+1920		Cleveland Tigers			2	4	2	.333	28	46	-18	4	2-1-1	0-3-1	0-0	.000	0-0	.000	2-4-2	1L	2-2-1
+1920		Chicago Tigers			2	5	1	.286	49	63	-14	7	2-3-1	0-2	0-0	.000	0-0	.000	2-5-1	1W	1-4
+1920		Hammond Pros			2	5	0	.286	41	154	-113	4	0-0	2-5	0-0	.000	0-0	.000	2-5	3L	2-3
+1920		Columbus Panhandles			2	6	2	.250	41	121	-80	5	1-0	1-6-2	0-0	.000	0-0	.000	2-6-2	1W	2-1-2
+1920		Muncie Flyers			0	1	0	.000	0	45	-45	0	0-0	0-1	0-0	.000	0-0	.000	0-1	1L	0-1

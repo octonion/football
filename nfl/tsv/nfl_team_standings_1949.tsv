@@ -1,0 +1,18 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1949	PHI	Philadelphia Eagles		http://www.nfl.com/teams/profile?team=PHI	11	1	0	.917	364	134	230	48	6-0	5-1	0-0	.000	8-0	1.000	3-1	8W	5-0
+1949	STL	Los Angeles Rams		http://www.nfl.com/teams/profile?team=STL	8	2	2	.800	360	239	121	48	5-1	3-1-2	0-0	.000	6-1-1	.857	2-1-1	1W	2-1-2
+1949	CHI	Chicago Bears		http://www.nfl.com/teams/profile?team=CHI	9	3	0	.750	332	218	114	44	5-1	4-2	0-0	.000	6-2	.750	3-1	6W	5-0
+1949	PIT	Pittsburgh Steelers		http://www.nfl.com/teams/profile?team=PIT	6	5	1	.545	224	214	10	31	3-2-1	3-3	0-0	.000	4-4	.500	2-1-1	1W	2-2-1
+1949	ARI	Chicago Cardinals		http://www.nfl.com/teams/profile?team=ARI	6	5	1	.545	360	301	59	48	2-3-1	4-2	0-0	.000	4-3-1	.571	2-2	1L	3-1-1
+1949	NYG	New York Giants		http://www.nfl.com/teams/profile?team=NYG	6	6	0	.500	287	298	-11	38	2-4	4-2	0-0	.000	3-5	.375	3-1	2L	2-3
+1949	WAS	Washington Redskins		http://www.nfl.com/teams/profile?team=WAS	4	7	1	.364	268	339	-71	37	3-3	1-4-1	0-0	.000	3-4-1	.429	1-3	1L	1-4
+1949	DET	Detroit Lions		http://www.nfl.com/teams/profile?team=DET	4	8	0	.333	237	259	-22	32	2-4	2-4	0-0	.000	2-6	.250	2-2	2W	3-2
+1949	GB	Green Bay Packers		http://www.nfl.com/teams/profile?team=GB	2	10	0	.167	114	329	-215	14	1-5	1-5	0-0	.000	1-7	.125	1-3	6L	0-5
+1949	IND	New York Bulldogs		http://www.nfl.com/teams/profile?team=IND	1	10	1	.091	153	368	-215	21	0-5-1	1-5	0-0	.000	1-6-1	.143	0-4	5L	0-5
+1949	CLE	Cleveland Browns		http://www.nfl.com/teams/profile?team=CLE	0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1949		Buffalo Bills			0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1949	SF	San Francisco 49ers		http://www.nfl.com/teams/profile?team=SF	0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1949		Los Angeles Dons			0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1949		Chicago Hornets			0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1949		Baltimore Colts			0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0
+1949		New York Yankees			0	0	0	.000	0	0	0	--	0-0	0-0	0-0	.000	0-0	.000	0-0	--	0-0

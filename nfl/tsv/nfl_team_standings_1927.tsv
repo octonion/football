@@ -1,0 +1,13 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1927	NYG	New York Giants		http://www.nfl.com/teams/profile?team=NYG	11	1	1	.917	197	20	177	28	7-1	4-0-1	0-0	.000	0-0	.000	11-1-1	9W	5-0
+1927	GB	Green Bay Packers		http://www.nfl.com/teams/profile?team=GB	7	2	1	.778	113	43	70	17	6-1	1-1-1	0-0	.000	0-0	.000	7-2-1	1W	3-1-1
+1927	CHI	Chicago Bears		http://www.nfl.com/teams/profile?team=CHI	9	3	2	.750	149	98	51	21	7-1-1	2-2-1	0-0	.000	0-0	.000	9-3-2	2W	2-2-1
+1927		Cleveland Bulldogs			8	4	1	.667	209	107	102	30	4-1-1	4-3	0-0	.000	0-0	.000	8-4-1	5W	5-0
+1927		Providence Steam Roller			8	5	1	.615	105	88	17	14	6-3	2-2-1	0-0	.000	0-0	.000	8-5-1	3W	3-2
+1927		New York Yankees			7	8	1	.467	142	174	-32	22	2-3	5-5-1	0-0	.000	0-0	.000	7-8-1	1L	0-4-1
+1927		Frankford Yellow Jackets			6	9	3	.400	152	166	-14	18	5-4-3	1-5	0-0	.000	0-0	.000	6-9-3	1T	1-2-2
+1927		Pottsville Maroons			5	8	0	.385	80	163	-83	11	4-3	1-5	0-0	.000	0-0	.000	5-8	1L	2-3
+1927	ARI	Chicago Cardinals		http://www.nfl.com/teams/profile?team=ARI	3	7	1	.300	69	134	-65	10	2-3-1	1-4	0-0	.000	0-0	.000	3-7-1	1L	1-4
+1927		Dayton Triangles			1	6	1	.143	15	57	-42	2	0-1	1-5-1	0-0	.000	0-0	.000	1-6-1	4L	0-4-1
+1927		Duluth Eskimos			1	8	0	.111	68	134	-66	10	0-0	1-8	0-0	.000	0-0	.000	1-8	7L	0-5
+1927		Buffalo Bisons			0	5	0	.000	8	123	-115	1	0-2	0-3	0-0	.000	0-0	.000	0-5	5L	0-5

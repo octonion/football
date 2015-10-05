@@ -1,0 +1,22 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1921		Buffalo All-Americans			9	1	2	.900	211	29	182	28	8-0-2	1-1	0-0	.000	0-0	.000	9-1-2	1L	3-1-1
+1921	CHI	Chicago Staleys		http://www.nfl.com/teams/profile?team=CHI	9	1	1	.900	128	53	75	17	9-1-1	0-0	0-0	.000	0-0	.000	9-1-1	1T	3-1-1
+1921		Akron Pros			8	3	1	.727	148	31	117	21	3-1	5-2-1	0-0	.000	0-0	.000	8-3-1	1W	1-3-1
+1921		Canton Bulldogs			5	2	3	.714	106	55	51	15	1-1-1	4-1-2	0-0	.000	0-0	.000	5-2-3	1W	3-1-1
+1921		Rock Island Independents			4	2	1	.667	65	30	35	9	1-0-1	3-2	0-0	.000	0-0	.000	4-2-1	1L	4-1
+1921	GB	Green Bay Packers		http://www.nfl.com/teams/profile?team=GB	3	2	1	.600	70	55	15	9	3-1	0-1-1	0-0	.000	0-0	.000	3-2-1	1L	2-2-1
+1921		Evansville Crimson Giants			3	2	0	.600	89	46	43	13	3-1	0-1	0-0	.000	0-0	.000	3-2	1W	3-2
+1921	ARI	Chicago Cardinals		http://www.nfl.com/teams/profile?team=ARI	3	3	2	.500	54	53	1	7	3-3-1	0-0-1	0-0	.000	0-0	.000	3-3-2	1T	2-1-2
+1921		Dayton Triangles			4	4	1	.500	96	67	29	12	4-0-1	0-4	0-0	.000	0-0	.000	4-4-1	1L	3-2
+1921		Rochester Jeffersons			2	3	0	.400	85	76	9	11	2-0	0-3	0-0	.000	0-0	.000	2-3	2W	2-3
+1921		Cleveland Indians			3	5	0	.375	95	58	37	13	2-1	1-4	0-0	.000	0-0	.000	3-5	1L	1-4
+1921		Washington Senators			1	2	0	.333	21	43	-22	3	1-2	0-0	0-0	.000	0-0	.000	1-2	1L	1-2
+1921		Hammond Pros			1	3	1	.250	17	45	-28	2	0-0	1-3-1	0-0	.000	0-0	.000	1-3-1	2L	1-3-1
+1921		Minneapolis Marines			1	3	0	.250	37	41	-4	5	1-0	0-3	0-0	.000	0-0	.000	1-3	1L	1-3
+1921		Cincinnati Celts			1	3	0	.250	14	117	-103	2	0-0	1-3	0-0	.000	0-0	.000	1-3	2L	1-3
+1921		Detroit Tigers			1	5	1	.167	19	109	-90	2	1-2	0-3-1	0-0	.000	0-0	.000	1-5-1	5L	0-5
+1921		Columbus Panhandles			1	8	0	.111	47	222	-175	6	0-1	1-7	0-0	.000	0-0	.000	1-8	1W	1-4
+1921		New York Giants			0	2	0	.000	0	72	-72	0	0-1	0-1	0-0	.000	0-0	.000	0-2	2L	0-2
+1921		Tonawanda Kardex			0	1	0	.000	0	45	-45	0	0-0	0-1	0-0	.000	0-0	.000	0-1	1L	0-1
+1921		Muncie Flyers			0	2	0	.000	0	28	-28	0	0-1	0-1	0-0	.000	0-0	.000	0-2	2L	0-2
+1921		Louisville Brecks			0	2	0	.000	0	27	-27	0	0-1	0-1	0-0	.000	0-0	.000	0-2	2L	0-2

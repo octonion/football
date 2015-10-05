@@ -1,0 +1,19 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1924		Cleveland Bulldogs			7	1	1	.875	229	60	169	32	6-1	1-0-1	0-0	.000	0-0	.000	7-1-1	2W	4-1
+1924	CHI	Chicago Bears		http://www.nfl.com/teams/profile?team=CHI	6	1	4	.857	136	55	81	15	5-0-3	1-1-1	0-0	.000	0-0	.000	6-1-4	3W	4-0-1
+1924		Frankford Yellow Jackets			11	2	1	.846	326	109	217	44	9-0-1	2-2	0-0	.000	0-0	.000	11-2-1	8W	5-0
+1924		Duluth Kelleys			5	1	0	.833	56	16	40	7	3-0	2-1	0-0	.000	0-0	.000	5-1	1W	4-1
+1924		Rock Island Independents			5	2	2	.714	88	38	50	12	4-1-1	1-1-1	0-0	.000	0-0	.000	5-2-2	1L	2-2-1
+1924	GB	Green Bay Packers		http://www.nfl.com/teams/profile?team=GB	7	4	0	.636	108	38	70	14	5-0	2-4	0-0	.000	0-0	.000	7-4	1L	3-2
+1924		Racine Legion			4	3	3	.571	69	47	22	6	3-1	1-2-3	0-0	.000	0-0	.000	4-3-3	1W	1-2-2
+1924	ARI	Chicago Cardinals		http://www.nfl.com/teams/profile?team=ARI	5	4	1	.556	90	67	23	10	5-3-1	0-1	0-0	.000	0-0	.000	5-4-1	1L	2-2-1
+1924		Buffalo Bisons			6	5	0	.545	120	140	-20	15	5-3	1-2	0-0	.000	0-0	.000	6-5	3L	2-3
+1924		Columbus Tigers			4	4	0	.500	91	68	23	12	2-0	2-4	0-0	.000	0-0	.000	4-4	1L	3-2
+1924		Hammond Pros			2	2	1	.500	18	45	-27	3	0-0	2-2-1	0-0	.000	0-0	.000	2-2-1	2W	2-2-1
+1924		Milwaukee Badgers			5	8	0	.385	142	188	-46	17	3-2	2-6	0-0	.000	0-0	.000	5-8	2L	1-4
+1924		Dayton Triangles			2	6	0	.250	45	148	-103	6	1-1	1-5	0-0	.000	0-0	.000	2-6	6L	0-5
+1924		Akron Pros			2	6	0	.250	59	132	-73	8	1-1	1-5	0-0	.000	0-0	.000	2-6	1W	1-4
+1924		Kansas City Blues			2	7	0	.222	46	124	-78	6	2-2	0-5	0-0	.000	0-0	.000	2-7	2L	1-4
+1924		Minneapolis Marines			0	6	0	.000	14	108	-94	2	0-1	0-5	0-0	.000	0-0	.000	0-6	6L	0-5
+1924		Rochester Jeffersons			0	7	0	.000	7	156	-149	1	0-3	0-4	0-0	.000	0-0	.000	0-7	7L	0-5
+1924		Kenosha Maroons			0	4	1	.000	12	117	-105	2	0-0-1	0-4	0-0	.000	0-0	.000	0-4-1	2L	0-4-1

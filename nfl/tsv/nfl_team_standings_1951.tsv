@@ -1,0 +1,13 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1951	CLE	Cleveland Browns		http://www.nfl.com/teams/profile?team=CLE	11	1	0	.917	331	152	179	43	6-0	5-1	0-0	.000	9-0	1.000	2-1	11W	5-0
+1951	NYG	New York Giants		http://www.nfl.com/teams/profile?team=NYG	9	2	1	.818	254	161	93	31	5-1	4-1-1	0-0	.000	7-2-1	.778	2-0	4W	4-1
+1951	STL	Los Angeles Rams		http://www.nfl.com/teams/profile?team=STL	8	4	0	.667	392	261	131	51	5-2	3-2	0-0	.000	7-2	.778	1-2	1W	3-2
+1951	DET	Detroit Lions		http://www.nfl.com/teams/profile?team=DET	7	4	1	.636	336	259	77	44	3-3-1	4-1	0-0	.000	5-4-1	.556	2-0	1L	3-2
+1951	SF	San Francisco 49ers		http://www.nfl.com/teams/profile?team=SF	7	4	1	.636	255	205	50	34	5-1	2-3-1	0-0	.000	5-2-1	.714	2-2	3W	3-1-1
+1951	CHI	Chicago Bears		http://www.nfl.com/teams/profile?team=CHI	7	5	0	.583	286	282	4	38	3-3	4-2	0-0	.000	6-2	.750	1-3	1L	2-3
+1951	WAS	Washington Redskins		http://www.nfl.com/teams/profile?team=WAS	5	7	0	.417	183	296	-113	22	2-4	3-3	0-0	.000	4-5	.444	1-2	1L	3-2
+1951	PIT	Pittsburgh Steelers		http://www.nfl.com/teams/profile?team=PIT	4	7	1	.364	183	235	-52	23	1-4-1	3-3	0-0	.000	3-5-1	.375	1-2	1W	2-3
+1951	PHI	Philadelphia Eagles		http://www.nfl.com/teams/profile?team=PHI	4	8	0	.333	234	264	-30	31	1-5	3-3	0-0	.000	3-6	.333	1-2	2L	1-4
+1951	GB	Green Bay Packers		http://www.nfl.com/teams/profile?team=GB	3	9	0	.250	254	375	-121	35	2-4	1-5	0-0	.000	1-8	.111	2-1	7L	0-5
+1951	ARI	Chicago Cardinals		http://www.nfl.com/teams/profile?team=ARI	3	9	0	.250	210	287	-77	27	1-5	2-4	0-0	.000	0-8	.000	3-1	1W	2-3
+1951	IND	New York Yanks		http://www.nfl.com/teams/profile?team=IND	1	9	2	.100	241	382	-141	32	0-3-1	1-6-1	0-0	.000	1-7-2	.125	0-2	2L	1-3-1

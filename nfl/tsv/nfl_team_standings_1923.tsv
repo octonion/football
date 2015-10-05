@@ -1,0 +1,21 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1923		Canton Bulldogs			11	0	1	1.000	246	19	227	32	7-0	4-0-1	0-0	.000	0-0	.000	11-0-1	5W	5-0
+1923	CHI	Chicago Bears		http://www.nfl.com/teams/profile?team=CHI	9	2	1	.818	123	35	88	17	7-1-1	2-1	0-0	.000	0-0	.000	9-2-1	1W	4-0-1
+1923	GB	Green Bay Packers		http://www.nfl.com/teams/profile?team=GB	7	2	1	.778	85	34	51	10	4-2-1	3-0	0-0	.000	0-0	.000	7-2-1	5W	5-0
+1923		Milwaukee Badgers			7	2	3	.778	100	49	51	13	3-1-2	4-1-1	0-0	.000	0-0	.000	7-2-3	1W	3-1-1
+1923		Cleveland Indians			3	1	3	.750	52	49	3	7	3-1-1	0-0-2	0-0	.000	0-0	.000	3-1-3	1L	2-1-2
+1923	ARI	Chicago Cardinals		http://www.nfl.com/teams/profile?team=ARI	8	4	0	.667	161	56	105	18	8-3	0-1	0-0	.000	0-0	.000	8-4	1L	2-3
+1923		Duluth Kelleys			4	3	0	.571	35	33	2	3	3-0	1-3	0-0	.000	0-0	.000	4-3	3L	2-3
+1923		Columbus Tigers			5	4	1	.556	119	35	84	16	4-2	1-2-1	0-0	.000	0-0	.000	5-4-1	1L	3-2
+1923		Buffalo All-Americans			5	4	3	.556	94	43	51	10	3-0-3	2-4	0-0	.000	0-0	.000	5-4-3	1L	2-2-1
+1923		Toledo Maroons			3	3	2	.500	35	66	-31	5	2-1	1-2-2	0-0	.000	0-0	.000	3-3-2	1L	1-3-1
+1923		Racine Legion			4	4	2	.500	86	76	10	9	2-3-1	2-1-1	0-0	.000	0-0	.000	4-4-2	1W	2-3
+1923		Rock Island Independents			2	3	3	.400	84	62	22	11	2-1-2	0-2-1	0-0	.000	0-0	.000	2-3-3	1L	0-3-2
+1923		Minneapolis Marines			2	5	2	.286	48	81	-33	6	2-1-1	0-4-1	0-0	.000	0-0	.000	2-5-2	1L	1-2-2
+1923		St. Louis All-Stars			1	4	2	.200	14	39	-25	2	1-2-1	0-2-1	0-0	.000	0-0	.000	1-4-2	1L	1-4
+1923		Hammond Pros			1	5	1	.167	14	59	-45	2	1-0	0-5-1	0-0	.000	0-0	.000	1-5-1	4L	0-4-1
+1923		Dayton Triangles			1	6	1	.143	16	95	-79	1	1-0	0-6-1	0-0	.000	0-0	.000	1-6-1	2L	0-4-1
+1923		Akron Pros			1	6	0	.143	25	74	-49	3	1-0	0-6	0-0	.000	0-0	.000	1-6	1W	1-4
+1923		Oorang Indians			1	10	0	.091	50	257	-207	7	0-0	1-10	0-0	.000	0-0	.000	1-10	1W	1-4
+1923		Rochester Jeffersons			0	4	0	.000	6	141	-135	1	0-2	0-2	0-0	.000	0-0	.000	0-4	4L	0-4
+1923		Louisville Brecks			0	3	0	.000	0	90	-90	0	0-1	0-2	0-0	.000	0-0	.000	0-3	3L	0-3

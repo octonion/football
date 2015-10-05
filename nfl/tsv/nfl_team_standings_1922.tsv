@@ -1,0 +1,19 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1922		Canton Bulldogs			10	0	2	1.000	184	15	169	26	6-0-1	4-0-1	0-0	.000	0-0	.000	10-0-2	6W	5-0
+1922	CHI	Chicago Bears		http://www.nfl.com/teams/profile?team=CHI	9	3	0	.750	123	44	79	16	7-1	2-2	0-0	.000	0-0	.000	9-3	1L	3-2
+1922	ARI	Chicago Cardinals		http://www.nfl.com/teams/profile?team=ARI	8	3	0	.727	96	50	46	9	8-2	0-1	0-0	.000	0-0	.000	8-3	1W	2-3
+1922		Toledo Maroons			5	2	2	.714	94	59	35	14	4-1-1	1-1-1	0-0	.000	0-0	.000	5-2-2	2L	2-2-1
+1922		Rock Island Independents			4	2	1	.667	154	27	127	22	4-1	0-1-1	0-0	.000	0-0	.000	4-2-1	1L	3-1-1
+1922		Racine Legion			6	4	1	.600	122	56	66	16	5-2-1	1-1	0-0	.000	0-0	.000	6-4-1	1L	3-1-1
+1922		Dayton Triangles			4	3	1	.571	80	62	18	10	3-1-1	1-2	0-0	.000	0-0	.000	4-3-1	1W	2-3
+1922	GB	Green Bay Packers		http://www.nfl.com/teams/profile?team=GB	4	3	3	.571	70	54	16	9	3-1-1	0-2-2	0-0	.000	0-0	.000	4-3-3	2W	4-0-1
+1922		Buffalo All-Americans			5	4	1	.556	87	41	46	12	3-1-1	2-3	0-0	.000	0-0	.000	5-4-1	2W	2-2-1
+1922		Akron Pros			3	5	2	.375	146	95	51	20	3-1-1	0-4-1	0-0	.000	0-0	.000	3-5-2	3L	0-4-1
+1922		Milwaukee Badgers			2	4	3	.333	51	71	-20	8	2-0-2	0-4-1	0-0	.000	0-0	.000	2-4-3	3L	1-3-1
+1922		Oorang Indians			3	6	0	.333	69	190	-121	11	1-0	2-6	0-0	.000	0-0	.000	3-6	2W	2-3
+1922		Louisville Brecks			1	3	0	.250	13	140	-127	2	1-0	0-3	0-0	.000	0-0	.000	1-3	1W	1-3
+1922		Minneapolis Marines			1	3	0	.250	19	40	-21	3	1-0	0-3	0-0	.000	0-0	.000	1-3	1L	1-3
+1922		Rochester Jeffersons			0	4	1	.000	13	76	-63	2	0-1	0-3-1	0-0	.000	0-0	.000	0-4-1	4L	0-4-1
+1922		Evansville Crimson Giants			0	3	0	.000	6	88	-82	1	0-0	0-3	0-0	.000	0-0	.000	0-3	3L	0-3
+1922		Columbus Panhandles			0	8	0	.000	24	174	-150	4	0-1	0-7	0-0	.000	0-0	.000	0-8	8L	0-5
+1922		Hammond Pros			0	5	1	.000	0	69	-69	0	0-0	0-5-1	0-0	.000	0-0	.000	0-5-1	2L	0-4-1

@@ -1,0 +1,11 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1928		Providence Steam Roller			8	1	2	.889	128	42	86	19	6-1-1	2-0-1	0-0	.000	0-0	.000	8-1-2	1T	3-0-2
+1928		Frankford Yellow Jackets			11	3	2	.786	175	84	91	27	8-1-1	3-2-1	0-0	.000	0-0	.000	11-3-2	2W	4-1
+1928		Detroit Wolverines			7	2	1	.778	189	76	113	28	4-0	3-2-1	0-0	.000	0-0	.000	7-2-1	4W	4-0-1
+1928	GB	Green Bay Packers		http://www.nfl.com/teams/profile?team=GB	6	4	3	.600	120	92	28	17	2-2-2	4-2-1	0-0	.000	0-0	.000	6-4-3	1W	2-2-1
+1928	CHI	Chicago Bears		http://www.nfl.com/teams/profile?team=CHI	7	5	1	.583	182	85	97	27	6-3	1-2-1	0-0	.000	0-0	.000	7-5-1	2L	2-3
+1928	NYG	New York Giants		http://www.nfl.com/teams/profile?team=NYG	4	7	2	.364	79	136	-57	12	1-2-2	3-5	0-0	.000	0-0	.000	4-7-2	5L	0-5
+1928		New York Yankees			4	8	1	.333	103	179	-76	16	2-4	2-4-1	0-0	.000	0-0	.000	4-8-1	1W	3-2
+1928		Pottsville Maroons			2	8	0	.200	74	134	-60	11	2-4	0-4	0-0	.000	0-0	.000	2-8	1L	1-4
+1928	ARI	Chicago Cardinals		http://www.nfl.com/teams/profile?team=ARI	1	5	0	.167	7	107	-100	1	1-1	0-4	0-0	.000	0-0	.000	1-5	4L	1-4
+1928		Dayton Triangles			0	7	0	.000	9	131	-122	1	0-0	0-7	0-0	.000	0-0	.000	0-7	7L	0-5

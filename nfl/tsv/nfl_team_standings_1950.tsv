@@ -1,0 +1,14 @@
+season	team_id	team_name	status	team_url	wins	losses	ties	win_percentage	points_for	points_against	net_points	touchdowns	home_record	road_record	division_record	division_win_percentage	conference_record	conference_win_percentage	nonconference_record	winning_streak	last_5_record
+1950	CLE	Cleveland Browns		http://www.nfl.com/teams/profile?team=CLE	10	2	0	.833	310	144	166	38	5-1	5-1	0-0	.000	8-2	.800	2-0	6W	5-0
+1950	NYG	New York Giants		http://www.nfl.com/teams/profile?team=NYG	10	2	0	.833	268	150	118	36	5-1	5-1	0-0	.000	8-2	.800	2-0	6W	5-0
+1950	CHI	Chicago Bears		http://www.nfl.com/teams/profile?team=CHI	9	3	0	.750	279	207	72	36	6-0	3-3	0-0	.000	8-2	.800	1-1	1W	4-1
+1950	STL	Los Angeles Rams		http://www.nfl.com/teams/profile?team=STL	9	3	0	.750	466	309	157	64	5-1	4-2	0-0	.000	9-2	.818	0-1	1W	4-1
+1950	IND	New York Yanks		http://www.nfl.com/teams/profile?team=IND	7	5	0	.583	366	367	-1	51	5-1	2-4	0-0	.000	7-4	.636	0-1	1W	1-4
+1950	PIT	Pittsburgh Steelers		http://www.nfl.com/teams/profile?team=PIT	6	6	0	.500	180	195	-15	22	2-4	4-2	0-0	.000	5-5	.500	1-1	1W	4-1
+1950	DET	Detroit Lions		http://www.nfl.com/teams/profile?team=DET	6	6	0	.500	321	285	36	43	4-2	2-4	0-0	.000	5-6	.455	1-0	1L	3-2
+1950	PHI	Philadelphia Eagles		http://www.nfl.com/teams/profile?team=PHI	6	6	0	.500	254	141	113	33	2-4	4-2	0-0	.000	4-6	.400	2-0	4L	1-4
+1950	ARI	Chicago Cardinals		http://www.nfl.com/teams/profile?team=ARI	5	7	0	.417	233	287	-54	31	3-3	2-4	0-0	.000	3-6	.333	2-1	1L	2-3
+1950	GB	Green Bay Packers		http://www.nfl.com/teams/profile?team=GB	3	9	0	.250	244	406	-162	34	3-3	0-6	0-0	.000	2-9	.182	1-0	2L	1-4
+1950	WAS	Washington Redskins		http://www.nfl.com/teams/profile?team=WAS	3	9	0	.250	232	326	-94	31	1-5	2-4	0-0	.000	1-8	.111	2-1	1L	2-3
+1950	SF	San Francisco 49ers		http://www.nfl.com/teams/profile?team=SF	3	9	0	.250	213	300	-87	29	3-3	0-6	0-0	.000	3-8	.273	0-1	1W	1-4
+1950		Baltimore Colts			1	11	0	.083	213	462	-249	31	1-5	0-6	0-0	.000	1-4	.200	0-7	5L	0-5
