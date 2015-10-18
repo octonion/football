@@ -15,7 +15,7 @@ url = "http://www.sports-reference.com/cfb/conferences/"
 
 table_xpath = '//table[@class="sortable  stats_table" and not(@data-freeze)]/tbody/tr'
 
-out = CSV.open("csv/conferences.csv", "w", {:col_sep => "\t"})
+out = CSV.open("tsv/conferences.tsv", "w", {:col_sep => "\t"})
 
 begin
   page = agent.get(url)
