@@ -1,0 +1,1841 @@
+year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	opponent_url	neutral_site	neutral_location	home_game	score_string	team_won	score	team_score	opponent_score	overtime	overtime_periods	game_id	game_url
+2017	12424	929	Adams St.	09/03/2016	Black Hills St.	30134	Black Hills St.	http://stats.ncaa.org/team/30134/12424	false		true	L 33 - 34	false	33 - 34	33	34	false		black-hills-st-adams-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/black-hills-st-adams-st#boxscore
+2017	12424	929	Adams St.	09/10/2016	@ Western St.		Western St.		false		false	-								
+2017	12424	929	Adams St.	09/17/2016	Fort Lewis		Fort Lewis		false		true	-								
+2017	12424	929	Adams St.	09/24/2016	Chadron St.		Chadron St.		false		true	-								
+2017	12424	929	Adams St.	10/01/2016	@ South Dakota Mines		South Dakota Mines		false		false	-								
+2017	12424	929	Adams St.	10/08/2016	Colorado St.-Pueblo		Colorado St.-Pueblo		false		true	-								
+2017	12424	929	Adams St.	10/22/2016	@ Colorado Mesa		Colorado Mesa		false		false	-								
+2017	12424	929	Adams St.	10/29/2016	Dixie St.		Dixie St.		false		true	-								
+2017	12424	929	Adams St.	11/05/2016	@ Colorado Mines		Colorado Mines		false		false	-								
+2017	12424	929	Adams St.	11/12/2016	@ N.M. Highlands		N.M. Highlands		false		false	-								
+2017	12424	13	Albany St. (GA)	09/03/2016	@ Valdosta St.		Valdosta St.		false		false	-								
+2017	12424	13	Albany St. (GA)	09/10/2016	Tuskegee@Phenix City, AL		TuskegeePhenix City, AL		false		false	-								
+2017	12424	13	Albany St. (GA)	09/17/2016	@ Southeastern (FL)		Southeastern (FL)		false		false	-								
+2017	12424	13	Albany St. (GA)	09/24/2016	West Ga.		West Ga.		false		true	-								
+2017	12424	13	Albany St. (GA)	10/01/2016	Miles		Miles		false		true	-								
+2017	12424	13	Albany St. (GA)	10/08/2016	@ Charleston So.		Charleston So.		false		false	-								
+2017	12424	13	Albany St. (GA)	10/15/2016	@ Morehouse		Morehouse		false		false	-								
+2017	12424	13	Albany St. (GA)	10/22/2016	Clark Atlanta		Clark Atlanta		false		true	-								
+2017	12424	13	Albany St. (GA)	10/29/2016	Benedict@Augusta, GA		BenedictAugusta, GA		false		false	-								
+2017	12424	13	Albany St. (GA)	11/05/2016	Fort Valley St.@Columbus, GA		Fort Valley St.Columbus, GA		false		false	-								
+2017	12424	934	Alderson Broaddus	09/01/2016	@ Robert Morris	579	Robert Morris	http://stats.ncaa.org/team/579/12424	false		false	W 14 - 7	true	14 - 7	14	7	false		alderson-broaddus-robert-morris#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/01/alderson-broaddus-robert-morris#boxscore
+2017	12424	934	Alderson Broaddus	09/10/2016	@ St. Joseph's (IN)		St. Joseph's (IN)		false		false	-								
+2017	12424	934	Alderson Broaddus	09/22/2016	Fairmont St.		Fairmont St.		false		true	-								
+2017	12424	934	Alderson Broaddus	10/01/2016	Fort Valley St.		Fort Valley St.		false		true	-								
+2017	12424	934	Alderson Broaddus	10/08/2016	@ Malone		Malone		false		false	-								
+2017	12424	934	Alderson Broaddus	10/13/2016	@ Glenville St.		Glenville St.		false		false	-								
+2017	12424	934	Alderson Broaddus	10/22/2016	@ Georgetown (KY)		Georgetown (KY)		false		false	-								
+2017	12424	934	Alderson Broaddus	11/05/2016	Charleston (WV)		Charleston (WV)		false		true	-								
+2017	12424	934	Alderson Broaddus	11/12/2016	Ky. Wesleyan		Ky. Wesleyan		false		true	-								
+2017	12424	22	American Int'l	09/03/2016	Shippensburg	638	Shippensburg	http://stats.ncaa.org/team/638/12424	false		true	L 9 - 16	false	9 - 16	9	16	false		shippensburg-american-intl#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/shippensburg-american-intl#boxscore
+2017	12424	22	American Int'l	09/10/2016	@ Merrimack		Merrimack		false		false	-								
+2017	12424	22	American Int'l	09/17/2016	Pace		Pace		false		true	-								
+2017	12424	22	American Int'l	09/23/2016	@ Southern Conn. St.		Southern Conn. St.		false		false	-								
+2017	12424	22	American Int'l	10/01/2016	@ St. Anselm		St. Anselm		false		false	-								
+2017	12424	22	American Int'l	10/08/2016	Stonehill		Stonehill		false		true	-								
+2017	12424	22	American Int'l	10/15/2016	Bentley		Bentley		false		true	-								
+2017	12424	22	American Int'l	10/22/2016	@ LIU Post		LIU Post		false		false	-								
+2017	12424	22	American Int'l	10/29/2016	New Haven		New Haven		false		true	-								
+2017	12424	22	American Int'l	11/05/2016	@ Assumption		Assumption		false		false	-								
+2017	12424	25	Angelo St.	09/01/2016	@ McKendree	30138	McKendree	http://stats.ncaa.org/team/30138/12424	false		false	L 19 - 33	false	19 - 33	19	33	false		angelo-st-mckendree#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/angelo-st-mckendree#boxscore
+2017	12424	25	Angelo St.	09/10/2016	@ Northern Mich.		Northern Mich.		false		false	-								
+2017	12424	25	Angelo St.	09/17/2016	@ Tarleton St.		Tarleton St.		false		false	-								
+2017	12424	25	Angelo St.	09/24/2016	Eastern N.M.		Eastern N.M.		false		true	-								
+2017	12424	25	Angelo St.	10/01/2016	@ Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		false	-								
+2017	12424	25	Angelo St.	10/08/2016	Okla. Panhandle		Okla. Panhandle		false		true	-								
+2017	12424	25	Angelo St.	10/15/2016	@ Midwestern St.		Midwestern St.		false		false	-								
+2017	12424	25	Angelo St.	10/22/2016	Tex. A&M-Commerce		Tex. A&M-Commerce		false		true	-								
+2017	12424	25	Angelo St.	10/29/2016	@ Western N.M.		Western N.M.		false		false	-								
+2017	12424	25	Angelo St.	11/05/2016	@ West Tex. A&M		West Tex. A&M		false		false	-								
+2017	12424	25	Angelo St.	11/12/2016	Tex. Permian Basin		Tex. Permian Basin		false		true	-								
+2017	12424	8411	Ark.-Monticello	09/01/2016	@ Northwestern Okla.	30178	Northwestern Okla.	http://stats.ncaa.org/team/30178/12424	false		false	L 56 - 59	false	56 - 59	56	59	false		ark-monticello-northwestern-okla#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/ark-monticello-northwestern-okla#boxscore
+2017	12424	8411	Ark.-Monticello	09/10/2016	Southwestern Okla.		Southwestern Okla.		false		true	-								
+2017	12424	8411	Ark.-Monticello	09/17/2016	@ Arkansas Tech		Arkansas Tech		false		false	-								
+2017	12424	8411	Ark.-Monticello	09/24/2016	Harding		Harding		false		true	-								
+2017	12424	8411	Ark.-Monticello	10/01/2016	Okla. Baptist		Okla. Baptist		false		true	-								
+2017	12424	8411	Ark.-Monticello	10/08/2016	@ Southern Nazarene		Southern Nazarene		false		false	-								
+2017	12424	8411	Ark.-Monticello	10/15/2016	@ Henderson St.		Henderson St.		false		false	-								
+2017	12424	8411	Ark.-Monticello	10/22/2016	Ouachita Baptist		Ouachita Baptist		false		true	-								
+2017	12424	8411	Ark.-Monticello	10/29/2016	East Central		East Central		false		true	-								
+2017	12424	8411	Ark.-Monticello	11/05/2016	@ Southeastern Okla.		Southeastern Okla.		false		false	-								
+2017	12424	8411	Ark.-Monticello	11/12/2016	Southern Ark.		Southern Ark.		false		true	-								
+2017	12424	947	Arkansas Tech	09/01/2016	Southern Nazarene	30152	Southern Nazarene	http://stats.ncaa.org/team/30152/12424	false		true	W 46 - 0	true	46 - 0	46	0	false		southern-nazarene-arkansas-tech#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/southern-nazarene-arkansas-tech#boxscore
+2017	12424	947	Arkansas Tech	09/10/2016	@ Okla. Baptist		Okla. Baptist		false		false	-								
+2017	12424	947	Arkansas Tech	09/17/2016	Ark.-Monticello		Ark.-Monticello		false		true	-								
+2017	12424	947	Arkansas Tech	09/24/2016	@ Southern Ark.		Southern Ark.		false		false	-								
+2017	12424	947	Arkansas Tech	10/01/2016	Henderson St.		Henderson St.		false		true	-								
+2017	12424	947	Arkansas Tech	10/08/2016	@ Ouachita Baptist		Ouachita Baptist		false		false	-								
+2017	12424	947	Arkansas Tech	10/15/2016	East Central		East Central		false		true	-								
+2017	12424	947	Arkansas Tech	10/22/2016	@ Southeastern Okla.		Southeastern Okla.		false		false	-								
+2017	12424	947	Arkansas Tech	10/29/2016	Northwestern Okla.		Northwestern Okla.		false		true	-								
+2017	12424	947	Arkansas Tech	11/05/2016	@ Southwestern Okla.		Southwestern Okla.		false		false	-								
+2017	12424	947	Arkansas Tech	11/12/2016	@ Harding		Harding		false		false	-								
+2017	12424	35	Ashland	09/01/2016	Mercyhurst	408	Mercyhurst	http://stats.ncaa.org/team/408/12424	false		true	W 48 - 0	true	48 - 0	48	0	false		mercyhurst-ashland#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/mercyhurst-ashland#boxscore
+2017	12424	35	Ashland	09/10/2016	Wayne St. (MI)		Wayne St. (MI)		false		true	-								
+2017	12424	35	Ashland	09/17/2016	Findlay		Findlay		false		true	-								
+2017	12424	35	Ashland	09/24/2016	@ Ferris St.		Ferris St.		false		false	-								
+2017	12424	35	Ashland	10/01/2016	@ Tiffin		Tiffin		false		false	-								
+2017	12424	35	Ashland	10/08/2016	Northwood		Northwood		false		true	-								
+2017	12424	35	Ashland	10/15/2016	@ Lake Erie		Lake Erie		false		false	-								
+2017	12424	35	Ashland	10/22/2016	@ Ky. Wesleyan		Ky. Wesleyan		false		false	-								
+2017	12424	35	Ashland	10/29/2016	@ Michigan Tech		Michigan Tech		false		false	-								
+2017	12424	35	Ashland	11/05/2016	Walsh		Walsh		false		true	-								
+2017	12424	35	Ashland	11/12/2016	@ Ohio Dominican		Ohio Dominican		false		false	-								
+2017	12424	36	Assumption	09/03/2016	Kutztown		Kutztown		false		true	-								
+2017	12424	36	Assumption	09/09/2016	@ Pace		Pace		false		false	-								
+2017	12424	36	Assumption	09/16/2016	Southern Conn. St.		Southern Conn. St.		false		true	-								
+2017	12424	36	Assumption	09/24/2016	@ Merrimack		Merrimack		false		false	-								
+2017	12424	36	Assumption	10/01/2016	LIU Post		LIU Post		false		true	-								
+2017	12424	36	Assumption	10/07/2016	@ Bentley		Bentley		false		false	-								
+2017	12424	36	Assumption	10/14/2016	St. Anselm		St. Anselm		false		true	-								
+2017	12424	36	Assumption	10/22/2016	@ New Haven		New Haven		false		false	-								
+2017	12424	36	Assumption	10/29/2016	@ Stonehill		Stonehill		false		false	-								
+2017	12424	36	Assumption	11/05/2016	American Int'l		American Int'l		false		true	-								
+2017	12424	41	Augustana (SD)	09/03/2016	Northern St.	1266	Northern St.	http://stats.ncaa.org/team/1266/12424	false		true	W 37 - 34 (1OT)	true	37 - 34	37	34	true	1OT	northern-st-augustana-sd#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/northern-st-augustana-sd#boxscore
+2017	12424	41	Augustana (SD)	09/10/2016	@ Mary		Mary		false		false	-								
+2017	12424	41	Augustana (SD)	09/17/2016	Minn.-Crookston		Minn.-Crookston		false		true	-								
+2017	12424	41	Augustana (SD)	09/24/2016	@ Minn. Duluth		Minn. Duluth		false		false	-								
+2017	12424	41	Augustana (SD)	10/01/2016	Sioux Falls		Sioux Falls		false		true	-								
+2017	12424	41	Augustana (SD)	10/08/2016	@ Wayne St. (NE)		Wayne St. (NE)		false		false	-								
+2017	12424	41	Augustana (SD)	10/15/2016	Minnesota St.		Minnesota St.		false		true	-								
+2017	12424	41	Augustana (SD)	10/22/2016	@ Upper Iowa		Upper Iowa		false		false	-								
+2017	12424	41	Augustana (SD)	10/29/2016	Winona St.		Winona St.		false		true	-								
+2017	12424	41	Augustana (SD)	11/05/2016	@ Concordia-St. Paul		Concordia-St. Paul		false		false	-								
+2017	12424	41	Augustana (SD)	11/12/2016	@ Southwest Minn. St.		Southwest Minn. St.		false		false	-								
+2017	12424	30146	Azusa Pacific	09/01/2016	West Tex. A&M	767	West Tex. A&M	http://stats.ncaa.org/team/767/12424	false		true	W 28 - 10	true	28 - 10	28	10	false		west-tex-am-azusa-pacific#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/west-tex-am-azusa-pacific#boxscore
+2017	12424	30146	Azusa Pacific	09/10/2016	@ Humboldt St.		Humboldt St.		false		false	-								
+2017	12424	30146	Azusa Pacific	09/17/2016	@ Central Wash.		Central Wash.		false		false	-								
+2017	12424	30146	Azusa Pacific	09/24/2016	Simon Fraser		Simon Fraser		false		true	-								
+2017	12424	30146	Azusa Pacific	10/01/2016	@ Western Ore.		Western Ore.		false		false	-								
+2017	12424	30146	Azusa Pacific	10/08/2016	@ Colorado Mines		Colorado Mines		false		false	-								
+2017	12424	30146	Azusa Pacific	10/15/2016	Humboldt St.		Humboldt St.		false		true	-								
+2017	12424	30146	Azusa Pacific	10/22/2016	@ Simon Fraser		Simon Fraser		false		false	-								
+2017	12424	30146	Azusa Pacific	10/29/2016	Central Wash.		Central Wash.		false		true	-								
+2017	12424	30146	Azusa Pacific	11/05/2016	Western Ore.		Western Ore.		false		true	-								
+2017	12424	30146	Azusa Pacific	11/12/2016	@ Colorado Mesa		Colorado Mesa		false		false	-								
+2017	12424	54	Bemidji St.	09/01/2016	Upper Iowa		Upper Iowa		false		true	-								
+2017	12424	54	Bemidji St.	09/10/2016	@ Minnesota St.		Minnesota St.		false		false	-								
+2017	12424	54	Bemidji St.	09/17/2016	Wayne St. (NE)		Wayne St. (NE)		false		true	-								
+2017	12424	54	Bemidji St.	09/24/2016	@ Sioux Falls		Sioux Falls		false		false	-								
+2017	12424	54	Bemidji St.	10/01/2016	@ Mary		Mary		false		false	-								
+2017	12424	54	Bemidji St.	10/08/2016	Northern St.		Northern St.		false		true	-								
+2017	12424	54	Bemidji St.	10/15/2016	Minot St.		Minot St.		false		true	-								
+2017	12424	54	Bemidji St.	10/22/2016	@ Minn. Duluth		Minn. Duluth		false		false	-								
+2017	12424	54	Bemidji St.	10/29/2016	@ St. Cloud St.		St. Cloud St.		false		false	-								
+2017	12424	54	Bemidji St.	11/05/2016	MSU Moorhead		MSU Moorhead		false		true	-								
+2017	12424	54	Bemidji St.	11/12/2016	Minn.-Crookston		Minn.-Crookston		false		true	-								
+2017	12424	55	Benedict	09/03/2016	Livingstone		Livingstone		false		true	-								
+2017	12424	55	Benedict	09/10/2016	Limestone		Limestone		false		true	-								
+2017	12424	55	Benedict	09/17/2016	@ Central St. (OH)		Central St. (OH)		false		false	-								
+2017	12424	55	Benedict	09/24/2016	Fort Valley St.		Fort Valley St.		false		true	-								
+2017	12424	55	Benedict	10/01/2016	@ Gardner-Webb		Gardner-Webb		false		false	-								
+2017	12424	55	Benedict	10/08/2016	@ Lane		Lane		false		false	-								
+2017	12424	55	Benedict	10/15/2016	@ Clark Atlanta		Clark Atlanta		false		false	-								
+2017	12424	55	Benedict	10/22/2016	Morehouse		Morehouse		false		true	-								
+2017	12424	55	Benedict	10/29/2016	Albany St. (GA)@Augusta, GA		Albany St. (GA)Augusta, GA		false		false	-								
+2017	12424	55	Benedict	11/05/2016	@ Kentucky St.		Kentucky St.		false		false	-								
+2017	12424	55	Benedict	11/12/2016	Point U.		Point U.		false		true	-								
+2017	12424	56	Bentley	09/03/2016	West Chester	765	West Chester	http://stats.ncaa.org/team/765/12424	false		true	L 24 - 31	false	24 - 31	24	31	false		west-chester-bentley#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/west-chester-bentley#boxscore
+2017	12424	56	Bentley	09/10/2016	@ St. Anselm		St. Anselm		false		false	-								
+2017	12424	56	Bentley	09/16/2016	Merrimack		Merrimack		false		true	-								
+2017	12424	56	Bentley	09/24/2016	@ LIU Post		LIU Post		false		false	-								
+2017	12424	56	Bentley	10/01/2016	Pace		Pace		false		true	-								
+2017	12424	56	Bentley	10/07/2016	Assumption		Assumption		false		true	-								
+2017	12424	56	Bentley	10/15/2016	@ American Int'l		American Int'l		false		false	-								
+2017	12424	56	Bentley	10/22/2016	Stonehill		Stonehill		false		true	-								
+2017	12424	56	Bentley	10/29/2016	@ Southern Conn. St.		Southern Conn. St.		false		false	-								
+2017	12424	56	Bentley	11/05/2016	@ New Haven		New Haven		false		false	-								
+2017	12424	30134	Black Hills St.	09/03/2016	@ Adams St.	929	Adams St.	http://stats.ncaa.org/team/929/12424	false		false	W 34 - 33	true	34 - 33	34	33	false		black-hills-st-adams-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/black-hills-st-adams-st#boxscore
+2017	12424	30134	Black Hills St.	09/10/2016	@ Fort Lewis		Fort Lewis		false		false	-								
+2017	12424	30134	Black Hills St.	09/17/2016	Dixie St.		Dixie St.		false		true	-								
+2017	12424	30134	Black Hills St.	09/24/2016	@ South Dakota Mines		South Dakota Mines		false		false	-								
+2017	12424	30134	Black Hills St.	10/01/2016	N.M. Highlands		N.M. Highlands		false		true	-								
+2017	12424	30134	Black Hills St.	10/08/2016	Colorado Mesa		Colorado Mesa		false		true	-								
+2017	12424	30134	Black Hills St.	10/15/2016	@ Western St.		Western St.		false		false	-								
+2017	12424	30134	Black Hills St.	10/22/2016	Colorado St.-Pueblo		Colorado St.-Pueblo		false		true	-								
+2017	12424	30134	Black Hills St.	10/29/2016	Dickinson St.		Dickinson St.		false		true	-								
+2017	12424	30134	Black Hills St.	11/05/2016	@ Chadron St.		Chadron St.		false		false	-								
+2017	12424	30134	Black Hills St.	11/12/2016	Colorado Mines		Colorado Mines		false		true	-								
+2017	12424	65	Bloomsburg	09/02/2016	@ Stonehill	682	Stonehill	http://stats.ncaa.org/team/682/12424	false		false	W 24 - 20	true	24 - 20	24	20	false		bloomsburg-stonehill#boxscore	http://www.ncaa.com/game/football/d2/2016/09/02/bloomsburg-stonehill#boxscore
+2017	12424	65	Bloomsburg	09/10/2016	Clarion		Clarion		false		true	-								
+2017	12424	65	Bloomsburg	09/17/2016	@ Gannon		Gannon		false		false	-								
+2017	12424	65	Bloomsburg	09/24/2016	@ Cheyney		Cheyney		false		false	-								
+2017	12424	65	Bloomsburg	10/01/2016	Millersville		Millersville		false		true	-								
+2017	12424	65	Bloomsburg	10/08/2016	@ Kutztown		Kutztown		false		false	-								
+2017	12424	65	Bloomsburg	10/15/2016	West Chester		West Chester		false		true	-								
+2017	12424	65	Bloomsburg	10/22/2016	East Stroudsburg		East Stroudsburg		false		true	-								
+2017	12424	65	Bloomsburg	10/29/2016	@ Lock Haven		Lock Haven		false		false	-								
+2017	12424	65	Bloomsburg	11/05/2016	Shippensburg		Shippensburg		false		true	-								
+2017	12424	65	Bloomsburg	11/12/2016	@ Indiana (PA)		Indiana (PA)		false		false	-								
+2017	12424	70	Bowie St.	09/03/2016	Seton Hill	30063	Seton Hill	http://stats.ncaa.org/team/30063/12424	false		true	L 48 - 50	false	48 - 50	48	50	false		seton-hill-bowie-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/seton-hill-bowie-st#boxscore
+2017	12424	70	Bowie St.	09/10/2016	Johnson C. Smith		Johnson C. Smith		false		true	-								
+2017	12424	70	Bowie St.	09/17/2016	@ Central Conn. St.		Central Conn. St.		false		false	-								
+2017	12424	70	Bowie St.	09/24/2016	@ Shaw		Shaw		false		false	-								
+2017	12424	70	Bowie St.	10/01/2016	Fayetteville St.		Fayetteville St.		false		true	-								
+2017	12424	70	Bowie St.	10/08/2016	@ Chowan		Chowan		false		false	-								
+2017	12424	70	Bowie St.	10/15/2016	Virginia St.		Virginia St.		false		true	-								
+2017	12424	70	Bowie St.	10/22/2016	@ Virginia Union		Virginia Union		false		false	-								
+2017	12424	70	Bowie St.	10/29/2016	@ Lincoln (PA)		Lincoln (PA)		false		false	-								
+2017	12424	70	Bowie St.	11/05/2016	Elizabeth City St.		Elizabeth City St.		false		true	-								
+2017	12424	30094	Brevard	09/01/2016	East Stroudsburg	197	East Stroudsburg	http://stats.ncaa.org/team/197/12424	false		true	L 14 - 49	false	14 - 49	14	49	false		east-stroudsburg-brevard#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/east-stroudsburg-brevard#boxscore
+2017	12424	30094	Brevard	09/10/2016	@ Emory & Henry		Emory & Henry		false		false	-								
+2017	12424	30094	Brevard	09/17/2016	Wingate		Wingate		false		true	-								
+2017	12424	30094	Brevard	09/24/2016	Apprentice		Apprentice		false		true	-								
+2017	12424	30094	Brevard	10/01/2016	@ Tusculum		Tusculum		false		false	-								
+2017	12424	30094	Brevard	10/08/2016	Carson-Newman		Carson-Newman		false		true	-								
+2017	12424	30094	Brevard	10/15/2016	@ Limestone		Limestone		false		false	-								
+2017	12424	30094	Brevard	10/22/2016	Newberry		Newberry		false		true	-								
+2017	12424	30094	Brevard	10/29/2016	@ Catawba		Catawba		false		false	-								
+2017	12424	30094	Brevard	11/05/2016	Lenoir-Rhyne		Lenoir-Rhyne		false		true	-								
+2017	12424	30094	Brevard	11/12/2016	@ Mars Hill		Mars Hill		false		false	-								
+2017	12424	106	California (PA)	09/10/2016	@ Cheyney		Cheyney		false		false	-								
+2017	12424	106	California (PA)	09/17/2016	Millersville		Millersville		false		true	-								
+2017	12424	106	California (PA)	09/24/2016	@ Seton Hill		Seton Hill		false		false	-								
+2017	12424	106	California (PA)	10/01/2016	Slippery Rock		Slippery Rock		false		true	-								
+2017	12424	106	California (PA)	10/08/2016	Indiana (PA)		Indiana (PA)		false		true	-								
+2017	12424	106	California (PA)	10/15/2016	@ Clarion		Clarion		false		false	-								
+2017	12424	106	California (PA)	10/22/2016	Gannon		Gannon		false		true	-								
+2017	12424	106	California (PA)	10/29/2016	@ Mercyhurst		Mercyhurst		false		false	-								
+2017	12424	106	California (PA)	11/05/2016	Edinboro		Edinboro		false		true	-								
+2017	12424	106	California (PA)	11/12/2016	East Stroudsburg		East Stroudsburg		false		true	-								
+2017	12424	1000	Carson-Newman	09/01/2016	Humboldt St.	291	Humboldt St.	http://stats.ncaa.org/team/291/12424	false		true	L 45 - 52	false	45 - 52	45	52	false		humboldt-st-carson-newman#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/humboldt-st-carson-newman#boxscore
+2017	12424	1000	Carson-Newman	09/10/2016	@ Saint Augustine's		Saint Augustine's		false		false	-								
+2017	12424	1000	Carson-Newman	09/17/2016	@ Catawba		Catawba		false		false	-								
+2017	12424	1000	Carson-Newman	09/24/2016	Mars Hill		Mars Hill		false		true	-								
+2017	12424	1000	Carson-Newman	10/01/2016	Lenoir-Rhyne		Lenoir-Rhyne		false		true	-								
+2017	12424	1000	Carson-Newman	10/08/2016	@ Brevard		Brevard		false		false	-								
+2017	12424	1000	Carson-Newman	10/15/2016	@ Newberry		Newberry		false		false	-								
+2017	12424	1000	Carson-Newman	10/22/2016	Wingate		Wingate		false		true	-								
+2017	12424	1000	Carson-Newman	10/29/2016	Limestone		Limestone		false		true	-								
+2017	12424	1000	Carson-Newman	11/05/2016	@ North Greenville		North Greenville		false		false	-								
+2017	12424	1000	Carson-Newman	11/12/2016	@ Tusculum		Tusculum		false		false	-								
+2017	12424	1001	Catawba	09/03/2016	West Ga.	766	West Ga.	http://stats.ncaa.org/team/766/12424	false		true	-								
+2017	12424	1001	Catawba	09/10/2016	Winston-Salem		Winston-Salem		false		true	-								
+2017	12424	1001	Catawba	09/17/2016	Carson-Newman		Carson-Newman		false		true	-								
+2017	12424	1001	Catawba	09/24/2016	@ Wingate		Wingate		false		false	-								
+2017	12424	1001	Catawba	10/01/2016	@ Newberry		Newberry		false		false	-								
+2017	12424	1001	Catawba	10/08/2016	Limestone		Limestone		false		true	-								
+2017	12424	1001	Catawba	10/15/2016	@ Mars Hill		Mars Hill		false		false	-								
+2017	12424	1001	Catawba	10/22/2016	@ UNC Pembroke		UNC Pembroke		false		false	-								
+2017	12424	1001	Catawba	10/29/2016	Brevard		Brevard		false		true	-								
+2017	12424	1001	Catawba	11/05/2016	Tusculum		Tusculum		false		true	-								
+2017	12424	1001	Catawba	11/12/2016	@ Lenoir-Rhyne		Lenoir-Rhyne		false		false	-								
+2017	12424	130	Central Mo.	09/01/2016	@ Pittsburg St.	1314	Pittsburg St.	http://stats.ncaa.org/team/1314/12424	false		false	W 34 - 27	true	34 - 27	34	27	false		central-mo-pittsburg-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/central-mo-pittsburg-st#boxscore
+2017	12424	130	Central Mo.	09/08/2016	Fort Hays St.		Fort Hays St.		false		true	-								
+2017	12424	130	Central Mo.	09/17/2016	@ Mo. Western St.		Mo. Western St.		false		false	-								
+2017	12424	130	Central Mo.	09/24/2016	Emporia St.		Emporia St.		false		true	-								
+2017	12424	130	Central Mo.	10/01/2016	Northwest Mo. St.@Kansas City, MO		Northwest Mo. St.Kansas City, MO		false		false	-								
+2017	12424	130	Central Mo.	10/08/2016	Neb.-Kearney		Neb.-Kearney		false		true	-								
+2017	12424	130	Central Mo.	10/15/2016	@ Mo. Southern St.		Mo. Southern St.		false		false	-								
+2017	12424	130	Central Mo.	10/22/2016	Washburn		Washburn		false		true	-								
+2017	12424	130	Central Mo.	10/29/2016	Central Okla.		Central Okla.		false		true	-								
+2017	12424	130	Central Mo.	11/05/2016	@ Northeastern St.		Northeastern St.		false		false	-								
+2017	12424	130	Central Mo.	11/12/2016	Lindenwood (MO)		Lindenwood (MO)		false		true	-								
+2017	12424	1009	Central Okla.	09/01/2016	@ Lindenwood (MO)	30136	Lindenwood (MO)	http://stats.ncaa.org/team/30136/12424	false		false	L 26 - 49	false	26 - 49	26	49	false		central-okla-lindenwood-mo#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/central-okla-lindenwood-mo#boxscore
+2017	12424	1009	Central Okla.	09/08/2016	Pittsburg St.		Pittsburg St.		false		true	-								
+2017	12424	1009	Central Okla.	09/17/2016	@ Fort Hays St.		Fort Hays St.		false		false	-								
+2017	12424	1009	Central Okla.	09/24/2016	Mo. Western St.		Mo. Western St.		false		true	-								
+2017	12424	1009	Central Okla.	10/01/2016	@ Emporia St.		Emporia St.		false		false	-								
+2017	12424	1009	Central Okla.	10/08/2016	Northwest Mo. St.		Northwest Mo. St.		false		true	-								
+2017	12424	1009	Central Okla.	10/15/2016	@ Neb.-Kearney		Neb.-Kearney		false		false	-								
+2017	12424	1009	Central Okla.	10/22/2016	Mo. Southern St.		Mo. Southern St.		false		true	-								
+2017	12424	1009	Central Okla.	10/29/2016	@ Central Mo.		Central Mo.		false		false	-								
+2017	12424	1009	Central Okla.	11/05/2016	Washburn		Washburn		false		true	-								
+2017	12424	1009	Central Okla.	11/12/2016	Northeastern St.		Northeastern St.		false		true	-								
+2017	12424	30049	Central St. (OH)	09/03/2016	@ Dayton	175	Dayton	http://stats.ncaa.org/team/175/12424	false		false	L 19 - 31	false	19 - 31	19	31	false		central-st-oh-dayton#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/central-st-oh-dayton#boxscore
+2017	12424	30049	Central St. (OH)	09/10/2016	Clark Atlanta@Chicago, IL		Clark AtlantaChicago, IL		false		false	-								
+2017	12424	30049	Central St. (OH)	09/17/2016	Benedict		Benedict		false		true	-								
+2017	12424	30049	Central St. (OH)	09/24/2016	Kentucky St.@Indianapolis, IN		Kentucky St.Indianapolis, IN		false		false	-								
+2017	12424	30049	Central St. (OH)	10/01/2016	@ Ky. Wesleyan		Ky. Wesleyan		false		false	-								
+2017	12424	30049	Central St. (OH)	10/08/2016	@ Miles		Miles		false		false	-								
+2017	12424	30049	Central St. (OH)	10/15/2016	Lane		Lane		false		true	-								
+2017	12424	30049	Central St. (OH)	10/22/2016	@ Fort Valley St.		Fort Valley St.		false		false	-								
+2017	12424	30049	Central St. (OH)	10/29/2016	Tuskegee		Tuskegee		false		true	-								
+2017	12424	30049	Central St. (OH)	11/05/2016	Southwest Baptist		Southwest Baptist		false		true	-								
+2017	12424	1010	Central Wash.	09/03/2016	@ Portland St.	550	Portland St.	http://stats.ncaa.org/team/550/12424	false		false	L 26 - 43	false	26 - 43	26	43	false		central-wash-portland-st#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/central-wash-portland-st#boxscore
+2017	12424	1010	Central Wash.	09/10/2016	@ Western Ore.		Western Ore.		false		false	-								
+2017	12424	1010	Central Wash.	09/17/2016	Azusa Pacific		Azusa Pacific		false		true	-								
+2017	12424	1010	Central Wash.	09/24/2016	Dixie St.		Dixie St.		false		true	-								
+2017	12424	1010	Central Wash.	10/01/2016	@ Simon Fraser		Simon Fraser		false		false	-								
+2017	12424	1010	Central Wash.	10/08/2016	@ Humboldt St.		Humboldt St.		false		false	-								
+2017	12424	1010	Central Wash.	10/15/2016	Western Ore.		Western Ore.		false		true	-								
+2017	12424	1010	Central Wash.	10/29/2016	@ Azusa Pacific		Azusa Pacific		false		false	-								
+2017	12424	1010	Central Wash.	11/05/2016	Simon Fraser		Simon Fraser		false		true	-								
+2017	12424	1010	Central Wash.	11/12/2016	Humboldt St.		Humboldt St.		false		true	-								
+2017	12424	1012	Chadron St.	09/03/2016	Fort Lewis	1083	Fort Lewis	http://stats.ncaa.org/team/1083/12424	false		true	W 17 - 10	true	17 - 10	17	10	false		fort-lewis-chadron-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/fort-lewis-chadron-st#boxscore
+2017	12424	1012	Chadron St.	09/10/2016	@ Colorado Mesa		Colorado Mesa		false		false	-								
+2017	12424	1012	Chadron St.	09/17/2016	Western St.		Western St.		false		true	-								
+2017	12424	1012	Chadron St.	09/24/2016	@ Adams St.		Adams St.		false		false	-								
+2017	12424	1012	Chadron St.	10/01/2016	Humboldt St.		Humboldt St.		false		true	-								
+2017	12424	1012	Chadron St.	10/08/2016	Dixie St.		Dixie St.		false		true	-								
+2017	12424	1012	Chadron St.	10/15/2016	N.M. Highlands		N.M. Highlands		false		true	-								
+2017	12424	1012	Chadron St.	10/22/2016	@ South Dakota Mines		South Dakota Mines		false		false	-								
+2017	12424	1012	Chadron St.	10/29/2016	@ Colorado Mines		Colorado Mines		false		false	-								
+2017	12424	1012	Chadron St.	11/05/2016	Black Hills St.		Black Hills St.		false		true	-								
+2017	12424	1012	Chadron St.	11/12/2016	@ Colorado St.-Pueblo		Colorado St.-Pueblo		false		false	-								
+2017	12424	1013	Charleston (WV)	09/03/2016	@ Notre Dame (OH)	30126	Notre Dame (OH)	http://stats.ncaa.org/team/30126/12424	false		false	L 17 - 44	false	17 - 44	17	44	false		charleston-wv-notre-dame-oh#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/charleston-wv-notre-dame-oh#boxscore
+2017	12424	1013	Charleston (WV)	09/08/2016	Shepherd		Shepherd		false		true	-								
+2017	12424	1013	Charleston (WV)	09/17/2016	@ Glenville St.		Glenville St.		false		false	-								
+2017	12424	1013	Charleston (WV)	09/22/2016	West Virginia St.		West Virginia St.		false		true	-								
+2017	12424	1013	Charleston (WV)	10/01/2016	@ Concord		Concord		false		false	-								
+2017	12424	1013	Charleston (WV)	10/08/2016	West Liberty		West Liberty		false		true	-								
+2017	12424	1013	Charleston (WV)	10/13/2016	@ Fairmont St.		Fairmont St.		false		false	-								
+2017	12424	1013	Charleston (WV)	10/22/2016	Urbana		Urbana		false		true	-								
+2017	12424	1013	Charleston (WV)	10/29/2016	@ West Va. Wesleyan		West Va. Wesleyan		false		false	-								
+2017	12424	1013	Charleston (WV)	11/05/2016	@ Alderson Broaddus		Alderson Broaddus		false		false	-								
+2017	12424	1013	Charleston (WV)	11/10/2016	UVa-Wise		UVa-Wise		false		true	-								
+2017	12424	135	Cheyney	09/01/2016	Lincoln (PA)	357	Lincoln (PA)	http://stats.ncaa.org/team/357/12424	false		true	-								
+2017	12424	135	Cheyney	09/10/2016	California (PA)		California (PA)		false		true	-								
+2017	12424	135	Cheyney	09/17/2016	Indiana (PA)		Indiana (PA)		false		true	-								
+2017	12424	135	Cheyney	09/24/2016	Bloomsburg		Bloomsburg		false		true	-								
+2017	12424	135	Cheyney	10/01/2016	@ East Stroudsburg		East Stroudsburg		false		false	-								
+2017	12424	135	Cheyney	10/08/2016	Lock Haven		Lock Haven		false		true	-								
+2017	12424	135	Cheyney	10/15/2016	@ Shippensburg		Shippensburg		false		false	-								
+2017	12424	135	Cheyney	10/22/2016	@ West Chester		West Chester		false		false	-								
+2017	12424	135	Cheyney	10/29/2016	Millersville		Millersville		false		true	-								
+2017	12424	135	Cheyney	11/05/2016	@ Kutztown		Kutztown		false		false	-								
+2017	12424	135	Cheyney	11/12/2016	@ Edinboro		Edinboro		false		false	-								
+2017	12424	8875	Chowan	09/03/2016	@ Fayetteville St.		Fayetteville St.		false		false	-								
+2017	12424	8875	Chowan	09/10/2016	Campbell		Campbell		false		true	-								
+2017	12424	8875	Chowan	09/17/2016	West Florida		West Florida		false		true	-								
+2017	12424	8875	Chowan	09/24/2016	@ Livingstone		Livingstone		false		false	-								
+2017	12424	8875	Chowan	10/01/2016	Johnson C. Smith		Johnson C. Smith		false		true	-								
+2017	12424	8875	Chowan	10/08/2016	Bowie St.		Bowie St.		false		true	-								
+2017	12424	8875	Chowan	10/15/2016	Virginia Union		Virginia Union		false		true	-								
+2017	12424	8875	Chowan	10/22/2016	@ Elizabeth City St.		Elizabeth City St.		false		false	-								
+2017	12424	8875	Chowan	10/29/2016	@ Virginia St.		Virginia St.		false		false	-								
+2017	12424	8875	Chowan	11/05/2016	Lincoln (PA)		Lincoln (PA)		false		true	-								
+2017	12424	143	Clarion	09/01/2016	Lock Haven	360	Lock Haven	http://stats.ncaa.org/team/360/12424	false		true	W 41 - 24	true	41 - 24	41	24	false		lock-haven-clarion#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/lock-haven-clarion#boxscore
+2017	12424	143	Clarion	09/10/2016	@ Bloomsburg		Bloomsburg		false		false	-								
+2017	12424	143	Clarion	09/17/2016	@ Shippensburg		Shippensburg		false		false	-								
+2017	12424	143	Clarion	09/24/2016	@ Mercyhurst		Mercyhurst		false		false	-								
+2017	12424	143	Clarion	10/01/2016	Edinboro		Edinboro		false		true	-								
+2017	12424	143	Clarion	10/08/2016	@ Seton Hill		Seton Hill		false		false	-								
+2017	12424	143	Clarion	10/15/2016	California (PA)		California (PA)		false		true	-								
+2017	12424	143	Clarion	10/22/2016	@ Indiana (PA)		Indiana (PA)		false		false	-								
+2017	12424	143	Clarion	10/29/2016	Slippery Rock		Slippery Rock		false		true	-								
+2017	12424	143	Clarion	11/05/2016	Gannon		Gannon		false		true	-								
+2017	12424	143	Clarion	11/12/2016	West Chester		West Chester		false		true	-								
+2017	12424	144	Clark Atlanta	09/03/2016	@ Tuskegee		Tuskegee		false		false	-								
+2017	12424	144	Clark Atlanta	09/10/2016	Central St. (OH)@Chicago, IL		Central St. (OH)Chicago, IL		false		false	-								
+2017	12424	144	Clark Atlanta	09/17/2016	@ Fort Valley St.		Fort Valley St.		false		false	-								
+2017	12424	144	Clark Atlanta	09/24/2016	Ave Maria		Ave Maria		false		true	-								
+2017	12424	144	Clark Atlanta	10/01/2016	Morehouse		Morehouse		false		true	-								
+2017	12424	144	Clark Atlanta	10/06/2016	@ Shorter		Shorter		false		false	-								
+2017	12424	144	Clark Atlanta	10/15/2016	Benedict		Benedict		false		true	-								
+2017	12424	144	Clark Atlanta	10/22/2016	@ Albany St. (GA)		Albany St. (GA)		false		false	-								
+2017	12424	144	Clark Atlanta	10/29/2016	Miles		Miles		false		true	-								
+2017	12424	144	Clark Atlanta	11/05/2016	@ Kennesaw St.		Kennesaw St.		false		false	-								
+2017	12424	11416	Colorado Mesa	09/03/2016	@ Western St.	2759	Western St.	http://stats.ncaa.org/team/2759/12424	false		false	W 34 - 14	true	34 - 14	34	14	false		colorado-mesa-western-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/colorado-mesa-western-st#boxscore
+2017	12424	11416	Colorado Mesa	09/10/2016	Chadron St.		Chadron St.		false		true	-								
+2017	12424	11416	Colorado Mesa	09/17/2016	@ Colorado Mines		Colorado Mines		false		false	-								
+2017	12424	11416	Colorado Mesa	09/24/2016	@ Fort Lewis		Fort Lewis		false		false	-								
+2017	12424	11416	Colorado Mesa	10/01/2016	Colorado St.-Pueblo		Colorado St.-Pueblo		false		true	-								
+2017	12424	11416	Colorado Mesa	10/08/2016	@ Black Hills St.		Black Hills St.		false		false	-								
+2017	12424	11416	Colorado Mesa	10/15/2016	Dixie St.		Dixie St.		false		true	-								
+2017	12424	11416	Colorado Mesa	10/22/2016	Adams St.		Adams St.		false		true	-								
+2017	12424	11416	Colorado Mesa	10/29/2016	@ N.M. Highlands		N.M. Highlands		false		false	-								
+2017	12424	11416	Colorado Mesa	11/05/2016	South Dakota Mines		South Dakota Mines		false		true	-								
+2017	12424	11416	Colorado Mesa	11/12/2016	Azusa Pacific		Azusa Pacific		false		true	-								
+2017	12424	155	Colorado Mines	09/01/2016	Colorado St.-Pueblo	2720	Colorado St.-Pueblo	http://stats.ncaa.org/team/2720/12424	false		true	W 57 - 21	true	57 - 21	57	21	false		colorado-st-pueblo-colorado-mines#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/colorado-st-pueblo-colorado-mines#boxscore
+2017	12424	155	Colorado Mines	09/10/2016	@ N.M. Highlands		N.M. Highlands		false		false	-								
+2017	12424	155	Colorado Mines	09/17/2016	Colorado Mesa		Colorado Mesa		false		true	-								
+2017	12424	155	Colorado Mines	09/24/2016	@ Western St.		Western St.		false		false	-								
+2017	12424	155	Colorado Mines	10/01/2016	@ Fort Lewis		Fort Lewis		false		false	-								
+2017	12424	155	Colorado Mines	10/08/2016	Azusa Pacific		Azusa Pacific		false		true	-								
+2017	12424	155	Colorado Mines	10/15/2016	South Dakota Mines		South Dakota Mines		false		true	-								
+2017	12424	155	Colorado Mines	10/22/2016	@ Dixie St.		Dixie St.		false		false	-								
+2017	12424	155	Colorado Mines	10/29/2016	Chadron St.		Chadron St.		false		true	-								
+2017	12424	155	Colorado Mines	11/05/2016	Adams St.		Adams St.		false		true	-								
+2017	12424	155	Colorado Mines	11/12/2016	@ Black Hills St.		Black Hills St.		false		false	-								
+2017	12424	2720	Colorado St.-Pueblo	09/01/2016	@ Colorado Mines	155	Colorado Mines	http://stats.ncaa.org/team/155/12424	false		false	L 21 - 57	false	21 - 57	21	57	false		colorado-st-pueblo-colorado-mines#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/colorado-st-pueblo-colorado-mines#boxscore
+2017	12424	2720	Colorado St.-Pueblo	09/10/2016	West Tex. A&M		West Tex. A&M		false		true	-								
+2017	12424	2720	Colorado St.-Pueblo	09/17/2016	South Dakota Mines		South Dakota Mines		false		true	-								
+2017	12424	2720	Colorado St.-Pueblo	09/24/2016	N.M. Highlands		N.M. Highlands		false		true	-								
+2017	12424	2720	Colorado St.-Pueblo	10/01/2016	@ Colorado Mesa		Colorado Mesa		false		false	-								
+2017	12424	2720	Colorado St.-Pueblo	10/08/2016	@ Adams St.		Adams St.		false		false	-								
+2017	12424	2720	Colorado St.-Pueblo	10/15/2016	Fort Lewis		Fort Lewis		false		true	-								
+2017	12424	2720	Colorado St.-Pueblo	10/22/2016	@ Black Hills St.		Black Hills St.		false		false	-								
+2017	12424	2720	Colorado St.-Pueblo	10/29/2016	@ Western St.		Western St.		false		false	-								
+2017	12424	2720	Colorado St.-Pueblo	11/05/2016	Dixie St.		Dixie St.		false		true	-								
+2017	12424	2720	Colorado St.-Pueblo	11/12/2016	Chadron St.		Chadron St.		false		true	-								
+2017	12424	1028	Concord	09/03/2016	@ West Liberty		West Liberty		false		false	-								
+2017	12424	1028	Concord	09/10/2016	@ Fairmont St.		Fairmont St.		false		false	-								
+2017	12424	1028	Concord	09/18/2016	Urbana		Urbana		false		true	-								
+2017	12424	1028	Concord	09/24/2016	@ West Va. Wesleyan		West Va. Wesleyan		false		false	-								
+2017	12424	1028	Concord	10/01/2016	Charleston (WV)		Charleston (WV)		false		true	-								
+2017	12424	1028	Concord	10/06/2016	@ UVa-Wise		UVa-Wise		false		false	-								
+2017	12424	1028	Concord	10/15/2016	Notre Dame (OH)		Notre Dame (OH)		false		true	-								
+2017	12424	1028	Concord	10/22/2016	@ Shepherd		Shepherd		false		false	-								
+2017	12424	1028	Concord	10/29/2016	Glenville St.		Glenville St.		false		true	-								
+2017	12424	1028	Concord	11/05/2016	@ West Virginia St.		West Virginia St.		false		false	-								
+2017	12424	1028	Concord	11/12/2016	@ UNC Pembroke		UNC Pembroke		false		false	-								
+2017	12424	9081	Concordia-St. Paul	09/03/2016	Mary	30075	Mary	http://stats.ncaa.org/team/30075/12424	false		true	W 17 - 0	true	17 - 0	17	0	false		mary-concordia-st-paul#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/mary-concordia-st-paul#boxscore
+2017	12424	9081	Concordia-St. Paul	09/10/2016	@ Minn.-Crookston		Minn.-Crookston		false		false	-								
+2017	12424	9081	Concordia-St. Paul	09/17/2016	Minn. Duluth		Minn. Duluth		false		true	-								
+2017	12424	9081	Concordia-St. Paul	09/24/2016	@ Northern St.		Northern St.		false		false	-								
+2017	12424	9081	Concordia-St. Paul	10/01/2016	Wayne St. (NE)		Wayne St. (NE)		false		true	-								
+2017	12424	9081	Concordia-St. Paul	10/08/2016	@ Minnesota St.		Minnesota St.		false		false	-								
+2017	12424	9081	Concordia-St. Paul	10/15/2016	Upper Iowa		Upper Iowa		false		true	-								
+2017	12424	9081	Concordia-St. Paul	10/22/2016	@ Sioux Falls		Sioux Falls		false		false	-								
+2017	12424	9081	Concordia-St. Paul	10/29/2016	@ Southwest Minn. St.		Southwest Minn. St.		false		false	-								
+2017	12424	9081	Concordia-St. Paul	11/05/2016	Augustana (SD)		Augustana (SD)		false		true	-								
+2017	12424	9081	Concordia-St. Paul	11/12/2016	@ Winona St.		Winona St.		false		false	-								
+2017	12424	30221	Davenport	08/27/2016	Taylor (IN)		Taylor (IN)		false		true	-								
+2017	12424	30221	Davenport	09/03/2016	@ Ky. Christian		Ky. Christian		false		false	-								
+2017	12424	30221	Davenport	09/10/2016	@ Tiffin		Tiffin		false		false	-								
+2017	12424	30221	Davenport	09/17/2016	Ky. Wesleyan		Ky. Wesleyan		false		true	-								
+2017	12424	30221	Davenport	09/24/2016	Arizona Christian		Arizona Christian		false		true	-								
+2017	12424	30221	Davenport	10/01/2016	@ St. Xavier		St. Xavier		false		false	-								
+2017	12424	30221	Davenport	10/15/2016	@ St. Francis (IL)		St. Francis (IL)		false		false	-								
+2017	12424	30221	Davenport	10/22/2016	Quincy		Quincy		false		true	-								
+2017	12424	30221	Davenport	10/29/2016	St. Joseph's (IN)		St. Joseph's (IN)		false		true	-								
+2017	12424	30221	Davenport	11/05/2016	St. Francis (IN)		St. Francis (IN)		false		true	-								
+2017	12424	181	Delta St.	09/01/2016	Ky. Wesleyan	333	Ky. Wesleyan	http://stats.ncaa.org/team/333/12424	false		true	W 50 - 29	true	50 - 29	50	29	false		ky-wesleyan-delta-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/ky-wesleyan-delta-st#boxscore
+2017	12424	181	Delta St.	09/10/2016	Tex. A&M-Commerce		Tex. A&M-Commerce		false		true	-								
+2017	12424	181	Delta St.	09/17/2016	@ West Ga.		West Ga.		false		false	-								
+2017	12424	181	Delta St.	09/24/2016	Shorter		Shorter		false		true	-								
+2017	12424	181	Delta St.	09/29/2016	Mississippi Col.		Mississippi Col.		false		true	-								
+2017	12424	181	Delta St.	10/08/2016	@ West Ala.		West Ala.		false		false	-								
+2017	12424	181	Delta St.	10/15/2016	West Florida		West Florida		false		true	-								
+2017	12424	181	Delta St.	10/22/2016	@ Valdosta St.		Valdosta St.		false		false	-								
+2017	12424	181	Delta St.	10/29/2016	North Ala.		North Ala.		false		true	-								
+2017	12424	181	Delta St.	11/12/2016	@ Florida Tech		Florida Tech		false		false	-								
+2017	12424	30095	Dixie St.	09/01/2016	N.M. Highlands	8577	N.M. Highlands	http://stats.ncaa.org/team/8577/12424	false		true	W 21 - 14	true	21 - 14	21	14	false		nm-highlands-dixie-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/nm-highlands-dixie-st#boxscore
+2017	12424	30095	Dixie St.	09/10/2016	South Dakota Mines		South Dakota Mines		false		true	-								
+2017	12424	30095	Dixie St.	09/17/2016	@ Black Hills St.		Black Hills St.		false		false	-								
+2017	12424	30095	Dixie St.	09/24/2016	@ Central Wash.		Central Wash.		false		false	-								
+2017	12424	30095	Dixie St.	10/01/2016	Western St.		Western St.		false		true	-								
+2017	12424	30095	Dixie St.	10/08/2016	@ Chadron St.		Chadron St.		false		false	-								
+2017	12424	30095	Dixie St.	10/15/2016	@ Colorado Mesa		Colorado Mesa		false		false	-								
+2017	12424	30095	Dixie St.	10/22/2016	Colorado Mines		Colorado Mines		false		true	-								
+2017	12424	30095	Dixie St.	10/29/2016	@ Adams St.		Adams St.		false		false	-								
+2017	12424	30095	Dixie St.	11/05/2016	@ Colorado St.-Pueblo		Colorado St.-Pueblo		false		false	-								
+2017	12424	30095	Dixie St.	11/12/2016	Fort Lewis		Fort Lewis		false		true	-								
+2017	12424	8965	East Central	09/01/2016	@ Ouachita Baptist	1289	Ouachita Baptist	http://stats.ncaa.org/team/1289/12424	false		false	L 28 - 42	false	28 - 42	28	42	false		east-central-ouachita-baptist#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/east-central-ouachita-baptist#boxscore
+2017	12424	8965	East Central	09/10/2016	Henderson St.		Henderson St.		false		true	-								
+2017	12424	8965	East Central	09/17/2016	@ Southern Nazarene		Southern Nazarene		false		false	-								
+2017	12424	8965	East Central	09/24/2016	Okla. Baptist		Okla. Baptist		false		true	-								
+2017	12424	8965	East Central	10/01/2016	@ Northwestern Okla.		Northwestern Okla.		false		false	-								
+2017	12424	8965	East Central	10/08/2016	Southwestern Okla.		Southwestern Okla.		false		true	-								
+2017	12424	8965	East Central	10/15/2016	@ Arkansas Tech		Arkansas Tech		false		false	-								
+2017	12424	8965	East Central	10/20/2016	Harding		Harding		false		true	-								
+2017	12424	8965	East Central	10/29/2016	@ Ark.-Monticello		Ark.-Monticello		false		false	-								
+2017	12424	8965	East Central	11/05/2016	Southern Ark.		Southern Ark.		false		true	-								
+2017	12424	8965	East Central	11/12/2016	Southeastern Okla.		Southeastern Okla.		false		true	-								
+2017	12424	197	East Stroudsburg	09/01/2016	@ Brevard	30094	Brevard	http://stats.ncaa.org/team/30094/12424	false		false	W 49 - 14	true	49 - 14	49	14	false		east-stroudsburg-brevard#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/east-stroudsburg-brevard#boxscore
+2017	12424	197	East Stroudsburg	09/10/2016	Indiana (PA)		Indiana (PA)		false		true	-								
+2017	12424	197	East Stroudsburg	09/17/2016	@ Mercyhurst		Mercyhurst		false		false	-								
+2017	12424	197	East Stroudsburg	09/24/2016	@ Shippensburg		Shippensburg		false		false	-								
+2017	12424	197	East Stroudsburg	10/01/2016	Cheyney		Cheyney		false		true	-								
+2017	12424	197	East Stroudsburg	10/08/2016	@ Millersville		Millersville		false		false	-								
+2017	12424	197	East Stroudsburg	10/15/2016	Kutztown		Kutztown		false		true	-								
+2017	12424	197	East Stroudsburg	10/22/2016	@ Bloomsburg		Bloomsburg		false		false	-								
+2017	12424	197	East Stroudsburg	10/29/2016	West Chester		West Chester		false		true	-								
+2017	12424	197	East Stroudsburg	11/05/2016	Lock Haven		Lock Haven		false		true	-								
+2017	12424	197	East Stroudsburg	11/12/2016	@ California (PA)		California (PA)		false		false	-								
+2017	12424	206	Eastern N.M.	09/01/2016	@ Southwest Baptist		Southwest Baptist		false		false	-								
+2017	12424	206	Eastern N.M.	09/10/2016	Western N.M.		Western N.M.		false		true	-								
+2017	12424	206	Eastern N.M.	09/17/2016	Tex. A&M-Commerce		Tex. A&M-Commerce		false		true	-								
+2017	12424	206	Eastern N.M.	09/24/2016	@ Angelo St.		Angelo St.		false		false	-								
+2017	12424	206	Eastern N.M.	10/01/2016	West Tex. A&M		West Tex. A&M		false		true	-								
+2017	12424	206	Eastern N.M.	10/08/2016	@ Tex. Permian Basin		Tex. Permian Basin		false		false	-								
+2017	12424	206	Eastern N.M.	10/15/2016	Tarleton St.		Tarleton St.		false		true	-								
+2017	12424	206	Eastern N.M.	10/22/2016	Bacone		Bacone		false		true	-								
+2017	12424	206	Eastern N.M.	10/29/2016	@ Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		false	-								
+2017	12424	206	Eastern N.M.	11/05/2016	Okla. Panhandle		Okla. Panhandle		false		true	-								
+2017	12424	206	Eastern N.M.	11/12/2016	@ Midwestern St.		Midwestern St.		false		false	-								
+2017	12424	209	Edinboro	09/03/2016	@ St. Joseph's (IN)	604	St. Joseph's (IN)	http://stats.ncaa.org/team/604/12424	false		false	W 31 - 30	true	31 - 30	31	30	false		edinboro-st-josephs-in#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/edinboro-st-josephs-in#boxscore
+2017	12424	209	Edinboro	09/10/2016	@ Lock Haven		Lock Haven		false		false	-								
+2017	12424	209	Edinboro	09/17/2016	West Chester		West Chester		false		true	-								
+2017	12424	209	Edinboro	09/24/2016	Indiana (PA)		Indiana (PA)		false		true	-								
+2017	12424	209	Edinboro	10/01/2016	@ Clarion		Clarion		false		false	-								
+2017	12424	209	Edinboro	10/08/2016	Gannon		Gannon		false		true	-								
+2017	12424	209	Edinboro	10/15/2016	@ Mercyhurst		Mercyhurst		false		false	-								
+2017	12424	209	Edinboro	10/22/2016	@ Slippery Rock		Slippery Rock		false		false	-								
+2017	12424	209	Edinboro	10/29/2016	Seton Hill		Seton Hill		false		true	-								
+2017	12424	209	Edinboro	11/05/2016	@ California (PA)		California (PA)		false		false	-								
+2017	12424	209	Edinboro	11/12/2016	Cheyney		Cheyney		false		true	-								
+2017	12424	210	Elizabeth City St.	09/04/2016	@ Norfolk St.		Norfolk St.		false		false	-								
+2017	12424	210	Elizabeth City St.	09/10/2016	@ Fordham		Fordham		false		false	-								
+2017	12424	210	Elizabeth City St.	09/17/2016	Morehouse@Rocky Mount, NC		MorehouseRocky Mount, NC		false		false	-								
+2017	12424	210	Elizabeth City St.	09/24/2016	@ Johnson C. Smith		Johnson C. Smith		false		false	-								
+2017	12424	210	Elizabeth City St.	10/01/2016	Shaw		Shaw		false		true	-								
+2017	12424	210	Elizabeth City St.	10/08/2016	@ Virginia St.		Virginia St.		false		false	-								
+2017	12424	210	Elizabeth City St.	10/15/2016	@ Lincoln (PA)		Lincoln (PA)		false		false	-								
+2017	12424	210	Elizabeth City St.	10/22/2016	Chowan		Chowan		false		true	-								
+2017	12424	210	Elizabeth City St.	10/29/2016	Virginia Union		Virginia Union		false		true	-								
+2017	12424	210	Elizabeth City St.	11/05/2016	@ Bowie St.		Bowie St.		false		false	-								
+2017	12424	1071	Emporia St.	09/01/2016	Northwest Mo. St.	507	Northwest Mo. St.	http://stats.ncaa.org/team/507/12424	false		true	L 14 - 41	false	14 - 41	14	41	false		northwest-mo-st-emporia-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/northwest-mo-st-emporia-st#boxscore
+2017	12424	1071	Emporia St.	09/08/2016	@ Neb.-Kearney		Neb.-Kearney		false		false	-								
+2017	12424	1071	Emporia St.	09/17/2016	Mo. Southern St.		Mo. Southern St.		false		true	-								
+2017	12424	1071	Emporia St.	09/24/2016	@ Central Mo.		Central Mo.		false		false	-								
+2017	12424	1071	Emporia St.	10/01/2016	Central Okla.		Central Okla.		false		true	-								
+2017	12424	1071	Emporia St.	10/08/2016	@ Northeastern St.		Northeastern St.		false		false	-								
+2017	12424	1071	Emporia St.	10/15/2016	Lindenwood (MO)		Lindenwood (MO)		false		true	-								
+2017	12424	1071	Emporia St.	10/22/2016	@ Pittsburg St.		Pittsburg St.		false		false	-								
+2017	12424	1071	Emporia St.	10/29/2016	Fort Hays St.		Fort Hays St.		false		true	-								
+2017	12424	1071	Emporia St.	11/05/2016	@ Mo. Western St.		Mo. Western St.		false		false	-								
+2017	12424	1071	Emporia St.	11/12/2016	@ Washburn		Washburn		false		false	-								
+2017	12424	1076	Fairmont St.	09/03/2016	@ West Virginia St.	1439	West Virginia St.	http://stats.ncaa.org/team/1439/12424	false		false	W 30 - 20	true	30 - 20	30	20	false		fairmont-st-west-virginia-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/fairmont-st-west-virginia-st#boxscore
+2017	12424	1076	Fairmont St.	09/10/2016	Concord		Concord		false		true	-								
+2017	12424	1076	Fairmont St.	09/15/2016	@ West Liberty		West Liberty		false		false	-								
+2017	12424	1076	Fairmont St.	09/22/2016	@ Alderson Broaddus		Alderson Broaddus		false		false	-								
+2017	12424	1076	Fairmont St.	10/01/2016	Urbana		Urbana		false		true	-								
+2017	12424	1076	Fairmont St.	10/08/2016	@ West Va. Wesleyan		West Va. Wesleyan		false		false	-								
+2017	12424	1076	Fairmont St.	10/13/2016	Charleston (WV)		Charleston (WV)		false		true	-								
+2017	12424	1076	Fairmont St.	10/22/2016	@ UVa-Wise		UVa-Wise		false		false	-								
+2017	12424	1076	Fairmont St.	10/27/2016	Notre Dame (OH)		Notre Dame (OH)		false		true	-								
+2017	12424	1076	Fairmont St.	11/05/2016	@ Shepherd		Shepherd		false		false	-								
+2017	12424	1076	Fairmont St.	11/10/2016	Glenville St.		Glenville St.		false		true	-								
+2017	12424	223	Fayetteville St.	09/03/2016	@ Chowan		Chowan		false		false	-								
+2017	12424	223	Fayetteville St.	09/10/2016	@ UNC Pembroke		UNC Pembroke		false		false	-								
+2017	12424	223	Fayetteville St.	09/17/2016	@ Elon		Elon		false		false	-								
+2017	12424	223	Fayetteville St.	09/24/2016	Virginia Union		Virginia Union		false		true	-								
+2017	12424	223	Fayetteville St.	10/01/2016	@ Bowie St.		Bowie St.		false		false	-								
+2017	12424	223	Fayetteville St.	10/08/2016	@ Shaw		Shaw		false		false	-								
+2017	12424	223	Fayetteville St.	10/15/2016	Johnson C. Smith		Johnson C. Smith		false		true	-								
+2017	12424	223	Fayetteville St.	10/22/2016	@ Saint Augustine's		Saint Augustine's		false		false	-								
+2017	12424	223	Fayetteville St.	10/29/2016	Livingstone		Livingstone		false		true	-								
+2017	12424	223	Fayetteville St.	11/05/2016	Winston-Salem		Winston-Salem		false		true	-								
+2017	12424	224	Ferris St.	09/01/2016	Ohio Dominican	30119	Ohio Dominican	http://stats.ncaa.org/team/30119/12424	false		true	W 41 - 0	true	41 - 0	41	0	false		ohio-dominican-ferris-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/ohio-dominican-ferris-st#boxscore
+2017	12424	224	Ferris St.	09/10/2016	@ Michigan Tech		Michigan Tech		false		false	-								
+2017	12424	224	Ferris St.	09/17/2016	@ Northwood		Northwood		false		false	-								
+2017	12424	224	Ferris St.	09/24/2016	Ashland		Ashland		false		true	-								
+2017	12424	224	Ferris St.	10/01/2016	@ Findlay		Findlay		false		false	-								
+2017	12424	224	Ferris St.	10/08/2016	@ Grand Valley St.		Grand Valley St.		false		false	-								
+2017	12424	224	Ferris St.	10/15/2016	Northern Mich.		Northern Mich.		false		true	-								
+2017	12424	224	Ferris St.	10/22/2016	Lake Erie		Lake Erie		false		true	-								
+2017	12424	224	Ferris St.	10/29/2016	Wayne St. (MI)		Wayne St. (MI)		false		true	-								
+2017	12424	224	Ferris St.	11/05/2016	@ Hillsdale		Hillsdale		false		false	-								
+2017	12424	224	Ferris St.	11/12/2016	Saginaw Valley		Saginaw Valley		false		true	-								
+2017	12424	1079	Findlay	09/03/2016	Saginaw Valley		Saginaw Valley		false		true	-								
+2017	12424	1079	Findlay	09/10/2016	Ohio Dominican		Ohio Dominican		false		true	-								
+2017	12424	1079	Findlay	09/17/2016	@ Ashland		Ashland		false		false	-								
+2017	12424	1079	Findlay	09/24/2016	@ Lake Erie		Lake Erie		false		false	-								
+2017	12424	1079	Findlay	10/01/2016	Ferris St.		Ferris St.		false		true	-								
+2017	12424	1079	Findlay	10/08/2016	Wayne St. (MI)		Wayne St. (MI)		false		true	-								
+2017	12424	1079	Findlay	10/15/2016	Hillsdale		Hillsdale		false		true	-								
+2017	12424	1079	Findlay	10/22/2016	@ Tiffin		Tiffin		false		false	-								
+2017	12424	1079	Findlay	10/29/2016	@ Grand Valley St.		Grand Valley St.		false		false	-								
+2017	12424	1079	Findlay	11/05/2016	Northwood		Northwood		false		true	-								
+2017	12424	1079	Findlay	11/12/2016	@ Michigan Tech		Michigan Tech		false		false	-								
+2017	12424	230	Florida Tech	09/03/2016	@ Newberry		Newberry		false		false	-								
+2017	12424	230	Florida Tech	09/10/2016	Mississippi Col.		Mississippi Col.		false		true	-								
+2017	12424	230	Florida Tech	09/17/2016	@ Shorter		Shorter		false		false	-								
+2017	12424	230	Florida Tech	09/24/2016	@ Presbyterian		Presbyterian		false		false	-								
+2017	12424	230	Florida Tech	10/01/2016	@ West Florida		West Florida		false		false	-								
+2017	12424	230	Florida Tech	10/08/2016	North Ala.		North Ala.		false		true	-								
+2017	12424	230	Florida Tech	10/15/2016	Fort Valley St.		Fort Valley St.		false		true	-								
+2017	12424	230	Florida Tech	10/22/2016	@ West Ala.		West Ala.		false		false	-								
+2017	12424	230	Florida Tech	10/29/2016	Valdosta St.		Valdosta St.		false		true	-								
+2017	12424	230	Florida Tech	11/05/2016	@ West Ga.		West Ga.		false		false	-								
+2017	12424	230	Florida Tech	11/12/2016	Delta St.		Delta St.		false		true	-								
+2017	12424	9011	Fort Hays St.	09/01/2016	Mo. Southern St.	9012	Mo. Southern St.	http://stats.ncaa.org/team/9012/12424	false		true	W 22 - 10	true	22 - 10	22	10	false		mo-southern-st-fort-hays-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/mo-southern-st-fort-hays-st#boxscore
+2017	12424	9011	Fort Hays St.	09/08/2016	@ Central Mo.		Central Mo.		false		false	-								
+2017	12424	9011	Fort Hays St.	09/17/2016	Central Okla.		Central Okla.		false		true	-								
+2017	12424	9011	Fort Hays St.	09/24/2016	@ Northeastern St.		Northeastern St.		false		false	-								
+2017	12424	9011	Fort Hays St.	10/01/2016	Lindenwood (MO)		Lindenwood (MO)		false		true	-								
+2017	12424	9011	Fort Hays St.	10/08/2016	@ Pittsburg St.		Pittsburg St.		false		false	-								
+2017	12424	9011	Fort Hays St.	10/15/2016	@ Washburn		Washburn		false		false	-								
+2017	12424	9011	Fort Hays St.	10/22/2016	Mo. Western St.		Mo. Western St.		false		true	-								
+2017	12424	9011	Fort Hays St.	10/29/2016	@ Emporia St.		Emporia St.		false		false	-								
+2017	12424	9011	Fort Hays St.	11/05/2016	Northwest Mo. St.		Northwest Mo. St.		false		true	-								
+2017	12424	9011	Fort Hays St.	11/12/2016	@ Neb.-Kearney		Neb.-Kearney		false		false	-								
+2017	12424	1083	Fort Lewis	09/03/2016	@ Chadron St.	1012	Chadron St.	http://stats.ncaa.org/team/1012/12424	false		false	L 10 - 17	false	10 - 17	10	17	false		fort-lewis-chadron-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/fort-lewis-chadron-st#boxscore
+2017	12424	1083	Fort Lewis	09/10/2016	Black Hills St.		Black Hills St.		false		true	-								
+2017	12424	1083	Fort Lewis	09/17/2016	@ Adams St.		Adams St.		false		false	-								
+2017	12424	1083	Fort Lewis	09/24/2016	Colorado Mesa		Colorado Mesa		false		true	-								
+2017	12424	1083	Fort Lewis	10/01/2016	Colorado Mines		Colorado Mines		false		true	-								
+2017	12424	1083	Fort Lewis	10/08/2016	Western St.		Western St.		false		true	-								
+2017	12424	1083	Fort Lewis	10/15/2016	@ Colorado St.-Pueblo		Colorado St.-Pueblo		false		false	-								
+2017	12424	1083	Fort Lewis	10/22/2016	Western N.M.		Western N.M.		false		true	-								
+2017	12424	1083	Fort Lewis	10/29/2016	@ South Dakota Mines		South Dakota Mines		false		false	-								
+2017	12424	1083	Fort Lewis	11/05/2016	N.M. Highlands		N.M. Highlands		false		true	-								
+2017	12424	1083	Fort Lewis	11/12/2016	@ Dixie St.		Dixie St.		false		false	-								
+2017	12424	237	Fort Valley St.	09/04/2016	Miles@Birmingham, AL		MilesBirmingham, AL		false		false	-								
+2017	12424	237	Fort Valley St.	09/10/2016	@ Lane		Lane		false		false	-								
+2017	12424	237	Fort Valley St.	09/17/2016	Clark Atlanta		Clark Atlanta		false		true	-								
+2017	12424	237	Fort Valley St.	09/24/2016	@ Benedict		Benedict		false		false	-								
+2017	12424	237	Fort Valley St.	10/01/2016	@ Alderson Broaddus		Alderson Broaddus		false		false	-								
+2017	12424	237	Fort Valley St.	10/08/2016	Kentucky St.		Kentucky St.		false		true	-								
+2017	12424	237	Fort Valley St.	10/15/2016	@ Florida Tech		Florida Tech		false		false	-								
+2017	12424	237	Fort Valley St.	10/22/2016	Central St. (OH)		Central St. (OH)		false		true	-								
+2017	12424	237	Fort Valley St.	10/29/2016	@ Morehouse		Morehouse		false		false	-								
+2017	12424	237	Fort Valley St.	11/05/2016	Albany St. (GA)@Columbus, GA		Albany St. (GA)Columbus, GA		false		false	-								
+2017	12424	246	Gannon	09/03/2016	Southern Conn. St.	658	Southern Conn. St.	http://stats.ncaa.org/team/658/12424	false		true	W 31 - 9	true	31 - 9	31	9	false		southern-conn-st-gannon#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/southern-conn-st-gannon#boxscore
+2017	12424	246	Gannon	09/10/2016	@ Shippensburg		Shippensburg		false		false	-								
+2017	12424	246	Gannon	09/17/2016	Bloomsburg		Bloomsburg		false		true	-								
+2017	12424	246	Gannon	09/24/2016	@ Slippery Rock		Slippery Rock		false		false	-								
+2017	12424	246	Gannon	10/01/2016	Mercyhurst		Mercyhurst		false		true	-								
+2017	12424	246	Gannon	10/08/2016	@ Edinboro		Edinboro		false		false	-								
+2017	12424	246	Gannon	10/15/2016	Seton Hill		Seton Hill		false		true	-								
+2017	12424	246	Gannon	10/22/2016	@ California (PA)		California (PA)		false		false	-								
+2017	12424	246	Gannon	10/29/2016	Indiana (PA)		Indiana (PA)		false		true	-								
+2017	12424	246	Gannon	11/05/2016	@ Clarion		Clarion		false		false	-								
+2017	12424	246	Gannon	11/12/2016	Millersville		Millersville		false		true	-								
+2017	12424	1098	Glenville St.	09/01/2016	Urbana	30104	Urbana	http://stats.ncaa.org/team/30104/12424	false		true	W 44 - 24	true	44 - 24	44	24	false		urbana-glenville-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/urbana-glenville-st#boxscore
+2017	12424	1098	Glenville St.	09/10/2016	@ West Va. Wesleyan		West Va. Wesleyan		false		false	-								
+2017	12424	1098	Glenville St.	09/17/2016	Charleston (WV)		Charleston (WV)		false		true	-								
+2017	12424	1098	Glenville St.	09/24/2016	@ UVa-Wise		UVa-Wise		false		false	-								
+2017	12424	1098	Glenville St.	10/01/2016	Notre Dame (OH)		Notre Dame (OH)		false		true	-								
+2017	12424	1098	Glenville St.	10/08/2016	@ Shepherd		Shepherd		false		false	-								
+2017	12424	1098	Glenville St.	10/13/2016	Alderson Broaddus		Alderson Broaddus		false		true	-								
+2017	12424	1098	Glenville St.	10/22/2016	West Virginia St.		West Virginia St.		false		true	-								
+2017	12424	1098	Glenville St.	10/29/2016	@ Concord		Concord		false		false	-								
+2017	12424	1098	Glenville St.	11/03/2016	West Liberty		West Liberty		false		true	-								
+2017	12424	1098	Glenville St.	11/10/2016	@ Fairmont St.		Fairmont St.		false		false	-								
+2017	12424	262	Grand Valley St.	09/01/2016	Tiffin	1403	Tiffin	http://stats.ncaa.org/team/1403/12424	false		true	-								
+2017	12424	262	Grand Valley St.	09/10/2016	Lake Erie		Lake Erie		false		true	-								
+2017	12424	262	Grand Valley St.	09/17/2016	Northern Mich.		Northern Mich.		false		true	-								
+2017	12424	262	Grand Valley St.	09/24/2016	@ Walsh		Walsh		false		false	-								
+2017	12424	262	Grand Valley St.	10/01/2016	@ Ohio Dominican		Ohio Dominican		false		false	-								
+2017	12424	262	Grand Valley St.	10/08/2016	Ferris St.		Ferris St.		false		true	-								
+2017	12424	262	Grand Valley St.	10/15/2016	Truman		Truman		false		true	-								
+2017	12424	262	Grand Valley St.	10/22/2016	@ Hillsdale		Hillsdale		false		false	-								
+2017	12424	262	Grand Valley St.	10/29/2016	Findlay		Findlay		false		true	-								
+2017	12424	262	Grand Valley St.	11/05/2016	@ Saginaw Valley		Saginaw Valley		false		false	-								
+2017	12424	262	Grand Valley St.	11/12/2016	@ Wayne St. (MI)		Wayne St. (MI)		false		false	-								
+2017	12424	1116	Harding	09/03/2016	@ Okla. Baptist		Okla. Baptist		false		false	-								
+2017	12424	1116	Harding	09/10/2016	@ Southern Nazarene		Southern Nazarene		false		false	-								
+2017	12424	1116	Harding	09/17/2016	Southern Ark.		Southern Ark.		false		true	-								
+2017	12424	1116	Harding	09/24/2016	@ Ark.-Monticello		Ark.-Monticello		false		false	-								
+2017	12424	1116	Harding	10/01/2016	Ouachita Baptist		Ouachita Baptist		false		true	-								
+2017	12424	1116	Harding	10/08/2016	@ Henderson St.		Henderson St.		false		false	-								
+2017	12424	1116	Harding	10/15/2016	Southeastern Okla.		Southeastern Okla.		false		true	-								
+2017	12424	1116	Harding	10/20/2016	@ East Central		East Central		false		false	-								
+2017	12424	1116	Harding	10/29/2016	Southwestern Okla.		Southwestern Okla.		false		true	-								
+2017	12424	1116	Harding	11/05/2016	@ Northwestern Okla.		Northwestern Okla.		false		false	-								
+2017	12424	1116	Harding	11/12/2016	Arkansas Tech		Arkansas Tech		false		true	-								
+2017	12424	1123	Henderson St.	08/31/2016	Southeastern Okla.	1371	Southeastern Okla.	http://stats.ncaa.org/team/1371/12424	false		true	W 13 - 11	true	13 - 11	13	11	false		southeastern-okla-henderson-st#boxscore	http://www.ncaa.com/game/football/d2/2016/08/31/southeastern-okla-henderson-st#boxscore
+2017	12424	1123	Henderson St.	09/01/2016	Southeastern Okla.	1371	Southeastern Okla.	http://stats.ncaa.org/team/1371/12424	false		true	W 13 - 11	true	13 - 11	13	11	false		southeastern-okla-henderson-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/southeastern-okla-henderson-st#boxscore
+2017	12424	1123	Henderson St.	09/10/2016	@ East Central		East Central		false		false	-								
+2017	12424	1123	Henderson St.	09/17/2016	Northwestern Okla.		Northwestern Okla.		false		true	-								
+2017	12424	1123	Henderson St.	09/24/2016	@ Southwestern Okla.		Southwestern Okla.		false		false	-								
+2017	12424	1123	Henderson St.	10/01/2016	@ Arkansas Tech		Arkansas Tech		false		false	-								
+2017	12424	1123	Henderson St.	10/08/2016	Harding		Harding		false		true	-								
+2017	12424	1123	Henderson St.	10/15/2016	Ark.-Monticello		Ark.-Monticello		false		true	-								
+2017	12424	1123	Henderson St.	10/22/2016	Southern Ark.@El Dorado, AR		Southern Ark.El Dorado, AR		false		false	-								
+2017	12424	1123	Henderson St.	10/29/2016	Okla. Baptist		Okla. Baptist		false		true	-								
+2017	12424	1123	Henderson St.	11/05/2016	@ Southern Nazarene		Southern Nazarene		false		false	-								
+2017	12424	1123	Henderson St.	11/12/2016	Ouachita Baptist		Ouachita Baptist		false		true	-								
+2017	12424	280	Hillsdale	09/03/2016	UIndy	309	UIndy	http://stats.ncaa.org/team/309/12424	false		true	-								
+2017	12424	280	Hillsdale	09/10/2016	Walsh		Walsh		false		true	-								
+2017	12424	280	Hillsdale	09/17/2016	@ Tiffin		Tiffin		false		false	-								
+2017	12424	280	Hillsdale	09/24/2016	Michigan Tech		Michigan Tech		false		true	-								
+2017	12424	280	Hillsdale	10/01/2016	@ Wayne St. (MI)		Wayne St. (MI)		false		false	-								
+2017	12424	280	Hillsdale	10/15/2016	@ Findlay		Findlay		false		false	-								
+2017	12424	280	Hillsdale	10/22/2016	Grand Valley St.		Grand Valley St.		false		true	-								
+2017	12424	280	Hillsdale	10/29/2016	@ Northern Mich.		Northern Mich.		false		false	-								
+2017	12424	280	Hillsdale	11/05/2016	Ferris St.		Ferris St.		false		true	-								
+2017	12424	280	Hillsdale	11/12/2016	Lake Erie		Lake Erie		false		true	-								
+2017	12424	291	Humboldt St.	09/01/2016	@ Carson-Newman	1000	Carson-Newman	http://stats.ncaa.org/team/1000/12424	false		false	W 52 - 45	true	52 - 45	52	45	false		humboldt-st-carson-newman#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/humboldt-st-carson-newman#boxscore
+2017	12424	291	Humboldt St.	09/10/2016	Azusa Pacific		Azusa Pacific		false		true	-								
+2017	12424	291	Humboldt St.	09/17/2016	@ Simon Fraser		Simon Fraser		false		false	-								
+2017	12424	291	Humboldt St.	09/24/2016	Western Ore.		Western Ore.		false		true	-								
+2017	12424	291	Humboldt St.	10/01/2016	@ Chadron St.		Chadron St.		false		false	-								
+2017	12424	291	Humboldt St.	10/08/2016	Central Wash.		Central Wash.		false		true	-								
+2017	12424	291	Humboldt St.	10/15/2016	@ Azusa Pacific		Azusa Pacific		false		false	-								
+2017	12424	291	Humboldt St.	10/22/2016	@ Western Ore.		Western Ore.		false		false	-								
+2017	12424	291	Humboldt St.	10/29/2016	Simon Fraser		Simon Fraser		false		true	-								
+2017	12424	291	Humboldt St.	11/05/2016	Western St.		Western St.		false		true	-								
+2017	12424	291	Humboldt St.	11/12/2016	@ Central Wash.		Central Wash.		false		false	-								
+2017	12424	307	Indiana (PA)	09/10/2016	@ East Stroudsburg		East Stroudsburg		false		false	-								
+2017	12424	307	Indiana (PA)	09/17/2016	@ Cheyney		Cheyney		false		false	-								
+2017	12424	307	Indiana (PA)	09/24/2016	@ Edinboro		Edinboro		false		false	-								
+2017	12424	307	Indiana (PA)	10/01/2016	Seton Hill		Seton Hill		false		true	-								
+2017	12424	307	Indiana (PA)	10/08/2016	@ California (PA)		California (PA)		false		false	-								
+2017	12424	307	Indiana (PA)	10/15/2016	Slippery Rock		Slippery Rock		false		true	-								
+2017	12424	307	Indiana (PA)	10/22/2016	Clarion		Clarion		false		true	-								
+2017	12424	307	Indiana (PA)	10/29/2016	@ Gannon		Gannon		false		false	-								
+2017	12424	307	Indiana (PA)	11/05/2016	Mercyhurst		Mercyhurst		false		true	-								
+2017	12424	307	Indiana (PA)	11/12/2016	Bloomsburg		Bloomsburg		false		true	-								
+2017	12424	323	Johnson C. Smith	09/03/2016	Wingate	1462	Wingate	http://stats.ncaa.org/team/1462/12424	false		true	-								
+2017	12424	323	Johnson C. Smith	09/10/2016	@ Bowie St.		Bowie St.		false		false	-								
+2017	12424	323	Johnson C. Smith	09/17/2016	@ Wofford		Wofford		false		false	-								
+2017	12424	323	Johnson C. Smith	09/24/2016	Elizabeth City St.		Elizabeth City St.		false		true	-								
+2017	12424	323	Johnson C. Smith	10/01/2016	@ Chowan		Chowan		false		false	-								
+2017	12424	323	Johnson C. Smith	10/08/2016	Winston-Salem		Winston-Salem		false		true	-								
+2017	12424	323	Johnson C. Smith	10/15/2016	@ Fayetteville St.		Fayetteville St.		false		false	-								
+2017	12424	323	Johnson C. Smith	10/22/2016	@ Shaw		Shaw		false		false	-								
+2017	12424	323	Johnson C. Smith	10/29/2016	Saint Augustine's		Saint Augustine's		false		true	-								
+2017	12424	323	Johnson C. Smith	11/05/2016	Livingstone		Livingstone		false		true	-								
+2017	12424	332	Kentucky St.	09/03/2016	@ Charleston So.	48	Charleston So.	http://stats.ncaa.org/team/48/12424	false		false	L 7 - 57	false	7 - 57	7	57	false		kentucky-st-charleston-so#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/kentucky-st-charleston-so#boxscore
+2017	12424	332	Kentucky St.	09/10/2016	@ Morehouse		Morehouse		false		false	-								
+2017	12424	332	Kentucky St.	09/17/2016	Virginia St.		Virginia St.		false		true	-								
+2017	12424	332	Kentucky St.	09/24/2016	Central St. (OH)@Indianapolis, IN		Central St. (OH)Indianapolis, IN		false		false	-								
+2017	12424	332	Kentucky St.	10/01/2016	@ Valdosta St.		Valdosta St.		false		false	-								
+2017	12424	332	Kentucky St.	10/08/2016	@ Fort Valley St.		Fort Valley St.		false		false	-								
+2017	12424	332	Kentucky St.	10/15/2016	Miles		Miles		false		true	-								
+2017	12424	332	Kentucky St.	10/22/2016	@ Tuskegee		Tuskegee		false		false	-								
+2017	12424	332	Kentucky St.	10/29/2016	Lane		Lane		false		true	-								
+2017	12424	332	Kentucky St.	11/05/2016	Benedict		Benedict		false		true	-								
+2017	12424	339	Kutztown	09/03/2016	@ Assumption		Assumption		false		false	-								
+2017	12424	339	Kutztown	09/10/2016	Mercyhurst		Mercyhurst		false		true	-								
+2017	12424	339	Kutztown	09/17/2016	@ Seton Hill		Seton Hill		false		false	-								
+2017	12424	339	Kutztown	09/24/2016	@ Millersville		Millersville		false		false	-								
+2017	12424	339	Kutztown	10/01/2016	West Chester		West Chester		false		true	-								
+2017	12424	339	Kutztown	10/08/2016	Bloomsburg		Bloomsburg		false		true	-								
+2017	12424	339	Kutztown	10/15/2016	@ East Stroudsburg		East Stroudsburg		false		false	-								
+2017	12424	339	Kutztown	10/22/2016	Lock Haven		Lock Haven		false		true	-								
+2017	12424	339	Kutztown	10/29/2016	@ Shippensburg		Shippensburg		false		false	-								
+2017	12424	339	Kutztown	11/05/2016	Cheyney		Cheyney		false		true	-								
+2017	12424	339	Kutztown	11/12/2016	@ Slippery Rock		Slippery Rock		false		false	-								
+2017	12424	333	Ky. Wesleyan	09/01/2016	@ Delta St.	181	Delta St.	http://stats.ncaa.org/team/181/12424	false		false	L 29 - 50	false	29 - 50	29	50	false		ky-wesleyan-delta-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/ky-wesleyan-delta-st#boxscore
+2017	12424	333	Ky. Wesleyan	09/10/2016	Davidson		Davidson		false		true	-								
+2017	12424	333	Ky. Wesleyan	09/17/2016	@ Davenport		Davenport		false		false	-								
+2017	12424	333	Ky. Wesleyan	09/24/2016	UIndy		UIndy		false		true	-								
+2017	12424	333	Ky. Wesleyan	10/01/2016	Central St. (OH)		Central St. (OH)		false		true	-								
+2017	12424	333	Ky. Wesleyan	10/08/2016	@ Northwestern St.		Northwestern St.		false		false	-								
+2017	12424	333	Ky. Wesleyan	10/15/2016	@ UNC Pembroke		UNC Pembroke		false		false	-								
+2017	12424	333	Ky. Wesleyan	10/22/2016	Ashland		Ashland		false		true	-								
+2017	12424	333	Ky. Wesleyan	10/29/2016	@ Alfred St.		Alfred St.		false		false	-								
+2017	12424	333	Ky. Wesleyan	11/05/2016	Malone		Malone		false		true	-								
+2017	12424	333	Ky. Wesleyan	11/12/2016	@ Alderson Broaddus		Alderson Broaddus		false		false	-								
+2017	12424	362	LIU Post	09/03/2016	@ Virginia Union	744	Virginia Union	http://stats.ncaa.org/team/744/12424	false		false	W 14 - 12	true	14 - 12	14	12	false		liu-post-virginia-union#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/liu-post-virginia-union#boxscore
+2017	12424	362	LIU Post	09/10/2016	New Haven		New Haven		false		true	-								
+2017	12424	362	LIU Post	09/17/2016	@ Stonehill		Stonehill		false		false	-								
+2017	12424	362	LIU Post	09/24/2016	Bentley		Bentley		false		true	-								
+2017	12424	362	LIU Post	10/01/2016	@ Assumption		Assumption		false		false	-								
+2017	12424	362	LIU Post	10/08/2016	St. Anselm		St. Anselm		false		true	-								
+2017	12424	362	LIU Post	10/15/2016	@ Southern Conn. St.		Southern Conn. St.		false		false	-								
+2017	12424	362	LIU Post	10/22/2016	American Int'l		American Int'l		false		true	-								
+2017	12424	362	LIU Post	10/29/2016	Pace		Pace		false		true	-								
+2017	12424	362	LIU Post	11/05/2016	@ Merrimack		Merrimack		false		false	-								
+2017	12424	2746	Lake Erie	09/03/2016	Northern Mich.	506	Northern Mich.	http://stats.ncaa.org/team/506/12424	false		true	L 35 - 38 (1OT)	false	35 - 38	35	38	true	1OT	northern-mich-lake-erie#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/northern-mich-lake-erie#boxscore
+2017	12424	2746	Lake Erie	09/10/2016	@ Grand Valley St.		Grand Valley St.		false		false	-								
+2017	12424	2746	Lake Erie	09/17/2016	@ Wayne St. (MI)		Wayne St. (MI)		false		false	-								
+2017	12424	2746	Lake Erie	09/24/2016	Findlay		Findlay		false		true	-								
+2017	12424	2746	Lake Erie	10/01/2016	@ Northwood		Northwood		false		false	-								
+2017	12424	2746	Lake Erie	10/08/2016	Ohio Dominican		Ohio Dominican		false		true	-								
+2017	12424	2746	Lake Erie	10/15/2016	Ashland		Ashland		false		true	-								
+2017	12424	2746	Lake Erie	10/22/2016	@ Ferris St.		Ferris St.		false		false	-								
+2017	12424	2746	Lake Erie	10/29/2016	@ Saginaw Valley		Saginaw Valley		false		false	-								
+2017	12424	2746	Lake Erie	11/05/2016	Tiffin		Tiffin		false		true	-								
+2017	12424	2746	Lake Erie	11/12/2016	@ Hillsdale		Hillsdale		false		false	-								
+2017	12424	347	Lane	09/03/2016	Texas Col.		Texas Col.		false		true	W 44 - 6	true	44 - 6	44	6	false		texas-col-lane#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/texas-col-lane#boxscore
+2017	12424	347	Lane	09/10/2016	Fort Valley St.		Fort Valley St.		false		true	-								
+2017	12424	347	Lane	09/17/2016	@ Langston		Langston		false		false	-								
+2017	12424	347	Lane	09/24/2016	@ Tuskegee		Tuskegee		false		false	-								
+2017	12424	347	Lane	10/01/2016	@ Lincoln (MO)		Lincoln (MO)		false		false	-								
+2017	12424	347	Lane	10/08/2016	Benedict		Benedict		false		true	-								
+2017	12424	347	Lane	10/15/2016	@ Central St. (OH)		Central St. (OH)		false		false	-								
+2017	12424	347	Lane	10/22/2016	Miles		Miles		false		true	-								
+2017	12424	347	Lane	10/29/2016	@ Kentucky St.		Kentucky St.		false		false	-								
+2017	12424	347	Lane	11/05/2016	Morehouse		Morehouse		false		true	-								
+2017	12424	1170	Lenoir-Rhyne	09/03/2016	Virginia St.	743	Virginia St.	http://stats.ncaa.org/team/743/12424	false		true	L 9 - 34	false	9 - 34	9	34	false		virginia-st-lenoir-rhyne#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/virginia-st-lenoir-rhyne#boxscore
+2017	12424	1170	Lenoir-Rhyne	09/10/2016	North Greenville		North Greenville		false		true	-								
+2017	12424	1170	Lenoir-Rhyne	09/17/2016	Tusculum		Tusculum		false		true	-								
+2017	12424	1170	Lenoir-Rhyne	09/24/2016	Limestone		Limestone		false		true	-								
+2017	12424	1170	Lenoir-Rhyne	10/01/2016	@ Carson-Newman		Carson-Newman		false		false	-								
+2017	12424	1170	Lenoir-Rhyne	10/08/2016	UNC Pembroke		UNC Pembroke		false		true	-								
+2017	12424	1170	Lenoir-Rhyne	10/15/2016	@ Wingate		Wingate		false		false	-								
+2017	12424	1170	Lenoir-Rhyne	10/22/2016	Mars Hill		Mars Hill		false		true	-								
+2017	12424	1170	Lenoir-Rhyne	10/29/2016	@ Newberry		Newberry		false		false	-								
+2017	12424	1170	Lenoir-Rhyne	11/05/2016	@ Brevard		Brevard		false		false	-								
+2017	12424	1170	Lenoir-Rhyne	11/12/2016	Catawba		Catawba		false		true	-								
+2017	12424	1174	Limestone	09/03/2016	@ Shaw		Shaw		false		false	-								
+2017	12424	1174	Limestone	09/10/2016	@ Benedict		Benedict		false		false	-								
+2017	12424	1174	Limestone	09/17/2016	Mars Hill		Mars Hill		false		true	-								
+2017	12424	1174	Limestone	09/24/2016	@ Lenoir-Rhyne		Lenoir-Rhyne		false		false	-								
+2017	12424	1174	Limestone	10/01/2016	Wingate		Wingate		false		true	-								
+2017	12424	1174	Limestone	10/08/2016	@ Catawba		Catawba		false		false	-								
+2017	12424	1174	Limestone	10/15/2016	Brevard		Brevard		false		true	-								
+2017	12424	1174	Limestone	10/22/2016	@ Tusculum		Tusculum		false		false	-								
+2017	12424	1174	Limestone	10/29/2016	@ Carson-Newman		Carson-Newman		false		false	-								
+2017	12424	1174	Limestone	11/05/2016	Newberry		Newberry		false		true	-								
+2017	12424	1174	Limestone	11/12/2016	North Greenville		North Greenville		false		true	-								
+2017	12424	356	Lincoln (MO)	09/03/2016	Langston		Langston		false		true	L 13 - 23	false	13 - 23	13	23	false		langston-lincoln-mo#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/langston-lincoln-mo#boxscore
+2017	12424	356	Lincoln (MO)	09/10/2016	@ Lincoln (PA)		Lincoln (PA)		false		false	-								
+2017	12424	356	Lincoln (MO)	09/17/2016	Quincy		Quincy		false		true	-								
+2017	12424	356	Lincoln (MO)	09/24/2016	@ Truman		Truman		false		false	-								
+2017	12424	356	Lincoln (MO)	10/01/2016	Lane		Lane		false		true	-								
+2017	12424	356	Lincoln (MO)	10/08/2016	St. Joseph's (IN)		St. Joseph's (IN)		false		true	-								
+2017	12424	356	Lincoln (MO)	10/15/2016	@ Missouri S&T		Missouri S&T		false		false	-								
+2017	12424	356	Lincoln (MO)	10/22/2016	@ UIndy		UIndy		false		false	-								
+2017	12424	356	Lincoln (MO)	10/29/2016	McKendree		McKendree		false		true	-								
+2017	12424	356	Lincoln (MO)	11/05/2016	@ William Jewell		William Jewell		false		false	-								
+2017	12424	356	Lincoln (MO)	11/12/2016	Southwest Baptist		Southwest Baptist		false		true	-								
+2017	12424	357	Lincoln (PA)	09/01/2016	Cheyney	135	Cheyney	http://stats.ncaa.org/team/135/12424	false		true	-								
+2017	12424	357	Lincoln (PA)	09/10/2016	Lincoln (MO)		Lincoln (MO)		false		true	-								
+2017	12424	357	Lincoln (PA)	09/17/2016	@ Morehead St.		Morehead St.		false		false	-								
+2017	12424	357	Lincoln (PA)	09/24/2016	@ Saint Augustine's		Saint Augustine's		false		false	-								
+2017	12424	357	Lincoln (PA)	10/01/2016	Winston-Salem		Winston-Salem		false		true	-								
+2017	12424	357	Lincoln (PA)	10/08/2016	@ Virginia Union		Virginia Union		false		false	-								
+2017	12424	357	Lincoln (PA)	10/15/2016	Elizabeth City St.		Elizabeth City St.		false		true	-								
+2017	12424	357	Lincoln (PA)	10/22/2016	@ Virginia St.		Virginia St.		false		false	-								
+2017	12424	357	Lincoln (PA)	10/29/2016	Bowie St.		Bowie St.		false		true	-								
+2017	12424	357	Lincoln (PA)	11/05/2016	@ Chowan		Chowan		false		false	-								
+2017	12424	30136	Lindenwood (MO)	09/01/2016	Central Okla.	1009	Central Okla.	http://stats.ncaa.org/team/1009/12424	false		true	W 49 - 26	true	49 - 26	49	26	false		central-okla-lindenwood-mo#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/central-okla-lindenwood-mo#boxscore
+2017	12424	30136	Lindenwood (MO)	09/08/2016	@ Northeastern St.		Northeastern St.		false		false	-								
+2017	12424	30136	Lindenwood (MO)	09/17/2016	@ Washburn		Washburn		false		false	-								
+2017	12424	30136	Lindenwood (MO)	09/24/2016	Pittsburg St.		Pittsburg St.		false		true	-								
+2017	12424	30136	Lindenwood (MO)	10/01/2016	@ Fort Hays St.		Fort Hays St.		false		false	-								
+2017	12424	30136	Lindenwood (MO)	10/08/2016	Mo. Western St.		Mo. Western St.		false		true	-								
+2017	12424	30136	Lindenwood (MO)	10/15/2016	@ Emporia St.		Emporia St.		false		false	-								
+2017	12424	30136	Lindenwood (MO)	10/22/2016	Northwest Mo. St.		Northwest Mo. St.		false		true	-								
+2017	12424	30136	Lindenwood (MO)	10/29/2016	@ Neb.-Kearney		Neb.-Kearney		false		false	-								
+2017	12424	30136	Lindenwood (MO)	11/05/2016	Mo. Southern St.		Mo. Southern St.		false		true	-								
+2017	12424	30136	Lindenwood (MO)	11/12/2016	@ Central Mo.		Central Mo.		false		false	-								
+2017	12424	359	Livingstone	09/03/2016	@ Benedict		Benedict		false		false	-								
+2017	12424	359	Livingstone	09/10/2016	Edward Waters		Edward Waters		false		true	-								
+2017	12424	359	Livingstone	09/17/2016	@ Davidson		Davidson		false		false	-								
+2017	12424	359	Livingstone	09/24/2016	Chowan		Chowan		false		true	-								
+2017	12424	359	Livingstone	10/01/2016	@ Virginia St.		Virginia St.		false		false	-								
+2017	12424	359	Livingstone	10/08/2016	Saint Augustine's		Saint Augustine's		false		true	-								
+2017	12424	359	Livingstone	10/15/2016	Shaw		Shaw		false		true	-								
+2017	12424	359	Livingstone	10/22/2016	@ Winston-Salem		Winston-Salem		false		false	-								
+2017	12424	359	Livingstone	10/29/2016	@ Fayetteville St.		Fayetteville St.		false		false	-								
+2017	12424	359	Livingstone	11/05/2016	@ Johnson C. Smith		Johnson C. Smith		false		false	-								
+2017	12424	360	Lock Haven	09/01/2016	@ Clarion	143	Clarion	http://stats.ncaa.org/team/143/12424	false		false	L 24 - 41	false	24 - 41	24	41	false		lock-haven-clarion#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/lock-haven-clarion#boxscore
+2017	12424	360	Lock Haven	09/10/2016	Edinboro		Edinboro		false		true	-								
+2017	12424	360	Lock Haven	09/17/2016	Slippery Rock		Slippery Rock		false		true	-								
+2017	12424	360	Lock Haven	09/24/2016	@ West Chester		West Chester		false		false	-								
+2017	12424	360	Lock Haven	10/01/2016	Shippensburg		Shippensburg		false		true	-								
+2017	12424	360	Lock Haven	10/08/2016	@ Cheyney		Cheyney		false		false	-								
+2017	12424	360	Lock Haven	10/15/2016	Millersville		Millersville		false		true	-								
+2017	12424	360	Lock Haven	10/22/2016	@ Kutztown		Kutztown		false		false	-								
+2017	12424	360	Lock Haven	10/29/2016	Bloomsburg		Bloomsburg		false		true	-								
+2017	12424	360	Lock Haven	11/05/2016	@ East Stroudsburg		East Stroudsburg		false		false	-								
+2017	12424	360	Lock Haven	11/12/2016	@ Mercyhurst		Mercyhurst		false		false	-								
+2017	12424	1240	MSU Moorhead	09/01/2016	Wayne St. (NE)	1433	Wayne St. (NE)	http://stats.ncaa.org/team/1433/12424	false		true	W 41 - 24	true	41 - 24	41	24	false		wayne-st-ne-msu-moorhead#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/wayne-st-ne-msu-moorhead#boxscore
+2017	12424	1240	MSU Moorhead	09/10/2016	@ Sioux Falls		Sioux Falls		false		false	-								
+2017	12424	1240	MSU Moorhead	09/17/2016	Upper Iowa		Upper Iowa		false		true	-								
+2017	12424	1240	MSU Moorhead	09/24/2016	@ Minnesota St.		Minnesota St.		false		false	-								
+2017	12424	1240	MSU Moorhead	10/01/2016	@ Minn. Duluth		Minn. Duluth		false		false	-								
+2017	12424	1240	MSU Moorhead	10/08/2016	Minn.-Crookston		Minn.-Crookston		false		true	-								
+2017	12424	1240	MSU Moorhead	10/15/2016	St. Cloud St.		St. Cloud St.		false		true	-								
+2017	12424	1240	MSU Moorhead	10/22/2016	@ Mary		Mary		false		false	-								
+2017	12424	1240	MSU Moorhead	10/29/2016	Minot St.		Minot St.		false		true	-								
+2017	12424	1240	MSU Moorhead	11/05/2016	@ Bemidji St.		Bemidji St.		false		false	-								
+2017	12424	1240	MSU Moorhead	11/12/2016	Northern St.		Northern St.		false		true	-								
+2017	12424	30137	Malone	09/03/2016	Taylor (IN)		Taylor (IN)		false		true	W 39 - 33 (1OT)	true	39 - 33	39	33	true	1OT	taylor-in-malone#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/taylor-in-malone#boxscore
+2017	12424	30137	Malone	09/10/2016	@ Truman		Truman		false		false	-								
+2017	12424	30137	Malone	09/17/2016	Notre Dame (OH)		Notre Dame (OH)		false		true	-								
+2017	12424	30137	Malone	09/24/2016	@ Robert Morris		Robert Morris		false		false	-								
+2017	12424	30137	Malone	10/01/2016	@ Saint Francis (PA)		Saint Francis (PA)		false		false	-								
+2017	12424	30137	Malone	10/08/2016	Alderson Broaddus		Alderson Broaddus		false		true	-								
+2017	12424	30137	Malone	10/22/2016	@ Walsh		Walsh		false		false	-								
+2017	12424	30137	Malone	11/05/2016	@ Ky. Wesleyan		Ky. Wesleyan		false		false	-								
+2017	12424	30137	Malone	11/12/2016	@ West Ala.		West Ala.		false		false	-								
+2017	12424	1199	Mars Hill	09/01/2016	@ Samford	625	Samford	http://stats.ncaa.org/team/625/12424	false		false	L 7 - 77	false	7 - 77	7	77	false		mars-hill-samford#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/01/mars-hill-samford#boxscore
+2017	12424	1199	Mars Hill	09/10/2016	Shorter		Shorter		false		true	-								
+2017	12424	1199	Mars Hill	09/17/2016	@ Limestone		Limestone		false		false	-								
+2017	12424	1199	Mars Hill	09/24/2016	@ Carson-Newman		Carson-Newman		false		false	-								
+2017	12424	1199	Mars Hill	10/01/2016	@ North Greenville		North Greenville		false		false	-								
+2017	12424	1199	Mars Hill	10/08/2016	Newberry		Newberry		false		true	-								
+2017	12424	1199	Mars Hill	10/15/2016	Catawba		Catawba		false		true	-								
+2017	12424	1199	Mars Hill	10/22/2016	@ Lenoir-Rhyne		Lenoir-Rhyne		false		false	-								
+2017	12424	1199	Mars Hill	10/29/2016	Tusculum		Tusculum		false		true	-								
+2017	12424	1199	Mars Hill	11/05/2016	@ Wingate		Wingate		false		false	-								
+2017	12424	1199	Mars Hill	11/12/2016	Brevard		Brevard		false		true	-								
+2017	12424	30075	Mary	09/03/2016	@ Concordia-St. Paul	9081	Concordia-St. Paul	http://stats.ncaa.org/team/9081/12424	false		false	L 0 - 17	false	0 - 17	0	17	false		mary-concordia-st-paul#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/mary-concordia-st-paul#boxscore
+2017	12424	30075	Mary	09/10/2016	Augustana (SD)		Augustana (SD)		false		true	-								
+2017	12424	30075	Mary	09/17/2016	@ Southwest Minn. St.		Southwest Minn. St.		false		false	-								
+2017	12424	30075	Mary	09/24/2016	Winona St.		Winona St.		false		true	-								
+2017	12424	30075	Mary	10/01/2016	Bemidji St.		Bemidji St.		false		true	-								
+2017	12424	30075	Mary	10/08/2016	@ St. Cloud St.		St. Cloud St.		false		false	-								
+2017	12424	30075	Mary	10/15/2016	@ Minn.-Crookston		Minn.-Crookston		false		false	-								
+2017	12424	30075	Mary	10/22/2016	MSU Moorhead		MSU Moorhead		false		true	-								
+2017	12424	30075	Mary	10/29/2016	Northern St.		Northern St.		false		true	-								
+2017	12424	30075	Mary	11/05/2016	@ Minn. Duluth		Minn. Duluth		false		false	-								
+2017	12424	30075	Mary	11/12/2016	@ Minot St.		Minot St.		false		false	-								
+2017	12424	30138	McKendree	09/01/2016	Angelo St.	25	Angelo St.	http://stats.ncaa.org/team/25/12424	false		true	W 33 - 19	true	33 - 19	33	19	false		angelo-st-mckendree#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/angelo-st-mckendree#boxscore
+2017	12424	30138	McKendree	09/10/2016	West Liberty		West Liberty		false		true	-								
+2017	12424	30138	McKendree	09/17/2016	@ Drake		Drake		false		false	-								
+2017	12424	30138	McKendree	09/24/2016	William Jewell		William Jewell		false		true	-								
+2017	12424	30138	McKendree	10/01/2016	@ Southwest Baptist		Southwest Baptist		false		false	-								
+2017	12424	30138	McKendree	10/08/2016	@ UIndy		UIndy		false		false	-								
+2017	12424	30138	McKendree	10/15/2016	St. Joseph's (IN)		St. Joseph's (IN)		false		true	-								
+2017	12424	30138	McKendree	10/22/2016	Missouri S&T		Missouri S&T		false		true	-								
+2017	12424	30138	McKendree	10/29/2016	@ Lincoln (MO)		Lincoln (MO)		false		false	-								
+2017	12424	30138	McKendree	11/05/2016	@ Quincy		Quincy		false		false	-								
+2017	12424	30138	McKendree	11/12/2016	Truman		Truman		false		true	-								
+2017	12424	408	Mercyhurst	09/01/2016	@ Ashland	35	Ashland	http://stats.ncaa.org/team/35/12424	false		false	L 0 - 48	false	0 - 48	0	48	false		mercyhurst-ashland#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/mercyhurst-ashland#boxscore
+2017	12424	408	Mercyhurst	09/10/2016	@ Kutztown		Kutztown		false		false	-								
+2017	12424	408	Mercyhurst	09/17/2016	East Stroudsburg		East Stroudsburg		false		true	-								
+2017	12424	408	Mercyhurst	09/24/2016	Clarion		Clarion		false		true	-								
+2017	12424	408	Mercyhurst	10/01/2016	@ Gannon		Gannon		false		false	-								
+2017	12424	408	Mercyhurst	10/08/2016	@ Slippery Rock		Slippery Rock		false		false	-								
+2017	12424	408	Mercyhurst	10/15/2016	Edinboro		Edinboro		false		true	-								
+2017	12424	408	Mercyhurst	10/22/2016	@ Seton Hill		Seton Hill		false		false	-								
+2017	12424	408	Mercyhurst	10/29/2016	California (PA)		California (PA)		false		true	-								
+2017	12424	408	Mercyhurst	11/05/2016	@ Indiana (PA)		Indiana (PA)		false		false	-								
+2017	12424	408	Mercyhurst	11/12/2016	Lock Haven		Lock Haven		false		true	-								
+2017	12424	410	Merrimack	09/03/2016	@ Bryant	81	Bryant	http://stats.ncaa.org/team/81/12424	false		false	L 20 - 41	false	20 - 41	20	41	false		merrimack-bryant#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/merrimack-bryant#boxscore
+2017	12424	410	Merrimack	09/10/2016	American Int'l		American Int'l		false		true	-								
+2017	12424	410	Merrimack	09/16/2016	@ Bentley		Bentley		false		false	-								
+2017	12424	410	Merrimack	09/24/2016	Assumption		Assumption		false		true	-								
+2017	12424	410	Merrimack	10/01/2016	@ Stonehill		Stonehill		false		false	-								
+2017	12424	410	Merrimack	10/08/2016	New Haven		New Haven		false		true	-								
+2017	12424	410	Merrimack	10/15/2016	@ Pace		Pace		false		false	-								
+2017	12424	410	Merrimack	10/22/2016	Southern Conn. St.		Southern Conn. St.		false		true	-								
+2017	12424	410	Merrimack	10/29/2016	@ St. Anselm		St. Anselm		false		false	-								
+2017	12424	410	Merrimack	11/05/2016	LIU Post		LIU Post		false		true	-								
+2017	12424	417	Michigan Tech	09/03/2016	Walsh	30141	Walsh	http://stats.ncaa.org/team/30141/12424	false		true	W 33 - 7	true	33 - 7	33	7	false		walsh-michigan-tech#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/walsh-michigan-tech#boxscore
+2017	12424	417	Michigan Tech	09/10/2016	Ferris St.		Ferris St.		false		true	-								
+2017	12424	417	Michigan Tech	09/17/2016	@ Ohio Dominican		Ohio Dominican		false		false	-								
+2017	12424	417	Michigan Tech	09/24/2016	@ Hillsdale		Hillsdale		false		false	-								
+2017	12424	417	Michigan Tech	10/01/2016	Saginaw Valley		Saginaw Valley		false		true	-								
+2017	12424	417	Michigan Tech	10/15/2016	@ Tiffin		Tiffin		false		false	-								
+2017	12424	417	Michigan Tech	10/22/2016	@ Northwood		Northwood		false		false	-								
+2017	12424	417	Michigan Tech	10/29/2016	Ashland		Ashland		false		true	-								
+2017	12424	417	Michigan Tech	11/05/2016	@ Northern Mich.		Northern Mich.		false		false	-								
+2017	12424	417	Michigan Tech	11/12/2016	Findlay		Findlay		false		true	-								
+2017	12424	1222	Midwestern St.	09/03/2016	@ Truman		Truman		false		false	-								
+2017	12424	1222	Midwestern St.	09/17/2016	@ Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		false	-								
+2017	12424	1222	Midwestern St.	09/24/2016	Okla. Panhandle		Okla. Panhandle		false		true	-								
+2017	12424	1222	Midwestern St.	10/01/2016	@ Western N.M.		Western N.M.		false		false	-								
+2017	12424	1222	Midwestern St.	10/08/2016	@ Tex. A&M-Commerce		Tex. A&M-Commerce		false		false	-								
+2017	12424	1222	Midwestern St.	10/15/2016	Angelo St.		Angelo St.		false		true	-								
+2017	12424	1222	Midwestern St.	10/22/2016	@ West Tex. A&M		West Tex. A&M		false		false	-								
+2017	12424	1222	Midwestern St.	10/29/2016	Tex. Permian Basin		Tex. Permian Basin		false		true	-								
+2017	12424	1222	Midwestern St.	11/05/2016	@ Tarleton St.		Tarleton St.		false		false	-								
+2017	12424	1222	Midwestern St.	11/12/2016	Eastern N.M.		Eastern N.M.		false		true	-								
+2017	12424	422	Miles	09/04/2016	Fort Valley St.@Birmingham, AL		Fort Valley St.Birmingham, AL		false		false	-								
+2017	12424	422	Miles	09/10/2016	West Ga.		West Ga.		false		true	-								
+2017	12424	422	Miles	09/24/2016	@ Morehouse		Morehouse		false		false	-								
+2017	12424	422	Miles	10/01/2016	@ Albany St. (GA)		Albany St. (GA)		false		false	-								
+2017	12424	422	Miles	10/08/2016	Central St. (OH)		Central St. (OH)		false		true	-								
+2017	12424	422	Miles	10/15/2016	@ Kentucky St.		Kentucky St.		false		false	-								
+2017	12424	422	Miles	10/22/2016	@ Lane		Lane		false		false	-								
+2017	12424	422	Miles	10/29/2016	@ Clark Atlanta		Clark Atlanta		false		false	-								
+2017	12424	422	Miles	11/05/2016	Tuskegee		Tuskegee		false		true	-								
+2017	12424	422	Miles	11/24/2016	@ Alabama St.		Alabama St.		false		false	-								
+2017	12424	423	Millersville	09/01/2016	Pace	533	Pace	http://stats.ncaa.org/team/533/12424	false		true	W 28 - 7	true	28 - 7	28	7	false		pace-millersville#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/pace-millersville#boxscore
+2017	12424	423	Millersville	09/10/2016	Seton Hill		Seton Hill		false		true	-								
+2017	12424	423	Millersville	09/17/2016	@ California (PA)		California (PA)		false		false	-								
+2017	12424	423	Millersville	09/24/2016	Kutztown		Kutztown		false		true	-								
+2017	12424	423	Millersville	10/01/2016	@ Bloomsburg		Bloomsburg		false		false	-								
+2017	12424	423	Millersville	10/08/2016	East Stroudsburg		East Stroudsburg		false		true	-								
+2017	12424	423	Millersville	10/15/2016	@ Lock Haven		Lock Haven		false		false	-								
+2017	12424	423	Millersville	10/22/2016	Shippensburg		Shippensburg		false		true	-								
+2017	12424	423	Millersville	10/29/2016	@ Cheyney		Cheyney		false		false	-								
+2017	12424	423	Millersville	11/05/2016	@ West Chester		West Chester		false		false	-								
+2017	12424	423	Millersville	11/12/2016	@ Gannon		Gannon		false		false	-								
+2017	12424	427	Minn. Duluth	09/01/2016	@ Southwest Minn. St.	8736	Southwest Minn. St.	http://stats.ncaa.org/team/8736/12424	false		false	L 38 - 42	false	38 - 42	38	42	false		minn-duluth-southwest-minn-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/minn-duluth-southwest-minn-st#boxscore
+2017	12424	427	Minn. Duluth	09/10/2016	Winona St.		Winona St.		false		true	-								
+2017	12424	427	Minn. Duluth	09/17/2016	@ Concordia-St. Paul		Concordia-St. Paul		false		false	-								
+2017	12424	427	Minn. Duluth	09/24/2016	Augustana (SD)		Augustana (SD)		false		true	-								
+2017	12424	427	Minn. Duluth	10/01/2016	MSU Moorhead		MSU Moorhead		false		true	-								
+2017	12424	427	Minn. Duluth	10/08/2016	@ Minot St.		Minot St.		false		false	-								
+2017	12424	427	Minn. Duluth	10/15/2016	Northern St.		Northern St.		false		true	-								
+2017	12424	427	Minn. Duluth	10/22/2016	Bemidji St.		Bemidji St.		false		true	-								
+2017	12424	427	Minn. Duluth	10/29/2016	@ Minn.-Crookston		Minn.-Crookston		false		false	-								
+2017	12424	427	Minn. Duluth	11/05/2016	Mary		Mary		false		true	-								
+2017	12424	427	Minn. Duluth	11/12/2016	@ St. Cloud St.		St. Cloud St.		false		false	-								
+2017	12424	27854	Minn.-Crookston	09/01/2016	@ Winona St.	790	Winona St.	http://stats.ncaa.org/team/790/12424	false		false	L 0 - 68	false	0 - 68	0	68	false		minn-crookston-winona-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/minn-crookston-winona-st#boxscore
+2017	12424	27854	Minn.-Crookston	09/10/2016	Concordia-St. Paul		Concordia-St. Paul		false		true	-								
+2017	12424	27854	Minn.-Crookston	09/17/2016	@ Augustana (SD)		Augustana (SD)		false		false	-								
+2017	12424	27854	Minn.-Crookston	09/24/2016	Southwest Minn. St.		Southwest Minn. St.		false		true	-								
+2017	12424	27854	Minn.-Crookston	10/01/2016	St. Cloud St.		St. Cloud St.		false		true	-								
+2017	12424	27854	Minn.-Crookston	10/08/2016	@ MSU Moorhead		MSU Moorhead		false		false	-								
+2017	12424	27854	Minn.-Crookston	10/15/2016	Mary		Mary		false		true	-								
+2017	12424	27854	Minn.-Crookston	10/22/2016	@ Minot St.		Minot St.		false		false	-								
+2017	12424	27854	Minn.-Crookston	10/29/2016	Minn. Duluth		Minn. Duluth		false		true	-								
+2017	12424	27854	Minn.-Crookston	11/05/2016	@ Northern St.		Northern St.		false		false	-								
+2017	12424	27854	Minn.-Crookston	11/12/2016	@ Bemidji St.		Bemidji St.		false		false	-								
+2017	12424	383	Minnesota St.	09/01/2016	Minot St.	30125	Minot St.	http://stats.ncaa.org/team/30125/12424	false		true	-								
+2017	12424	383	Minnesota St.	09/10/2016	Bemidji St.		Bemidji St.		false		true	-								
+2017	12424	383	Minnesota St.	09/17/2016	@ St. Cloud St.		St. Cloud St.		false		false	-								
+2017	12424	383	Minnesota St.	09/24/2016	MSU Moorhead		MSU Moorhead		false		true	-								
+2017	12424	383	Minnesota St.	10/01/2016	@ Winona St.		Winona St.		false		false	-								
+2017	12424	383	Minnesota St.	10/08/2016	Concordia-St. Paul		Concordia-St. Paul		false		true	-								
+2017	12424	383	Minnesota St.	10/15/2016	@ Augustana (SD)		Augustana (SD)		false		false	-								
+2017	12424	383	Minnesota St.	10/20/2016	Southwest Minn. St.		Southwest Minn. St.		false		true	-								
+2017	12424	383	Minnesota St.	10/29/2016	Sioux Falls		Sioux Falls		false		true	-								
+2017	12424	383	Minnesota St.	11/05/2016	@ Wayne St. (NE)		Wayne St. (NE)		false		false	-								
+2017	12424	383	Minnesota St.	11/12/2016	Upper Iowa		Upper Iowa		false		true	-								
+2017	12424	30125	Minot St.	09/01/2016	Minnesota St.	383	Minnesota St.	http://stats.ncaa.org/team/383/12424	false		true	-								
+2017	12424	30125	Minot St.	09/10/2016	@ Wayne St. (NE)		Wayne St. (NE)		false		false	-								
+2017	12424	30125	Minot St.	09/17/2016	Sioux Falls		Sioux Falls		false		true	-								
+2017	12424	30125	Minot St.	09/24/2016	@ Upper Iowa		Upper Iowa		false		false	-								
+2017	12424	30125	Minot St.	10/01/2016	@ Northern St.		Northern St.		false		false	-								
+2017	12424	30125	Minot St.	10/08/2016	Minn. Duluth		Minn. Duluth		false		true	-								
+2017	12424	30125	Minot St.	10/15/2016	@ Bemidji St.		Bemidji St.		false		false	-								
+2017	12424	30125	Minot St.	10/22/2016	Minn.-Crookston		Minn.-Crookston		false		true	-								
+2017	12424	30125	Minot St.	10/29/2016	@ MSU Moorhead		MSU Moorhead		false		false	-								
+2017	12424	30125	Minot St.	11/05/2016	St. Cloud St.		St. Cloud St.		false		true	-								
+2017	12424	30125	Minot St.	11/12/2016	Mary		Mary		false		true	-								
+2017	12424	429	Mississippi Col.	09/03/2016	Point U.		Point U.		false		true	W 28 - 16	true	28 - 16	28	16	false		point-u-mississippi-col#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/point-u-mississippi-col#boxscore
+2017	12424	429	Mississippi Col.	09/10/2016	@ Florida Tech		Florida Tech		false		false	-								
+2017	12424	429	Mississippi Col.	09/17/2016	West Ala.		West Ala.		false		true	-								
+2017	12424	429	Mississippi Col.	09/24/2016	Cumberland (TN)		Cumberland (TN)		false		true	-								
+2017	12424	429	Mississippi Col.	09/29/2016	@ Delta St.		Delta St.		false		false	-								
+2017	12424	429	Mississippi Col.	10/08/2016	West Florida		West Florida		false		true	-								
+2017	12424	429	Mississippi Col.	10/15/2016	Valdosta St.		Valdosta St.		false		true	-								
+2017	12424	429	Mississippi Col.	10/22/2016	@ West Ga.		West Ga.		false		false	-								
+2017	12424	429	Mississippi Col.	11/05/2016	@ Shorter		Shorter		false		false	-								
+2017	12424	429	Mississippi Col.	11/12/2016	North Ala.		North Ala.		false		true	-								
+2017	12424	435	Missouri S&T	09/03/2016	@ Bacone		Bacone		false		false	-								
+2017	12424	435	Missouri S&T	09/10/2016	@ West Florida		West Florida		false		false	-								
+2017	12424	435	Missouri S&T	09/17/2016	Truman		Truman		false		true	-								
+2017	12424	435	Missouri S&T	09/24/2016	@ St. Joseph's (IN)		St. Joseph's (IN)		false		false	-								
+2017	12424	435	Missouri S&T	10/01/2016	William Jewell		William Jewell		false		true	-								
+2017	12424	435	Missouri S&T	10/08/2016	@ Kennesaw St.		Kennesaw St.		false		false	-								
+2017	12424	435	Missouri S&T	10/15/2016	Lincoln (MO)		Lincoln (MO)		false		true	-								
+2017	12424	435	Missouri S&T	10/22/2016	@ McKendree		McKendree		false		false	-								
+2017	12424	435	Missouri S&T	10/29/2016	@ Southwest Baptist		Southwest Baptist		false		false	-								
+2017	12424	435	Missouri S&T	11/05/2016	UIndy		UIndy		false		true	-								
+2017	12424	435	Missouri S&T	11/12/2016	@ Quincy		Quincy		false		false	-								
+2017	12424	9012	Mo. Southern St.	09/01/2016	@ Fort Hays St.	9011	Fort Hays St.	http://stats.ncaa.org/team/9011/12424	false		false	L 10 - 22	false	10 - 22	10	22	false		mo-southern-st-fort-hays-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/mo-southern-st-fort-hays-st#boxscore
+2017	12424	9012	Mo. Southern St.	09/10/2016	Mo. Western St.		Mo. Western St.		false		true	-								
+2017	12424	9012	Mo. Southern St.	09/17/2016	@ Emporia St.		Emporia St.		false		false	-								
+2017	12424	9012	Mo. Southern St.	09/24/2016	Northwest Mo. St.		Northwest Mo. St.		false		true	-								
+2017	12424	9012	Mo. Southern St.	10/01/2016	@ Neb.-Kearney		Neb.-Kearney		false		false	-								
+2017	12424	9012	Mo. Southern St.	10/08/2016	Washburn		Washburn		false		true	-								
+2017	12424	9012	Mo. Southern St.	10/15/2016	Central Mo.		Central Mo.		false		true	-								
+2017	12424	9012	Mo. Southern St.	10/22/2016	@ Central Okla.		Central Okla.		false		false	-								
+2017	12424	9012	Mo. Southern St.	10/29/2016	Northeastern St.		Northeastern St.		false		true	-								
+2017	12424	9012	Mo. Southern St.	11/05/2016	@ Lindenwood (MO)		Lindenwood (MO)		false		false	-								
+2017	12424	9012	Mo. Southern St.	11/12/2016	Pittsburg St.		Pittsburg St.		false		true	-								
+2017	12424	9013	Mo. Western St.	09/01/2016	Neb.-Kearney	1156	Neb.-Kearney	http://stats.ncaa.org/team/1156/12424	false		true	W 44 - 21	true	44 - 21	44	21	false		neb-kearney-mo-western-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/neb-kearney-mo-western-st#boxscore
+2017	12424	9013	Mo. Western St.	09/10/2016	@ Mo. Southern St.		Mo. Southern St.		false		false	-								
+2017	12424	9013	Mo. Western St.	09/17/2016	Central Mo.		Central Mo.		false		true	-								
+2017	12424	9013	Mo. Western St.	09/24/2016	@ Central Okla.		Central Okla.		false		false	-								
+2017	12424	9013	Mo. Western St.	10/01/2016	Northeastern St.		Northeastern St.		false		true	-								
+2017	12424	9013	Mo. Western St.	10/08/2016	@ Lindenwood (MO)		Lindenwood (MO)		false		false	-								
+2017	12424	9013	Mo. Western St.	10/15/2016	Pittsburg St.		Pittsburg St.		false		true	-								
+2017	12424	9013	Mo. Western St.	10/22/2016	@ Fort Hays St.		Fort Hays St.		false		false	-								
+2017	12424	9013	Mo. Western St.	10/29/2016	@ Washburn		Washburn		false		false	-								
+2017	12424	9013	Mo. Western St.	11/05/2016	Emporia St.		Emporia St.		false		true	-								
+2017	12424	9013	Mo. Western St.	11/12/2016	@ Northwest Mo. St.		Northwest Mo. St.		false		false	-								
+2017	12424	445	Morehouse	09/03/2016	@ Edward Waters		Edward Waters		false		false	-								
+2017	12424	445	Morehouse	09/10/2016	Kentucky St.		Kentucky St.		false		true	-								
+2017	12424	445	Morehouse	09/17/2016	Elizabeth City St.@Rocky Mount, NC		Elizabeth City St.Rocky Mount, NC		false		false	-								
+2017	12424	445	Morehouse	09/24/2016	Miles		Miles		false		true	-								
+2017	12424	445	Morehouse	10/01/2016	@ Clark Atlanta		Clark Atlanta		false		false	-								
+2017	12424	445	Morehouse	10/08/2016	Tuskegee@Columbus, GA		TuskegeeColumbus, GA		false		false	-								
+2017	12424	445	Morehouse	10/15/2016	Albany St. (GA)		Albany St. (GA)		false		true	-								
+2017	12424	445	Morehouse	10/22/2016	@ Benedict		Benedict		false		false	-								
+2017	12424	445	Morehouse	10/29/2016	Fort Valley St.		Fort Valley St.		false		true	-								
+2017	12424	445	Morehouse	11/05/2016	@ Lane		Lane		false		false	-								
+2017	12424	8577	N.M. Highlands	09/01/2016	@ Dixie St.	30095	Dixie St.	http://stats.ncaa.org/team/30095/12424	false		false	L 14 - 21	false	14 - 21	14	21	false		nm-highlands-dixie-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/nm-highlands-dixie-st#boxscore
+2017	12424	8577	N.M. Highlands	09/10/2016	Colorado Mines		Colorado Mines		false		true	-								
+2017	12424	8577	N.M. Highlands	09/17/2016	@ Northern Ariz.		Northern Ariz.		false		false	-								
+2017	12424	8577	N.M. Highlands	09/24/2016	@ Colorado St.-Pueblo		Colorado St.-Pueblo		false		false	-								
+2017	12424	8577	N.M. Highlands	10/01/2016	@ Black Hills St.		Black Hills St.		false		false	-								
+2017	12424	8577	N.M. Highlands	10/08/2016	South Dakota Mines		South Dakota Mines		false		true	-								
+2017	12424	8577	N.M. Highlands	10/15/2016	@ Chadron St.		Chadron St.		false		false	-								
+2017	12424	8577	N.M. Highlands	10/22/2016	Western St.		Western St.		false		true	-								
+2017	12424	8577	N.M. Highlands	10/29/2016	Colorado Mesa		Colorado Mesa		false		true	-								
+2017	12424	8577	N.M. Highlands	11/05/2016	@ Fort Lewis		Fort Lewis		false		false	-								
+2017	12424	8577	N.M. Highlands	11/12/2016	Adams St.		Adams St.		false		true	-								
+2017	12424	1156	Neb.-Kearney	09/01/2016	@ Mo. Western St.	9013	Mo. Western St.	http://stats.ncaa.org/team/9013/12424	false		false	L 21 - 44	false	21 - 44	21	44	false		neb-kearney-mo-western-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/neb-kearney-mo-western-st#boxscore
+2017	12424	1156	Neb.-Kearney	09/08/2016	Emporia St.		Emporia St.		false		true	-								
+2017	12424	1156	Neb.-Kearney	09/17/2016	@ Northwest Mo. St.		Northwest Mo. St.		false		false	-								
+2017	12424	1156	Neb.-Kearney	09/24/2016	Washburn		Washburn		false		true	-								
+2017	12424	1156	Neb.-Kearney	10/01/2016	Mo. Southern St.		Mo. Southern St.		false		true	-								
+2017	12424	1156	Neb.-Kearney	10/08/2016	@ Central Mo.		Central Mo.		false		false	-								
+2017	12424	1156	Neb.-Kearney	10/15/2016	Central Okla.		Central Okla.		false		true	-								
+2017	12424	1156	Neb.-Kearney	10/22/2016	@ Northeastern St.		Northeastern St.		false		false	-								
+2017	12424	1156	Neb.-Kearney	10/29/2016	Lindenwood (MO)		Lindenwood (MO)		false		true	-								
+2017	12424	1156	Neb.-Kearney	11/05/2016	@ Pittsburg St.		Pittsburg St.		false		false	-								
+2017	12424	1156	Neb.-Kearney	11/12/2016	Fort Hays St.		Fort Hays St.		false		true	-								
+2017	12424	470	New Haven	09/03/2016	@ Slippery Rock	643	Slippery Rock	http://stats.ncaa.org/team/643/12424	false		false	L 28 - 31	false	28 - 31	28	31	false		new-haven-slippery-rock#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/new-haven-slippery-rock#boxscore
+2017	12424	470	New Haven	09/10/2016	@ LIU Post		LIU Post		false		false	-								
+2017	12424	470	New Haven	09/17/2016	St. Anselm		St. Anselm		false		true	-								
+2017	12424	470	New Haven	09/24/2016	@ Pace		Pace		false		false	-								
+2017	12424	470	New Haven	10/01/2016	Southern Conn. St.		Southern Conn. St.		false		true	-								
+2017	12424	470	New Haven	10/08/2016	@ Merrimack		Merrimack		false		false	-								
+2017	12424	470	New Haven	10/15/2016	@ Stonehill		Stonehill		false		false	-								
+2017	12424	470	New Haven	10/22/2016	Assumption		Assumption		false		true	-								
+2017	12424	470	New Haven	10/29/2016	@ American Int'l		American Int'l		false		false	-								
+2017	12424	470	New Haven	11/05/2016	Bentley		Bentley		false		true	-								
+2017	12424	1257	Newberry	09/03/2016	@ Florida Tech		Florida Tech		false		false	-								
+2017	12424	1257	Newberry	09/10/2016	Virginia Union		Virginia Union		false		true	-								
+2017	12424	1257	Newberry	09/17/2016	@ North Greenville		North Greenville		false		false	-								
+2017	12424	1257	Newberry	09/24/2016	@ Tusculum		Tusculum		false		false	-								
+2017	12424	1257	Newberry	10/01/2016	Catawba		Catawba		false		true	-								
+2017	12424	1257	Newberry	10/08/2016	@ Mars Hill		Mars Hill		false		false	-								
+2017	12424	1257	Newberry	10/15/2016	Carson-Newman		Carson-Newman		false		true	-								
+2017	12424	1257	Newberry	10/22/2016	@ Brevard		Brevard		false		false	-								
+2017	12424	1257	Newberry	10/29/2016	Lenoir-Rhyne		Lenoir-Rhyne		false		true	-								
+2017	12424	1257	Newberry	11/05/2016	@ Limestone		Limestone		false		false	-								
+2017	12424	1257	Newberry	11/12/2016	Wingate		Wingate		false		true	-								
+2017	12424	487	North Ala.	09/01/2016	@ Jacksonville St.	315	Jacksonville St.	http://stats.ncaa.org/team/315/12424	false		false	L 12 - 31	false	12 - 31	12	31	false		north-ala-jacksonville-st#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/01/north-ala-jacksonville-st#boxscore
+2017	12424	487	North Ala.	09/17/2016	Valdosta St.		Valdosta St.		false		true	-								
+2017	12424	487	North Ala.	09/24/2016	@ West Ala.		West Ala.		false		false	-								
+2017	12424	487	North Ala.	10/01/2016	West Ga.		West Ga.		false		true	-								
+2017	12424	487	North Ala.	10/08/2016	@ Florida Tech		Florida Tech		false		false	-								
+2017	12424	487	North Ala.	10/15/2016	Shorter		Shorter		false		true	-								
+2017	12424	487	North Ala.	10/22/2016	North Greenville		North Greenville		false		true	-								
+2017	12424	487	North Ala.	10/29/2016	@ Delta St.		Delta St.		false		false	-								
+2017	12424	487	North Ala.	11/05/2016	West Florida		West Florida		false		true	-								
+2017	12424	487	North Ala.	11/12/2016	@ Mississippi Col.		Mississippi Col.		false		false	-								
+2017	12424	9223	North Greenville	09/01/2016	West Ala.	358	West Ala.	http://stats.ncaa.org/team/358/12424	false		true	W 24 - 23	true	24 - 23	24	23	false		west-ala-north-greenville#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/west-ala-north-greenville#boxscore
+2017	12424	9223	North Greenville	09/10/2016	@ Lenoir-Rhyne		Lenoir-Rhyne		false		false	-								
+2017	12424	9223	North Greenville	09/17/2016	Newberry		Newberry		false		true	-								
+2017	12424	9223	North Greenville	09/24/2016	@ UNC Pembroke		UNC Pembroke		false		false	-								
+2017	12424	9223	North Greenville	10/01/2016	Mars Hill		Mars Hill		false		true	-								
+2017	12424	9223	North Greenville	10/08/2016	@ The Citadel		The Citadel		false		false	-								
+2017	12424	9223	North Greenville	10/15/2016	@ Tusculum		Tusculum		false		false	-								
+2017	12424	9223	North Greenville	10/22/2016	@ North Ala.		North Ala.		false		false	-								
+2017	12424	9223	North Greenville	10/29/2016	Wingate		Wingate		false		true	-								
+2017	12424	9223	North Greenville	11/05/2016	Carson-Newman		Carson-Newman		false		true	-								
+2017	12424	9223	North Greenville	11/12/2016	@ Limestone		Limestone		false		false	-								
+2017	12424	12810	Northeastern St.	09/01/2016	@ Washburn	2814	Washburn	http://stats.ncaa.org/team/2814/12424	false		false	L 19 - 38	false	19 - 38	19	38	false		northeastern-st-washburn#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/northeastern-st-washburn#boxscore
+2017	12424	12810	Northeastern St.	09/08/2016	Lindenwood (MO)		Lindenwood (MO)		false		true	-								
+2017	12424	12810	Northeastern St.	09/17/2016	@ Pittsburg St.		Pittsburg St.		false		false	-								
+2017	12424	12810	Northeastern St.	09/24/2016	Fort Hays St.		Fort Hays St.		false		true	-								
+2017	12424	12810	Northeastern St.	10/01/2016	@ Mo. Western St.		Mo. Western St.		false		false	-								
+2017	12424	12810	Northeastern St.	10/08/2016	Emporia St.		Emporia St.		false		true	-								
+2017	12424	12810	Northeastern St.	10/15/2016	@ Northwest Mo. St.		Northwest Mo. St.		false		false	-								
+2017	12424	12810	Northeastern St.	10/22/2016	Neb.-Kearney		Neb.-Kearney		false		true	-								
+2017	12424	12810	Northeastern St.	10/29/2016	@ Mo. Southern St.		Mo. Southern St.		false		false	-								
+2017	12424	12810	Northeastern St.	11/05/2016	Central Mo.		Central Mo.		false		true	-								
+2017	12424	12810	Northeastern St.	11/12/2016	@ Central Okla.		Central Okla.		false		false	-								
+2017	12424	506	Northern Mich.	09/03/2016	@ Lake Erie	2746	Lake Erie	http://stats.ncaa.org/team/2746/12424	false		false	W 38 - 35 (1OT)	true	38 - 35	38	35	true	1OT	northern-mich-lake-erie#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/northern-mich-lake-erie#boxscore
+2017	12424	506	Northern Mich.	09/10/2016	Angelo St.		Angelo St.		false		true	-								
+2017	12424	506	Northern Mich.	09/17/2016	@ Grand Valley St.		Grand Valley St.		false		false	-								
+2017	12424	506	Northern Mich.	09/24/2016	Northwood		Northwood		false		true	-								
+2017	12424	506	Northern Mich.	10/01/2016	Walsh		Walsh		false		true	-								
+2017	12424	506	Northern Mich.	10/08/2016	@ Saginaw Valley		Saginaw Valley		false		false	-								
+2017	12424	506	Northern Mich.	10/15/2016	@ Ferris St.		Ferris St.		false		false	-								
+2017	12424	506	Northern Mich.	10/22/2016	Ohio Dominican		Ohio Dominican		false		true	-								
+2017	12424	506	Northern Mich.	10/29/2016	Hillsdale		Hillsdale		false		true	-								
+2017	12424	506	Northern Mich.	11/05/2016	Michigan Tech		Michigan Tech		false		true	-								
+2017	12424	506	Northern Mich.	11/12/2016	@ Tiffin		Tiffin		false		false	-								
+2017	12424	1266	Northern St.	09/03/2016	@ Augustana (SD)	41	Augustana (SD)	http://stats.ncaa.org/team/41/12424	false		false	L 34 - 37 (1OT)	false	34 - 37	34	37	true	1OT	northern-st-augustana-sd#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/northern-st-augustana-sd#boxscore
+2017	12424	1266	Northern St.	09/10/2016	Southwest Minn. St.		Southwest Minn. St.		false		true	-								
+2017	12424	1266	Northern St.	09/17/2016	@ Winona St.		Winona St.		false		false	-								
+2017	12424	1266	Northern St.	09/24/2016	Concordia-St. Paul		Concordia-St. Paul		false		true	-								
+2017	12424	1266	Northern St.	10/01/2016	Minot St.		Minot St.		false		true	-								
+2017	12424	1266	Northern St.	10/08/2016	@ Bemidji St.		Bemidji St.		false		false	-								
+2017	12424	1266	Northern St.	10/15/2016	@ Minn. Duluth		Minn. Duluth		false		false	-								
+2017	12424	1266	Northern St.	10/22/2016	St. Cloud St.		St. Cloud St.		false		true	-								
+2017	12424	1266	Northern St.	10/29/2016	@ Mary		Mary		false		false	-								
+2017	12424	1266	Northern St.	11/05/2016	Minn.-Crookston		Minn.-Crookston		false		true	-								
+2017	12424	1266	Northern St.	11/12/2016	@ MSU Moorhead		MSU Moorhead		false		false	-								
+2017	12424	507	Northwest Mo. St.	09/01/2016	@ Emporia St.	1071	Emporia St.	http://stats.ncaa.org/team/1071/12424	false		false	W 41 - 14	true	41 - 14	41	14	false		northwest-mo-st-emporia-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/northwest-mo-st-emporia-st#boxscore
+2017	12424	507	Northwest Mo. St.	09/08/2016	Washburn		Washburn		false		true	-								
+2017	12424	507	Northwest Mo. St.	09/17/2016	Neb.-Kearney		Neb.-Kearney		false		true	-								
+2017	12424	507	Northwest Mo. St.	09/24/2016	@ Mo. Southern St.		Mo. Southern St.		false		false	-								
+2017	12424	507	Northwest Mo. St.	10/01/2016	Central Mo.@Kansas City, MO		Central Mo.Kansas City, MO		false		false	-								
+2017	12424	507	Northwest Mo. St.	10/08/2016	@ Central Okla.		Central Okla.		false		false	-								
+2017	12424	507	Northwest Mo. St.	10/15/2016	Northeastern St.		Northeastern St.		false		true	-								
+2017	12424	507	Northwest Mo. St.	10/22/2016	@ Lindenwood (MO)		Lindenwood (MO)		false		false	-								
+2017	12424	507	Northwest Mo. St.	10/29/2016	Pittsburg St.		Pittsburg St.		false		true	-								
+2017	12424	507	Northwest Mo. St.	11/05/2016	@ Fort Hays St.		Fort Hays St.		false		false	-								
+2017	12424	507	Northwest Mo. St.	11/12/2016	Mo. Western St.		Mo. Western St.		false		true	-								
+2017	12424	30178	Northwestern Okla.	09/01/2016	Ark.-Monticello	8411	Ark.-Monticello	http://stats.ncaa.org/team/8411/12424	false		true	W 59 - 56	true	59 - 56	59	56	false		ark-monticello-northwestern-okla#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/ark-monticello-northwestern-okla#boxscore
+2017	12424	30178	Northwestern Okla.	09/10/2016	@ Southern Ark.		Southern Ark.		false		false	-								
+2017	12424	30178	Northwestern Okla.	09/17/2016	@ Henderson St.		Henderson St.		false		false	-								
+2017	12424	30178	Northwestern Okla.	09/24/2016	Ouachita Baptist		Ouachita Baptist		false		true	-								
+2017	12424	30178	Northwestern Okla.	10/01/2016	East Central		East Central		false		true	-								
+2017	12424	30178	Northwestern Okla.	10/08/2016	@ Southeastern Okla.		Southeastern Okla.		false		false	-								
+2017	12424	30178	Northwestern Okla.	10/15/2016	@ Okla. Baptist		Okla. Baptist		false		false	-								
+2017	12424	30178	Northwestern Okla.	10/22/2016	Southern Nazarene		Southern Nazarene		false		true	-								
+2017	12424	30178	Northwestern Okla.	10/29/2016	@ Arkansas Tech		Arkansas Tech		false		false	-								
+2017	12424	30178	Northwestern Okla.	11/05/2016	Harding		Harding		false		true	-								
+2017	12424	30178	Northwestern Okla.	11/12/2016	@ Southwestern Okla.		Southwestern Okla.		false		false	-								
+2017	12424	510	Northwood	09/03/2016	Wayne St. (MI)	757	Wayne St. (MI)	http://stats.ncaa.org/team/757/12424	false		true	L 3 - 28	false	3 - 28	3	28	false		wayne-st-mi-northwood#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/wayne-st-mi-northwood#boxscore
+2017	12424	510	Northwood	09/10/2016	@ Saginaw Valley		Saginaw Valley		false		false	-								
+2017	12424	510	Northwood	09/17/2016	Ferris St.		Ferris St.		false		true	-								
+2017	12424	510	Northwood	09/24/2016	@ Northern Mich.		Northern Mich.		false		false	-								
+2017	12424	510	Northwood	10/01/2016	Lake Erie		Lake Erie		false		true	-								
+2017	12424	510	Northwood	10/08/2016	@ Ashland		Ashland		false		false	-								
+2017	12424	510	Northwood	10/15/2016	@ Ohio Dominican		Ohio Dominican		false		false	-								
+2017	12424	510	Northwood	10/22/2016	Michigan Tech		Michigan Tech		false		true	-								
+2017	12424	510	Northwood	10/29/2016	Tiffin		Tiffin		false		true	-								
+2017	12424	510	Northwood	11/05/2016	@ Findlay		Findlay		false		false	-								
+2017	12424	510	Northwood	11/12/2016	@ Walsh		Walsh		false		false	-								
+2017	12424	30126	Notre Dame (OH)	09/03/2016	Charleston (WV)	1013	Charleston (WV)	http://stats.ncaa.org/team/1013/12424	false		true	W 44 - 17	true	44 - 17	44	17	false		charleston-wv-notre-dame-oh#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/charleston-wv-notre-dame-oh#boxscore
+2017	12424	30126	Notre Dame (OH)	09/10/2016	@ UVa-Wise		UVa-Wise		false		false	-								
+2017	12424	30126	Notre Dame (OH)	09/17/2016	@ Malone		Malone		false		false	-								
+2017	12424	30126	Notre Dame (OH)	09/24/2016	Shepherd		Shepherd		false		true	-								
+2017	12424	30126	Notre Dame (OH)	10/01/2016	@ Glenville St.		Glenville St.		false		false	-								
+2017	12424	30126	Notre Dame (OH)	10/08/2016	West Virginia St.		West Virginia St.		false		true	-								
+2017	12424	30126	Notre Dame (OH)	10/15/2016	@ Concord		Concord		false		false	-								
+2017	12424	30126	Notre Dame (OH)	10/22/2016	West Liberty		West Liberty		false		true	-								
+2017	12424	30126	Notre Dame (OH)	10/27/2016	@ Fairmont St.		Fairmont St.		false		false	-								
+2017	12424	30126	Notre Dame (OH)	11/05/2016	Urbana		Urbana		false		true	-								
+2017	12424	30126	Notre Dame (OH)	11/12/2016	@ West Va. Wesleyan		West Va. Wesleyan		false		false	-								
+2017	12424	30119	Ohio Dominican	09/01/2016	@ Ferris St.	224	Ferris St.	http://stats.ncaa.org/team/224/12424	false		false	L 0 - 41	false	0 - 41	0	41	false		ohio-dominican-ferris-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/ohio-dominican-ferris-st#boxscore
+2017	12424	30119	Ohio Dominican	09/10/2016	@ Findlay		Findlay		false		false	-								
+2017	12424	30119	Ohio Dominican	09/17/2016	Michigan Tech		Michigan Tech		false		true	-								
+2017	12424	30119	Ohio Dominican	09/24/2016	@ Saginaw Valley		Saginaw Valley		false		false	-								
+2017	12424	30119	Ohio Dominican	10/01/2016	Grand Valley St.		Grand Valley St.		false		true	-								
+2017	12424	30119	Ohio Dominican	10/08/2016	@ Lake Erie		Lake Erie		false		false	-								
+2017	12424	30119	Ohio Dominican	10/15/2016	Northwood		Northwood		false		true	-								
+2017	12424	30119	Ohio Dominican	10/22/2016	@ Northern Mich.		Northern Mich.		false		false	-								
+2017	12424	30119	Ohio Dominican	10/29/2016	@ Walsh		Walsh		false		false	-								
+2017	12424	30119	Ohio Dominican	11/05/2016	Wayne St. (MI)		Wayne St. (MI)		false		true	-								
+2017	12424	30119	Ohio Dominican	11/12/2016	Ashland		Ashland		false		true	-								
+2017	12424	30202	Okla. Baptist	09/03/2016	@ Harding		Harding		false		false	-								
+2017	12424	30202	Okla. Baptist	09/10/2016	Arkansas Tech		Arkansas Tech		false		true	-								
+2017	12424	30202	Okla. Baptist	09/17/2016	Southeastern Okla.		Southeastern Okla.		false		true	-								
+2017	12424	30202	Okla. Baptist	09/24/2016	@ East Central		East Central		false		false	-								
+2017	12424	30202	Okla. Baptist	10/01/2016	@ Ark.-Monticello		Ark.-Monticello		false		false	-								
+2017	12424	30202	Okla. Baptist	10/08/2016	Southern Ark.		Southern Ark.		false		true	-								
+2017	12424	30202	Okla. Baptist	10/15/2016	Northwestern Okla.		Northwestern Okla.		false		true	-								
+2017	12424	30202	Okla. Baptist	10/22/2016	@ Southwestern Okla.		Southwestern Okla.		false		false	-								
+2017	12424	30202	Okla. Baptist	10/29/2016	@ Henderson St.		Henderson St.		false		false	-								
+2017	12424	30202	Okla. Baptist	11/05/2016	Ouachita Baptist		Ouachita Baptist		false		true	-								
+2017	12424	30202	Okla. Baptist	11/12/2016	Southern Nazarene		Southern Nazarene		false		true	-								
+2017	12424	24342	Okla. Panhandle	09/03/2016	@ Sam Houston St.	624	Sam Houston St.	http://stats.ncaa.org/team/624/12424	false		false	L 21 - 59	false	21 - 59	21	59	false		okla-panhandle-sam-houston-st#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/okla-panhandle-sam-houston-st#boxscore
+2017	12424	24342	Okla. Panhandle	09/10/2016	@ Ark.-Pine Bluff		Ark.-Pine Bluff		false		false	-								
+2017	12424	24342	Okla. Panhandle	09/17/2016	@ Western N.M.		Western N.M.		false		false	-								
+2017	12424	24342	Okla. Panhandle	09/24/2016	@ Midwestern St.		Midwestern St.		false		false	-								
+2017	12424	24342	Okla. Panhandle	10/01/2016	Tex. A&M-Commerce		Tex. A&M-Commerce		false		true	-								
+2017	12424	24342	Okla. Panhandle	10/08/2016	@ Angelo St.		Angelo St.		false		false	-								
+2017	12424	24342	Okla. Panhandle	10/15/2016	West Tex. A&M		West Tex. A&M		false		true	-								
+2017	12424	24342	Okla. Panhandle	10/22/2016	@ Tex. Permian Basin		Tex. Permian Basin		false		false	-								
+2017	12424	24342	Okla. Panhandle	10/29/2016	Tarleton St.		Tarleton St.		false		true	-								
+2017	12424	24342	Okla. Panhandle	11/05/2016	@ Eastern N.M.		Eastern N.M.		false		false	-								
+2017	12424	24342	Okla. Panhandle	11/12/2016	Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		true	-								
+2017	12424	1289	Ouachita Baptist	09/01/2016	East Central	8965	East Central	http://stats.ncaa.org/team/8965/12424	false		true	W 42 - 28	true	42 - 28	42	28	false		east-central-ouachita-baptist#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/east-central-ouachita-baptist#boxscore
+2017	12424	1289	Ouachita Baptist	09/10/2016	@ Southeastern Okla.		Southeastern Okla.		false		false	-								
+2017	12424	1289	Ouachita Baptist	09/17/2016	Southwestern Okla.		Southwestern Okla.		false		true	-								
+2017	12424	1289	Ouachita Baptist	09/24/2016	@ Northwestern Okla.		Northwestern Okla.		false		false	-								
+2017	12424	1289	Ouachita Baptist	10/01/2016	@ Harding		Harding		false		false	-								
+2017	12424	1289	Ouachita Baptist	10/08/2016	Arkansas Tech		Arkansas Tech		false		true	-								
+2017	12424	1289	Ouachita Baptist	10/15/2016	Southern Ark.		Southern Ark.		false		true	-								
+2017	12424	1289	Ouachita Baptist	10/22/2016	@ Ark.-Monticello		Ark.-Monticello		false		false	-								
+2017	12424	1289	Ouachita Baptist	10/27/2016	Southern Nazarene		Southern Nazarene		false		true	-								
+2017	12424	1289	Ouachita Baptist	11/05/2016	@ Okla. Baptist		Okla. Baptist		false		false	-								
+2017	12424	1289	Ouachita Baptist	11/12/2016	@ Henderson St.		Henderson St.		false		false	-								
+2017	12424	533	Pace	09/01/2016	@ Millersville	423	Millersville	http://stats.ncaa.org/team/423/12424	false		false	L 7 - 28	false	7 - 28	7	28	false		pace-millersville#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/pace-millersville#boxscore
+2017	12424	533	Pace	09/09/2016	Assumption		Assumption		false		true	-								
+2017	12424	533	Pace	09/17/2016	@ American Int'l		American Int'l		false		false	-								
+2017	12424	533	Pace	09/24/2016	New Haven		New Haven		false		true	-								
+2017	12424	533	Pace	10/01/2016	@ Bentley		Bentley		false		false	-								
+2017	12424	533	Pace	10/08/2016	Southern Conn. St.		Southern Conn. St.		false		true	-								
+2017	12424	533	Pace	10/15/2016	Merrimack		Merrimack		false		true	-								
+2017	12424	533	Pace	10/22/2016	@ St. Anselm		St. Anselm		false		false	-								
+2017	12424	533	Pace	10/29/2016	@ LIU Post		LIU Post		false		false	-								
+2017	12424	533	Pace	11/05/2016	Stonehill		Stonehill		false		true	-								
+2017	12424	1314	Pittsburg St.	09/01/2016	Central Mo.	130	Central Mo.	http://stats.ncaa.org/team/130/12424	false		true	L 27 - 34	false	27 - 34	27	34	false		central-mo-pittsburg-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/central-mo-pittsburg-st#boxscore
+2017	12424	1314	Pittsburg St.	09/08/2016	@ Central Okla.		Central Okla.		false		false	-								
+2017	12424	1314	Pittsburg St.	09/17/2016	Northeastern St.		Northeastern St.		false		true	-								
+2017	12424	1314	Pittsburg St.	09/24/2016	@ Lindenwood (MO)		Lindenwood (MO)		false		false	-								
+2017	12424	1314	Pittsburg St.	10/01/2016	@ Washburn		Washburn		false		false	-								
+2017	12424	1314	Pittsburg St.	10/08/2016	Fort Hays St.		Fort Hays St.		false		true	-								
+2017	12424	1314	Pittsburg St.	10/15/2016	@ Mo. Western St.		Mo. Western St.		false		false	-								
+2017	12424	1314	Pittsburg St.	10/22/2016	Emporia St.		Emporia St.		false		true	-								
+2017	12424	1314	Pittsburg St.	10/29/2016	@ Northwest Mo. St.		Northwest Mo. St.		false		false	-								
+2017	12424	1314	Pittsburg St.	11/05/2016	Neb.-Kearney		Neb.-Kearney		false		true	-								
+2017	12424	1314	Pittsburg St.	11/12/2016	@ Mo. Southern St.		Mo. Southern St.		false		false	-								
+2017	12424	561	Quincy	09/03/2016	@ Drake	189	Drake	http://stats.ncaa.org/team/189/12424	false		false	W 38 - 35	true	38 - 35	38	35	false		quincy-drake#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/quincy-drake#boxscore
+2017	12424	561	Quincy	09/10/2016	Mayville St.		Mayville St.		false		true	-								
+2017	12424	561	Quincy	09/17/2016	@ Lincoln (MO)		Lincoln (MO)		false		false	-								
+2017	12424	561	Quincy	09/24/2016	Southwest Baptist		Southwest Baptist		false		true	-								
+2017	12424	561	Quincy	10/01/2016	@ St. Joseph's (IN)		St. Joseph's (IN)		false		false	-								
+2017	12424	561	Quincy	10/08/2016	@ William Jewell		William Jewell		false		false	-								
+2017	12424	561	Quincy	10/15/2016	UIndy		UIndy		false		true	-								
+2017	12424	561	Quincy	10/22/2016	@ Davenport		Davenport		false		false	-								
+2017	12424	561	Quincy	10/29/2016	@ Truman		Truman		false		false	-								
+2017	12424	561	Quincy	11/05/2016	McKendree		McKendree		false		true	-								
+2017	12424	561	Quincy	11/12/2016	Missouri S&T		Missouri S&T		false		true	-								
+2017	12424	591	Saginaw Valley	09/03/2016	@ Findlay		Findlay		false		false	-								
+2017	12424	591	Saginaw Valley	09/10/2016	Northwood		Northwood		false		true	-								
+2017	12424	591	Saginaw Valley	09/17/2016	@ Walsh		Walsh		false		false	-								
+2017	12424	591	Saginaw Valley	09/24/2016	Ohio Dominican		Ohio Dominican		false		true	-								
+2017	12424	591	Saginaw Valley	10/01/2016	@ Michigan Tech		Michigan Tech		false		false	-								
+2017	12424	591	Saginaw Valley	10/08/2016	Northern Mich.		Northern Mich.		false		true	-								
+2017	12424	591	Saginaw Valley	10/22/2016	@ Wayne St. (MI)		Wayne St. (MI)		false		false	-								
+2017	12424	591	Saginaw Valley	10/29/2016	Lake Erie		Lake Erie		false		true	-								
+2017	12424	591	Saginaw Valley	11/05/2016	Grand Valley St.		Grand Valley St.		false		true	-								
+2017	12424	591	Saginaw Valley	11/12/2016	@ Ferris St.		Ferris St.		false		false	-								
+2017	12424	594	Saint Augustine's	09/03/2016	@ N.C. A&T	488	N.C. A&T	http://stats.ncaa.org/team/488/12424	false		false	L 0 - 62	false	0 - 62	0	62	false		saint-augustines-nc-at#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/saint-augustines-nc-at#boxscore
+2017	12424	594	Saint Augustine's	09/10/2016	Carson-Newman		Carson-Newman		false		true	-								
+2017	12424	594	Saint Augustine's	09/17/2016	@ N.C. Central		N.C. Central		false		false	-								
+2017	12424	594	Saint Augustine's	09/24/2016	Lincoln (PA)		Lincoln (PA)		false		true	-								
+2017	12424	594	Saint Augustine's	10/01/2016	@ Virginia Union		Virginia Union		false		false	-								
+2017	12424	594	Saint Augustine's	10/08/2016	@ Livingstone		Livingstone		false		false	-								
+2017	12424	594	Saint Augustine's	10/15/2016	@ Winston-Salem		Winston-Salem		false		false	-								
+2017	12424	594	Saint Augustine's	10/22/2016	Fayetteville St.		Fayetteville St.		false		true	-								
+2017	12424	594	Saint Augustine's	10/29/2016	@ Johnson C. Smith		Johnson C. Smith		false		false	-								
+2017	12424	594	Saint Augustine's	11/05/2016	Shaw		Shaw		false		true	-								
+2017	12424	30063	Seton Hill	09/03/2016	@ Bowie St.	70	Bowie St.	http://stats.ncaa.org/team/70/12424	false		false	W 50 - 48	true	50 - 48	50	48	false		seton-hill-bowie-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/seton-hill-bowie-st#boxscore
+2017	12424	30063	Seton Hill	09/10/2016	@ Millersville		Millersville		false		false	-								
+2017	12424	30063	Seton Hill	09/17/2016	Kutztown		Kutztown		false		true	-								
+2017	12424	30063	Seton Hill	09/24/2016	California (PA)		California (PA)		false		true	-								
+2017	12424	30063	Seton Hill	10/01/2016	@ Indiana (PA)		Indiana (PA)		false		false	-								
+2017	12424	30063	Seton Hill	10/08/2016	Clarion		Clarion		false		true	-								
+2017	12424	30063	Seton Hill	10/15/2016	@ Gannon		Gannon		false		false	-								
+2017	12424	30063	Seton Hill	10/22/2016	Mercyhurst		Mercyhurst		false		true	-								
+2017	12424	30063	Seton Hill	10/29/2016	@ Edinboro		Edinboro		false		false	-								
+2017	12424	30063	Seton Hill	11/05/2016	@ Slippery Rock		Slippery Rock		false		false	-								
+2017	12424	30063	Seton Hill	11/12/2016	Shippensburg		Shippensburg		false		true	-								
+2017	12424	636	Shaw	09/03/2016	Limestone		Limestone		false		true	-								
+2017	12424	636	Shaw	09/10/2016	@ Wingate		Wingate		false		false	-								
+2017	12424	636	Shaw	09/17/2016	UNC Pembroke		UNC Pembroke		false		true	-								
+2017	12424	636	Shaw	09/24/2016	Bowie St.		Bowie St.		false		true	-								
+2017	12424	636	Shaw	10/01/2016	@ Elizabeth City St.		Elizabeth City St.		false		false	-								
+2017	12424	636	Shaw	10/08/2016	Fayetteville St.		Fayetteville St.		false		true	-								
+2017	12424	636	Shaw	10/15/2016	@ Livingstone		Livingstone		false		false	-								
+2017	12424	636	Shaw	10/22/2016	Johnson C. Smith		Johnson C. Smith		false		true	-								
+2017	12424	636	Shaw	10/29/2016	Winston-Salem		Winston-Salem		false		true	-								
+2017	12424	636	Shaw	11/05/2016	@ Saint Augustine's		Saint Augustine's		false		false	-								
+2017	12424	10870	Shepherd	09/03/2016	West Va. Wesleyan	9630	West Va. Wesleyan	http://stats.ncaa.org/team/9630/12424	false		true	W 27 - 12	true	27 - 12	27	12	false		west-va-wesleyan-shepherd#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/west-va-wesleyan-shepherd#boxscore
+2017	12424	10870	Shepherd	09/08/2016	@ Charleston (WV)		Charleston (WV)		false		false	-								
+2017	12424	10870	Shepherd	09/17/2016	UVa-Wise		UVa-Wise		false		true	-								
+2017	12424	10870	Shepherd	09/24/2016	@ Notre Dame (OH)		Notre Dame (OH)		false		false	-								
+2017	12424	10870	Shepherd	10/08/2016	Glenville St.		Glenville St.		false		true	-								
+2017	12424	10870	Shepherd	10/15/2016	@ West Virginia St.		West Virginia St.		false		false	-								
+2017	12424	10870	Shepherd	10/22/2016	Concord		Concord		false		true	-								
+2017	12424	10870	Shepherd	10/29/2016	@ West Liberty		West Liberty		false		false	-								
+2017	12424	10870	Shepherd	11/05/2016	Fairmont St.		Fairmont St.		false		true	-								
+2017	12424	10870	Shepherd	11/12/2016	@ Urbana		Urbana		false		false	-								
+2017	12424	638	Shippensburg	09/03/2016	@ American Int'l	22	American Int'l	http://stats.ncaa.org/team/22/12424	false		false	W 16 - 9	true	16 - 9	16	9	false		shippensburg-american-intl#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/shippensburg-american-intl#boxscore
+2017	12424	638	Shippensburg	09/10/2016	Gannon		Gannon		false		true	-								
+2017	12424	638	Shippensburg	09/17/2016	Clarion		Clarion		false		true	-								
+2017	12424	638	Shippensburg	09/24/2016	East Stroudsburg		East Stroudsburg		false		true	-								
+2017	12424	638	Shippensburg	10/01/2016	@ Lock Haven		Lock Haven		false		false	-								
+2017	12424	638	Shippensburg	10/08/2016	@ West Chester		West Chester		false		false	-								
+2017	12424	638	Shippensburg	10/15/2016	Cheyney		Cheyney		false		true	-								
+2017	12424	638	Shippensburg	10/22/2016	@ Millersville		Millersville		false		false	-								
+2017	12424	638	Shippensburg	10/29/2016	Kutztown		Kutztown		false		true	-								
+2017	12424	638	Shippensburg	11/05/2016	@ Bloomsburg		Bloomsburg		false		false	-								
+2017	12424	638	Shippensburg	11/12/2016	@ Seton Hill		Seton Hill		false		false	-								
+2017	12424	30151	Shorter	09/01/2016	@ Chattanooga	693	Chattanooga	http://stats.ncaa.org/team/693/12424	false		false	L 0 - 66	false	0 - 66	0	66	false		shorter-chattanooga#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/01/shorter-chattanooga#boxscore
+2017	12424	30151	Shorter	09/10/2016	@ Mars Hill		Mars Hill		false		false	-								
+2017	12424	30151	Shorter	09/17/2016	Florida Tech		Florida Tech		false		true	-								
+2017	12424	30151	Shorter	09/24/2016	@ Delta St.		Delta St.		false		false	-								
+2017	12424	30151	Shorter	09/29/2016	West Ala.		West Ala.		false		true	-								
+2017	12424	30151	Shorter	10/06/2016	Clark Atlanta		Clark Atlanta		false		true	-								
+2017	12424	30151	Shorter	10/15/2016	@ North Ala.		North Ala.		false		false	-								
+2017	12424	30151	Shorter	10/22/2016	@ West Florida		West Florida		false		false	-								
+2017	12424	30151	Shorter	10/29/2016	West Ga.		West Ga.		false		true	-								
+2017	12424	30151	Shorter	11/05/2016	Mississippi Col.		Mississippi Col.		false		true	-								
+2017	12424	30151	Shorter	11/12/2016	@ Valdosta St.		Valdosta St.		false		false	-								
+2017	12424	30127	Simon Fraser	09/03/2016	@ Idaho St.	294	Idaho St.	http://stats.ncaa.org/team/294/12424	false		false	L 3 - 47	false	3 - 47	3	47	false		simon-fraser-idaho-st#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/simon-fraser-idaho-st#boxscore
+2017	12424	30127	Simon Fraser	09/10/2016	@ Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		false	-								
+2017	12424	30127	Simon Fraser	09/17/2016	Humboldt St.		Humboldt St.		false		true	-								
+2017	12424	30127	Simon Fraser	09/24/2016	@ Azusa Pacific		Azusa Pacific		false		false	-								
+2017	12424	30127	Simon Fraser	10/01/2016	Central Wash.		Central Wash.		false		true	-								
+2017	12424	30127	Simon Fraser	10/08/2016	@ Western Ore.		Western Ore.		false		false	-								
+2017	12424	30127	Simon Fraser	10/22/2016	Azusa Pacific		Azusa Pacific		false		true	-								
+2017	12424	30127	Simon Fraser	10/29/2016	@ Humboldt St.		Humboldt St.		false		false	-								
+2017	12424	30127	Simon Fraser	11/05/2016	@ Central Wash.		Central Wash.		false		false	-								
+2017	12424	30127	Simon Fraser	11/12/2016	Western Ore.		Western Ore.		false		true	-								
+2017	12424	30128	Sioux Falls	09/01/2016	@ St. Cloud St.	598	St. Cloud St.	http://stats.ncaa.org/team/598/12424	false		false	W 49 - 13	true	49 - 13	49	13	false		sioux-falls-st-cloud-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/sioux-falls-st-cloud-st#boxscore
+2017	12424	30128	Sioux Falls	09/10/2016	MSU Moorhead		MSU Moorhead		false		true	-								
+2017	12424	30128	Sioux Falls	09/17/2016	@ Minot St.		Minot St.		false		false	-								
+2017	12424	30128	Sioux Falls	09/24/2016	Bemidji St.		Bemidji St.		false		true	-								
+2017	12424	30128	Sioux Falls	10/01/2016	@ Augustana (SD)		Augustana (SD)		false		false	-								
+2017	12424	30128	Sioux Falls	10/08/2016	Southwest Minn. St.		Southwest Minn. St.		false		true	-								
+2017	12424	30128	Sioux Falls	10/15/2016	@ Winona St.		Winona St.		false		false	-								
+2017	12424	30128	Sioux Falls	10/22/2016	Concordia-St. Paul		Concordia-St. Paul		false		true	-								
+2017	12424	30128	Sioux Falls	10/29/2016	@ Minnesota St.		Minnesota St.		false		false	-								
+2017	12424	30128	Sioux Falls	11/05/2016	Upper Iowa		Upper Iowa		false		true	-								
+2017	12424	30128	Sioux Falls	11/12/2016	Wayne St. (NE)		Wayne St. (NE)		false		true	-								
+2017	12424	643	Slippery Rock	09/03/2016	New Haven	470	New Haven	http://stats.ncaa.org/team/470/12424	false		true	W 31 - 28	true	31 - 28	31	28	false		new-haven-slippery-rock#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/new-haven-slippery-rock#boxscore
+2017	12424	643	Slippery Rock	09/10/2016	@ West Chester		West Chester		false		false	-								
+2017	12424	643	Slippery Rock	09/17/2016	@ Lock Haven		Lock Haven		false		false	-								
+2017	12424	643	Slippery Rock	09/24/2016	Gannon		Gannon		false		true	-								
+2017	12424	643	Slippery Rock	10/01/2016	@ California (PA)		California (PA)		false		false	-								
+2017	12424	643	Slippery Rock	10/08/2016	Mercyhurst		Mercyhurst		false		true	-								
+2017	12424	643	Slippery Rock	10/15/2016	@ Indiana (PA)		Indiana (PA)		false		false	-								
+2017	12424	643	Slippery Rock	10/22/2016	Edinboro		Edinboro		false		true	-								
+2017	12424	643	Slippery Rock	10/29/2016	@ Clarion		Clarion		false		false	-								
+2017	12424	643	Slippery Rock	11/05/2016	Seton Hill		Seton Hill		false		true	-								
+2017	12424	643	Slippery Rock	11/12/2016	Kutztown		Kutztown		false		true	-								
+2017	12424	30139	South Dakota Mines	09/03/2016	William Jewell	30120	William Jewell	http://stats.ncaa.org/team/30120/12424	false		true	W 64 - 41	true	64 - 41	64	41	false		william-jewell-south-dakota-mines#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/william-jewell-south-dakota-mines#boxscore
+2017	12424	30139	South Dakota Mines	09/10/2016	@ Dixie St.		Dixie St.		false		false	-								
+2017	12424	30139	South Dakota Mines	09/17/2016	@ Colorado St.-Pueblo		Colorado St.-Pueblo		false		false	-								
+2017	12424	30139	South Dakota Mines	09/24/2016	Black Hills St.		Black Hills St.		false		true	-								
+2017	12424	30139	South Dakota Mines	10/01/2016	Adams St.		Adams St.		false		true	-								
+2017	12424	30139	South Dakota Mines	10/08/2016	@ N.M. Highlands		N.M. Highlands		false		false	-								
+2017	12424	30139	South Dakota Mines	10/15/2016	@ Colorado Mines		Colorado Mines		false		false	-								
+2017	12424	30139	South Dakota Mines	10/22/2016	Chadron St.		Chadron St.		false		true	-								
+2017	12424	30139	South Dakota Mines	10/29/2016	Fort Lewis		Fort Lewis		false		true	-								
+2017	12424	30139	South Dakota Mines	11/05/2016	@ Colorado Mesa		Colorado Mesa		false		false	-								
+2017	12424	30139	South Dakota Mines	11/12/2016	Western St.		Western St.		false		true	-								
+2017	12424	1371	Southeastern Okla.	08/31/2016	@ Henderson St.	1123	Henderson St.	http://stats.ncaa.org/team/1123/12424	false		false	L 11 - 13	false	11 - 13	11	13	false		southeastern-okla-henderson-st#boxscore	http://www.ncaa.com/game/football/d2/2016/08/31/southeastern-okla-henderson-st#boxscore
+2017	12424	1371	Southeastern Okla.	09/01/2016	@ Henderson St.	1123	Henderson St.	http://stats.ncaa.org/team/1123/12424	false		false	L 11 - 13	false	11 - 13	11	13	false		southeastern-okla-henderson-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/southeastern-okla-henderson-st#boxscore
+2017	12424	1371	Southeastern Okla.	09/10/2016	Ouachita Baptist		Ouachita Baptist		false		true	-								
+2017	12424	1371	Southeastern Okla.	09/17/2016	@ Okla. Baptist		Okla. Baptist		false		false	-								
+2017	12424	1371	Southeastern Okla.	09/24/2016	Southern Nazarene		Southern Nazarene		false		true	-								
+2017	12424	1371	Southeastern Okla.	10/01/2016	@ Southwestern Okla.		Southwestern Okla.		false		false	-								
+2017	12424	1371	Southeastern Okla.	10/08/2016	Northwestern Okla.		Northwestern Okla.		false		true	-								
+2017	12424	1371	Southeastern Okla.	10/15/2016	@ Harding		Harding		false		false	-								
+2017	12424	1371	Southeastern Okla.	10/22/2016	Arkansas Tech		Arkansas Tech		false		true	-								
+2017	12424	1371	Southeastern Okla.	10/29/2016	@ Southern Ark.		Southern Ark.		false		false	-								
+2017	12424	1371	Southeastern Okla.	11/05/2016	Ark.-Monticello		Ark.-Monticello		false		true	-								
+2017	12424	1371	Southeastern Okla.	11/12/2016	@ East Central		East Central		false		false	-								
+2017	12424	1376	Southern Ark.	09/01/2016	@ Southwestern Okla.	8744	Southwestern Okla.	http://stats.ncaa.org/team/8744/12424	false		false	W 21 - 17	true	21 - 17	21	17	false		southern-ark-southwestern-okla#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/southern-ark-southwestern-okla#boxscore
+2017	12424	1376	Southern Ark.	09/10/2016	Northwestern Okla.		Northwestern Okla.		false		true	-								
+2017	12424	1376	Southern Ark.	09/17/2016	@ Harding		Harding		false		false	-								
+2017	12424	1376	Southern Ark.	09/24/2016	Arkansas Tech		Arkansas Tech		false		true	-								
+2017	12424	1376	Southern Ark.	10/01/2016	Southern Nazarene		Southern Nazarene		false		true	-								
+2017	12424	1376	Southern Ark.	10/08/2016	@ Okla. Baptist		Okla. Baptist		false		false	-								
+2017	12424	1376	Southern Ark.	10/15/2016	@ Ouachita Baptist		Ouachita Baptist		false		false	-								
+2017	12424	1376	Southern Ark.	10/22/2016	Henderson St.@El Dorado, AR		Henderson St.El Dorado, AR		false		false	-								
+2017	12424	1376	Southern Ark.	10/29/2016	Southeastern Okla.		Southeastern Okla.		false		true	-								
+2017	12424	1376	Southern Ark.	11/05/2016	@ East Central		East Central		false		false	-								
+2017	12424	1376	Southern Ark.	11/12/2016	@ Ark.-Monticello		Ark.-Monticello		false		false	-								
+2017	12424	658	Southern Conn. St.	09/03/2016	@ Gannon	246	Gannon	http://stats.ncaa.org/team/246/12424	false		false	L 9 - 31	false	9 - 31	9	31	false		southern-conn-st-gannon#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/southern-conn-st-gannon#boxscore
+2017	12424	658	Southern Conn. St.	09/09/2016	Stonehill		Stonehill		false		true	-								
+2017	12424	658	Southern Conn. St.	09/16/2016	@ Assumption		Assumption		false		false	-								
+2017	12424	658	Southern Conn. St.	09/23/2016	American Int'l		American Int'l		false		true	-								
+2017	12424	658	Southern Conn. St.	10/01/2016	@ New Haven		New Haven		false		false	-								
+2017	12424	658	Southern Conn. St.	10/08/2016	@ Pace		Pace		false		false	-								
+2017	12424	658	Southern Conn. St.	10/15/2016	LIU Post		LIU Post		false		true	-								
+2017	12424	658	Southern Conn. St.	10/22/2016	@ Merrimack		Merrimack		false		false	-								
+2017	12424	658	Southern Conn. St.	10/29/2016	Bentley		Bentley		false		true	-								
+2017	12424	658	Southern Conn. St.	11/05/2016	St. Anselm		St. Anselm		false		true	-								
+2017	12424	30152	Southern Nazarene	09/01/2016	@ Arkansas Tech	947	Arkansas Tech	http://stats.ncaa.org/team/947/12424	false		false	L 0 - 46	false	0 - 46	0	46	false		southern-nazarene-arkansas-tech#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/southern-nazarene-arkansas-tech#boxscore
+2017	12424	30152	Southern Nazarene	09/10/2016	Harding		Harding		false		true	-								
+2017	12424	30152	Southern Nazarene	09/17/2016	East Central		East Central		false		true	-								
+2017	12424	30152	Southern Nazarene	09/24/2016	@ Southeastern Okla.		Southeastern Okla.		false		false	-								
+2017	12424	30152	Southern Nazarene	10/01/2016	@ Southern Ark.		Southern Ark.		false		false	-								
+2017	12424	30152	Southern Nazarene	10/08/2016	Ark.-Monticello		Ark.-Monticello		false		true	-								
+2017	12424	30152	Southern Nazarene	10/15/2016	Southwestern Okla.		Southwestern Okla.		false		true	-								
+2017	12424	30152	Southern Nazarene	10/22/2016	@ Northwestern Okla.		Northwestern Okla.		false		false	-								
+2017	12424	30152	Southern Nazarene	10/27/2016	@ Ouachita Baptist		Ouachita Baptist		false		false	-								
+2017	12424	30152	Southern Nazarene	11/05/2016	Henderson St.		Henderson St.		false		true	-								
+2017	12424	30152	Southern Nazarene	11/12/2016	@ Okla. Baptist		Okla. Baptist		false		false	-								
+2017	12424	2755	Southwest Baptist	09/01/2016	Eastern N.M.		Eastern N.M.		false		true	-								
+2017	12424	2755	Southwest Baptist	09/10/2016	@ Tarleton St.		Tarleton St.		false		false	-								
+2017	12424	2755	Southwest Baptist	09/17/2016	UIndy		UIndy		false		true	-								
+2017	12424	2755	Southwest Baptist	09/24/2016	@ Quincy		Quincy		false		false	-								
+2017	12424	2755	Southwest Baptist	10/01/2016	McKendree		McKendree		false		true	-								
+2017	12424	2755	Southwest Baptist	10/08/2016	Truman		Truman		false		true	-								
+2017	12424	2755	Southwest Baptist	10/15/2016	@ William Jewell		William Jewell		false		false	-								
+2017	12424	2755	Southwest Baptist	10/22/2016	@ St. Joseph's (IN)		St. Joseph's (IN)		false		false	-								
+2017	12424	2755	Southwest Baptist	10/29/2016	Missouri S&T		Missouri S&T		false		true	-								
+2017	12424	2755	Southwest Baptist	11/05/2016	@ Central St. (OH)		Central St. (OH)		false		false	-								
+2017	12424	2755	Southwest Baptist	11/12/2016	@ Lincoln (MO)		Lincoln (MO)		false		false	-								
+2017	12424	8736	Southwest Minn. St.	09/01/2016	Minn. Duluth	427	Minn. Duluth	http://stats.ncaa.org/team/427/12424	false		true	W 42 - 38	true	42 - 38	42	38	false		minn-duluth-southwest-minn-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/minn-duluth-southwest-minn-st#boxscore
+2017	12424	8736	Southwest Minn. St.	09/10/2016	@ Northern St.		Northern St.		false		false	-								
+2017	12424	8736	Southwest Minn. St.	09/17/2016	Mary		Mary		false		true	-								
+2017	12424	8736	Southwest Minn. St.	09/24/2016	@ Minn.-Crookston		Minn.-Crookston		false		false	-								
+2017	12424	8736	Southwest Minn. St.	10/01/2016	Upper Iowa		Upper Iowa		false		true	-								
+2017	12424	8736	Southwest Minn. St.	10/08/2016	@ Sioux Falls		Sioux Falls		false		false	-								
+2017	12424	8736	Southwest Minn. St.	10/15/2016	Wayne St. (NE)		Wayne St. (NE)		false		true	-								
+2017	12424	8736	Southwest Minn. St.	10/20/2016	@ Minnesota St.		Minnesota St.		false		false	-								
+2017	12424	8736	Southwest Minn. St.	10/29/2016	Concordia-St. Paul		Concordia-St. Paul		false		true	-								
+2017	12424	8736	Southwest Minn. St.	11/05/2016	@ Winona St.		Winona St.		false		false	-								
+2017	12424	8736	Southwest Minn. St.	11/12/2016	Augustana (SD)		Augustana (SD)		false		true	-								
+2017	12424	8744	Southwestern Okla.	09/01/2016	Southern Ark.	1376	Southern Ark.	http://stats.ncaa.org/team/1376/12424	false		true	L 17 - 21	false	17 - 21	17	21	false		southern-ark-southwestern-okla#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/southern-ark-southwestern-okla#boxscore
+2017	12424	8744	Southwestern Okla.	09/10/2016	@ Ark.-Monticello		Ark.-Monticello		false		false	-								
+2017	12424	8744	Southwestern Okla.	09/17/2016	@ Ouachita Baptist		Ouachita Baptist		false		false	-								
+2017	12424	8744	Southwestern Okla.	09/24/2016	Henderson St.		Henderson St.		false		true	-								
+2017	12424	8744	Southwestern Okla.	10/01/2016	Southeastern Okla.		Southeastern Okla.		false		true	-								
+2017	12424	8744	Southwestern Okla.	10/08/2016	@ East Central		East Central		false		false	-								
+2017	12424	8744	Southwestern Okla.	10/15/2016	@ Southern Nazarene		Southern Nazarene		false		false	-								
+2017	12424	8744	Southwestern Okla.	10/22/2016	Okla. Baptist		Okla. Baptist		false		true	-								
+2017	12424	8744	Southwestern Okla.	10/29/2016	@ Harding		Harding		false		false	-								
+2017	12424	8744	Southwestern Okla.	11/05/2016	Arkansas Tech		Arkansas Tech		false		true	-								
+2017	12424	8744	Southwestern Okla.	11/12/2016	Northwestern Okla.		Northwestern Okla.		false		true	-								
+2017	12424	593	St. Anselm	09/01/2016	@ Wagner	748	Wagner	http://stats.ncaa.org/team/748/12424	false		false	L 16 - 38	false	16 - 38	16	38	false		st-anselm-wagner#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/01/st-anselm-wagner#boxscore
+2017	12424	593	St. Anselm	09/10/2016	Bentley		Bentley		false		true	-								
+2017	12424	593	St. Anselm	09/17/2016	@ New Haven		New Haven		false		false	-								
+2017	12424	593	St. Anselm	09/24/2016	Stonehill		Stonehill		false		true	-								
+2017	12424	593	St. Anselm	10/01/2016	American Int'l		American Int'l		false		true	-								
+2017	12424	593	St. Anselm	10/08/2016	@ LIU Post		LIU Post		false		false	-								
+2017	12424	593	St. Anselm	10/14/2016	@ Assumption		Assumption		false		false	-								
+2017	12424	593	St. Anselm	10/22/2016	Pace		Pace		false		true	-								
+2017	12424	593	St. Anselm	10/29/2016	Merrimack		Merrimack		false		true	-								
+2017	12424	593	St. Anselm	11/05/2016	@ Southern Conn. St.		Southern Conn. St.		false		false	-								
+2017	12424	598	St. Cloud St.	09/01/2016	Sioux Falls	30128	Sioux Falls	http://stats.ncaa.org/team/30128/12424	false		true	L 13 - 49	false	13 - 49	13	49	false		sioux-falls-st-cloud-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/sioux-falls-st-cloud-st#boxscore
+2017	12424	598	St. Cloud St.	09/10/2016	@ Upper Iowa		Upper Iowa		false		false	-								
+2017	12424	598	St. Cloud St.	09/17/2016	Minnesota St.		Minnesota St.		false		true	-								
+2017	12424	598	St. Cloud St.	09/24/2016	@ Wayne St. (NE)		Wayne St. (NE)		false		false	-								
+2017	12424	598	St. Cloud St.	10/01/2016	@ Minn.-Crookston		Minn.-Crookston		false		false	-								
+2017	12424	598	St. Cloud St.	10/08/2016	Mary		Mary		false		true	-								
+2017	12424	598	St. Cloud St.	10/15/2016	@ MSU Moorhead		MSU Moorhead		false		false	-								
+2017	12424	598	St. Cloud St.	10/22/2016	@ Northern St.		Northern St.		false		false	-								
+2017	12424	598	St. Cloud St.	10/29/2016	Bemidji St.		Bemidji St.		false		true	-								
+2017	12424	598	St. Cloud St.	11/05/2016	@ Minot St.		Minot St.		false		false	-								
+2017	12424	598	St. Cloud St.	11/12/2016	Minn. Duluth		Minn. Duluth		false		true	-								
+2017	12424	604	St. Joseph's (IN)	09/03/2016	Edinboro	209	Edinboro	http://stats.ncaa.org/team/209/12424	false		true	L 30 - 31	false	30 - 31	30	31	false		edinboro-st-josephs-in#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/edinboro-st-josephs-in#boxscore
+2017	12424	604	St. Joseph's (IN)	09/10/2016	Alderson Broaddus		Alderson Broaddus		false		true	-								
+2017	12424	604	St. Joseph's (IN)	09/17/2016	@ William Jewell		William Jewell		false		false	-								
+2017	12424	604	St. Joseph's (IN)	09/24/2016	Missouri S&T		Missouri S&T		false		true	-								
+2017	12424	604	St. Joseph's (IN)	10/01/2016	Quincy		Quincy		false		true	-								
+2017	12424	604	St. Joseph's (IN)	10/08/2016	@ Lincoln (MO)		Lincoln (MO)		false		false	-								
+2017	12424	604	St. Joseph's (IN)	10/15/2016	@ McKendree		McKendree		false		false	-								
+2017	12424	604	St. Joseph's (IN)	10/22/2016	Southwest Baptist		Southwest Baptist		false		true	-								
+2017	12424	604	St. Joseph's (IN)	10/29/2016	@ Davenport		Davenport		false		false	-								
+2017	12424	604	St. Joseph's (IN)	11/05/2016	Truman		Truman		false		true	-								
+2017	12424	604	St. Joseph's (IN)	11/12/2016	@ UIndy		UIndy		false		false	-								
+2017	12424	682	Stonehill	09/02/2016	Bloomsburg	65	Bloomsburg	http://stats.ncaa.org/team/65/12424	false		true	L 20 - 24	false	20 - 24	20	24	false		bloomsburg-stonehill#boxscore	http://www.ncaa.com/game/football/d2/2016/09/02/bloomsburg-stonehill#boxscore
+2017	12424	682	Stonehill	09/09/2016	@ Southern Conn. St.		Southern Conn. St.		false		false	-								
+2017	12424	682	Stonehill	09/17/2016	LIU Post		LIU Post		false		true	-								
+2017	12424	682	Stonehill	09/24/2016	@ St. Anselm		St. Anselm		false		false	-								
+2017	12424	682	Stonehill	10/01/2016	Merrimack		Merrimack		false		true	-								
+2017	12424	682	Stonehill	10/08/2016	@ American Int'l		American Int'l		false		false	-								
+2017	12424	682	Stonehill	10/15/2016	New Haven		New Haven		false		true	-								
+2017	12424	682	Stonehill	10/22/2016	@ Bentley		Bentley		false		false	-								
+2017	12424	682	Stonehill	10/29/2016	Assumption		Assumption		false		true	-								
+2017	12424	682	Stonehill	11/05/2016	@ Pace		Pace		false		false	-								
+2017	12424	1395	Tarleton St.	09/03/2016	@ McNeese St.	402	McNeese St.	http://stats.ncaa.org/team/402/12424	false		false	L 3 - 33	false	3 - 33	3	33	false		tarleton-st-mcneese-st#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/tarleton-st-mcneese-st#boxscore
+2017	12424	1395	Tarleton St.	09/10/2016	Southwest Baptist		Southwest Baptist		false		true	-								
+2017	12424	1395	Tarleton St.	09/17/2016	Angelo St.		Angelo St.		false		true	-								
+2017	12424	1395	Tarleton St.	09/24/2016	@ West Tex. A&M		West Tex. A&M		false		false	-								
+2017	12424	1395	Tarleton St.	10/01/2016	Tex. Permian Basin		Tex. Permian Basin		false		true	-								
+2017	12424	1395	Tarleton St.	10/08/2016	Western N.M.		Western N.M.		false		true	-								
+2017	12424	1395	Tarleton St.	10/15/2016	@ Eastern N.M.		Eastern N.M.		false		false	-								
+2017	12424	1395	Tarleton St.	10/22/2016	Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		true	-								
+2017	12424	1395	Tarleton St.	10/29/2016	@ Okla. Panhandle		Okla. Panhandle		false		false	-								
+2017	12424	1395	Tarleton St.	11/05/2016	Midwestern St.		Midwestern St.		false		true	-								
+2017	12424	1395	Tarleton St.	11/12/2016	@ Tex. A&M-Commerce		Tex. A&M-Commerce		false		false	-								
+2017	12424	199	Tex. A&M-Commerce	09/10/2016	@ Delta St.		Delta St.		false		false	-								
+2017	12424	199	Tex. A&M-Commerce	09/17/2016	@ Eastern N.M.		Eastern N.M.		false		false	-								
+2017	12424	199	Tex. A&M-Commerce	09/24/2016	Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		true	-								
+2017	12424	199	Tex. A&M-Commerce	10/01/2016	@ Okla. Panhandle		Okla. Panhandle		false		false	-								
+2017	12424	199	Tex. A&M-Commerce	10/08/2016	Midwestern St.		Midwestern St.		false		true	-								
+2017	12424	199	Tex. A&M-Commerce	10/15/2016	@ Western N.M.		Western N.M.		false		false	-								
+2017	12424	199	Tex. A&M-Commerce	10/22/2016	@ Angelo St.		Angelo St.		false		false	-								
+2017	12424	199	Tex. A&M-Commerce	10/29/2016	West Tex. A&M		West Tex. A&M		false		true	-								
+2017	12424	199	Tex. A&M-Commerce	11/05/2016	@ Tex. Permian Basin		Tex. Permian Basin		false		false	-								
+2017	12424	199	Tex. A&M-Commerce	11/12/2016	Tarleton St.		Tarleton St.		false		true	-								
+2017	12424	696	Tex. A&M-Kingsville	09/03/2016	@ Incarnate Word	2743	Incarnate Word	http://stats.ncaa.org/team/2743/12424	false		false	W 31 - 22	true	31 - 22	31	22	false		tex-am-kingsville-incarnate-word#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/tex-am-kingsville-incarnate-word#boxscore
+2017	12424	696	Tex. A&M-Kingsville	09/10/2016	Simon Fraser		Simon Fraser		false		true	-								
+2017	12424	696	Tex. A&M-Kingsville	09/17/2016	Midwestern St.		Midwestern St.		false		true	-								
+2017	12424	696	Tex. A&M-Kingsville	09/24/2016	@ Tex. A&M-Commerce		Tex. A&M-Commerce		false		false	-								
+2017	12424	696	Tex. A&M-Kingsville	10/01/2016	Angelo St.		Angelo St.		false		true	-								
+2017	12424	696	Tex. A&M-Kingsville	10/08/2016	@ West Tex. A&M		West Tex. A&M		false		false	-								
+2017	12424	696	Tex. A&M-Kingsville	10/15/2016	Tex. Permian Basin		Tex. Permian Basin		false		true	-								
+2017	12424	696	Tex. A&M-Kingsville	10/22/2016	@ Tarleton St.		Tarleton St.		false		false	-								
+2017	12424	696	Tex. A&M-Kingsville	10/29/2016	Eastern N.M.		Eastern N.M.		false		true	-								
+2017	12424	696	Tex. A&M-Kingsville	11/05/2016	Western N.M.		Western N.M.		false		true	-								
+2017	12424	696	Tex. A&M-Kingsville	11/12/2016	@ Okla. Panhandle		Okla. Panhandle		false		false	-								
+2017	12424	30088	Tex. Permian Basin	09/03/2016	@ Sul Ross St.		Sul Ross St.		false		false	-								
+2017	12424	30088	Tex. Permian Basin	09/03/2016	@ Sul Ross St.		Sul Ross St.		false		false	-								
+2017	12424	30088	Tex. Permian Basin	09/10/2016	Arizona Christian		Arizona Christian		false		true	-								
+2017	12424	30088	Tex. Permian Basin	09/17/2016	West Tex. A&M		West Tex. A&M		false		true	-								
+2017	12424	30088	Tex. Permian Basin	09/24/2016	Western N.M.		Western N.M.		false		true	-								
+2017	12424	30088	Tex. Permian Basin	10/01/2016	@ Tarleton St.		Tarleton St.		false		false	-								
+2017	12424	30088	Tex. Permian Basin	10/08/2016	Eastern N.M.		Eastern N.M.		false		true	-								
+2017	12424	30088	Tex. Permian Basin	10/15/2016	@ Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		false	-								
+2017	12424	30088	Tex. Permian Basin	10/22/2016	Okla. Panhandle		Okla. Panhandle		false		true	-								
+2017	12424	30088	Tex. Permian Basin	10/29/2016	@ Midwestern St.		Midwestern St.		false		false	-								
+2017	12424	30088	Tex. Permian Basin	11/05/2016	Tex. A&M-Commerce		Tex. A&M-Commerce		false		true	-								
+2017	12424	30088	Tex. Permian Basin	11/12/2016	@ Angelo St.		Angelo St.		false		false	-								
+2017	12424	1403	Tiffin	09/01/2016	Grand Valley St.	262	Grand Valley St.	http://stats.ncaa.org/team/262/12424	false		true	-								
+2017	12424	1403	Tiffin	09/10/2016	Davenport		Davenport		false		true	-								
+2017	12424	1403	Tiffin	09/17/2016	Hillsdale		Hillsdale		false		true	-								
+2017	12424	1403	Tiffin	09/24/2016	@ Wayne St. (MI)		Wayne St. (MI)		false		false	-								
+2017	12424	1403	Tiffin	10/01/2016	Ashland		Ashland		false		true	-								
+2017	12424	1403	Tiffin	10/08/2016	@ Walsh		Walsh		false		false	-								
+2017	12424	1403	Tiffin	10/15/2016	Michigan Tech		Michigan Tech		false		true	-								
+2017	12424	1403	Tiffin	10/22/2016	Findlay		Findlay		false		true	-								
+2017	12424	1403	Tiffin	10/29/2016	@ Northwood		Northwood		false		false	-								
+2017	12424	1403	Tiffin	11/05/2016	@ Lake Erie		Lake Erie		false		false	-								
+2017	12424	1403	Tiffin	11/12/2016	Northern Mich.		Northern Mich.		false		true	-								
+2017	12424	499	Truman	09/03/2016	@ Midwestern St.		Midwestern St.		false		false	-								
+2017	12424	499	Truman	09/10/2016	Malone		Malone		false		true	-								
+2017	12424	499	Truman	09/17/2016	@ Missouri S&T		Missouri S&T		false		false	-								
+2017	12424	499	Truman	09/24/2016	Lincoln (MO)		Lincoln (MO)		false		true	-								
+2017	12424	499	Truman	10/01/2016	UIndy		UIndy		false		true	-								
+2017	12424	499	Truman	10/08/2016	@ Southwest Baptist		Southwest Baptist		false		false	-								
+2017	12424	499	Truman	10/15/2016	@ Grand Valley St.		Grand Valley St.		false		false	-								
+2017	12424	499	Truman	10/22/2016	William Jewell		William Jewell		false		true	-								
+2017	12424	499	Truman	10/29/2016	Quincy		Quincy		false		true	-								
+2017	12424	499	Truman	11/05/2016	@ St. Joseph's (IN)		St. Joseph's (IN)		false		false	-								
+2017	12424	499	Truman	11/12/2016	@ McKendree		McKendree		false		false	-								
+2017	12424	12830	Tusculum	09/01/2016	UVa-Wise	30181	UVa-Wise	http://stats.ncaa.org/team/30181/12424	false		true	L 10 - 13 (2OT)	false	10 - 13	10	13	true	2OT	uva-wise-tusculum#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/uva-wise-tusculum#boxscore
+2017	12424	12830	Tusculum	09/10/2016	@ Virginia St.		Virginia St.		false		false	-								
+2017	12424	12830	Tusculum	09/17/2016	@ Lenoir-Rhyne		Lenoir-Rhyne		false		false	-								
+2017	12424	12830	Tusculum	09/24/2016	Newberry		Newberry		false		true	-								
+2017	12424	12830	Tusculum	10/01/2016	Brevard		Brevard		false		true	-								
+2017	12424	12830	Tusculum	10/08/2016	@ Wingate		Wingate		false		false	-								
+2017	12424	12830	Tusculum	10/15/2016	North Greenville		North Greenville		false		true	-								
+2017	12424	12830	Tusculum	10/22/2016	Limestone		Limestone		false		true	-								
+2017	12424	12830	Tusculum	10/29/2016	@ Mars Hill		Mars Hill		false		false	-								
+2017	12424	12830	Tusculum	11/05/2016	@ Catawba		Catawba		false		false	-								
+2017	12424	12830	Tusculum	11/12/2016	Carson-Newman		Carson-Newman		false		true	-								
+2017	12424	720	Tuskegee	09/03/2016	@ Clark Atlanta		Clark Atlanta		false		false	-								
+2017	12424	720	Tuskegee	09/10/2016	Albany St. (GA)@Phenix City, AL		Albany St. (GA)Phenix City, AL		false		false	-								
+2017	12424	720	Tuskegee	09/17/2016	Florida A&M@Mobile, AL		Florida A&MMobile, AL		false		false	-								
+2017	12424	720	Tuskegee	09/24/2016	Lane		Lane		false		true	-								
+2017	12424	720	Tuskegee	10/01/2016	UNC Pembroke		UNC Pembroke		false		true	-								
+2017	12424	720	Tuskegee	10/08/2016	Morehouse@Columbus, GA		MorehouseColumbus, GA		false		false	-								
+2017	12424	720	Tuskegee	10/22/2016	Kentucky St.		Kentucky St.		false		true	-								
+2017	12424	720	Tuskegee	10/29/2016	@ Central St. (OH)		Central St. (OH)		false		false	-								
+2017	12424	720	Tuskegee	11/05/2016	@ Miles		Miles		false		false	-								
+2017	12424	309	UIndy	09/03/2016	Hillsdale	280	Hillsdale	http://stats.ncaa.org/team/280/12424	false		true	-								
+2017	12424	309	UIndy	09/10/2016	Marian (IN)		Marian (IN)		false		true	-								
+2017	12424	309	UIndy	09/17/2016	@ Southwest Baptist		Southwest Baptist		false		false	-								
+2017	12424	309	UIndy	09/24/2016	@ Ky. Wesleyan		Ky. Wesleyan		false		false	-								
+2017	12424	309	UIndy	10/01/2016	@ Truman		Truman		false		false	-								
+2017	12424	309	UIndy	10/08/2016	McKendree		McKendree		false		true	-								
+2017	12424	309	UIndy	10/15/2016	@ Quincy		Quincy		false		false	-								
+2017	12424	309	UIndy	10/22/2016	Lincoln (MO)		Lincoln (MO)		false		true	-								
+2017	12424	309	UIndy	10/29/2016	William Jewell		William Jewell		false		true	-								
+2017	12424	309	UIndy	11/05/2016	@ Missouri S&T		Missouri S&T		false		false	-								
+2017	12424	309	UIndy	11/12/2016	St. Joseph's (IN)		St. Joseph's (IN)		false		true	-								
+2017	12424	537	UNC Pembroke	09/03/2016	@ Winston-Salem	791	Winston-Salem	http://stats.ncaa.org/team/791/12424	false		false	W 20 - 17	true	20 - 17	20	17	false		unc-pembroke-winston-salem#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/unc-pembroke-winston-salem#boxscore
+2017	12424	537	UNC Pembroke	09/10/2016	Fayetteville St.		Fayetteville St.		false		true	-								
+2017	12424	537	UNC Pembroke	09/17/2016	@ Shaw		Shaw		false		false	-								
+2017	12424	537	UNC Pembroke	09/24/2016	North Greenville		North Greenville		false		true	-								
+2017	12424	537	UNC Pembroke	10/01/2016	@ Tuskegee		Tuskegee		false		false	-								
+2017	12424	537	UNC Pembroke	10/08/2016	@ Lenoir-Rhyne		Lenoir-Rhyne		false		false	-								
+2017	12424	537	UNC Pembroke	10/15/2016	Ky. Wesleyan		Ky. Wesleyan		false		true	-								
+2017	12424	537	UNC Pembroke	10/22/2016	Catawba		Catawba		false		true	-								
+2017	12424	537	UNC Pembroke	10/29/2016	@ West Virginia St.		West Virginia St.		false		false	-								
+2017	12424	537	UNC Pembroke	11/12/2016	Concord		Concord		false		true	-								
+2017	12424	30181	UVa-Wise	09/01/2016	@ Tusculum	12830	Tusculum	http://stats.ncaa.org/team/12830/12424	false		false	W 13 - 10 (2OT)	true	13 - 10	13	10	true	2OT	uva-wise-tusculum#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/uva-wise-tusculum#boxscore
+2017	12424	30181	UVa-Wise	09/10/2016	Notre Dame (OH)		Notre Dame (OH)		false		true	-								
+2017	12424	30181	UVa-Wise	09/17/2016	@ Shepherd		Shepherd		false		false	-								
+2017	12424	30181	UVa-Wise	09/24/2016	Glenville St.		Glenville St.		false		true	-								
+2017	12424	30181	UVa-Wise	10/01/2016	@ West Virginia St.		West Virginia St.		false		false	-								
+2017	12424	30181	UVa-Wise	10/06/2016	Concord		Concord		false		true	-								
+2017	12424	30181	UVa-Wise	10/15/2016	@ West Liberty		West Liberty		false		false	-								
+2017	12424	30181	UVa-Wise	10/22/2016	Fairmont St.		Fairmont St.		false		true	-								
+2017	12424	30181	UVa-Wise	10/29/2016	@ Urbana		Urbana		false		false	-								
+2017	12424	30181	UVa-Wise	11/05/2016	West Va. Wesleyan		West Va. Wesleyan		false		true	-								
+2017	12424	30181	UVa-Wise	11/10/2016	@ Charleston (WV)		Charleston (WV)		false		false	-								
+2017	12424	728	Upper Iowa	09/01/2016	@ Bemidji St.		Bemidji St.		false		false	-								
+2017	12424	728	Upper Iowa	09/10/2016	St. Cloud St.		St. Cloud St.		false		true	-								
+2017	12424	728	Upper Iowa	09/17/2016	@ MSU Moorhead		MSU Moorhead		false		false	-								
+2017	12424	728	Upper Iowa	09/24/2016	Minot St.		Minot St.		false		true	-								
+2017	12424	728	Upper Iowa	10/01/2016	@ Southwest Minn. St.		Southwest Minn. St.		false		false	-								
+2017	12424	728	Upper Iowa	10/08/2016	Winona St.		Winona St.		false		true	-								
+2017	12424	728	Upper Iowa	10/15/2016	@ Concordia-St. Paul		Concordia-St. Paul		false		false	-								
+2017	12424	728	Upper Iowa	10/22/2016	Augustana (SD)		Augustana (SD)		false		true	-								
+2017	12424	728	Upper Iowa	10/29/2016	Wayne St. (NE)		Wayne St. (NE)		false		true	-								
+2017	12424	728	Upper Iowa	11/05/2016	@ Sioux Falls		Sioux Falls		false		false	-								
+2017	12424	728	Upper Iowa	11/12/2016	@ Minnesota St.		Minnesota St.		false		false	-								
+2017	12424	30104	Urbana	09/01/2016	@ Glenville St.	1098	Glenville St.	http://stats.ncaa.org/team/1098/12424	false		false	L 24 - 44	false	24 - 44	24	44	false		urbana-glenville-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/urbana-glenville-st#boxscore
+2017	12424	30104	Urbana	09/10/2016	West Virginia St.		West Virginia St.		false		true	-								
+2017	12424	30104	Urbana	09/18/2016	@ Concord		Concord		false		false	-								
+2017	12424	30104	Urbana	09/24/2016	West Liberty		West Liberty		false		true	-								
+2017	12424	30104	Urbana	10/01/2016	@ Fairmont St.		Fairmont St.		false		false	-								
+2017	12424	30104	Urbana	10/08/2016	Cincinnati Christian		Cincinnati Christian		false		true	-								
+2017	12424	30104	Urbana	10/15/2016	West Va. Wesleyan		West Va. Wesleyan		false		true	-								
+2017	12424	30104	Urbana	10/22/2016	@ Charleston (WV)		Charleston (WV)		false		false	-								
+2017	12424	30104	Urbana	10/29/2016	UVa-Wise		UVa-Wise		false		true	-								
+2017	12424	30104	Urbana	11/05/2016	@ Notre Dame (OH)		Notre Dame (OH)		false		false	-								
+2017	12424	30104	Urbana	11/12/2016	Shepherd		Shepherd		false		true	-								
+2017	12424	734	Valdosta St.	09/03/2016	Albany St. (GA)		Albany St. (GA)		false		true	-								
+2017	12424	734	Valdosta St.	09/17/2016	@ North Ala.		North Ala.		false		false	-								
+2017	12424	734	Valdosta St.	09/24/2016	West Florida		West Florida		false		true	-								
+2017	12424	734	Valdosta St.	10/01/2016	Kentucky St.		Kentucky St.		false		true	-								
+2017	12424	734	Valdosta St.	10/08/2016	West Ga.		West Ga.		false		true	-								
+2017	12424	734	Valdosta St.	10/15/2016	@ Mississippi Col.		Mississippi Col.		false		false	-								
+2017	12424	734	Valdosta St.	10/22/2016	Delta St.		Delta St.		false		true	-								
+2017	12424	734	Valdosta St.	10/29/2016	@ Florida Tech		Florida Tech		false		false	-								
+2017	12424	734	Valdosta St.	11/05/2016	@ West Ala.		West Ala.		false		false	-								
+2017	12424	734	Valdosta St.	11/12/2016	Shorter		Shorter		false		true	-								
+2017	12424	743	Virginia St.	09/03/2016	@ Lenoir-Rhyne	1170	Lenoir-Rhyne	http://stats.ncaa.org/team/1170/12424	false		false	W 34 - 9	true	34 - 9	34	9	false		virginia-st-lenoir-rhyne#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/virginia-st-lenoir-rhyne#boxscore
+2017	12424	743	Virginia St.	09/10/2016	Tusculum		Tusculum		false		true	-								
+2017	12424	743	Virginia St.	09/17/2016	@ Kentucky St.		Kentucky St.		false		false	-								
+2017	12424	743	Virginia St.	09/24/2016	@ Winston-Salem		Winston-Salem		false		false	-								
+2017	12424	743	Virginia St.	10/01/2016	Livingstone		Livingstone		false		true	-								
+2017	12424	743	Virginia St.	10/08/2016	Elizabeth City St.		Elizabeth City St.		false		true	-								
+2017	12424	743	Virginia St.	10/15/2016	@ Bowie St.		Bowie St.		false		false	-								
+2017	12424	743	Virginia St.	10/22/2016	Lincoln (PA)		Lincoln (PA)		false		true	-								
+2017	12424	743	Virginia St.	10/29/2016	Chowan		Chowan		false		true	-								
+2017	12424	743	Virginia St.	11/05/2016	@ Virginia Union		Virginia Union		false		false	-								
+2017	12424	744	Virginia Union	09/03/2016	LIU Post	362	LIU Post	http://stats.ncaa.org/team/362/12424	false		true	L 12 - 14	false	12 - 14	12	14	false		liu-post-virginia-union#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/liu-post-virginia-union#boxscore
+2017	12424	744	Virginia Union	09/10/2016	@ Newberry		Newberry		false		false	-								
+2017	12424	744	Virginia Union	09/17/2016	@ Winston-Salem		Winston-Salem		false		false	-								
+2017	12424	744	Virginia Union	09/24/2016	@ Fayetteville St.		Fayetteville St.		false		false	-								
+2017	12424	744	Virginia Union	10/01/2016	Saint Augustine's		Saint Augustine's		false		true	-								
+2017	12424	744	Virginia Union	10/08/2016	Lincoln (PA)		Lincoln (PA)		false		true	-								
+2017	12424	744	Virginia Union	10/15/2016	@ Chowan		Chowan		false		false	-								
+2017	12424	744	Virginia Union	10/22/2016	Bowie St.		Bowie St.		false		true	-								
+2017	12424	744	Virginia Union	10/29/2016	@ Elizabeth City St.		Elizabeth City St.		false		false	-								
+2017	12424	744	Virginia Union	11/05/2016	Virginia St.		Virginia St.		false		true	-								
+2017	12424	30141	Walsh	09/03/2016	@ Michigan Tech	417	Michigan Tech	http://stats.ncaa.org/team/417/12424	false		false	L 7 - 33	false	7 - 33	7	33	false		walsh-michigan-tech#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/walsh-michigan-tech#boxscore
+2017	12424	30141	Walsh	09/10/2016	@ Hillsdale		Hillsdale		false		false	-								
+2017	12424	30141	Walsh	09/17/2016	Saginaw Valley		Saginaw Valley		false		true	-								
+2017	12424	30141	Walsh	09/24/2016	Grand Valley St.		Grand Valley St.		false		true	-								
+2017	12424	30141	Walsh	10/01/2016	@ Northern Mich.		Northern Mich.		false		false	-								
+2017	12424	30141	Walsh	10/08/2016	Tiffin		Tiffin		false		true	-								
+2017	12424	30141	Walsh	10/15/2016	@ Wayne St. (MI)		Wayne St. (MI)		false		false	-								
+2017	12424	30141	Walsh	10/22/2016	Malone		Malone		false		true	-								
+2017	12424	30141	Walsh	10/29/2016	Ohio Dominican		Ohio Dominican		false		true	-								
+2017	12424	30141	Walsh	11/05/2016	@ Ashland		Ashland		false		false	-								
+2017	12424	30141	Walsh	11/12/2016	Northwood		Northwood		false		true	-								
+2017	12424	2814	Washburn	09/01/2016	Northeastern St.	12810	Northeastern St.	http://stats.ncaa.org/team/12810/12424	false		true	W 38 - 19	true	38 - 19	38	19	false		northeastern-st-washburn#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/northeastern-st-washburn#boxscore
+2017	12424	2814	Washburn	09/08/2016	@ Northwest Mo. St.		Northwest Mo. St.		false		false	-								
+2017	12424	2814	Washburn	09/17/2016	Lindenwood (MO)		Lindenwood (MO)		false		true	-								
+2017	12424	2814	Washburn	09/24/2016	@ Neb.-Kearney		Neb.-Kearney		false		false	-								
+2017	12424	2814	Washburn	10/01/2016	Pittsburg St.		Pittsburg St.		false		true	-								
+2017	12424	2814	Washburn	10/08/2016	@ Mo. Southern St.		Mo. Southern St.		false		false	-								
+2017	12424	2814	Washburn	10/15/2016	Fort Hays St.		Fort Hays St.		false		true	-								
+2017	12424	2814	Washburn	10/22/2016	@ Central Mo.		Central Mo.		false		false	-								
+2017	12424	2814	Washburn	10/29/2016	Mo. Western St.		Mo. Western St.		false		true	-								
+2017	12424	2814	Washburn	11/05/2016	@ Central Okla.		Central Okla.		false		false	-								
+2017	12424	2814	Washburn	11/12/2016	Emporia St.		Emporia St.		false		true	-								
+2017	12424	757	Wayne St. (MI)	09/03/2016	@ Northwood	510	Northwood	http://stats.ncaa.org/team/510/12424	false		false	W 28 - 3	true	28 - 3	28	3	false		wayne-st-mi-northwood#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/wayne-st-mi-northwood#boxscore
+2017	12424	757	Wayne St. (MI)	09/10/2016	@ Ashland		Ashland		false		false	-								
+2017	12424	757	Wayne St. (MI)	09/17/2016	Lake Erie		Lake Erie		false		true	-								
+2017	12424	757	Wayne St. (MI)	09/24/2016	Tiffin		Tiffin		false		true	-								
+2017	12424	757	Wayne St. (MI)	10/01/2016	Hillsdale		Hillsdale		false		true	-								
+2017	12424	757	Wayne St. (MI)	10/08/2016	@ Findlay		Findlay		false		false	-								
+2017	12424	757	Wayne St. (MI)	10/15/2016	Walsh		Walsh		false		true	-								
+2017	12424	757	Wayne St. (MI)	10/22/2016	Saginaw Valley		Saginaw Valley		false		true	-								
+2017	12424	757	Wayne St. (MI)	10/29/2016	@ Ferris St.		Ferris St.		false		false	-								
+2017	12424	757	Wayne St. (MI)	11/05/2016	@ Ohio Dominican		Ohio Dominican		false		false	-								
+2017	12424	757	Wayne St. (MI)	11/12/2016	Grand Valley St.		Grand Valley St.		false		true	-								
+2017	12424	1433	Wayne St. (NE)	09/01/2016	@ MSU Moorhead	1240	MSU Moorhead	http://stats.ncaa.org/team/1240/12424	false		false	L 24 - 41	false	24 - 41	24	41	false		wayne-st-ne-msu-moorhead#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/wayne-st-ne-msu-moorhead#boxscore
+2017	12424	1433	Wayne St. (NE)	09/10/2016	Minot St.		Minot St.		false		true	-								
+2017	12424	1433	Wayne St. (NE)	09/17/2016	@ Bemidji St.		Bemidji St.		false		false	-								
+2017	12424	1433	Wayne St. (NE)	09/24/2016	St. Cloud St.		St. Cloud St.		false		true	-								
+2017	12424	1433	Wayne St. (NE)	10/01/2016	@ Concordia-St. Paul		Concordia-St. Paul		false		false	-								
+2017	12424	1433	Wayne St. (NE)	10/08/2016	Augustana (SD)		Augustana (SD)		false		true	-								
+2017	12424	1433	Wayne St. (NE)	10/15/2016	@ Southwest Minn. St.		Southwest Minn. St.		false		false	-								
+2017	12424	1433	Wayne St. (NE)	10/22/2016	Winona St.		Winona St.		false		true	-								
+2017	12424	1433	Wayne St. (NE)	10/29/2016	@ Upper Iowa		Upper Iowa		false		false	-								
+2017	12424	1433	Wayne St. (NE)	11/05/2016	Minnesota St.		Minnesota St.		false		true	-								
+2017	12424	1433	Wayne St. (NE)	11/12/2016	@ Sioux Falls		Sioux Falls		false		false	-								
+2017	12424	358	West Ala.	09/01/2016	@ North Greenville	9223	North Greenville	http://stats.ncaa.org/team/9223/12424	false		false	L 23 - 24	false	23 - 24	23	24	false		west-ala-north-greenville#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/west-ala-north-greenville#boxscore
+2017	12424	358	West Ala.	09/10/2016	@ SFA		SFA		false		false	-								
+2017	12424	358	West Ala.	09/17/2016	@ Mississippi Col.		Mississippi Col.		false		false	-								
+2017	12424	358	West Ala.	09/24/2016	North Ala.		North Ala.		false		true	-								
+2017	12424	358	West Ala.	09/29/2016	@ Shorter		Shorter		false		false	-								
+2017	12424	358	West Ala.	10/08/2016	Delta St.		Delta St.		false		true	-								
+2017	12424	358	West Ala.	10/15/2016	@ West Ga.		West Ga.		false		false	-								
+2017	12424	358	West Ala.	10/22/2016	Florida Tech		Florida Tech		false		true	-								
+2017	12424	358	West Ala.	10/29/2016	@ West Florida		West Florida		false		false	-								
+2017	12424	358	West Ala.	11/05/2016	Valdosta St.		Valdosta St.		false		true	-								
+2017	12424	358	West Ala.	11/12/2016	Malone		Malone		false		true	-								
+2017	12424	765	West Chester	09/03/2016	@ Bentley	56	Bentley	http://stats.ncaa.org/team/56/12424	false		false	W 31 - 24	true	31 - 24	31	24	false		west-chester-bentley#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/west-chester-bentley#boxscore
+2017	12424	765	West Chester	09/10/2016	Slippery Rock		Slippery Rock		false		true	-								
+2017	12424	765	West Chester	09/17/2016	@ Edinboro		Edinboro		false		false	-								
+2017	12424	765	West Chester	09/24/2016	Lock Haven		Lock Haven		false		true	-								
+2017	12424	765	West Chester	10/01/2016	@ Kutztown		Kutztown		false		false	-								
+2017	12424	765	West Chester	10/08/2016	Shippensburg		Shippensburg		false		true	-								
+2017	12424	765	West Chester	10/15/2016	@ Bloomsburg		Bloomsburg		false		false	-								
+2017	12424	765	West Chester	10/22/2016	Cheyney		Cheyney		false		true	-								
+2017	12424	765	West Chester	10/29/2016	@ East Stroudsburg		East Stroudsburg		false		false	-								
+2017	12424	765	West Chester	11/05/2016	Millersville		Millersville		false		true	-								
+2017	12424	765	West Chester	11/12/2016	@ Clarion		Clarion		false		false	-								
+2017	12424	11740	West Florida	09/03/2016	@ Ave Maria		Ave Maria		false		false	-								
+2017	12424	11740	West Florida	09/10/2016	Missouri S&T		Missouri S&T		false		true	-								
+2017	12424	11740	West Florida	09/17/2016	@ Chowan		Chowan		false		false	-								
+2017	12424	11740	West Florida	09/24/2016	@ Valdosta St.		Valdosta St.		false		false	-								
+2017	12424	11740	West Florida	10/01/2016	Florida Tech		Florida Tech		false		true	-								
+2017	12424	11740	West Florida	10/08/2016	@ Mississippi Col.		Mississippi Col.		false		false	-								
+2017	12424	11740	West Florida	10/15/2016	@ Delta St.		Delta St.		false		false	-								
+2017	12424	11740	West Florida	10/22/2016	Shorter		Shorter		false		true	-								
+2017	12424	11740	West Florida	10/29/2016	West Ala.		West Ala.		false		true	-								
+2017	12424	11740	West Florida	11/05/2016	@ North Ala.		North Ala.		false		false	-								
+2017	12424	11740	West Florida	11/12/2016	West Ga.		West Ga.		false		true	-								
+2017	12424	766	West Ga.	09/03/2016	Catawba	1001	Catawba	http://stats.ncaa.org/team/1001/12424	false		true	-								
+2017	12424	766	West Ga.	09/10/2016	@ Miles		Miles		false		false	-								
+2017	12424	766	West Ga.	09/17/2016	Delta St.		Delta St.		false		true	-								
+2017	12424	766	West Ga.	09/24/2016	@ Albany St. (GA)		Albany St. (GA)		false		false	-								
+2017	12424	766	West Ga.	10/01/2016	@ North Ala.		North Ala.		false		false	-								
+2017	12424	766	West Ga.	10/08/2016	@ Valdosta St.		Valdosta St.		false		false	-								
+2017	12424	766	West Ga.	10/15/2016	West Ala.		West Ala.		false		true	-								
+2017	12424	766	West Ga.	10/22/2016	Mississippi Col.		Mississippi Col.		false		true	-								
+2017	12424	766	West Ga.	10/29/2016	@ Shorter		Shorter		false		false	-								
+2017	12424	766	West Ga.	11/05/2016	Florida Tech		Florida Tech		false		true	-								
+2017	12424	766	West Ga.	11/12/2016	@ West Florida		West Florida		false		false	-								
+2017	12424	1438	West Liberty	09/03/2016	@ Concord		Concord		false		false	-								
+2017	12424	1438	West Liberty	09/10/2016	@ McKendree		McKendree		false		false	-								
+2017	12424	1438	West Liberty	09/15/2016	Fairmont St.		Fairmont St.		false		true	-								
+2017	12424	1438	West Liberty	09/24/2016	@ Urbana		Urbana		false		false	-								
+2017	12424	1438	West Liberty	09/29/2016	West Va. Wesleyan		West Va. Wesleyan		false		true	-								
+2017	12424	1438	West Liberty	10/08/2016	@ Charleston (WV)		Charleston (WV)		false		false	-								
+2017	12424	1438	West Liberty	10/15/2016	UVa-Wise		UVa-Wise		false		true	-								
+2017	12424	1438	West Liberty	10/22/2016	@ Notre Dame (OH)		Notre Dame (OH)		false		false	-								
+2017	12424	1438	West Liberty	10/29/2016	Shepherd		Shepherd		false		true	-								
+2017	12424	1438	West Liberty	11/03/2016	@ Glenville St.		Glenville St.		false		false	-								
+2017	12424	1438	West Liberty	11/12/2016	West Virginia St.		West Virginia St.		false		true	-								
+2017	12424	767	West Tex. A&M	09/01/2016	@ Azusa Pacific	30146	Azusa Pacific	http://stats.ncaa.org/team/30146/12424	false		false	L 10 - 28	false	10 - 28	10	28	false		west-tex-am-azusa-pacific#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/west-tex-am-azusa-pacific#boxscore
+2017	12424	767	West Tex. A&M	09/10/2016	@ Colorado St.-Pueblo		Colorado St.-Pueblo		false		false	-								
+2017	12424	767	West Tex. A&M	09/17/2016	@ Tex. Permian Basin		Tex. Permian Basin		false		false	-								
+2017	12424	767	West Tex. A&M	09/24/2016	Tarleton St.		Tarleton St.		false		true	-								
+2017	12424	767	West Tex. A&M	10/01/2016	@ Eastern N.M.		Eastern N.M.		false		false	-								
+2017	12424	767	West Tex. A&M	10/08/2016	Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		true	-								
+2017	12424	767	West Tex. A&M	10/15/2016	@ Okla. Panhandle		Okla. Panhandle		false		false	-								
+2017	12424	767	West Tex. A&M	10/22/2016	Midwestern St.		Midwestern St.		false		true	-								
+2017	12424	767	West Tex. A&M	10/29/2016	@ Tex. A&M-Commerce		Tex. A&M-Commerce		false		false	-								
+2017	12424	767	West Tex. A&M	11/05/2016	Angelo St.		Angelo St.		false		true	-								
+2017	12424	767	West Tex. A&M	11/12/2016	@ Western N.M.		Western N.M.		false		false	-								
+2017	12424	9630	West Va. Wesleyan	09/03/2016	@ Shepherd	10870	Shepherd	http://stats.ncaa.org/team/10870/12424	false		false	L 12 - 27	false	12 - 27	12	27	false		west-va-wesleyan-shepherd#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/west-va-wesleyan-shepherd#boxscore
+2017	12424	9630	West Va. Wesleyan	09/10/2016	Glenville St.		Glenville St.		false		true	-								
+2017	12424	9630	West Va. Wesleyan	09/17/2016	@ West Virginia St.		West Virginia St.		false		false	-								
+2017	12424	9630	West Va. Wesleyan	09/24/2016	Concord		Concord		false		true	-								
+2017	12424	9630	West Va. Wesleyan	09/29/2016	@ West Liberty		West Liberty		false		false	-								
+2017	12424	9630	West Va. Wesleyan	10/08/2016	Fairmont St.		Fairmont St.		false		true	-								
+2017	12424	9630	West Va. Wesleyan	10/15/2016	@ Urbana		Urbana		false		false	-								
+2017	12424	9630	West Va. Wesleyan	10/20/2016	@ ETSU		ETSU		false		false	-								
+2017	12424	9630	West Va. Wesleyan	10/29/2016	Charleston (WV)		Charleston (WV)		false		true	-								
+2017	12424	9630	West Va. Wesleyan	11/05/2016	@ UVa-Wise		UVa-Wise		false		false	-								
+2017	12424	9630	West Va. Wesleyan	11/12/2016	Notre Dame (OH)		Notre Dame (OH)		false		true	-								
+2017	12424	1439	West Virginia St.	09/03/2016	Fairmont St.	1076	Fairmont St.	http://stats.ncaa.org/team/1076/12424	false		true	L 20 - 30	false	20 - 30	20	30	false		fairmont-st-west-virginia-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/fairmont-st-west-virginia-st#boxscore
+2017	12424	1439	West Virginia St.	09/10/2016	@ Urbana		Urbana		false		false	-								
+2017	12424	1439	West Virginia St.	09/17/2016	West Va. Wesleyan		West Va. Wesleyan		false		true	-								
+2017	12424	1439	West Virginia St.	09/22/2016	@ Charleston (WV)		Charleston (WV)		false		false	-								
+2017	12424	1439	West Virginia St.	10/01/2016	UVa-Wise		UVa-Wise		false		true	-								
+2017	12424	1439	West Virginia St.	10/08/2016	@ Notre Dame (OH)		Notre Dame (OH)		false		false	-								
+2017	12424	1439	West Virginia St.	10/15/2016	Shepherd		Shepherd		false		true	-								
+2017	12424	1439	West Virginia St.	10/22/2016	@ Glenville St.		Glenville St.		false		false	-								
+2017	12424	1439	West Virginia St.	10/29/2016	UNC Pembroke		UNC Pembroke		false		true	-								
+2017	12424	1439	West Virginia St.	11/05/2016	Concord		Concord		false		true	-								
+2017	12424	1439	West Virginia St.	11/12/2016	@ West Liberty		West Liberty		false		false	-								
+2017	12424	1445	Western N.M.	09/03/2016	@ San Diego	627	San Diego	http://stats.ncaa.org/team/627/12424	false		false	L 0 - 27	false	0 - 27	0	27	false		western-nm-san-diego#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/western-nm-san-diego#boxscore
+2017	12424	1445	Western N.M.	09/10/2016	@ Eastern N.M.		Eastern N.M.		false		false	-								
+2017	12424	1445	Western N.M.	09/17/2016	Okla. Panhandle		Okla. Panhandle		false		true	-								
+2017	12424	1445	Western N.M.	09/24/2016	@ Tex. Permian Basin		Tex. Permian Basin		false		false	-								
+2017	12424	1445	Western N.M.	10/01/2016	Midwestern St.		Midwestern St.		false		true	-								
+2017	12424	1445	Western N.M.	10/08/2016	@ Tarleton St.		Tarleton St.		false		false	-								
+2017	12424	1445	Western N.M.	10/15/2016	Tex. A&M-Commerce		Tex. A&M-Commerce		false		true	-								
+2017	12424	1445	Western N.M.	10/22/2016	@ Fort Lewis		Fort Lewis		false		false	-								
+2017	12424	1445	Western N.M.	10/29/2016	Angelo St.		Angelo St.		false		true	-								
+2017	12424	1445	Western N.M.	11/05/2016	@ Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		false	-								
+2017	12424	1445	Western N.M.	11/12/2016	West Tex. A&M		West Tex. A&M		false		true	-								
+2017	12424	1446	Western Ore.	09/03/2016	@ Sacramento St.	102	Sacramento St.	http://stats.ncaa.org/team/102/12424	false		false	W 38 - 30	true	38 - 30	38	30	false		western-ore-sacramento-st#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/western-ore-sacramento-st#boxscore
+2017	12424	1446	Western Ore.	09/10/2016	Central Wash.		Central Wash.		false		true	-								
+2017	12424	1446	Western Ore.	09/17/2016	@ Montana St.		Montana St.		false		false	-								
+2017	12424	1446	Western Ore.	09/24/2016	@ Humboldt St.		Humboldt St.		false		false	-								
+2017	12424	1446	Western Ore.	10/01/2016	Azusa Pacific		Azusa Pacific		false		true	-								
+2017	12424	1446	Western Ore.	10/08/2016	Simon Fraser		Simon Fraser		false		true	-								
+2017	12424	1446	Western Ore.	10/15/2016	@ Central Wash.		Central Wash.		false		false	-								
+2017	12424	1446	Western Ore.	10/22/2016	Humboldt St.		Humboldt St.		false		true	-								
+2017	12424	1446	Western Ore.	11/05/2016	@ Azusa Pacific		Azusa Pacific		false		false	-								
+2017	12424	1446	Western Ore.	11/12/2016	@ Simon Fraser		Simon Fraser		false		false	-								
+2017	12424	2759	Western St.	09/03/2016	Colorado Mesa	11416	Colorado Mesa	http://stats.ncaa.org/team/11416/12424	false		true	L 14 - 34	false	14 - 34	14	34	false		colorado-mesa-western-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/colorado-mesa-western-st#boxscore
+2017	12424	2759	Western St.	09/10/2016	Adams St.		Adams St.		false		true	-								
+2017	12424	2759	Western St.	09/17/2016	@ Chadron St.		Chadron St.		false		false	-								
+2017	12424	2759	Western St.	09/24/2016	Colorado Mines		Colorado Mines		false		true	-								
+2017	12424	2759	Western St.	10/01/2016	@ Dixie St.		Dixie St.		false		false	-								
+2017	12424	2759	Western St.	10/08/2016	@ Fort Lewis		Fort Lewis		false		false	-								
+2017	12424	2759	Western St.	10/15/2016	Black Hills St.		Black Hills St.		false		true	-								
+2017	12424	2759	Western St.	10/22/2016	@ N.M. Highlands		N.M. Highlands		false		false	-								
+2017	12424	2759	Western St.	10/29/2016	Colorado St.-Pueblo		Colorado St.-Pueblo		false		true	-								
+2017	12424	2759	Western St.	11/05/2016	@ Humboldt St.		Humboldt St.		false		false	-								
+2017	12424	2759	Western St.	11/12/2016	@ South Dakota Mines		South Dakota Mines		false		false	-								
+2017	12424	30120	William Jewell	09/03/2016	@ South Dakota Mines	30139	South Dakota Mines	http://stats.ncaa.org/team/30139/12424	false		false	L 41 - 64	false	41 - 64	41	64	false		william-jewell-south-dakota-mines#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/william-jewell-south-dakota-mines#boxscore
+2017	12424	30120	William Jewell	09/10/2016	Doane		Doane		false		true	-								
+2017	12424	30120	William Jewell	09/17/2016	St. Joseph's (IN)		St. Joseph's (IN)		false		true	-								
+2017	12424	30120	William Jewell	09/24/2016	@ McKendree		McKendree		false		false	-								
+2017	12424	30120	William Jewell	10/01/2016	@ Missouri S&T		Missouri S&T		false		false	-								
+2017	12424	30120	William Jewell	10/08/2016	Quincy		Quincy		false		true	-								
+2017	12424	30120	William Jewell	10/15/2016	Southwest Baptist		Southwest Baptist		false		true	-								
+2017	12424	30120	William Jewell	10/22/2016	@ Truman		Truman		false		false	-								
+2017	12424	30120	William Jewell	10/29/2016	@ UIndy		UIndy		false		false	-								
+2017	12424	30120	William Jewell	11/05/2016	Lincoln (MO)		Lincoln (MO)		false		true	-								
+2017	12424	1462	Wingate	09/03/2016	Johnson C. Smith	323	Johnson C. Smith	http://stats.ncaa.org/team/323/12424	false		true	-								
+2017	12424	1462	Wingate	09/10/2016	Shaw		Shaw		false		true	-								
+2017	12424	1462	Wingate	09/17/2016	@ Brevard		Brevard		false		false	-								
+2017	12424	1462	Wingate	09/24/2016	Catawba		Catawba		false		true	-								
+2017	12424	1462	Wingate	10/01/2016	@ Limestone		Limestone		false		false	-								
+2017	12424	1462	Wingate	10/08/2016	Tusculum		Tusculum		false		true	-								
+2017	12424	1462	Wingate	10/15/2016	Lenoir-Rhyne		Lenoir-Rhyne		false		true	-								
+2017	12424	1462	Wingate	10/22/2016	@ Carson-Newman		Carson-Newman		false		false	-								
+2017	12424	1462	Wingate	10/29/2016	@ North Greenville		North Greenville		false		false	-								
+2017	12424	1462	Wingate	11/05/2016	Mars Hill		Mars Hill		false		true	-								
+2017	12424	1462	Wingate	11/12/2016	@ Newberry		Newberry		false		false	-								
+2017	12424	790	Winona St.	09/01/2016	Minn.-Crookston	27854	Minn.-Crookston	http://stats.ncaa.org/team/27854/12424	false		true	W 68 - 0	true	68 - 0	68	0	false		minn-crookston-winona-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/minn-crookston-winona-st#boxscore
+2017	12424	790	Winona St.	09/10/2016	@ Minn. Duluth		Minn. Duluth		false		false	-								
+2017	12424	790	Winona St.	09/17/2016	Northern St.		Northern St.		false		true	-								
+2017	12424	790	Winona St.	09/24/2016	@ Mary		Mary		false		false	-								
+2017	12424	790	Winona St.	10/01/2016	Minnesota St.		Minnesota St.		false		true	-								
+2017	12424	790	Winona St.	10/08/2016	@ Upper Iowa		Upper Iowa		false		false	-								
+2017	12424	790	Winona St.	10/15/2016	Sioux Falls		Sioux Falls		false		true	-								
+2017	12424	790	Winona St.	10/22/2016	@ Wayne St. (NE)		Wayne St. (NE)		false		false	-								
+2017	12424	790	Winona St.	10/29/2016	@ Augustana (SD)		Augustana (SD)		false		false	-								
+2017	12424	790	Winona St.	11/05/2016	Southwest Minn. St.		Southwest Minn. St.		false		true	-								
+2017	12424	790	Winona St.	11/12/2016	Concordia-St. Paul		Concordia-St. Paul		false		true	-								
+2017	12424	791	Winston-Salem	09/03/2016	UNC Pembroke	537	UNC Pembroke	http://stats.ncaa.org/team/537/12424	false		true	L 17 - 20	false	17 - 20	17	20	false		unc-pembroke-winston-salem#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/unc-pembroke-winston-salem#boxscore
+2017	12424	791	Winston-Salem	09/10/2016	@ Catawba		Catawba		false		false	-								
+2017	12424	791	Winston-Salem	09/17/2016	Virginia Union		Virginia Union		false		true	-								
+2017	12424	791	Winston-Salem	09/24/2016	Virginia St.		Virginia St.		false		true	-								
+2017	12424	791	Winston-Salem	10/01/2016	@ Lincoln (PA)		Lincoln (PA)		false		false	-								
+2017	12424	791	Winston-Salem	10/08/2016	@ Johnson C. Smith		Johnson C. Smith		false		false	-								
+2017	12424	791	Winston-Salem	10/15/2016	Saint Augustine's		Saint Augustine's		false		true	-								
+2017	12424	791	Winston-Salem	10/22/2016	Livingstone		Livingstone		false		true	-								
+2017	12424	791	Winston-Salem	10/29/2016	@ Shaw		Shaw		false		false	-								
+2017	12424	791	Winston-Salem	11/05/2016	@ Fayetteville St.		Fayetteville St.		false		false	-								
