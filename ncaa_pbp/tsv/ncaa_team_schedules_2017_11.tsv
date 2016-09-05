@@ -23,7 +23,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	5	Akron	11/02/2016	Toledo		Toledo		false		true	-								
 2017	12424	5	Akron	11/09/2016	Bowling Green		Bowling Green		false		true	-								
 2017	12424	5	Akron	11/22/2016	@ Ohio		Ohio		false		false	-								
-2017	12424	8	Alabama	09/03/2016	Southern California @ Arlington, Texas	657	Southern California	http://stats.ncaa.org/team/657/12424	true	Arlington, Texas	true	W 52 - 6	true	52 - 6	52	6	false		southern-california-alabama#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/03/southern-california-alabama#boxscore
+2017	12424	8	Alabama	09/03/2016	Southern California	657	Southern California	http://stats.ncaa.org/team/657/12424	false		true	-								
 2017	12424	8	Alabama	09/10/2016	Western Ky.		Western Ky.		false		true	-								
 2017	12424	8	Alabama	09/17/2016	@ Ole Miss		Ole Miss		false		false	-								
 2017	12424	8	Alabama	09/24/2016	Kent St.		Kent St.		false		true	-								
@@ -59,7 +59,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	29	Arizona	11/12/2016	Colorado		Colorado		false		true	-								
 2017	12424	29	Arizona	11/19/2016	@ Oregon St.		Oregon St.		false		false	-								
 2017	12424	29	Arizona	11/25/2016	Arizona St.		Arizona St.		false		true	-								
-2017	12424	28	Arizona St.	09/03/2016	@ Northern Ariz.		Northern Ariz.		false		false	-								
+2017	12424	28	Arizona St.	09/03/2016	Northern Ariz.	501	Northern Ariz.	http://stats.ncaa.org/team/501/12424	false		true	W 44 - 13	true	44 - 13	44	13	false		northern-ariz-arizona-st#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/03/northern-ariz-arizona-st#boxscore
 2017	12424	28	Arizona St.	09/10/2016	Texas Tech		Texas Tech		false		true	-								
 2017	12424	28	Arizona St.	09/16/2016	@ UTSA		UTSA		false		false	-								
 2017	12424	28	Arizona St.	09/24/2016	California		California		false		true	-								
@@ -864,8 +864,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	497	North Texas	11/12/2016	@ Western Ky.		Western Ky.		false		false	-								
 2017	12424	497	North Texas	11/19/2016	Southern Miss.		Southern Miss.		false		true	-								
 2017	12424	497	North Texas	11/26/2016	@ UTEP		UTEP		false		false	-								
-2017	12424	503	Northern Ill.	09/03/2016	@ Wyoming		Wyoming		false		false	-								
-2017	12424	503	Northern Ill.	09/03/2016	@ Wyoming		Wyoming		false		false	-								
+2017	12424	503	Northern Ill.	09/03/2016	@ Wyoming	811	Wyoming	http://stats.ncaa.org/team/811/12424	false		false	L 34 - 40 (1OT)	false	34 - 40	34	40	true	1OT	northern-ill-wyoming#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/03/northern-ill-wyoming#boxscore
 2017	12424	503	Northern Ill.	09/10/2016	@ South Fla.		South Fla.		false		false	-								
 2017	12424	503	Northern Ill.	09/17/2016	San Diego St.		San Diego St.		false		true	-								
 2017	12424	503	Northern Ill.	09/24/2016	Western Ill.		Western Ill.		false		true	-								
@@ -889,7 +888,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	509	Northwestern	11/12/2016	@ Purdue		Purdue		false		false	-								
 2017	12424	509	Northwestern	11/26/2016	Illinois		Illinois		false		true	-								
 2017	12424	509	Northwestern	11/29/2016	@ Minnesota		Minnesota		false		false	-								
-2017	12424	513	Notre Dame	09/04/2016	@ Texas		Texas		false		false	-								
+2017	12424	513	Notre Dame	09/04/2016	Texas	703	Texas	http://stats.ncaa.org/team/703/12424	false		true	-								
 2017	12424	513	Notre Dame	09/10/2016	Nevada		Nevada		false		true	-								
 2017	12424	513	Notre Dame	09/17/2016	Michigan St.		Michigan St.		false		true	-								
 2017	12424	513	Notre Dame	09/24/2016	Duke		Duke		false		true	-								
@@ -937,7 +936,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	522	Oklahoma	11/12/2016	Baylor		Baylor		false		true	-								
 2017	12424	522	Oklahoma	11/19/2016	@ West Virginia		West Virginia		false		false	-								
 2017	12424	522	Oklahoma	12/03/2016	Oklahoma St.		Oklahoma St.		false		true	-								
-2017	12424	521	Oklahoma St.	09/03/2016	Southeastern La.	655	Southeastern La.	http://stats.ncaa.org/team/655/12424	false		true	W 61 - 7	true	61 - 7	61	7	false		southeastern-la-oklahoma-st#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/03/southeastern-la-oklahoma-st#boxscore
+2017	12424	521	Oklahoma St.	09/03/2016	Southeastern La.	655	Southeastern La.	http://stats.ncaa.org/team/655/12424	false		true	-								
 2017	12424	521	Oklahoma St.	09/10/2016	Central Mich.		Central Mich.		false		true	-								
 2017	12424	521	Oklahoma St.	09/17/2016	Pittsburgh		Pittsburgh		false		true	-								
 2017	12424	521	Oklahoma St.	09/24/2016	@ Baylor		Baylor		false		false	-								
@@ -949,7 +948,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	521	Oklahoma St.	11/12/2016	Texas Tech		Texas Tech		false		true	-								
 2017	12424	521	Oklahoma St.	11/19/2016	@ TCU		TCU		false		false	-								
 2017	12424	521	Oklahoma St.	12/03/2016	@ Oklahoma		Oklahoma		false		false	-								
-2017	12424	523	Old Dominion	09/04/2016	Hampton		Hampton		false		true	-								
+2017	12424	523	Old Dominion	09/04/2016	Hampton	270	Hampton	http://stats.ncaa.org/team/270/12424	false		true	W 54 - 21	true	54 - 21	54	21	false		hampton-old-dominion#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/04/hampton-old-dominion#boxscore
 2017	12424	523	Old Dominion	09/10/2016	@ Appalachian St.		Appalachian St.		false		false	-								
 2017	12424	523	Old Dominion	09/17/2016	@ North Carolina St.		North Carolina St.		false		false	-								
 2017	12424	523	Old Dominion	09/24/2016	UTSA		UTSA		false		true	-								
@@ -1129,7 +1128,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	651	South Fla.	11/12/2016	@ Memphis		Memphis		false		false	-								
 2017	12424	651	South Fla.	11/19/2016	@ SMU		SMU		false		false	-								
 2017	12424	651	South Fla.	11/26/2016	UCF		UCF		false		true	-								
-2017	12424	657	Southern California	09/03/2016	Alabama @ Arlington, Texas	8	Alabama	http://stats.ncaa.org/team/8/12424	true	Arlington, Texas	true	L 6 - 52	false	6 - 52	6	52	false		southern-california-alabama#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/03/southern-california-alabama#boxscore
+2017	12424	657	Southern California	09/03/2016	Alabama	8	Alabama	http://stats.ncaa.org/team/8/12424	false		true	-								
 2017	12424	657	Southern California	09/10/2016	Utah St.		Utah St.		false		true	-								
 2017	12424	657	Southern California	09/17/2016	@ Stanford		Stanford		false		false	-								
 2017	12424	657	Southern California	09/23/2016	@ Utah		Utah		false		false	-								
@@ -1213,7 +1212,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	694	Tennessee	11/12/2016	Kentucky		Kentucky		false		true	-								
 2017	12424	694	Tennessee	11/19/2016	Missouri		Missouri		false		true	-								
 2017	12424	694	Tennessee	11/26/2016	@ Vanderbilt		Vanderbilt		false		false	-								
-2017	12424	703	Texas	09/04/2016	Notre Dame		Notre Dame		false		true	-								
+2017	12424	703	Texas	09/04/2016	Notre Dame	513	Notre Dame	http://stats.ncaa.org/team/513/12424	false		true	-								
 2017	12424	703	Texas	09/10/2016	UTEP		UTEP		false		true	-								
 2017	12424	703	Texas	09/17/2016	@ California		California		false		false	-								
 2017	12424	703	Texas	10/01/2016	@ Oklahoma St.		Oklahoma St.		false		false	-								
@@ -1249,7 +1248,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	670	Texas St.	11/19/2016	@ New Mexico St.		New Mexico St.		false		false	-								
 2017	12424	670	Texas St.	11/26/2016	Troy		Troy		false		true	-								
 2017	12424	670	Texas St.	12/03/2016	Arkansas St.		Arkansas St.		false		true	-								
-2017	12424	700	Texas Tech	09/03/2016	@ SFA		SFA		false		false	-								
+2017	12424	700	Texas Tech	09/03/2016	SFA	676	SFA	http://stats.ncaa.org/team/676/12424	false		true	W 69 - 17	true	69 - 17	69	17	false		sfa-texas-tech#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/03/sfa-texas-tech#boxscore
 2017	12424	700	Texas Tech	09/10/2016	@ Arizona St.		Arizona St.		false		false	-								
 2017	12424	700	Texas Tech	09/17/2016	Louisiana Tech		Louisiana Tech		false		true	-								
 2017	12424	700	Texas Tech	09/29/2016	Kansas		Kansas		false		true	-								
@@ -1537,8 +1536,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	796	Wisconsin	11/12/2016	Illinois		Illinois		false		true	-								
 2017	12424	796	Wisconsin	11/19/2016	@ Purdue		Purdue		false		false	-								
 2017	12424	796	Wisconsin	11/26/2016	Minnesota		Minnesota		false		true	-								
-2017	12424	811	Wyoming	09/03/2016	@ Northern Ill.		Northern Ill.		false		false	-								
-2017	12424	811	Wyoming	09/03/2016	@ Northern Ill.		Northern Ill.		false		false	-								
+2017	12424	811	Wyoming	09/03/2016	Northern Ill.	503	Northern Ill.	http://stats.ncaa.org/team/503/12424	false		true	W 40 - 34 (1OT)	true	40 - 34	40	34	true	1OT	northern-ill-wyoming#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/03/northern-ill-wyoming#boxscore
 2017	12424	811	Wyoming	09/10/2016	@ Nebraska		Nebraska		false		false	-								
 2017	12424	811	Wyoming	09/17/2016	UC Davis		UC Davis		false		true	-								
 2017	12424	811	Wyoming	09/23/2016	@ Eastern Mich.		Eastern Mich.		false		false	-								

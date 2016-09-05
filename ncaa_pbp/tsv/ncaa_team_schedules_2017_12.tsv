@@ -43,7 +43,6 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	14	Albany (NY)	11/05/2016	Delaware		Delaware		false		true	-								
 2017	12424	14	Albany (NY)	11/12/2016	@ New Hampshire		New Hampshire		false		false	-								
 2017	12424	14	Albany (NY)	11/19/2016	Stony Brook		Stony Brook		false		true	-								
-2017	12424	17	Alcorn	09/04/2016	@ Bethune-Cookman		Bethune-Cookman		false		false	-								
 2017	12424	17	Alcorn	09/10/2016	Alabama St.		Alabama St.		false		true	-								
 2017	12424	17	Alcorn	09/15/2016	Ark.-Pine Bluff		Ark.-Pine Bluff		false		true	-								
 2017	12424	17	Alcorn	09/24/2016	@ Grambling		Grambling		false		false	-								
@@ -76,7 +75,6 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	43	Austin Peay	11/05/2016	Tennessee St.		Tennessee St.		false		true	-								
 2017	12424	43	Austin Peay	11/12/2016	Eastern Ky.		Eastern Ky.		false		true	-								
 2017	12424	43	Austin Peay	11/19/2016	@ Kentucky		Kentucky		false		false	-								
-2017	12424	61	Bethune-Cookman	09/04/2016	Alcorn		Alcorn		false		true	-								
 2017	12424	61	Bethune-Cookman	09/10/2016	@ North Texas		North Texas		false		false	-								
 2017	12424	61	Bethune-Cookman	09/17/2016	Tennessee St.		Tennessee St.		false		true	-								
 2017	12424	61	Bethune-Cookman	09/24/2016	@ Savannah St.		Savannah St.		false		false	-								
@@ -141,7 +139,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	90	Cal Poly	11/05/2016	Eastern Wash.		Eastern Wash.		false		true	-								
 2017	12424	90	Cal Poly	11/12/2016	@ Weber St.		Weber St.		false		false	-								
 2017	12424	90	Cal Poly	11/19/2016	Northern Colo.		Northern Colo.		false		true	-								
-2017	12424	115	Campbell	09/03/2016	Bluefield Col.		Bluefield Col.		false		true	-								
+2017	12424	115	Campbell	09/03/2016	Bluefield Col.		Bluefield Col.		false		true	W 59 - 7	true	59 - 7	59	7	false		bluefield-col-campbell#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/bluefield-col-campbell#boxscore
 2017	12424	115	Campbell	09/10/2016	@ Chowan		Chowan		false		false	-								
 2017	12424	115	Campbell	09/17/2016	Presbyterian		Presbyterian		false		true	-								
 2017	12424	115	Campbell	09/24/2016	Butler		Butler		false		true	-								
@@ -422,7 +420,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	261	Grambling	11/12/2016	Alabama St.		Alabama St.		false		true	-								
 2017	12424	261	Grambling	11/19/2016	@ Texas Southern		Texas Southern		false		false	-								
 2017	12424	261	Grambling	11/26/2016	Southern U.@New Orleans, LA		Southern U.New Orleans, LA		false		false	-								
-2017	12424	270	Hampton	09/04/2016	@ Old Dominion		Old Dominion		false		false	-								
+2017	12424	270	Hampton	09/04/2016	@ Old Dominion	523	Old Dominion	http://stats.ncaa.org/team/523/12424	false		false	L 21 - 54	false	21 - 54	21	54	false		hampton-old-dominion#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/04/hampton-old-dominion#boxscore
 2017	12424	270	Hampton	09/10/2016	William & Mary		William & Mary		false		true	-								
 2017	12424	270	Hampton	09/17/2016	Howard@Washington, DC		HowardWashington, DC		false		false	-								
 2017	12424	270	Hampton	09/29/2016	@ N.C. A&T		N.C. A&T		false		false	-								
@@ -795,7 +793,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	483	Nicholls St.	11/03/2016	Lamar University		Lamar University		false		true	-								
 2017	12424	483	Nicholls St.	11/12/2016	@ Central Ark.		Central Ark.		false		false	-								
 2017	12424	483	Nicholls St.	11/17/2016	Southeastern La.		Southeastern La.		false		true	-								
-2017	12424	485	Norfolk St.	09/04/2016	Elizabeth City St.		Elizabeth City St.		false		true	-								
+2017	12424	485	Norfolk St.	09/04/2016	Elizabeth City St.	210	Elizabeth City St.	http://stats.ncaa.org/team/210/12424	false		true	W 20 - 12	true	20 - 12	20	12	false		elizabeth-city-st-norfolk-st#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/04/elizabeth-city-st-norfolk-st#boxscore
 2017	12424	485	Norfolk St.	09/10/2016	@ Richmond		Richmond		false		false	-								
 2017	12424	485	Norfolk St.	09/17/2016	@ William & Mary		William & Mary		false		false	-								
 2017	12424	485	Norfolk St.	09/24/2016	N.C. Central		N.C. Central		false		true	-								
@@ -828,7 +826,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	493	North Dakota St.	11/05/2016	Youngstown St.		Youngstown St.		false		true	-								
 2017	12424	493	North Dakota St.	11/12/2016	Indiana St.		Indiana St.		false		true	-								
 2017	12424	493	North Dakota St.	11/19/2016	@ South Dakota		South Dakota		false		false	-								
-2017	12424	501	Northern Ariz.	09/03/2016	@ Arizona St.		Arizona St.		false		false	-								
+2017	12424	501	Northern Ariz.	09/03/2016	@ Arizona St.	28	Arizona St.	http://stats.ncaa.org/team/28/12424	false		false	L 13 - 44	false	13 - 44	13	44	false		northern-ariz-arizona-st#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/03/northern-ariz-arizona-st#boxscore
 2017	12424	501	Northern Ariz.	09/10/2016	@ Western Ill.		Western Ill.		false		false	-								
 2017	12424	501	Northern Ariz.	09/17/2016	N.M. Highlands		N.M. Highlands		false		true	-								
 2017	12424	501	Northern Ariz.	09/24/2016	Eastern Wash.		Eastern Wash.		false		true	-								
@@ -882,7 +880,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	550	Portland St.	11/05/2016	@ UC Davis		UC Davis		false		false	-								
 2017	12424	550	Portland St.	11/12/2016	@ Sacramento St.		Sacramento St.		false		false	-								
 2017	12424	550	Portland St.	11/18/2016	Eastern Wash.		Eastern Wash.		false		true	-								
-2017	12424	553	Prairie View	09/04/2016	Texas Southern		Texas Southern		false		true	-								
+2017	12424	553	Prairie View	09/04/2016	@ Texas Southern		Texas Southern		false		false	-								
 2017	12424	553	Prairie View	09/10/2016	@ Texas A&M		Texas A&M		false		false	-								
 2017	12424	553	Prairie View	09/17/2016	@ Alabama A&M		Alabama A&M		false		false	-								
 2017	12424	553	Prairie View	09/24/2016	@ Mississippi Val.		Mississippi Val.		false		false	-								
@@ -947,7 +945,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	579	Robert Morris	10/29/2016	Central Conn. St.		Central Conn. St.		false		true	-								
 2017	12424	579	Robert Morris	11/05/2016	@ Bryant		Bryant		false		false	-								
 2017	12424	579	Robert Morris	11/12/2016	Wagner		Wagner		false		true	-								
-2017	12424	676	SFA	09/03/2016	@ Texas Tech		Texas Tech		false		false	-								
+2017	12424	676	SFA	09/03/2016	@ Texas Tech	700	Texas Tech	http://stats.ncaa.org/team/700/12424	false		false	L 17 - 69	false	17 - 69	17	69	false		sfa-texas-tech#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/03/sfa-texas-tech#boxscore
 2017	12424	676	SFA	09/10/2016	West Ala.		West Ala.		false		true	-								
 2017	12424	676	SFA	09/17/2016	@ McNeese St.		McNeese St.		false		false	-								
 2017	12424	676	SFA	09/24/2016	Abilene Christian		Abilene Christian		false		true	-								
@@ -1077,7 +1075,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	654	Southeast Mo. St.	11/05/2016	Jacksonville St.		Jacksonville St.		false		true	-								
 2017	12424	654	Southeast Mo. St.	11/12/2016	@ UT Martin		UT Martin		false		false	-								
 2017	12424	654	Southeast Mo. St.	11/19/2016	Tennessee St.		Tennessee St.		false		true	-								
-2017	12424	655	Southeastern La.	09/03/2016	@ Oklahoma St.	521	Oklahoma St.	http://stats.ncaa.org/team/521/12424	false		false	L 7 - 61	false	7 - 61	7	61	false		southeastern-la-oklahoma-st#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/03/southeastern-la-oklahoma-st#boxscore
+2017	12424	655	Southeastern La.	09/03/2016	Oklahoma St.	521	Oklahoma St.	http://stats.ncaa.org/team/521/12424	false		true	-								
 2017	12424	655	Southeastern La.	09/10/2016	@ Southern Utah		Southern Utah		false		false	-								
 2017	12424	655	Southeastern La.	09/24/2016	Northwestern St.		Northwestern St.		false		true	-								
 2017	12424	655	Southeastern La.	10/01/2016	@ Lamar University		Lamar University		false		false	-								

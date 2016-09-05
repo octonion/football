@@ -82,7 +82,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	35	Ashland	10/29/2016	@ Michigan Tech		Michigan Tech		false		false	-								
 2017	12424	35	Ashland	11/05/2016	Walsh		Walsh		false		true	-								
 2017	12424	35	Ashland	11/12/2016	@ Ohio Dominican		Ohio Dominican		false		false	-								
-2017	12424	36	Assumption	09/03/2016	Kutztown		Kutztown		false		true	-								
+2017	12424	36	Assumption	09/03/2016	@ Kutztown		Kutztown		false		false	-								
+2017	12424	36	Assumption	09/03/2016	Kutztown	339	Kutztown	http://stats.ncaa.org/team/339/12424	false		true	W 45 - 21	true	45 - 21	45	21	false		kutztown-assumption#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/kutztown-assumption#boxscore
 2017	12424	36	Assumption	09/09/2016	@ Pace		Pace		false		false	-								
 2017	12424	36	Assumption	09/16/2016	Southern Conn. St.		Southern Conn. St.		false		true	-								
 2017	12424	36	Assumption	09/24/2016	@ Merrimack		Merrimack		false		false	-								
@@ -103,6 +104,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	41	Augustana (SD)	10/29/2016	Winona St.		Winona St.		false		true	-								
 2017	12424	41	Augustana (SD)	11/05/2016	@ Concordia-St. Paul		Concordia-St. Paul		false		false	-								
 2017	12424	41	Augustana (SD)	11/12/2016	@ Southwest Minn. St.		Southwest Minn. St.		false		false	-								
+2017	12424	30146	Azusa Pacific	09/01/2016	@ West Tex. A&M		West Tex. A&M		false		false	-								
 2017	12424	30146	Azusa Pacific	09/01/2016	West Tex. A&M	767	West Tex. A&M	http://stats.ncaa.org/team/767/12424	false		true	W 28 - 10	true	28 - 10	28	10	false		west-tex-am-azusa-pacific#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/west-tex-am-azusa-pacific#boxscore
 2017	12424	30146	Azusa Pacific	09/10/2016	@ Humboldt St.		Humboldt St.		false		false	-								
 2017	12424	30146	Azusa Pacific	09/17/2016	@ Central Wash.		Central Wash.		false		false	-								
@@ -125,7 +127,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	54	Bemidji St.	10/29/2016	@ St. Cloud St.		St. Cloud St.		false		false	-								
 2017	12424	54	Bemidji St.	11/05/2016	MSU Moorhead		MSU Moorhead		false		true	-								
 2017	12424	54	Bemidji St.	11/12/2016	Minn.-Crookston		Minn.-Crookston		false		true	-								
-2017	12424	55	Benedict	09/03/2016	Livingstone		Livingstone		false		true	-								
+2017	12424	55	Benedict	09/03/2016	Livingstone	359	Livingstone	http://stats.ncaa.org/team/359/12424	false		true	W 5 - 3	true	5 - 3	5	3	false		livingstone-benedict#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/livingstone-benedict#boxscore
 2017	12424	55	Benedict	09/10/2016	Limestone		Limestone		false		true	-								
 2017	12424	55	Benedict	09/17/2016	@ Central St. (OH)		Central St. (OH)		false		false	-								
 2017	12424	55	Benedict	09/24/2016	Fort Valley St.		Fort Valley St.		false		true	-								
@@ -136,6 +138,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	55	Benedict	10/29/2016	Albany St. (GA)@Augusta, GA		Albany St. (GA)Augusta, GA		false		false	-								
 2017	12424	55	Benedict	11/05/2016	@ Kentucky St.		Kentucky St.		false		false	-								
 2017	12424	55	Benedict	11/12/2016	Point U.		Point U.		false		true	-								
+2017	12424	56	Bentley	09/03/2016	@ West Chester		West Chester		false		false	-								
 2017	12424	56	Bentley	09/03/2016	West Chester	765	West Chester	http://stats.ncaa.org/team/765/12424	false		true	L 24 - 31	false	24 - 31	24	31	false		west-chester-bentley#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/west-chester-bentley#boxscore
 2017	12424	56	Bentley	09/10/2016	@ St. Anselm		St. Anselm		false		false	-								
 2017	12424	56	Bentley	09/16/2016	Merrimack		Merrimack		false		true	-								
@@ -200,6 +203,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	106	California (PA)	11/05/2016	Edinboro		Edinboro		false		true	-								
 2017	12424	106	California (PA)	11/12/2016	East Stroudsburg		East Stroudsburg		false		true	-								
 2017	12424	1000	Carson-Newman	09/01/2016	Humboldt St.	291	Humboldt St.	http://stats.ncaa.org/team/291/12424	false		true	L 45 - 52	false	45 - 52	45	52	false		humboldt-st-carson-newman#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/humboldt-st-carson-newman#boxscore
+2017	12424	1000	Carson-Newman	09/01/2016	@ Humboldt St.		Humboldt St.		false		false	-								
+2017	12424	1000	Carson-Newman	09/01/2016	@ Humboldt St.		Humboldt St.		false		false	-								
 2017	12424	1000	Carson-Newman	09/10/2016	@ Saint Augustine's		Saint Augustine's		false		false	-								
 2017	12424	1000	Carson-Newman	09/17/2016	@ Catawba		Catawba		false		false	-								
 2017	12424	1000	Carson-Newman	09/24/2016	Mars Hill		Mars Hill		false		true	-								
@@ -210,7 +215,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1000	Carson-Newman	10/29/2016	Limestone		Limestone		false		true	-								
 2017	12424	1000	Carson-Newman	11/05/2016	@ North Greenville		North Greenville		false		false	-								
 2017	12424	1000	Carson-Newman	11/12/2016	@ Tusculum		Tusculum		false		false	-								
-2017	12424	1001	Catawba	09/03/2016	West Ga.	766	West Ga.	http://stats.ncaa.org/team/766/12424	false		true	-								
+2017	12424	1001	Catawba	09/03/2016	@ West Ga.	766	West Ga.	http://stats.ncaa.org/team/766/12424	false		false	L 3 - 23	false	3 - 23	3	23	false		catawba-west-ga#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/catawba-west-ga#boxscore
+2017	12424	1001	Catawba	09/03/2016	@ West Ga.		West Ga.		false		false	-								
 2017	12424	1001	Catawba	09/10/2016	Winston-Salem		Winston-Salem		false		true	-								
 2017	12424	1001	Catawba	09/17/2016	Carson-Newman		Carson-Newman		false		true	-								
 2017	12424	1001	Catawba	09/24/2016	@ Wingate		Wingate		false		false	-								
@@ -285,7 +291,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1013	Charleston (WV)	10/29/2016	@ West Va. Wesleyan		West Va. Wesleyan		false		false	-								
 2017	12424	1013	Charleston (WV)	11/05/2016	@ Alderson Broaddus		Alderson Broaddus		false		false	-								
 2017	12424	1013	Charleston (WV)	11/10/2016	UVa-Wise		UVa-Wise		false		true	-								
-2017	12424	135	Cheyney	09/01/2016	Lincoln (PA)	357	Lincoln (PA)	http://stats.ncaa.org/team/357/12424	false		true	-								
+2017	12424	135	Cheyney	09/01/2016	@ Lincoln (PA)	357	Lincoln (PA)	http://stats.ncaa.org/team/357/12424	false		false	W 21 - 20 (1OT)	true	21 - 20	21	20	true	1OT	cheyney-lincoln-pa#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/cheyney-lincoln-pa#boxscore
+2017	12424	135	Cheyney	09/01/2016	@ Lincoln (PA)		Lincoln (PA)		false		false	-								
 2017	12424	135	Cheyney	09/10/2016	California (PA)		California (PA)		false		true	-								
 2017	12424	135	Cheyney	09/17/2016	Indiana (PA)		Indiana (PA)		false		true	-								
 2017	12424	135	Cheyney	09/24/2016	Bloomsburg		Bloomsburg		false		true	-								
@@ -296,7 +303,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	135	Cheyney	10/29/2016	Millersville		Millersville		false		true	-								
 2017	12424	135	Cheyney	11/05/2016	@ Kutztown		Kutztown		false		false	-								
 2017	12424	135	Cheyney	11/12/2016	@ Edinboro		Edinboro		false		false	-								
-2017	12424	8875	Chowan	09/03/2016	@ Fayetteville St.		Fayetteville St.		false		false	-								
+2017	12424	8875	Chowan	09/03/2016	@ Fayetteville St.	223	Fayetteville St.	http://stats.ncaa.org/team/223/12424	false		false	W 14 - 13	true	14 - 13	14	13	false		chowan-fayetteville-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/chowan-fayetteville-st#boxscore
 2017	12424	8875	Chowan	09/10/2016	Campbell		Campbell		false		true	-								
 2017	12424	8875	Chowan	09/17/2016	West Florida		West Florida		false		true	-								
 2017	12424	8875	Chowan	09/24/2016	@ Livingstone		Livingstone		false		false	-								
@@ -317,7 +324,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	143	Clarion	10/29/2016	Slippery Rock		Slippery Rock		false		true	-								
 2017	12424	143	Clarion	11/05/2016	Gannon		Gannon		false		true	-								
 2017	12424	143	Clarion	11/12/2016	West Chester		West Chester		false		true	-								
-2017	12424	144	Clark Atlanta	09/03/2016	@ Tuskegee		Tuskegee		false		false	-								
+2017	12424	144	Clark Atlanta	09/03/2016	Tuskegee	720	Tuskegee	http://stats.ncaa.org/team/720/12424	false		true	L 13 - 36	false	13 - 36	13	36	false		tuskegee-clark-atlanta#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/tuskegee-clark-atlanta#boxscore
 2017	12424	144	Clark Atlanta	09/10/2016	Central St. (OH)@Chicago, IL		Central St. (OH)Chicago, IL		false		false	-								
 2017	12424	144	Clark Atlanta	09/17/2016	@ Fort Valley St.		Fort Valley St.		false		false	-								
 2017	12424	144	Clark Atlanta	09/24/2016	Ave Maria		Ave Maria		false		true	-								
@@ -360,7 +367,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	2720	Colorado St.-Pueblo	10/29/2016	@ Western St.		Western St.		false		false	-								
 2017	12424	2720	Colorado St.-Pueblo	11/05/2016	Dixie St.		Dixie St.		false		true	-								
 2017	12424	2720	Colorado St.-Pueblo	11/12/2016	Chadron St.		Chadron St.		false		true	-								
-2017	12424	1028	Concord	09/03/2016	@ West Liberty		West Liberty		false		false	-								
+2017	12424	1028	Concord	09/03/2016	West Liberty	1438	West Liberty	http://stats.ncaa.org/team/1438/12424	false		true	W 32 - 25	true	32 - 25	32	25	false		west-liberty-concord#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/west-liberty-concord#boxscore
 2017	12424	1028	Concord	09/10/2016	@ Fairmont St.		Fairmont St.		false		false	-								
 2017	12424	1028	Concord	09/18/2016	Urbana		Urbana		false		true	-								
 2017	12424	1028	Concord	09/24/2016	@ West Va. Wesleyan		West Va. Wesleyan		false		false	-								
@@ -457,7 +464,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	209	Edinboro	10/29/2016	Seton Hill		Seton Hill		false		true	-								
 2017	12424	209	Edinboro	11/05/2016	@ California (PA)		California (PA)		false		false	-								
 2017	12424	209	Edinboro	11/12/2016	Cheyney		Cheyney		false		true	-								
-2017	12424	210	Elizabeth City St.	09/04/2016	@ Norfolk St.		Norfolk St.		false		false	-								
+2017	12424	210	Elizabeth City St.	09/04/2016	@ Norfolk St.	485	Norfolk St.	http://stats.ncaa.org/team/485/12424	false		false	L 12 - 20	false	12 - 20	12	20	false		elizabeth-city-st-norfolk-st#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/04/elizabeth-city-st-norfolk-st#boxscore
 2017	12424	210	Elizabeth City St.	09/10/2016	@ Fordham		Fordham		false		false	-								
 2017	12424	210	Elizabeth City St.	09/17/2016	Morehouse@Rocky Mount, NC		MorehouseRocky Mount, NC		false		false	-								
 2017	12424	210	Elizabeth City St.	09/24/2016	@ Johnson C. Smith		Johnson C. Smith		false		false	-								
@@ -478,7 +485,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1071	Emporia St.	10/29/2016	Fort Hays St.		Fort Hays St.		false		true	-								
 2017	12424	1071	Emporia St.	11/05/2016	@ Mo. Western St.		Mo. Western St.		false		false	-								
 2017	12424	1071	Emporia St.	11/12/2016	@ Washburn		Washburn		false		false	-								
+2017	12424	1076	Fairmont St.	09/03/2016	@ West Virginia St.		West Virginia St.		false		false	-								
 2017	12424	1076	Fairmont St.	09/03/2016	@ West Virginia St.	1439	West Virginia St.	http://stats.ncaa.org/team/1439/12424	false		false	W 30 - 20	true	30 - 20	30	20	false		fairmont-st-west-virginia-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/fairmont-st-west-virginia-st#boxscore
+2017	12424	1076	Fairmont St.	09/03/2016	@ West Virginia St.		West Virginia St.		false		false	-								
 2017	12424	1076	Fairmont St.	09/10/2016	Concord		Concord		false		true	-								
 2017	12424	1076	Fairmont St.	09/15/2016	@ West Liberty		West Liberty		false		false	-								
 2017	12424	1076	Fairmont St.	09/22/2016	@ Alderson Broaddus		Alderson Broaddus		false		false	-								
@@ -489,7 +498,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1076	Fairmont St.	10/27/2016	Notre Dame (OH)		Notre Dame (OH)		false		true	-								
 2017	12424	1076	Fairmont St.	11/05/2016	@ Shepherd		Shepherd		false		false	-								
 2017	12424	1076	Fairmont St.	11/10/2016	Glenville St.		Glenville St.		false		true	-								
-2017	12424	223	Fayetteville St.	09/03/2016	@ Chowan		Chowan		false		false	-								
+2017	12424	223	Fayetteville St.	09/03/2016	Chowan	8875	Chowan	http://stats.ncaa.org/team/8875/12424	false		true	L 13 - 14	false	13 - 14	13	14	false		chowan-fayetteville-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/chowan-fayetteville-st#boxscore
 2017	12424	223	Fayetteville St.	09/10/2016	@ UNC Pembroke		UNC Pembroke		false		false	-								
 2017	12424	223	Fayetteville St.	09/17/2016	@ Elon		Elon		false		false	-								
 2017	12424	223	Fayetteville St.	09/24/2016	Virginia Union		Virginia Union		false		true	-								
@@ -510,7 +519,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	224	Ferris St.	10/29/2016	Wayne St. (MI)		Wayne St. (MI)		false		true	-								
 2017	12424	224	Ferris St.	11/05/2016	@ Hillsdale		Hillsdale		false		false	-								
 2017	12424	224	Ferris St.	11/12/2016	Saginaw Valley		Saginaw Valley		false		true	-								
-2017	12424	1079	Findlay	09/03/2016	Saginaw Valley		Saginaw Valley		false		true	-								
+2017	12424	1079	Findlay	09/03/2016	Saginaw Valley	591	Saginaw Valley	http://stats.ncaa.org/team/591/12424	false		true	W 37 - 19	true	37 - 19	37	19	false		saginaw-valley-findlay#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/saginaw-valley-findlay#boxscore
 2017	12424	1079	Findlay	09/10/2016	Ohio Dominican		Ohio Dominican		false		true	-								
 2017	12424	1079	Findlay	09/17/2016	@ Ashland		Ashland		false		false	-								
 2017	12424	1079	Findlay	09/24/2016	@ Lake Erie		Lake Erie		false		false	-								
@@ -521,7 +530,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1079	Findlay	10/29/2016	@ Grand Valley St.		Grand Valley St.		false		false	-								
 2017	12424	1079	Findlay	11/05/2016	Northwood		Northwood		false		true	-								
 2017	12424	1079	Findlay	11/12/2016	@ Michigan Tech		Michigan Tech		false		false	-								
-2017	12424	230	Florida Tech	09/03/2016	@ Newberry		Newberry		false		false	-								
+2017	12424	230	Florida Tech	09/03/2016	@ Newberry	1257	Newberry	http://stats.ncaa.org/team/1257/12424	false		false	W 42 - 28	true	42 - 28	42	28	false		florida-tech-newberry#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/florida-tech-newberry#boxscore
 2017	12424	230	Florida Tech	09/10/2016	Mississippi Col.		Mississippi Col.		false		true	-								
 2017	12424	230	Florida Tech	09/17/2016	@ Shorter		Shorter		false		false	-								
 2017	12424	230	Florida Tech	09/24/2016	@ Presbyterian		Presbyterian		false		false	-								
@@ -565,6 +574,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	237	Fort Valley St.	10/29/2016	@ Morehouse		Morehouse		false		false	-								
 2017	12424	237	Fort Valley St.	11/05/2016	Albany St. (GA)@Columbus, GA		Albany St. (GA)Columbus, GA		false		false	-								
 2017	12424	246	Gannon	09/03/2016	Southern Conn. St.	658	Southern Conn. St.	http://stats.ncaa.org/team/658/12424	false		true	W 31 - 9	true	31 - 9	31	9	false		southern-conn-st-gannon#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/southern-conn-st-gannon#boxscore
+2017	12424	246	Gannon	09/03/2016	@ Southern Conn. St.		Southern Conn. St.		false		false	-								
 2017	12424	246	Gannon	09/10/2016	@ Shippensburg		Shippensburg		false		false	-								
 2017	12424	246	Gannon	09/17/2016	Bloomsburg		Bloomsburg		false		true	-								
 2017	12424	246	Gannon	09/24/2016	@ Slippery Rock		Slippery Rock		false		false	-								
@@ -586,7 +596,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1098	Glenville St.	10/29/2016	@ Concord		Concord		false		false	-								
 2017	12424	1098	Glenville St.	11/03/2016	West Liberty		West Liberty		false		true	-								
 2017	12424	1098	Glenville St.	11/10/2016	@ Fairmont St.		Fairmont St.		false		false	-								
-2017	12424	262	Grand Valley St.	09/01/2016	Tiffin	1403	Tiffin	http://stats.ncaa.org/team/1403/12424	false		true	-								
+2017	12424	262	Grand Valley St.	09/01/2016	Tiffin	1403	Tiffin	http://stats.ncaa.org/team/1403/12424	false		true	W 45 - 7	true	45 - 7	45	7	false		tiffin-grand-valley-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/tiffin-grand-valley-st#boxscore
 2017	12424	262	Grand Valley St.	09/10/2016	Lake Erie		Lake Erie		false		true	-								
 2017	12424	262	Grand Valley St.	09/17/2016	Northern Mich.		Northern Mich.		false		true	-								
 2017	12424	262	Grand Valley St.	09/24/2016	@ Walsh		Walsh		false		false	-								
@@ -597,7 +607,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	262	Grand Valley St.	10/29/2016	Findlay		Findlay		false		true	-								
 2017	12424	262	Grand Valley St.	11/05/2016	@ Saginaw Valley		Saginaw Valley		false		false	-								
 2017	12424	262	Grand Valley St.	11/12/2016	@ Wayne St. (MI)		Wayne St. (MI)		false		false	-								
-2017	12424	1116	Harding	09/03/2016	@ Okla. Baptist		Okla. Baptist		false		false	-								
+2017	12424	1116	Harding	09/03/2016	Okla. Baptist	30202	Okla. Baptist	http://stats.ncaa.org/team/30202/12424	false		true	W 38 - 7	true	38 - 7	38	7	false		okla-baptist-harding#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/okla-baptist-harding#boxscore
 2017	12424	1116	Harding	09/10/2016	@ Southern Nazarene		Southern Nazarene		false		false	-								
 2017	12424	1116	Harding	09/17/2016	Southern Ark.		Southern Ark.		false		true	-								
 2017	12424	1116	Harding	09/24/2016	@ Ark.-Monticello		Ark.-Monticello		false		false	-								
@@ -620,7 +630,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1123	Henderson St.	10/29/2016	Okla. Baptist		Okla. Baptist		false		true	-								
 2017	12424	1123	Henderson St.	11/05/2016	@ Southern Nazarene		Southern Nazarene		false		false	-								
 2017	12424	1123	Henderson St.	11/12/2016	Ouachita Baptist		Ouachita Baptist		false		true	-								
-2017	12424	280	Hillsdale	09/03/2016	UIndy	309	UIndy	http://stats.ncaa.org/team/309/12424	false		true	-								
+2017	12424	280	Hillsdale	09/03/2016	UIndy	309	UIndy	http://stats.ncaa.org/team/309/12424	false		true	W 30 - 24	true	30 - 24	30	24	false		uindy-hillsdale#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/uindy-hillsdale#boxscore
 2017	12424	280	Hillsdale	09/10/2016	Walsh		Walsh		false		true	-								
 2017	12424	280	Hillsdale	09/17/2016	@ Tiffin		Tiffin		false		false	-								
 2017	12424	280	Hillsdale	09/24/2016	Michigan Tech		Michigan Tech		false		true	-								
@@ -631,6 +641,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	280	Hillsdale	11/05/2016	Ferris St.		Ferris St.		false		true	-								
 2017	12424	280	Hillsdale	11/12/2016	Lake Erie		Lake Erie		false		true	-								
 2017	12424	291	Humboldt St.	09/01/2016	@ Carson-Newman	1000	Carson-Newman	http://stats.ncaa.org/team/1000/12424	false		false	W 52 - 45	true	52 - 45	52	45	false		humboldt-st-carson-newman#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/humboldt-st-carson-newman#boxscore
+2017	12424	291	Humboldt St.	09/01/2016	@ Carson-Newman		Carson-Newman		false		false	-								
+2017	12424	291	Humboldt St.	09/01/2016	@ Carson-Newman		Carson-Newman		false		false	-								
 2017	12424	291	Humboldt St.	09/10/2016	Azusa Pacific		Azusa Pacific		false		true	-								
 2017	12424	291	Humboldt St.	09/17/2016	@ Simon Fraser		Simon Fraser		false		false	-								
 2017	12424	291	Humboldt St.	09/24/2016	Western Ore.		Western Ore.		false		true	-								
@@ -652,6 +664,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	307	Indiana (PA)	11/05/2016	Mercyhurst		Mercyhurst		false		true	-								
 2017	12424	307	Indiana (PA)	11/12/2016	Bloomsburg		Bloomsburg		false		true	-								
 2017	12424	323	Johnson C. Smith	09/03/2016	Wingate	1462	Wingate	http://stats.ncaa.org/team/1462/12424	false		true	-								
+2017	12424	323	Johnson C. Smith	09/03/2016	@ Wingate		Wingate		false		false	-								
 2017	12424	323	Johnson C. Smith	09/10/2016	@ Bowie St.		Bowie St.		false		false	-								
 2017	12424	323	Johnson C. Smith	09/17/2016	@ Wofford		Wofford		false		false	-								
 2017	12424	323	Johnson C. Smith	09/24/2016	Elizabeth City St.		Elizabeth City St.		false		true	-								
@@ -672,6 +685,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	332	Kentucky St.	10/29/2016	Lane		Lane		false		true	-								
 2017	12424	332	Kentucky St.	11/05/2016	Benedict		Benedict		false		true	-								
 2017	12424	339	Kutztown	09/03/2016	@ Assumption		Assumption		false		false	-								
+2017	12424	339	Kutztown	09/03/2016	@ Assumption	36	Assumption	http://stats.ncaa.org/team/36/12424	false		false	L 21 - 45	false	21 - 45	21	45	false		kutztown-assumption#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/kutztown-assumption#boxscore
 2017	12424	339	Kutztown	09/10/2016	Mercyhurst		Mercyhurst		false		true	-								
 2017	12424	339	Kutztown	09/17/2016	@ Seton Hill		Seton Hill		false		false	-								
 2017	12424	339	Kutztown	09/24/2016	@ Millersville		Millersville		false		false	-								
@@ -757,7 +771,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	356	Lincoln (MO)	10/29/2016	McKendree		McKendree		false		true	-								
 2017	12424	356	Lincoln (MO)	11/05/2016	@ William Jewell		William Jewell		false		false	-								
 2017	12424	356	Lincoln (MO)	11/12/2016	Southwest Baptist		Southwest Baptist		false		true	-								
-2017	12424	357	Lincoln (PA)	09/01/2016	Cheyney	135	Cheyney	http://stats.ncaa.org/team/135/12424	false		true	-								
+2017	12424	357	Lincoln (PA)	09/01/2016	Cheyney	135	Cheyney	http://stats.ncaa.org/team/135/12424	false		true	L 20 - 21 (1OT)	false	20 - 21	20	21	true	1OT	cheyney-lincoln-pa#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/cheyney-lincoln-pa#boxscore
+2017	12424	357	Lincoln (PA)	09/01/2016	@ Cheyney		Cheyney		false		false	-								
 2017	12424	357	Lincoln (PA)	09/10/2016	Lincoln (MO)		Lincoln (MO)		false		true	-								
 2017	12424	357	Lincoln (PA)	09/17/2016	@ Morehead St.		Morehead St.		false		false	-								
 2017	12424	357	Lincoln (PA)	09/24/2016	@ Saint Augustine's		Saint Augustine's		false		false	-								
@@ -778,7 +793,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	30136	Lindenwood (MO)	10/29/2016	@ Neb.-Kearney		Neb.-Kearney		false		false	-								
 2017	12424	30136	Lindenwood (MO)	11/05/2016	Mo. Southern St.		Mo. Southern St.		false		true	-								
 2017	12424	30136	Lindenwood (MO)	11/12/2016	@ Central Mo.		Central Mo.		false		false	-								
-2017	12424	359	Livingstone	09/03/2016	@ Benedict		Benedict		false		false	-								
+2017	12424	359	Livingstone	09/03/2016	@ Benedict	55	Benedict	http://stats.ncaa.org/team/55/12424	false		false	L 3 - 5	false	3 - 5	3	5	false		livingstone-benedict#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/livingstone-benedict#boxscore
 2017	12424	359	Livingstone	09/10/2016	Edward Waters		Edward Waters		false		true	-								
 2017	12424	359	Livingstone	09/17/2016	@ Davidson		Davidson		false		false	-								
 2017	12424	359	Livingstone	09/24/2016	Chowan		Chowan		false		true	-								
@@ -883,7 +898,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	417	Michigan Tech	10/29/2016	Ashland		Ashland		false		true	-								
 2017	12424	417	Michigan Tech	11/05/2016	@ Northern Mich.		Northern Mich.		false		false	-								
 2017	12424	417	Michigan Tech	11/12/2016	Findlay		Findlay		false		true	-								
-2017	12424	1222	Midwestern St.	09/03/2016	@ Truman		Truman		false		false	-								
+2017	12424	1222	Midwestern St.	09/03/2016	@ Truman	499	Truman	http://stats.ncaa.org/team/499/12424	false		false	W 31 - 19	true	31 - 19	31	19	false		midwestern-st-truman#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/midwestern-st-truman#boxscore
 2017	12424	1222	Midwestern St.	09/17/2016	@ Tex. A&M-Kingsville		Tex. A&M-Kingsville		false		false	-								
 2017	12424	1222	Midwestern St.	09/24/2016	Okla. Panhandle		Okla. Panhandle		false		true	-								
 2017	12424	1222	Midwestern St.	10/01/2016	@ Western N.M.		Western N.M.		false		false	-								
@@ -936,7 +951,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	27854	Minn.-Crookston	10/29/2016	Minn. Duluth		Minn. Duluth		false		true	-								
 2017	12424	27854	Minn.-Crookston	11/05/2016	@ Northern St.		Northern St.		false		false	-								
 2017	12424	27854	Minn.-Crookston	11/12/2016	@ Bemidji St.		Bemidji St.		false		false	-								
-2017	12424	383	Minnesota St.	09/01/2016	Minot St.	30125	Minot St.	http://stats.ncaa.org/team/30125/12424	false		true	-								
+2017	12424	383	Minnesota St.	09/01/2016	@ Minot St.		Minot St.		false		false	-								
+2017	12424	383	Minnesota St.	09/01/2016	@ Minot St.		Minot St.		false		false	-								
+2017	12424	383	Minnesota St.	09/01/2016	@ Minot St.		Minot St.		false		false	-								
+2017	12424	383	Minnesota St.	09/01/2016	@ Minot St.	30125	Minot St.	http://stats.ncaa.org/team/30125/12424	false		false	W 35 - 7	true	35 - 7	35	7	false		minnesota-st-minot-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/minnesota-st-minot-st#boxscore
 2017	12424	383	Minnesota St.	09/10/2016	Bemidji St.		Bemidji St.		false		true	-								
 2017	12424	383	Minnesota St.	09/17/2016	@ St. Cloud St.		St. Cloud St.		false		false	-								
 2017	12424	383	Minnesota St.	09/24/2016	MSU Moorhead		MSU Moorhead		false		true	-								
@@ -947,7 +965,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	383	Minnesota St.	10/29/2016	Sioux Falls		Sioux Falls		false		true	-								
 2017	12424	383	Minnesota St.	11/05/2016	@ Wayne St. (NE)		Wayne St. (NE)		false		false	-								
 2017	12424	383	Minnesota St.	11/12/2016	Upper Iowa		Upper Iowa		false		true	-								
-2017	12424	30125	Minot St.	09/01/2016	Minnesota St.	383	Minnesota St.	http://stats.ncaa.org/team/383/12424	false		true	-								
+2017	12424	30125	Minot St.	09/01/2016	@ Minnesota St.		Minnesota St.		false		false	-								
+2017	12424	30125	Minot St.	09/01/2016	@ Minnesota St.		Minnesota St.		false		false	-								
+2017	12424	30125	Minot St.	09/01/2016	@ Minnesota St.		Minnesota St.		false		false	-								
+2017	12424	30125	Minot St.	09/01/2016	Minnesota St.	383	Minnesota St.	http://stats.ncaa.org/team/383/12424	false		true	L 7 - 35	false	7 - 35	7	35	false		minnesota-st-minot-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/minnesota-st-minot-st#boxscore
 2017	12424	30125	Minot St.	09/10/2016	@ Wayne St. (NE)		Wayne St. (NE)		false		false	-								
 2017	12424	30125	Minot St.	09/17/2016	Sioux Falls		Sioux Falls		false		true	-								
 2017	12424	30125	Minot St.	09/24/2016	@ Upper Iowa		Upper Iowa		false		false	-								
@@ -968,7 +989,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	429	Mississippi Col.	10/22/2016	@ West Ga.		West Ga.		false		false	-								
 2017	12424	429	Mississippi Col.	11/05/2016	@ Shorter		Shorter		false		false	-								
 2017	12424	429	Mississippi Col.	11/12/2016	North Ala.		North Ala.		false		true	-								
-2017	12424	435	Missouri S&T	09/03/2016	@ Bacone		Bacone		false		false	-								
+2017	12424	435	Missouri S&T	09/03/2016	Bacone		Bacone		false		true	W 62 - 14	true	62 - 14	62	14	false		bacone-missouri-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/bacone-missouri-st#boxscore
 2017	12424	435	Missouri S&T	09/10/2016	@ West Florida		West Florida		false		false	-								
 2017	12424	435	Missouri S&T	09/17/2016	Truman		Truman		false		true	-								
 2017	12424	435	Missouri S&T	09/24/2016	@ St. Joseph's (IN)		St. Joseph's (IN)		false		false	-								
@@ -1001,7 +1022,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	9013	Mo. Western St.	10/29/2016	@ Washburn		Washburn		false		false	-								
 2017	12424	9013	Mo. Western St.	11/05/2016	Emporia St.		Emporia St.		false		true	-								
 2017	12424	9013	Mo. Western St.	11/12/2016	@ Northwest Mo. St.		Northwest Mo. St.		false		false	-								
-2017	12424	445	Morehouse	09/03/2016	@ Edward Waters		Edward Waters		false		false	-								
+2017	12424	445	Morehouse	09/03/2016	@ Edward Waters		Edward Waters		false		false	W 19 - 13	true	19 - 13	19	13	false		morehouse-edward-waters#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/morehouse-edward-waters#boxscore
 2017	12424	445	Morehouse	09/10/2016	Kentucky St.		Kentucky St.		false		true	-								
 2017	12424	445	Morehouse	09/17/2016	Elizabeth City St.@Rocky Mount, NC		Elizabeth City St.Rocky Mount, NC		false		false	-								
 2017	12424	445	Morehouse	09/24/2016	Miles		Miles		false		true	-								
@@ -1043,7 +1064,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	470	New Haven	10/22/2016	Assumption		Assumption		false		true	-								
 2017	12424	470	New Haven	10/29/2016	@ American Int'l		American Int'l		false		false	-								
 2017	12424	470	New Haven	11/05/2016	Bentley		Bentley		false		true	-								
-2017	12424	1257	Newberry	09/03/2016	@ Florida Tech		Florida Tech		false		false	-								
+2017	12424	1257	Newberry	09/03/2016	Florida Tech	230	Florida Tech	http://stats.ncaa.org/team/230/12424	false		true	L 28 - 42	false	28 - 42	28	42	false		florida-tech-newberry#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/florida-tech-newberry#boxscore
 2017	12424	1257	Newberry	09/10/2016	Virginia Union		Virginia Union		false		true	-								
 2017	12424	1257	Newberry	09/17/2016	@ North Greenville		North Greenville		false		false	-								
 2017	12424	1257	Newberry	09/24/2016	@ Tusculum		Tusculum		false		false	-								
@@ -1163,7 +1184,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	30119	Ohio Dominican	10/29/2016	@ Walsh		Walsh		false		false	-								
 2017	12424	30119	Ohio Dominican	11/05/2016	Wayne St. (MI)		Wayne St. (MI)		false		true	-								
 2017	12424	30119	Ohio Dominican	11/12/2016	Ashland		Ashland		false		true	-								
-2017	12424	30202	Okla. Baptist	09/03/2016	@ Harding		Harding		false		false	-								
+2017	12424	30202	Okla. Baptist	09/03/2016	@ Harding	1116	Harding	http://stats.ncaa.org/team/1116/12424	false		false	L 7 - 38	false	7 - 38	7	38	false		okla-baptist-harding#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/okla-baptist-harding#boxscore
 2017	12424	30202	Okla. Baptist	09/10/2016	Arkansas Tech		Arkansas Tech		false		true	-								
 2017	12424	30202	Okla. Baptist	09/17/2016	Southeastern Okla.		Southeastern Okla.		false		true	-								
 2017	12424	30202	Okla. Baptist	09/24/2016	@ East Central		East Central		false		false	-								
@@ -1228,7 +1249,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	561	Quincy	10/29/2016	@ Truman		Truman		false		false	-								
 2017	12424	561	Quincy	11/05/2016	McKendree		McKendree		false		true	-								
 2017	12424	561	Quincy	11/12/2016	Missouri S&T		Missouri S&T		false		true	-								
-2017	12424	591	Saginaw Valley	09/03/2016	@ Findlay		Findlay		false		false	-								
+2017	12424	591	Saginaw Valley	09/03/2016	@ Findlay	1079	Findlay	http://stats.ncaa.org/team/1079/12424	false		false	L 19 - 37	false	19 - 37	19	37	false		saginaw-valley-findlay#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/saginaw-valley-findlay#boxscore
 2017	12424	591	Saginaw Valley	09/10/2016	Northwood		Northwood		false		true	-								
 2017	12424	591	Saginaw Valley	09/17/2016	@ Walsh		Walsh		false		false	-								
 2017	12424	591	Saginaw Valley	09/24/2016	Ohio Dominican		Ohio Dominican		false		true	-								
@@ -1259,7 +1280,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	30063	Seton Hill	10/29/2016	@ Edinboro		Edinboro		false		false	-								
 2017	12424	30063	Seton Hill	11/05/2016	@ Slippery Rock		Slippery Rock		false		false	-								
 2017	12424	30063	Seton Hill	11/12/2016	Shippensburg		Shippensburg		false		true	-								
-2017	12424	636	Shaw	09/03/2016	Limestone		Limestone		false		true	-								
+2017	12424	636	Shaw	09/03/2016	@ Limestone		Limestone		false		false	-								
 2017	12424	636	Shaw	09/10/2016	@ Wingate		Wingate		false		false	-								
 2017	12424	636	Shaw	09/17/2016	UNC Pembroke		UNC Pembroke		false		true	-								
 2017	12424	636	Shaw	09/24/2016	Bowie St.		Bowie St.		false		true	-								
@@ -1368,6 +1389,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1376	Southern Ark.	11/05/2016	@ East Central		East Central		false		false	-								
 2017	12424	1376	Southern Ark.	11/12/2016	@ Ark.-Monticello		Ark.-Monticello		false		false	-								
 2017	12424	658	Southern Conn. St.	09/03/2016	@ Gannon	246	Gannon	http://stats.ncaa.org/team/246/12424	false		false	L 9 - 31	false	9 - 31	9	31	false		southern-conn-st-gannon#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/southern-conn-st-gannon#boxscore
+2017	12424	658	Southern Conn. St.	09/03/2016	@ Gannon		Gannon		false		false	-								
 2017	12424	658	Southern Conn. St.	09/09/2016	Stonehill		Stonehill		false		true	-								
 2017	12424	658	Southern Conn. St.	09/16/2016	@ Assumption		Assumption		false		false	-								
 2017	12424	658	Southern Conn. St.	09/23/2016	American Int'l		American Int'l		false		true	-								
@@ -1495,8 +1517,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	696	Tex. A&M-Kingsville	10/29/2016	Eastern N.M.		Eastern N.M.		false		true	-								
 2017	12424	696	Tex. A&M-Kingsville	11/05/2016	Western N.M.		Western N.M.		false		true	-								
 2017	12424	696	Tex. A&M-Kingsville	11/12/2016	@ Okla. Panhandle		Okla. Panhandle		false		false	-								
-2017	12424	30088	Tex. Permian Basin	09/03/2016	@ Sul Ross St.		Sul Ross St.		false		false	-								
-2017	12424	30088	Tex. Permian Basin	09/03/2016	@ Sul Ross St.		Sul Ross St.		false		false	-								
+2017	12424	30088	Tex. Permian Basin	09/03/2016	Sul Ross St.	1390	Sul Ross St.	http://stats.ncaa.org/team/1390/12424	false		true	W 27 - 6	true	27 - 6	27	6	false		sul-ross-st-tex-permian-basin#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/sul-ross-st-tex-permian-basin#boxscore
 2017	12424	30088	Tex. Permian Basin	09/10/2016	Arizona Christian		Arizona Christian		false		true	-								
 2017	12424	30088	Tex. Permian Basin	09/17/2016	West Tex. A&M		West Tex. A&M		false		true	-								
 2017	12424	30088	Tex. Permian Basin	09/24/2016	Western N.M.		Western N.M.		false		true	-								
@@ -1507,7 +1528,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	30088	Tex. Permian Basin	10/29/2016	@ Midwestern St.		Midwestern St.		false		false	-								
 2017	12424	30088	Tex. Permian Basin	11/05/2016	Tex. A&M-Commerce		Tex. A&M-Commerce		false		true	-								
 2017	12424	30088	Tex. Permian Basin	11/12/2016	@ Angelo St.		Angelo St.		false		false	-								
-2017	12424	1403	Tiffin	09/01/2016	Grand Valley St.	262	Grand Valley St.	http://stats.ncaa.org/team/262/12424	false		true	-								
+2017	12424	1403	Tiffin	09/01/2016	@ Grand Valley St.	262	Grand Valley St.	http://stats.ncaa.org/team/262/12424	false		false	L 7 - 45	false	7 - 45	7	45	false		tiffin-grand-valley-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/tiffin-grand-valley-st#boxscore
 2017	12424	1403	Tiffin	09/10/2016	Davenport		Davenport		false		true	-								
 2017	12424	1403	Tiffin	09/17/2016	Hillsdale		Hillsdale		false		true	-								
 2017	12424	1403	Tiffin	09/24/2016	@ Wayne St. (MI)		Wayne St. (MI)		false		false	-								
@@ -1518,7 +1539,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1403	Tiffin	10/29/2016	@ Northwood		Northwood		false		false	-								
 2017	12424	1403	Tiffin	11/05/2016	@ Lake Erie		Lake Erie		false		false	-								
 2017	12424	1403	Tiffin	11/12/2016	Northern Mich.		Northern Mich.		false		true	-								
-2017	12424	499	Truman	09/03/2016	@ Midwestern St.		Midwestern St.		false		false	-								
+2017	12424	499	Truman	09/03/2016	Midwestern St.	1222	Midwestern St.	http://stats.ncaa.org/team/1222/12424	false		true	L 19 - 31	false	19 - 31	19	31	false		midwestern-st-truman#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/midwestern-st-truman#boxscore
 2017	12424	499	Truman	09/10/2016	Malone		Malone		false		true	-								
 2017	12424	499	Truman	09/17/2016	@ Missouri S&T		Missouri S&T		false		false	-								
 2017	12424	499	Truman	09/24/2016	Lincoln (MO)		Lincoln (MO)		false		true	-								
@@ -1540,7 +1561,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	12830	Tusculum	10/29/2016	@ Mars Hill		Mars Hill		false		false	-								
 2017	12424	12830	Tusculum	11/05/2016	@ Catawba		Catawba		false		false	-								
 2017	12424	12830	Tusculum	11/12/2016	Carson-Newman		Carson-Newman		false		true	-								
-2017	12424	720	Tuskegee	09/03/2016	@ Clark Atlanta		Clark Atlanta		false		false	-								
+2017	12424	720	Tuskegee	09/03/2016	@ Clark Atlanta	144	Clark Atlanta	http://stats.ncaa.org/team/144/12424	false		false	W 36 - 13	true	36 - 13	36	13	false		tuskegee-clark-atlanta#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/tuskegee-clark-atlanta#boxscore
 2017	12424	720	Tuskegee	09/10/2016	Albany St. (GA)@Phenix City, AL		Albany St. (GA)Phenix City, AL		false		false	-								
 2017	12424	720	Tuskegee	09/17/2016	Florida A&M@Mobile, AL		Florida A&MMobile, AL		false		false	-								
 2017	12424	720	Tuskegee	09/24/2016	Lane		Lane		false		true	-								
@@ -1549,7 +1570,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	720	Tuskegee	10/22/2016	Kentucky St.		Kentucky St.		false		true	-								
 2017	12424	720	Tuskegee	10/29/2016	@ Central St. (OH)		Central St. (OH)		false		false	-								
 2017	12424	720	Tuskegee	11/05/2016	@ Miles		Miles		false		false	-								
-2017	12424	309	UIndy	09/03/2016	Hillsdale	280	Hillsdale	http://stats.ncaa.org/team/280/12424	false		true	-								
+2017	12424	309	UIndy	09/03/2016	@ Hillsdale	280	Hillsdale	http://stats.ncaa.org/team/280/12424	false		false	L 24 - 30	false	24 - 30	24	30	false		uindy-hillsdale#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/uindy-hillsdale#boxscore
 2017	12424	309	UIndy	09/10/2016	Marian (IN)		Marian (IN)		false		true	-								
 2017	12424	309	UIndy	09/17/2016	@ Southwest Baptist		Southwest Baptist		false		false	-								
 2017	12424	309	UIndy	09/24/2016	@ Ky. Wesleyan		Ky. Wesleyan		false		false	-								
@@ -1603,7 +1624,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	30104	Urbana	10/29/2016	UVa-Wise		UVa-Wise		false		true	-								
 2017	12424	30104	Urbana	11/05/2016	@ Notre Dame (OH)		Notre Dame (OH)		false		false	-								
 2017	12424	30104	Urbana	11/12/2016	Shepherd		Shepherd		false		true	-								
-2017	12424	734	Valdosta St.	09/03/2016	Albany St. (GA)		Albany St. (GA)		false		true	-								
+2017	12424	734	Valdosta St.	09/03/2016	@ Albany St. (GA)		Albany St. (GA)		false		false	-								
 2017	12424	734	Valdosta St.	09/17/2016	@ North Ala.		North Ala.		false		false	-								
 2017	12424	734	Valdosta St.	09/24/2016	West Florida		West Florida		false		true	-								
 2017	12424	734	Valdosta St.	10/01/2016	Kentucky St.		Kentucky St.		false		true	-								
@@ -1688,6 +1709,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	358	West Ala.	10/29/2016	@ West Florida		West Florida		false		false	-								
 2017	12424	358	West Ala.	11/05/2016	Valdosta St.		Valdosta St.		false		true	-								
 2017	12424	358	West Ala.	11/12/2016	Malone		Malone		false		true	-								
+2017	12424	765	West Chester	09/03/2016	@ Bentley		Bentley		false		false	-								
 2017	12424	765	West Chester	09/03/2016	@ Bentley	56	Bentley	http://stats.ncaa.org/team/56/12424	false		false	W 31 - 24	true	31 - 24	31	24	false		west-chester-bentley#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/west-chester-bentley#boxscore
 2017	12424	765	West Chester	09/10/2016	Slippery Rock		Slippery Rock		false		true	-								
 2017	12424	765	West Chester	09/17/2016	@ Edinboro		Edinboro		false		false	-								
@@ -1710,7 +1732,8 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	11740	West Florida	10/29/2016	West Ala.		West Ala.		false		true	-								
 2017	12424	11740	West Florida	11/05/2016	@ North Ala.		North Ala.		false		false	-								
 2017	12424	11740	West Florida	11/12/2016	West Ga.		West Ga.		false		true	-								
-2017	12424	766	West Ga.	09/03/2016	Catawba	1001	Catawba	http://stats.ncaa.org/team/1001/12424	false		true	-								
+2017	12424	766	West Ga.	09/03/2016	Catawba	1001	Catawba	http://stats.ncaa.org/team/1001/12424	false		true	W 23 - 3	true	23 - 3	23	3	false		catawba-west-ga#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/catawba-west-ga#boxscore
+2017	12424	766	West Ga.	09/03/2016	@ Catawba		Catawba		false		false	-								
 2017	12424	766	West Ga.	09/10/2016	@ Miles		Miles		false		false	-								
 2017	12424	766	West Ga.	09/17/2016	Delta St.		Delta St.		false		true	-								
 2017	12424	766	West Ga.	09/24/2016	@ Albany St. (GA)		Albany St. (GA)		false		false	-								
@@ -1721,7 +1744,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	766	West Ga.	10/29/2016	@ Shorter		Shorter		false		false	-								
 2017	12424	766	West Ga.	11/05/2016	Florida Tech		Florida Tech		false		true	-								
 2017	12424	766	West Ga.	11/12/2016	@ West Florida		West Florida		false		false	-								
-2017	12424	1438	West Liberty	09/03/2016	@ Concord		Concord		false		false	-								
+2017	12424	1438	West Liberty	09/03/2016	@ Concord	1028	Concord	http://stats.ncaa.org/team/1028/12424	false		false	L 25 - 32	false	25 - 32	25	32	false		west-liberty-concord#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/west-liberty-concord#boxscore
 2017	12424	1438	West Liberty	09/10/2016	@ McKendree		McKendree		false		false	-								
 2017	12424	1438	West Liberty	09/15/2016	Fairmont St.		Fairmont St.		false		true	-								
 2017	12424	1438	West Liberty	09/24/2016	@ Urbana		Urbana		false		false	-								
@@ -1732,6 +1755,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1438	West Liberty	10/29/2016	Shepherd		Shepherd		false		true	-								
 2017	12424	1438	West Liberty	11/03/2016	@ Glenville St.		Glenville St.		false		false	-								
 2017	12424	1438	West Liberty	11/12/2016	West Virginia St.		West Virginia St.		false		true	-								
+2017	12424	767	West Tex. A&M	09/01/2016	@ Azusa Pacific		Azusa Pacific		false		false	-								
 2017	12424	767	West Tex. A&M	09/01/2016	@ Azusa Pacific	30146	Azusa Pacific	http://stats.ncaa.org/team/30146/12424	false		false	L 10 - 28	false	10 - 28	10	28	false		west-tex-am-azusa-pacific#boxscore	http://www.ncaa.com/game/football/d2/2016/09/01/west-tex-am-azusa-pacific#boxscore
 2017	12424	767	West Tex. A&M	09/10/2016	@ Colorado St.-Pueblo		Colorado St.-Pueblo		false		false	-								
 2017	12424	767	West Tex. A&M	09/17/2016	@ Tex. Permian Basin		Tex. Permian Basin		false		false	-								
@@ -1754,7 +1778,9 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	9630	West Va. Wesleyan	10/29/2016	Charleston (WV)		Charleston (WV)		false		true	-								
 2017	12424	9630	West Va. Wesleyan	11/05/2016	@ UVa-Wise		UVa-Wise		false		false	-								
 2017	12424	9630	West Va. Wesleyan	11/12/2016	Notre Dame (OH)		Notre Dame (OH)		false		true	-								
+2017	12424	1439	West Virginia St.	09/03/2016	@ Fairmont St.		Fairmont St.		false		false	-								
 2017	12424	1439	West Virginia St.	09/03/2016	Fairmont St.	1076	Fairmont St.	http://stats.ncaa.org/team/1076/12424	false		true	L 20 - 30	false	20 - 30	20	30	false		fairmont-st-west-virginia-st#boxscore	http://www.ncaa.com/game/football/d2/2016/09/03/fairmont-st-west-virginia-st#boxscore
+2017	12424	1439	West Virginia St.	09/03/2016	@ Fairmont St.		Fairmont St.		false		false	-								
 2017	12424	1439	West Virginia St.	09/10/2016	@ Urbana		Urbana		false		false	-								
 2017	12424	1439	West Virginia St.	09/17/2016	West Va. Wesleyan		West Va. Wesleyan		false		true	-								
 2017	12424	1439	West Virginia St.	09/22/2016	@ Charleston (WV)		Charleston (WV)		false		false	-								
@@ -1808,6 +1834,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	30120	William Jewell	10/29/2016	@ UIndy		UIndy		false		false	-								
 2017	12424	30120	William Jewell	11/05/2016	Lincoln (MO)		Lincoln (MO)		false		true	-								
 2017	12424	1462	Wingate	09/03/2016	Johnson C. Smith	323	Johnson C. Smith	http://stats.ncaa.org/team/323/12424	false		true	-								
+2017	12424	1462	Wingate	09/03/2016	@ Johnson C. Smith		Johnson C. Smith		false		false	-								
 2017	12424	1462	Wingate	09/10/2016	Shaw		Shaw		false		true	-								
 2017	12424	1462	Wingate	09/17/2016	@ Brevard		Brevard		false		false	-								
 2017	12424	1462	Wingate	09/24/2016	Catawba		Catawba		false		true	-								
