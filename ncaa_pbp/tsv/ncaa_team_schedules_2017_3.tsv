@@ -77,7 +77,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	939	Anderson (IN)	10/22/2016	@ Mt. St. Joseph		Mt. St. Joseph		false		false	-								
 2017	12424	939	Anderson (IN)	11/05/2016	Franklin		Franklin		false		true	-								
 2017	12424	939	Anderson (IN)	11/12/2016	Manchester		Manchester		false		true	-								
-2017	12424	26	Anna Maria	09/01/2016	Coast Guard	722	Coast Guard	http://stats.ncaa.org/team/722/12424	false		true	L 0 - 34	false	0 - 34	0	34	false		coast-guard-anna-maria#boxscore	http://www.ncaa.com/game/football/d3/2016/09/01/coast-guard-anna-maria#boxscore
+2017	12424	26	Anna Maria	09/01/2016	@ Coast Guard		Coast Guard		false		false	-								
 2017	12424	26	Anna Maria	09/09/2016	@ Nichols		Nichols		false		false	-								
 2017	12424	26	Anna Maria	09/17/2016	@ Curry		Curry		false		false	-								
 2017	12424	26	Anna Maria	10/01/2016	@ Castleton		Castleton		false		false	-								
@@ -185,21 +185,6 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	296	Benedictine (IL)	10/29/2016	@ Wis. Lutheran		Wis. Lutheran		false		false	-								
 2017	12424	296	Benedictine (IL)	11/05/2016	Concordia Chicago		Concordia Chicago		false		true	-								
 2017	12424	296	Benedictine (IL)	11/12/2016	@ Aurora		Aurora		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	Maryville (TN)	396	Maryville (TN)	http://stats.ncaa.org/team/396/12424	false		true	W 34 - 33	true	34 - 33	34	33	false		maryville-tn-berry#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/maryville-tn-berry#boxscore
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
-2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
 2017	12424	973	Berry	09/03/2016	@ Maryville (TN)		Maryville (TN)		false		false	-								
 2017	12424	973	Berry	09/10/2016	@ LaGrange		LaGrange		false		false	-								
 2017	12424	973	Berry	09/17/2016	@ Rhodes		Rhodes		false		false	-								
@@ -377,7 +362,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	121	Carthage	10/29/2016	@ Millikin		Millikin		false		false	-								
 2017	12424	121	Carthage	11/05/2016	North Central (IL)		North Central (IL)		false		true	-								
 2017	12424	121	Carthage	11/12/2016	@ North Park		North Park		false		false	-								
-2017	12424	123	Castleton	09/03/2016	Plymouth St.	548	Plymouth St.	http://stats.ncaa.org/team/548/12424	false		true	L 7 - 20	false	7 - 20	7	20	false		plymouth-st-castleton#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/plymouth-st-castleton#boxscore
+2017	12424	123	Castleton	09/03/2016	@ Plymouth St.		Plymouth St.		false		false	-								
 2017	12424	123	Castleton	09/10/2016	@ Fitchburg St.		Fitchburg St.		false		false	-								
 2017	12424	123	Castleton	09/17/2016	Salve Regina		Salve Regina		false		true	-								
 2017	12424	123	Castleton	10/01/2016	Anna Maria		Anna Maria		false		true	-								
@@ -436,7 +421,6 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	137	Chicago	10/29/2016	@ Sewanee		Sewanee		false		false	-								
 2017	12424	137	Chicago	11/05/2016	Carnegie Mellon		Carnegie Mellon		false		true	-								
 2017	12424	137	Chicago	11/12/2016	Washington-St. Louis		Washington-St. Louis		false		true	-								
-2017	12424	139	Chris. Newport	09/03/2016	Kean		Kean		false		true	-								
 2017	12424	139	Chris. Newport	09/04/2016	Kean	329	Kean	http://stats.ncaa.org/team/329/12424	false		true	W 26 - 7	true	26 - 7	26	7	false		kean-chris-newport#boxscore	http://www.ncaa.com/game/football/d3/2016/09/04/kean-chris-newport#boxscore
 2017	12424	139	Chris. Newport	09/10/2016	@ Hampden-Sydney		Hampden-Sydney		false		false	-								
 2017	12424	139	Chris. Newport	09/17/2016	Wesley		Wesley		false		true	-								
@@ -456,7 +440,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	142	Claremont-M-S	10/29/2016	La Verne		La Verne		false		true	-								
 2017	12424	142	Claremont-M-S	11/05/2016	Chapman		Chapman		false		true	-								
 2017	12424	142	Claremont-M-S	11/12/2016	@ Pomona-Pitzer		Pomona-Pitzer		false		false	-								
-2017	12424	722	Coast Guard	09/01/2016	@ Anna Maria	26	Anna Maria	http://stats.ncaa.org/team/26/12424	false		false	W 34 - 0	true	34 - 0	34	0	false		coast-guard-anna-maria#boxscore	http://www.ncaa.com/game/football/d3/2016/09/01/coast-guard-anna-maria#boxscore
+2017	12424	722	Coast Guard	09/01/2016	@ Anna Maria		Anna Maria		false		false	-								
 2017	12424	722	Coast Guard	09/10/2016	Merchant Marine		Merchant Marine		false		true	-								
 2017	12424	722	Coast Guard	09/17/2016	Catholic		Catholic		false		true	-								
 2017	12424	722	Coast Guard	09/24/2016	@ Salve Regina		Salve Regina		false		false	-								
@@ -466,10 +450,10 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	722	Coast Guard	10/29/2016	@ MIT		MIT		false		false	-								
 2017	12424	722	Coast Guard	11/05/2016	Endicott		Endicott		false		true	-								
 2017	12424	722	Coast Guard	11/12/2016	@ Western New Eng.		Western New Eng.		false		false	-								
-2017	12424	150	Coe	09/24/0216	@ Neb. Wesleyan		Neb. Wesleyan		false		false	-								
 2017	12424	150	Coe	09/03/2016	Wis.-River Falls	801	Wis.-River Falls	http://stats.ncaa.org/team/801/12424	false		true	W 35 - 20	true	35 - 20	35	20	false		wis-river-falls-coe#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/wis-river-falls-coe#boxscore
 2017	12424	150	Coe	09/10/2016	@ Cornell College		Cornell College		false		false	-								
 2017	12424	150	Coe	09/17/2016	Loras		Loras		false		true	-								
+2017	12424	150	Coe	09/24/2016	@ Neb. Wesleyan		Neb. Wesleyan		false		false	-								
 2017	12424	150	Coe	10/01/2016	Wartburg		Wartburg		false		true	-								
 2017	12424	150	Coe	10/08/2016	Central (IA)		Central (IA)		false		true	-								
 2017	12424	150	Coe	10/15/2016	@ Dubuque		Dubuque		false		false	-								
@@ -504,7 +488,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1036	Concordia Wisconsin	10/29/2016	@ Aurora		Aurora		false		false	-								
 2017	12424	1036	Concordia Wisconsin	11/05/2016	Rockford		Rockford		false		true	-								
 2017	12424	1036	Concordia Wisconsin	11/12/2016	@ Hope		Hope		false		false	-								
-2017	12424	161	Concordia-M'head	09/03/2016	@ Jamestown		Jamestown		false		false	-								
+2017	12424	161	Concordia-M'head	09/03/2016	@ Jamestown		Jamestown		false		false	L 13 - 30	false	13 - 30	13	30	false		concordia-mhead-jamestown#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/concordia-mhead-jamestown#boxscore
 2017	12424	161	Concordia-M'head	09/10/2016	Wis.-Eau Claire		Wis.-Eau Claire		false		true	-								
 2017	12424	161	Concordia-M'head	09/17/2016	@ Bethel (MN)		Bethel (MN)		false		false	-								
 2017	12424	161	Concordia-M'head	10/01/2016	@ Gust. Adolphus		Gust. Adolphus		false		false	-								
@@ -643,7 +627,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	216	Emory & Henry	10/29/2016	@ Hampden-Sydney		Hampden-Sydney		false		false	-								
 2017	12424	216	Emory & Henry	11/05/2016	Catholic		Catholic		false		true	-								
 2017	12424	216	Emory & Henry	11/12/2016	Guilford		Guilford		false		true	-								
-2017	12424	8981	Endicott	09/03/2016	@ Framingham St.	238	Framingham St.	http://stats.ncaa.org/team/238/12424	false		false	L 21 - 32	false	21 - 32	21	32	false		endicott-framingham-st#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/endicott-framingham-st#boxscore
+2017	12424	8981	Endicott	09/03/2016	@ Framingham St.		Framingham St.		false		false	-								
 2017	12424	8981	Endicott	09/10/2016	Hobart and William Smith Colleges		Hobart and William Smith Colleges		false		true	-								
 2017	12424	8981	Endicott	09/17/2016	St. Lawrence		St. Lawrence		false		true	-								
 2017	12424	8981	Endicott	09/24/2016	Nichols		Nichols		false		true	-								
@@ -701,7 +685,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	227	Fitchburg St.	10/29/2016	Westfield St.		Westfield St.		false		true	-								
 2017	12424	227	Fitchburg St.	11/05/2016	@ UMass Dartmouth		UMass Dartmouth		false		false	-								
 2017	12424	227	Fitchburg St.	11/12/2016	@ Plymouth St.		Plymouth St.		false		false	-								
-2017	12424	238	Framingham St.	09/03/2016	Endicott	8981	Endicott	http://stats.ncaa.org/team/8981/12424	false		true	W 32 - 21	true	32 - 21	32	21	false		endicott-framingham-st#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/endicott-framingham-st#boxscore
+2017	12424	238	Framingham St.	09/03/2016	@ Endicott		Endicott		false		false	-								
 2017	12424	238	Framingham St.	09/10/2016	@ SUNY Cortland		SUNY Cortland		false		false	-								
 2017	12424	238	Framingham St.	09/16/2016	@ Fitchburg St.		Fitchburg St.		false		false	-								
 2017	12424	238	Framingham St.	09/24/2016	Western Conn. St.		Western Conn. St.		false		true	-								
@@ -958,7 +942,6 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	2741	Howard Payne	10/29/2016	McMurry		McMurry		false		true	-								
 2017	12424	2741	Howard Payne	11/05/2016	@ Sul Ross St.		Sul Ross St.		false		false	-								
 2017	12424	2741	Howard Payne	11/12/2016	Belhaven		Belhaven		false		true	-								
-2017	12424	1130	Huntingdon	09/03/2016	@ Louisiana Col.		Louisiana Col.		false		false	-								
 2017	12424	1130	Huntingdon	09/03/2016	@ Louisiana Col.	1182	Louisiana Col.	http://stats.ncaa.org/team/1182/12424	false		false	W 52 - 49	true	52 - 49	52	49	false		huntingdon-louisiana-col#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/huntingdon-louisiana-col#boxscore
 2017	12424	1130	Huntingdon	09/10/2016	Birmingham-So.		Birmingham-So.		false		true	-								
 2017	12424	1130	Huntingdon	09/17/2016	Belhaven		Belhaven		false		true	-								
@@ -1007,7 +990,6 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	30173	Iowa Wesleyan	10/22/2016	MacMurray		MacMurray		false		true	-								
 2017	12424	30173	Iowa Wesleyan	10/29/2016	Martin Luther		Martin Luther		false		true	-								
 2017	12424	30173	Iowa Wesleyan	11/05/2016	@ Crown (MN)		Crown (MN)		false		false	-								
-2017	12424	313	Ithaca	09/02/2016	Union (NY)		Union (NY)		false		true	-								
 2017	12424	313	Ithaca	09/03/2016	Union (NY)	727	Union (NY)	http://stats.ncaa.org/team/727/12424	false		true	W 14 - 9	true	14 - 9	14	9	false		union-ny-ithaca#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/union-ny-ithaca#boxscore
 2017	12424	313	Ithaca	09/17/2016	@ Hobart and William Smith Colleges		Hobart and William Smith Colleges		false		false	-								
 2017	12424	313	Ithaca	09/24/2016	@ Alfred		Alfred		false		false	-								
@@ -1058,7 +1040,6 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	326	Kalamazoo	10/29/2016	@ Hope		Hope		false		false	-								
 2017	12424	326	Kalamazoo	11/05/2016	Wis. Lutheran		Wis. Lutheran		false		true	-								
 2017	12424	326	Kalamazoo	11/12/2016	Albion		Albion		false		true	-								
-2017	12424	329	Kean	09/03/2016	@ Chris. Newport		Chris. Newport		false		false	-								
 2017	12424	329	Kean	09/04/2016	@ Chris. Newport	139	Chris. Newport	http://stats.ncaa.org/team/139/12424	false		false	L 7 - 26	false	7 - 26	7	26	false		kean-chris-newport#boxscore	http://www.ncaa.com/game/football/d3/2016/09/04/kean-chris-newport#boxscore
 2017	12424	329	Kean	09/10/2016	@ Bridgewater St.		Bridgewater St.		false		false	-								
 2017	12424	329	Kean	09/16/2016	TCNJ		TCNJ		false		true	-								
@@ -1138,7 +1119,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1164	Lakeland	10/29/2016	@ Concordia Chicago		Concordia Chicago		false		false	-								
 2017	12424	1164	Lakeland	11/05/2016	Aurora		Aurora		false		true	-								
 2017	12424	1164	Lakeland	11/12/2016	@ Rockford		Rockford		false		false	-								
-2017	12424	348	Lawrence	09/03/2016	@ Presentation		Presentation		false		false	-								
+2017	12424	348	Lawrence	09/03/2016	@ Presentation		Presentation		false		false	L 10 - 17	false	10 - 17	10	17	false		lawrence-presentation#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/lawrence-presentation#boxscore
 2017	12424	348	Lawrence	09/10/2016	Finlandia		Finlandia		false		true	-								
 2017	12424	348	Lawrence	09/24/2016	Illinois Col.		Illinois Col.		false		true	-								
 2017	12424	348	Lawrence	10/01/2016	Beloit		Beloit		false		true	-								
@@ -1186,7 +1167,6 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	364	Loras	10/29/2016	Luther		Luther		false		true	-								
 2017	12424	364	Loras	11/05/2016	Dubuque		Dubuque		false		true	-								
 2017	12424	364	Loras	11/12/2016	@ Neb. Wesleyan		Neb. Wesleyan		false		false	-								
-2017	12424	1182	Louisiana Col.	09/03/2016	@ Huntingdon		Huntingdon		false		false	-								
 2017	12424	1182	Louisiana Col.	09/03/2016	Huntingdon	1130	Huntingdon	http://stats.ncaa.org/team/1130/12424	false		true	L 49 - 52	false	49 - 52	49	52	false		huntingdon-louisiana-col#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/huntingdon-louisiana-col#boxscore
 2017	12424	1182	Louisiana Col.	09/10/2016	@ Texas Col.		Texas Col.		false		false	-								
 2017	12424	1182	Louisiana Col.	09/17/2016	Texas Lutheran		Texas Lutheran		false		true	-								
@@ -1307,21 +1287,6 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1203	Mary Hardin-Baylor	11/05/2016	@ Belhaven		Belhaven		false		false	-								
 2017	12424	1203	Mary Hardin-Baylor	11/12/2016	Louisiana Col.		Louisiana Col.		false		true	-								
 2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry	973	Berry	http://stats.ncaa.org/team/973/12424	false		false	L 33 - 34	false	33 - 34	33	34	false		maryville-tn-berry#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/maryville-tn-berry#boxscore
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
-2017	12424	396	Maryville (TN)	09/03/2016	@ Berry		Berry		false		false	-								
 2017	12424	396	Maryville (TN)	09/10/2016	@ Hanover		Hanover		false		false	-								
 2017	12424	396	Maryville (TN)	09/17/2016	Emory & Henry		Emory & Henry		false		true	-								
 2017	12424	396	Maryville (TN)	10/01/2016	@ Methodist		Methodist		false		false	-								
@@ -1399,7 +1364,6 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	424	Millikin	11/05/2016	@ Elmhurst		Elmhurst		false		false	-								
 2017	12424	424	Millikin	11/12/2016	Ill. Wesleyan		Ill. Wesleyan		false		true	-								
 2017	12424	426	Millsaps	09/01/2016	@ Belhaven		Belhaven		false		false	-								
-2017	12424	426	Millsaps	09/01/2016	Belhaven	30197	Belhaven	http://stats.ncaa.org/team/30197/12424	false		true	L 25 - 28	false	25 - 28	25	28	false		belhaven-millsaps#boxscore	http://www.ncaa.com/game/football/d3/2016/09/01/belhaven-millsaps#boxscore
 2017	12424	426	Millsaps	09/10/2016	Trinity (TX)		Trinity (TX)		false		true	-								
 2017	12424	426	Millsaps	09/17/2016	@ Chicago		Chicago		false		false	-								
 2017	12424	426	Millsaps	09/24/2016	Hendrix		Hendrix		false		true	-								
@@ -1667,7 +1631,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	1297	Pacific Lutheran	10/29/2016	Puget Sound		Puget Sound		false		true	-								
 2017	12424	1297	Pacific Lutheran	11/05/2016	Lewis & Clark		Lewis & Clark		false		true	-								
 2017	12424	1297	Pacific Lutheran	11/12/2016	@ Linfield		Linfield		false		false	-								
-2017	12424	548	Plymouth St.	09/03/2016	@ Castleton	123	Castleton	http://stats.ncaa.org/team/123/12424	false		false	W 20 - 7	true	20 - 7	20	7	false		plymouth-st-castleton#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/plymouth-st-castleton#boxscore
+2017	12424	548	Plymouth St.	09/03/2016	@ Castleton		Castleton		false		false	-								
 2017	12424	548	Plymouth St.	09/10/2016	Mount Ida		Mount Ida		false		true	-								
 2017	12424	548	Plymouth St.	09/17/2016	@ Western Conn. St.		Western Conn. St.		false		false	-								
 2017	12424	548	Plymouth St.	09/24/2016	UMass Dartmouth		UMass Dartmouth		false		true	-								
@@ -1952,7 +1916,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	618	St. Scholastica	10/22/2016	@ Minn.-Morris		Minn.-Morris		false		false	-								
 2017	12424	618	St. Scholastica	10/29/2016	@ Westminster (MO)		Westminster (MO)		false		false	-								
 2017	12424	618	St. Scholastica	11/05/2016	Greenville		Greenville		false		true	-								
-2017	12424	620	St. Thomas (MN)	09/03/2016	@ Wis.-Eau Claire		Wis.-Eau Claire		false		false	-								
+2017	12424	620	St. Thomas (MN)	09/03/2016	@ Wis.-Eau Claire	793	Wis.-Eau Claire	http://stats.ncaa.org/team/793/12424	false		false	W 42 - 6	true	42 - 6	42	6	false		st-thomas-mn-wis-eau-claire#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/st-thomas-mn-wis-eau-claire#boxscore
 2017	12424	620	St. Thomas (MN)	09/10/2016	Wis.-Stout		Wis.-Stout		false		true	-								
 2017	12424	620	St. Thomas (MN)	09/17/2016	Carleton		Carleton		false		true	-								
 2017	12424	620	St. Thomas (MN)	09/24/2016	@ Saint John's (MN)		Saint John's (MN)		false		false	-								
@@ -2078,7 +2042,6 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	656	UMass Dartmouth	10/22/2016	Mass. Maritime		Mass. Maritime		false		true	-								
 2017	12424	656	UMass Dartmouth	10/29/2016	@ Western Conn. St.		Western Conn. St.		false		false	-								
 2017	12424	656	UMass Dartmouth	11/05/2016	Fitchburg St.		Fitchburg St.		false		true	-								
-2017	12424	727	Union (NY)	09/02/2016	@ Ithaca		Ithaca		false		false	-								
 2017	12424	727	Union (NY)	09/03/2016	@ Ithaca	313	Ithaca	http://stats.ncaa.org/team/313/12424	false		false	L 9 - 14	false	9 - 14	9	14	false		union-ny-ithaca#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/union-ny-ithaca#boxscore
 2017	12424	727	Union (NY)	09/10/2016	Western Conn. St.		Western Conn. St.		false		true	-								
 2017	12424	727	Union (NY)	09/17/2016	Western New Eng.		Western New Eng.		false		true	-								
@@ -2334,7 +2297,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	8911	Wis. Lutheran	10/29/2016	Benedictine (IL)		Benedictine (IL)		false		true	-								
 2017	12424	8911	Wis. Lutheran	11/05/2016	@ Kalamazoo		Kalamazoo		false		false	-								
 2017	12424	8911	Wis. Lutheran	11/12/2016	@ Concordia Chicago		Concordia Chicago		false		false	-								
-2017	12424	793	Wis.-Eau Claire	09/03/2016	St. Thomas (MN)		St. Thomas (MN)		false		true	-								
+2017	12424	793	Wis.-Eau Claire	09/03/2016	St. Thomas (MN)	620	St. Thomas (MN)	http://stats.ncaa.org/team/620/12424	false		true	L 6 - 42	false	6 - 42	6	42	false		st-thomas-mn-wis-eau-claire#boxscore	http://www.ncaa.com/game/football/d3/2016/09/03/st-thomas-mn-wis-eau-claire#boxscore
 2017	12424	793	Wis.-Eau Claire	09/10/2016	@ Concordia-M'head		Concordia-M'head		false		false	-								
 2017	12424	793	Wis.-Eau Claire	09/24/2016	@ Wis. Lutheran		Wis. Lutheran		false		false	-								
 2017	12424	793	Wis.-Eau Claire	10/01/2016	Wis.-Stevens Point		Wis.-Stevens Point		false		true	-								
