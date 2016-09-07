@@ -694,6 +694,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	439	Monmouth	10/29/2016	Kennesaw St.		Kennesaw St.		false		true	-								
 2017	12424	439	Monmouth	11/05/2016	@ Coastal Caro.		Coastal Caro.		false		false	-								
 2017	12424	439	Monmouth	11/19/2016	@ Gardner-Webb		Gardner-Webb		false		false	-								
+2017	12424	441	Montana	09/03/2016	@ Saint Francis (PA)		Saint Francis (PA)		false		false	-								
 2017	12424	441	Montana	09/03/2016	Saint Francis (PA)	600	Saint Francis (PA)	http://stats.ncaa.org/team/600/12424	false		true	W 41 - 31	true	41 - 31	41	31	false		saint-francis-pa-montana#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/saint-francis-pa-montana#boxscore
 2017	12424	441	Montana	09/10/2016	@ UNI		UNI		false		false	-								
 2017	12424	441	Montana	09/24/2016	@ Cal Poly		Cal Poly		false		false	-								
@@ -880,7 +881,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	550	Portland St.	11/05/2016	@ UC Davis		UC Davis		false		false	-								
 2017	12424	550	Portland St.	11/12/2016	@ Sacramento St.		Sacramento St.		false		false	-								
 2017	12424	550	Portland St.	11/18/2016	Eastern Wash.		Eastern Wash.		false		true	-								
-2017	12424	553	Prairie View	09/04/2016	@ Texas Southern		Texas Southern		false		false	-								
+2017	12424	553	Prairie View	09/04/2016	Texas Southern	699	Texas Southern	http://stats.ncaa.org/team/699/12424	false		true	-								
 2017	12424	553	Prairie View	09/10/2016	@ Texas A&M		Texas A&M		false		false	-								
 2017	12424	553	Prairie View	09/17/2016	@ Alabama A&M		Alabama A&M		false		false	-								
 2017	12424	553	Prairie View	09/24/2016	@ Mississippi Val.		Mississippi Val.		false		false	-								
@@ -957,6 +958,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	676	SFA	11/12/2016	@ Houston Baptist		Houston Baptist		false		false	-								
 2017	12424	676	SFA	11/19/2016	Northwestern St.		Northwestern St.		false		true	-								
 2017	12424	102	Sacramento St.	09/03/2016	Western Ore.	1446	Western Ore.	http://stats.ncaa.org/team/1446/12424	false		true	L 30 - 38	false	30 - 38	30	38	false		western-ore-sacramento-st#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/western-ore-sacramento-st#boxscore
+2017	12424	102	Sacramento St.	09/03/2016	@ Western Ore.		Western Ore.		false		false	-								
 2017	12424	102	Sacramento St.	09/10/2016	@ Fresno St.		Fresno St.		false		false	-								
 2017	12424	102	Sacramento St.	09/17/2016	@ Weber St.		Weber St.		false		false	-								
 2017	12424	102	Sacramento St.	09/24/2016	@ Idaho St.		Idaho St.		false		false	-								
@@ -978,6 +980,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	590	Sacred Heart	11/05/2016	@ Central Conn. St.		Central Conn. St.		false		false	-								
 2017	12424	590	Sacred Heart	11/12/2016	@ Duquesne		Duquesne		false		false	-								
 2017	12424	590	Sacred Heart	11/19/2016	Bryant		Bryant		false		true	-								
+2017	12424	600	Saint Francis (PA)	09/03/2016	@ Montana		Montana		false		false	-								
 2017	12424	600	Saint Francis (PA)	09/03/2016	@ Montana	441	Montana	http://stats.ncaa.org/team/441/12424	false		false	L 31 - 41	false	31 - 41	31	41	false		saint-francis-pa-montana#boxscore	http://www.ncaa.com/game/football/fcs/2016/09/03/saint-francis-pa-montana#boxscore
 2017	12424	600	Saint Francis (PA)	09/10/2016	@ Towson		Towson		false		false	-								
 2017	12424	600	Saint Francis (PA)	09/17/2016	@ Columbia		Columbia		false		false	-								
@@ -1075,7 +1078,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	654	Southeast Mo. St.	11/05/2016	Jacksonville St.		Jacksonville St.		false		true	-								
 2017	12424	654	Southeast Mo. St.	11/12/2016	@ UT Martin		UT Martin		false		false	-								
 2017	12424	654	Southeast Mo. St.	11/19/2016	Tennessee St.		Tennessee St.		false		true	-								
-2017	12424	655	Southeastern La.	09/03/2016	Oklahoma St.	521	Oklahoma St.	http://stats.ncaa.org/team/521/12424	false		true	-								
+2017	12424	655	Southeastern La.	09/03/2016	@ Oklahoma St.	521	Oklahoma St.	http://stats.ncaa.org/team/521/12424	false		false	L 7 - 61	false	7 - 61	7	61	false		southeastern-la-oklahoma-st#boxscore	http://www.ncaa.com/game/football/fbs/2016/09/03/southeastern-la-oklahoma-st#boxscore
 2017	12424	655	Southeastern La.	09/10/2016	@ Southern Utah		Southern Utah		false		false	-								
 2017	12424	655	Southeastern La.	09/24/2016	Northwestern St.		Northwestern St.		false		true	-								
 2017	12424	655	Southeastern La.	10/01/2016	@ Lamar University		Lamar University		false		false	-								
@@ -1163,7 +1166,7 @@ year	year_id	team_id	team_name	game_date	game_string	opponent_id	opponent_name	o
 2017	12424	692	Tennessee Tech	11/05/2016	@ Tennessee		Tennessee		false		false	-								
 2017	12424	692	Tennessee Tech	11/12/2016	@ Tennessee St.		Tennessee St.		false		false	-								
 2017	12424	692	Tennessee Tech	11/19/2016	Murray St.		Murray St.		false		true	-								
-2017	12424	699	Texas Southern	09/04/2016	@ Prairie View		Prairie View		false		false	-								
+2017	12424	699	Texas Southern	09/04/2016	Prairie View	553	Prairie View	http://stats.ncaa.org/team/553/12424	false		true	-								
 2017	12424	699	Texas Southern	09/10/2016	@ Houston Baptist		Houston Baptist		false		false	-								
 2017	12424	699	Texas Southern	09/17/2016	Mississippi Val.		Mississippi Val.		false		true	-								
 2017	12424	699	Texas Southern	09/24/2016	@ Alabama St.		Alabama St.		false		false	-								
