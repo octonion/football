@@ -17,7 +17,7 @@ year_path = '//*[@id="root"]/li[3]/ul/li/a'
 division_path = '//*[@id="root"]/li[5]/ul/li/a'
 #team_path = '//*[@id="contentArea"]/div[4]/div/table/tr/td[1]/table/tr[1]/td/a'
 
-team_path = '//*[@id="contentArea"]/div[4]/div/table/tr/td/table/tr/td/a'
+team_path = '//*[@id="contentarea"]/div[4]/div/table/tr/td/table/tr/td/a'
 
 ncaa_years = CSV.open("tsv/ncaa_years.tsv","w",{:col_sep => "\t"})
 ncaa_years_divisions = CSV.open("tsv/ncaa_years_divisions.tsv","w",{:col_sep => "\t"})
@@ -53,6 +53,10 @@ print "\nfound #{found_years} years\n"
 
 years.each do |year|
 
+  if (year<2014)
+    next
+  end
+
   sport_year_url = base_url+"?sport_code=#{sport_code}&academic_year=#{year}&division=&conf_id=-1&schedule_date="
   page2 = agent.get(sport_year_url)
 
@@ -81,10 +85,9 @@ years.each do |year|
       href = child.attributes["href"].text
       team_url = root_url+href
 
-      year_id = href.split("/")[-1].split("?")[0].to_i
+      year_id = href.split("/")[-1].to_i
 
-      parameters = CGI::parse(href.split("?")[1])
-      team_id = parameters["org_id"][0].to_i
+      team_id = href.split("/")[-2].to_i
 
       row = [sport_code, year, year_id, division,
              team_id, team_name, team_url]

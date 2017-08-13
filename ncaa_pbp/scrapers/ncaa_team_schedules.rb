@@ -20,7 +20,7 @@ retries = 4
 
 base_url = 'http://stats.ncaa.org'
 
-game_xpath = '//*[@id="contentArea"]/table/tr[2]/td[1]/table/tr[position()>2]'
+game_xpath = '//*[@id="contentarea"]/table/tr[2]/td[1]/table/tr[position()>2]'
 
 ncaa_teams = CSV.read("tsv/ncaa_teams_#{year}_#{division}.tsv","r",{:col_sep => "\t", :headers => TRUE})
 ncaa_team_schedules = CSV.open("tsv/ncaa_team_schedules_#{year}_#{division}.tsv","w",{:col_sep => "\t"})
@@ -121,11 +121,12 @@ teams.each_slice(tpt).with_index do |teams_slice,i|
               opponent_url = nil
             else
               link_url = link.attributes["href"].text
+
               parameters = link_url.split("/")[-1]
 
               # opponent_id
 
-              opponent_id = parameters.split("=")[1]
+              opponent_id = link_url.split("/")[-2]
 
               # opponent URL
 

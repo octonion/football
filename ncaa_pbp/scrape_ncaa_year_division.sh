@@ -7,6 +7,7 @@
 
 ./scrapers/ncaa_team_rosters.rb $1 $2
 
+# Needs to be properly generalized
 ./scrapers/ncaa_summaries.rb $1 $2
 
 ./scrapers/ncaa_team_schedules.rb $1 $2

@@ -19,8 +19,8 @@ retries = 4
 year = ARGV[0].to_i
 division = ARGV[1]
 
-#offset = 10761-10820
-offset = 0
+offset = 10978-10820
+#offset = 0
 
 yscs = [
   [10820,'rushing'],
@@ -83,8 +83,9 @@ yscs.each do |ysc|
     team_id = team[4]
     team_name = team[5]
 
-    stat_url = "http://stats.ncaa.org/team/stats/#{year_id}?org_id=#{team_id}&year_stat_category_id=#{ysc_id}"
-
+    stat_url = "http://stats.ncaa.org/team/#{team_id}/stats?id=#{year_id}&year_stat_category_id=#{ysc_id}"
+    
+    #http://stats.ncaa.org/team/721/stats?id=12424&year_stat_category_id=10979
     #http://stats.ncaa.org/team/stats/12240?org_id=519&year_stat_category_id=10820
 
     #print "Sleep #{sleep_time} ... "
