@@ -1,0 +1,132 @@
+sport_code	year	year_id	division_id	team_id	team_name	team_url
+MFB	2018	12623	11	721	Air Force	http://stats.ncaa.org/team/721/12623
+MFB	2018	12623	11	5	Akron	http://stats.ncaa.org/team/5/12623
+MFB	2018	12623	11	8	Alabama	http://stats.ncaa.org/team/8/12623
+MFB	2018	12623	11	27	Appalachian St.	http://stats.ncaa.org/team/27/12623
+MFB	2018	12623	11	29	Arizona	http://stats.ncaa.org/team/29/12623
+MFB	2018	12623	11	28	Arizona St.	http://stats.ncaa.org/team/28/12623
+MFB	2018	12623	11	31	Arkansas	http://stats.ncaa.org/team/31/12623
+MFB	2018	12623	11	30	Arkansas St.	http://stats.ncaa.org/team/30/12623
+MFB	2018	12623	11	725	Army West Point	http://stats.ncaa.org/team/725/12623
+MFB	2018	12623	11	37	Auburn	http://stats.ncaa.org/team/37/12623
+MFB	2018	12623	11	77	BYU	http://stats.ncaa.org/team/77/12623
+MFB	2018	12623	11	47	Ball St.	http://stats.ncaa.org/team/47/12623
+MFB	2018	12623	11	51	Baylor	http://stats.ncaa.org/team/51/12623
+MFB	2018	12623	11	66	Boise St.	http://stats.ncaa.org/team/66/12623
+MFB	2018	12623	11	67	Boston College	http://stats.ncaa.org/team/67/12623
+MFB	2018	12623	11	71	Bowling Green	http://stats.ncaa.org/team/71/12623
+MFB	2018	12623	11	86	Buffalo	http://stats.ncaa.org/team/86/12623
+MFB	2018	12623	11	107	California	http://stats.ncaa.org/team/107/12623
+MFB	2018	12623	11	129	Central Mich.	http://stats.ncaa.org/team/129/12623
+MFB	2018	12623	11	458	Charlotte	http://stats.ncaa.org/team/458/12623
+MFB	2018	12623	11	140	Cincinnati	http://stats.ncaa.org/team/140/12623
+MFB	2018	12623	11	147	Clemson	http://stats.ncaa.org/team/147/12623
+MFB	2018	12623	11	149	Coastal Caro.	http://stats.ncaa.org/team/149/12623
+MFB	2018	12623	11	157	Colorado	http://stats.ncaa.org/team/157/12623
+MFB	2018	12623	11	156	Colorado St.	http://stats.ncaa.org/team/156/12623
+MFB	2018	12623	11	193	Duke	http://stats.ncaa.org/team/193/12623
+MFB	2018	12623	11	196	East Carolina	http://stats.ncaa.org/team/196/12623
+MFB	2018	12623	11	204	Eastern Mich.	http://stats.ncaa.org/team/204/12623
+MFB	2018	12623	11	231	FIU	http://stats.ncaa.org/team/231/12623
+MFB	2018	12623	11	229	Fla. Atlantic	http://stats.ncaa.org/team/229/12623
+MFB	2018	12623	11	235	Florida	http://stats.ncaa.org/team/235/12623
+MFB	2018	12623	11	234	Florida St.	http://stats.ncaa.org/team/234/12623
+MFB	2018	12623	11	96	Fresno St.	http://stats.ncaa.org/team/96/12623
+MFB	2018	12623	11	253	Ga. Southern	http://stats.ncaa.org/team/253/12623
+MFB	2018	12623	11	257	Georgia	http://stats.ncaa.org/team/257/12623
+MFB	2018	12623	11	254	Georgia St.	http://stats.ncaa.org/team/254/12623
+MFB	2018	12623	11	255	Georgia Tech	http://stats.ncaa.org/team/255/12623
+MFB	2018	12623	11	277	Hawaii	http://stats.ncaa.org/team/277/12623
+MFB	2018	12623	11	288	Houston	http://stats.ncaa.org/team/288/12623
+MFB	2018	12623	11	295	Idaho	http://stats.ncaa.org/team/295/12623
+MFB	2018	12623	11	301	Illinois	http://stats.ncaa.org/team/301/12623
+MFB	2018	12623	11	306	Indiana	http://stats.ncaa.org/team/306/12623
+MFB	2018	12623	11	312	Iowa	http://stats.ncaa.org/team/312/12623
+MFB	2018	12623	11	311	Iowa St.	http://stats.ncaa.org/team/311/12623
+MFB	2018	12623	11	328	Kansas	http://stats.ncaa.org/team/328/12623
+MFB	2018	12623	11	327	Kansas St.	http://stats.ncaa.org/team/327/12623
+MFB	2018	12623	11	331	Kent St.	http://stats.ncaa.org/team/331/12623
+MFB	2018	12623	11	334	Kentucky	http://stats.ncaa.org/team/334/12623
+MFB	2018	12623	11	365	LSU	http://stats.ncaa.org/team/365/12623
+MFB	2018	12623	11	498	La.-Monroe	http://stats.ncaa.org/team/498/12623
+MFB	2018	12623	11	355	Liberty	http://stats.ncaa.org/team/355/12623
+MFB	2018	12623	11	671	Louisiana	http://stats.ncaa.org/team/671/12623
+MFB	2018	12623	11	366	Louisiana Tech	http://stats.ncaa.org/team/366/12623
+MFB	2018	12623	11	367	Louisville	http://stats.ncaa.org/team/367/12623
+MFB	2018	12623	11	388	Marshall	http://stats.ncaa.org/team/388/12623
+MFB	2018	12623	11	392	Maryland	http://stats.ncaa.org/team/392/12623
+MFB	2018	12623	11	400	Massachusetts	http://stats.ncaa.org/team/400/12623
+MFB	2018	12623	11	404	Memphis	http://stats.ncaa.org/team/404/12623
+MFB	2018	12623	11	415	Miami (FL)	http://stats.ncaa.org/team/415/12623
+MFB	2018	12623	11	414	Miami (OH)	http://stats.ncaa.org/team/414/12623
+MFB	2018	12623	11	418	Michigan	http://stats.ncaa.org/team/418/12623
+MFB	2018	12623	11	416	Michigan St.	http://stats.ncaa.org/team/416/12623
+MFB	2018	12623	11	419	Middle Tenn.	http://stats.ncaa.org/team/419/12623
+MFB	2018	12623	11	428	Minnesota	http://stats.ncaa.org/team/428/12623
+MFB	2018	12623	11	430	Mississippi St.	http://stats.ncaa.org/team/430/12623
+MFB	2018	12623	11	434	Missouri	http://stats.ncaa.org/team/434/12623
+MFB	2018	12623	11	490	NC State	http://stats.ncaa.org/team/490/12623
+MFB	2018	12623	11	726	Navy	http://stats.ncaa.org/team/726/12623
+MFB	2018	12623	11	463	Nebraska	http://stats.ncaa.org/team/463/12623
+MFB	2018	12623	11	466	Nevada	http://stats.ncaa.org/team/466/12623
+MFB	2018	12623	11	473	New Mexico	http://stats.ncaa.org/team/473/12623
+MFB	2018	12623	11	472	New Mexico St.	http://stats.ncaa.org/team/472/12623
+MFB	2018	12623	11	457	North Carolina	http://stats.ncaa.org/team/457/12623
+MFB	2018	12623	11	497	North Texas	http://stats.ncaa.org/team/497/12623
+MFB	2018	12623	11	503	Northern Ill.	http://stats.ncaa.org/team/503/12623
+MFB	2018	12623	11	509	Northwestern	http://stats.ncaa.org/team/509/12623
+MFB	2018	12623	11	513	Notre Dame	http://stats.ncaa.org/team/513/12623
+MFB	2018	12623	11	519	Ohio	http://stats.ncaa.org/team/519/12623
+MFB	2018	12623	11	518	Ohio St.	http://stats.ncaa.org/team/518/12623
+MFB	2018	12623	11	522	Oklahoma	http://stats.ncaa.org/team/522/12623
+MFB	2018	12623	11	521	Oklahoma St.	http://stats.ncaa.org/team/521/12623
+MFB	2018	12623	11	523	Old Dominion	http://stats.ncaa.org/team/523/12623
+MFB	2018	12623	11	433	Ole Miss	http://stats.ncaa.org/team/433/12623
+MFB	2018	12623	11	529	Oregon	http://stats.ncaa.org/team/529/12623
+MFB	2018	12623	11	528	Oregon St.	http://stats.ncaa.org/team/528/12623
+MFB	2018	12623	11	539	Penn St.	http://stats.ncaa.org/team/539/12623
+MFB	2018	12623	11	545	Pittsburgh	http://stats.ncaa.org/team/545/12623
+MFB	2018	12623	11	559	Purdue	http://stats.ncaa.org/team/559/12623
+MFB	2018	12623	11	574	Rice	http://stats.ncaa.org/team/574/12623
+MFB	2018	12623	11	587	Rutgers	http://stats.ncaa.org/team/587/12623
+MFB	2018	12623	11	663	SMU	http://stats.ncaa.org/team/663/12623
+MFB	2018	12623	11	626	San Diego St.	http://stats.ncaa.org/team/626/12623
+MFB	2018	12623	11	630	San Jose St.	http://stats.ncaa.org/team/630/12623
+MFB	2018	12623	11	646	South Ala.	http://stats.ncaa.org/team/646/12623
+MFB	2018	12623	11	648	South Carolina	http://stats.ncaa.org/team/648/12623
+MFB	2018	12623	11	651	South Fla.	http://stats.ncaa.org/team/651/12623
+MFB	2018	12623	11	657	Southern California	http://stats.ncaa.org/team/657/12623
+MFB	2018	12623	11	664	Southern Miss.	http://stats.ncaa.org/team/664/12623
+MFB	2018	12623	11	674	Stanford	http://stats.ncaa.org/team/674/12623
+MFB	2018	12623	11	688	Syracuse	http://stats.ncaa.org/team/688/12623
+MFB	2018	12623	11	698	TCU	http://stats.ncaa.org/team/698/12623
+MFB	2018	12623	11	690	Temple	http://stats.ncaa.org/team/690/12623
+MFB	2018	12623	11	694	Tennessee	http://stats.ncaa.org/team/694/12623
+MFB	2018	12623	11	703	Texas	http://stats.ncaa.org/team/703/12623
+MFB	2018	12623	11	697	Texas A&M	http://stats.ncaa.org/team/697/12623
+MFB	2018	12623	11	670	Texas St.	http://stats.ncaa.org/team/670/12623
+MFB	2018	12623	11	700	Texas Tech	http://stats.ncaa.org/team/700/12623
+MFB	2018	12623	11	709	Toledo	http://stats.ncaa.org/team/709/12623
+MFB	2018	12623	11	716	Troy	http://stats.ncaa.org/team/716/12623
+MFB	2018	12623	11	718	Tulane	http://stats.ncaa.org/team/718/12623
+MFB	2018	12623	11	719	Tulsa	http://stats.ncaa.org/team/719/12623
+MFB	2018	12623	11	9	UAB	http://stats.ncaa.org/team/9/12623
+MFB	2018	12623	11	128	UCF	http://stats.ncaa.org/team/128/12623
+MFB	2018	12623	11	110	UCLA	http://stats.ncaa.org/team/110/12623
+MFB	2018	12623	11	164	UConn	http://stats.ncaa.org/team/164/12623
+MFB	2018	12623	11	465	UNLV	http://stats.ncaa.org/team/465/12623
+MFB	2018	12623	11	704	UTEP	http://stats.ncaa.org/team/704/12623
+MFB	2018	12623	11	706	UTSA	http://stats.ncaa.org/team/706/12623
+MFB	2018	12623	11	732	Utah	http://stats.ncaa.org/team/732/12623
+MFB	2018	12623	11	731	Utah St.	http://stats.ncaa.org/team/731/12623
+MFB	2018	12623	11	736	Vanderbilt	http://stats.ncaa.org/team/736/12623
+MFB	2018	12623	11	746	Virginia	http://stats.ncaa.org/team/746/12623
+MFB	2018	12623	11	742	Virginia Tech	http://stats.ncaa.org/team/742/12623
+MFB	2018	12623	11	749	Wake Forest	http://stats.ncaa.org/team/749/12623
+MFB	2018	12623	11	756	Washington	http://stats.ncaa.org/team/756/12623
+MFB	2018	12623	11	754	Washington St.	http://stats.ncaa.org/team/754/12623
+MFB	2018	12623	11	768	West Virginia	http://stats.ncaa.org/team/768/12623
+MFB	2018	12623	11	772	Western Ky.	http://stats.ncaa.org/team/772/12623
+MFB	2018	12623	11	774	Western Mich.	http://stats.ncaa.org/team/774/12623
+MFB	2018	12623	11	796	Wisconsin	http://stats.ncaa.org/team/796/12623
+MFB	2018	12623	11	811	Wyoming	http://stats.ncaa.org/team/811/12623
