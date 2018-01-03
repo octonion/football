@@ -7,7 +7,6 @@ sbn$p <- log(sbn$p/s)
 
 model <- p ~ afc + nfc - 1
 
-
 fit <- lm(model, data=sbn)
 fit
 summary(fit)
