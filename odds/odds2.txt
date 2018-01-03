@@ -87,4 +87,3 @@ Type 'q()' to quit R.
 > sum(nf$p)
 [1] 1
 > 
-> 

@@ -27,4 +27,3 @@ af
 sum(af$p)
 nf
 sum(nf$p)
-
