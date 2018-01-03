@@ -1,0 +1,90 @@
+
+R version 3.3.2 (2016-10-31) -- "Sincere Pumpkin Patch"
+Copyright (C) 2016 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> sbn <- read.csv("sbn.csv")
+> 
+> sbn$p <- sbn$den/(sbn$den+sbn$num)
+> 
+> vig <- sum(sbn$p)
+> 
+> afc_teams <- unique(sbn$afc)
+> nfc_teams <- unique(sbn$nfc)
+> 
+> af <- data.frame()
+> for (team in afc_teams) {
++     v <- data.frame(team,"afc",sum(sbn$p[sbn$afc==team])/vig)
++     print(v)
++     af <- rbind(af,v)
++ }
+                  team X.afc. sum.sbn.p.sbn.afc....team...vig
+1 New England Patriots    afc                       0.5138983
+                 team X.afc. sum.sbn.p.sbn.afc....team...vig
+1 Pittsburgh Steelers    afc                        0.247593
+                  team X.afc. sum.sbn.p.sbn.afc....team...vig
+1 Jacksonville Jaguars    afc                      0.09718673
+                team X.afc. sum.sbn.p.sbn.afc....team...vig
+1 Kansas City Chiefs    afc                      0.09718673
+           team X.afc. sum.sbn.p.sbn.afc....team...vig
+1 Buffalo Bills    afc                      0.02206763
+              team X.afc. sum.sbn.p.sbn.afc....team...vig
+1 Tennessee Titans    afc                      0.02206763
+> colnames(af) <- c("team","conf","p")
+> 
+> nf <- data.frame()
+> for (team in nfc_teams) {
++     v <- data.frame(team,"nfc",sum(sbn$p[sbn$nfc==team])/vig)
++     print(v)
++     nf <- rbind(nf,v)
++ }
+             team X.nfc. sum.sbn.p.sbn.nfc....team...vig
+1 Atlanta Falcons    nfc                      0.07949454
+               team X.nfc. sum.sbn.p.sbn.nfc....team...vig
+1 Carolina Panthers    nfc                        0.101279
+              team X.nfc. sum.sbn.p.sbn.nfc....team...vig
+1 Los Angeles Rams    nfc                       0.1779204
+               team X.nfc. sum.sbn.p.sbn.nfc....team...vig
+1 Minnesota Vikings    nfc                       0.3100549
+                team X.nfc. sum.sbn.p.sbn.nfc....team...vig
+1 New Orleans Saints    nfc                       0.1779204
+                 team X.nfc. sum.sbn.p.sbn.nfc....team...vig
+1 Philadelphia Eagles    nfc                       0.1533307
+> colnames(nf) <- c("team","conf","p")
+> 
+> af
+                  team conf          p
+1 New England Patriots  afc 0.51389832
+2  Pittsburgh Steelers  afc 0.24759297
+3 Jacksonville Jaguars  afc 0.09718673
+4   Kansas City Chiefs  afc 0.09718673
+5        Buffalo Bills  afc 0.02206763
+6     Tennessee Titans  afc 0.02206763
+> sum(af$p)
+[1] 1
+> nf
+                 team conf          p
+1     Atlanta Falcons  nfc 0.07949454
+2   Carolina Panthers  nfc 0.10127897
+3    Los Angeles Rams  nfc 0.17792043
+4   Minnesota Vikings  nfc 0.31005489
+5  New Orleans Saints  nfc 0.17792043
+6 Philadelphia Eagles  nfc 0.15333073
+> sum(nf$p)
+[1] 1
+> 
+> 
