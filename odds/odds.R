@@ -1,6 +1,3 @@
-
-#library(lme4)
-
 sbn <- read.csv("sbn.csv")
 
 sbn$p <- sbn$den/(sbn$den+sbn$num)
