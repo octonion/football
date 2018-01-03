@@ -1,0 +1,112 @@
+
+R version 3.3.2 (2016-10-31) -- "Sincere Pumpkin Patch"
+Copyright (C) 2016 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
+> #library(lme4)
+> 
+> sbn <- read.csv("sbn.csv")
+> 
+> sbn$p <- sbn$den/(sbn$den+sbn$num)
+> 
+> s <- sum(sbn$p)
+> sbn$p <- log(sbn$p/s)
+> 
+> model <- p ~ afc + nfc - 1
+> 
+> 
+> fit <- lm(model, data=sbn)
+> fit
+
+Call:
+lm(formula = model, data = sbn)
+
+Coefficients:
+       afcBuffalo Bills  afcJacksonville Jaguars    afcKansas City Chiefs  
+                -6.3549                  -4.8631                  -4.8631  
+afcNew England Patriots   afcPittsburgh Steelers      afcTennessee Titans  
+                -3.1944                  -3.9328                  -6.3549  
+   nfcCarolina Panthers      nfcLos Angeles Rams     nfcMinnesota Vikings  
+                 0.2246                   0.8028                   1.3773  
+  nfcNew Orleans Saints   nfcPhiladelphia Eagles  
+                 0.8028                   0.6621  
+
+> summary(fit)
+
+Call:
+lm(formula = model, data = sbn)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.034365 -0.012508  0.001707  0.008344  0.032224 
+
+Coefficients:
+                        Estimate Std. Error t value Pr(>|t|)    
+afcBuffalo Bills        -6.35488    0.01091 -582.43   <2e-16 ***
+afcJacksonville Jaguars -4.86307    0.01091 -445.71   <2e-16 ***
+afcKansas City Chiefs   -4.86307    0.01091 -445.71   <2e-16 ***
+afcNew England Patriots -3.19438    0.01091 -292.77   <2e-16 ***
+afcPittsburgh Steelers  -3.93284    0.01091 -360.45   <2e-16 ***
+afcTennessee Titans     -6.35488    0.01091 -582.43   <2e-16 ***
+nfcCarolina Panthers     0.22464    0.01140   19.71   <2e-16 ***
+nfcLos Angeles Rams      0.80281    0.01140   70.45   <2e-16 ***
+nfcMinnesota Vikings     1.37732    0.01140  120.86   <2e-16 ***
+nfcNew Orleans Saints    0.80281    0.01140   70.45   <2e-16 ***
+nfcPhiladelphia Eagles   0.66213    0.01140   58.10   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.01974 on 25 degrees of freedom
+Multiple R-squared:      1,	Adjusted R-squared:      1 
+F-statistic: 1.67e+05 on 11 and 25 DF,  p-value: < 2.2e-16
+
+> 
+> c <- data.frame(exp(coef(fit)))
+> colnames(c) <- c("exp")
+> 
+> af <- data.frame(1.0)
+> rownames(af) <- c("nfcAtlanta Falcons")
+> colnames(af) <- c("exp")
+> 
+> c <- rbind(c,af)
+> 
+> afc <- subset(c,startsWith(row.names(c), "afc"))
+> nfc <- subset(c,startsWith(row.names(c), "nfc"))
+> 
+> afc$p <- afc$exp/sum(afc$exp)
+> nfc$p <- nfc$exp/sum(nfc$exp)
+> 
+> afc
+                                exp          p
+afcBuffalo Bills        0.001738247 0.02186201
+afcJacksonville Jaguars 0.007726747 0.09717965
+afcKansas City Chiefs   0.007726747 0.09717965
+afcNew England Patriots 0.040991975 0.51555795
+afcPittsburgh Steelers  0.019587965 0.24635873
+afcTennessee Titans     0.001738247 0.02186201
+> nfc
+                            exp          p
+nfcCarolina Panthers   1.251873 0.09920821
+nfcLos Angeles Rams    2.231802 0.17686540
+nfcMinnesota Vikings   3.964257 0.31415862
+nfcNew Orleans Saints  2.231802 0.17686540
+nfcPhiladelphia Eagles 1.938913 0.15365457
+nfcAtlanta Falcons     1.000000 0.07924780
+> 
+> 
+> 
