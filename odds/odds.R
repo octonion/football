@@ -29,5 +29,3 @@ nfc$p <- nfc$exp/sum(nfc$exp)
 
 afc
 nfc
-
-
