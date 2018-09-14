@@ -49,7 +49,7 @@
 31	Arkansas
 30	Arkansas St.
 947	Arkansas Tech
-33	Armstrong
+33	Armstrong St.
 725	Army West Point
 506427	Arnold
 506029	Asbury
@@ -58,14 +58,16 @@
 500260	Athens St.
 37	Auburn
 38	Augsburg
+39	Augusta
 40	Augustana (IL)
 41	Augustana (SD)
+30093	AUM
 42	Aurora
 953	Austin
 43	Austin Peay
 44	Averett
-500089	Azusa Pacific
 30146	Azusa Pacific
+500089	Azusa Pacific
 45	Babson
 506059	Baker
 46	Baldwin Wallace
@@ -80,6 +82,7 @@
 26520	Bay Path
 51	Baylor
 26107	Becker
+30197	Belhaven
 52	Bellarmine
 14927	Belmont
 2683	Belmont Abbey
@@ -89,6 +92,7 @@
 296	Benedictine (IL)
 14770	Bennett
 56	Bentley
+30171	Berea
 506023	Berea
 973	Berry
 506014	Bethany (KS)
@@ -100,9 +104,10 @@
 61	Bethune-Cookman
 62	Binghamton
 500515	Biola
+30220	Biola
 28593	Birmingham-So.
 506250	Biscayne
-506218	Bishop
+506218	Bishop's (CAN)
 506069	Black Hills St.
 30134	Black Hills St.
 64	Blackburn
@@ -149,10 +154,10 @@
 98	Cal St. East Bay
 97	Cal St. Fullerton
 100	Cal St. L.A.
-30055	Cal St. Monterey Bay
 506122	Cal St. Monterey Bay
+30055	Cal St. Monterey Bay
 93	Cal St. San B'dino
-103	Cal St. Stanislaus
+30198	Cal St. San Marcos
 995	Caldwell
 107	California
 106	California (PA)
@@ -172,7 +177,6 @@
 1000	Carson-Newman
 121	Carthage
 506094	Cascade
-122	Case
 123	Castleton
 1001	Catawba
 124	Catholic
@@ -211,7 +215,6 @@
 1015	Christian Bros.
 140	Cincinnati
 30087	Cincinnati-Clermont
-141	Citadel
 8580	City Tech
 500990	Claflin
 30058	Claflin
@@ -221,10 +224,12 @@
 145	Clark (MA)
 144	Clark Atlanta
 1020	Clarke
+958	Clarks Summit
 146	Clarkson
 20576	Clayton St.
 147	Clemson
 148	Cleveland St.
+451	CMSV
 722	Coast Guard
 149	Coastal Caro.
 30083	Cobleskill St.
@@ -237,15 +242,16 @@
 152	Colby-Sawyer
 153	Colgate
 11403	Colo. Christian
+155	Colo. Sch. of Mines
 157	Colorado
 154	Colorado Col.
 11416	Colorado Mesa
-155	Colorado Mines
 156	Colorado St.
 2720	Colorado St.-Pueblo
 158	Columbia
 159	Columbus St.
 1028	Concord
+30199	Concordia (CA)
 501120	Concordia (IN)
 501123	Concordia (MI)
 501130	Concordia (MO)
@@ -254,6 +260,7 @@
 162	Concordia (NY)
 24400	Concordia (TX)
 160	Concordia Chicago
+30200	Concordia Portland
 1036	Concordia Wisconsin
 161	Concordia-M'head
 9081	Concordia-St. Paul
@@ -270,18 +277,21 @@
 101	CSUN
 506032	Culver-Stockton
 170	Curry
+122	CWRU
 1059	D'Youville
 506446	D.C. Teachers
 30174	Daemen
 506033	Dakota Wesleyan
 1044	Dallas
-1045	Dallas Baptist
 506005	Dana
 2691	Daniel Webster
 172	Dartmouth
+30221	Davenport
 173	Davidson
 174	Davis & Elkins
 175	Dayton
+1045	DBU
+30219	Dean
 1050	Defiance
 180	Delaware
 178	Delaware St.
@@ -292,7 +302,7 @@
 176	DePaul
 177	DePauw
 20	DeSales
-184	Detroit
+184	Detroit Mercy
 185	Dickinson
 506123	Dickinson St.
 501365	Dillard
@@ -337,6 +347,7 @@
 213	Elmira
 532	Elms
 1068	Elon
+9680	Embry-Riddle (FL)
 214	Emerson
 30193	Emmanuel (GA)
 215	Emmanuel (MA)
@@ -381,8 +392,8 @@
 238	Framingham St.
 1085	Francis Marion
 30069	Franciscan
-239	Frank. & Marsh.
 2694	Franklin
+239	Franklin & Marshall
 241	Franklin Pierce
 242	Fredonia
 30147	Fresno Pacific
@@ -426,7 +437,6 @@
 1111	Greenville
 264	Grinnell
 265	Grove City
-39	GRU Augusta
 1112	Guilford
 266	Gust. Adolphus
 12399	Gwynedd Mercy
@@ -477,10 +487,10 @@
 502215	Huston-Tillotson
 295	Idaho
 294	Idaho St.
+30172	IIT
 502260	IIT
 502239	Ill. Central
 300	Ill. Wesleyan
-302	Ill.-Chicago
 30050	Ill.-Springfield
 506079	Ill.-Springfield
 301	Illinois
@@ -497,7 +507,6 @@
 311	Iowa St.
 506037	Iowa Wesleyan
 30173	Iowa Wesleyan
-308	IPFW
 313	Ithaca
 2699	IUPUI
 314	Jackson St.
@@ -506,12 +515,13 @@
 317	James Madison
 506057	Jamestown
 506004	Jarvis Christian
+543	Jefferson
 320	John Carroll
 321	John Jay
 322	Johns Hopkins
+30046	Johnson & Wales (CO)
 22626	Johnson & Wales (RI)
 323	Johnson C. Smith
-324	Johnson St.
 325	Juniata
 326	Kalamazoo
 506103	Kan. Wesleyan
@@ -537,7 +547,6 @@
 340	La Salle
 30043	La Sierra
 341	La Verne
-671	La.-Lafayette
 498	La.-Monroe
 342	Lafayette
 1162	LaGrange
@@ -545,7 +554,7 @@
 344	Lake Forest
 345	Lake Superior St.
 1164	Lakeland
-346	Lamar
+346	Lamar University
 1165	Lambuth
 30085	Lancaster Bible
 1167	Lander
@@ -585,6 +594,7 @@
 363	Longwood
 364	Loras
 506442	Los Angeles Pacific
+671	Louisiana
 1182	Louisiana Col.
 366	Louisiana Tech
 367	Louisville
@@ -598,10 +608,10 @@
 372	Luther
 373	Lycoming
 374	Lynchburg
-30065	Lyndon St.
 20794	Lynn
 376	Macalester
 377	MacMurray
+506110	Madison College
 380	Maine
 378	Maine Maritime
 30137	Malone
@@ -631,12 +641,12 @@
 399	Mass. Maritime
 400	Massachusetts
 773	McDaniel
-503037	McGill
-503040	McKendree
+503037	McGill (CAN)
 30138	McKendree
+503040	McKendree
 486	MCLA
 8530	McMurry
-402	McNeese St.
+402	McNeese
 506039	McPherson
 379	Me.-Farmington
 30040	Me.-Presque Isle
@@ -653,7 +663,6 @@
 410	Merrimack
 411	Messiah
 412	Methodist
-413	Metro St.
 415	Miami (FL)
 414	Miami (OH)
 506396	Miami Dade North JC
@@ -665,7 +674,6 @@
 420	Middlebury
 506060	Midland
 506398	Midwestern (IA)
-1222	Midwestern St.
 422	Miles
 423	Millersville
 503195	Milligan
@@ -674,11 +682,10 @@
 426	Millsaps
 797	Milwaukee
 427	Minn. Duluth
-383	Minn. St. Mankato
-1240	Minn. St. Moorhead
 27854	Minn.-Crookston
 1226	Minn.-Morris
 428	Minnesota
+383	Minnesota St.
 30125	Minot St.
 16142	Misericordia
 503245	Miss. Industrial
@@ -689,11 +696,11 @@
 435	Missouri S&T
 669	Missouri St.
 506068	Missouri Valley
+9013	Missouri Western
 398	MIT
 30042	Mitchell
 503262	Mo. Baptist
 9012	Mo. Southern St.
-9013	Mo. Western St.
 436	Mo.-St. Louis
 437	Molloy
 439	Monmouth
@@ -719,11 +726,13 @@
 1245	Mount Olive
 452	Mount Union
 20220	MSOE
+413	MSU Denver
+1240	MSU Moorhead
+1222	MSU Texas
 506043	Mt. Aloysius
 8567	Mt. St. Joseph
 1468	Mt. St. Mary (NY)
 450	Mt. St. Mary's
-451	Mt. St. Vincent
 453	Muhlenberg
 454	Murray St.
 455	Muskingum
@@ -735,6 +744,7 @@
 503430	Nasson
 726	Navy
 461	Nazareth
+490	NC State
 462	Neb. Wesleyan
 1156	Neb.-Kearney
 463	Nebraska
@@ -758,7 +768,6 @@
 485	Norfolk St.
 487	North Ala.
 457	North Carolina
-490	North Carolina St.
 492	North Central (IL)
 30039	North Central (MN)
 494	North Dakota
@@ -783,17 +792,19 @@
 1274	Northwest Nazarene
 509	Northwestern
 506072	Northwestern (IA)
-506013	Northwestern Okla.
 30178	Northwestern Okla.
+506013	Northwestern Okla.
 508	Northwestern St.
 30031	Northwestern-St.Paul
-510	Northwood (MI)
+510	Northwood
 511	Norwich
 513	Notre Dame
 8600	Notre Dame (MD)
 30126	Notre Dame (OH)
 30056	Notre Dame de Namur
 24639	Nova Southeastern
+324	NVU-Johnson
+30065	NVU-Lyndon
 1277	Nyack
 477	NYIT
 479	NYU
@@ -809,6 +820,7 @@
 15207	Ohio Valley
 520	Ohio Wesleyan
 503895	Okla. Baptist
+30202	Okla. Baptist
 30179	Okla. Christian
 24342	Okla. Panhandle
 522	Oklahoma
@@ -824,7 +836,7 @@
 528	Oregon St.
 500078	Oregon Tech
 530	Oswego St.
-506046	Ottawa
+506046	Ottawa (KS)
 531	Otterbein
 1289	Ouachita Baptist
 23008	Ozarks (AR)
@@ -844,8 +856,8 @@
 506252	Parsons
 504055	Paul Quinn
 540	Penn
-30190	Penn College
 506288	Penn College
+30190	Penn College
 539	Penn St.
 30081	Penn St. Harrisburg
 30114	Penn St.-Abington
@@ -856,7 +868,6 @@
 506235	Pershing
 506008	Peru St.
 542	Pfeiffer
-543	Philadelphia U.
 504115	Philander Smith
 21830	Piedmont
 504135	Pikeville
@@ -886,7 +897,9 @@
 557	Puget Sound
 30029	Purchase
 559	Purdue
-504255	Purdue-Calumet
+308	Purdue Fort Wayne
+504255	Purdue Northwest
+30222	Purdue Northwest
 506441	Quantico Marines
 11504	Queens (NC)
 560	Queens (NY)
@@ -945,13 +958,14 @@
 608	Saint Leo
 609	Saint Louis
 1343	Saint Martin's
+610	Saint Mary's (CA)
 612	Saint Mary's (MN)
 613	Saint Michael's
 617	Saint Peter's
 1347	Saint Rose
 30064	Saint Vincent
-30041	Salem
-19117	Salem Int'l
+30041	Salem (NC)
+19117	Salem (WV)
 621	Salem St.
 622	Salisbury
 623	Salve Regina
@@ -969,12 +983,13 @@
 16006	SCAD
 1355	Schreiner
 633	Scranton
-1356	Seattle
 634	Seattle Pacific
+1356	Seattle U
 635	Seton Hall
-504752	Seton Hill
 30063	Seton Hill
+504752	Seton Hill
 652	Sewanee
+676	SFA
 636	Shaw
 637	Shenandoah
 10870	Shepherd
@@ -994,7 +1009,7 @@
 644	Smith
 663	SMU
 645	Sonoma St.
-646	South Ala.
+646	South Alabama
 648	South Carolina
 647	South Carolina St.
 650	South Dakota
@@ -1035,8 +1050,8 @@
 26973	Spelman
 505040	Spring Arbor
 506256	Spring Garden
-505050	Spring Hill
 30191	Spring Hill
+505050	Spring Hill
 673	Springfield
 506002	St. Ambrose
 592	St. Andrews
@@ -1059,7 +1074,6 @@
 605	St. Joseph's (ME)
 607	St. Lawrence
 506064	St. Mary (KS)
-610	St. Mary's (CA)
 8688	St. Mary's (IN)
 611	St. Mary's (MD)
 1346	St. Mary's (TX)
@@ -1074,8 +1088,8 @@
 620	St. Thomas (MN)
 1348	St. Thomas Aquinas
 674	Stanford
+103	Stanislaus St.
 675	Staten Island
-676	Stephen F. Austin
 2756	Stephens College
 506073	Sterling (KS)
 678	Stetson
@@ -1088,7 +1102,6 @@
 683	Stony Brook
 684	Suffolk
 1390	Sul Ross St.
-958	Summit
 30165	SUNY Canton
 168	SUNY Cortland
 247	SUNY Geneseo
@@ -1127,10 +1140,10 @@
 700	Texas Tech
 1401	Texas Wesleyan
 701	Texas Woman's
-702	Texas-Arlington
 23121	Texas-Dallas
 30028	Texas-Tyler
 506226	Texas-Tyler
+141	The Citadel
 707	Thiel
 2758	Thomas (ME)
 1402	Thomas More
@@ -1165,6 +1178,7 @@
 128	UCF
 110	UCLA
 164	UConn
+302	UIC
 309	UIndy
 401	UMass Boston
 656	UMass Dartmouth
@@ -1173,8 +1187,8 @@
 393	UMES
 2707	UMKC
 456	UNC Asheville
+459	UNC Greensboro
 537	UNC Pembroke
-459	UNCG
 460	UNCW
 504	UNI
 506105	Union (KY)
@@ -1189,6 +1203,7 @@
 30140	Ursuline
 10411	USC Upstate
 28594	USciences
+702	UT Arlington
 695	UT Martin
 732	Utah
 731	Utah St.
@@ -1263,6 +1278,7 @@
 505184	Westmar
 1450	Westminster (MO)
 1451	Westminster (PA)
+30209	Westminster (UT)
 506139	Westminster (UT)
 505775	Westmont
 778	Wheaton (IL)

@@ -33,7 +33,8 @@ last_year = ARGV[1].to_i
 
     year_division_url = "http://stats.ncaa.org/team/inst_team_list?sport_code=MFB&academic_year=#{year}&division=#{division}&conf_id=-1&schedule_date="
 
-    valid_url_substring = "team/index/" ##{year_id}?org_id="
+    #valid_url_substring = "team/index/" ##{year_id}?org_id="
+    valid_url_substring = "/team/"
 
     print "\nRetrieving division #{division} schools for #{year} ... "
 
